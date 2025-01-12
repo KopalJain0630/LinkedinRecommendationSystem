@@ -1,0 +1,50 @@
+{
+    "city": "Kharagpur, West Bengal, India",
+    "position": "Software Developer",
+    "experience": null,
+    "education": [
+        {
+            "title": "University of Engineering and Management, kolkata",
+            "degree": "Bachelor of Technology - BTech",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Epam",
+            "start_year": "2020",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Andhra Higher Secondary School",
+            "degree": "WBCHSE 12th Degree",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Christopher Day School, Kharagpur",
+            "degree": "10th madhyamik",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"C Programming Language\"},{\"subtitle\":\"-\",\"title\":\"Career Edge - Knockdown the lockdown by TCS iON\"},{\"subtitle\":\"-\",\"title\":\"Collection Framework in Java\"},{\"subtitle\":\"-\",\"title\":\"Core Java\"},{\"subtitle\":\"-\",\"title\":\"Data Structures & Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems\"},{\"subtitle\":\"-\",\"title\":\"Digital Logic Designs\"},{\"subtitle\":\"-\",\"title\":\"Git: Become an expert in Git and GitHub\"},{\"subtitle\":\"-\",\"title\":\"HTML Crash Course\"},{\"subtitle\":\"-\",\"title\":\"HTML and CSS\"},{\"subtitle\":\"-\",\"title\":\"Java Swing\"},{\"subtitle\":\"95%\",\"title\":\"Java Training By Internshala\"},{\"subtitle\":\"-\",\"title\":\"Learn Git by Codecademy (Completed all Projects)\"},{\"subtitle\":\"-\",\"title\":\"Linux Command Line Tutorial for Beginners\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning by Dr. Andrew Park ( At UEM Kolkata)\"},{\"subtitle\":\"-\",\"title\":\"MySQL Database\"}]",
+    "certifications": null,
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

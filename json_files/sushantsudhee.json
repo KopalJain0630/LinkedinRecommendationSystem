@@ -1,0 +1,391 @@
+{
+    "id": "sushantsudhee",
+    "name": "Sushant Sudheendranath",
+    "city": "Stanford, California, United States",
+    "country_code": "US",
+    "position": "MBA Candidate at Stanford GSB",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Apple",
+        "company_id": "apple",
+        "title": "MBA Candidate at Stanford GSB"
+    },
+    "experience": [
+        {
+            "title": "AI/ML Strategy Intern",
+            "location": "Cupertino, California, United States",
+            "description_html": null,
+            "duration": "Jun 2024 Sep 2024 4 months",
+            "start_date": "Jun 2024",
+            "end_date": "Sep 2024",
+            "duration_short": "4 months",
+            "company": "Apple",
+            "company_id": "apple",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Pre MBA Intern, Corporate Development and Acquisitions",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Investments and acquisitions in mobile gaming across India and US.",
+            "description_html": "Investments and acquisitions in mobile gaming across India and US. <!---->",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Nazara Technologies Limited",
+            "company_id": "nazara-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "MSD",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "MSD",
+                    "meta": "Jun 2022 - Apr 2023 11 months",
+                    "description": "Leading the strategy office to develop MSD India's long term strategy and execute strategy projects. (MSD, known as Merck in US & Canada, is a ~$48 Bn pharmaceutical company with presence in over 130 countries)",
+                    "duration": "Jun 2022 Apr 2023 11 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "11 months",
+                    "title": "Head of Strategy & Operations (Associate Director)",
+                    "description_html": "Leading the strategy office to develop MSD India's long term strategy and execute strategy projects. <br><br>(MSD, known as Merck in US &amp; Canada, is a ~$48 Bn pharmaceutical company with presence in over 130 countries) <!---->"
+                },
+                {
+                    "subtitle": "MSD India",
+                    "meta": "May 2020 - Jun 2022 2 years 2 months",
+                    "description": "Leading cross-functional teams to design and implement strategic, high-priority projects for MSD India Region Managing Director and other senior leaders across Strategy, Operations, Communications, and Talent Acquisition.",
+                    "duration": "May 2020 Jun 2022 2 years 2 months",
+                    "start_date": "May 2020",
+                    "end_date": "Jun 2022",
+                    "duration_short": "2 years 2 months",
+                    "title": "Chief of Staff, MD's Office",
+                    "description_html": "Leading cross-functional teams to design and implement strategic, high-priority projects for MSD India Region Managing Director and other senior leaders across Strategy, Operations, Communications, and Talent Acquisition. <!---->"
+                }
+            ],
+            "company": "MSD",
+            "company_id": "msd-global",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Investment Analyst",
+            "location": "Bangalore",
+            "description": "~$3Bn India focused fund investing in consumer goods, growth stage tech and financial services markets - public & privateInvestment & portfolio management in SaaS, e-pharmacy, social e-commerce, conversational AI/chatbots and the Indian beauty & personal care market",
+            "description_html": "~$3Bn India focused fund investing in consumer goods, growth stage tech and financial services markets - public &amp; privateInvestment &amp; portfolio management in SaaS, e-pharmacy, social e-commerce, conversational AI/chatbots and the Indian beauty &amp; personal care market <!---->",
+            "duration": "Jul 2019 May 2020 11 months",
+            "start_date": "Jul 2019",
+            "end_date": "May 2020",
+            "duration_short": "11 months",
+            "company": "WestBridge Capital",
+            "company_id": "westbridgecapital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst",
+            "location": "Mumbai Area, India",
+            "description": "Post merger integration in the chemicals and agriculture sector on identifying and estimating value of cost synergies; Operational efficiency improvement and cost reduction using advanced analytics at India's leading paper and pulp company",
+            "description_html": "Post merger integration in the chemicals and agriculture sector on identifying and estimating value of cost synergies; Operational efficiency improvement and cost reduction using advanced analytics at India's leading paper and pulp company <!---->",
+            "duration": "Aug 2018 Jul 2019 1 year",
+            "start_date": "Aug 2018",
+            "end_date": "Jul 2019",
+            "duration_short": "1 year",
+            "company": "McKinsey & Company",
+            "company_id": "mckinsey",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Business Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Cost optimization for leading consumer goods player in India ($5B topline)",
+            "description_html": "Cost optimization for leading consumer goods player in India ($5B topline) <!---->",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "Kearney",
+            "company_id": "kearney",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Supply Chain Intern",
+            "location": "Mumbai, Colombo",
+            "description": "De-bottlenecking and overall efficiency improvement for Unilever Sri Lanka's Lifebuoy soap manufacturing plant. 1/30 undergrad students selected for Unilever's flagship Future Leaders Internship (ULIP) from India.",
+            "description_html": "De-bottlenecking and overall efficiency improvement for Unilever Sri Lanka's Lifebuoy soap manufacturing plant. 1/30 undergrad students selected for Unilever's flagship Future Leaders Internship (ULIP) from India. <!---->",
+            "duration": "May 2016 Jul 2016 3 months",
+            "start_date": "May 2016",
+            "end_date": "Jul 2016",
+            "duration_short": "3 months",
+            "company": "Unilever",
+            "company_id": "unilever",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Supply Chain Intern",
+            "location": "Baddi, Himachal Pradesh, India",
+            "description": "Line optimization, efficiency improvement and manpower reduction in ITC's gel based soap production factory.",
+            "description_html": "Line optimization, efficiency improvement and manpower reduction in ITC's gel based soap production factory. <!---->",
+            "duration": "May 2015 Jul 2015 3 months",
+            "start_date": "May 2015",
+            "end_date": "Jul 2015",
+            "duration_short": "3 months",
+            "company": "ITC Limited",
+            "company_id": "itc-limited",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rajan Gupta",
+            "about": null,
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Mahanya K.",
+            "about": "Penn State Finance | Strategy, Operations & Growth | Ex- Deloitte US",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Amrita Agnihotri",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Kumar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Khushy Aggarwal",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Devi Nachiappan",
+            "about": null,
+            "location": "Warren, NJ"
+        },
+        {
+            "profile_link": "",
+            "name": "Avani Singh",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Adarsh Kanodia",
+            "about": "IIM Lucknow’25 | Ex-United Airlines | Hansraj’21",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nidhi Sand",
+            "about": null,
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjay Bhanushali",
+            "about": "Partner at Heramb Management Consulting LLP",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Stanford University Graduate School of Business",
+    "education": [
+        {
+            "title": "Stanford University Graduate School of Business",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": "GMAT: 790/800 (Q50, V51)",
+            "description_html": "GMAT: 790/800 (Q50, V51) <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech + M.Tech (Dual Degree)",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2018",
+            "description": "Activities and Societies: Student Placement Co-Ordinator, Career Development Centre; Sponsorship & Marketing Head, Spring Fest Internships: Consulting Intern, Kearney (2017); Intern, Unilever Leaders' Internship Program (2016); Supply Chain Intern, ITC (2015)",
+            "description_html": "Activities and Societies: Student Placement Co-Ordinator, Career Development Centre; Sponsorship &amp; Marketing Head, Spring Fest Internships: Consulting Intern, Kearney (2017); Intern, Unilever Leaders' Internship Program (2016); Supply Chain Intern, ITC (2015)",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 6859.0,
+    "connections": 500.0,
+    "current_company_company_id": "apple",
+    "current_company_name": "Apple",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Stanford",
+    "linkedin_id": "sushantsudhee",
+    "activity": [
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "📊 Number of unicorns founded by year: the patterns in unicorn formation. In the late 1990s, 20-30 future unicorns were founded yearly, which grew…",
+            "img": "",
+            "id": "7277745294757318656"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "The Amazon founder sold nearly $14 billion worth of Amazon stock so far in 2024–more than any other U.S. billionaire. Here’s why he paid $1 billion…",
+            "img": "",
+            "id": "1"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "\"Am I speaking with a robot?\" 🤖 Amazon: \"No, this is a real human here\" 👏😂 On a serious note, maybe Ankur is just a passionate front-end…",
+            "img": "",
+            "id": "7274803212178640896"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "History made that may never be overwritten. At 18 years, D Gukesh became the youngest chess champion and shattered Gary Kasparov’s record by four…",
+            "img": "",
+            "id": "7273125210105507840"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Had the chance to play several incredible new games over the weekend: 🎮 Marvel Rivals from NetEase Games is setting Steam records and looks to be…",
+            "img": "",
+            "id": "7272298985317400576"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Your rejections speaks higher. Today Zomato Rejected me for their Chief of Staff Role. #zomato",
+            "img": "",
+            "id": "7272223890263687168"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "In August, Alex Cooper signed a $125 million three-year deal with SiriusXM to bring her Unwell Network of five podcasts to the 34 million…",
+            "img": "",
+            "id": "7270980481435762689"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Great audience at #AWSreInvent today! Thanks to everyone who tuned in, and to our awesome customers who joined me on stage. Benoit Dupin from Apple…",
+            "img": "",
+            "id": "7269902825143312384"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Braskem believes that disruptive innovation is the path to achieving sustainability. In this regard, the company has identified the bio-revolution of…",
+            "img": "",
+            "id": "7259184365983682560"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "💲Pokémon TCG has earned $100 million in IAP revenue just three weeks after launching globally. I took a closer look at how their in-game shop is…",
+            "img": "",
+            "id": "100"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "In the morning, I was shopping on Blinkit and Zepto simultaneously. Both being quick comm platforms, promise speed and convenience, but here’s what…",
+            "img": "",
+            "id": "7264147009576521728"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Note to self: please return calls .. lol #SwiggyIPO",
+            "img": "",
+            "id": "7262680429726511104"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Stanford GSB and HBS Lead in Producing Unicorn Founders in the US Stanford University Graduate School of Business leads with an impressive 5.7…",
+            "img": "",
+            "id": "7261754708984250368"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Streamline your integration workflow with our flexible, easy-to-use tools, APIs, and SDKs—saving you time and effort. ​",
+            "img": "",
+            "id": "7241898888805171200"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "We’re offline! 🥂 This is a very emotional post for me to write down. Having started Culture Circle roughly a year back, our main goal was to…",
+            "img": "",
+            "id": "7256965455515377664"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "MBB Career Progression Becoming a partner at these firms usually takes 8-10 years. Personally, I find the naming conventions quite confusing. For…",
+            "img": "",
+            "id": "7258153477288132608"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "So excited to share that we’ve launched new research at Resemble AI focused on spotting deepfakes using both audio and video clues! This is a big…",
+            "img": "",
+            "id": "7257455728217522176"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Perplexity is known for its good brand design and attracted fans. A lot of people have asked for being able to buy Perplexity merch. Starting today…",
+            "img": "",
+            "id": "7257429203543891970"
+        },
+        {
+            "interaction": "Liked by Sushant Sudheendranath",
+            "link": "",
+            "title": "Netflix noticed a strange performance issue in 2022: Some nodes in their cluster had much higher CPU utilization than others, despite identical…",
+            "img": "",
+            "id": "7252725075399847937"
+        }
+    ],
+    "linkedin_num_id": 335950003.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "city": "Gurgaon, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",  ()",
+            "start_year": "2012",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",   ()",
+            "start_year": "2010",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2016",
+            "subtitle": "CyberEye Research Labs & Security Solutions Pvt. Ltd.",
+            "title": "Cyber Security"
+        },
+        {
+            "meta": "Issued Feb 2014",
+            "subtitle": "D3 Labs",
+            "title": "Ethical Hacking"
+        },
+        {
+            "subtitle": "edX",
+            "title": "Analytics Edge"
+        },
+        {
+            "meta": "Credential ID 37307594908c5d78b6b5e8b2891b5ed356605b30See credential",
+            "subtitle": "DataCamp",
+            "title": "Data Exploration With Kaggle Scripts"
+        },
+        {
+            "subtitle": "edX",
+            "title": "Introduction to Python Programming"
+        },
+        {
+            "meta": "Credential ID e481febbe7ba34966906e7b7a9dce46d7454f378See credential",
+            "subtitle": "DataCamp",
+            "title": "Introduction to R"
+        },
+        {
+            "subtitle": "Udacity",
+            "title": "Machine Learning"
+        }
+    ],
+    "current_company_name": "IDFC FIRST Bank",
+    "publications": "[{\"title\":\"2nd International Conference on Financial Markets and Corporate Finance | Jul'17\",\"subtitle\":\"Vinod Gupta School of Management\",\"description\":\"Corporate Credit Default Prediction Via Ensemble learning:•Developed default prediction model using ANN, XGBoost and H2O GBM algorithms and compared them with Accuracy and AUC scores•Increased model accuracy to 92% by using conceptualized ensemble technique on 180+ distressed companies dataset\"},{\"title\":\"6th International Conference On Emerging Trends In Finance and Banking | Aug'17\",\"subtitle\":\"SDM Institute for Management Development\",\"description\":\"Improving Volatility Forecasts of GARCH Family Models:•Enhanced forecasting performance of ARCH/GARCH family models with RNN model to evaluate the volatility of daily returns of NSE•Decreased RMSE value (TGARCH 13%, EGARCH 14%) by analyzing Recurrent Neural Network based on multilayer preceptrons\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Machine Learning Challenge 2 | Funding Successful Projects | 29th Rank\",\"start_date\":\"Jun 2017\",\"end_date\":\"Jun 2017\",\"description\":\"- The task of this challenge was to predict if a project will get successfully funded or not.- Built a LightGBM machine learning model and achieved 29th rank among 4591 participants.\"},{\"title\":\"AvdatafestRampaging-Datahulk | 19th-Rank\",\"start_date\":\"Apr 2017\",\"end_date\":\"Apr 2017\",\"description\":\"- The task for this challenge was to predict probability whether the price for a particular stock at the tomorrow’s market close will be higher(1) or lower(0) compared to the price at today’s market close- Built an XGBoost machine learning model and achieved 19th rank among 1498 participants.\"},{\"title\":\"Machine Learning Challenge 1 | Bank Fears Loanliness | 25th Rank\",\"start_date\":\"Mar 2017\",\"end_date\":\"Mar 2017\",\"description\":\"- The Machine learning challenge was based on Hackerearth to predict the probability that a member will default and to figure out a way to find these defaulters and devise a plan to reduce them.- Checked correlation and removed correlated variables like funded_amnt and funded_amnt_inv.- Checked the skewness of features by ggplot and removed the skewness by taking Log transfromations of that variables .- Applied H2o Gradient Boosting(GBM) and achieved the 0.937 AUC score on private leaderboard .- Improved the AUC score by using Xgboost algorithm with cross validation and achieved 0.974 score on leaderboard- Achieved 25th rank among 2400 participants on private leaderboard of Hackerearth.\"},{\"title\":\"Data Tales-Beyond Infinity, Great Lake Institute of Management, Chennai, 3rd Rank\",\"start_date\":\"Jan 2017\",\"end_date\":\"Jan 2017\",\"description\":\"- Cleared Round-1 based on Machine learning quiz and secured 11th rank out of 188 participants.- Cleared Round-2 based on Machine learning case study and predicted the obtained leads. Achieved a RMSE Score 1.293969 by applying GBM model and secured 3rd rank on private leaderboard. - Presented our model and solution in Great Lake Institute of Management, Chennai on 27th Jan, 2017.\"},{\"title\":\"Ultimate Student’s Hunt – A Machine Learning Competition, Analytics Vidhya | 9th Rank\",\"start_date\":\"Oct 2016\",\"end_date\":\"Oct 2016\",\"description\":\"Overview-• Problem was based on Analytics Vidhya to predict how many people will come to a park on particular day in country Gardenia• The training dataset was for period Sep’1990 to Dec’2001 and testing dataset was for period Jan’2002 to Dec’2005Specifies-• The data was full of missing values, used aggr function which showed some variables with <10% of data and some variables with 27% and 35% of missing values respectively• Replaced the missing values with -999 and also splitted the Date variable to Day, Month and Year and removed the variables like Park ID, ID, Location Type from the complete dataset• Splitted the complete dataset in train and test data and applied Gradient Boost Model upon it giving an iteration 5000 trees and achieved RMSE score 120.08 on test data• Performed some feature engineering by creating some new variables, splitted the complete dataset in train and test data and applied Xtreme Gradient Boost Model for tuned parameters and achieved RMSE score 115.86 on test data• ANN Model was trained after imputing the missing values of the combined test and train by using mice package and used cross validation method to tuned the parameters and achieved RMSE score 124.41 on test data• For better accuracy and low rmse score we ensembled the XGB, ANN model and achieved RMSE score 114.23 on test data• Then we ensembled the individual GBM model with already ensembled ANN and XGB model and achieved best score 113.27 on test data• Achieved 9 th rank among 1500 participants on private leader board of Analytics Vidhya\"},{\"title\":\"Inter Hall Data Analytics | Gold | IIT Kharagpur\",\"start_date\":\"Mar 2016\",\"end_date\":\"Mar 2016\",\"description\":\"Overview•Problem was based on monitor the performance of 10 popular Deodorants available in the market through a survey•The dataset consisted of 15217 rows combined for all 10 deodorants with 174 total variables including target variable and instant liking.Specifies•Key Performance, Fragrance Attributes, Addiction, Associations & Appropriateness, Respondent Demographics measures were used on Tableau Dashboard•Prepared an interactive Dashboard to see the performance of 10 popular Deodorants on Tableau software•Developed a model that will predict the Instant Liking, along with its probability on a scale of 1-7, for the following Deodorants:-B,F,G,H,J•For feature selection, we used the Boruta Feature Selection Algorithm, Forward Selection & Backward Elimination Algorithm, Random Forest Feature Importance Method\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Gold in InterHall Data Analytics, RP Hall, IIT Kharagpur",
+            "publication": "Data Analytics General Championship",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Discipline Award in 9th Class.",
+            "publication": "Sharda Bal Niketan School, Degana",
+            "date": "2009-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Merit in 8th Class",
+            "publication": "Gayatri Bal Niketan School, Degana",
+            "date": "2008-06-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

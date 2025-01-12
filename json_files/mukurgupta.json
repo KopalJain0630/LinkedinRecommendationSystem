@@ -1,0 +1,265 @@
+{
+    "id": "mukurgupta",
+    "name": "Mukur Gupta",
+    "city": "New York, New York, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I am a Computer Science Graduate student at Columbia University with a focus on Machine…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Columbia University"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "DARPAN VIRMANI",
+            "about": "Hardware Design Engineer | Embedded Systems, FPGA, Battery Management Systems| Don’t wait, Automate",
+            "location": "San Jose, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Kumar",
+            "about": "Research And Development Engineer at Murata Machinery Limited. (Japanese Multinational)",
+            "location": "Kyoto"
+        },
+        {
+            "profile_link": "",
+            "name": "Janpreet Singh",
+            "about": "Assistant Professor and Head of Department , School of Computer Science & Engineering at Lovely Professional University",
+            "location": "Hoshiarpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr. Amarsinh V. Vidhate",
+            "about": "Prof. & Head (Dept. of Computer Engg ) || Chairman, Training & Placement Office) at Ramrao Adik Inst of Tech, under the ambit of D.Y.Patil Deemed to be University, Navi Mumbai",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Punyaban Patel Ph.D(CSE), FIE, FISRD, PGDBM(NMIMS)",
+            "about": "Professor at CMR College of Engineering & Technology",
+            "location": "Odisha, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ranjana Kasangeri",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr. Shashank Joshi",
+            "about": "Ex-Dean, Faculty of Engineering and Technology, Bharati Vidyapeeth Deemed University, Pune",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Kamal",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kushal Vijay",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Kiranmayee Rongali",
+            "about": "Top PM Fellow at NextLeap | MC Delivery Associate at Accenture Strategy | McKinsey NGWL'22 | IIT Kharagpur'22",
+            "location": "Andhra Pradesh, India"
+        }
+    ],
+    "educations_details": "Columbia University",
+    "education": [
+        {
+            "title": "Columbia University",
+            "url": "",
+            "start_year": "2023-07",
+            "end_year": "2024-12",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2009",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " French "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Japanese "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " German "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Dec 2019 - Jan 2020 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Jan 2020",
+            "info": "I volunteered towards UN’s SDG-4 (Quality Education) by introducing new learning methods in Vietnam. I formulated expansion strategies to boost English education awareness resulting in an 80% surge in the number of registered students.",
+            "start_date": "Dec 2019",
+            "subtitle": "FingerPrint Education, HanoiI",
+            "title": "Global Volunteer"
+        },
+        {
+            "duration": "Feb 2019 - Feb 2020 · 1 year 1 month",
+            "duration_short": "1 year 1 month",
+            "end_date": "Feb 2020",
+            "start_date": "Feb 2019",
+            "subtitle": "AIESEC in India",
+            "title": "Vice President, Business Development"
+        },
+        {
+            "duration": "Aug 2018 - Apr 2019 · 9 months",
+            "duration_short": "9 months",
+            "end_date": "Apr 2019",
+            "start_date": "Aug 2018",
+            "subtitle": "Technology Students'​ Gymkhana, IIT Kharagpur",
+            "title": "Council Member, Sports and Games Committee"
+        }
+    ],
+    "followers": 6459.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "Columbia University",
+    "publications": "[{\"title\":\"CodeSCM: Causal Analysis for Multi-Modal Code Generation\",\"subtitle\":\"CALM@ NeurIPS 2024\",\"date\":\"November 1, 2024\",\"description\":\"In this paper, we propose CodeSCM, a Structural Causal Model (SCM) for analyzing multi-modal code generation using large language models (LLMs). By applying interventions to CodeSCM, we define the causal effects of different prompt modalities, such as natural language, code, and input-output examples, on the model. CodeSCM introduces latent mediator variables to separate the code and natural language semantics of a multi-modal prompt. Using the principles of Causal Mediation Analysis on these mediators, we define direct effects through targeted interventions, quantitatively representing the model's spurious leanings. We find that, in addition to natural language instructions, input-output examples significantly influence model generation, and total causal effects evaluations from CodeSCM also reveal the memorization of code generation benchmarks.\"},{\"title\":\"Intent Detection and Entity Extraction from BioMedical Literature\",\"subtitle\":\"LREC-COLING 2024 - Joint International Conference on Computational Linguistics, Language Resources and Evaluation\",\"date\":\"May 22, 2024\"},{\"title\":\"Avenues in IoT with advances in Artificial Intelligence\",\"subtitle\":\"International Conference on Pervasive Computing and Communications (PerCom 2024)\",\"date\":\"March 11, 2024\"},{\"title\":\"TSO: Curriculum Generation using continuous optimization\",\"date\":\"June 14, 2021\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "New York",
+    "linkedin_id": "mukurgupta",
+    "activity": [
+        {
+            "interaction": "Liked by Mukur Gupta",
+            "link": "",
+            "title": "Engaged in a lively conversation with young startup founders who are alumni of my alma mater in an informal setting on trends transforming the…",
+            "img": "",
+            "id": "7276613829533356032"
+        },
+        {
+            "interaction": "Shared by Mukur Gupta",
+            "link": "",
+            "title": "An ocean of incredible papers, inspiring conversations with brilliant minds from industry and academia, exploring Vancouver with new friends, and…",
+            "img": "",
+            "id": "7275586372017557506"
+        },
+        {
+            "interaction": "Liked by Mukur Gupta",
+            "link": "",
+            "title": "Selfie with the crowd at the Meta recruiting event at #NeurIPS2024",
+            "img": "",
+            "id": "7273480736022634496"
+        },
+        {
+            "interaction": "Liked by Mukur Gupta",
+            "link": "",
+            "title": "People are missing the point! 🤷 Ilya Sutskever's #NeurIPS2024 talk was not just about \"running out of data\"—it was a critical call to rethink our…",
+            "img": "",
+            "id": "7274800530013478912"
+        },
+        {
+            "interaction": "Liked by Mukur Gupta",
+            "link": "",
+            "title": "‪“Pre-training will end, as we know it… Data is the fossil fuel of AI”‬ Listening to Ilya Sutskever at #NeurIPS for the test of the time award for…",
+            "img": "",
+            "id": "7273460689921290240"
+        },
+        {
+            "interaction": "Shared by Mukur Gupta",
+            "link": "",
+            "title": "‪“Pre-training will end, as we know it… Data is the fossil fuel of AI”‬ Listening to Ilya Sutskever at #NeurIPS for the test of the time award for…",
+            "img": "",
+            "id": "7273460689921290240"
+        },
+        {
+            "interaction": "Liked by Mukur Gupta",
+            "link": "",
+            "title": "Excited to share the incredible journey of our capstone project! Over the past 8 weeks, my teammates Shikhar Johri, Akshit Bhalla, Harmeet Singh…",
+            "img": "",
+            "id": "7272642265666273280"
+        },
+        {
+            "interaction": "Liked by Mukur Gupta",
+            "link": "",
+            "title": "I'll be at #NeurIPS2024 from Dec 10-13. Several of my team members will also be there, presenting work on graph ML and transformers: 1/ How Does…",
+            "img": "",
+            "id": "7271997584712327171"
+        },
+        {
+            "interaction": "Liked by Mukur Gupta",
+            "link": "",
+            "title": "Heading to NeurIPS (Tuesday-Friday) and looking to connect with talented researchers in Data and Algorithms Generative AI! My team is hiring for…",
+            "img": "",
+            "id": "7271899680521732098"
+        },
+        {
+            "interaction": "Liked by Mukur Gupta",
+            "link": "",
+            "title": "Drop by our poster in East Exhibition Hall C on 14th December if you are coming to NeurIPS 🙂 Hit me up, if you are interested in discussing code…",
+            "img": "",
+            "id": "7271699005703696384"
+        }
+    ],
+    "linkedin_num_id": 595981511.0,
+    "honors_and_awards": [
+        {
+            "title": "Department rank 1 (Highest CGPA holder in the stream)",
+            "publication": "IIT Kharagpur",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Bronze Medal, Inter IIT Tech Meet 2021",
+            "publication": "IIT Guwahati",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "National finalisit at AbInBev Maverick Hackathon-2020",
+            "publication": "-",
+            "date": "2020-06-01T00:00:00.000Z",
+            "description": ""
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,64 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2022",
+            "subtitle": "NextLeap",
+            "title": "Associate Product Manager Fellowship "
+        },
+        {
+            "meta": "Issued Jun 2021",
+            "subtitle": "Doremon Den",
+            "title": "Product Management Bootcamp"
+        },
+        {
+            "meta": "Issued Jan 2021Credential ID UC-9da85fe7-0378-46d9-a33e-e2d13947b44f",
+            "subtitle": "Udemy",
+            "title": "Python for Data Science and Machine Learning Bootcamp"
+        },
+        {
+            "meta": "Issued Oct 2020",
+            "subtitle": "Udemy",
+            "title": "Microsoft Excel - Excel from Beginner to Advanced"
+        },
+        {
+            "meta": "Issued Apr 2021Expires Apr 2024",
+            "subtitle": "Google",
+            "title": "Google Analytics"
+        }
+    ],
+    "current_company_name": "Axtria - Ingenious Insights",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "HiFlyer - Achievers Award",
+            "publication": "Infosys Ltd.",
+            "date": "2020-07-01T00:00:00.000Z",
+            "description": "Awarded with HiFlyer - Achievers Award for being an excellent Role model who created and led an immensely self-sufficient team that created Account/unit/Org level impact"
+        }
+    ]
+}

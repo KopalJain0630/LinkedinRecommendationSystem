@@ -1,0 +1,87 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "INSEAD MBA | IIT Kanpur",
+    "experience": [
+        {
+            "title": "Academic Break",
+            "location": "Fontainebleau, Île-de-France, France",
+            "description": "Pursued MBA from INSEAD",
+            "description_html": "Pursued MBA from INSEAD <!---->",
+            "duration": "Aug 2023 Jun 2024 11 months",
+            "start_date": "Aug 2023",
+            "end_date": "Jun 2024",
+            "duration_short": "11 months",
+            "company": "INSEAD",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-Founder",
+            "description": "Edtech platform to teach musical instruments to kids online. Raised a Seed round, expanded to three geographies, but couldn't achieve the desired growth.",
+            "description_html": "Edtech platform to teach musical instruments to kids online. Raised a Seed round, expanded to three geographies, but couldn't achieve the desired growth. <!---->",
+            "duration": "Nov 2020 May 2023 2 years 7 months",
+            "start_date": "Nov 2020",
+            "end_date": "May 2023",
+            "duration_short": "2 years 7 months",
+            "company": "Topbeat",
+            "company_id": "topbeat",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founding Member and Head of Sales",
+            "description": "Joined at pre seed stage. Pivoted from Marketplace to SaaS. Main functions:1. B2B Sales:-Direct sales to C-Level Executives-Up selling, cross selling-Building and scaling teams and processes from scratch-Setup Sales in Europe and Client Acquisition in Germany, France, UK2. Key Account Management & Operations: Client success and retention3. Product: Conceptualising new products, testing MVPs with clients",
+            "description_html": "Joined at pre seed stage. Pivoted from Marketplace to SaaS. Main functions:1. B2B Sales:-Direct sales to C-Level Executives-Up selling, cross selling-Building and scaling teams and processes from scratch-Setup Sales in Europe and Client Acquisition in Germany, France, UK2. Key Account Management &amp; Operations: Client success and retention3. Product: Conceptualising new products, testing MVPs with clients <!---->",
+            "duration": "Sep 2016 Oct 2020 4 years 2 months",
+            "start_date": "Sep 2016",
+            "end_date": "Oct 2020",
+            "duration_short": "4 years 2 months",
+            "company": "GoComet",
+            "company_id": "go-comet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing and Operations",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "Jul 2015 Sep 2016 1 year 3 months",
+            "start_date": "Jul 2015",
+            "end_date": "Sep 2016",
+            "duration_short": "1 year 3 months",
+            "company": "Ola (ANI Technologies Pvt. Ltd)",
+            "company_id": "olacabs-com",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "INSEAD",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "INSEAD",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

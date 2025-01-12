@@ -1,0 +1,35 @@
+{
+    "city": "Gurgaon, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Birla Institute of Technology and Science, Pilani",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Conversion Rate Optimization\"},{\"subtitle\":\"-\",\"title\":\"Design Thinking in classroom\"},{\"subtitle\":\"-\",\"title\":\"Investment\"},{\"subtitle\":\"-\",\"title\":\"Machine learning\"},{\"subtitle\":\"-\",\"title\":\"Product Envision\"},{\"subtitle\":\"-\",\"title\":\"Scrum Product Owner & Scrum Product Owner Certification\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Apr 2017",
+            "subtitle": "IIM Bangalore - Executive Programmes",
+            "title": "Investments"
+        }
+    ],
+    "current_company_name": "Stealth Mode",
+    "publications": "[{\"title\":\"ByteCar: A Decentralized Cloud Network\",\"subtitle\":\"researchgate\",\"date\":\"March 1, 2024\",\"description\":\"ByteCar presents a novel approach to decentralized storage by repurposing conventional cars into storage nodes, utilizing surplus energy for operation. This innovative integration of automotive and data infrastructure holds promise for addressing storage shortages sustainably while advancing both the energy and technology sectors. ByteCar signifies a transformative step towards a more interconnected, sustainable future.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

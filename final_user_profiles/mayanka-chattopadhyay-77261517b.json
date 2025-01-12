@@ -1,0 +1,158 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "XLRI Jamshedpur '26 || IIT Kharagpur '21 || XAT '24 - 99.84 %ile || CAT '23 - 99.54 %ile || Ex-Bajaj Auto || FMVA®",
+    "experience": [
+        {
+            "title": "Market Research Intern",
+            "location": "United Kingdom",
+            "description_html": null,
+            "duration": "Dec 2022 Jul 2023 8 months",
+            "start_date": "Dec 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "8 months",
+            "company": "FutureBridge",
+            "company_id": "futurebridge1",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Engineering Trainee",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Sep 2021 Jul 2022 11 months",
+            "start_date": "Sep 2021",
+            "end_date": "Jul 2022",
+            "duration_short": "11 months",
+            "company": "Bajaj Auto Ltd",
+            "company_id": "bajaj-auto-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer Internship",
+            "description": "1. Worked to build the main website of zedPrime using Node JS, ReactJS, Javascript, HTML, CSS, Bootstrap 2. Built the frontend of zedPrime and eumetry, two of their products. 3. worked on backend integrations for zedPrime",
+            "description_html": "1. Worked to build the main website of zedPrime using Node JS, ReactJS, Javascript, HTML, CSS, Bootstrap 2. Built the frontend of zedPrime and eumetry, two of their products. 3. worked on backend integrations for zedPrime <!---->",
+            "duration": "Dec 2020 Jun 2021 7 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "7 months",
+            "company": "zedprime",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Web-based Dashboard development for detection and viewing Fetal heart image data(Ultrasonic images from ultrasonography scan).",
+            "description_html": "Web-based Dashboard development for detection and viewing Fetal heart image data(Ultrasonic images from ultrasonography scan). <!---->",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Philips Innovation Campus, Bangalore",
+            "company_id": "philips",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "XLRI Jamshedpur",
+            "degree": "PGDM (BM)",
+            "field": "Business Management",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2026",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Electrical and Electronics Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Mahesh Sri Ramkrishna Ashram",
+            "degree": "Schooling",
+            "start_year": "2004",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2023Credential ID 79279900See credential",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Business Intelligence & Data Analyst (BIDA)®"
+        },
+        {
+            "meta": "Issued Aug 2023Credential ID 80452323See credential",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Financial Modeling & Valuation Analyst (FMVA) ®"
+        },
+        {
+            "meta": "Issued Feb 2023See credential",
+            "subtitle": "WorldQuant University",
+            "title": "Applied Data Science Lab"
+        },
+        {
+            "meta": "Issued Dec 2022Credential ID 4008667See credential",
+            "subtitle": "Simplilearn",
+            "title": "Business Analytics with Excel"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "WorldQuant University",
+            "title": "Applied Data Science I: Scientific Computing & Python (with honors)"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID ULYGRFKXC2ANSee credential",
+            "subtitle": "Coursera",
+            "title": "Google IT Automation with Python Specialization"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 3E05A6BA41EESee credential",
+            "subtitle": "HackerRank",
+            "title": "HackerRank JavaScript certification"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID LB728QBHGT5NSee credential",
+            "subtitle": "Coursera",
+            "title": "Python for Everybody Specialization"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Udemy",
+            "title": "The Complete Web development Bootcamp"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 3tPfzSyvP8XPQcQZM See credential",
+            "subtitle": "JPMorgan Chase & Co.",
+            "title": "Virtual Experience Program Participant"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID B869B5F9A9C6See credential",
+            "subtitle": "HackerRank",
+            "title": "HackerRank Python Certification"
+        },
+        {
+            "meta": "Issued Dec 2019Credential ID J9PZVKVFUJL9See credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        }
+    ],
+    "current_company_name": "FutureBridge",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,273 @@
+{
+    "id": "siddharth-gandhi-a4b558194",
+    "name": "Siddharth Gandhi",
+    "city": "Udaipur, Rajasthan, India",
+    "country_code": "IN",
+    "position": "Kwal • IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Kwal",
+        "company_id": "kwal",
+        "title": "Kwal • IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "description_html": null,
+            "duration": "Aug 2023 Dec 2024 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Dec 2024",
+            "duration_short": "1 year 5 months",
+            "company": "Kwal",
+            "company_id": "kwal",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Intern",
+            "location": "India",
+            "description": "During my internship at Optum, I conducted secondary research and analyzed market trends to map customer journeys and behavior. I identified multiple touchpoints in the customer journey and recommended a three-pronged strategy to optimize customer experience. Additionally, I built an ML classification model to analyze 10,000 customer verbatim, achieving an 82% accuracy rate. These research insights culminated in seven innovative recommendations to transform the future of contact centers.",
+            "description_html": "During my internship at Optum, I conducted secondary research and analyzed market trends to map customer journeys and behavior. I identified multiple touchpoints in the customer journey and recommended a three-pronged strategy to optimize customer experience. Additionally, I built an ML classification model to analyze 10,000 customer verbatim, achieving an 82% accuracy rate. These research insights culminated in seven innovative recommendations to transform the future of contact centers. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Optum",
+            "company_id": "optum",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneurship Cell, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "1 year 5 months",
+            "positions": [
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Jul 2020 - Jan 2021 7 months",
+                    "description": "• Organized the EAD Jaipur partnering with 3 colleges and led a team of 20 Campus Ambassadors",
+                    "duration": "Jul 2020 Jan 2021 7 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Jan 2021",
+                    "duration_short": "7 months",
+                    "title": "Associate Member",
+                    "description_html": "• Organized the EAD Jaipur partnering with 3 colleges and led a team of 20 Campus Ambassadors <!---->"
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Sep 2019 - Jul 2020 11 months",
+                    "duration": "Sep 2019 Jul 2020 11 months",
+                    "start_date": "Sep 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "11 months",
+                    "title": "GES intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Nihit Kalyanpad",
+            "about": "Product at Ace Turtle",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Atharv Choukse",
+            "about": "Product @ LimeChat | IIT Kharagpur | Ex. PM Interns : LimeChat • Pickrr • Ketto • MyWays | Entrepreneurship Cell",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mudit Kumar",
+            "about": "Pre Final Year at IIT Kharagpur",
+            "location": "Patna"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Tiwari",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shakti Prasad Nanda",
+            "about": "SWE @Microsoft | Former SDE Intern @Amazon | IISc | IIT Kharagpur’24",
+            "location": "Cuttack"
+        },
+        {
+            "profile_link": "",
+            "name": "Dev Agarwal",
+            "about": "SDE @ Atlassian | U.S. Patent (published) | IIT Kharagpur | Prev: Zomato | Candidate Master @ Codeforces | CVPR 2022",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Koumudi Ranjan Mandal",
+            "about": "SDE-2 @ Amazon | ACM-ICPC Regionalist",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Anantwar",
+            "about": "Student at Indian Institute of Technology, Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Pratap Singh",
+            "about": "SDE II @ Walmart | IIT Kharagpur",
+            "location": "Bokaro"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Keswani",
+            "about": "MCS Applied AI @ uOttawa | Ex-Accenture | Software Engineer | 5xSalesforce",
+            "location": "Ottawa, ON"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "8.55",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: Squash",
+            "description_html": "Activities and Societies: Squash",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Structures and Algorithms\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2022Credential ID RAKLCE9LL6CVSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2194.0,
+    "connections": 500.0,
+    "current_company_company_id": "kwal",
+    "current_company_name": "Kwal",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Udaipur",
+    "linkedin_id": "siddharth-gandhi-a4b558194",
+    "activity": [
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "Tiktok's Monolith paper is a must read (and it's open source). It shows that you don't need a social graph to make an addictive product if you nail…",
+            "img": null,
+            "id": "7275714081875968000"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "You loved it, so we brought it back, and this time with friends! 🫶 Get ready to make December extra joyful with Advent of Haystack. First challenge…",
+            "img": null,
+            "id": "7266851281825124353"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "Excited to kickstart my journey with Zomato as a Business Analyst in the District Team! 🚀 With Lord Shiva’s blessings, I’m ready for this new…",
+            "img": "",
+            "id": "7265371845984493568"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "Stanford just uploaded their new \"Building LLMS\" lecture. It's a must watch. \"This lecture provides a concise overview of building a ChatGPT-like…",
+            "img": "",
+            "id": "7254492037591306241"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "Presented Composio at AGI House Global SF showcasing how you can do anything on GitHub using Natural Language There can’t be a better crowd or…",
+            "img": "",
+            "id": "7250242462445670400"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "Looks I hit into someone at the OpenAI Dev day party. Had a good conversation about Composio with Greg.",
+            "img": "",
+            "id": "7247257495365177345"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "🔥🔥 WE HAVE BIG NEWS 🔥🔥 Today, we’re excited to officially launch Wispr Flow 🚀 Just speak, and Flow writes for you, everywhere on your…",
+            "img": "",
+            "id": "7246523440302567424"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "Clueso (YC W23) is a winner of YourStory Media ‘s Tech30 Award 2024!! 🎉 This award recognizes Clueso amongst the 30 most impactful and…",
+            "img": "",
+            "id": "7245341491449999360"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "Today, Y Combinator finishes. My team decided to make my demo day a little bit more difficult... I kept a poker face, but barely 😂 Thank you to…",
+            "img": "",
+            "id": "7245144300131389440"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "This is what it looks like when a company doesn’t give up on its dreams: We just announced Orion, the most advanced Augmented Reality and AI…",
+            "img": "",
+            "id": "7244767786927882240"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "This team is awesome, they are gonna do some crazy stuff 🚀🚀🚀",
+            "img": "",
+            "id": "7244279231818448896"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "My favorite part of my job is giving LIVE demos of our product. Not over Zoom, but in front of a real audience! Last week, we had incredible fun…",
+            "img": "",
+            "id": "7241808136783724544"
+        },
+        {
+            "interaction": "Liked by Siddharth Gandhi",
+            "link": "",
+            "title": "The future isn't given. It's taken. CRED and CodeChef are inviting the best and brightest of the 2025 graduating batch of developers to the Starters…",
+            "img": "",
+            "id": "7241781755911757826"
+        }
+    ],
+    "linkedin_num_id": 765775067.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

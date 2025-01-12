@@ -1,0 +1,61 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithm I\"},{\"subtitle\":\"-\",\"title\":\"Applied Natural Language Processing\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence: Foundation and Application\"},{\"subtitle\":\"-\",\"title\":\"Chemical Engineering Thermodynamics \"},{\"subtitle\":\"-\",\"title\":\"Deep Learning: Foundation and Application\"},{\"subtitle\":\"-\",\"title\":\"Economics\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structure\"},{\"subtitle\":\"-\",\"title\":\"Regression and Time Series\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "EDUONIX",
+            "title": "Real-World Case Studies of Machine Learning"
+        },
+        {
+            "subtitle": "matlabkar",
+            "title": "Matlab"
+        }
+    ],
+    "current_company_name": "Metadome.ai",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Lungs Cancer Detection Using Deep Learning(Object Detection)\",\"start_date\":\"Dec 2019\",\"end_date\":\"Present\",\"description\":\"* Working on Lung Cancer Detection using a state-of-art Deep learning algorithm like YOLO, Faster R-CNN.* Used YOLO algorithm to perform data segmentation on CT scan images of Lungs.* Working on training a pre-trained model called NiftyNet(a pre-trained model which is trained on large medical image dataset), using Transfer Learning.\"},{\"title\":\"Income Classifier Model\",\"start_date\":\"Sep 2019\",\"end_date\":\"Oct 2019\",\"description\":\"P.S.:-• Subsidy Inc. delivers subsidies to individuals based on their income• Subsidy Inc. has obtained a large data set of authenticated data on individual income, demographic parameters, and a few financial parameters• Subsidy Inc. wishes us to Develop an income classifier for individualSuggested Solution :• Applied KNN algorithm which gave an accuracy of 83.14% • Increased efficiency of the model using Logistic Regression by 3% \"},{\"title\":\"NEWS ARTICLE CLASSIFICATION MODEL\",\"description\":\"• Used Naive Bayes Classiﬁer and TF-IDF Vectorizer in a pipeline(because of a large dataset) to classify an news article with 81% accuracy • Improved accuracy using Regularization and hyperparameter tuning\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Best Volunteer",
+            "publication": "National Service Scheme",
+            "date": "2019-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "U.P. government meritorious award",
+            "publication": "-",
+            "date": null,
+            "description": "Awarded by HP laptop by the Government of U.P."
+        }
+    ]
+}

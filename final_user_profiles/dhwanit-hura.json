@@ -1,0 +1,55 @@
+{
+    "city": "India",
+    "position": "Strategy and Analytics @ American Express |  IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Analyst",
+            "description": "Early Tenure Customer Engagement, Retention & Growth",
+            "description_html": "Early Tenure Customer Engagement, Retention &amp; Growth <!---->",
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "description_html": null,
+            "duration": "Jul 2023 Sep 2024 1 year 3 months",
+            "start_date": "Jul 2023",
+            "end_date": "Sep 2024",
+            "duration_short": "1 year 3 months",
+            "company": "Auronova Consulting",
+            "company_id": "auronova-consulting-solutions",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Elocution Team - Patel Hall Student Member - Students’ Alumni Cell",
+            "description_html": "Activities and Societies: Elocution Team - Patel Hall Student Member - Students’ Alumni Cell",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"AI60004\",\"title\":\"Big Data Processing \"},{\"subtitle\":\"MA20104\",\"title\":\"Probability & Statistics\"},{\"subtitle\":\"MA41031\",\"title\":\"Stochastic Process in Finance \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jan 2022",
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "Financial Risk Manager (FRM) Part I"
+        }
+    ],
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

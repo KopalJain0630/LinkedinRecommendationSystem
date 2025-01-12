@@ -1,0 +1,221 @@
+{
+    "id": "smahmedabbas",
+    "name": "Ahmed Abbas",
+    "city": "Karachi Division, Sindh, Pakistan",
+    "country_code": "PK",
+    "position": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Kamel Pay",
+        "company_id": "kamelpay"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Wajdan Sayed",
+            "about": "Consulting Technical Director | Bridging Business Goals with Technical Solutions | Delivering Scalable, Future-Ready Systems",
+            "location": "Pakistan"
+        },
+        {
+            "profile_link": "",
+            "name": "Muhammad Roaid",
+            "about": "Senior Project Manager @ Zindigi by JS Bank | x Easypaisa",
+            "location": "Islamabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Muhammad Noman, PMP, PMO-CP",
+            "about": "Project Manager @ Six Seconds | Leading Scalable Projects with Strategic Vision",
+            "location": "Lahore"
+        },
+        {
+            "profile_link": "",
+            "name": "Shahid Khan",
+            "about": "Business Analyst | Product Manager | ERP Consultant",
+            "location": "Islāmābād, Pakistan"
+        },
+        {
+            "profile_link": "",
+            "name": "Muhammad Abdul Haseeb",
+            "about": "Senior Project Manager at UBL",
+            "location": "Pakistan"
+        },
+        {
+            "profile_link": "",
+            "name": "Faizan Anwar",
+            "about": null,
+            "location": "Pakistan"
+        },
+        {
+            "profile_link": "",
+            "name": "Danish Iqbal",
+            "about": "Lead Project Manager",
+            "location": "Lahore District"
+        },
+        {
+            "profile_link": "",
+            "name": "Salah ud din Saad Bin Najam",
+            "about": "IT Project Manager leading seamless data migration to cloud.",
+            "location": "Pakistan"
+        },
+        {
+            "profile_link": "",
+            "name": "SYED ABID ALI",
+            "about": "Senior Project Manager | MBA, MSc. Computer Science | Agile | ERP | HIMS | EHR Consultant | Certified ScrumMaster® | Fintech",
+            "location": "Lahore"
+        },
+        {
+            "profile_link": "",
+            "name": "Muhammad Atif",
+            "about": "Manager at Enmac Electronics",
+            "location": "Dubai, United Arab Emirates"
+        }
+    ],
+    "educations_details": "National University of Computer and Emerging Sciences",
+    "education": [
+        {
+            "title": "National University of Computer and Emerging Sciences",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009-01",
+            "end_year": "2010-10",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ".  ,",
+            "start_year": "2011",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Urdu "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Persian "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020Credential ID 575408See credential",
+            "subtitle": "Scrum.org",
+            "title": "Professional Scrum Master"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID F3ES8B3YPNSYSee credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Software Processes and Agile Practices"
+        }
+    ],
+    "recommendations": [
+        "Usama Qazi “I have had the privilege of working alongside Ahmed and getting to know him personally during our professional journey. I am delighted to recommend him as a Project Manager based on his exceptional project management skills and dedication to his work. What sets Ahmed apart is his unique ability to approach every project with a blend of creativity and strategic thinking, consistently delivering results that surpass expectations. Ahmed is not only a highly competent professional but also a trusted friend who fosters a positive and collaborative work environment. His commendable ability to build strong relationships with team members and stakeholders makes him an invaluable asset. I'm confident that Ahmed will excel in his career and would be an amazing addition to any team seeking a proactive and results-oriented project manager.”",
+        "James Lee “I had the distinct pleasure of collaborating with Ahmed on various projects and I cannot overstate the positive impact he had on both the project and our team. Ahmed's exceptional qualities made working with him a genuinely enjoyable and productive experience. Ahmed's humility and soft-spoken nature fostered a sense of trust and cooperation in our team, which was essential to promoting effective collaboration. His unique blend of technical expertise, project management skills and genuine kindness makes him a truly exceptional project manager and colleague. I wholeheartedly recommend Ahmed for any project management or program management role and eagerly anticipate the opportunity to work with him again in the future.”"
+    ],
+    "volunteer_experience": [
+        {
+            "duration": "Jan 2013 - Present · 12 years",
+            "duration_short": "12 years",
+            "end_date": "Present",
+            "start_date": "Jan 2013",
+            "subtitle": "NUCES-ACM",
+            "title": "Event Management"
+        },
+        {
+            "cause": "Education",
+            "duration": "Jan 2013 - Present · 12 years",
+            "duration_short": "12 years",
+            "end_date": "Present",
+            "start_date": "Jan 2013",
+            "subtitle": "FAST-NUCES",
+            "title": "Event Management"
+        }
+    ],
+    "followers": 17805.0,
+    "connections": 500.0,
+    "current_company_company_id": "kamelpay",
+    "current_company_name": "Kamel Pay",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Software Framework To Explore Automobile Models Using Leap Motion In Virtual Reality\",\"start_date\":\"Jul 2015\",\"description\":\"Used 3D motion control technology i.e. Leap motion to explore 3D automobile models. Thisis done by using hand gestures that comes naturally when interacting with real life objects.Google Cardboard is used to project the models in virtual reality and make the interactionwith them more natural. Consequently, this makes the visualization of complex model veryrealistic.Technology Used: Unity3D 5.1.1 Leap Motion Control Panel Leap Motion SDK (For Developer) Blender v2.75 Dive SDK (For Head Tracking) Management\"},{\"title\":\"Library management system in PHP, JQuery ,HTML and CSS\"},{\"title\":\"Menu-Driven Link List in Java\"},{\"title\":\"Online Super Mart Management in ASP.net MVC\"},{\"title\":\"School Database Management System\"},{\"title\":\"Super Mart in C++\"},{\"title\":\"Temperature Actuator System in Adriano (Operating System)\"}]",
+    "organizations": null,
+    "location": "Karachi Division",
+    "linkedin_id": "smahmedabbas",
+    "activity": [
+        {
+            "interaction": "Liked by Ahmed Abbas",
+            "link": "",
+            "title": "After nearly a decade, I’m announcing my decision to step down as COO and co-founder of Daraz. What an incredible ride it has been! Looking back…",
+            "img": "",
+            "id": "7275399874211147776"
+        },
+        {
+            "interaction": "Liked by Ahmed Abbas",
+            "link": "",
+            "title": "The Future Summit 8th Edition organized by Nutshell Group and my brother Muhammad Azfar Ahsan. Packed house, great discussion and a day full of…",
+            "img": "",
+            "id": "7260007721284853760"
+        },
+        {
+            "interaction": "Liked by Ahmed Abbas",
+            "link": "",
+            "title": "We had an inspiring session at Shispare with the UI/UX students from NED University of Engineering and Technology! Our CEO Arsalan Khan led an…",
+            "img": "",
+            "id": "7259179928699478016"
+        },
+        {
+            "interaction": "Liked by Ahmed Abbas",
+            "link": "",
+            "title": "🌟 A Golden Farewell and a Heart Full of Gratitude 🌟 I am beyond honored to share that I was awarded the 𝐆𝐨𝐥𝐝 𝐌𝐞𝐝𝐚𝐥 for securing the first…",
+            "img": "",
+            "id": "7258794760759308288"
+        },
+        {
+            "interaction": "Liked by Ahmed Abbas",
+            "link": "",
+            "title": "Centegy Technologies and NED University Join Forces, Strengthening University-Industry Collaboration Higher education and corporate learning are…",
+            "img": "",
+            "id": "7257285494982492160"
+        },
+        {
+            "interaction": "Liked by Ahmed Abbas",
+            "link": "",
+            "title": "🎀 ɪɴ ᴏᴄᴛᴏʙᴇʀ, ᴡᴇ ᴡᴇɴᴛ ᴘɪɴᴋ! 🎀 At Shispare, we came together to raise awareness for breast cancer and support those impacted by this disease. We…",
+            "img": "",
+            "id": "7257374548302438400"
+        }
+    ],
+    "linkedin_num_id": 406456089.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

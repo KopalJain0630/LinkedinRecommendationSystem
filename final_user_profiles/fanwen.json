@@ -1,0 +1,53 @@
+{
+    "city": "San Francisco Bay Area",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Yale University",
+            "url": "",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Fin Capital",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Shi Mei Lun (Laura Cha) Scholarship",
+            "publication": "Yale School of Management",
+            "date": "2017-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Szeto Wai Architecture Scholarship",
+            "publication": "the University of Hong Kong",
+            "date": "2015-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Jardine Henry Lo Scholarship",
+            "publication": "the University of Hong Kong",
+            "date": "2014-12-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

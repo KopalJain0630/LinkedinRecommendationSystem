@@ -1,0 +1,332 @@
+{
+    "id": "jeyasiona-mj",
+    "name": "Jeyasiona MJ",
+    "city": "Tamil Nadu, India",
+    "country_code": "IN",
+    "position": "IIT KGP '23",
+    "about": "Detail Oriented Business Analyst",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Commonwealth Bank",
+        "company_id": "commonwealthbank",
+        "title": "IIT KGP '23"
+    },
+    "experience": [
+        {
+            "title": "Graduate Data Scientist",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Commonwealth Bank",
+            "company_id": "commonwealthbank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "National Students' Space Challenge",
+            "description_html": null,
+            "duration": "3 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Aug 2021 - May 2023 1 year 10 months",
+                    "duration": "Aug 2021 May 2023 1 year 10 months",
+                    "start_date": "Aug 2021",
+                    "end_date": "May 2023",
+                    "duration_short": "1 year 10 months",
+                    "title": "Workshops and Webinar Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Aug 2020 - Apr 2022 1 year 9 months",
+                    "duration": "Aug 2020 Apr 2022 1 year 9 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "Apr 2022",
+                    "duration_short": "1 year 9 months",
+                    "title": "Sub -Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Aug 2019 - Jul 2020 1 year",
+                    "duration": "Aug 2019 Jul 2020 1 year",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year",
+                    "title": "Junior Coordinator",
+                    "description_html": null
+                }
+            ],
+            "company": "National Students' Space Challenge",
+            "company_id": "nssc-iitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Intern",
+            "description": "\u00e2\u20ac\u00a2 Addressed the challenge of image reconstruction in multimode fibre imaging systems, where complex speckle patterns are generated\u00e2\u20ac\u00a2 Curated a dataset of 5000 MNIST images to optimize model training and evaluation \u00e2\u20ac\u00a2 Developed and implemented a high-accuracy autoencoder-based deep learning model achieving 92.7% precision in reconstructing images from complex speckle patterns in multimode fiber imaging systems.",
+            "description_html": "\u00e2\u20ac\u00a2 Addressed the challenge of image reconstruction in multimode fibre imaging systems, where complex speckle patterns are generated\u00e2\u20ac\u00a2 Curated a dataset of 5000 MNIST images to optimize model training and evaluation \u00e2\u20ac\u00a2 Developed and implemented a high-accuracy autoencoder-based deep learning model achieving 92.7% precision in reconstructing images from complex speckle patterns in multimode fiber imaging systems. <!---->",
+            "duration": "Aug 2022 Mar 2023 8 months",
+            "start_date": "Aug 2022",
+            "end_date": "Mar 2023",
+            "duration_short": "8 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research And Development Intern",
+            "description": "Co-author of a research paper titled \" Cleaning Large and Medium Sized Space Debris with Robots using Swarm Intelligence\" . Presented the poster at IAC Paris 2022 , France",
+            "description_html": "Co-author of a research paper titled \" Cleaning Large and Medium Sized Space Debris with Robots using Swarm Intelligence\" . Presented the poster at IAC Paris 2022 , France <!---->",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "Spaceonova\u00c2\u00ae",
+            "company_id": "spaceonova",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Writer",
+            "description_html": null,
+            "duration": "Jun 2021 Sep 2021 4 months",
+            "start_date": "Jun 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "4 months",
+            "company": "Abyom SpaceTech",
+            "company_id": "abyomspacetech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analytics Intern",
+            "description": "Spaceonova, an EdTech Company, aimed to analyze customer attendance in their webinars and masterclasses across diverse topics. In my role as a data analyst, I conducted thorough Data Cleaning on Excel files containing registered participant data. I then designed and implemented a comprehensive Power BI dashboard. This dashboard included interactive visualizations showcasing attendee demographics, registration statuses, payment statuses, and other pertinent details, facilitating deeper insights and strategic decision-making for Spaceonova.",
+            "description_html": "Spaceonova, an EdTech Company, aimed to analyze customer attendance in their webinars and masterclasses across diverse topics. In my role as a data analyst, I conducted thorough Data Cleaning on Excel files containing registered participant data. I then designed and implemented a comprehensive Power BI dashboard. This dashboard included interactive visualizations showcasing attendee demographics, registration statuses, payment statuses, and other pertinent details, facilitating deeper insights and strategic decision-making for Spaceonova.",
+            "duration": "Nov 2020 Jan 2021 3 months",
+            "start_date": "Nov 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "3 months",
+            "company": "Spaceonova\u00c2\u00ae",
+            "company_id": "spaceonova",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ankit Behera",
+            "about": "Industrial Engineering Student at IIT Kharagpur ||Data Analysis, Machine Learning",
+            "location": "West Godavari"
+        },
+        {
+            "profile_link": "",
+            "name": "Murshid K N",
+            "about": "Product Management | Product Development | Pre Final Year at IIT KGP",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Varun Lahoti",
+            "about": "Business Intelligence Engineer @Amazon || IIT Kharagpur",
+            "location": "Greater Raipur Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanish P.",
+            "about": "Upcoming GET at Cairn India, Vedanta Limited IIT Kharagpur'24",
+            "location": "Madhya Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mahika Matta",
+            "about": "Naval Architect",
+            "location": "Rajahmundry"
+        },
+        {
+            "profile_link": "",
+            "name": "VISHAL SHARMA",
+            "about": "Business Analyst Intern at Zepto | Product @Careerlabs | Governor @TAdS | IIT KGP",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Hemant Gahnolia",
+            "about": "Collins Aerospace | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Shirode",
+            "about": "Data Science @Amex | Ex- Deloitte USI | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aryan Arora",
+            "about": "Senior Associate Software Engineer at Equinix",
+            "location": "Dallas-Fort Worth Metroplex"
+        },
+        {
+            "profile_link": "",
+            "name": "Yaswanth Pavan Mahadasu",
+            "about": "Business @ Gameskraft | IIT KGP '22",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "Sep 2019 - Present \u00c2\u00b7 5 years 4 months",
+            "duration_short": "5 years 4 months",
+            "end_date": "Present",
+            "start_date": "Sep 2019",
+            "subtitle": "National Cadet Corps",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 1195.0,
+    "connections": 500.0,
+    "current_company_company_id": "commonwealthbank",
+    "current_company_name": "Commonwealth Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Tamil Nadu",
+    "linkedin_id": "jeyasiona-mj",
+    "activity": [
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "I\u00e2\u20ac\u2122m very proud to have been invited to speak at the Evident AI Symposium in NYC today, following Commonwealth Bank\u00e2\u20ac\u2122s recent rise into the global top\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7265358284155437057"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "\"In my student days, I was always a front-bencher, eager to learn. I\u00e2\u20ac\u2122ve carried that passion for learning throughout my corporate journey. At\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7254771695058616322"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "\u00e2\u20ac\u0153When I joined the Graduate Program at CommBank, I never expected to find myself speaking on a panel for SXSW Sydney. I\u00e2\u20ac\u2122ve always been into tech\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7252180075150757888"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "\u00f0\u0178\u017d\u2030 Excited to share that I\u00e2\u20ac\u2122ve successfully completed a professional certification in Product Management from SPJIMR! \u00f0\u0178\u017d\u201c A big thank you to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7252397668960804864"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "Allympics: Celebrating AI Innovation at CBA India The successful conclusion of Allympics, a groundbreaking Gen AI competition in CBA India\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7242063900454608896"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "After 14 years, I decided to pick up my studies again by enrolling in BITS MTech in Data Science and Engineering. Two years of extensive study\u00e2\u20ac\u201dfilled\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "14"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "\u00f0\u0178\u0161\u20ac Hiring Alert !!!\u00f0\u0178\u0161\u20ac Xtage is looking for enthusiastic Interns to join our dynamic team! If you have a passion for helping others, excellent\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7243950282538115073"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "Intel NPU has advanced capabilities to extract information real-time. #openVINO#oneAPI#Intelsoftware @Intel Software and @Intel Corporation",
+            "img": "",
+            "id": "7245311568471547904"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "Cypher 2024 is awesome opportunity to network. I had an amazing demo with Hello NPU and Real Time Pose Estimations #openVINO #oneAPI #Intelsoftware\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7245312161885904896"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "Jo hota hai ache ke liye hi hota hai! Reflecting on the past one year, it has indeed been a roller coaster of experiences. Throughout this time, the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7236449724738768896"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Jeyasiona MJ",
+            "img": "",
+            "id": "7235302152586280960"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "Thank you Mohit Bhatia Chief and Nitin Gosar ji for taking out your valuable time and sharing your perspective on market and economy. Most important\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7232211760491954177"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "\u00f0\u0178\u0152\u0178 Unveiling Our Third Brand Campaign Commercial - #SportYourSpirit! \u00f0\u0178\u0152\u0178 Get ready to be inspired as we dive into the excitement of the Olympics with\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7225104611982856192"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "Q1FY25 Meet July 20, 2024 Thank you Amit Ganatra for taking out time from your hectic schedule and that too on Saturday evening and sharing your\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7220854820457316354"
+        },
+        {
+            "interaction": "Liked by Jeyasiona MJ",
+            "link": "",
+            "title": "\u00f0\u0178\u201d\u201d Hiring Alert !!!\u00f0\u0178\u201d\u201d UI/UX Design Paid Internship Opportunity! We're seeking a talented and enthusiastic UI/UX Design Intern to join our creative\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7215017569605365760"
+        }
+    ],
+    "linkedin_num_id": 837102519.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

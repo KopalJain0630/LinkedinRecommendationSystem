@@ -1,0 +1,105 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Associate Consultant",
+    "experience": [
+        {
+            "title": "Associate Consultant",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Maintenance and Enhancement , Bug Fixing, Performace Tuning",
+            "description_html": "Maintenance and Enhancement , Bug Fixing, Performace Tuning <!---->",
+            "duration": "Nov 2022 - Present 2 years 2 months",
+            "start_date": "Nov 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 2 months",
+            "company": "CGI",
+            "company_id": "cgi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Lead",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Apr 2021 Jun 2022 1 year 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "1 year 3 months",
+            "company": "IDC Technologies Solutions Pvt Ltd",
+            "company_id": "idc-technologies-solutions-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate - Projects",
+            "location": "Kolkata Area, India",
+            "description": "Involved in designing, developing, and testing of PL/SQL stored procedures, packages and triggers.Created database objects like Tables, views,synonyms, Indexes.Loading data into Client environment using SQL Loader,External Tables,UTL_FILE. Experience in SQL Tuning and Performance Enhancement using TKPROF and Explain Plans.Writing wrapper functions to call Java/C/Shell Script from Oracle Package.Creating and scheduling Jobs using DMBS_JOB package/Cron Jobs.Writing Shell Script to automate task from UNIX/LINUX environment.Actively participated in requirement gathering and business meeting with client.Experience in issue analysis and applying quick fix for Priority 1 issue.Experience in Data Analysis.Experience in Data Migration project.Experience in preparing requirement document,Low level and High level designs and test plan documents.Identifying automation requirement of Project and automated various tasks using Excel Macros/VBA.Experience in Data analysis,data profiling,creating scorecards,data cleansing, data standardization using Informatica Developer/Analyst.Experience in creating mapping/wokflows using Informatica Developer and promote it to PROD using Informatica Power Center.Experience in giving technical training to new resources in PL/SQL,Unix,Inforrmatica Power Center/Informatia Data Quality.Informatica Power Center/Informatica Developer Installation and Configuring various services ie Repository service ,Integration service,Model Repository Analyst,Data Integration Service and Analyst Service",
+            "description_html": "Involved in designing, developing, and testing of PL/SQL stored procedures, packages and triggers.Created database objects like Tables, views,synonyms, Indexes.Loading data into Client environment using SQL Loader,External Tables,UTL_FILE. Experience in SQL Tuning and Performance Enhancement using TKPROF and Explain Plans.Writing wrapper functions to call Java/C/Shell Script from Oracle Package.Creating and scheduling Jobs using DMBS_JOB package/Cron Jobs.Writing Shell Script to automate task from UNIX/LINUX environment.Actively participated in requirement gathering and business meeting with client.Experience in issue analysis and applying quick fix for Priority 1 issue.Experience in Data Analysis.Experience in Data Migration project.Experience in preparing requirement document,Low level and High level designs and test plan documents.Identifying automation requirement of Project and automated various tasks using Excel Macros/VBA.Experience in Data analysis,data profiling,creating scorecards,data cleansing, data standardization using Informatica Developer/Analyst.Experience in creating mapping/wokflows using Informatica Developer and promote it to PROD using Informatica Power Center.Experience in giving technical training to new resources in PL/SQL,Unix,Inforrmatica Power Center/Informatia Data Quality.Informatica Power Center/Informatica Developer Installation and Configuring various services ie Repository service ,Integration service,Model Repository Analyst,Data Integration Service and Analyst Service",
+            "duration": "Sep 2007 Jan 2021 13 years 5 months",
+            "start_date": "Sep 2007",
+            "end_date": "Jan 2021",
+            "duration_short": "13 years 5 months",
+            "company": "Cognizant",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Institute of Engineering and Technology",
+            "degree": "Master’s Degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2004",
+            "end_year": "2007",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of Lucknow",
+            "degree": "Bachelor of Commerce - BCom",
+            "field": "Business/Commerce, General",
+            "start_year": "2000",
+            "end_year": "2003",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Army Public School, Nehru Road, Lucknow",
+            "degree": "Intermediate",
+            "field": "Business/Commerce, General",
+            "url": "",
+            "start_year": "1999",
+            "end_year": "2000",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St Paul's School Lucknow",
+            "degree": "Matriculation",
+            "field": "Science",
+            "start_year": "1997",
+            "end_year": "1998",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Oracle",
+            "title": "OCA 9i"
+        },
+        {
+            "subtitle": "Sun Microsystems",
+            "title": "SCJP 1.5"
+        }
+    ],
+    "current_company_name": "CGI",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

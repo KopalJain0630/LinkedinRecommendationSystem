@@ -1,0 +1,52 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer @JLR | IIT Kanpur '23",
+    "experience": [
+        {
+            "title": "Graduate Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "JLR",
+            "company_id": "jaguar-land-rover_1",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Citrix",
+            "company_id": "citrix",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "Bachelor's degree",
+            "field": "Mathematics and Scientific Computing",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Abstract Algebra\"},{\"subtitle\":\"-\",\"title\":\"Data Structures and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Database Management System\"},{\"subtitle\":\"-\",\"title\":\"Fundamentals of Computing\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Real Analysis\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Set Theory and Logic\"}]",
+    "certifications": null,
+    "current_company_name": "JLR",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Computer Vision : A Classic and Modern Approach\",\"start_date\":\"Apr 2021\",\"end_date\":\"Jun 2021\",\"description\":\"•Learned about Convolution, Kernels, Filters, Edge detection and various Image Manipulation techniques.•Implemented Lane Detection using Canny Edge Detector and Face Detection using HOG.•Implemented a prototype of Virtual Paint by using Color Detection, Tracking and Masking. It enables the user to draw on their system screen by drawing in air with a bead tracked by web cam.\"}]",
+    "honors_and_awards": null
+}

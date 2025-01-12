@@ -1,0 +1,54 @@
+{
+    "city": "Greater Philadelphia",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Grove City College",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Content Phenom",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Nominee for Sportswoman of the Year",
+            "publication": "Grove City College",
+            "date": "2013-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Women's Volleyball Most Valuable Player",
+            "publication": "Grove City College Varsity Athletics",
+            "date": "2012-11-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "All-Conference Team",
+            "publication": "The President's Athletic Conference",
+            "date": null,
+            "description": "2010, 2011, 2012"
+        },
+        {
+            "title": "Dean's List",
+            "publication": "Grove City College",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Scholar Athlete",
+            "publication": "Grove City College",
+            "date": null,
+            "description": null
+        }
+    ]
+}

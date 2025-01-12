@@ -1,0 +1,73 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2000",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Basil",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Winner, Blue Dart Competition Grant",
+            "publication": "-",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Runner Up, Enactus National 2016",
+            "publication": "-",
+            "date": "2016-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Runner Up, Kshitij Bplan Competition, IIT Kharagpur",
+            "publication": "-",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Semi Finalist, Enactus World Cup 2015, Johannesburg, South Africa",
+            "publication": "-",
+            "date": "2015-10-01T00:00:00.000Z",
+            "description": "Represented India, to compete with the national winners of 36 countries from all across the 6 continents"
+        },
+        {
+            "title": "Winner, Enactus Nationals 2015",
+            "publication": "-",
+            "date": "2015-07-01T00:00:00.000Z",
+            "description": "1st amongst 68 competing Indian Universities & Colleges, for Project Aanch & Project Excelsior"
+        },
+        {
+            "title": "Winner, Walmart Women Empowerment Grant",
+            "publication": "-",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "Enactus IIT Delhi received the grant for effective on ground execution of projects"
+        },
+        {
+            "title": "Winner, Under 19 District Football championship",
+            "publication": "-",
+            "date": "2010-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

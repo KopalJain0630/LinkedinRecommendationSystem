@@ -1,0 +1,67 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Sri Venkateswara College, Delhi University",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "..    (-)",
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Equity Research\"},{\"subtitle\":\"-\",\"title\":\"Technical Analysis Programme\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Nov 2020",
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "Certified Financial Risk Manager (FRM)"
+        },
+        {
+            "meta": "Issued Oct 2020",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA)"
+        }
+    ],
+    "current_company_name": "Upsurge (previously Valuationary)",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Economics Association\",\"start_date\":\"Jun 2015\",\"description\":\"I was a member of an informal association started by the students of Economics Department of Sri Venkateswara College, whereby every week we pick up a contentious economic issue like 25 years of liberalization, Union budgets, etc. and we discussed upon the same.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Academic Achievements - Sri Venkateswara College 1st and 2nd year",
+            "publication": "-",
+            "date": "2016-07-01T00:00:00.000Z",
+            "description": "I stood 2nd in both my first year as well as the second year of my Bachelors Program. I scored 100/100 in the paper of Intermediate Microeconomics-1, 97/100 in the paper of Introductory Econometrics, 97/100 in the paper of Algebra and Calculus-1. I had an aggregate percentage of 82 for all 6 semesters."
+        },
+        {
+            "title": "Academic Achievements - J.H. Ambani School, class 12.",
+            "publication": "-",
+            "date": "2014-06-01T00:00:00.000Z",
+            "description": "I was issued certificates from school for scoring the highest marks in Mathematics and Economics in class 12 and for being third overall. I scored 99/100 in Mathematics and 98/100 in Economics."
+        },
+        {
+            "title": "Computer Wizard Award",
+            "publication": "-",
+            "date": "2013-04-01T00:00:00.000Z",
+            "description": "I was awarded the Computer Wizard award from the school in order to appreciate my skills in PowerPoint Presentation making and Videography & Video Editing. I have represented school at various district and state level competitions in documentary movie making and ppt competitions."
+        },
+        {
+            "title": "Martial Arts - Karate Green Belt",
+            "publication": "The Karate Institute",
+            "date": null,
+            "description": null
+        }
+    ]
+}

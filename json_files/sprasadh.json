@@ -1,0 +1,382 @@
+{
+    "id": "sprasadh",
+    "name": "R. Shyaam Prasadh, Ph.D.",
+    "city": "London, England, United Kingdom",
+    "country_code": "GB",
+    "position": null,
+    "about": "Shyaam is a ML Engineer at Veer, an Oxford spin-off co-founded by Sir Nigel Shadbolt and…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Veer",
+        "company_id": "teamveer"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Kumari Anjali",
+            "about": "Quant - Systematic Fixed Income Research at The Bank of New York",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Naval Chopra",
+            "about": null,
+            "location": "Wilton Center, CT"
+        },
+        {
+            "profile_link": "",
+            "name": "Sukanya Patil",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Gupta",
+            "about": null,
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sukruti Reddy",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Virendra Kumar Singh",
+            "about": "Fund Manager & Head of Quant Research, InCred Alternate Business | Portfolio Manager | Hedge Fund | Long Short | AIF | Quant | IIT Kanpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Goel",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Kabra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankush Jain",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhargav Mehta, FRM, CFA",
+            "about": "Buy Side at Star Health Insurance | Ex CRISIL | Ex CLSA |",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "UCL",
+    "education": [
+        {
+            "title": "UCL",
+            "url": "",
+            "start_year": "2023-09",
+            "end_year": "2024-09",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2014-01",
+            "end_year": "2020-02",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Tamil "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Telugu "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2023Credential ID WRFCUTW32QGUSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Advanced Computer Vision with TensorFlow"
+        },
+        {
+            "meta": "Issued Jul 2023Credential ID RQSDY7T8PWPQSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Generative Adversarial Networks (GANs)"
+        },
+        {
+            "meta": "Issued Jul 2023Credential ID 8K798H5P6HKCSee credential",
+            "subtitle": "Stanford University",
+            "title": "Probabilistic Graphical models"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "AI for Global Goals and in partnership with CIFAR and the University of Oxford’s Deep Medicine Program.",
+            "title": "Oxford Machine Learning Summer School OxML 2022 "
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID DYDWVDF8LBKCSee credential",
+            "subtitle": "University of San Diego",
+            "title": "Datastructures and Algorithms"
+        },
+        {
+            "meta": "Issued May 2021Credential ID FNKMTLQFQK53See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Deep learning specialization"
+        },
+        {
+            "meta": "Issued Apr 2021Credential ID 7KGYZ7MN2RVKSee credential",
+            "subtitle": "SAS",
+            "title": "Machine Learning Using SAS Viya"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID ZQUM7SBARP6GSee credential",
+            "subtitle": "EDHEC Business School",
+            "title": "Investment Management with Python and Machine Learning Specialization"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID GUR84XNMMYEHSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Natural Language Processing Specialization"
+        },
+        {
+            "meta": "Credential ID QKQBZP9ZJ2SFSee credential",
+            "subtitle": "Stanford University",
+            "title": "Machine Learning "
+        },
+        {
+            "subtitle": "EMC",
+            "title": "Storage Technology Foundations"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "subtitle": "PSG Institute of Management",
+            "title": "Twinkle Evening school"
+        },
+        {
+            "cause": "Education",
+            "subtitle": "Mitr,IIT Madras",
+            "title": "Student Mentor"
+        },
+        {
+            "subtitle": "Isha Vidhya",
+            "title": "Mentor"
+        }
+    ],
+    "followers": 29540.0,
+    "connections": 500.0,
+    "current_company_company_id": "teamveer",
+    "current_company_name": "Veer",
+    "publications": "[{\"title\":\"iPOP : Interpretable Probability of Payment Model\",\"subtitle\":\"3rd Ford Artificial Intelligence and Machine Learning Conference (Ford Greenfield Labs, Palo Alto, CA)\",\"date\":\"December 7, 2022\",\"description\":\"The Probability of Payment model is a risk-scoring model that calculates a POP estimate for each Ford credit contract at origination. In general, Explainable XGBoost is used to predict the raw POP scores.Although Inherently interpretable models provide an accurate explanation it sacrifice model performance to an extent. To combat this, we developed a high-performing intrinsically interpretable POP model (i pop) using an explainable neural network xNN based on Generalized Additive Models with structured Interactions. Numerical experiments on credit risk dataset show that our that proposed model has higher discriminatory power\"},{\"title\":\"Does corruption distance affect cross-border acquisitions? Different tales from developed and emerging markets\",\"subtitle\":\"European Financial Management\",\"date\":\"December 30, 2021\",\"description\":\"Using a large sample of cross-border deals, we find an inverted U-shaped relationship between corruption distance and cross-border acquisition (CBA) volume. CBAs involving higher corruption distance show negative post-acquisition performance. However, MNEs with larger equity stake deliver superior gains. We find that the ownership strategy varies with levels of corruption distance. MNEs mitigate adverse selection and moral hazard problems by acquiring targets from a related industry and targets with a foothold. We demonstrate that CBA activity and ownership strategy vary between developed and emerging economies, and both ‘level’ and ‘direction’ of corruption distance are important in its effect on CBAs.\"},{\"title\":\"Deep learning model for survival analysis\",\"subtitle\":\"Ford GDIA - Credit risk analytics\",\"date\":\"November 25, 2021\",\"description\":\"In recent years, there has been a considerable amount of research focused on combining survival analysis with neural networks in the field of machine learning. This model is deployed using deepsurv library. DeepSurv is a deep feed-forward neural network that uses parametrized weights θ to estimate each individual's effect on their hazard rates. This neural network has a straightforward structure, in contrast to the Simon-Farragi network, and it is configurable with multiple hidden layers. The observed covariates in the input data X are used to represent the data. The model consists of fully-connected nonlinear activation layers with a variable number of nodes in each hidden layer, followed by dropout layers. The output layer has only one node with a linear activation function, which produces the log-risk hazard estimations.\"},{\"title\":\"Does economic freedom distance affect long-run post-acquisition performance and ownership level in cross-border acquisitions?\",\"subtitle\":\"DECISION\",\"date\":\"May 8, 2020\",\"description\":\"Using a large international sample of 35,798 cross-border acquisition (CBA) deals, we find strong evidence that economic freedom distance affects long-run post-acquisition performance and ownership level. We build our arguments using organizational imprinting theory to show that greater economic freedom distance leads to higher post-acquisition performance. However, our findings show that greater ownership level in the target firm adversely affects the imprinting effects in CBA deals. In addition to arbitrage advantages, higher economic freedom distance increases information asymmetry risks for MNEs, prompting them to opt for lower ownership levels. Finally, we demonstrate that ownership decisions of MNEs from emerging economies differ significantly from those that domicile in developed countries.\"},{\"title\":\"Does religion affect cross-border acquisitions? Tales from developed and emerging economies\",\"subtitle\":\"Finance Research Letters\",\"date\":\"December 1, 2019\",\"description\":\"This article examines how religious distance and religious freedom influence cross-border acquisition (CBA) activity and firm's choice of control.Using a global sample of 75,151 CBAs across 45(57) acquirer (target) countries over a period of 34 years from 1980 to 2014, we find that the CBA volume is lower with firms preferring partial control when countries are religiously distant. We use three different constructs to examine the role of religious freedom. Our findings show that government favoritism and social regulations reduce the CBA volume whereas state regulations on religion drive CBA volume. In addition, firms opt for full control when countries exhibit higher government favoritism and lower state regulations on religion. We also demonstrate that internationalization decisions depend on the country of origin. Finally, we find that acquirers with a foothold in the target mitigate the information asymmetry associated with religious distance.\"},{\"title\":\"Merger and acquisition research in the Asia-Pacific region: A review of the evidence and future directions\",\"subtitle\":\"Research in International Business and Finance\",\"date\":\"November 1, 2019\",\"description\":\"This paper provides a comprehensive review of Mergers & Acquisitions (M&As) research conducted in the Asia-Pacific region over the last decade. We also identify gaps in the literature and highlight some important research issues that provide directions for future research.\"},{\"title\":\"Assessment of the carbon footprint of four commercial dairy production systems in Australia using an integrated farm system model.\",\"subtitle\":\"Carbon Management\",\"date\":\"2018\",\"description\":\"Integrated farm system model (IFSM) is a cost effective and efficient method of estimating greenhouse gas (GHG) emissions from dairy farms and analyzing how management strategies affect these emissions. An IFSM (DairyGHG model) was employed in this study to predict the GHG emission and assess the carbon footprints of four dairy farms in Southeast Queensland, Australia. Four representative commercial farms were selected: Farm 1 (220 cows; Jersey), Farm 2 (460 cows; Holstein Friesian), Farm 3 (850 cows; Holstein Friesian) and Farm 4 (434 cows; Holstein Friesian). The animal emission contribution to carbon footprints for Farm 1, 2, 3 and 4 were 54.2, 60.0, 59.6 and 38.6 % respectively for total output. Likewise the manure emission contribution to carbon footprints for Farm 1, 2, 3 and 4 were 30.6, 29.0, 29.0 and 58.3 % respectively. On the basis of per kg of energy corrected milk the amount of GHG produced for Farm 1, 2, 3 and 4 are 0.39 kg CO2Eq, 0.64 kg CO2Eq, 0.54 kg CO2Eq and 1.35 kg CO2Eq respectively. The method and database developed for these dairy farm GHG assessments may be considered an important step towards a harmonized methodology for the quantification of emissions in dairy farms.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Risk Bucketed ML Models for POD estimation\",\"start_date\":\"Jan 2023\",\"end_date\":\"Mar 2023\",\"description\":\"Risk bucketing is a method used to group borrowers based on their creditworthiness for a more accurate credit risk assessment. Clustering techniques like K-means and DBScan are used to obtain homogeneous clusters. Machine learning algorithms such as Logistic Regression, Bayesian models, Support Vector Machines, Random Forest, XGBoost, Neural Networks, and KerasClassifier are used to predict the probability of default. Hyperparameter tuning can be performed using techniques like HalvingRandomSearchCV and GridSearchCV. Neural Networks provide a complex structure for better predictive performance, and XGBoost had the highest AUC values. Using the DBScan algorithm to cluster borrowers increased performance by 46%.\"},{\"title\":\"Asset allocation using Long term recurrent convolution network (LRCN) architecture\",\"description\":\"The LSTM layer builds up an internal state using the Back Propagation Through Time (BPTT) technique to update the weights across a sequence of internal vector representations.\"},{\"title\":\"Credit Scoring Model \",\"description\":\"Predicting the probability of default on Financial distress customer dataRandom Forest classifier with quantile based approach and the prediction accuracy is ~ 80%\"},{\"title\":\"Kernel Perceptron for Handwritten Digit Classification\",\"description\":\"The project \\\"Kernel Perceptron for Handwritten Digit Classification\\\" on GitHub explores the application of kernel-based perceptron algorithms for classifying handwritten digits. Using the MNIST dataset, the project implements various kernel functions such as linear, polynomial, and radial basis function (RBF) kernels to train a perceptron model. Through extensive experimentation and analysis, the project aims to achieve high accuracy in digit recognition tasks. Additionally, the repository provides comprehensive documentation, including explanations of the implemented algorithms, code structure, and results interpretation. This project serves as a valuable resource for understanding the principles of kernel-based classification and their practical application in digit recognition tasks.\"},{},{\"title\":\"NMT-Using-the-Attention-Based-Model\",\"description\":\"The source text is first fed into the encoder, which transforms it into a thought vector. This dense representation is then fed into a decoder, along with the original translation in the target language during training. This serves as preconditioning on the decoder, which learns the corresponding translation based on the original translation that's fed while trainingThe encoder may not be able to capture long-term dependencies. To overcome this problem, the attention mechanism was introduced by Bahdanau et al.(2014).I have enclosed the paper in this repositoryBleu Score :0.37\"},{\"title\":\"Sentiment analysis using logistic regression, Naive Bayes, and Bidirectional LSTM\",\"description\":\"Data Source used for BLSTM: https://www.researchgate.net/publication/251231364_FinancialPhraseBank-v10The data set provides a collection of ∼5000 phrases/sentences sampled from financial news texts and company press releases that are tagged as positive, negative, or neutral by a group of 16 annotators with adequate business education background.\"}]",
+    "organizations": [
+        {
+            "title": "PSG college of Technology",
+            "membership_type": "Technical Expert ( Board of Studies)",
+            "start_date": "Oct 2021",
+            "end_date": "Present",
+            "description": "Will be serving on the board as their Technical Expert. Nominated for being a meritorious alumnus",
+            "membership_number": null
+        },
+        {
+            "title": "Thiyagaraja School of Management",
+            "membership_type": "Mentor",
+            "start_date": "Oct 2021",
+            "end_date": "Present",
+            "description": "Will Serve in the board of studies for their Masters in Analytics (TSM- PGDDSBA Board of Studies ) program",
+            "membership_number": null
+        }
+    ],
+    "location": "London",
+    "linkedin_id": "sprasadh",
+    "activity": [
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "Had the honor to meet Prime Minister…",
+            "img": "",
+            "id": "7278787108079616000"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "RIP to Dr. Singh, the legend who gave…",
+            "img": "",
+            "id": "7278278370675617792"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "Because the GPT-4o3 announcement is…",
+            "img": "",
+            "id": "7276140212060082176"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "‼️Wake up India: Epigamia co-founder…",
+            "img": "",
+            "id": "7276811579344457728"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "OpenAI just dropped its O3 model as the…",
+            "img": "",
+            "id": "7275983732992311296"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "My biggest gripe with \"AI agents\" is…",
+            "img": "",
+            "id": "7275174772794171394"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "An academic paper has excellent…",
+            "img": "",
+            "id": "7274628723700649985"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "I'm excited to share that I've joined…",
+            "img": "",
+            "id": "7212581848600694784"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "I saw this in the UMAP paper. The…",
+            "img": "",
+            "id": "7274477456324014080"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "NeurIPS acknowledges that the cultural…",
+            "img": "",
+            "id": "7273524812361154560"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "India's son, Youngest World Champion…",
+            "img": "",
+            "id": "7272986357956767744"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "This is the face of an 18-year-old who…",
+            "img": "",
+            "id": "7272965167636738049"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "The emotional moment that 18-year-old…",
+            "img": "",
+            "id": "18"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "History scripted!🇮🇳 At just 18…",
+            "img": "",
+            "id": "18"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "AI assistants are going to be with us…",
+            "img": "",
+            "id": "7272770804424052736"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "We explored London with a little help…",
+            "img": "",
+            "id": "7272657815184322560"
+        },
+        {
+            "interaction": "Liked by R. Shyaam Prasadh, Ph.D.",
+            "link": "",
+            "title": "We have received what appears to be a…",
+            "img": "",
+            "id": "7270446407340187648"
+        }
+    ],
+    "linkedin_num_id": 343424508.0,
+    "honors_and_awards": [
+        {
+            "title": "Asia Pacific recognition 2022",
+            "publication": "Ford Motor company",
+            "date": "2022-04-01T00:00:00.000Z",
+            "description": "Awarded for automating the validation process and stretching beyond to meet business requirements"
+        },
+        {
+            "title": "Asia Pacific recognition 2021",
+            "publication": "Ford motor company",
+            "date": "2021-12-01T00:00:00.000Z",
+            "description": "Awarded for automating the validation process and stretching beyond to meet business requirements"
+        },
+        {
+            "title": "Best alpha researcher award",
+            "publication": "Trexquant Investments",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "Globally third, India First"
+        },
+        {
+            "title": "CRISIL's Best Investment Research using Machine Learning",
+            "publication": "CRISIL and Indian Finance Association",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": "CRISIL in association with India Finance Association (IFA) started the CRISIL Doctoral Symposium in 2016 as a response to the emerging and fast-growing trends in theoretical and empirical asset pricing, risk management, banking analytics, regulations, financial crime and compliance analytics, machine learning, quantitative finance and econometrics, skewed towards advanced complex analytical approaches, modern quantitative methods, data-driven decisioning and digitisation. The IFA conference is… Show more"
+        },
+        {
+            "title": "Endeavour research fellowship",
+            "publication": "Australian Government",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Lakshmi Mill Works (LMW) Award –PSG Tech Alumni Association 2013",
+            "publication": "LMW and PSG Tech",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "UGC-NET (Management) 2013-14",
+            "publication": "MHRD (Indian Government )",
+            "date": null,
+            "description": "Test to determine eligibility for college and university level lectureship and for the award of Junior Research Fellowship for Indian nationals."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

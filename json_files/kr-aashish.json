@@ -1,0 +1,245 @@
+{
+    "id": "kr-aashish",
+    "name": "Aashish Kumar",
+    "city": "Midnapore Sadar, India",
+    "country_code": "IN",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Rootquotient",
+        "company_id": "rootquotient"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Prakhar Roy",
+            "about": "Technical Consultant at Deloitte | Angular 19 + .NET Core + Azure Cloud Developer",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sayali Joshi",
+            "about": "Ex - Senior Systems Engineer at Infosys",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Shatadru Majumdar",
+            "about": "SDE 2 @ Rippling | ex-Goldman Sachs | Backend Engineering | Distributed Systems | Big Data",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sreejith Sivan",
+            "about": null,
+            "location": "Bentonville, AR"
+        },
+        {
+            "profile_link": "",
+            "name": "Khushboo Kumari",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Yashvardhan .",
+            "about": "Software Engineer - 2 at VMware (by Broadcom)",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kunal Chamoli",
+            "about": "Machine Learning Engineer at Sirion | MLOps",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Singh",
+            "about": "MTS-2| Adobe | Ex-Unthinkable Solutions",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanka Jain",
+            "about": "Master's at IIIT,Bhubaneshwar |Ex-Accenturer | Backend Engineer | Gate-Qualified | AI-ML Enthusiast",
+            "location": "Roorkee"
+        },
+        {
+            "profile_link": "",
+            "name": "Swetapadma Das",
+            "about": "Junior Data Analyst | Machine Learning Intern || ML/DL Blog Writer",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018-06",
+            "end_year": "2023-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"AI60004\",\"title\":\"Big Data Processing\"},{\"subtitle\":\"CS61061\",\"title\":\"Data Analytics\"},{\"subtitle\":\"AI61002\",\"title\":\"Deep Learning Foundations and Applications\"},{\"subtitle\":\"AI42001\",\"title\":\"Machine Learning Foundations and Applications\"},{\"subtitle\":\"MA10001\",\"title\":\"Mathematics-1\"},{\"subtitle\":\"MA10002\",\"title\":\"Mathematics-2\"},{\"subtitle\":\"CS60075\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"MA20103\",\"title\":\"Partial Differential Equations\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"EP60003\",\"title\":\"Product Development\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"CS19001\",\"title\":\"Programming and Data Structures Tutorial and Laboratory\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "AlgoExpert",
+            "title": "AlgoExpert"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "AlgoZenith",
+            "title": "Applied Algorithms & Data Structures"
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Udacity",
+            "title": "Deep Learning Nanodegree"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "IBM",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "IBM",
+            "title": "Data Analysiswith Python"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "IBM",
+            "title": "Data Visualization with Python"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "IBM",
+            "title": "Python for Data Science and AI"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Complete Python Bootcamp"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "IEEE",
+            "title": "Winter School of AI"
+        },
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Indian Cyber Security Solutions",
+            "title": "Data Analytics"
+        }
+    ],
+    "recommendations": [
+        "Titas Bhattacharjee “Aashish has worked under my supervision in one of his project. He is an avid learner. His curiosity along with his sincerity will bring him success in all his future endeavor. He is also a good team worker and has a good leadership ability too.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 7741.0,
+    "connections": 500.0,
+    "current_company_company_id": "rootquotient",
+    "current_company_name": "Rootquotient",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Jira 2.0 | An Autonomous Project Management Suite\",\"start_date\":\"Apr 2024\",\"end_date\":\"Jun 2024\",\"description\":\"• Crafted a Lambda which triggers upon the project’s FRD upload into S3, andcreates user stories and tasks by leveraging Llama3 running in a private EC2• Facilitated Event Bridge to consume Slack messages periodically, then usedthe LLM through Flask APIs to compile task’s status and assignment updates• Employed SES to dispatch task update approvals to stakeholders, thereuponinvoking issue tracker’s APIs to reflect corresponding changes in the backlog\"},{\"title\":\"DeployX | UI Deployment Automation\",\"start_date\":\"Jan 2024\",\"end_date\":\"Mar 2024\",\"description\":\"• Built an API server with a private RDS, which queues build jobs, and streamslogs to Kafka for ingesting into ClickHouse, accessible as a polling endpoint• Provisioned an auto‐scaled ECS cluster, which runs an ECR image in Fargate,to process the build job for the given codebase, and dump the artifacts to S3• Developed a reverse proxy for the deployed UI builds, to stream static assetsfrom S3, mapping the projects’s subdomain to the S3 key with an RDS query\"},{\"title\":\"Fundraiser Management System\",\"start_date\":\"Nov 2023\",\"end_date\":\"Dec 2023\",\"description\":\"• Modeled project, donor & payment endpoints, with JWT auth, serializer, Joivalidation middleware layers, adopted S3 pre‐signed URLs for media uploads• Penned UTs for models & controllers and acceptance test suites for the APIendpoints, maintaining a 90% above code coverage, with Jest and SuperTest• Ensured application’s reliability with MongoDB Replica Sets, in PM2 clustermode with APM, leveraging Nginx as a web server and Route53 name server\"},{\"title\":\"Recommerce Platform for Community Marketplace\",\"start_date\":\"Dec 2022\",\"end_date\":\"Mar 2023\",\"description\":\"• Developed a recommerce platform with order, seller, search, and chatfeatures using React for the UI and an Express server for the backend• Integrated payment gateway via Stripe, social logins with Google/Facebookauthentication APIs, and cart using Redux state management• Employed Azure MySQL server for databases, the Storage service for mediafiles, and deployed the application on a Virtual Machine\"},{},{\"title\":\"Sentiment analysis for COVID-19 crisis\",\"start_date\":\"Sep 2020\",\"end_date\":\"Nov 2020\",\"description\":\"• Used a dataset of 179000 tweets and performed exploratory data analysis to analyse various temporal and spatial trends in the dataset• Used word to vector embedding and padding sequences for converting text to the encoded form for feeding to the model• Built a network with RNN and LSTM layers and output followed by the Softmax function to predict the sentiment of the input textGuide: Prof. Ram Babu Roy\"},{\"title\":\"Corporate reputation or corporate brand and SME financial performence\",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\",\"description\":\"• Analysed various financial models of researches conducted and done the literature review of 9 research articles to find the relationship between corporate reputation and financial performance of small and medium-sized enterprises (SMEs).• Made concluding insights for indices such as Brand Identity Development, Internal Branding, Brand Performance, Brand Orientation, Brand Awareness, Brand Credibility and Brand Communication in relation with Financial Performance.Guide: Dr. Titas Bhattacharjee\"},{},{},{\"title\":\"Cheaper and more effective ways of production of vermicompost\",\"start_date\":\"Jul 2019\",\"end_date\":\"Dec 2019\",\"description\":\"• Researched and found out the maximum efficient way of preparation of vermicompost.• Estimated the entire cost breakup and profitability of making such plant in Gopali, a nearby village to IIT Kharagpur campus, as per all the availability factors.Guide: Prof. Mrigank Sharad\"},{}]",
+    "organizations": null,
+    "location": "Midnapore Sadar",
+    "linkedin_id": "kr-aashish",
+    "activity": [
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "After years in data science, working with everything from traditional models to deep learning, I’ve found probabilistic modeling—especially Bayesian…",
+            "img": "",
+            "id": "7264279317465960449"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "I am excited to share that I have joined American Express as an Engineer II. This is a new adventure that I have been looking forward to, and I am…",
+            "img": "",
+            "id": "7259548383156072450"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "In an era of dynamic economic shifts and evolving industries, early career recruitment presents its challenges, demanding careful planning and…",
+            "img": "",
+            "id": "7110867365990449152"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "Meta fires 11,000 employees...!! 😢🥲 Anyone who is impacted, reach out, let's find jobs together..! P.S people who have jobs, please comment below…",
+            "img": "",
+            "id": "11000"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "Edit :- I have got a job. I would like to thank each and everyone who has helped me throughout the process. 😀 Hello Everyone, I am Tapesh Rawal,…",
+            "img": "",
+            "id": "6995059235029938176"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "Meta to start thousands of layoffs this week. The stock is down 73% YTD. The announcements will come by wed this week. After Twitter, Lyft, Stripe,…",
+            "img": "",
+            "id": "6995209145947688961"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "US is currently on a \"layoff-spree\". With companies like Twitter, Warner Bros. Discovery, Affirm, Lyft, Chime, Hootsuite, Opendoor, Oracle, Gem…",
+            "img": "",
+            "id": "6994382379905634304"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "Layoff 2022, % of the total workforce 1. Chime - 12% of the total workforce approx 160 employees 2. Lyft - 13% of the total workforce approx 650…",
+            "img": "",
+            "id": "6994505689402388481"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "Hello LinkedIn Family, I am thrilled to announce that I have cleared CFA level 1 examination on my first attempt, scoring in the 90th percentile. I…",
+            "img": "",
+            "id": "6887062564459704320"
+        },
+        {
+            "interaction": "Liked by Aashish Kumar",
+            "link": "",
+            "title": "Hello everyone!!! I am absolutely elated to share with all of you that I have been accepted as a research intern at Western University, Ontario…",
+            "img": "",
+            "id": "6875851041544511488"
+        }
+    ],
+    "linkedin_num_id": 661176597.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

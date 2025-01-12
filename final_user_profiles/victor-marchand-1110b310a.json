@@ -1,0 +1,48 @@
+{
+    "city": "Paris, Île-de-France, France",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Fudan University",
+            "url": "",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "复旦大学泛海国际金融学院",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "The Chartered Institute for Securities & Investment (The CISI)",
+            "title": "ACSI - International Certificate in Wealth & Investment Management"
+        }
+    ],
+    "current_company_name": "LUN Partners Group",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

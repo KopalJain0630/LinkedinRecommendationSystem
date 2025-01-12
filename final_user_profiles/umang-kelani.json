@@ -1,0 +1,116 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Savitribai Phule Pune University",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advance Java\"},{\"subtitle\":\"-\",\"title\":\"Core java\"},{\"subtitle\":\"-\",\"title\":\"MySQL\"},{\"subtitle\":\"-\",\"title\":\"c language\"},{\"subtitle\":\"-\",\"title\":\"c++ language\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Nov 2022Credential ID zsmtc9edSee credential",
+            "subtitle": "GoPractice, Inc",
+            "title": "Data-driven Product Management Simulator"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID nlcertlbqst42e3g36zt06See credential",
+            "subtitle": "NextLeap",
+            "title": "Associate Product Manager Fellowship"
+        },
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "GrowthSchool",
+            "title": "Product Management "
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID 97581fe7-5cc3-454a-a748-3f5b5c32cf7aSee credential",
+            "subtitle": "The Product Folks",
+            "title": "Product Analytics 101"
+        },
+        {
+            "meta": "Issued Nov 2021Credential ID UC-c884f525-bd54-4a09-ada2-97ef644e69a0See credential",
+            "subtitle": "Udemy",
+            "title": "Become a Product Manager | Learn the Skills & Get the Job"
+        },
+        {
+            "meta": "Issued Nov 2020Credential ID UC-e0f3b133-bc72-44f4-9cab-d53d3caa7e26See credential",
+            "subtitle": "Udemy",
+            "title": "Snowflake"
+        },
+        {
+            "meta": "Issued Dec 2019Credential ID 7JPDFLNBVSee credential",
+            "subtitle": "Google",
+            "title": "The Fundamentals of Digital Marketing"
+        },
+        {
+            "meta": "Issued Jun 2018Credential ID SSC/Q2101 ",
+            "subtitle": "NASSCOM",
+            "title": "Associate - Analytics"
+        },
+        {
+            "meta": "Issued Sep 2017Credential ID UC-18XB3HWQSee credential",
+            "subtitle": "Udemy",
+            "title": "SEO"
+        },
+        {
+            "meta": "Issued Aug 2017Credential ID UC-AL2FONEPSee credential",
+            "subtitle": "Udemy",
+            "title": "Email Marketing"
+        },
+        {
+            "meta": "Issued Aug 2017Credential ID UC-3DL5PED8See credential",
+            "subtitle": "Udemy",
+            "title": "GitHub Basics"
+        },
+        {
+            "meta": "Issued Aug 2017Credential ID UC-EHGIJ9EBSee credential",
+            "subtitle": "Udemy",
+            "title": "Introduction To Cloud Computing"
+        }
+    ],
+    "current_company_name": "BluSmart",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"IPL Data Analysis \",\"start_date\":\"Feb 2018\",\"end_date\":\"Apr 2018\",\"description\":\"Project: To analyze the Indian Premier League Cricket matches between 2008 and 2016 and predict the top 4 teams for 2018 version of IPL.Data Source: www.kaggle.com/manasgarg/iplTools & Technologies Used: Hadoop, R programming, Excel, MySql and Tableau\"},{\"title\":\"Resilient Change Tracking\",\"start_date\":\"Aug 2017\",\"end_date\":\"Mar 2018\",\"description\":\"Project: A library which works on RCT (Incremental backup technology) and seamlessly integrates with any backup application and provides the changed blocks since the last backup so as to only backup those blocks and automate the whole process.Tools & Technologies Used: C, C++, PowerShell scripting, Visual Studio and Win32 API\"},{},{},{\"title\":\"Result Analysis\",\"start_date\":\"Oct 2016\",\"end_date\":\"Jan 2017\",\"description\":\"Project: A website where engineering students from the University of Pune can view their results interactively and can get an insight into their academic profile.Tools & Technologies Used: PHP, MySql, HTML and CSS\"},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "V Award",
+            "publication": "Bitwise Inc",
+            "date": "2020-11-01T00:00:00.000Z",
+            "description": "Awarded with V award for contributing to outstanding team performance in Quarter 2 & 3 for achieving Customer Satisfaction, People, Innovation & Best Practices."
+        },
+        {
+            "title": "Excellence Award",
+            "publication": "Bitwise Inc",
+            "date": "2020-05-01T00:00:00.000Z",
+            "description": "Awarded with Excellence Award for demonstrating Passion, Excellence in Customer Service, Innovation & Creativity."
+        },
+        {
+            "title": "Excellence Award",
+            "publication": "Bitwise Inc",
+            "date": "2020-05-01T00:00:00.000Z",
+            "description": "Awarded with Excellence Award for demonstrating Passion, Excellence in Customer Service & Collaboration."
+        }
+    ]
+}

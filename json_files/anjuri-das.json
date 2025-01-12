@@ -1,0 +1,348 @@
+{
+    "id": "anjuri-das",
+    "name": "Anjuri Das",
+    "city": "London, England, United Kingdom",
+    "country_code": "GB",
+    "position": "Data Consultant at Deloitte Digital",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Deloitte Digital",
+        "company_id": "deloitte-digital",
+        "title": "Data Consultant at Deloitte Digital"
+    },
+    "experience": [
+        {
+            "title": "Deloitte Digital",
+            "location": "London, United Kingdom",
+            "description_html": null,
+            "duration": "2 years 4 months",
+            "positions": [
+                {
+                    "subtitle": "Deloitte Digital",
+                    "meta": "May 2024 - Present 8 months",
+                    "duration": "May 2024 - Present 8 months",
+                    "start_date": "May 2024",
+                    "end_date": "Present",
+                    "duration_short": "8 months",
+                    "title": "Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Deloitte Digital",
+                    "meta": "Sep 2022 - May 2024 1 year 9 months",
+                    "duration": "Sep 2022 May 2024 1 year 9 months",
+                    "start_date": "Sep 2022",
+                    "end_date": "May 2024",
+                    "duration_short": "1 year 9 months",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Deloitte Digital",
+            "company_id": "deloitte-digital",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Consultant",
+            "location": "Solihull, England, United Kingdom",
+            "description": "- Project Title: ‘Spatiotemporal forecasting of air pollutant concentrations in London’- Designed spatiotemporal air quality forecasting models for London based on a deep learning algorithm and a Kriging-based approach- Conducted extensive evaluation and comparison of forecasting performances of models- Analysed the improvement in forecasting accuracy upon spatial clustering and seasonal segmentation of data",
+            "description_html": "- Project Title: ‘Spatiotemporal forecasting of air pollutant concentrations in London’- Designed spatiotemporal air quality forecasting models for London based on a deep learning algorithm and a Kriging-based approach- Conducted extensive evaluation and comparison of forecasting performances of models- Analysed the improvement in forecasting accuracy upon spatial clustering and seasonal segmentation of data <!---->",
+            "duration": "Jun 2021 Aug 2021 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "3 months",
+            "company": "Enzen Global Limited - UK",
+            "company_id": "enzen-global-limited---uk",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Volunteer",
+            "description": "- Catalogued progress and strategies into a management information systems report delivered weekly- Visualized weekly teleconsultation trends in Python; oversaw volunteer performance and metrics- Examined track leads of plasma donors and volunteers with over 20,000 records using advanced Excel - Coordinated efficiently with multiple stakeholders in over 5 divisions, managed teams and resolved escalations",
+            "description_html": "- Catalogued progress and strategies into a management information systems report delivered weekly- Visualized weekly teleconsultation trends in Python; oversaw volunteer performance and metrics- Examined track leads of plasma donors and volunteers with over 20,000 records using advanced Excel - Coordinated efficiently with multiple stakeholders in over 5 divisions, managed teams and resolved escalations <!---->",
+            "duration": "Oct 2020 Jun 2021 9 months",
+            "start_date": "Oct 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "9 months",
+            "company": "Project StepOne",
+            "company_id": "projectstepone",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Finance Intern",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Bajaj Capital Ltd",
+            "company_id": "bajaj-capital-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Alistair Akrofi-Mantey",
+            "about": "Data Evangelist || Software Engineer || Product Manager",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Abena Nyarkoa. PhD",
+            "about": "Promoting an Equitable Future through Education & Advocacy. Empowering Minds: Transforming Lives. Researcher| Lecturer| Coach.",
+            "location": "Greater London"
+        },
+        {
+            "profile_link": "",
+            "name": "Richard Deacon BSc.,MSc., MBPsS., RSS",
+            "about": "Managing Director at Poole Bay Water Sports Limited SANDBANKS",
+            "location": "Greater Bournemouth Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Konstantinos Kantoutsis",
+            "about": "Investment Adviser, High-Frequency Trading Expert and AI Expert, M.Eng. National Technical University of Athens, PhD (c) University of Peloponnese",
+            "location": "Greece"
+        },
+        {
+            "profile_link": "",
+            "name": "Nuno Castro",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Mathur",
+            "about": "Pre-Seed Investor @DeVC || Prev: Founder @Verak (acq. by ID)",
+            "location": "South Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "David Brett-Williams",
+            "about": "Optometrist, Optometric Director & Clinical Lead",
+            "location": "Luton"
+        },
+        {
+            "profile_link": "",
+            "name": "Samuel Rufai",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Vasilis Vryniotis",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Sray Agarwal",
+            "about": null,
+            "location": "London Area, United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Candida Rogers PhD",
+            "about": "Director & Co-Founder of Artemis Research Associates Ltd - Life Sciences Talent Resourcing & Executive Search",
+            "location": "Greater Oxford Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Alexandros Zenonos, Ph.D.",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Suleman Malik (SamHax)",
+            "about": "Security Researcher | Public Speaker",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Chris Ogilvie-Taylor F IDM",
+            "about": "CEO : Marsden Grant Int : 17,000+ connections",
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Suzana Ilić",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Nisheeth Jaiswal",
+            "about": null,
+            "location": "Birmingham"
+        },
+        {
+            "profile_link": "",
+            "name": "Miguel Fierro",
+            "about": "I help people understand and apply AI",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Mark Barnes-Ricketts",
+            "about": null,
+            "location": "Woodstock"
+        }
+    ],
+    "educations_details": "University of Warwick - Warwick Business School",
+    "education": [
+        {
+            "title": "University of Warwick - Warwick Business School",
+            "degree": "Master of Science - MS",
+            "field": "Business Analytics",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of London",
+            "degree": "Bachelor of Science - BS",
+            "field": "Economics and Finance",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Mother's Public School",
+            "degree": "High School",
+            "field": "Science",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Kalinga",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Indirapuram",
+            "url": "",
+            "start_year": "2002",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2024Credential ID 4762621See credential",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified Data Cloud Consultant "
+        },
+        {
+            "meta": "Issued May 2023Credential ID 3429820See credential",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified CRM Analytics and Einstein Discovery Consultant"
+        },
+        {
+            "meta": "Issued Dec 2022",
+            "subtitle": "Salesforce",
+            "title": "Einstein Prediction Builder Accredited Professional "
+        },
+        {
+            "meta": "Issued Apr 2023Expires Apr 2024Credential ID 147762865See credential",
+            "subtitle": "Google",
+            "title": "Google Analytics Certification"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 601.0,
+    "connections": 500.0,
+    "current_company_company_id": "deloitte-digital",
+    "current_company_name": "Deloitte Digital",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "London",
+    "linkedin_id": "anjuri-das",
+    "activity": [
+        {
+            "interaction": "Liked by Anjuri Das",
+            "link": "",
+            "title": "I'm really looking forward to participating in the University of Bath speed mentoring event on 7th November. If you're a University of Bath graduate…",
+            "img": null,
+            "id": "7252716553576587264"
+        },
+        {
+            "interaction": "Liked by Anjuri Das",
+            "link": "",
+            "title": "Rachel Reeves walked into the UK Treasury as the first woman to take hold of the country’s purse strings. But by the new chancellor's own estimation,…",
+            "img": null,
+            "id": "7217467996083027971"
+        },
+        {
+            "interaction": "Liked by Anjuri Das",
+            "link": "",
+            "title": "🚀 Excited to share my ongoing journey of building \"Jarvis,\" a personal AI assistant, from the ground up. While it's nowhere near what I intend it to…",
+            "img": "",
+            "id": "7212897093193998337"
+        },
+        {
+            "interaction": "Liked by Anjuri Das",
+            "link": "",
+            "title": "What a game! What a team! What a victory!",
+            "img": "",
+            "id": "7212879794735083520"
+        },
+        {
+            "interaction": "Liked by Anjuri Das",
+            "link": "",
+            "title": "We’re marking #CarersWeek with our Working Families Network. This week we will spotlight some of our people who have caring responsibilities outside…",
+            "img": "",
+            "id": "7205826023291015168"
+        },
+        {
+            "interaction": "Liked by Anjuri Das",
+            "link": "",
+            "title": "Hard to believe yesterday was my first Salesforce London World Tour! Not sure what aches more - my face from 16 hours of smiling and talking or my…",
+            "img": "",
+            "id": "7204905526776754178"
+        }
+    ],
+    "linkedin_num_id": 592502870.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "city": "New York, New York, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "start_year": "1986",
+            "end_year": "1990",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Mach33 Financial Group (FKA Spaced Ventures & Gravity)",
+    "publications": "[{\"title\":\"Are space SPAC IPOs a regulator's dilemma?\",\"subtitle\":\"The Hill\",\"date\":\"March 20, 2021\",\"description\":\"The use of a special purpose acquisition company (SPAC) to access public capital has become a popular tool in most industries. For the space sector, it all started with Virgin Galactic in October of 2019 and in the last 15 months another $156 billion of capital was raised through SPACs across all industries. Space is a capital-intensive business and will see even more SPAC activity this year with Astra, BlackSky, Spire Global, Momentus, New Vista Acquisition Corp and most recently RocketLab joining in. There is a rich history of public market debut methods and now, with a new spin on an old method, the SPAC seems to be firmly added to the mix — but is it a legitimate capital tool or just another way to skirt regulators?\"},{\"title\":\"Keep democratizing private space investing\",\"subtitle\":\"Politico\",\"date\":\"February 12, 2021\",\"description\":\"Recent public market events saw retail investors exercise powers that are normally reserved for sophisticated Wall Street banks and hedge funds. Both traditional finance institutions and regulators are reeling after the “public short squeeze” of GameStop and several other companies in Jan 2021 and wondering what, if anything, should be done about it.\"},{\"title\":\"Is public capital ready to help fuel the private space economy?\",\"subtitle\":\"SpaceNews\",\"date\":\"January 25, 2021\",\"description\":\"For the first time in decades, the space industry is proving to be very popular again. With the recent successes of SpaceX’s crewed missions, the upcoming landing NASA’s Mars 2020 rover, Japan’s returned sample from the asteroid Ryugu, China’s lunar landing, and the test flights of Elon Musk’s Starship, public sentiment is becoming extremely positive again and enthusiasm seems to be nearing Apollo-era heights.\"},{\"title\":\"An artificial neural network based software reengineering tool for extracting objects\",\"subtitle\":\"IEEE\",\"date\":\"Feb 1994\",\"description\":\"Given the current level of interest in software reengineering and object-oriented methodologies, the possibility of a tool that could reengineer non object-oriented source code (COBOL) to a object-oriented formal specification and then into an implementation might attract widespread commercial interest. In this paper the authors address the issues in reengineering to an object-oriented form; in particular the extraction of objects from existing source code. The paper is divided into three sections. The first section introduces software reengineering and the object-oriented methodology while the reader is referred to key papers in these areas. The second section describes the three components of the software reengineering tool, which are, (1) the decomposer, (2) the information base, and (3) the composers, and a detailed description of the artificial neural network is presented. The third section describes results obtained from attempting the extraction of objects from existing systems.\"},{\"title\":\"Reengineering software modularity using artificial neural networks\",\"subtitle\":\"International conference on artificial neural networks\",\"date\":\"Feb 1994\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

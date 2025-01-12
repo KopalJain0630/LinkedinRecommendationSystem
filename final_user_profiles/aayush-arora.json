@@ -1,0 +1,43 @@
+{
+    "city": "Gurgaon, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Management Development Institute",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1999",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2016",
+            "subtitle": "Google AdWords Certified",
+            "title": "Google Adwords Certification"
+        }
+    ],
+    "current_company_name": "Titan Capital",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Design Standards Improvement\",\"start_date\":\"Sep 2015\",\"description\":\"Modification of design standards being followed at present for calculation of operating force in a two-wheeler switch.\"},{\"title\":\"Preform Yield Improvement\",\"start_date\":\"Jun 2014\"}]",
+    "honors_and_awards": null
+}

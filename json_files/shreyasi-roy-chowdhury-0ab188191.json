@@ -1,0 +1,457 @@
+{
+    "id": "shreyasi-roy-chowdhury-0ab188191",
+    "name": "Shreyasi Roy Chowdhury",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "Data Scientist @ Microsoft | IIT Kharagpur 2023 | ML, AI and applications",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Microsoft",
+        "company_id": "microsoft",
+        "title": "Data Scientist @ Microsoft | IIT Kharagpur 2023 | ML, AI and applications"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Part of Ranking and Relevance team, Bing Shopping- Analysed the reason for CCR (conditional click rate) regression in a few markets, concluding reason to be that less popular offers are being selected and shown by the ranker compared to what was being show previously. This  facilitated inclusion of static rank, a popularity signal to the ranker, taken up by other team members. - Designed a stable metric based on discounted cumulative gain (DCG) score to analyse Bing Shopping results based on offer relevance to query, quality of offers, and savings aspects. -Automated the relevance quality measurement pipeline using Large Language Models (LLMs) as judges by prompt engineering the judgement guidelines for model input. This approach proved to be 60% cost effective while increasing the throughput by almost 10x-Analysed market-wise relevance-based DCG scores for Bing vs. Google Shopping for a fixed queryset. Tagged queries for categories using LLM, enabling slicing and dicing of data for further analysis. Created a monitoring dashboard for score comparison.- Analysed DST (dynalic shop tab) triggering and suppression, in order to find the reason behind a sudden volume drop for Shop tab in a specific time-period. Analysed Coverage, FSDAU and FCDAU, precision and recall of DST triggering, and suprresion by other verticals to reach to a possible conclusion. Created monitoring dashboard for future use, facilitating easy debugging for any future volume drop scenario.",
+            "description_html": "Part of Ranking and Relevance team, Bing Shopping- Analysed the reason for CCR (conditional click rate) regression in a few markets, concluding reason to be that less popular offers are being selected and shown by the ranker compared to what was being show previously. This facilitated inclusion of static rank, a popularity signal to the ranker, taken up by other team members. - Designed a stable metric based on discounted cumulative gain (DCG) score to analyse Bing Shopping results based on offer relevance to query, quality of offers, and savings aspects. -Automated the relevance quality measurement pipeline using Large Language Models (LLMs) as judges by prompt engineering the judgement guidelines for model input. This approach proved to be 60% cost effective while increasing the throughput by almost 10x-Analysed market-wise relevance-based DCG scores for Bing vs. Google Shopping for a fixed queryset. Tagged queries for categories using LLM, enabling slicing and dicing of data for further analysis. Created a monitoring dashboard for score comparison.- Analysed DST (dynalic shop tab) triggering and suppression, in order to find the reason behind a sudden volume drop for Shop tab in a specific time-period. Analysed Coverage, FSDAU and FCDAU, precision and recall of DST triggering, and suprresion by other verticals to reach to a possible conclusion. Created monitoring dashboard for future use, facilitating easy debugging for any future volume drop scenario.",
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Fellow",
+            "location": "Darmstadt, Hesse, Germany",
+            "description": "- Received the Carl-Duisberg Fellowship by Bayer Foundation to carry out this research project based on my research proposal and profile.- Implemented four SOTA transformer-based deformable image registration models providing a comprehensive comparison of their performance.- Developed a generalized trainer for all registration models with Python decorators, simplifying the codebase and facilitating future experimentation- Adapted the codebase for a continual learning setup and implemented FasterVit, a faster version of Vision Transformer (ViT), to improve inference time in continual learning models, and evaluated its performance against state-of-the-art methods.",
+            "description_html": "- Received the Carl-Duisberg Fellowship by Bayer Foundation to carry out this research project based on my research proposal and profile.- Implemented four SOTA transformer-based deformable image registration models providing a comprehensive comparison of their performance.- Developed a generalized trainer for all registration models with Python decorators, simplifying the codebase and facilitating future experimentation- Adapted the codebase for a continual learning setup and implemented FasterVit, a faster version of Vision Transformer (ViT), to improve inference time in continual learning models, and evaluated its performance against state-of-the-art methods.",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Technische Universität Darmstadt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "- Designed a novel 3D auto-encoder model for future frame reconstruction for anomaly detection in lab experiment videos, gaining an increase in AUC by 15% from SOTA models. - Experimented with feature extraction (e.g. I3D) and data augmentation methods to handle shortage of training data.",
+            "description_html": "- Designed a novel 3D auto-encoder model for future frame reconstruction for anomaly detection in lab experiment videos, gaining an increase in AUC by 15% from SOTA models. - Experimented with feature extraction (e.g. I3D) and data augmentation methods to handle shortage of training data. <!---->",
+            "duration": "Jan 2022 Jan 2023 1 year 1 month",
+            "start_date": "Jan 2022",
+            "end_date": "Jan 2023",
+            "duration_short": "1 year 1 month",
+            "company": "Carnegie Mellon University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "- Worked on a large scale generic object detection model to extract key details such as image, title, price, and category from sales flyers, to enhance user experience by immersive shopping flyers, attracting 1.3M unique users with an 85% CTR- Designed and implemented image processing techniques combined with DL models, like Faster-RCNN and multi-modal CNN, for object detection",
+            "description_html": "- Worked on a large scale generic object detection model to extract key details such as image, title, price, and category from sales flyers, to enhance user experience by immersive shopping flyers, attracting 1.3M unique users with an 85% CTR- Designed and implemented image processing techniques combined with DL models, like Faster-RCNN and multi-modal CNN, for object detection <!---->",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Intern",
+            "description": "- Developed a face antispoofing model for biometric verification in the Indian market by utilizing StyleGAN for domain adaptation- Implemented patch-based CNN, progressive resizing and cutmix data augmentation which resulted in an increased accuracy by 10% from baseline- Finally, trained a depth-based U-net model to create depth maps of faces and a CNN head to classify images, yielding results comparable to SOTA",
+            "description_html": "- Developed a face antispoofing model for biometric verification in the Indian market by utilizing StyleGAN for domain adaptation- Implemented patch-based CNN, progressive resizing and cutmix data augmentation which resulted in an increased accuracy by 10% from baseline- Finally, trained a depth-based U-net model to create depth maps of faces and a CNN head to classify images, yielding results comparable to SOTA <!---->",
+            "duration": "Aug 2021 Nov 2021 4 months",
+            "start_date": "Aug 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "4 months",
+            "company": "SpoofSense",
+            "company_id": "spoofsense",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "Deep Learning-enabled Dasymetric Mapping Approach for Fine-Scale Population Estimation from high-resolution satellite images for Arctic regions.",
+            "description_html": "Deep Learning-enabled Dasymetric Mapping Approach for Fine-Scale Population Estimation from high-resolution satellite images for Arctic regions. <!---->",
+            "duration": "May 2021 Sep 2021 5 months",
+            "start_date": "May 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "5 months",
+            "company": "Penn State University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Object and Event Detection and Response Team Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Studying various literature and working on obstacle detection and avoidance algorithms for autonomous surveillance drones.",
+            "description_html": "Studying various literature and working on obstacle detection and avoidance algorithms for autonomous surveillance drones. <!---->",
+            "duration": "Jan 2021 Sep 2021 9 months",
+            "start_date": "Jan 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "9 months",
+            "company": "Advanced Drones Research Group",
+            "company_id": "advanced-drones-research-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer School on Artificial Intelligence",
+            "description": "Was selected for attending the 5th Summer School on Artificial Intelligence with focus on Computer Vision & Machine Learning organised by IIIT Hyderabad.",
+            "description_html": "Was selected for attending the 5th Summer School on Artificial Intelligence with focus on Computer Vision &amp; Machine Learning organised by IIIT Hyderabad. <!---->",
+            "duration": "Aug 2021 Aug 2021 1 month",
+            "start_date": "Aug 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "1 month",
+            "company": "International Institute of Information Technology Hyderabad (IIITH)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Vision Understanding and Machine Intelligence (VISUM) Summer School",
+            "description": "Was selected for attending the virtual VISUM Summer School 2021 and attended lectures on Image Retrieval, Image Understanding and Trustworthy AI.Participated in the project competition and improved upon the baseline of a fashion recommendation system model by integrating category encoding with image and text description encoding for given products",
+            "description_html": "Was selected for attending the virtual VISUM Summer School 2021 and attended lectures on Image Retrieval, Image Understanding and Trustworthy AI.Participated in the project competition and improved upon the baseline of a fashion recommendation system model by integrating category encoding with image and text description encoding for given products <!---->",
+            "duration": "Jul 2021 Jul 2021 1 month",
+            "start_date": "Jul 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "1 month",
+            "company": "INESC TEC",
+            "company_id": "inesc-tec",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Student Researcher",
+            "description": "Worked on building Visual Question Answering model in regional languages.Did literature review of related research on building a Visual Question Answering system.Translated the questions, answers, and captions of the VQA v2 Dataset to Bengali and implemented the code of VQA: Visual Question Answering paper to build a system in Bengali.",
+            "description_html": "Worked on building Visual Question Answering model in regional languages.Did literature review of related research on building a Visual Question Answering system.Translated the questions, answers, and captions of the VQA v2 Dataset to Bengali and implemented the code of VQA: Visual Question Answering paper to build a system in Bengali. <!---->",
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Guwahati",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Working as a Software Team Member for a student-run education-based startup that will help students develop the necessary skills for getting internships in the increasingly competitive corporate world.  Worked on scraping different sites using BeautifulSoup and Selenium.Worked on clustering scraped text data using algorithms like Spectral Clustering, Gaussian Clustering, HDBSCAN etc..Improved accuracy to 0.75 by implementing an ensemble technique of classifying text data by transformer-based models like ALBERT.Worked on resume parsing techniques using computer vision and rule-based methods for extracting information from resumes.Used Python Programming language for the project.",
+            "description_html": "Working as a Software Team Member for a student-run education-based startup that will help students develop the necessary skills for getting internships in the increasingly competitive corporate world. Worked on scraping different sites using BeautifulSoup and Selenium.Worked on clustering scraped text data using algorithms like Spectral Clustering, Gaussian Clustering, HDBSCAN etc..Improved accuracy to 0.75 by implementing an ensemble technique of classifying text data by transformer-based models like ALBERT.Worked on resume parsing techniques using computer vision and rule-based methods for extracting information from resumes.Used Python Programming language for the project.",
+            "duration": "Jun 2020 Feb 2021 9 months",
+            "start_date": "Jun 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "9 months",
+            "company": "iC2C",
+            "company_id": "icampus2corporate",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Kanpur, Uttar Pradesh, India",
+            "description": "Worked on multimodal prediction of future stock prices of the FANG companies using various factors like past stock prices, currency exchange rate, fuel prices, news analysis and Twitter sentiment analysis.Did litererature review of reseach papers to find out factors affecting stock price.Built an LSTM model using Pytorch to predict daily stock prices of FAANG companies using stocks, Twitter sentiment, etc..Scraped Twitter, pre-processed the tweets and applied classification algorithms like Naive Bayes and Random Forest for tweet sentiment analysis.Finally used SentimentIntensityAnalyser(SIA) of NLTK’s vader sentiment lexicon for Twitter sentiment analysis.",
+            "description_html": "Worked on multimodal prediction of future stock prices of the FANG companies using various factors like past stock prices, currency exchange rate, fuel prices, news analysis and Twitter sentiment analysis.Did litererature review of reseach papers to find out factors affecting stock price.Built an LSTM model using Pytorch to predict daily stock prices of FAANG companies using stocks, Twitter sentiment, etc..Scraped Twitter, pre-processed the tweets and applied classification algorithms like Naive Bayes and Random Forest for tweet sentiment analysis.Finally used SentimentIntensityAnalyser(SIA) of NLTK’s vader sentiment lexicon for Twitter sentiment analysis.",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Student Researcher",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Worked on Conditional Affordance Learning (CAL) for autonomous driving under the guidance of Prof. Sourangshu Bhattacharya, Department of Computer Science and Engineering.Implemented the paper ”Conditional Affordance Learning for Driving in Urban Environments” for image classification using Pytorch, to predict the next action to be taken by the autonomous vehicle.Fine-tuned convolutional layers of a VGG16 network for extracting different features from input images after applying augmentations.Optimized hyperparameters and chose between dense layers, LSTMs, GRUs, and temporal convolutional layers as last layer for different tasks for best performance.",
+            "description_html": "Worked on Conditional Affordance Learning (CAL) for autonomous driving under the guidance of Prof. Sourangshu Bhattacharya, Department of Computer Science and Engineering.Implemented the paper ”Conditional Affordance Learning for Driving in Urban Environments” for image classification using Pytorch, to predict the next action to be taken by the autonomous vehicle.Fine-tuned convolutional layers of a VGG16 network for extracting different features from input images after applying augmentations.Optimized hyperparameters and chose between dense layers, LSTMs, GRUs, and temporal convolutional layers as last layer for different tasks for best performance.",
+            "duration": "Feb 2020 Jun 2020 5 months",
+            "start_date": "Feb 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Research Intern",
+            "location": "Washington, United States",
+            "description": "Researched on implementing Computer Vision techniques to improve hygiene in restaurants. Reviewed relevant literature and came up with ideas on implementing them in a real-world scenario.",
+            "description_html": "Researched on implementing Computer Vision techniques to improve hygiene in restaurants. Reviewed relevant literature and came up with ideas on implementing them in a real-world scenario. <!---->",
+            "duration": "Mar 2020 May 2020 3 months",
+            "start_date": "Mar 2020",
+            "end_date": "May 2020",
+            "duration_short": "3 months",
+            "company": "CognitiveWorks AI",
+            "company_id": "cognitiveworksai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Participant of KWOC 2019",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Built a movie recommendation system using 1Million user-movie ratings Netflix Dataset.Used probabilistic matrix factorization method and optimized the number of latent features in the user and movie matrices.",
+            "description_html": "Built a movie recommendation system using 1Million user-movie ratings Netflix Dataset.Used probabilistic matrix factorization method and optimized the number of latent features in the user and movie matrices. <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Kharagpur Open Source Society",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Winter Workshop",
+            "description_html": null,
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Technology Robotix Society",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Junior Associate",
+            "description_html": null,
+            "duration": "Jan 2019 Sep 2019 9 months",
+            "start_date": "Jan 2019",
+            "end_date": "Sep 2019",
+            "duration_short": "9 months",
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Mohit Saini",
+            "about": "Software Engineer 2 at Hewlett Packard Enterprise | Automation | Backend | AI",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Likhitha P",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aiswarya Aiju",
+            "about": "Decision Science | Project Lead at Axtria | Data and Analytics Consulting | St. Stephens’s College, Delhi",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aniket Dhole",
+            "about": "MS ECE @Northeastern University | Research Assistant @SiliconSynapse | Co-Founder @Vunatec",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Fathima Swaliha",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishant Hegde",
+            "about": "MS Data Science @ University of Rochester | Former SWE at Toshiba Software India | Ex-Machine Learning Intern at Multicoreware",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Seemaparvez S.",
+            "about": "PhD Candidate | Researcher | MSc Cybersecurity | Information Security | Network Security | UNT",
+            "location": "Denton, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Kuldeep Lamba",
+            "about": "Software engineer at CBA",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratiksha Pawar",
+            "about": "Senior Career Counselor",
+            "location": "United States"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated Dual Degree",
+            "field": "Artificial Intelligence, Machine Learning and Applications (M.Tech), Mechanical Engineering (B.Tech)",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Advanced Drones Research Group, Technology Filmmaking and Photography Society (TFPS), International Relations Cell, IIT Kharagpur -Former Captain of the team winning 2nd position in a object detection task organised by Cloudphysician, in Inter-IIT Tech 2023. -Former Captain of Hall Data Analytics team in Inter- Hall competitions.",
+            "description_html": "Activities and Societies: Advanced Drones Research Group, Technology Filmmaking and Photography Society (TFPS), International Relations Cell, IIT Kharagpur",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"AI system software stack engineering\"},{\"subtitle\":\"-\",\"title\":\"Accelerated Data Science\"},{\"subtitle\":\"-\",\"title\":\"CS231n: Convolutional Neural Networks for Visual Recognition\"},{\"subtitle\":\"CS60010\",\"title\":\"Deep Learning\"},{\"subtitle\":\"-\",\"title\":\"Generative Adversarial Networks (GANs) Specialization, Coursera\"},{\"subtitle\":\"CS60050\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Mathematics for Machine Learning Specialization, Coursera\"},{\"subtitle\":\"CS60057\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"MA20103\",\"title\":\"Partial Differential Equations\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"CS11001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"MA20101\",\"title\":\"Transform Calculus\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Bengali "
+        }
+    ],
+    "certifications": [
+        {
+            "subtitle": "Stanford Online",
+            "title": "Convolutional Neural Networks for Visual Recognition"
+        },
+        {
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization, DeepLearning.ai"
+        },
+        {
+            "subtitle": "Coursera",
+            "title": "Machine Learning by Stanford University"
+        },
+        {
+            "subtitle": "Coursera",
+            "title": "Mathematics for Machine Learning Specialization"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Mar 2020 · 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Mar 2020",
+            "info": "Taught underprivileged students of primary level in a nearby village of IIT Kharagpur. Served as Unit Team Leader for 1 year and organized the activities done by our Unit.",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Teacher"
+        }
+    ],
+    "followers": 1256.0,
+    "connections": 500.0,
+    "current_company_company_id": "microsoft",
+    "current_company_name": "Microsoft",
+    "publications": "[{\"title\":\"Book Chapter\",\"subtitle\":\"Elseiver\",\"date\":\"October 20, 2023\",\"description\":\"\\\"Chapter 12 - Classification of diseases from CT images using LSTM-based CNN\\\", in \\\"Diagnostic Biomedical Signal and Image Processing Applications with Deep Learning Methods\\\", Eds. Elsevier, 2023. DOI : 10.1016/B978-0-323-96129-5.00008-1\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Monitoring lung cancer using CBCT radiomics, medical image analysis\",\"start_date\":\"Feb 2021\",\"end_date\":\"Mar 2023\",\"description\":\"Working under Prof. Jayanta Mukhopadhyay of the Department of Computer Science and Engineering to detect whether a patient is responsive to radiotherapy treatment. Studied about DICOM data standard and Pydicom library, a python package for medical images, and radiotherapy objects.Extracted features from the CBCT images using Pydicom library and found feature importance using T-test.Used classification algorithms like RandomForest to find whether a patient is responding to chemotherapy.\"},{\"title\":\"Introducing interpretability in convolutional neural network\",\"start_date\":\"Oct 2020\",\"end_date\":\"Dec 2020\",\"description\":\"Did literature review of research papers like ”Interpretable Convolutional Neural Networks” and \\\"This Looks Like That: Deep Learning for Interpretable Image Recognition”.Implemented their codes to compared how introducing interpretability with Convolutional Neural Networks gave better performance than gradient-based visualization techniques like Grad-CAM.\"},{\"title\":\"Prediction of crop production using image processing\",\"start_date\":\"Sep 2019\",\"end_date\":\"Feb 2020\",\"description\":\"Used different types of segmentation to find out the percentage of green vegetation in the given images. Used semantic, edge-based and region-based segmentation to find the percentage of green and yellow vegetation cover.\"}]",
+    "organizations": [
+        {
+            "title": "Complex Networks Research Group",
+            "membership_type": "Student Researcher",
+            "start_date": "May 2021",
+            "end_date": "Present",
+            "membership_number": null
+        },
+        {
+            "title": "Advanced Drones Research Group",
+            "membership_type": "OEDR Member",
+            "start_date": "Jan 2021",
+            "end_date": "Present",
+            "membership_number": null
+        }
+    ],
+    "location": "Hyderabad",
+    "linkedin_id": "shreyasi-roy-chowdhury-0ab188191",
+    "activity": [
+        {
+            "interaction": "Liked by Shreyasi Roy Chowdhury",
+            "link": "",
+            "title": "I’m thrilled to share that I scored a 755 (100th percentile) on the GMAT Focus Edition! 🙌 I'm also incredibly grateful for the overwhelming support…",
+            "img": "",
+            "id": "755"
+        },
+        {
+            "interaction": "Liked by Shreyasi Roy Chowdhury",
+            "link": "",
+            "title": "“Writing and publishing research work is not a piece of cake, and you won’t be able to publish any research paper this way. That is not how it…",
+            "img": "",
+            "id": "7250739487364796417"
+        },
+        {
+            "interaction": "Liked by Shreyasi Roy Chowdhury",
+            "link": "",
+            "title": "I am extremely happy to share that I have successfully delivered my PhD synopsis seminar on the 3rd of October. PhD has been a fulfilling journey…",
+            "img": "",
+            "id": "7251614908092465154"
+        },
+        {
+            "interaction": "Liked by Shreyasi Roy Chowdhury",
+            "link": "",
+            "title": "Hiring an ML/NLP intern for my team at Tower Research Capital. If you’re interested in applying deep learning techniques, language models and graph…",
+            "img": "",
+            "id": "7247811956827414529"
+        },
+        {
+            "interaction": "Liked by Shreyasi Roy Chowdhury",
+            "link": "",
+            "title": "Spent my weekend watching a few videos from this series, and I genuinely can't recommend it enough for AI practitioners. Check out this hands-on…",
+            "img": "",
+            "id": "7241277358182137856"
+        },
+        {
+            "interaction": "Liked by Shreyasi Roy Chowdhury",
+            "link": "",
+            "title": "$0.07 (~ INR 6) is all it takes to create a hyper-personalized deepfake spoof attack. Let that sink in. Imagine this: A simple text prompt like \"a…",
+            "img": "",
+            "id": "7232664222545887232"
+        },
+        {
+            "interaction": "Liked by Shreyasi Roy Chowdhury",
+            "link": "",
+            "title": "Open Secret : a mini truth bomb: The AI/ML hype on social media is totally misleading. Most people in AI are doing ordinary, even irrelevant, work…",
+            "img": "",
+            "id": "7240329898618241025"
+        },
+        {
+            "interaction": "Liked by Shreyasi Roy Chowdhury",
+            "link": "",
+            "title": "The perverse incentives of U.S. capitalism: 1. Cisco laid off 7% of its staff 2. Immediately after, Cisco stock had its biggest jump in 4 years 3…",
+            "img": "",
+            "id": "7233901419391504385"
+        }
+    ],
+    "linkedin_num_id": 755882627.0,
+    "honors_and_awards": [
+        {
+            "title": "Carl Duisberg Fellow",
+            "publication": "Bayer Foundation",
+            "date": "2023-05-01T00:00:00.000Z",
+            "description": "Among the 41 awardees chosen worldwide, based on research profile and project statement, to conduct a research project in Germany"
+        },
+        {
+            "title": "2nd position in Inter IIT Tech Meet as team captain in computer vision track",
+            "publication": "Inter IIT Tech",
+            "date": "2023-02-01T00:00:00.000Z",
+            "description": "Led a team of 15 students in a text detection (OCR) competition organised by Cloudphysician in the Inter IIT Tech Meet"
+        },
+        {
+            "title": "2nd position, Intel AI Entrepre-Neural Competition",
+            "publication": "Intel",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": "Built a toddler autism detection model using facial images and a screening test for Autism Spectrum. Trained a VGGFace model for final submission, with other models like ResNet 50 and MobileNet to compare performance. Inferenced the model using Intel’s OpenVino for lesser inference time."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

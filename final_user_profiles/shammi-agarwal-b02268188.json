@@ -1,0 +1,74 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Advanced Software Engineer @ Honeywell | Enterprise Security Development",
+    "experience": [
+        {
+            "title": "Honeywell",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Honeywell",
+                    "meta": "Feb 2023 - Present 1 year 11 months",
+                    "description": "Enterprise Security Application Development : Spearheaded the creation of an Enterprise Security application, enabling efficient and secure access control for enterprises. Utilized advanced algorithms and robust security protocols to ensure the highest standards of data protection and user authentication.Z9 Integration Lead : Directed the seamless integration of the Enterprise Security application with Z9, enhancing interoperability across multiple access systems. This initiative facilitated smoother migrations and improved user experience by ensuring consistent communication between different security frameworks.",
+                    "duration": "Feb 2023 - Present 1 year 11 months",
+                    "start_date": "Feb 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 11 months",
+                    "title": "Advanced Software Engineer",
+                    "description_html": "Enterprise Security Application Development : Spearheaded the creation of an Enterprise Security application, enabling efficient and secure access control for enterprises. Utilized advanced algorithms and robust security protocols to ensure the highest standards of data protection and user authentication.<br><br>Z9 Integration Lead : Directed the seamless integration of the Enterprise Security application with Z9, enhancing interoperability across multiple access systems. This initiative facilitated smoother migrations and improved user experience by ensuring consistent communication between different security frameworks."
+                },
+                {
+                    "subtitle": "Honeywell",
+                    "meta": "Jul 2021 - Jan 2023 1 year 7 months",
+                    "description": "Niagara Framework Development : Played a crucial role in developing and maintaining the Niagara Framework, a powerful data normalization platform. Successfully implemented the Visitor Integration service, which bridged Niagara’s Enterprise Security with Sine, a visitor management solution, leveraging AWS IoT for efficient communication.User Experience Enhancement:  Led enhancements in the Niagara Analytics module, focusing on data visualization improvements. Introduced intuitive charts and tables that significantly boosted user engagement and analytical capabilities.Code Quality Improvement : Proactively addressed and resolved approximately 2000 compiler warnings in the legacy enterprise security code. This effort not only improved code quality but also enhanced developer understanding and collaboration within the team.",
+                    "duration": "Jul 2021 Jan 2023 1 year 7 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Jan 2023",
+                    "duration_short": "1 year 7 months",
+                    "title": "Software Developer",
+                    "description_html": "Niagara Framework Development : Played a crucial role in developing and maintaining the Niagara Framework, a powerful data normalization platform. Successfully implemented the Visitor Integration service, which bridged Niagara’s Enterprise Security with Sine, a visitor management solution, leveraging AWS IoT for efficient communication.<br><br>User Experience Enhancement: Led enhancements in the Niagara Analytics module, focusing on data visualization improvements. Introduced intuitive charts and tables that significantly boosted user engagement and analytical capabilities.<br><br>Code Quality Improvement : Proactively addressed and resolved approximately 2000 compiler warnings in the legacy enterprise security code. This effort not only improved code quality but also enhanced developer understanding and collaboration within the team."
+                }
+            ],
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Virtual Aircraft Assistant : Innovatively conceptualized and deployed a Virtual Aircraft Assistant aimed at reducing cabin crew workload and enhancing aircraft safety. Utilized deep learning models, specifically YOLO on a darknet framework, to develop a highly efficient solution.Edge Computing Deployment : Successfully deployed the Virtual Aircraft Assistant on an NVIDIA TX2 edge device, achieving a best-case recall of 95% and an impressive output of 24 frames per second. This project showcased my ability to integrate cutting-edge AI technology with practical, real-world applications.",
+            "description_html": "Virtual Aircraft Assistant : Innovatively conceptualized and deployed a Virtual Aircraft Assistant aimed at reducing cabin crew workload and enhancing aircraft safety. Utilized deep learning models, specifically YOLO on a darknet framework, to develop a highly efficient solution.Edge Computing Deployment : Successfully deployed the Virtual Aircraft Assistant on an NVIDIA TX2 edge device, achieving a best-case recall of 95% and an impressive output of 24 frames per second. This project showcased my ability to integrate cutting-edge AI technology with practical, real-world applications.",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Honeywell",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

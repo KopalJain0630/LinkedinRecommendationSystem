@@ -1,0 +1,416 @@
+{
+    "id": "dev-ag",
+    "name": "Dev Agarwal",
+    "city": "Jaipur, Rajasthan, India",
+    "country_code": "IN",
+    "position": "SDE @ Atlassian | U.S. Patent (published) | IIT Kharagpur | Prev: Zomato | Candidate Master @ Codeforces | CVPR 2022",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Atlassian",
+        "company_id": "atlassian",
+        "title": "SDE @ Atlassian | U.S. Patent (published) | IIT Kharagpur | Prev: Zomato | Candidate Master @ Codeforces | CVPR 2022"
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "Atlassian",
+            "company_id": "atlassian",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description": "Logistics Tech",
+            "description_html": "Logistics Tech <!---->",
+            "duration": "Jun 2024 Oct 2024 5 months",
+            "start_date": "Jun 2024",
+            "end_date": "Oct 2024",
+            "duration_short": "5 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Generative AI Researcher ( NeRFs)",
+            "location": "Toronto, Ontario, Canada",
+            "description": "• Generated realistic 3-D scenes for 5 objects with 10 environments from 2-D using NeRF for surface reconstruction• Employed neural decoder models in the ENVIDR algorithm to extract texture maps for albedo and roughness components• Improved user experience by integrating SDF-Studio, yielding a user-friendly API for seamless NeRF creation, training, testing• Added Custom GUI using the nerfstudio framework for changing the environment on the web-based viewer in real-time",
+            "description_html": "• Generated realistic 3-D scenes for 5 objects with 10 environments from 2-D using NeRF for surface reconstruction• Employed neural decoder models in the ENVIDR algorithm to extract texture maps for albedo and roughness components• Improved user experience by integrating SDF-Studio, yielding a user-friendly API for seamless NeRF creation, training, testing• Added Custom GUI using the nerfstudio framework for changing the environment on the web-based viewer in real-time <!---->",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "University of Toronto",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Applied Research Fellow (Computer Vision)",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Pioneered a groundbreaking solution to revolutionize road safety by detecting, tracking, and counting triple-riding violations and helmet offenses on challenging, bustling roads.• Engineered a novel trapezium box representation and harnessed the power of curriculum learning-based detection models to achieve unparalleled accuracy in identifying and addressing violations.• Significantly improved F1-scores for both triple-riding and helmet violations, surpassing existing benchmarks, showcasing the potential to enforce safer commuting practices and protect lives on the road.",
+            "description_html": "• Pioneered a groundbreaking solution to revolutionize road safety by detecting, tracking, and counting triple-riding violations and helmet offenses on challenging, bustling roads.• Engineered a novel trapezium box representation and harnessed the power of curriculum learning-based detection models to achieve unparalleled accuracy in identifying and addressing violations.• Significantly improved F1-scores for both triple-riding and helmet violations, surpassing existing benchmarks, showcasing the potential to enforce safer commuting practices and protect lives on the road.",
+            "duration": "May 2021 Apr 2022 1 year",
+            "start_date": "May 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "1 year",
+            "company": "IIIT Hyderabad",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "India",
+            "description": "•  Utilized data analysis techniques to extract and interpret key performance indicators (KPIs) from the properties' datasets in the Gurugram region. These insights contributed to data-driven decision-making processes.• Conducted comprehensive analysis of various factors affecting apartments, such as location, amenities, and market trends. The result was the development of a holistic property scoring system that provided valuable guidance to customers and stakeholders.• Collaborated with cross-functional teams to conceptualize the Data Architecture of the organization. Additionally, played a crucial role in the evaluation and purchase of wireframe tools, enhancing the efficiency of data visualization and reporting processes.",
+            "description_html": "• Utilized data analysis techniques to extract and interpret key performance indicators (KPIs) from the properties' datasets in the Gurugram region. These insights contributed to data-driven decision-making processes.• Conducted comprehensive analysis of various factors affecting apartments, such as location, amenities, and market trends. The result was the development of a holistic property scoring system that provided valuable guidance to customers and stakeholders.• Collaborated with cross-functional teams to conceptualize the Data Architecture of the organization. Additionally, played a crucial role in the evaluation and purchase of wireframe tools, enhancing the efficiency of data visualization and reporting processes.",
+            "duration": "Aug 2021 Nov 2021 4 months",
+            "start_date": "Aug 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "4 months",
+            "company": "RealtyAI",
+            "company_id": "realty-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneurship Cell, IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Jan 2021 - May 2021 5 months",
+                    "duration": "Jan 2021 May 2021 5 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "May 2021",
+                    "duration_short": "5 months",
+                    "title": "Associate Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Jul 2020 - Jan 2021 7 months",
+                    "duration": "Jul 2020 Jan 2021 7 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Jan 2021",
+                    "duration_short": "7 months",
+                    "title": "Associate Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Aug 2019 - Jul 2020 1 year",
+                    "description": "Collaborated with 20+professors & 30+representatives from 15+colleges of Jaipur & Kolkata Region to help witness 1.2k+ participants & 52+eminent entrepreneurs for our annual flagship event by increasing student participation by 120% & generating incremental revenue worth INR 3.3L YoY.",
+                    "duration": "Aug 2019 Jul 2020 1 year",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year",
+                    "title": "GES Intern (Events, Public Relations)",
+                    "description_html": "Collaborated with 20+professors &amp; 30+representatives from 15+colleges of Jaipur &amp; Kolkata Region to help witness 1.2k+ participants &amp; 52+eminent entrepreneurs for our annual flagship event by increasing student participation by 120% &amp; generating incremental revenue worth INR 3.3L YoY. <!---->"
+                }
+            ],
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Machine Learning Researcher (Computer Vision)",
+            "description": "• Conducted research on enhancing autonomous driving vehicles' scene understanding in adverse weather conditions.• Developed and curated a diverse dataset of 1K+ images encompassing 5 weather classes to train and validate models effectively.• Spearheaded a comprehensive literature survey on Convolutional Neural Network (CNN) models to pave the way for implementing Variational Autoencoders (VAE) in the project.",
+            "description_html": "• Conducted research on enhancing autonomous driving vehicles' scene understanding in adverse weather conditions.• Developed and curated a diverse dataset of 1K+ images encompassing 5 weather classes to train and validate models effectively.• Spearheaded a comprehensive literature survey on Convolutional Neural Network (CNN) models to pave the way for implementing Variational Autoencoders (VAE) in the project. <!---->",
+            "duration": "Jan 2021 Mar 2021 3 months",
+            "start_date": "Jan 2021",
+            "end_date": "Mar 2021",
+            "duration_short": "3 months",
+            "company": "Department of CSE, IIT Hyderabad",
+            "company_id": "department-of-cse-iit-hyderabad",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Development Consultant",
+            "description": "• Led collaboration with Fytorem, a pioneering plant-based air purifier startup, to devise and execute a highly effective Go-To-Market Strategy, resulting in accelerated market penetration and increased customer engagement.• Partnered with World Vision NGO to analyze and derive valuable insights on Employment in India, leveraging a vast dataset of 16K+ answers from 4 cities, contributing to data-driven decision-making and impactful social initiatives.• Published (2/20+) cutting-edge reports on 5G and Cryptocurrency, solidifying expertise in emerging technologies and creating a significant impact, reflected in a remarkable growth of 4K+ social media followers.",
+            "description_html": "• Led collaboration with Fytorem, a pioneering plant-based air purifier startup, to devise and execute a highly effective Go-To-Market Strategy, resulting in accelerated market penetration and increased customer engagement.• Partnered with World Vision NGO to analyze and derive valuable insights on Employment in India, leveraging a vast dataset of 16K+ answers from 4 cities, contributing to data-driven decision-making and impactful social initiatives.• Published (2/20+) cutting-edge reports on 5G and Cryptocurrency, solidifying expertise in emerging technologies and creating a significant impact, reflected in a remarkable growth of 4K+ social media followers.",
+            "duration": "Jul 2020 Mar 2021 9 months",
+            "start_date": "Jul 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "9 months",
+            "company": "180 Degrees Consulting IIT Kharagpur",
+            "company_id": "180-degrees-consulting-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Siddharth Gandhi",
+            "about": "Kwal • IIT Kharagpur",
+            "location": "Udaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Devesh Gobind",
+            "about": "Times • Ex-Apollo 247 • G. Sec. Alumni Affairs @ Nehru Hall of Residence 2021-2022 • IIT Kharagpur 2023",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Garg",
+            "about": "BCG | IIT Kharagpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratik Koranne",
+            "about": "Indus Insights | IIT KGP | P&G | Entrepreneurship Cell",
+            "location": "Vadodara"
+        },
+        {
+            "profile_link": "",
+            "name": "Duhita Wani",
+            "about": "Building CareDale | IIT Kharagpur '23",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Itish Goel",
+            "about": "Investment Analyst at Weiss Asset Management",
+            "location": "Hanover, NH"
+        },
+        {
+            "profile_link": "",
+            "name": "Avi Srivastava",
+            "about": "Consultant |GenAI | RAG, Langchain, LLM | Data Science | Machine Learning | Deep Learning | Computer Vision",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Apoorv Bansal",
+            "about": "APM @Navi | Prev: Bain | CFA L1 | IIT KGP",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sreeram M",
+            "about": "Analyst at Bain & Company | BITS | Zinnov",
+            "location": "Kerala, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanka Pundir",
+            "about": "Staff Consultant at ORACLE FINANCIAL SERVICES SOFTWARE LIMITED",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shrey Paharia",
+            "about": "Solidity Smart Contract Expert Developer | DeFi Product Strategist | IIT Bombay",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Shantanu Chaudhary",
+            "about": "Mckinsey & Company | Management Consulting | SSCBS |",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ragini Laskar",
+            "about": "Analyst @YCP Auctus | Ex Bain, KPMG",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Poornesh Goswami",
+            "about": "Consultant at IQVIA || Great Lakes Institute of Management",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanvi Bhargava",
+            "about": "Knowledge Specialist at Bain & Company",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhavya Popli",
+            "about": "Accenture Strategy | Deloitte | IIMK'20 | BVCOE'18 | IIMK Top 5%",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shwetha Somasundaram",
+            "about": "Research Associate at Adobe India",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Hurkat",
+            "about": "IIT KGP | Machani Group | CFA L1 | Product | Strategy",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sourabh Kamble",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rushi Shah",
+            "about": null,
+            "location": "Troy, MI"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated M.Sc. Economics",
+            "field": "Micro-Specialization: Artificial Intelligence",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Candlewick Public School",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2562.0,
+    "connections": 500.0,
+    "current_company_company_id": "atlassian",
+    "current_company_name": "Atlassian",
+    "publications": "[{\"title\":\"Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads\",\"subtitle\":\"CVPR Workshop\",\"date\":\"April 2, 2022\",\"description\":\"A novel approach that simultaneously detects and tracks both triple riding violations and helmet violations\"}]",
+    "patents": "[{\"title\":\"System and method for detecting and tracking two-wheeler vehicle traffic violation using a deep learning model background\",\"date_issued\":\"June 4, 2023\",\"patents_id\":\"US Patent 18/131,765\"}]",
+    "projects": null,
+    "organizations": null,
+    "location": "Jaipur",
+    "linkedin_id": "dev-ag",
+    "activity": [
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "Sponsorship ❌ Sponsorship in the right market ✅ IIT Bombay it is",
+            "img": "",
+            "id": "7277357240901103616"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "And I took a leap of faith! 💫 After my short stint at Zomato, I’m really excited to announce that I’ve joined AlgoZenith full-time as a Founding…",
+            "img": "",
+            "id": "7268258237735407616"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "Naya var chahiye ya purana ex? 😂😂😂 Zepto Shaadi.com",
+            "img": "",
+            "id": "7267123338261471232"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "🚀 Exciting News! 🚀 Juhi Chauhan, and my friend Rhea are thrilled to announce the launch of their women-led IT solutions and staff augmentation…",
+            "img": "",
+            "id": "7256990980128530432"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "Note to self: please return calls .. lol #SwiggyIPO",
+            "img": "",
+            "id": "7262680429726511104"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "📢 Congratulations to Swiggy on going Public! 🎉 Today marks an incredible milestone for Swiggy as they officially go public! It's an exciting…",
+            "img": "",
+            "id": "7262316511569047552"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "I broke into VC and a Unicorn despite coming from a non-IIT/BITS/Ivy League/SRCC ++ background. I can only imagine that several individuals like me…",
+            "img": "",
+            "id": "7262050680666791936"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "70% reservation including women quota from jee 2025. Good luck being a general indian male 🫡",
+            "img": "",
+            "id": "7261657437877747713"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "You waste too much time searching for information, attending meetings, and repeating manual tasks. Work faster and smarter with Sana AI.",
+            "img": "",
+            "id": "7183760528584904704"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "We don't encourage order cancellation at Zomato, because it leads to a tremendous amount of food wastage. Inspite of stringent policies, and a…",
+            "img": "",
+            "id": "7261387648668192768"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "Looking for a collaboration with a student body willing to work on partnerships & collaboration. Work: -Build partnerships with RapidRasoi’s…",
+            "img": "",
+            "id": "7260917261480189953"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "We are deeply heartbroken to announce the passing of our cherished CTO, Sagar Ahuja. His departure leaves an irreplaceable void within our team and…",
+            "img": "",
+            "id": "7256969778026737665"
+        },
+        {
+            "interaction": "Liked by Dev Agarwal",
+            "link": "",
+            "title": "Prof. V K Tewari, Director, IIT Kharagpur and Prof. Joybrato Mukherjee, President of DAAD, Germany signed an MoU in the presence of Dr. Dr Jitendra…",
+            "img": "",
+            "id": "7257397302225485824"
+        }
+    ],
+    "linkedin_num_id": 762342966.0,
+    "honors_and_awards": [
+        {
+            "title": "KVPY Scholar",
+            "publication": "Department of Science and Technology (DST), Government of India",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "Awarded the fellowship for being in the Top-0.5% out of 0.2M students in India"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

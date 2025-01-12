@@ -1,0 +1,53 @@
+{
+    "city": "United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Parsons School of Design - The New School",
+            "url": "",
+            "start_year": "2023-09",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "à",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2021",
+            "subtitle": "LVMH",
+            "title": "INSIDE LVMH "
+        },
+        {
+            "meta": "Issued Jun 2021",
+            "subtitle": "The Event Academy",
+            "title": "Event Management Diploma for Marketing and Communications"
+        }
+    ],
+    "current_company_name": "KRWN Studio",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

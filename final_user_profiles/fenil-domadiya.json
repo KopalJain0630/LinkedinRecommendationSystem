@@ -1,0 +1,77 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer @ Lokal(YC-S19) | Ex-Jeavio |  CE DDU'23",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Lokal",
+            "company_id": "lokal-app",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Jeavio",
+            "location": "Vadodara, Gujarat, India",
+            "description_html": null,
+            "duration": "1 year 8 months",
+            "positions": [
+                {
+                    "subtitle": "Jeavio",
+                    "meta": "May 2023 - Jul 2024 1 year 3 months",
+                    "duration": "May 2023 Jul 2024 1 year 3 months",
+                    "start_date": "May 2023",
+                    "end_date": "Jul 2024",
+                    "duration_short": "1 year 3 months",
+                    "title": "Associate Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Jeavio",
+                    "meta": "Dec 2022 - Apr 2023 5 months",
+                    "duration": "Dec 2022 Apr 2023 5 months",
+                    "start_date": "Dec 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "5 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Jeavio",
+            "company_id": "jeavio",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Dharmsinh Desai University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: DDU contest hosting team",
+            "description_html": "Activities and Societies: DDU contest hosting team",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2021Credential ID A04EBE49EFA5See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL(Basic)"
+        }
+    ],
+    "current_company_name": "Lokal",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Dcoder\",\"start_date\":\"Jan 2022\",\"end_date\":\"Apr 2022\",\"description\":\"- Dcoder is a programing platform that contains a compiler for some of the languages, DSA Problem list, upcoming contests list of various coding platforms.- User can share and save code.also contribute DSA Question.\"},{},{\"title\":\"Movie Ticket Booking\",\"start_date\":\"Mar 2021\",\"end_date\":\"Apr 2021\",\"description\":\"created three role : admin , Branch-admin and customeradmin can create new branch and can add new moviebranch-admin can select movie which is added by admin .and can add price , date and time (called show) .customer can book seat on show which created by branch-admin .\"},{\"title\":\"OLX Clone\",\"start_date\":\"Feb 2021\",\"end_date\":\"Apr 2021\",\"description\":\"“OLXClone” is useful for online exchange of the used things likeif one user of the system wants to sell used products then userhas to simply put all necessary information of that product onthis platform and if some another user of the system want to buythat product then he has to simply contact to the seller of thatproduct.\"},{},{}]",
+    "honors_and_awards": null
+}

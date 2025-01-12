@@ -1,0 +1,607 @@
+{
+    "id": "aaryan-jaiswal",
+    "name": "Aaryan Jaiswal",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": "American Express | IIT Bombay",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "American Express",
+        "company_id": "american-express",
+        "title": "American Express | IIT Bombay"
+    },
+    "experience": [
+        {
+            "title": "American Express",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "American Express",
+                    "meta": "Jul 2024 - Present 6 months",
+                    "duration": "Jul 2024 - Present 6 months",
+                    "start_date": "Jul 2024",
+                    "end_date": "Present",
+                    "duration_short": "6 months",
+                    "title": "Assistant Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "American Express",
+                    "meta": "Jul 2022 - Jun 2024 2 years",
+                    "duration": "Jul 2022 Jun 2024 2 years",
+                    "start_date": "Jul 2022",
+                    "end_date": "Jun 2024",
+                    "duration_short": "2 years",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "description_html": null,
+            "duration": "1 year",
+            "positions": [
+                {
+                    "subtitle": "Indian Institute of Technology, Bombay",
+                    "meta": "Dec 2021 - Apr 2022 5 months",
+                    "duration": "Dec 2021 Apr 2022 5 months",
+                    "start_date": "Dec 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "5 months",
+                    "title": "Teaching Assistant (English Learning Program)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Indian Institute of Technology, Bombay",
+                    "meta": "May 2021 - Apr 2022 1 year",
+                    "duration": "May 2021 Apr 2022 1 year",
+                    "start_date": "May 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "1 year",
+                    "title": "Department Academic Mentor",
+                    "description_html": null
+                }
+            ],
+            "company": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "ShARE IIT Bombay",
+            "description_html": null,
+            "duration": "1 year 9 months",
+            "positions": [
+                {
+                    "subtitle": "ShARE IIT Bombay",
+                    "meta": "Aug 2021 - Apr 2022 9 months",
+                    "duration": "Aug 2021 Apr 2022 9 months",
+                    "start_date": "Aug 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "9 months",
+                    "title": "Senior Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "ShARE IIT Bombay",
+                    "meta": "Aug 2020 - Jul 2021 1 year",
+                    "duration": "Aug 2020 Jul 2021 1 year",
+                    "start_date": "Aug 2020",
+                    "end_date": "Jul 2021",
+                    "duration_short": "1 year",
+                    "title": "Junior Consultant",
+                    "description_html": null
+                }
+            ],
+            "company": "ShARE IIT Bombay",
+            "company_id": "share-iitb",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Analyst",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "NIVEA INDIA",
+            "company_id": "nivea-india-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Supply Chain Management Intern",
+            "description_html": null,
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "The Coca-Cola Company",
+            "company_id": "the-coca-cola-company",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Consulting Intern",
+            "description_html": null,
+            "duration": "Mar 2021 Apr 2021 2 months",
+            "start_date": "Mar 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "2 months",
+            "company": "EY",
+            "company_id": "ernstandyoung",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Impact Scholar",
+            "description_html": null,
+            "duration": "Dec 2020 Apr 2021 5 months",
+            "start_date": "Dec 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "5 months",
+            "company": "Global Governance Initiative",
+            "company_id": "global-governance-initiatives",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IIT Bombay Racing",
+            "description_html": null,
+            "duration": "2 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "IIT Bombay Racing",
+                    "meta": "Jul 2020 - Apr 2021 10 months",
+                    "duration": "Jul 2020 Apr 2021 10 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "10 months",
+                    "title": "Marketing Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "IIT Bombay Racing",
+                    "meta": "May 2019 - Jun 2020 1 year 2 months",
+                    "duration": "May 2019 Jun 2020 1 year 2 months",
+                    "start_date": "May 2019",
+                    "end_date": "Jun 2020",
+                    "duration_short": "1 year 2 months",
+                    "title": "Assistant Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "IIT Bombay Racing",
+                    "meta": "Feb 2019 - May 2019 4 months",
+                    "duration": "Feb 2019 May 2019 4 months",
+                    "start_date": "Feb 2019",
+                    "end_date": "May 2019",
+                    "duration_short": "4 months",
+                    "title": "Mechanical Trainee",
+                    "description_html": null
+                }
+            ],
+            "company": "IIT Bombay Racing",
+            "company_id": "iit-bombay-racing",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Consumer Research Analyst",
+            "description_html": null,
+            "duration": "Oct 2020 Nov 2020 2 months",
+            "start_date": "Oct 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "2 months",
+            "company": "Urban Company",
+            "company_id": "urbancompany",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "description_html": null,
+            "duration": "Jul 2020 Sep 2020 3 months",
+            "start_date": "Jul 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Management Bangalore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Analyst",
+            "location": "France",
+            "description_html": null,
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "INSEAD",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Management Ahmedabad",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Maintenance Secretary (Hostel 5)",
+            "description_html": null,
+            "duration": "Aug 2019 May 2020 10 months",
+            "start_date": "Aug 2019",
+            "end_date": "May 2020",
+            "duration_short": "10 months",
+            "company": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Coordinator",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jun 2019 Dec 2019 7 months",
+            "start_date": "Jun 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "7 months",
+            "company": "Mood Indigo IIT Bombay",
+            "company_id": "mood-indigo",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ritwik Kadu",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyans Binaykiya",
+            "about": "IIM Calcutta | J.P. Morgan IB | IIT Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pooja Sharma",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Prateek Jajodia",
+            "about": "Building 0 to 1 | IIT Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshil Sanghavi",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshu Jaiswal",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Goel",
+            "about": "Bain & Co. | MBA, IIM Kozhikode | xGoldman Sachs IB | xS&P Global | 12K Connections",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Vini Sawjiani",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kunal Kapoor",
+            "about": "CA | MBA",
+            "location": "Greater Vancouver Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Mudit Rustagi",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Kalpesh Rathi",
+            "about": "Morgan Stanley | IIT Bombay'22 | CFA All Levels Cleared",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kaushik G",
+            "about": null,
+            "location": "Chicago, IL"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyansh Sinha",
+            "about": "Setting up a derivatives MFT desk",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Mannat Mangal",
+            "about": "YCP Auctus | ISB Co'26 (Merit Scholarship) | IIT Bombay Graduate",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagarika Chatterjee",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Jain",
+            "about": null,
+            "location": "Dublin"
+        },
+        {
+            "profile_link": "",
+            "name": "Mrinali Garg",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Parth Vaswani",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Prasanna Telawane",
+            "about": "Credit Portfolio Senior Analyst | Citi | CFA L2 Qualified (90+ percentile) | IIT Bombay | Techfest",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishwarajsinh Gohil",
+            "about": "BCG | IIT Bombay",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Bombay",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Aerospace, Aeronautical and Astronautical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School - India",
+            "degree": "CGPA - 10",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS101\",\"title\":\"Computer Programming and Utilization\"},{\"subtitle\":\"AE102\",\"title\":\"Data Analysis and Interpretation\"},{\"subtitle\":\"HS101\",\"title\":\"Economics\"},{\"subtitle\":\"MG402\",\"title\":\"Human Resource Management\"},{\"subtitle\":\"HS301\",\"title\":\"Philosophy\"},{\"subtitle\":\"AE240\",\"title\":\"Spaceflight Mechanics\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Dec 2021",
+            "subtitle": "Harvard Project for Asian and International Relations (HPAIR)",
+            "title": "Delegate - HPAIR Harvard Conference "
+        },
+        {
+            "subtitle": "Bright Network",
+            "title": "Consulting Internship Experience UK"
+        },
+        {
+            "subtitle": "Udemy",
+            "title": "Digital Marketing"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jan 2019 - May 2019 · 5 months",
+            "duration_short": "5 months",
+            "end_date": "May 2019",
+            "info": "Devoted 40 + hours in teaching mess and canteen workers to develop their soft skills at NSS, IITB",
+            "start_date": "Jan 2019",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Oct 2020 - Mar 2021 · 6 months",
+            "duration_short": "6 months",
+            "end_date": "Mar 2021",
+            "info": "Engaging youth of India with foreign technology circles as a part of Global Youth, India",
+            "start_date": "Oct 2020",
+            "subtitle": "Global Youth India",
+            "title": "Volunteer"
+        },
+        {
+            "info": "Member of the exclusive community of Harvard Business Review which provides a platform to young, ambitious opinion-leaders to work on research projects led by the HBR Ascend team by sharing views and opinions on leading management issues and practices.",
+            "subtitle": "Harvard Business Review",
+            "title": "HBR Ascend Select Member"
+        }
+    ],
+    "followers": 10293.0,
+    "connections": 500.0,
+    "current_company_company_id": "american-express",
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Big Data Analysis\",\"start_date\":\"Apr 2019\",\"end_date\":\"May 2019\",\"description\":\"Analyzed the effects of World War 1 & 2 by organizing countries’ data using python libraries - pandas, matplotlib & numpyCorrelated the countries’ Military Expenditure, GDP & Life Expectancy & drew conclusions using hypothesis testing\"}]",
+    "organizations": null,
+    "location": "Gurugram",
+    "linkedin_id": "aaryan-jaiswal",
+    "activity": [
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "Hello everyone!!! I am absolutely thrilled to share that I will be joining Microsoft as a Software Engineer after my graduation in 2025! 🎉 I am…",
+            "img": "",
+            "id": "7270333788549726208"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "I am beyond excited to announce that I have been selected as a Junior Member at ShARE IIT Bombay 2024-25 after a rigorous selection procedure…",
+            "img": "",
+            "id": "7239984132083118082"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "I'm thrilled to announce that I've joined the Indian Institute of Management Bangalore for my postgraduate studies. Stepping onto the beautiful…",
+            "img": "",
+            "id": "7210687073735876608"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "Thrilled to announce that I will be joining the MSc Finance and Accounting program at Imperial College London this Fall. As I stand on the cusp of…",
+            "img": "",
+            "id": "7205482815293939712"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "Had a great time working on a real-world healthcare project. Learned a lot and dealt with some really interesting challenges. Overall, it was awesome!",
+            "img": "",
+            "id": "7155448415739387905"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "𝐌𝐞𝐞𝐭 𝐨𝐮𝐫 𝐘𝐨𝐮𝐭𝐡 𝐋𝐄𝐀𝐃𝐞𝐫𝐬 𝐟𝐫𝐨𝐦 𝐘𝐋𝐄𝐒𝐀! Youth LEADers, during a year-long Leadership journey curated by LEAD and supported by…",
+            "img": "",
+            "id": "7149370156412977153"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "1st day of the year: [1] Got up at 5:01 AM. [2] Exercised, took a cold shower. [3] Worked on my business idea. And, completed my 10,000 daily…",
+            "img": "",
+            "id": "1"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "Excited to announce that I've joined the team at Barclays! I'm eagerly looking forward to contributing in an analytics role and diving deep into new…",
+            "img": "",
+            "id": "7119943177259618304"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "I’m happy to share that I’m starting a new position as Data Analytics and Insights - Intern at Jacobs School of Medicine and Biomedical Sciences at…",
+            "img": "",
+            "id": "7115817463316889600"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "The Power of Saying \"No\" in the Corporate World Saying \"No\" is often misinterpreted as a lack of ambition, reluctance to go the extra mile, or even…",
+            "img": "",
+            "id": "7109216540792635392"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "Over the course of my three-year professional journey, I've had the privilege of working with three distinct organizations. Each move was driven by…",
+            "img": "",
+            "id": "7107387992146649089"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "“I don't know what I want, but I know what I don’t want”-This quote is what I resonate with and its slowly but surely leading me to what I actually…",
+            "img": "",
+            "id": "7103026914008662016"
+        },
+        {
+            "interaction": "Liked by Aaryan Jaiswal",
+            "link": "",
+            "title": "[1] In 2011, my salary was 10,000. I was working with a non-profit. And, I loved my work. But, I wanted to earn more. [2] In 2015, my salary was 1.5…",
+            "img": "",
+            "id": "2011"
+        }
+    ],
+    "linkedin_num_id": 684548618.0,
+    "honors_and_awards": [
+        {
+            "title": "GGI Impact Scholar",
+            "publication": "Global Governance Initiative",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": " Selected as a Global Governance Initiative Impact Scholar (Acceptance ~ 6 % ) in the first cohort  Undertook 50+ hours of Masterclasses on Business, Strategy & Product management over 3 months"
+        },
+        {
+            "title": "Final Round",
+            "publication": "HEC Paris | HEC Business Game",
+            "date": "2021-04-01T00:00:00.000Z",
+            "description": "Among the top 12 teams invited to pitch in all the challenges  Selected after 2 rounds based on profile evaluation & case solving; represented India among 130 members across 30 nations  Partnered with students from 5 different nationalities & solved challenges designed by AB InBev, Ferrari and Bain & Company"
+        },
+        {
+            "title": "Volunteer",
+            "publication": "LEAD Youth Leadership program",
+            "date": "2021-04-01T00:00:00.000Z",
+            "description": "Selected for LEAD Youth Leadership and Action Program (Acceptance ~ 11%), a joint initiative of LEAD India & US Embassy"
+        },
+        {
+            "title": "Delegate",
+            "publication": "HPAIR Harvard Conference 2021",
+            "date": "2020-12-01T00:00:00.000Z",
+            "description": "Selected among 2000 from 80+ nations; Networked with people from various backgrounds"
+        },
+        {
+            "title": "Delegate",
+            "publication": "Tsinghua AUA Initiative",
+            "date": null,
+            "description": "Among 5 students selected from IIT Bombay; Represented India among 37 candidates across 9 universities"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

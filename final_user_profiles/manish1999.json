@@ -1,0 +1,135 @@
+{
+    "city": "Lucknow, Uttar Pradesh, India",
+    "position": "Software Engineer @Microsoft | Ex: UrbanCompany |  IIT Kanpur",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2022 Jun 2024 2 years 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2024",
+            "duration_short": "2 years 2 months",
+            "company": "Urban Company",
+            "company_id": "urbancompany",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineering Intern",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Peakflo",
+            "company_id": "peakflo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneurship Cell, IIT Kanpur",
+            "location": "India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kanpur",
+                    "meta": "May 2020 - Mar 2021 11 months",
+                    "duration": "May 2020 Mar 2021 11 months",
+                    "start_date": "May 2020",
+                    "end_date": "Mar 2021",
+                    "duration_short": "11 months",
+                    "title": "Manager Finance and Logistics",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kanpur",
+                    "meta": "Apr 2019 - May 2020 1 year 2 months",
+                    "duration": "Apr 2019 May 2020 1 year 2 months",
+                    "start_date": "Apr 2019",
+                    "end_date": "May 2020",
+                    "duration_short": "1 year 2 months",
+                    "title": "Secretary Events",
+                    "description_html": null
+                }
+            ],
+            "company": "Entrepreneurship Cell, IIT Kanpur",
+            "company_id": "ecelliitk",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Full stack summer Intern, IITK Summer of Code'19",
+            "location": "India",
+            "description": "Developed a web app from scratch which can work completely as a library portal with a team of 5 members. Technologies used were Django Rest framework, React Js and SQLite.",
+            "description_html": "Developed a web app from scratch which can work completely as a library portal with a team of 5 members. Technologies used were Django Rest framework, React Js and SQLite. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "Bachelor of Science - BS",
+            "field": "Earth science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"MBA634\",\"title\":\"Consumer Behaviour\"},{\"subtitle\":\"MTH511\",\"title\":\"Data Analysis\"},{\"subtitle\":\"ESO207\",\"title\":\"Data Structures \"},{\"subtitle\":\"MBA717\",\"title\":\"Governance of GVC\"},{\"subtitle\":\"IME642\",\"title\":\"Operation management\"},{\"subtitle\":\"IME625\",\"title\":\"Stochastic processes \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID 53E2TB4XZMG7See credential",
+            "subtitle": "Coursera",
+            "title": "Financial Markets"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 5H867YEU7AC8See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID J94EVQXGMEQJSee credential",
+            "subtitle": "Coursera",
+            "title": "Trading Basics"
+        },
+        {
+            "meta": "Issued May 2020Credential ID LKTVSV3F2NUSee credential",
+            "subtitle": "Coursera",
+            "title": "Finance for Everyone: Decisions"
+        },
+        {
+            "meta": "Issued May 2020Credential ID PKYNUA96DSMBSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Analytics for Business"
+        }
+    ],
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,63 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "National Institute of Securities Markets (NISM)",
+            "url": "",
+            "start_year": "2017-11",
+            "end_year": "2017-11",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Stack",
+    "publications": "[{\"title\":\": Experimental and Numerical Study of Diffusion Absorption Refrigeration System \",\"subtitle\":\"Excellence Award for Best Project in HVAC&R, IIT Delhi\"}]",
+    "patents": "[{\"title\":\"A SYSTEM FOR SECURE EXCHANGE OF TRADED SECURITIES AND METHOD TEHREOF\",\"date_issued\":\"May 28, 2019\",\"patents_id\":\"IN 201911021066\",\"description\":\"The present invention relates to a system and method of representing exchange-traded securities through digital commerce tokens on blockchain with a dedicated two-way secure method using collateralization and smart contracts to authenticate the securities.\"},{\"title\":\"NANO-FIBER BASED FILTER MEDIA AND METHODS OF PREPARATION THEREOF\",\"date_issued\":\"September 20, 2018\",\"patents_id\":\"IN 201711033337\",\"description\":\"The present invention encompasses the area of nanofiber technology. More specifically, the present invention relates to the development of nanofibers-based filter media with enhanced filtration efficiency and reduced pressure drop.\"},{\"title\":\"NANOFIBER BASED NASAL FILTER AND A PROCESS OF PREPARATION THEREOF\",\"date_issued\":\"August 31, 2018\",\"patents_id\":\"IN 201611031331\",\"description\":\"The present invention relates to nanofiber based non-insertable nasal filter. The joint geometry of the nasal filter designed enables easy usability and enables application on nasal periphery in one go. The nasal filter provides multilayer filtration for particulate matter between 2.5PM and 10PM aerosols with high efficiency and may be used in industries, by traffic police, by commuters for daily use and people with pollen allergy.\"}]",
+    "projects": "[{\"title\":\"Design and Manufacturing of a Human Powered Water Purification System\",\"start_date\":\"Jan 2013\",\"description\":\"Design and Manufacturing of a Human Powered Water Purification System (Team Leader) (Jan, 2013 - May, 2013) : Manufactured a Human Powered Water Purification System for application in Natural Hazard areas where pure water or electricity is not available, served as Team Leader.\"},{},{},{},{},{\"title\":\"Development, Designing and Experimentation of a Diffusion Absorption Refrigeration Cycle for Domestic Purpose Application\",\"start_date\":\"May 2014\",\"end_date\":\"Apr 2015\",\"description\":\"Engineer diffusion refrigeration cycle for domestic use application with no moving parts andelectricity input by using advanced pair of refrigerant and efficient bubble pump.\"},{},{\"title\":\"Study and Design of a Micro-Missile\",\"description\":\"Study and Design of a Micro-Missile (May, 2012 - July, 2012) : Design of a Micro-Missile Nozzle and flow analysis.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Innovator Entrepreneur Award 2018",
+            "publication": "Indian National Academy of Engineers (INAE)",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": "Tushar Vyas has been bestowed with the “INAE Innovator Entrepreneur Award 2018” by Indian National Academy of Engineering (INAE) for his innovation in the field of Nanofibers (Nasofilters)."
+        },
+        {
+            "title": "Startup National Award 2017",
+            "publication": "Technology Development Board (TDB), Department of Science and Technology (DST)",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": "Nanoclean Global Private Limited has been awarded with \"Startup National Award\" of the year 2017 by President of India for its novel preposition."
+        },
+        {
+            "title": "Excellence Award for Best Project",
+            "publication": "IIT Delhi",
+            "date": "2015-09-01T00:00:00.000Z",
+            "description": "Excellence Award for Best Project in HVAC&R, IIT Delhi in 2015. Project Title: Engineer diffusion refrigeration cycle for domestic use application with no moving parts and electricity input by using advanced pair of refrigerant and efficient bubble pump."
+        },
+        {
+            "title": "Summer Undergraduate Research Award (SURA)",
+            "publication": "IIT Delhi",
+            "date": "2013-05-01T00:00:00.000Z",
+            "description": "Summer Undergraduate Research Award in Department of Mechanical Engineering, IIT Delhi in 2013 for the Development, Designing and Experimentation of a Diffusion Absorption Refrigeration Cycle for Domestic Purpose Application."
+        }
+    ]
+}

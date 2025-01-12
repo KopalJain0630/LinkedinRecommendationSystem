@@ -1,0 +1,67 @@
+{
+    "city": "Dhanbad, Jharkhand, India",
+    "position": "IIT(ISM) Dhanbad 2021",
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology (Indian School of Mines), Dhanbad",
+            "degree": "Bachelor of Technology",
+            "field": "Electronics and Instrumentation Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: Drama Club",
+            "description_html": "Activities and Societies: Drama Club",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Lawrence and Mayo Public School, Kota",
+            "degree": "Central Board of Secondary Education (CBSE)/ Secondary Certificate Program",
+            "field": "92.4%",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "City Montessori School",
+            "degree": "Indian Certificate of Secondary Education (ICSE)",
+            "field": "96.4%",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data structures\"},{\"subtitle\":\"-\",\"title\":\"Digital electronics\"},{\"subtitle\":\"-\",\"title\":\"Managerial economics\"},{\"subtitle\":\"-\",\"title\":\"Numerical Methods and Statistics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued May 2019See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued May 2019See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued May 2019See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "meta": "Issued May 2019See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,116 @@
+{
+    "city": "Melbourne, Victoria, Australia",
+    "position": "Data Science, RMIT University",
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "location": "Melbourne, Victoria, Australia",
+            "description_html": null,
+            "duration": "Nov 2024 - Present 2 months",
+            "start_date": "Nov 2024",
+            "end_date": "Present",
+            "duration_short": "2 months",
+            "company": "New Balance",
+            "company_id": "new-balance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "NICE Ltd",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "3 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "NICE Ltd",
+                    "meta": "Dec 2022 - Apr 2024 1 year 5 months",
+                    "description": "Part of NICE's delivery team Advanced Services for custom solutions on top of standard NICE products. Primary projects on Data & audio Migration, Cloud Migration,  Decommissioning. Designed a Local time sync functionality using MS SQL to be incorporated for systems spread across various time zones. Designed a search bot utility using Python and Langchain library to improve internal support operations.Skills : SQL, AWS (S3, EC2, Snowball, Direct S3, CLI), Python, Requirement gathering, Solution Design, Effort estimation",
+                    "duration": "Dec 2022 Apr 2024 1 year 5 months",
+                    "start_date": "Dec 2022",
+                    "end_date": "Apr 2024",
+                    "duration_short": "1 year 5 months",
+                    "title": "Advanced services Engineer",
+                    "description_html": "Part of NICE's delivery team Advanced Services for custom solutions on top of standard NICE products. <br><br>Primary projects on Data &amp; audio Migration, Cloud Migration, Decommissioning. <br><br>Designed a Local time sync functionality using MS SQL to be incorporated for systems spread across various time zones. Designed a search bot utility using Python and Langchain library to improve internal support operations.<br><br>Skills : SQL, AWS (S3, EC2, Snowball, Direct S3, CLI), Python, Requirement gathering, Solution Design, Effort estimation"
+                },
+                {
+                    "subtitle": "NICE Ltd",
+                    "meta": "Oct 2020 - Jan 2023 2 years 4 months",
+                    "description": "1. Part of team providing technical services for Enterprise & Compliance recording solution NICE Engage, serving a global client base along with Internal teams. 2. Exceeded KPIs of RCA, Technical analysis & consultations. 3. Over the tenure, acted as a Technical lead- drove Technical escalations, helped in Recruitment operations and Mentored 6 engineers. Helped deliver 20+ KT sessions. 4. Spot award recognizing Fast Technical growth and help in upskilling new hires.",
+                    "duration": "Oct 2020 Jan 2023 2 years 4 months",
+                    "start_date": "Oct 2020",
+                    "end_date": "Jan 2023",
+                    "duration_short": "2 years 4 months",
+                    "title": "Engineer - Client services",
+                    "description_html": "1. Part of team providing technical services for Enterprise &amp; Compliance recording solution NICE Engage, serving a global client base along with Internal teams. <br>2. Exceeded KPIs of RCA, Technical analysis &amp; consultations. <br>3. Over the tenure, acted as a Technical lead- drove Technical escalations, helped in Recruitment operations and Mentored 6 engineers. Helped deliver 20+ KT sessions. <br>4. Spot award recognizing Fast Technical growth and help in upskilling new hires. <!---->"
+                }
+            ],
+            "company": "NICE Ltd",
+            "company_id": "nice-systems",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Project Management Intern",
+            "location": "Pune Area, India",
+            "description": "Organized a Nationwide Social Project ‘Catalyse’ along with team (In 15 cities, with 5000 volunteers). Managed Databases for the entire event.",
+            "description_html": "Organized a Nationwide Social Project ‘Catalyse’ along with team (In 15 cities, with 5000 volunteers). Managed Databases for the entire event. <!---->",
+            "duration": "Aug 2018 Sep 2018 2 months",
+            "start_date": "Aug 2018",
+            "end_date": "Sep 2018",
+            "duration_short": "2 months",
+            "company": "Bhumi",
+            "company_id": "bhumiorg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Engineering Intern",
+            "location": "Nagpur Area, India",
+            "description": "Trained and worked on current technologies used by BSNL in the telecommunication sector.",
+            "description_html": "Trained and worked on current technologies used by BSNL in the telecommunication sector. <!---->",
+            "duration": "Jun 2018 Jun 2018 1 month",
+            "start_date": "Jun 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "1 month",
+            "company": "Bharat Sanchar Nigam Limited",
+            "company_id": "bsnl",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "RMIT University",
+            "degree": "Masters of Data Science",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2026",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Maharashtra Institute of Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and telecommuniction engineering",
+            "url": "",
+            "description": "Research Paper : Comparative analysis for prediction models for PM2.5 prediction (IEEE) Part of IOTIOT.in - Worked on Embedded linux, Router OS, Linux root file directory. University Projects : Integration of GPS-INS for localization of UAV (Associated with DRDO, Pune) and Water Management system",
+            "description_html": "Research Paper : Comparative analysis for prediction models for PM2.5 prediction (IEEE) Part of IOTIOT.in - Worked on Embedded linux, Router OS, Linux root file directory.University Projects : Integration of GPS-INS for localization of UAV (Associated with DRDO, Pune) and Water Management system <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "New Balance",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Spot Award",
+            "publication": "-",
+            "date": null,
+            "description": "Fast technical growth and help in upskilling New hires."
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "city": "San Francisco Bay Area",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Cornell University",
+            "url": "",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Astranis Space Technologies",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Contractile and Mechanical Properties of Engineered Intervertebral Discs Composed of Mesenchymal Stem Cells\",\"start_date\":\"Jun 2012\",\"end_date\":\"Oct 2012\",\"description\":\"Presented original research poster at the Biomedical Engineering Society's 2012 Annual Meeting in Atlanta, GA and at the Cornell Undergraduate Research Board's Fall Forum in Ithaca, NY. \"},{},{},{}]",
+    "honors_and_awards": null
+}

@@ -1,0 +1,262 @@
+{
+    "id": "pawan-dixit-abb13789",
+    "name": "Pawan Dixit",
+    "city": "Abu Dhabi Emirate, United Arab Emirates",
+    "country_code": "AE",
+    "position": null,
+    "about": "I am a diligent iOS software engineer with 8 years of ​experience in iOS development. I’m…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "100ms",
+        "company_id": "100mslive"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Arpit Arora",
+            "about": null,
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Kumar Gaurav",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Robin Pahwa",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Brijendra Singh",
+            "about": "iOS Engineer at Walmart Labs India",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishan Roy",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Shekhar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Poorvak Kapoor",
+            "about": null,
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhendu Shukla",
+            "about": "Lead Software Engineer at Carousell",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": " Jayaprada Behera",
+            "about": "Mobile app developer and Front end web developer | iOS | Swift | Objective C | Flutter | React| Typescript| Redux| Dart",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilashish Chakraborty",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Guwahati",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Guwahati",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Cognitive Psychology\"},{\"subtitle\":\"-\",\"title\":\"Communication Networks\"},{\"subtitle\":\"-\",\"title\":\"Complex Analysis and PDE\"},{\"subtitle\":\"-\",\"title\":\"Computer Systems (OS)\"},{\"subtitle\":\"-\",\"title\":\"Computer Vision\"},{\"subtitle\":\"-\",\"title\":\"Data Structures and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Design Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Detection and Estimation Theory\"},{\"subtitle\":\"-\",\"title\":\"Digital Communication\"},{\"subtitle\":\"-\",\"title\":\"Digital Logic and Computer Architecture\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics and Finite Automata Theory\"},{\"subtitle\":\"-\",\"title\":\"Formal Languages\"},{\"subtitle\":\"-\",\"title\":\"Image Processing\"},{\"subtitle\":\"-\",\"title\":\"Industrial Organigation\"},{\"subtitle\":\"-\",\"title\":\"Information Theory and Coding\"},{\"subtitle\":\"-\",\"title\":\"Intro to Parallel Programming --@David Luebke\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Computing\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Parallel Computing\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Psychology\"},{\"subtitle\":\"-\",\"title\":\"Introduction to VLSI design\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra and Real Analysis\"},{\"subtitle\":\"-\",\"title\":\"Machine Learnig --@Udacity by Sebastian Thrun\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning and Pattern Recognition\"},{\"subtitle\":\"-\",\"title\":\"Multivariable Calculus and ODE\"},{\"subtitle\":\"-\",\"title\":\"Probability and Random Processes\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": [
+        "Dmitry Fedoseyev “I am pleased to recommend Pawan as an exceptional iOS Swift engineer. In our time working together, Pawan has consistently demonstrated a deep understanding of iOS development, particularly with low-level APIs. His expertise in handling complex tasks such as sending image buffers between app and app extension and audio routing has been invaluable. Pawan's proficiency in SwiftUI is impressive, allowing him to create intuitive and visually appealing user interfaces. He often provides insightful feedback to our design team, enhancing the overall user experience with thoughtful and constructive suggestions. His technical skills, combined with a collaborative approach and a keen eye for design, make Pawan an outstanding asset to any development team. I highly recommend him for any iOS development role.”",
+        "Tejus Adiga M “Pawan is very passionate about what he does. He is a self-starter and he often thinks on the lines of how the feature should be rather than how to make it work. He is very creative and can communicate his thoughts clearly. Pawan is a critical thinker and not afraid to question assumptions. In working with him I have seen him getting involved in each and everything and making great contributions.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 1072.0,
+    "connections": 500.0,
+    "current_company_company_id": "100mslive",
+    "current_company_name": "100ms",
+    "publications": "[{\"title\":\"Polyp shape estimation from endoscopy video using EKF monocular SLAM with SFS model prior\",\"subtitle\":\"IEEE\",\"date\":\"February 22, 2018\",\"description\":\"In this paper, a new approach to recover 3D shape of a polyp from the endoscopic video is proposed. For this, a point light source of illumination, perspective projection and six-degree motion of the endoscope are considered. Previous approaches attempted to recover polyp shape with the help of extended Kalman filter (EKF) and monocular simultaneous localization and mapping (SLAM) from a static scene. Our approach uses iterative data acquisition approach with the existing EKF Monocular SLAM and the intensity model prior. Our method constructs a dense 3D model of polyp by utilizing sparse data, which are collected by a Monocular EKF SLAM and a base model prior. Experimental results show the efficacy of our proposed method.\"}]",
+    "patents": "[{\"title\":\"Reflection rendering in computer generated environments\",\"date_issued\":\"October 4, 2022\",\"patents_id\":\"US 11461960\"},{\"title\":\"Virtualized speech in a distributed network environment\",\"date_issued\":\"June 21, 2022\",\"patents_id\":\"US 11367445\"},{\"title\":\"DYNAMIC IMAGE COMPRESSION BASED ON PERCEIVED VIEWING DISTANCE\",\"date_issued\":\"July 29, 2021\",\"patents_id\":\"US 20210233279\"},{\"title\":\"Collaboration of augmented reality content in stereoscopic view in virtualized environment\",\"date_issued\":\"May 11, 2021\",\"patents_id\":\"US 11004256\"},{\"title\":\"SYSTEMS AND METHODS OF GEOLOCATING AUGMENTED REALITY CONSOLES\",\"date_issued\":\"April 15, 2021\",\"patents_id\":\"20210110646\"},{\"title\":\"Two-part context-based rendering solution for high-fidelity augmented reality in virtualized environment\",\"date_issued\":\"February 25, 2020\",\"patents_id\":\"US 10937224\"}]",
+    "projects": "[{\"title\":\"100ms RoomKit SDK for iOS\",\"start_date\":\"Sep 2023\",\"description\":\"RoomKit SDK for iOS (SwiftUI) enables you to integrate our production-ready conferencing and live-streaming UI into your own app effortlessly.\"},{\"title\":\"100ms Meeting Room Models SDK for iOS\",\"start_date\":\"Jun 2023\",\"description\":\"Meeting room models that simplify SwiftUI based application development using 100ms SDK.\"},{\"title\":\"Patents\",\"start_date\":\"Jan 2018\",\"end_date\":\"Present\"},{\"title\":\"See My Apps on App Store\",\"start_date\":\"2018\",\"end_date\":\"Present\",\"description\":\"Created and Published 10+ Apps on App Store in Swift\"},{\"title\":\"Neural Network\",\"start_date\":\"2015\",\"description\":\"A Neural Network in C++\"},{\"title\":\"Eye-Tracking system for ensuring driver safety in cars\",\"description\":\"Guide: Dr. M. K. Bhuyan, Assistant Professor, Department of EEE, IIT Guwahati•The goal of the project was to come up with a car mounted device which ensures driver safety by using Eye-Tracking and GPS data.• Eye Tracking was implemented using openCV. Algorithm used was from 'Eye centre localisation by means of gradients by Timm and Barth'.•. Raspberry Pi 2 was used to process GPS speed/location data complementing Eye-Tracking for coming up with an Algorithm to ensure driver safety.\"},{\"title\":\"Face Recognition\",\"description\":\"Guide : Dr. Suresh Sundaram, Professor, Department of EEE, IIT Guwahati•Image classifier for Face Recognition using Principle Component Analysis Algorithm\"},{\"title\":\"Game in Unity Platform\",\"description\":\"•Participated in Microsoft hacking event Microsoft Code-Fun-Do - Written a 3D game tactics unity.\"},{\"title\":\"On-Premise site migration to cloud.\",\"description\":\"Guide : Mr. Ronojoy Chatterjee, Project Manager at MAQ Software •Technologies Used: Microsoft SharePoint, Microsoft Visual Studio, TFS, REST API, HTML5, CSS, JavaScript.\"},{\"title\":\"Online Bus Schedule for IITG\",\"description\":\"Google Hackathon winner for our application of online bus schedule for IITG.This is an app which can show current bus schedule for buses going to the city from IITG campus and vice-versa.\"},{\"title\":\"Snake like robot with passive wheels and wireless control\",\"description\":\"Guide : Dr. Prithwijit Guha, Assistant Professor, Department of EEE, IIT Guwahati•This Project aims to create a snake like robot which can be used for surveillance purpose by reaching to inaccessible locations and providing video feed with the help of camera mounted on its head.• ZigBee modules were used for wireless control.\"},{\"title\":\"User Registration System With Authentication\",\"description\":\"Guide : Mr. Ronojoy Chatterjee, Project Manager at MAQ Software•Technologies Used: MVC, SQL\"}]",
+    "organizations": null,
+    "location": "Abu Dhabi Emirate",
+    "linkedin_id": "pawan-dixit-abb13789",
+    "activity": [
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Recently, a kid broke into one of our homes. We could’ve been mad….but honestly? We get it.",
+            "img": "",
+            "id": "7272482753051291648"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "I had the opportunity to present a talk on #webrtc quality measurement at the RTC event hosted by Illinois Institute of Technology and IEEE, where I…",
+            "img": "",
+            "id": "7257632342263910400"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Hiring iOS devs Swift , From the scratch app experience , Multi threading , Memory leak Immediate joiners preferred . Remote role",
+            "img": "",
+            "id": "7252972856404238338"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "I’ve been building tech for over a decade—everything from hardware to fintech to infrastructure. So, when Mayank, Shail, and I took the plunge to…",
+            "img": "",
+            "id": "7245041786463625217"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "A year ago, Mayank, Rishabh, and I set out to build a better way to rent—100X better, to be exact. We didn’t have all the answers, but we knew one…",
+            "img": "",
+            "id": "7244989413359808512"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Our new pitch has grabbed some serious eyeballs 😌 Check it out: ",
+            "img": "",
+            "id": "7244603595667480577"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Brendan asked us \"How big is the rental problem in India?\". So did 50+ other VCs. This is our answer, for once and for all.",
+            "img": "",
+            "id": "7243876734134059008"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "IIT is moving out of India. IIT Delhi, Abu Dhabi Campus. This is awesome to see the brand grow outside of India. I really hope this campus will…",
+            "img": "",
+            "id": "7243282857245249536"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "yes, this home is real. and its coming to Flent very soon. guess the location? :)",
+            "img": "",
+            "id": "7221804799506178052"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Launching two homes in Bangalore's most popular hotspots. One is known for its party crowd, and the other for its posch streets & old-town…",
+            "img": "",
+            "id": "7217164469322309632"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Brokerage is injurious to health 🫂",
+            "img": "",
+            "id": "7217765276228964352"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Last Sunday felt extremely surreal for me and the entire team. For starters, it was Mayank Lalwani's birthday, and it also happened to be the first…",
+            "img": "",
+            "id": "7211634939178409985"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "I am thrilled to share that I have joined Apple as an AIML Product Manager intern this summer. Excited to contribute to Mayank Goel's incredible team…",
+            "img": "",
+            "id": "7206186522012704770"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Are you house hunting in Namma Bengaluru? Let me share my secret - India’s top 1% don’t rent; they Flent😎 Join my team and I at the…",
+            "img": "",
+            "id": "7210162035152572416"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Enjoyed presenting our paper on \"Curriculum Learning for GPS-Free Indoor Social Navigation\" with Gunjan Chhablani and Siva Kailas at CVPR Embodied AI…",
+            "img": "",
+            "id": "7209074907391922178"
+        },
+        {
+            "interaction": "Liked by Pawan Dixit",
+            "link": "",
+            "title": "Every developer needs to learn about LLMs, because every app can make use of them. But the \"hype\" is crowding out a foundational understanding of…",
+            "img": "",
+            "id": "7195708523354206208"
+        }
+    ],
+    "linkedin_num_id": 313853039.0,
+    "honors_and_awards": [
+        {
+            "title": "2nd Rank in State Board High School",
+            "publication": "-",
+            "date": "2010-01-01T00:00:00.000Z",
+            "description": "Secured Rank 2 in the State Board High School"
+        },
+        {
+            "title": "14th National Science Olympiad (NSO), 2011",
+            "publication": "-",
+            "date": null,
+            "description": "• Secured rank 1 in the school and city in 14th National Science Olympiad (NSO), 2011."
+        },
+        {
+            "title": "5th International mathematical Olympiad (IMO), 2011.",
+            "publication": "-",
+            "date": null,
+            "description": "• Secured rank 1 in the school and city in 5th International mathematical Olympiad (IMO), 2011."
+        },
+        {
+            "title": "MHRD Scholar",
+            "publication": "-",
+            "date": null,
+            "description": "• Recipient – MHRD Scholarship for exceptional performance in Higher Secondary Education."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "city": "City of Cape Town, Western Cape, South Africa",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Stanford University",
+            "url": "",
+            "start_year": "2003-09",
+            "end_year": "2005-01",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "1999",
+            "end_year": "2003",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2016See credential",
+            "subtitle": "Institute of Directors in Southern Africa",
+            "title": "Institute of Directors for Southern Africa"
+        },
+        {
+            "meta": "Issued Jan 2013Credential ID M0873See credential",
+            "subtitle": "Institute of Business Advisers (SA)",
+            "title": "Certified Business Adviser"
+        },
+        {
+            "meta": "Issued Jun 2004Credential ID 32040See credential",
+            "subtitle": "Mensa International",
+            "title": "Certified Member (CM)"
+        },
+        {
+            "subtitle": "FINRA/SIPC",
+            "title": "Series 63"
+        },
+        {
+            "subtitle": "FINRA/SIPC",
+            "title": "Series 7"
+        }
+    ],
+    "current_company_name": "Launch Africa Ventures",
+    "publications": "[{\"title\":\"Cover Feature \",\"subtitle\":\"Fast Company South Africa\",\"date\":\"May 1, 2018\"},{\"title\":\"Getting Investment Ready - From Basement to Boardroom\",\"date\":\"Sep 2014\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

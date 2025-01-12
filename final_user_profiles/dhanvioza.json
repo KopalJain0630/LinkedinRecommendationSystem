@@ -1,0 +1,32 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of Mumbai",
+            "end_year": "2020-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level 1"
+        },
+        {
+            "meta": "Issued May 2019Credential ID 677205",
+            "subtitle": "GARP FRM Program",
+            "title": "Certified Financial Risk Manager (FRM) "
+        }
+    ],
+    "current_company_name": "Stealth Startup",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Applications of Game Theory in Finance\"},{\"title\":\"multi factor regression analysis of macros on stock markets \"},{\"title\":\"UBI and Utopian India: Possibility or Delusion\",\"description\":\"DOI: 10.13140/RG.2.2.27004.97926\"}]",
+    "honors_and_awards": null
+}

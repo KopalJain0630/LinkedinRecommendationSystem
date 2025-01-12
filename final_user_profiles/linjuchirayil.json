@@ -1,0 +1,122 @@
+{
+    "city": "Canada",
+    "position": "Aircraft Mechanic",
+    "experience": [
+        {
+            "title": "Aircraft Maintenance Technician",
+            "location": "Peterborough, Ontario, Canada",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Echo North Aero Services",
+            "company_id": "echo-north-aero-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Skydive Dubai",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "8 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Skydive Dubai",
+                    "meta": "Dec 2021 - Jun 2024 2 years 7 months",
+                    "duration": "Dec 2021 Jun 2024 2 years 7 months",
+                    "start_date": "Dec 2021",
+                    "end_date": "Jun 2024",
+                    "duration_short": "2 years 7 months",
+                    "title": "GCAA Licensed Aircraft Maintenance Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Skydive Dubai",
+                    "meta": "Sep 2015 - Nov 2021 6 years 3 months",
+                    "duration": "Sep 2015 Nov 2021 6 years 3 months",
+                    "start_date": "Sep 2015",
+                    "end_date": "Nov 2021",
+                    "duration_short": "6 years 3 months",
+                    "title": "Aircraft Technician",
+                    "description_html": null
+                }
+            ],
+            "company": "Skydive Dubai",
+            "company_id": "skydive-dubai",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "student",
+            "description_html": null,
+            "duration": "Jul 2013 May 2015 1 year 11 months",
+            "start_date": "Jul 2013",
+            "end_date": "May 2015",
+            "duration_short": "1 year 11 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Trainee Technician",
+            "location": "Bengaluru Area, India",
+            "description": "Led as Trainee Technician in Base Maintenance Department, Bengaluru. Work Profile:•\tC5 and C6 checks on new generation Boeing 737-700/800 fitted with CFM 56-7B engines.•\tC1, C6, 24 Monthly checks of ATR 72-212A aircraft fitted with P&W 127F engines.",
+            "description_html": "Led as Trainee Technician in Base Maintenance Department, Bengaluru. Work Profile:• C5 and C6 checks on new generation Boeing 737-700/800 fitted with CFM 56-7B engines.• C1, C6, 24 Monthly checks of ATR 72-212A aircraft fitted with P&amp;W 127F engines. <!---->",
+            "duration": "Feb 2010 Aug 2010 7 months",
+            "start_date": "Feb 2010",
+            "end_date": "Aug 2010",
+            "duration_short": "7 months",
+            "company": "Jet Airways",
+            "company_id": "jet-airways",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology (MTech)",
+            "field": "Aerospace, Aeronautical and Astronautical/Space Engineering",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": "Completed Masters in Aerospace Engineering where the main project is to carry out static and dynamic analysis of laminated composite plates equipped with piezoelectric patches thereby analyzing the variation in its natural frequency for varying fibre orientation and stacking sequence.",
+            "description_html": "Completed Masters in Aerospace Engineering where the main project is to carry out static and dynamic analysis of laminated composite plates equipped with piezoelectric patches thereby analyzing the variation in its natural frequency for varying fibre orientation and stacking sequence. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Aeronautical Society of India",
+            "degree": "Bachelor of Technology (BTech)",
+            "field": "Aeronautics/Aviation/Aerospace Science and Technology, General",
+            "start_year": "2006",
+            "end_year": "2013",
+            "description": "I have completed Section A and Section B of Associate Membership examination conducted by AeSI on June 2013 which covered the basic subjects of aeronautical engineering like structures, stability and performance, control engineering, avionics systems etc.",
+            "description_html": "I have completed Section A and Section B of Associate Membership examination conducted by AeSI on June 2013 which covered the basic subjects of aeronautical engineering like structures, stability and performance, control engineering, avionics systems etc. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Agragami VSM AME Training Institute,Bengaluru",
+            "degree": "AME basic training course",
+            "field": "Avionics Systems equipped in heavy and light aircrafts",
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": "Carried out 5 semesters learning of Civil Aircraft Rules and Regulation (CAR), Principles of Flight, General Aircraft Maintenance Practices and exposure to Avionics Systems on light and heavy aircrafts and cleared DGCA PAPERS (Govt. of India-Ministry of Civil Aviation ) Paper 1: CAR-Rules and Regulations (Oct-2007) - 73% Paper 2: General Engineering (Oct 2008) - 77%",
+            "description_html": "Carried out 5 semesters learning of Civil Aircraft Rules and Regulation (CAR), Principles of Flight, General Aircraft Maintenance Practices and exposure to Avionics Systems on light and heavy aircrafts and cleared DGCA PAPERS (Govt. of India-Ministry of Civil Aviation )  Paper 1: CAR-Rules and Regulations (Oct-2007) - 73% Paper 2: General Engineering (Oct 2008) - 77% <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2021Expires Nov 2029",
+            "subtitle": "UAE General Civil Aviation Authority (GCAA)",
+            "title": "Aircraft Maintenance Engineer"
+        }
+    ],
+    "current_company_name": "Echo North Aero Services",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Static and Buckling analysis of smart laminated composite plates\",\"start_date\":\"Jun 2013\",\"end_date\":\"May 2015\",\"description\":\"Detailed study on static and dynamic analysis of laminated composite plate equipped with piezoelectric patches and response of its natural frequency for varying fibre orientation and stacking sequence using MATLAB coding language\"},{\"title\":\"Instrument Landing System\",\"start_date\":\"Feb 2013\",\"end_date\":\"Mar 2013\",\"description\":\"Produced a study report on Instrument Landing Systems (ILS) equipped on Boeing 737-700/800 aircraft and has undergone basic training and introduction to Avionics Systems for a period of two weeks from Tagore Engineering College, Chennai\"}]",
+    "honors_and_awards": null
+}

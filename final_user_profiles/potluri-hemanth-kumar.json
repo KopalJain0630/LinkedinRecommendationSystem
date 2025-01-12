@@ -1,0 +1,305 @@
+{
+    "id": "potluri-hemanth-kumar",
+    "name": "Potluri Hemanth Kumar",
+    "city": "Santa Clarita, California, United States",
+    "country_code": "US",
+    "position": "Ab Initio Data Engineer",
+    "about": "Dynamic and results-oriented Data Engineer with 5 years of experience in data pipelines, ETL solutions, and analytics. Proficient in SQL, Python, Ab Initio, AWS, Azure, GITLAB, Docker, CI/CD and Power BI. Expertise in data modeling, integration, and cloud migrations. Proven track record in delivering high-quality data solutions and impactful visualizations. Strong problem-solving, leadership, and collaboration skills. AWS Certified Data Engineer, Certified Associate in Python Programming and CFA Level 1.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Cardinal Health",
+        "company_id": "cardinal-health",
+        "title": "Ab Initio Data Engineer"
+    },
+    "experience": [
+        {
+            "title": "Ab Initio Data Engineer",
+            "location": "Dublin, Ohio, United States",
+            "description": "Description:As an Abinitio Data Engineer, designed, developed, and maintained robust ETL/ELT processes using Azure Data Factory to manage data pipelines and supported advanced analytics. Utilized Ab Initio in containerized virtual machines on Azure to perform critical ETL tasks, ensuring a cloud-agnostic approach for flexible deployment across various cloud environments. Collaborated with stakeholders to implement scalable data storage solutions, ensuring data governance and security using Azure Purview, AAD, and Key Vault. Containerized data solutions using Ab Initio, Docker, manage deployments with Kubernetes, and automate infrastructure using Terraform and ARM templates.Environment: API, Azure, Azure Analysis Services, Azure Synapse Analytics, Blob, Cassandra, REST API, CI/CD, Data Factory, Delta Lake, ElasticSearch, ETL, HBase, HDFS, Java, Jenkins, Kafka, Kubernetes, Oracle, Azure Monitor, Grafana, Power BI, PySpark, Python, RDBMS, Docker, Microsoft Fabric, Snowflake, Spark, Spark Streaming, SQL, SSIS, Teradata.",
+            "description_html": "Description:As an Abinitio Data Engineer, designed, developed, and maintained robust ETL/ELT processes using Azure Data Factory to manage data pipelines and supported advanced analytics. Utilized Ab Initio in containerized virtual machines on Azure to perform critical ETL tasks, ensuring a cloud-agnostic approach for flexible deployment across various cloud environments. Collaborated with stakeholders to implement scalable data storage solutions, ensuring data governance and security using Azure Purview, AAD, and Key Vault. Containerized data solutions using Ab Initio, Docker, manage deployments with Kubernetes, and automate infrastructure using Terraform and ARM templates.Environment: API, Azure, Azure Analysis Services, Azure Synapse Analytics, Blob, Cassandra, REST API, CI/CD, Data Factory, Delta Lake, ElasticSearch, ETL, HBase, HDFS, Java, Jenkins, Kafka, Kubernetes, Oracle, Azure Monitor, Grafana, Power BI, PySpark, Python, RDBMS, Docker, Microsoft Fabric, Snowflake, Spark, Spark Streaming, SQL, SSIS, Teradata.",
+            "duration": "Nov 2023 - Present 1 year 2 months",
+            "start_date": "Nov 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 2 months",
+            "company": "Cardinal Health",
+            "company_id": "cardinal-health",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Ab Initio Data Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description": "Description:In my role as a Ab Initio Data Engineer, developed and managed scalable data pipelines using Ab Initio and AWS services like AWS Data Pipeline, EMR, and Redshift. Worked on multiple projects, utlizing Ab Initio graphs as per the use cases. Integrated data from various sources into AWS's data lake and data warehouse and collaborate with data scientists to deploy machine learning models using Amazon SageMaker. Optimized ETL workflows using AWS Glue, Step Functions, and Lambda, manage Apache Airflow DAGs for efficient pipelines, and support cross-cloud data migration between AWS and Azure.Environment: AbInitio GDE, AWS, Big Query, Cloud SQL, Presto, Cloud Storage, Azure, Apache Airflow, BQ-ML, DataStudio, MySQL, Git, Atlassian, Natural Languages, Windows server, python, shell scripts, IAM Security, Service Data Transfer, VPC Configuration.",
+            "description_html": "Description:In my role as a Ab Initio Data Engineer, developed and managed scalable data pipelines using Ab Initio and AWS services like AWS Data Pipeline, EMR, and Redshift. Worked on multiple projects, utlizing Ab Initio graphs as per the use cases. Integrated data from various sources into AWS's data lake and data warehouse and collaborate with data scientists to deploy machine learning models using Amazon SageMaker. Optimized ETL workflows using AWS Glue, Step Functions, and Lambda, manage Apache Airflow DAGs for efficient pipelines, and support cross-cloud data migration between AWS and Azure.Environment: AbInitio GDE, AWS, Big Query, Cloud SQL, Presto, Cloud Storage, Azure, Apache Airflow, BQ-ML, DataStudio, MySQL, Git, Atlassian, Natural Languages, Windows server, python, shell scripts, IAM Security, Service Data Transfer, VPC Configuration.",
+            "duration": "Aug 2020 Sep 2023 3 years 2 months",
+            "start_date": "Aug 2020",
+            "end_date": "Sep 2023",
+            "duration_short": "3 years 2 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Description:As a Data Engineer at Ebix Inc, designed and maintained data pipelines integrating data from manufacturing and ERP systems. Implemented data storage solutions, manage ETL processes, and used Apache Flink for real-time data ingestion. Supported data analytics with Tableau and Power BI and automate infrastructure using Terraform. Created complex SQL queries, Python scripts, and Spark processes for data transformation and cleansing, supporting decision-making and operational efficiency.Environment: AWS, CI/CD, Docker, EC2, ETL, Airflow, Apache, Java, Jenkins, Jira, Kafka, Flink, lake, Lambda, MapReduce, MySQL, Oracle, Python, S3, Scala, Snowflake, Spark, SQL.",
+            "description_html": "Description:As a Data Engineer at Ebix Inc, designed and maintained data pipelines integrating data from manufacturing and ERP systems. Implemented data storage solutions, manage ETL processes, and used Apache Flink for real-time data ingestion. Supported data analytics with Tableau and Power BI and automate infrastructure using Terraform. Created complex SQL queries, Python scripts, and Spark processes for data transformation and cleansing, supporting decision-making and operational efficiency.Environment: AWS, CI/CD, Docker, EC2, ETL, Airflow, Apache, Java, Jenkins, Jira, Kafka, Flink, lake, Lambda, MapReduce, MySQL, Oracle, Python, S3, Scala, Snowflake, Spark, SQL.",
+            "duration": "May 2019 Jul 2020 1 year 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2020",
+            "duration_short": "1 year 3 months",
+            "company": "Ebix",
+            "company_id": "ebix",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shail Vira",
+            "about": "Senior Cloud Developer at Barclays",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Maitreyee Joshi",
+            "about": null,
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Jaswinder Singh",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashwin Munjewar",
+            "about": "Helping people to spread their cost @Barclays | IITB",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashita Gupta",
+            "about": "AWS Developer at Barclays | Former Api Developer | Former KITES Intern (ITC Ltd.)",
+            "location": "Bhopal"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshal Charde",
+            "about": "AVP @ NatWest Group (PPO Holder) | IIM Lucknow PGP'24 | Microsoft PM Engage (Campus Winner)| Ex-Barclays | NIT Nagpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Manthan Panchal",
+            "about": "AVP at Barclays",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Adarsh Ashok",
+            "about": "Vice President at J.P. Morgan",
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Shalaka Sawale",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Krishna Chablani",
+            "about": "Private Equity | Verlinvest | Ex MSPE",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Amey Pawar",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Santosh Patil",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Prasad Awandkar",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Avirup Biswas",
+            "about": "Business Analyst-4 at Barclays | GE Aviation | Electrosteel Castings Limited | IIT Kharagpur",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Soha Agarwal",
+            "about": "SDE 2 at Amazon",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Amit Tiwari",
+            "about": "Director(AVP)-Portfolio Risk at Morgan Stanley | EX-Barclays UK | EX-TCS",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kalyani Joshi",
+            "about": "MS Software Engineering, ASU | ex Software Developer @Barclays",
+            "location": "Tempe, AZ"
+        },
+        {
+            "profile_link": "",
+            "name": "Khushboo Choudhary",
+            "about": "GHC'24 | ML @ Synchrony | UIUC | Deutsche Bank | NIT Jaipur | Leveraging AI & Data Science to Drive Business Impact | Deep Learning | Software Development",
+            "location": "Champaign, IL"
+        },
+        {
+            "profile_link": "",
+            "name": "Aishwarya Venkatesan",
+            "about": null,
+            "location": "Dallas-Fort Worth Metroplex"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Singhal, CFA",
+            "about": null,
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech (Honors)",
+            "field": "agricultural and food engineering",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": "-",
+            "title": " Telugu "
+        }
+    ],
+    "certifications": [
+        {
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Data Engineer - Associate"
+        },
+        {
+            "meta": "Credential ID 1100101653",
+            "subtitle": "Microsoft Azure ",
+            "title": "Microsoft Certified: Azure Data Engineer Associate"
+        },
+        {
+            "meta": "Credential ID yxt2.zrng.6H5WSee credential",
+            "subtitle": "Python Institute",
+            "title": "PCAP - Certified Associate in Python Programming"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2962.0,
+    "connections": 500.0,
+    "current_company_company_id": "cardinal-health",
+    "current_company_name": "Cardinal Health",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Santa Clarita",
+    "linkedin_id": "potluri-hemanth-kumar",
+    "activity": null,
+    "linkedin_num_id": 521698246.0,
+    "honors_and_awards": [
+        {
+            "title": "Recognition - \"Empower\"",
+            "publication": "Peter Josse (Mng Director) - CIO, Barclays UK",
+            "date": "2023-06-01T00:00:00.000Z",
+            "description": "Recognised for outstanding collaboration across multiple stakeholders to mitigate impact challenges for the business."
+        },
+        {
+            "title": "Recognition - \"Excellence\"",
+            "publication": "Rohan Kumar (Vice President) - Head of Client Analytics",
+            "date": "2023-05-01T00:00:00.000Z",
+            "description": "Recognised for managing the pressure to the tight deadlines and get the outputs out on time."
+        },
+        {
+            "title": "Double Recognition - \"Drive\"",
+            "publication": "Jack Chung (Mng Director) - Head of Barclays UK data management & apps and Tammy Dixon (VP) - Strategy and culture lead",
+            "date": "2022-08-01T00:00:00.000Z",
+            "description": "Recognised for leading collaboration between several internal teams and cloud service providers, which resulted in making key design decisions."
+        },
+        {
+            "title": "Recognition - \"Excellence\"",
+            "publication": "Jack Chung (Mng Director) - Head of Barclays UK data management & apps",
+            "date": "2022-08-01T00:00:00.000Z",
+            "description": "Recognised for leading and providing great leadership on the data lab PoC"
+        },
+        {
+            "title": "Recognition - \"Empower\"",
+            "publication": "Jeanie Wan Ling Leong (VP) - Head of Delivery APAC",
+            "date": "2022-04-01T00:00:00.000Z",
+            "description": "Recognised for paying a big part in helping prospective new joiners connect and get insights on working for Barclays"
+        },
+        {
+            "title": "Recognition - \"Excellence\"",
+            "publication": "Koti Reddy Chinta Reddy (VP) - Technical delivery manager",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": "Recognised for multiple contributions and creating lasting difference, despite being very new to the team."
+        },
+        {
+            "title": "Recognition - \"Excellence\"",
+            "publication": "Ben Larwood - Head of data integration solutions",
+            "date": "2021-08-01T00:00:00.000Z",
+            "description": "Recognised the team for delivering critical cost-optimisation and modernisation of the platform in a smooth time-bound fashion."
+        },
+        {
+            "title": "Team Gold (Captain)",
+            "publication": "Inter IIT Chess Meet 2017, IIT Madras",
+            "date": "2017-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Team Silver ( Captain)",
+            "publication": "Inter-IIT Chess Meet 2016, IIT Kanpur",
+            "date": "2016-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Gold Medallist",
+            "publication": "Open IIT Chess Tournament, IIT Kharagpur",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

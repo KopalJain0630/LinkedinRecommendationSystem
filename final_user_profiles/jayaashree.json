@@ -1,0 +1,54 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "entrepreneur ; #linkedintopvoices 2016-2018; author",
+    "experience": [
+        {
+            "title": "Chief Research Officer (CRO)",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2021 - Present 3 years 5 months",
+            "start_date": "Aug 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 5 months",
+            "company": "430am Analytics Private Limited",
+            "company_logo_url": ""
+        }
+    ],
+    "education": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Computing for Data Analysis\"},{\"subtitle\":\"-\",\"title\":\"Inbound Marketing Certification\"},{\"subtitle\":\"-\",\"title\":\"Web Intelligence and Big Data\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Oct 2013",
+            "subtitle": "Coursera",
+            "title": "Computing for Data Analysis"
+        },
+        {
+            "subtitle": "Coursera",
+            "title": "Web Intelligence and Big Data"
+        }
+    ],
+    "current_company_name": "430am Analytics Private Limited",
+    "publications": "[{\"title\":\"Startup Noodles, Spice 'em up\",\"subtitle\":\"Notion Press\",\"date\":\"August 9, 2019\",\"description\":\"Selected as Top Voice by Microsoft LinkedIn in 2016 and 2018, the author seeks toevaluate business strategies, analyze data, share insights and write interesting, compelling andthought-provoking content to ignite minds. Needless to say, it also works to kick-start andcontinuously feed the reading habits of many. Invigorating content is food for thought to an openmind.To ignite an era of innovation, out of box thinking and spirit of creativity in Indian startups andentrepreneurship.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Computing for Data Analysis",
+            "publication": "coursera.org",
+            "date": "2013-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Web Intelligence and Big Data",
+            "publication": "coursera.org",
+            "date": "2013-06-01T00:00:00.000Z",
+            "description": "This course is about building 'web-intelligence' applications using machine-learning and parallel map-reduce programming to analyze 'big data' such as arising from social media or genomics."
+        },
+        {
+            "title": "Inbound Marketing Certification",
+            "publication": "Inbound Marketing University",
+            "date": "2013-04-01T00:00:00.000Z",
+            "description": "Inbound Marketing Certified Professional"
+        }
+    ]
+}

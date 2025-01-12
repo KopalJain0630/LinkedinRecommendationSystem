@@ -1,0 +1,356 @@
+{
+    "id": "shri-varsheni",
+    "name": "Shri Varsheni R",
+    "city": "Tamil Nadu, India",
+    "country_code": "IN",
+    "position": "IIT Kharagpur, 2023 || Data Science @American Express || Technical Writer || Data Science @Qure.ai || Intern @ NUS (National University of Singapore)",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "American Express",
+        "company_id": "american-express",
+        "title": "IIT Kharagpur, 2023 || Data Science @American Express || Technical Writer || Data Science @Qure.ai || Intern @ NUS (National University of Singapore)"
+    },
+    "experience": [
+        {
+            "title": "Data science - Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description": "I work in Fraud decision Science in the Credit and Fraud Risk department of American Express.",
+            "description_html": "I work in Fraud decision Science in the Credit and Fraud Risk department of American Express. <!---->",
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data science Writer",
+            "description": "Wrote and published 9+ articles on Analytics Vidhya",
+            "description_html": "Wrote and published 9+ articles on Analytics Vidhya <!---->",
+            "duration": "Dec 2021 - Present 3 years 1 month",
+            "start_date": "Dec 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 1 month",
+            "company": "Analytics Vidhya",
+            "company_id": "analytics-vidhya",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Risk Analyst",
+            "description": "I worked as a part of the Fraud Modelling team under CFR (Credit & Fraud Risk) Division. Worked on External Vendor Data Evaluation to increase fraud capture rate in new credit card applications of US Market. Used SQL, Hive to work with Big Databases. Leveraged SAS and Python to implement model development and training.",
+            "description_html": "I worked as a part of the Fraud Modelling team under CFR (Credit &amp; Fraud Risk) Division. Worked on External Vendor Data Evaluation to increase fraud capture rate in new credit card applications of US Market. Used SQL, Hive to work with Big Databases. Leveraged SAS and Python to implement model development and training. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Qure.ai",
+            "company_id": "qure.ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "Worked in the research project of “Efficient compression methodsfor large-batch deep learning on distributed systems”.",
+            "description_html": "Worked in the research project of “Efficient compression methodsfor large-batch deep learning on distributed systems”. <!---->",
+            "duration": "Sep 2020 Mar 2021 7 months",
+            "start_date": "Sep 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "7 months",
+            "company": "National University of Singapore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "Worked upon developing various NLP, machine learning related content. Used NLP packages nltk, spacy, gensim, transformers(Hugging face). Learnt and performed tasks including building chatbot with Rasa, text classification, summarization, Entity extraction, Markov chains, models.",
+            "description_html": "Worked upon developing various NLP, machine learning related content. Used NLP packages nltk, spacy, gensim, transformers(Hugging face). Learnt and performed tasks including building chatbot with Rasa, text classification, summarization, Entity extraction, Markov chains, models. <!---->",
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Machine Learning Plus",
+            "company_id": "machine-learning-plus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analytics Intern",
+            "description": "Trained a CNN model for lane detection and improved accuracy to more than 80%. Used pytorch, keras, tensorflow, moviepy in the process.",
+            "description_html": "Trained a CNN model for lane detection and improved accuracy to more than 80%. Used pytorch, keras, tensorflow, moviepy in the process. <!---->",
+            "duration": "Apr 2020 Aug 2020 5 months",
+            "start_date": "Apr 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "5 months",
+            "company": "Jasmin Infotech",
+            "company_id": "jasmin-infotech-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "description": "Learnt and worked upon various Machine Learning algorithms, data visualization. Implemented Time series forecasting algorithm for practical use-case using ARIMA. Gained exposure in Deep learning concepts",
+            "description_html": "Learnt and worked upon various Machine Learning algorithms, data visualization. Implemented Time series forecasting algorithm for practical use-case using ARIMA. Gained exposure in Deep learning concepts <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Digital Tesseract",
+            "company_id": "digital-tesseract",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Reporter",
+            "description_html": null,
+            "duration": "Aug 2019 Jun 2020 11 months",
+            "start_date": "Aug 2019",
+            "end_date": "Jun 2020",
+            "duration_short": "11 months",
+            "company": "The Scholars' Avenue",
+            "company_id": "the-scholars'-avenue",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "description_html": null,
+            "duration": "Aug 2018 Jun 2020 1 year 11 months",
+            "start_date": "Aug 2018",
+            "end_date": "Jun 2020",
+            "duration_short": "1 year 11 months",
+            "company": "Technology Filmmaking and Photography Society, IIT Kharagpur",
+            "company_id": "technology-filmmaking-and-photography-society",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Junior Associate",
+            "description_html": null,
+            "duration": "Jan 2019 May 2019 5 months",
+            "start_date": "Jan 2019",
+            "end_date": "May 2019",
+            "duration_short": "5 months",
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Madhur Panwar",
+            "about": "CS PhD Student at EPFL | Microsoft Research | Adobe | Amazon | NTU | Math + CS @ BITS Pilani",
+            "location": "Lausanne"
+        },
+        {
+            "profile_link": "",
+            "name": "Shweta Pardeshi",
+            "about": "MS @ UC San Diego | NTU Singapore | IIT Gandhinagar | Machine Learning Engineer",
+            "location": "San Diego, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Jhalak Gupta",
+            "about": "Software Engineer at Databricks | IIT Indore CSE'21",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshata Satluri",
+            "about": "Final year LL.B student at Jindal Global Law School",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Aadil Sanchawala",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr. Devanshi Shah",
+            "about": "Author | Ph.D in International Relations (Expertise in Paradiplomacy, Foreign Policy and Geopolitics)",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Devang U.",
+            "about": "AB InBev | IIT Kharagpur",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Sivaji Retta",
+            "about": "AI Engineer || Research and Development || Computer Vision || B.Tech@IIITN ||",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Shirol",
+            "about": "Optimization at TriOptima",
+            "location": "Stockholm"
+        },
+        {
+            "profile_link": "",
+            "name": "Megha Banerjee",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Namita Sharma",
+            "about": "Ph.D. Student, International Relations and Governance Studies, Shiv Nadar University",
+            "location": "Tinsukia"
+        },
+        {
+            "profile_link": "",
+            "name": "Preeyal Gupta",
+            "about": "LL.M. Candidate at University of California, Berkeley",
+            "location": "Berkeley, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Devansh Batra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sharmishtha Singh",
+            "about": "ESG and Trade Finance Associate",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Gowri Jayaprakash",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Roy",
+            "about": "Business Developer, Tech Transfer at Norinnova.",
+            "location": "Tromsø"
+        },
+        {
+            "profile_link": "",
+            "name": "Reetodeep Hazra",
+            "about": null,
+            "location": "Dallas-Fort Worth Metroplex"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshu Dubey",
+            "about": "Dispute Resolution | Commercial Litigation | International Law",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sakshi Goyal",
+            "about": ".",
+            "location": "Ajmer"
+        },
+        {
+            "profile_link": "",
+            "name": "Subhadra Madhavan",
+            "about": "Legal Researcher | Aspiring Lawyer interested in Civil and Corporate litigation | Sudoku Aficionado |",
+            "location": "Chennai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated Btech and Mtech",
+            "field": "Metallurgical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Analytics Head, IIT Tech Ambit. Technology Filmmaking and Photography Society",
+            "description_html": "Activities and Societies: Analytics Head, IIT Tech Ambit. Technology Filmmaking and Photography Society",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Maharishi Vidya Mandir Senior Secondary School",
+            "degree": "class 12",
+            "field": "96.4%",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": "Awarded 0.1% merit certificate in Computer science.School topper in English.",
+            "description_html": "Awarded 0.1% merit certificate in Computer science.School topper in English. <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Differential and Integral Calculus\"},{\"subtitle\":\"-\",\"title\":\"probability and stochastic processes\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Applied Machine Learning: Foundations"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Stanford Online",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Rhyme.com (Acquired by Coursera)",
+            "title": "Sentiment Analysis with Deep Learning using BERT"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Rhyme.com (Acquired by Coursera)",
+            "title": "Image Data Augmentation with Keras "
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID PGWMCQKK9E4USee credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID HT6PYWCA4YWLSee credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 5276.0,
+    "connections": 500.0,
+    "current_company_company_id": "american-express",
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Regression based models to predict flow stress in austenitic stainless steels\",\"start_date\":\"Dec 2021\"}]",
+    "organizations": null,
+    "location": "Tamil Nadu",
+    "linkedin_id": "shri-varsheni",
+    "activity": null,
+    "linkedin_num_id": 549225277.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

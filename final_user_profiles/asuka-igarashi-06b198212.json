@@ -1,0 +1,34 @@
+{
+    "city": "Kanagawa, Japan",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Tokai University",
+            "url": "",
+            "start_year": "2011-04",
+            "end_year": "2015-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2022Credential ID UC-2f27820d-15f4-4de6-a224-5a45942b8f0bSee credential",
+            "subtitle": "Udemy",
+            "title": "Mathematical Foundations of Machine Learning"
+        },
+        {
+            "meta": "Issued Dec 2021Credential ID UC-34cac482-2003-4ec0-a07d-5279493fe101See credential",
+            "subtitle": "Udemy",
+            "title": "Automatic Number Plate Recognition, OCR Web App in Python"
+        }
+    ],
+    "current_company_name": "株式会社Mewboard",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

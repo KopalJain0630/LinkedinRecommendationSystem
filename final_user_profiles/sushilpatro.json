@@ -1,0 +1,96 @@
+{
+    "city": "Luxembourg, Luxembourg, Luxembourg",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2010-08",
+            "end_year": "2015-08",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2010-08",
+            "end_year": "2015-08",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Financial Management\"},{\"subtitle\":\"-\",\"title\":\"Marketing Management\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023Credential ID 273e28a951e8See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL(Advanced)"
+        },
+        {
+            "meta": "Issued Apr 2023Credential ID b75e40f955c2See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL(Basic)"
+        },
+        {
+            "meta": "Issued Apr 2023Credential ID 9c4d1ec1ad6eSee credential",
+            "subtitle": "HackerRank",
+            "title": "SQL(Intermediate)"
+        },
+        {
+            "meta": "Issued Apr 2022",
+            "subtitle": "Glassbox",
+            "title": "Glaassbox Workshop - EMEA - Europe"
+        },
+        {
+            "meta": "Issued Dec 2021See credential",
+            "subtitle": "WorldQuant University",
+            "title": "Applied Data Science II: Machine Learning & Statistical Analysis (with honors)"
+        },
+        {
+            "meta": "Issued Sep 2021See credential",
+            "subtitle": "WorldQuant University",
+            "title": "Applied Data Science I: Scientific Computing & Python (with honors)"
+        },
+        {
+            "meta": "Issued Jun 2021See credential",
+            "subtitle": "Decoded",
+            "title": "Decoded Global Data Academy: Foundations in Data Analytics Certified"
+        },
+        {
+            "meta": "Issued Dec 2019Credential ID UC-AAIEUJEISee credential",
+            "subtitle": "Udemy",
+            "title": "Tableau for Beginners"
+        },
+        {
+            "meta": "Issued Jul 2021Expires Jul 2024See credential",
+            "subtitle": "Google",
+            "title": "Google Analytics for Beginners"
+        }
+    ],
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Intellectual Property Portal\",\"start_date\":\"Feb 2014\",\"description\":\"Intellectual Property Portal or IP PORTAL is the official Patent Portal of IIT Kharagpur constituted in 2014. This initiative aims at revolutionizing the patent filing process and thereby boosting the undergoing research projects.- Structured and implemented the legal and financial framework for Intellectual Property Drive 2014- Conceptualized and developed a model for the Intellectual Property Portal- Collaborated with over 30 departments, Rajiv Gandhi School of Intellectual Property Law and the IPR Office of IIT Kharagpur to finalize and launch the portal- Organized extensive departmental seminars to consult the research community- The drive was a huge success leading to the filing of 31 patents in a span of 2 months\"},{},{},{\"title\":\"TEDxIITKharagpur\",\"start_date\":\"Jan 2013\",\"description\":\"About TEDx, x = independently organized eventIn the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TEDTalks video and live speakers combine to spark deep discussion and connection in a small group. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized. TEDxIITKharagpur is an independently organized TED like conference by Technology Transfer Group, IIT Kharagpur operated under a license from TED.\"},{},{},{},{},{},{},{\"title\":\"100 Days 100 Patents Drive\",\"start_date\":\"Sep 2012\",\"description\":\"The ‘100 Days 100 Patents’ drive was organised by Technology Transfer Group (TTG) under the guidance of SRIC to promote patenting among students of the Institute and to inculcate a culture of patenting among them. The 100 Days 100 Patents drive was conducted in four phases, and researchers from various disciplines were guided in the technical, legal and financial areas to help them protect their intellectual property.- Structured and implemented legal and financial framework & technical filter for first ever patent drive in IIT Kharagpur - Developed & regulated an engagement model between Professors, Intellectual Property Cell and SRIC, IIT Kharagpur - Set a record of filing 102 patents in 100 days, against 176 patents granted in institute’s 60 year history.\"},{},{},{},{},{},{},{},{\"title\":\"Indac'11\",\"start_date\":\"May 2011\",\"end_date\":\"Oct 2011\",\"description\":\"It was an event organized with the support of the SRIC Cell of the institute also in an association with CII, EAI in New Delhi, providing a platform for interaction of academicians in our case professors with corporate s from Energy & Power, Food Processing & Agriculture fields.\"},{},{},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana (KVPY)",
+            "publication": "Department of Science and Technology, Government of India",
+            "date": "2012-04-01T00:00:00.000Z",
+            "description": "The Kishore Vaigyanik Protsahan Yojana (KVPY) is an on-going National Program of Fellowship in Basic Sciences, initiated and funded by the Department of Science and Technology, Government of India, to attract exceptionally highly motivated students for pursuing basic science courses and research career in science."
+        },
+        {
+            "title": "NTSE Scholar",
+            "publication": "National Council of Educational Research and Training (NCERT)",
+            "date": "2010-03-01T00:00:00.000Z",
+            "description": "Among the top 1000 students all over India to receive this scholarship."
+        },
+        {
+            "title": "Rajiv Gandhi Chhatra Pratibha Award",
+            "publication": "Orissa Rajiv Gandhi Students' Forum",
+            "date": "2008-09-01T00:00:00.000Z",
+            "description": "This Award is given to the students who secures the top 10 ranks in the All India Secondary School Examination (Class X)"
+        }
+    ]
+}

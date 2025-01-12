@@ -1,0 +1,80 @@
+{
+    "id": "clintcadio",
+    "name": "Clint Cadio",
+    "city": "Metro Manila",
+    "country_code": "PH",
+    "position": "Student at UofT",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Bayes Studio",
+        "company_id": "bayes-studio",
+        "title": "Student at UofT"
+    },
+    "experience": [
+        {
+            "title": "Vegetation Analyst",
+            "location": "Vancouver, British Columbia, Canada",
+            "description_html": null,
+            "duration": "Sep 2024 Dec 2024 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Dec 2024",
+            "duration_short": "4 months",
+            "company": "Bayes Studio",
+            "company_id": "bayes-studio",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Blockchain Analyst",
+            "location": "Vancouver, British Columbia, Canada",
+            "description_html": null,
+            "duration": "Nov 2022 Jun 2023 8 months",
+            "start_date": "Nov 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "8 months",
+            "company": "iMining Technologies Inc.",
+            "company_id": "imininginc",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": null,
+    "educations_details": "University of Toronto",
+    "education": [
+        {
+            "title": "University of Toronto",
+            "degree": "Honours Bachelor's degree",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2028",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4714.0,
+    "connections": 500.0,
+    "current_company_company_id": "bayes-studio",
+    "current_company_name": "Bayes Studio",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "clintcadio",
+    "activity": null,
+    "linkedin_num_id": 966000184.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

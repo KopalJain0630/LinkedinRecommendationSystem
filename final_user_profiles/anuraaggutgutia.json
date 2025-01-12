@@ -1,0 +1,50 @@
+{
+    "city": "San Francisco, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". ,",
+            "start_year": "2002",
+            "end_year": "2007",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Electrical Engineering\"}]",
+    "certifications": null,
+    "current_company_name": "TrueFoundry",
+    "publications": "[{\"title\":\"A closed-form solution for the distribution free continuous review integrated inventory model\",\"subtitle\":\"Operational Research: An International Journal\",\"date\":\"July 20, 2016\"},{\"title\":\"Dynamics of Foreign Portfolio Inflows in India\",\"subtitle\":\"Accepted for Presentation at the 8th Asian Business Research Conference, Bangkok, 2013 and for Publication in the 'World Business Review'\",\"date\":\"April 1, 2013\",\"description\":\"The aim of the paper is to understand the investment behaviour of the FII’s and the DII’s depending on the market movements and other factors like fluctuations in the exchange rate. We also study the influence of FII and DII on the stock movements and show that depending on the time factor, both of them have certain relationships with the other as expected. The causal relationships between the set of factors and the impact on FII and DII have also been studied using a series of causal tests.\"},{\"title\":\"Vendor-buyer model for distribution free demand under imperfect production process and service level constraint\",\"subtitle\":\"XVIth Annual International Conference of Society of Operations Management\",\"date\":\"December 14, 2012\",\"description\":\"- Developed a closed form solution for vendor-buyer mathematical model for distribution free demand under imperfect production process and service level constraint- Received best paper award for Decision Analytics category in the 16th International Conference of the Society of Operations Management (SOM16)\"}]",
+    "patents": "[{\"title\":\"An interconnectable disintegrable prefabricated contructional modular units\",\"date_issued\":\"February 16, 2015\",\"patents_id\":\"IN 0185/KOL/2015\",\"description\":\"The invention is aimed at providing alternative urbanized homes in slum areas or transit shelter in disaster prone areas where conventional construction may not be reasonable or possible.\"}]",
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Order of Merit in Technology",
+            "publication": "Indian Institute of Technology, Kharagpur",
+            "date": "2013-04-01T00:00:00.000Z",
+            "description": "Awarded the Order of Merit in Technology for Distinguished performance in Technology related Events"
+        },
+        {
+            "title": "Delegate, UN Convention on Biological Diversity (COP11)",
+            "publication": "Young Ambassadors Society (Italy)",
+            "date": "2012-10-01T00:00:00.000Z",
+            "description": "Selected as one of the delegates of the Government of India to the UN convention on biological diversity."
+        },
+        {
+            "title": "Authors of Change",
+            "publication": "National Social Entrepreneurship Forum",
+            "date": "2011-04-01T00:00:00.000Z",
+            "description": "Selected as 1 out of 30 youths from India working in Social Sector by National Social Entrepreneurship Forum.Worked with Naandi foundation in strategizing the Nanhikali Program for spreading education to the girl child in slum areas"
+        }
+    ]
+}

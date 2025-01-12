@@ -1,0 +1,56 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of Surrey",
+            "url": "",
+            "start_year": "2022-02",
+            "end_year": "2023-02",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Udemy",
+            "title": "The Complete Financial Analyst Training & Investing course "
+        }
+    ],
+    "current_company_name": "JLL",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Vedanta’s Decision to Buyback and Delist\",\"start_date\":\"Sep 2022\",\"end_date\":\"Sep 2022\",\"description\":\"•Analyzed the financials of Vedanta Limited.•Calculated the fair valuation of Vedanta’s equity•Evaluated the outlook of the Indian economy, the state of the metals and mining industry and fairness of the delisting offer of Vedanta.\"},{\"title\":\"Jazztel’s Foreign IPO\",\"start_date\":\"Aug 2022\",\"end_date\":\"Aug 2022\",\"description\":\"•Evaluated the source of financing that Jazztel, a Spanish telecommunication corporate, should use to raise funds, the type of equity financing it should opt for and whether it should launch a foreign or a domestic IPO.•Achieved 66%, which was about 20% higher than the average and the median score of the class.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Bronze Medal - Delhi State Taekwon-Do Championship",
+            "publication": "Delhi State I.T.F Taekwon-Do Championship",
+            "date": null,
+            "description": "Won the Bronze medal at the Delhi State Taekwon-do Championship."
+        },
+        {
+            "title": "Cricket Tournaments",
+            "publication": "-",
+            "date": null,
+            "description": "Won awards while representing schools’ and college’s cricket team in various tournaments."
+        }
+    ]
+}

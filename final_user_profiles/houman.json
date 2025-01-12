@@ -1,0 +1,13 @@
+{
+    "city": "San Diego Metropolitan Area",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Menlo Ventures",
+    "publications": "[{\"title\":\"Vive\",\"subtitle\":\"Qualcomm\",\"date\":\"October 24, 2010\",\"description\":\"Vive allows you to easily share your purchases, recommendations, ratings, and other activities with family, friends and people you know.Vive is a free service that is operated by Qualcomm Services Labs, Inc, an affiliate of Qualcomm Incorporated.\"}]",
+    "patents": "[{\"title\":\"SYSTEMS AND METHODS FOR AUTOMATICALLY SEARCHING A DATABASE TO TUNE A Mobile Device\",\"date_issued\":\"July 2, 2013\",\"patents_id\":\"US US 2009/0163225 A1\",\"description\":\"A method for automatically tuning a frequency modulator in a mobile device is described. The geographical location of the mobile device is obtained. A database of one or more frequencies associated with the geographical location of the mobile device is searched. Quality associated with channels of the one or more frequencies is analyzed to identify at least one available channel at a first frequency. The first frequency is assigned to an FM modulator. The FM modulator is integrated as a part of the mobile device. A determination is made as to whether a command to search for a second frequency is received. If the command to search for the second frequency is not received, a signal is transmitted on the first frequency by the FM modulator.\"},{\"title\":\"Systems and methods for automatically tuning a frequency modulator in A Mobile Device\",\"date_issued\":\"September 27, 2011\",\"patents_id\":\"US US8027645\",\"description\":\"A method for automatically tuning a frequency modulator in a mobile device is described. A frequency band is automatically scanned using a frequency modulation (FM) receiver. The FM receiver is integrated as a part of the mobile device. Quality associated with channels of the frequency band is analyzed to identify at least one available channel at a first frequency. The first frequency is assigned to an FM modulator. The FM modulator is integrated as a part of the mobile device. A determination is made whether a command to scan for a second frequency is received. If the command to scan for the second frequency is not received, a signal on the first frequency is transmitted by the FM modulator.\"}]",
+    "projects": null,
+    "honors_and_awards": null
+}

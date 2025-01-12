@@ -1,0 +1,101 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Associate Consultant | Expertise in Java, Spring Boot, Microservices, DSA, System Design",
+    "experience": [
+        {
+            "title": "Associate Consultant",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Nov 2024 - Present 2 months",
+            "start_date": "Nov 2024",
+            "end_date": "Present",
+            "duration_short": "2 months",
+            "company": "Infosys",
+            "company_id": "infosys",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Sep 2021 Oct 2024 3 years 2 months",
+            "start_date": "Sep 2021",
+            "end_date": "Oct 2024",
+            "duration_short": "3 years 2 months",
+            "company": "AppViewX",
+            "company_id": "appviewx",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Blogger",
+            "description_html": null,
+            "duration": "Jul 2021 Sep 2021 3 months",
+            "start_date": "Jul 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "3 months",
+            "company": "Fueler.io",
+            "company_id": "fueler",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Design Internship",
+            "description_html": null,
+            "duration": "Jan 2020 Jan 2020 1 month",
+            "start_date": "Jan 2020",
+            "end_date": "Jan 2020",
+            "duration_short": "1 month",
+            "company": "Quantitics",
+            "company_id": "quantitics",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "JIS COLLEGE OF ENGINEERING 317",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Rampurhat High School",
+            "degree": "Higher Secondary Education",
+            "field": "Science",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Rampurhat High School",
+            "degree": "Secondary Education",
+            "start_year": "2013",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2021",
+            "subtitle": "Udemy",
+            "title": "Automate the boring stuff with Python Programming"
+        }
+    ],
+    "current_company_name": "Infosys",
+    "publications": "[{\"title\":\"Amazon Clone App\",\"date\":\"September 10, 2023\",\"description\":\"• Developed a fully functional Amazon clone web application using React.js, showcasing expertise in frontend development and user interface design.• Implemented essential features such as product listing, search functionality, shopping cart, and user authentication, creating a seamless and engaging shopping experience for users.• Utilized modern web development technologies like React Hooks and Context API to manage state efficiently, resulting in optimized performance and smooth user interactions.• Employed Firebase for backend functionalities such as user authentication and real-time database, demonstrating proficiency in integrating frontend with backend services.\"},{\"title\":\"Insights with Datasthan #30Days30Companies\",\"date\":\"August 1, 2021\",\"description\":\"“Insights with Datasthan #30Days30Companies” is a blog project about 30 different companies, where I'm learning and documenting how these companies leverage the power of data, how do they perform data analytics, what is making them different from others, and why I am fascinated to work with them.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

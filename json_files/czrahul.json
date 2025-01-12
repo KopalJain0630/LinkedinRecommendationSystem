@@ -1,0 +1,380 @@
+{
+    "id": "czrahul",
+    "name": "Rahul kumar",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "Software Engineer @OPLUS (Oppo & OnePlus) | IIT KGP'23",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "OPPO India",
+        "company_id": "oppo-india",
+        "title": "Software Engineer @OPLUS (Oppo & OnePlus) | IIT KGP'23"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "OPPO India",
+            "company_id": "oppo-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full-stack Developer",
+            "location": "West Bengal, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "IQApex Labs",
+            "company_id": "iqapex-labs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Development Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Working for in-depth investigation of ReHuCap website to improve the existing servers and Softwares• Ensured proper functioning of Payment Gateway, all the icons of the website, and Digital Marketing",
+            "description_html": "• Working for in-depth investigation of ReHuCap website to improve the existing servers and Softwares• Ensured proper functioning of Payment Gateway, all the icons of the website, and Digital Marketing <!---->",
+            "duration": "Sep 2021 Feb 2022 6 months",
+            "start_date": "Sep 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "6 months",
+            "company": "ReHuCap",
+            "company_id": "rehucap",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Spectra - IIT Kharagpur",
+            "location": "IIT Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Spectra - IIT Kharagpur",
+                    "meta": "Jul 2020 - Jun 2021 1 year",
+                    "description": "• Successfully conducted the Selection Process of Members and Associate members for session 2020-21• Successfully conducted online workshops for Cartooning and Portrait sketching  for new members",
+                    "duration": "Jul 2020 Jun 2021 1 year",
+                    "start_date": "Jul 2020",
+                    "end_date": "Jun 2021",
+                    "duration_short": "1 year",
+                    "title": "Junior Coordinator",
+                    "description_html": "• Successfully conducted the Selection Process of Members and Associate members for session 2020-21<br>• Successfully conducted online workshops for Cartooning and Portrait sketching for new members <!---->"
+                },
+                {
+                    "subtitle": "Spectra - IIT Kharagpur",
+                    "meta": "Jul 2019 - Jun 2020 1 year",
+                    "description": "• Participated in workshops like Photoshop, Charcoal Painting, Still Life drawing and learned needful skills• Successfully conducted Live Portrait Sketching by Spectra in Twilight Jamboree event at IIT Kharagpur • Participated in FineArts competitions and helped in various events conducted by SPECTRA.",
+                    "duration": "Jul 2019 Jun 2020 1 year",
+                    "start_date": "Jul 2019",
+                    "end_date": "Jun 2020",
+                    "duration_short": "1 year",
+                    "title": "Team Member",
+                    "description_html": "• Participated in workshops like Photoshop, Charcoal Painting, Still Life drawing and learned needful skills<br>• Successfully conducted Live Portrait Sketching by Spectra in Twilight Jamboree event at IIT Kharagpur <br>• Participated in FineArts competitions and helped in various events conducted by SPECTRA. <!---->"
+                }
+            ],
+            "company": "Spectra - IIT Kharagpur",
+            "company_id": "spectra-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Adish Agarwal",
+            "about": null,
+            "location": "Agra"
+        },
+        {
+            "profile_link": "",
+            "name": "Neerav Vyas Bohra",
+            "about": null,
+            "location": "Dublin"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishchay Manwani",
+            "about": null,
+            "location": "North Guwahati"
+        },
+        {
+            "profile_link": "",
+            "name": "Aritri Paul",
+            "about": "Software Engineer at Microsoft | Ex-Amazon",
+            "location": "Durgapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Kumar Singh",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Nagpal",
+            "about": null,
+            "location": "Patiala"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshita Dudani",
+            "about": "Software Engineer III at Google | Ex-Intern at BNY Mellon | JIIT’21",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Agarwal",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Smit Mandavia",
+            "about": "SWE at Rubrik | Former SWE III @Google | Competitive Programmer | Codeforces Master | Codechef 6 🌟",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Preet Sardhara",
+            "about": "Software Engineer II at Google | ex-sprinklr | ACM ICPC Asia-West Continent Finalist",
+            "location": "Bharuch"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumit Gaurav",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vandana Yadav",
+            "about": null,
+            "location": "Dublin"
+        },
+        {
+            "profile_link": "",
+            "name": "Vinay Kumar",
+            "about": "Aerospace engineering || IIT Kharagpur",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Parikh Jain",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Pandey",
+            "about": "Software Engineer 2 at Microsoft | IIT Patna CSE 21 | Vice President, Students' Gymkhana, IIT Patna (2020-21) | Youth Delegate to China 2019 | KVPY | SSB",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Kashish Mehndiratta",
+            "about": "SDE-2 @ Amazon | NIT Jalandhar",
+            "location": "Jalandhar"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Bansal",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanshu Tuli",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aayush Kapadia",
+            "about": null,
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "Vagesh Verma",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree( BTech + MTech)",
+            "field": "E&ECE, Visual Information & Embedded System",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Dakshana foundation, Jawahar Navodaya Vidyalaya (JNV) Hyderabad",
+            "degree": "Senior Secondary School",
+            "field": "PCM",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya (JNV) Ballia",
+            "degree": "Secondary School",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jul 2018 - Jun 2020 · 2 years",
+            "duration_short": "2 years",
+            "end_date": "Jun 2020",
+            "info": "• Successfully completed 2-years of training of National Cadet Corps(AirWing) B certificate at IIT Kharagpur and also participated in its 7-days long CATC(Combined Annual Training Camp), 2018 at IIT Kharagpur.• Participated twice as a donor in Blood donation camp during my NCC training.",
+            "start_date": "Jul 2018",
+            "subtitle": "NATIONAL CADET CORPS - India",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 1156.0,
+    "connections": 500.0,
+    "current_company_company_id": "oppo-india",
+    "current_company_name": "OPPO India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Hyderabad",
+    "linkedin_id": "czrahul",
+    "activity": [
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "𝟳 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁𝘀 𝗬𝗼𝘂 𝗡𝗲𝗲𝗱 𝘁𝗼 𝗙𝗼𝗹𝗹𝗼𝘄 𝗶𝗻 𝟮𝟬𝟮𝟰 (These leaders are redefining the future of AI and data…",
+            "img": "",
+            "id": "7277282574136131584"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "In the hustle and bustle of our busy schedules, we often overlook recognizing the extra effort put in by individuals who go above and beyond…",
+            "img": "",
+            "id": "7273278436532469760"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Don’t fall into paying for a course when you can get it for free. I have learnt a lot of things through free courses and these are brilliant!…",
+            "img": "",
+            "id": "7262679393024532484"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Had one of those days that stays with you. As part of the Microsoft Give event, I had the chance to spend time at Mitra for Life - an organization…",
+            "img": "",
+            "id": "7263042135677939712"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Leetcode Biweekly Contest 145 Was an interesting contest! Got a world rank of 513. Not sure what I was doing wrong in the 3rd problem. Here are the…",
+            "img": "",
+            "id": "7271193794048344064"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "human beings are inclined to belong and associate with something, be it an ideology or a fan-following, a social group or a community; if we think…",
+            "img": "",
+            "id": "7245339610518593536"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "The Phase-I of the 2024-25 placement process at Indian Institute of Technology, Kharagpur commenced on December 1, 2024, with the full participation…",
+            "img": "",
+            "id": "7269628386128326658"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Codeforces Round 990 (Div. 2) This was a fairly good contest with a lot of greedy approaches. Got a world rank of 795! Was able to solve ABCD in 97…",
+            "img": "",
+            "id": "7269627588203933697"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Yesterday marked an incredible moment in my journey as a researcher as I presented my work, CoDeiT: Contrastive Data-Efficient Transformers for…",
+            "img": "",
+            "id": "7269669066175311872"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Mastering the Markets with the Law of Large Numbers The Law of Large Numbers tells us that as the number of trials increases, the results stabilize…",
+            "img": "",
+            "id": "7269221264941027330"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "You can now get your food delivered in 10 mins in Koramangala! 😋 Very excited to announce that Swish is now live in Koramangala. A place that’s…",
+            "img": "",
+            "id": "10"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Leetcode Weekly Contest 425 It was a decent contest. Could solve the first three in around 42 minutes with a bunch of silly mistakes :) Here are…",
+            "img": "",
+            "id": "7266300630703456256"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Don’t fall into paying for a course when you can get it for free - Computer Science Edition. I have learnt a lot of things through free courses and…",
+            "img": "",
+            "id": "7263416026254454785"
+        },
+        {
+            "interaction": "Liked by Rahul kumar",
+            "link": "",
+            "title": "Excited to share this news! :) Results for Microsoft Global Hackathon 2024. I am glad to share that 2 of the hacks that I was a part of, won the…",
+            "img": "",
+            "id": "7257609750593380352"
+        }
+    ],
+    "linkedin_num_id": 557964150.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

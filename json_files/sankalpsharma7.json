@@ -1,0 +1,270 @@
+{
+    "id": "sankalpsharma7",
+    "name": "Sankalp Sharma",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Backend @ Deel | IIT Roorkee",
+    "about": "Aspiring mathematician and programmer.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Deel",
+        "company_id": "deel",
+        "title": "Backend @ Deel | IIT Roorkee"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Dec 2024 - Present 1 month",
+            "start_date": "Dec 2024",
+            "end_date": "Present",
+            "duration_short": "1 month",
+            "company": "Deel",
+            "company_id": "deel",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "slice",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "slice",
+                    "meta": "Sep 2024 - Dec 2024 4 months",
+                    "duration": "Sep 2024 Dec 2024 4 months",
+                    "start_date": "Sep 2024",
+                    "end_date": "Dec 2024",
+                    "duration_short": "4 months",
+                    "title": "SDE 3",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "slice",
+                    "meta": "Jul 2022 - Sep 2024 2 years 3 months",
+                    "description": "• Leading end-to-end development of slice account onboarding flows for a next-gen payment experience, ensuring seamless user transitions.• Designed and implemented the withdraw feature in slice account from scratch.",
+                    "duration": "Jul 2022 Sep 2024 2 years 3 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Sep 2024",
+                    "duration_short": "2 years 3 months",
+                    "title": "SDE 2",
+                    "description_html": "• Leading end-to-end development of slice account onboarding flows for a next-gen payment experience, ensuring seamless user transitions.<br>• Designed and implemented the withdraw feature in slice account from scratch. <!---->"
+                }
+            ],
+            "company": "slice",
+            "company_id": "sliceit",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "AQR Capital Management",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "AQR Capital Management",
+                    "meta": "Jan 2022 - Jul 2022 7 months",
+                    "description": "• Worked in Trading Compliance team, building set of dotnet core applications responsible for doing post trade compliance.• Worked on firmwide messaging queue implementation, data transformation of large scale data and on migrating firms infra to aws and postgres.",
+                    "duration": "Jan 2022 Jul 2022 7 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Jul 2022",
+                    "duration_short": "7 months",
+                    "title": "Associate",
+                    "description_html": "• Worked in Trading Compliance team, building set of dotnet core applications responsible for doing post trade compliance.<br>• Worked on firmwide messaging queue implementation, data transformation of large scale data and on migrating firms infra to aws and postgres. <!---->"
+                },
+                {
+                    "subtitle": "AQR Capital Management",
+                    "meta": "Jun 2019 - Jan 2022 2 years 8 months",
+                    "description": "• Worked in Trading Analytics team, building large scale analytics platform over firm's daily trading activity. • Worked on data load, data transmission API's and solving problem regarding data retrieval and data accuracy.",
+                    "duration": "Jun 2019 Jan 2022 2 years 8 months",
+                    "start_date": "Jun 2019",
+                    "end_date": "Jan 2022",
+                    "duration_short": "2 years 8 months",
+                    "title": "Analyst",
+                    "description_html": "• Worked in Trading Analytics team, building large scale analytics platform over firm's daily trading activity. <br>• Worked on data load, data transmission API's and solving problem regarding data retrieval and data accuracy. <!---->"
+                }
+            ],
+            "company": "AQR Capital Management",
+            "company_id": "aqr-capital-management",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Intern",
+            "location": "Bangalore",
+            "description": "Worked in Seller Listing Management Team.• Implemented channel prioritization assigner for seller, setting up their priority for auto quality check, according to their past characteristics.• Worked on smart validation of products, utilizing VBA to add various funtionality.",
+            "description_html": "Worked in Seller Listing Management Team.• Implemented channel prioritization assigner for seller, setting up their priority for auto quality check, according to their past characteristics.• Worked on smart validation of products, utilizing VBA to add various funtionality. <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Flipkart",
+            "company_id": "flipkart",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shikhar Saluja",
+            "about": "Spectatr | FanClash | Ex-Credit Suisse | BITS Pilani",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshin Bhambhani",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Manisha Agarwal, CFA, FRM",
+            "about": "Deal Advisory (M&A)",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Meenakshi Ravisankar",
+            "about": "Founding Engineer || Building GenAI Platform at Sarvam AI",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakhar Goyal",
+            "about": "Manager at D. E. Shaw | Gold Medalist, IIM Indore | CFA Level 3 | Certified FRM | Vienna School of Business & Economics",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rasesh Bhagat",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Divya Jain",
+            "about": "Lead Analyst at Citi | MSE'20",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Kirti Jain",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sai Kishore Pachigolla",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhijeet Das",
+            "about": "Product controller",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Jay J.",
+            "about": "Air India Transformation Team | Ex-BofA | IIM Indore | CFA L3",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanket Chakraborty",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Asim Pattnaik",
+            "about": "Amazon | BITS Pilani | CFA Level 3 Candidate",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Gupta",
+            "about": "Gaja Capital || PE/VC || IIMA'24",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudha Hulsurkar",
+            "about": "Associate at HSBC",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sindhu Jetty",
+            "about": "Founder's Office @LoopHealth | Ex - VC | Alumni at Stoa",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rushali Shivprasad",
+            "about": "Climate Action & Sustainability | Investments & Portfolio Management",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Alfred George M",
+            "about": "Business Intelligence Associate @ Goldman Sachs | PGDM | Alteryx | Tableau | SQL | Python",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Muskan Jindal",
+            "about": "Software Engineer at Google| Ex- Goldman Sachs| Ex- Amazon",
+            "location": "North Delhi"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Roorkee",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Roorkee",
+            "degree": "Bachelor’s Degree",
+            "field": "Applied Mathematics",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Structures MA-106\"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems MA-204\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithms MA-207\"},{\"subtitle\":\"-\",\"title\":\"Graph Theory MA-206\"},{\"subtitle\":\"-\",\"title\":\"Mathematical Statistics MA-303\"},{\"subtitle\":\"-\",\"title\":\"Theory of Computation MA-304\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2016See credential",
+            "subtitle": "ACM International Collegiate Programming Contest",
+            "title": "ICPCID"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2028,
+    "connections": 500,
+    "current_company_company_id": "deel",
+    "current_company_name": "Deel",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "sankalpsharma7",
+    "activity": null,
+    "linkedin_num_id": 483100807,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

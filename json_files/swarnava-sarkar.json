@@ -1,0 +1,389 @@
+{
+    "id": "swarnava-sarkar",
+    "name": "Swarnava Sarkar",
+    "city": "United States",
+    "country_code": "US",
+    "position": "MSCF Candidate at Carnegie Mellon | ex-MTS @ Oracle | IIT Kharagpur '22",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Oracle",
+        "company_id": "oracle",
+        "title": "MSCF Candidate at Carnegie Mellon | ex-MTS @ Oracle | IIT Kharagpur '22"
+    },
+    "experience": [
+        {
+            "title": "Member of Technical Staff",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Designed and developed software tools and libraries for OCI's Python software development kit, which allows our customers to build scalable applications that work seamlessly with Oracle's cloud services.• Implemented a new authentication method for the Python software development kit to allow applications running on Kubernetes clusters to authenticate against Oracle Cloud and communicate with it.• Designed and implemented a Python automation tool to periodically scan Oracle's internal code repositories and isolate those having vulnerabilities, enhancing security and reliability. Mentored two interns as part of this project.• Recognized for demonstrating the OCI Value ‘Own Without Ego,’ which reflects an individual’s commitment to taking responsibility for team well-being, championing valuable ideas, and promoting a collaborative environment.",
+            "description_html": "• Designed and developed software tools and libraries for OCI's Python software development kit, which allows our customers to build scalable applications that work seamlessly with Oracle's cloud services.• Implemented a new authentication method for the Python software development kit to allow applications running on Kubernetes clusters to authenticate against Oracle Cloud and communicate with it.• Designed and implemented a Python automation tool to periodically scan Oracle's internal code repositories and isolate those having vulnerabilities, enhancing security and reliability. Mentored two interns as part of this project.• Recognized for demonstrating the OCI Value ‘Own Without Ego,’ which reflects an individual’s commitment to taking responsibility for team well-being, championing valuable ideas, and promoting a collaborative environment.",
+            "duration": "Jul 2022 Jul 2024 2 years 1 month",
+            "start_date": "Jul 2022",
+            "end_date": "Jul 2024",
+            "duration_short": "2 years 1 month",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Server Technology Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Spearheaded the optimization of OCI's log analytics tool, streamlining the collection and analysis of logs from cloud-hosted compute instances. • Re-engineered the tool entirely in Golang, introducing parallel log collection through Golang’s go-routines.• Achieved a remarkable 67% reduction in CPU consumption and memory footprint, resulting in a 200% boost in overall tool efficiency. • Recognized for outstanding contributions with the award of a pre-placement offer, highlighting internship success.",
+            "description_html": "• Spearheaded the optimization of OCI's log analytics tool, streamlining the collection and analysis of logs from cloud-hosted compute instances. • Re-engineered the tool entirely in Golang, introducing parallel log collection through Golang’s go-routines.• Achieved a remarkable 67% reduction in CPU consumption and memory footprint, resulting in a 200% boost in overall tool efficiency. • Recognized for outstanding contributions with the award of a pre-placement offer, highlighting internship success.",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Aadesh Deshmukh",
+            "about": "Deep Learning Compilers | High Performance Computing | Software Development",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Adish Agarwal",
+            "about": null,
+            "location": "Agra"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanka Nair",
+            "about": "Budding Engineer looking for problems to solve :)",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Paridhi Sachdeva",
+            "about": "Computer Scientist at Adobe | DTU'20",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepika T S",
+            "about": "Salesforce vlocity Developer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kanav Bansal",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Dristi Chatterjee",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Khushboo Singh",
+            "about": "Assistant Manager at HCL Technology",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Taniya Saini",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhavy Jain",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjal Magdum",
+            "about": "Associate Consultant",
+            "location": "Kolhapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Sandeep S.",
+            "about": "SDE II at Uber | Ex-Microsoft | CSE'20, IIT BHU",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Vagesh Verma",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "KUMAR SHUBHAM",
+            "about": "Immediate Joiner || Java Developer with expertise in Java, SpringBoot, SQL || Ex-TCS ||",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sakshi Shrivas",
+            "about": null,
+            "location": "Uttar Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhav Sainanee",
+            "about": "SWE at Databricks | CS/Econ",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Nagpal",
+            "about": null,
+            "location": "Patiala"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Pandey",
+            "about": "Software Engineer 2 at Microsoft | IIT Patna CSE 21 | Vice President, Students' Gymkhana, IIT Patna (2020-21) | Youth Delegate to China 2019 | KVPY | SSB",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Angooj S.",
+            "about": "Software Engineer | SIH 2019 WINNER | TCS HumAIn 2019 Finalist (Top 20) | ACM ICPC 2017 and 2018 Regionalist",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Uday Jalan",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Carnegie Mellon University",
+    "education": [
+        {
+            "title": "Carnegie Mellon University",
+            "degree": "Master of Science - MS, Computational Finance",
+            "field": "Computational Finance",
+            "url": "",
+            "start_year": "2024",
+            "description": "Upcoming coursework: Fixed Income, Options, Investments, Financial Data Science, Stochastic Calculus",
+            "description_html": "Upcoming coursework: Fixed Income, Options, Investments, Financial Data Science, Stochastic Calculus <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Electrical Communication Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Ruby Park",
+            "degree": "CBSE",
+            "field": "Science",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS21003\",\"title\":\"Algorithms-I\"},{\"subtitle\":\"CS60045\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"AI60004\",\"title\":\"Big Data Processing\"},{\"subtitle\":\"EP60020\",\"title\":\"Foundations of Entrepreneurship\"},{\"subtitle\":\"EC60091\",\"title\":\"Machine Intelligence and Expert Systems\"},{\"subtitle\":\"MA20107\",\"title\":\"Matrix Algebra\"},{\"subtitle\":\"MA20106\",\"title\":\"Probability and Stochastic Processes\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English  "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Bengali "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "Yale University",
+            "title": "Financial Markets"
+        },
+        {
+            "meta": "Issued Nov 2020See credential",
+            "subtitle": "University of Pennsylvania",
+            "title": "Introduction to Corporate Finance"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Aug 2018 - Apr 2020 · 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Apr 2020",
+            "info": "• Enrolled as a cadet in the National Cadet Corps (NCC) for two academic years during college. NCC cadets are trained to serve the nation, be it during disasters, wars or to help out the poor and needy. As such, took part in several social service campaigns. • Organized a blood donation campaign within the institute that attracted nearly 60 donors. Secured a partnership with a local blood bank to collect donors’ blood and provided necessary logistical support for smooth operation.•…\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          • Enrolled as a cadet in the National Cadet Corps (NCC) for two academic years during college. NCC cadets are trained to serve the nation, be it during disasters, wars or to help out the poor and needy. As such, took part in several social service campaigns. • Organized a blood donation campaign within the institute that attracted nearly 60 donors. Secured a partnership with a local blood bank to collect donors’ blood and provided necessary logistical support for smooth operation.• Initiated cleanliness drives in nearby villages to help clean them up and promote the importance of health and cleanliness among villagers.\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Aug 2018",
+            "subtitle": "National Cadet Corps",
+            "title": "Cadet"
+        },
+        {
+            "cause": "Education",
+            "duration": "May 2021 - Jul 2021 · 3 months",
+            "duration_short": "3 months",
+            "end_date": "Jul 2021",
+            "info": "Taught English and mathematics to 10 underprivileged and orphan children.",
+            "start_date": "May 2021",
+            "subtitle": "Team Everest NGO",
+            "title": "Teaching Volunteer"
+        }
+    ],
+    "followers": 1130.0,
+    "connections": 500.0,
+    "current_company_company_id": "oracle",
+    "current_company_name": "Oracle",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"ML Model For User Authentication Using Keystroke Dynamics\",\"start_date\":\"Aug 2021\",\"end_date\":\"Nov 2021\",\"description\":\"• Developed a machine-learning model to authenticate users using their keystroke dynamics as a real-time biometric. • Engineered a Python library containing algorithms to preprocess raw keystroke data and extract quantifiable features, such as typing speed, pauses, etc.• Implemented the model using the kNN algorithm on the generated feature vectors, achieving a model accuracy of 85%. • Led a five-student team for the project. Coordinated different aspects of the project to ensure timely progress.\"},{\"title\":\"Reinforcement Learning based Autonomous Driving System\",\"start_date\":\"Aug 2021\",\"end_date\":\"Nov 2021\",\"description\":\"• Modeled and trained an autonomous driving system driven by reinforcement learning using MATLAB, encompassing vital functions such as self-navigation, path planning, and obstacle avoidance.• Conducted extensive simulations and testing within MATLAB’s environment, ensuring the reliability and safety of the autonomous system across various scenarios.\"}]",
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "swarnava-sarkar",
+    "activity": [
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "I was just about to summarize 2024 for oil but Paul Chapman and HC Group did it so much better by sending these links. It's my honor to made it to…",
+            "img": "",
+            "id": "7277358130429063168"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "India celebrates his birth anniversary as National Mathematics Day to honour his unparalleled contributions to the field. Srinivasa Ramanujan…",
+            "img": "",
+            "id": "7276587990104059904"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "Had an exciting experience this week attending the Indo-German Summit of Young Professionals (#IGYSP'24), organised at the University of Cologne! The…",
+            "img": "",
+            "id": "7276350645102694400"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "A great opportunity to join the Boston Team - Associate Electronic Trader. ",
+            "img": "",
+            "id": "7274182747357601793"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "Ever wonder why students hate (or just don’t use) your #University chatbot (other than previous chatbot-induced-trauma)? Spoiler: It’s…",
+            "img": "",
+            "id": "7274845912189829121"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "I had so much fun sitting down with Dimitri Bianco, FRM to talk all things MFE admissions! Guess I can check \"podcast guest\" off my professional…",
+            "img": "",
+            "id": "7274797502288084993"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": " We have replicated the -\" Pricing European-Style Options under Jump Diffusion Processes with Stochastic Volatility:…",
+            "img": "",
+            "id": "7272612375722110976"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "Thrilled to announce the launching of our new Women in Quant Finance club. Already the WQF has sponsored our MSCF trading competiton as well as…",
+            "img": "",
+            "id": "7272073432039669760"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "LOOK FOR GOLD! You've heard about the class of low achievers who were told they were high achievers? What happened? They became high achievers…",
+            "img": "",
+            "id": "7270124084212985856"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "Scoop: Millennium is giving nearly $3.3 billion to two new teams as the hedge fund juggernaut continues to hoover up talent. Ex-Balyasny Robert Tau…",
+            "img": "",
+            "id": "7269686971877273600"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "In retrospect, all my decisions could've been better with more time and perspective. But then again, no decision is ever truly absolute. And…",
+            "img": "",
+            "id": "7268659206822486016"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "Happy Thanksgiving! 🦃🍂 As HRTers prepare to gather with loved ones around the table, we’re reflecting on the incredible team that keeps us fed in…",
+            "img": "",
+            "id": "7267900350081241088"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "Teacher: Okay kids! what is 2+2 ? Rohan: Madam, what would you like it to be? Mohan: So, globally it's 4 but in India it can vary between 3.95 and…",
+            "img": "",
+            "id": "22"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "The wait is over! The 2025 QUANTNET Rankings of Best Quantitative Finance/Financial Engineering Programs has been released today, showcasing the top…",
+            "img": "",
+            "id": "2025"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "WHAT YOU HEARD IS NOT WHAT I SAID. A student told me this story: He was standing on campus on his first day of college. He had recently had a…",
+            "img": "",
+            "id": "7264252210501271552"
+        },
+        {
+            "interaction": "Liked by Swarnava Sarkar",
+            "link": "",
+            "title": "Today we are marking the 20th anniversary of the naming of the Tepper School of Business and celebrating two decades of innovation, collaboration…",
+            "img": "",
+            "id": "7263199115621064706"
+        }
+    ],
+    "linkedin_num_id": 757996836.0,
+    "honors_and_awards": [
+        {
+            "title": "Silver Medal - Open IIT Data Analytics Competition",
+            "publication": "Technology Students' Gymkhana, IIT Kharagpur",
+            "date": "2020-04-01T00:00:00.000Z",
+            "description": "• Won silver medal at the Open-IIT Data Analytics Competition in the academic year 2019-20. This is an annual intra-university competition organized for teams to come together and solve real-world problem statements. • Led data pre-processing and cleaning efforts, ensuring dataset quality and reliability. Trained machine learning models to predict customers’ lifetime value for a car insurance company using provided data about customers such as car type, premium amount and type, customers’… Show more"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

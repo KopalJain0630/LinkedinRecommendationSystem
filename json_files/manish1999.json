@@ -1,0 +1,419 @@
+{
+    "id": "manish1999",
+    "name": "Manish Sharma",
+    "city": "Lucknow, Uttar Pradesh, India",
+    "country_code": "IN",
+    "position": "Software Engineer @Microsoft | Ex: UrbanCompany |  IIT Kanpur",
+    "about": "I am a graduate of IIT Kanpur and for the past two years, I have been working as a Software Engineer at Urban Company, a leading home services platform in India. In this role, I have been involved in designing, developing, and deploying scalable and reliable solutions using AWS, Node.js, Kubernetes, Docker, and other technologies. I have also contributed to improving the user experience, performance, and security of the platform. I enjoy working with a talented and diverse team of engineers, and I am always eager to learn new skills and technologies. My goal is to apply my knowledge and skills to create innovative and impactful products that solve real-world problems.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Microsoft",
+        "company_id": "microsoft",
+        "title": "Software Engineer @Microsoft | Ex: UrbanCompany |  IIT Kanpur"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2022 Jun 2024 2 years 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2024",
+            "duration_short": "2 years 2 months",
+            "company": "Urban Company",
+            "company_id": "urbancompany",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineering Intern",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Peakflo",
+            "company_id": "peakflo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneurship Cell, IIT Kanpur",
+            "location": "India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kanpur",
+                    "meta": "May 2020 - Mar 2021 11 months",
+                    "duration": "May 2020 Mar 2021 11 months",
+                    "start_date": "May 2020",
+                    "end_date": "Mar 2021",
+                    "duration_short": "11 months",
+                    "title": "Manager Finance and Logistics",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kanpur",
+                    "meta": "Apr 2019 - May 2020 1 year 2 months",
+                    "duration": "Apr 2019 May 2020 1 year 2 months",
+                    "start_date": "Apr 2019",
+                    "end_date": "May 2020",
+                    "duration_short": "1 year 2 months",
+                    "title": "Secretary Events",
+                    "description_html": null
+                }
+            ],
+            "company": "Entrepreneurship Cell, IIT Kanpur",
+            "company_id": "ecelliitk",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Full stack summer Intern, IITK Summer of Code'19",
+            "location": "India",
+            "description": "Developed a web app from scratch which can work completely as a library portal with a team of 5 members. Technologies used were Django Rest framework, React Js and SQLite.",
+            "description_html": "Developed a web app from scratch which can work completely as a library portal with a team of 5 members. Technologies used were Django Rest framework, React Js and SQLite. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Aditya Agrawal",
+            "about": "IITR | Backend @ PhonePe | Expert (1800) @ Codeforces",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Moksh Shukla",
+            "about": "Ex - Data Science Intern @ American Express | MS Data Science @ Johns Hopkins | Ex- AI Scientist @ qure.ai | IIT Kanpur | All About ML, Statistics and Finance",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Devyanshi Singh",
+            "about": "Data & Applied Scientist, Microsoft • ex-IBM • vGHC Scholar'21• DE Shaw Ascend Fellow'20 • Senior, IITK",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Muskan Jaiswal",
+            "about": "Associate Consultant @RedSeer | IIT Kanpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aparna Yadav",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudh Pathak",
+            "about": "Assistant Manager - Risk Advisory",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Yasir Malik",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Ranjan",
+            "about": "SWE @ Rakuten | IIT Kanpur",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jhalak Gupta",
+            "about": "Software Engineer at Databricks | IIT Indore CSE'21",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kratik Agrawal",
+            "about": "SDE, JPMorganChase | Class of 2023, IIT Kanpur | Mastercard | E-Cell IIT Kanpur",
+            "location": "Kanpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Naveen Dalal",
+            "about": "Analyst @ Axtria | IIT Kharagpur | Entrepreneurship Cell",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Shiv Kumar Sharma",
+            "about": "Procter & Gamble | MBA IIT Kanpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "V S V Surya Prakash",
+            "about": "Product @ VMock | IIT(BHU), Varanasi",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Kaushik Mishra",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Balkrishna Paste",
+            "about": "Technology Analyst at Citi | 4* CodeChef | NITT'22",
+            "location": "Tiruchirappalli"
+        },
+        {
+            "profile_link": "",
+            "name": "Shloka Patil",
+            "about": "BCG | P&G | IITK",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sougata Konar",
+            "about": "Denodo Developer @TCS Digital(MBU Azure)||Machine learning ||Deep Learning||Angular JS ||Node JS||Denodo||Power BI",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanu Modi",
+            "about": "PM -1 @ Flipkart",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartikay Goel",
+            "about": "Senior Applications Engineer @Oracle | IIT Guwahati CSE ’22",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Bafna",
+            "about": "R&D Engineer at Ansys Inc. | C++ and Python Developer",
+            "location": "Noida"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kanpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "Bachelor of Science - BS",
+            "field": "Earth science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"MBA634\",\"title\":\"Consumer Behaviour\"},{\"subtitle\":\"MTH511\",\"title\":\"Data Analysis\"},{\"subtitle\":\"ESO207\",\"title\":\"Data Structures \"},{\"subtitle\":\"MBA717\",\"title\":\"Governance of GVC\"},{\"subtitle\":\"IME642\",\"title\":\"Operation management\"},{\"subtitle\":\"IME625\",\"title\":\"Stochastic processes \"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID 53E2TB4XZMG7See credential",
+            "subtitle": "Coursera",
+            "title": "Financial Markets"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 5H867YEU7AC8See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID J94EVQXGMEQJSee credential",
+            "subtitle": "Coursera",
+            "title": "Trading Basics"
+        },
+        {
+            "meta": "Issued May 2020Credential ID LKTVSV3F2NUSee credential",
+            "subtitle": "Coursera",
+            "title": "Finance for Everyone: Decisions"
+        },
+        {
+            "meta": "Issued May 2020Credential ID PKYNUA96DSMBSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Analytics for Business"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 7273.0,
+    "connections": 500.0,
+    "current_company_company_id": "microsoft",
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Lucknow",
+    "linkedin_id": "manish1999",
+    "activity": [
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Razorpay is shifting HQ from US to India. They plan to go public by 2026. They are extending ESOPs worth Rs 1 lac to 3000 staffers. Only condition…",
+            "img": "",
+            "id": "7277661872063950848"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Youtuber Zara Dar made 12.7 Crore on OnlyFans in 1 week She quit PhD for this & was able to pay off family mortgage in just a few days What is the…",
+            "img": "",
+            "id": "7277181109732270080"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Ready to Solve Big Challenges in 2025 and Build for the World?🌍 At WinZO, every day is an adventure – tackling complex, industry-defining…",
+            "img": "",
+            "id": "7276122739537494016"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "CAT result is out today. If it was not good & you feel demotivated Dont worry. Reach out to me. I'll tell you that this is not the end of the world…",
+            "img": "",
+            "id": "7275729383955337217"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "⭐ LeetCode Problem of the Day:  🚀 ☸️ Intuition: Sort events by start time to process them in order. Use dynamic…",
+            "img": "",
+            "id": "7271431204388634624"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "The Linux kernel, which is arguably the most complex and impactful piece of software ever written, was built, evolved and perfected by sending in…",
+            "img": "",
+            "id": "7271935401253089280"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "I really did not expect the biggest tech announcement of 2024 to come from Google. This literally changes everything. I am going to deep-dive on…",
+            "img": "",
+            "id": "7271984289217413120"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "A computation that a supercomputer takes 10^25 years, is done by Google's quantum computing chip (Willow) in less than 5 minutes 🤯 To put things…",
+            "img": "",
+            "id": "7272101107244384257"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "If you're on notice period wanting to work from home but your manager wants you to work from office: 1. Go to the office every day. 2. Sit down with…",
+            "img": "",
+            "id": "7271723792941350912"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "If tomorrow you are unable to book a cab at Uber just think that I have missed a # in the code😛. As we just build and deploy directly on production…",
+            "img": "",
+            "id": "7271054584251359234"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Convin.ai is Hiring🚀 1. ML Engineer (Exp: 1-3 years) 2. SDE-3 (3+ years of experience in Python, golang) DM me if you are interested with…",
+            "img": "",
+            "id": "7267405261936439297"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Harness had the privilege of visiting some of the finest campuses – Indian Institute of Technology, Kanpur Indian Institute of Technology (Banaras…",
+            "img": "",
+            "id": "7270309776348057600"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Zepto is delivering Manyawar in 10 minutes. Imagine a bride Preparing for her wediing for 2 yrs, trying 200 lehengas from 100 shops & the groom…",
+            "img": "",
+            "id": "7266307319758516224"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "It's so fitting how Zomato is from Delhi and Swiggy from Bangalore. Zomato loud and bold. Swiggy not much noise, more stylish.",
+            "img": "",
+            "id": "7266023104299102208"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Hi Connections, Exciting opportunity 💥 Groww is currently hiring for the below roles if anyone you know who seems fit for the role feel free to…",
+            "img": "",
+            "id": "7265775466752421888"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Zomato is asking you to 'pay' INR 20 lac to work as Chief of Staff. Very interesting opportunity. Meanwhile, HR of next company - \"We are giving…",
+            "img": "",
+            "id": "20"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Update: 📝 You can now apply directly for the Software Development Engineer (SDE) role via this link:  My Team will be going…",
+            "img": "",
+            "id": "7264291177816834049"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "When I was unsure about where to go—whether it should be #NIT, #DTU, or #NSIT (#NSUT)—I thought about it a lot and decided to choose NSIT because I…",
+            "img": "",
+            "id": "7264220370704957441"
+        },
+        {
+            "interaction": "Liked by Manish Sharma",
+            "link": "",
+            "title": "Ola copied Uber, Flipkart copied Amazon, Oyo copied Airbnb, to bhai, aap bhi copy karke koi badi company banao aur paise kamao. Ya bas baithakar…",
+            "img": "",
+            "id": "7263864423889477632"
+        }
+    ],
+    "linkedin_num_id": 703273562.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "city": "Kanpur Nagar, Uttar Pradesh, India",
+    "position": "Software Developer at Blinkit |  IIT KGP 22 | Golang | Flask | Bash Scripting",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Sep 2022 - Present 2 years 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 4 months",
+            "company": "Blinkit",
+            "company_id": "letsblinkit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Andhra Pradesh, India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "MTX Group",
+            "company_id": "mtx-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Artificial Intelligence Intern",
+            "description_html": null,
+            "duration": "Jan 2021 Mar 2021 3 months",
+            "start_date": "Jan 2021",
+            "end_date": "Mar 2021",
+            "duration_short": "3 months",
+            "company": "Kalpkriti Inc",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "description_html": null,
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "Dblue Inc",
+            "company_id": "dblue-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Developer",
+            "description_html": null,
+            "duration": "Jul 2019 Jul 2020 1 year 1 month",
+            "start_date": "Jul 2019",
+            "end_date": "Jul 2020",
+            "duration_short": "1 year 1 month",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full-stack Developer",
+            "description_html": null,
+            "duration": "Mar 2020 May 2020 3 months",
+            "start_date": "Mar 2020",
+            "end_date": "May 2020",
+            "duration_short": "3 months",
+            "company": "Flipr Innovation Labs",
+            "company_id": "fliprlabsindia",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2021Credential ID VJ3B2WJND683See credential",
+            "subtitle": "Coursera",
+            "title": "Golang"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Python data structures"
+        }
+    ],
+    "current_company_name": "Blinkit",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

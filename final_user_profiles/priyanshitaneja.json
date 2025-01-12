@@ -1,0 +1,82 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Jaypee Institute Of Information Technology",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". .",
+            "start_year": "2001",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"15B11CI518\",\"title\":\"Control Systems\"},{\"subtitle\":\"15B11CI518\",\"title\":\"Data structures and Algorithms\"},{\"subtitle\":\"18B12MA311\",\"title\":\"Decision Making using Mathematical and Statistical Approach\"},{\"subtitle\":\"19B12HS814\",\"title\":\"Digital Transformation in Financial Services\"},{\"subtitle\":\"15B1NHS435\",\"title\":\"Financial Accounting\"},{\"subtitle\":\"17B1NHS732\",\"title\":\"Indian Financial System\"},{\"subtitle\":\"17B1NHS533\",\"title\":\"Marketing Management\"},{\"subtitle\":\"16B19CI699\",\"title\":\"Mobile Application Development\"},{\"subtitle\":\"18B12MA611\",\"title\":\"Operational Research\"},{\"subtitle\":\"16B1NHS631\",\"title\":\"Project Management\"},{\"subtitle\":\"16B1NHS435\",\"title\":\"Sociology of Media\"},{\"subtitle\":\"15B11CI111\",\"title\":\"Software Development Fundamentals -1\"},{\"subtitle\":\"15B11CI211\",\"title\":\"Software Development Fundamentals-2\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2024Credential ID 589ab394fc2b4e7bb6f071b9019425a4See credential",
+            "subtitle": "edX",
+            "title": "Introduction to Web Accessibility"
+        },
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "React: Design Patterns"
+        },
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "React: Server-Side Rendering"
+        },
+        {
+            "meta": "Issued Feb 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "What Is Scrum?"
+        },
+        {
+            "meta": "Issued Nov 2020Credential ID GCPUU53XAKHVSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Augmented Reality and ARCore"
+        },
+        {
+            "meta": "Issued Oct 2020Credential ID 49MNN9PAJRZ2See credential",
+            "subtitle": "Coursera",
+            "title": "Interactivity with JavaScript"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID HJ9LKMPCX7AZSee credential",
+            "subtitle": "Coursera",
+            "title": "Fundamentals of Graphic Design"
+        },
+        {
+            "meta": "Issued Feb 2020Credential ID UC-c9df8938-2734-4d0a-bb76-644447293076See credential",
+            "subtitle": "Udemy",
+            "title": "The Complete 2020 Web Development Bootcamp"
+        },
+        {
+            "meta": "Issued Nov 2019Credential ID UC-FCK21BENSee credential",
+            "subtitle": "Udemy",
+            "title": "Web Design for Web Developers: Build Beautiful Websites!"
+        },
+        {
+            "meta": "Issued Jul 2015",
+            "subtitle": "Institute for Advancing Careers and Talents (iACT)",
+            "title": "C Language"
+        }
+    ],
+    "current_company_name": "Novo",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Rumour Minimization\",\"start_date\":\"Aug 2019\",\"end_date\":\"Jun 2020\"},{\"title\":\"Blood Bank\",\"start_date\":\"Jan 2019\",\"end_date\":\"May 2019\"},{\"title\":\"Night vision robot\",\"start_date\":\"Jul 2018\",\"end_date\":\"Dec 2018\",\"description\":\"Night vision robot based on IoT that clicks pictures if a movement is triggered around it in light as well as dark for safety purposes.\"}]",
+    "honors_and_awards": null
+}

@@ -1,0 +1,55 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Indore",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2002",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2024See credential",
+            "subtitle": "Kennesaw State University",
+            "title": "Six Sigma"
+        }
+    ],
+    "current_company_name": "Apparel Group",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Power of You- Pearl Award for Bringing out the Best",
+            "publication": "Associate Director Supply Chain",
+            "date": "2015-11-01T00:00:00.000Z",
+            "description": "Leading the way for delivering best in class QA standards /process across supply chain; highly appreciated by the QA Leadership for zero critical and minimum major observations."
+        },
+        {
+            "title": "Power of You- Pearl Award for Champion Productivity",
+            "publication": "Associate Director Supply Chain",
+            "date": "2014-11-01T00:00:00.000Z",
+            "description": "Extraordinary work done in JAS ‘14 on critically evaluating all elements of Distributor logistics cost and developing a potential plan to deliver 10% savings v/s LY, leading to 104 CTSe"
+        },
+        {
+            "title": "Winner in Model WTO (1st position)",
+            "publication": "Indian Institute of Foreign Trade",
+            "date": "2011-10-01T00:00:00.000Z",
+            "description": "Successfully presented and negotiated country goals on agricultural subsidies while representing Brazil"
+        }
+    ]
+}

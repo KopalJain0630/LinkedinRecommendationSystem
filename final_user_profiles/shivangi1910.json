@@ -1,0 +1,141 @@
+{
+    "city": "Noida, Uttar Pradesh, India",
+    "position": "SDE 2 @Expedia Group | Ex-SSE @Naukri.com  | Ex-Suez | SIH'20 Winner | Java | Spring Boot | C++ | PHP | Mysql | MongoDB | Kafka | Docker | Kubernetes | CSE HBTU'22",
+    "experience": [
+        {
+            "title": "Software Development Engineer 2",
+            "location": "Gurgaon",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Expedia Group",
+            "company_id": "expedia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Info Edge India Ltd",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "2 years 8 months",
+            "positions": [
+                {
+                    "subtitle": "Info Edge India Ltd",
+                    "meta": "May 2023 - Aug 2024 1 year 4 months",
+                    "duration": "May 2023 Aug 2024 1 year 4 months",
+                    "start_date": "May 2023",
+                    "end_date": "Aug 2024",
+                    "duration_short": "1 year 4 months",
+                    "title": "Senior Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Info Edge India Ltd",
+                    "meta": "Jun 2022 - May 2023 1 year",
+                    "duration": "Jun 2022 May 2023 1 year",
+                    "start_date": "Jun 2022",
+                    "end_date": "May 2023",
+                    "duration_short": "1 year",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Info Edge India Ltd",
+                    "meta": "Jan 2022 - May 2022 5 months",
+                    "duration": "Jan 2022 May 2022 5 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "May 2022",
+                    "duration_short": "5 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Info Edge India Ltd",
+            "company_id": "info-edge-india-ltd",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Head of Hospitality",
+            "description_html": null,
+            "duration": "Sep 2020 Aug 2021 1 year",
+            "start_date": "Sep 2020",
+            "end_date": "Aug 2021",
+            "duration_short": "1 year",
+            "company": "Entrepreneurship Cell, HBTU Kanpur",
+            "company_id": "ecellhbtu",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IT Intern",
+            "description_html": null,
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "SUEZ - Water Technologies & Solutions",
+            "company_id": "suez",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Media and Outreach Lead",
+            "description_html": null,
+            "duration": "May 2020 Jun 2021 1 year 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "1 year 2 months",
+            "company": "Codechef HBTU Chapter",
+            "company_id": "codechef-hbtu-chapter",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Coding Mafia",
+            "description_html": null,
+            "duration": "Mar 2020 Apr 2020 2 months",
+            "start_date": "Mar 2020",
+            "end_date": "Apr 2020",
+            "duration_short": "2 months",
+            "company": "Coding Club",
+            "company_id": "coding-club",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Harcourt Butler Technical University,Kanpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Expedia Group",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Smart India Hackathon 2020 Winner",
+            "publication": "MHRD , AICTE",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "2nd Prize : HBTU-TCE 36 hours Hackathon",
+            "publication": "Thiagarajar college of Engineering,Tamil Nadu",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "RUNNER UP in HBTU- TCE Hackathon organised under TEQIP3, held at TCE ,Madurai"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "Student at Institute Of Engineering and Management",
+    "experience": null,
+    "education": [
+        {
+            "title": "Institute Of Engineering and Management",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Software Engineering",
+            "url": "",
+            "start_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Hariyana Vidya Mandir",
+            "degree": "CBSE, science class12",
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Mangalam Vidya Niketan",
+            "degree": "ICSE 10 boards",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

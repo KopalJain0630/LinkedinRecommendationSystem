@@ -1,0 +1,490 @@
+{
+    "id": "piyushk95",
+    "name": "Piyush Singh",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Morgan Stanley | Certified FRM | Ex-BlackRock | IIT KGP",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Morgan Stanley",
+        "company_id": "morgan-stanley",
+        "title": "Morgan Stanley | Certified FRM | Ex-BlackRock | IIT KGP"
+    },
+    "experience": [
+        {
+            "title": "Morgan Stanley",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "3 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Jan 2023 - Present 2 years",
+                    "description": "Working in the Capital and funding team of Fixed Income Divison (FID - Strats)",
+                    "duration": "Jan 2023 - Present 2 years",
+                    "start_date": "Jan 2023",
+                    "end_date": "Present",
+                    "duration_short": "2 years",
+                    "title": "Manager",
+                    "description_html": "Working in the Capital and funding team of Fixed Income Divison (FID - Strats) <!---->"
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Jul 2021 - Dec 2022 1 year 6 months",
+                    "description": "Worked in the Cross-Asset Strats team of Fixed Income Division (FID) - Built a dashboard showcasing comparative analysis of the firm's performance across various asset classes in different regions versus peers in the industry, along with the projection of performance by year-end, thereby helping in building strategy on which asset class and region to emphasize onTech Used: Kdb/q, Python, AngularJS",
+                    "duration": "Jul 2021 Dec 2022 1 year 6 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Dec 2022",
+                    "duration_short": "1 year 6 months",
+                    "title": "Sr Associate",
+                    "description_html": "Worked in the Cross-Asset Strats team of Fixed Income Division (FID) <br>- Built a dashboard showcasing comparative analysis of the firm's performance across various asset classes in different regions versus peers in the industry, along with the projection of performance by year-end, thereby helping in building strategy on which asset class and region to emphasize on<br><br>Tech Used: Kdb/q, Python, AngularJS <!---->"
+                }
+            ],
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Analyst",
+            "location": "Gurgaon, India",
+            "description": "Worked in the Financial Market Advisory (FMA) team• Regression Engine: Implemented Binary Logistic Regression to calculate 12-month transition rates between three stages of loans- Automated entire process of calculating forward-looking predictions by creating a regression aggregation engine in Python, increasing the time efficiency by 95%, helping client in result analysis vs results production• Automated Cash Management Libraries: Developed a model transformation library for wide to long format conversion of BS and PnL, which can be imported off-the-shelves by client- Enhanced functionality to include calculate key ratios, QoQ & YoY changes of the item in BS and PnL, improving time efficiency by 80%, and reducing manpower requirements• Portfolio Risk Evaluation - Liquidity Assessment, Haircut Analysis- Analyzed the risk of a portfolio of the client by assessing the transaction cost of disposition,Value at Risk and provided a detailed Haircut Assessment and cushion analysis- Contributed to building reports at CLO transnational level for the client, highlighting thequality the underlying collateral of tranches and the future of LIBOR replacement process",
+            "description_html": "Worked in the Financial Market Advisory (FMA) team• Regression Engine: Implemented Binary Logistic Regression to calculate 12-month transition rates between three stages of loans- Automated entire process of calculating forward-looking predictions by creating a regression aggregation engine in Python, increasing the time efficiency by 95%, helping client in result analysis vs results production• Automated Cash Management Libraries: Developed a model transformation library for wide to long format conversion of BS and PnL, which can be imported off-the-shelves by client- Enhanced functionality to include calculate key ratios, QoQ &amp; YoY changes of the item in BS and PnL, improving time efficiency by 80%, and reducing manpower requirements• Portfolio Risk Evaluation - Liquidity Assessment, Haircut Analysis- Analyzed the risk of a portfolio of the client by assessing the transaction cost of disposition,Value at Risk and provided a detailed Haircut Assessment and cushion analysis- Contributed to building reports at CLO transnational level for the client, highlighting thequality the underlying collateral of tranches and the future of LIBOR replacement process",
+            "duration": "Jun 2019 Jun 2021 2 years 1 month",
+            "start_date": "Jun 2019",
+            "end_date": "Jun 2021",
+            "duration_short": "2 years 1 month",
+            "company": "BlackRock",
+            "company_id": "blackrock",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Decision Support Analyst",
+            "location": "Gurgaon, India",
+            "description": "• Resolved co-references in search queries written in plain English for fetching information by using mention-ranking co-reference model• Parsed CoNLL 2012 dataset using the spacy library and trained a neural network to identify correct mention of co-referential pronouns• Added rules using NLP tools like NER tagger &Dependency Tree, increased resolution accuracy by 10% for database related queries",
+            "description_html": "• Resolved co-references in search queries written in plain English for fetching information by using mention-ranking co-reference model• Parsed CoNLL 2012 dataset using the spacy library and trained a neural network to identify correct mention of co-referential pronouns• Added rules using NLP tools like NER tagger &amp;Dependency Tree, increased resolution accuracy by 10% for database related queries <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "EXL",
+            "company_id": "exl-service",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Head",
+            "location": "Kharagpur Area, India",
+            "description": "• Mentored a team of 35 members to solve innovative and challenging data science problems and organized data science workshops• Implemented projects using machine learning techniques in Financial Data Analytics, Vote Forecasting and Clustering Analysis",
+            "description_html": "• Mentored a team of 35 members to solve innovative and challenging data science problems and organized data science workshops• Implemented projects using machine learning techniques in Financial Data Analytics, Vote Forecasting and Clustering Analysis <!---->",
+            "duration": "Jul 2016 Jun 2018 2 years",
+            "start_date": "Jul 2016",
+            "end_date": "Jun 2018",
+            "duration_short": "2 years",
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Mumbai Area, India",
+            "description": "•Responsible for implementing the Pair Trading Strategy (Spread Trading) using the concept of Kalman Filter•Built a 1-D Linear Kalman Filter Model for the estimation of the hedging ratio of pairs, getting better estimates using noise removal Kalman method•Backtested the model on five-year historical data of equity pairs in different sectors with mean cumulative P&L of INR 3800 per spread",
+            "description_html": "•Responsible for implementing the Pair Trading Strategy (Spread Trading) using the concept of Kalman Filter•Built a 1-D Linear Kalman Filter Model for the estimation of the hedging ratio of pairs, getting better estimates using noise removal Kalman method•Backtested the model on five-year historical data of equity pairs in different sectors with mean cumulative P&amp;L of INR 3800 per spread <!---->",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "Motilal Oswal Financial Services Ltd",
+            "company_id": "motilal-oswal-financial-services-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Noida Area, India",
+            "description": "•Built a Hybrid Recommender Model for recommending articles to users for Chinese News Publishing site, incorporating user behavior, trending items, geographical location and other attributes•Implemented the concepts of Content Filtering and Collaborative Filtering and generated highest response rate of 80% from users using Design of Experiment•Co-authored and published research paper on Intelligent Recommender Systems in International Journal of Advanced Research(IJAR) elaborating the methodology of Hybrid Recommender Systems",
+            "description_html": "•Built a Hybrid Recommender Model for recommending articles to users for Chinese News Publishing site, incorporating user behavior, trending items, geographical location and other attributes•Implemented the concepts of Content Filtering and Collaborative Filtering and generated highest response rate of 80% from users using Design of Experiment•Co-authored and published research paper on Intelligent Recommender Systems in International Journal of Advanced Research(IJAR) elaborating the methodology of Hybrid Recommender Systems",
+            "duration": "Dec 2016 Jan 2017 2 months",
+            "start_date": "Dec 2016",
+            "end_date": "Jan 2017",
+            "duration_short": "2 months",
+            "company": "Valiance Solutions",
+            "company_id": "valiance-solutions",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "location": "Kharagpur Area, India",
+            "description": "Worked under the Dean of Alumni Affairs and International Relations, Team Students' Alumni Cell strives to establish and nurture the interaction between the Institute and the alumni. •Responsible for organizing 13th Annual Alumni Meet - the annual event for the reunion of alumni in their alma mater•Part of “My Imprint-Class Gift” Program, designed the entire campaign and coined ideas for Senior Class Gift 2016•Worked in a team of 13 members, raised total sponsorship of 35 lacs and increased the number of sponsors by 45%•Conducted Institute’s Student Alumni Mentorship Program, Alumni Guest Lectures, E-Guest Lectures and Workshops",
+            "description_html": "Worked under the Dean of Alumni Affairs and International Relations, Team Students' Alumni Cell strives to establish and nurture the interaction between the Institute and the alumni. •Responsible for organizing 13th Annual Alumni Meet - the annual event for the reunion of alumni in their alma mater•Part of “My Imprint-Class Gift” Program, designed the entire campaign and coined ideas for Senior Class Gift 2016•Worked in a team of 13 members, raised total sponsorship of 35 lacs and increased the number of sponsors by 45%•Conducted Institute’s Student Alumni Mentorship Program, Alumni Guest Lectures, E-Guest Lectures and Workshops",
+            "duration": "Aug 2015 Mar 2016 8 months",
+            "start_date": "Aug 2015",
+            "end_date": "Mar 2016",
+            "duration_short": "8 months",
+            "company": "Students' Alumni Cell, IIT Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Chandra Shekhar Singh",
+            "about": "Manager HSBC || Ex Analyst BlackRock || Ex Derivatives Trader || MBA Finance",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aakanksha Choudhary",
+            "about": "Capital One | BlackRock | IITK",
+            "location": "Kanpur Nagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruv Mishra",
+            "about": "Trade Support Analyst - Investment Resource Group at Connor Clark & Lunn Financial Group",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshu Chhajer",
+            "about": "Associate at BlackRock",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Piyush Patidar",
+            "about": "Analyst at Barclays Investment Bank",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditi Pal",
+            "about": "Associate at BlackRock || Ex - Intern at BASF India Limited || MBA - Finance || PGDBM - Finance (Mumbai University- Merit Holder) || MCom (Accounting)",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohit Chhallani",
+            "about": "Associate at HSBC",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Bansal",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shiv Ranjan",
+            "about": "Problem Solver @ JP Morgan Chase Strategy | Operations | Analytics",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hitesh Saini",
+            "about": "AVP | IIT KGP | CFA L1",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Susmita Shyamal",
+            "about": "Incoming @ Kearney | IIM Calcutta'24 | Ex-Citi | IIT Kharagpur'20",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajinkya Shisode",
+            "about": "AVP at HSBC | IIT Bombay",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinn Swaroop",
+            "about": "Business Relationship Manager @ Brindley Capital , Lending Bridge | Operations Director @ MG Property | Msc Investments @ University of Birmingham | Ex - JP Morgan | Real Estate Finance | Property Relations",
+            "location": "Birmingham"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Menghani",
+            "about": "J.P. Morgan",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh C Doshi, FRM",
+            "about": null,
+            "location": "Mumbai Metropolitan Region"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankita Saini",
+            "about": null,
+            "location": "Dublin"
+        },
+        {
+            "profile_link": "",
+            "name": "Ameesha Gupta",
+            "about": "Digital Product Manager, Amex | Ex-JPMorgan & Wipro",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Averi Chakraborty",
+            "about": "BCG | EY Parthenon | Goldman Sachs | NMIMS, Mumbai",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shikhar Saluja",
+            "about": "Spectatr | FanClash | Ex-Credit Suisse | BITS Pilani",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruvraaj Singh Rajvee",
+            "about": null,
+            "location": "Gurugram"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B. Tech and M.Tech)",
+            "field": "Civil Engineering & Financial Engineering",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": "Activities and Societies: Kharagpur Data Analytics Group, Student Alumni & International Relation Cell, Inter-Hall Case Study Competitions, Inter-Hall Data Analytics Competitions",
+            "description_html": "Activities and Societies: Kharagpur Data Analytics Group, Student Alumni &amp; International Relation Cell, Inter-Hall Case Study Competitions, Inter-Hall Data Analytics Competitions",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Airforce School, Allahabad",
+            "degree": "Class XII",
+            "field": "Higher Secondary, PCM, 91%",
+            "start_year": "2012",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Airfoce School, Allahabad",
+            "degree": "Class X",
+            "field": "AISSE CGPA: 10/10",
+            "start_year": "2010",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Business Economics\"},{\"subtitle\":\"-\",\"title\":\"Commodity Derivative and Price Risk Modelling\"},{\"subtitle\":\"-\",\"title\":\"Corporate Finance and Financial Accounting\"},{\"subtitle\":\"-\",\"title\":\"Data Structure and Algorithmn\"},{\"subtitle\":\"-\",\"title\":\"Derivative Risk Management\"},{\"subtitle\":\"-\",\"title\":\"Econometrics\"},{\"subtitle\":\"-\",\"title\":\"Financial Institutions and Markets\"},{\"subtitle\":\"-\",\"title\":\"Financial Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Financial Risk Modelling\"},{\"subtitle\":\"-\",\"title\":\"Investment Management\"},{\"subtitle\":\"-\",\"title\":\"Optimization methods in Finance\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Regression and Time Series Model\"},{\"subtitle\":\"-\",\"title\":\"Stochastic Processes in Finance\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jan 2022Credential ID 588690See credential",
+            "subtitle": "GARP FRM Program",
+            "title": "Certified Financial Risk Manager (FRM)"
+        },
+        {
+            "meta": "Issued Jun 2017",
+            "subtitle": "Institute and Faculty of Actuaries",
+            "title": "Core Technical 1, Financial Mathematics"
+        },
+        {
+            "meta": "Issued Dec 2016",
+            "subtitle": "Institute and Faculty of Actuaries",
+            "title": "Core Technical 3, Probability and Statistics"
+        },
+        {
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concept"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "Jul 2014 - Apr 2016 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2016",
+            "start_date": "Jul 2014",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 2423.0,
+    "connections": 500.0,
+    "current_company_company_id": "morgan-stanley",
+    "current_company_name": "Morgan Stanley",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "piyushk95",
+    "activity": [
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "Just rewatched this amazing interview featuring Elon Musk and Jack Ma from 5 years ago. The dialogue delves into their contrasting perspectives on…",
+            "img": "",
+            "id": "7274909916887228416"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "🚀 Revolutionizing Development Time: Meet Composio For software developers, time isn’t just money—it’s innovation, efficiency, and the backbone of a…",
+            "img": "",
+            "id": "7277970005810421761"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "𝗛𝗼𝘄 𝗜𝗻𝗱𝗶𝗮𝗻 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝗵𝗮𝗽𝗲𝘀 𝗨𝗦 𝗦𝘁𝗮𝗿𝘁𝘂𝗽 𝗦𝘂𝗰𝗰𝗲𝘀𝘀 India’s top institutions have left an undeniable mark on the…",
+            "img": "",
+            "id": "7275717813917360128"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "Today, we are Introducing bespoke ‘Tool Use’ with our AI SDR. When we launched our AI SDR #Alisha 3 months back, we had a singular mission in our…",
+            "img": "",
+            "id": "7267845779036225537"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "Floworks AI, founded by Sarthak Shrivastava and Sudipta Biswas, is transforming the sales process with AI-powered employees like Alisha, a sales…",
+            "img": "",
+            "id": "7277226227906596864"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "Tata Motors is down 35% from its ATH, $17B worth of investor's wealth has been wiped off. There are more than 57 lakh Indians who holds its shares…",
+            "img": "",
+            "id": "35"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "My 6th student, Puneet Kumar, defended his doctoral work this month. He is a biomedical engineer who joined my laboratory in the spring of 2019…",
+            "img": "",
+            "id": "7277375978501251072"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "IIT Delhi had 1,200 offers while IIT Kanpur had 1,109 offers, a record placement season Microsoft, Google, BCG, McK all recruited, 80 got global…",
+            "img": "",
+            "id": "1200"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "🌟 Grateful for an Incredible Journey at Sony 🌟 As I close this chapter of my career, I want to take a moment to reflect on the past four years I…",
+            "img": "",
+            "id": "7276886986374762496"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "List of richest people in Gurgaon: Here's some factors putting \"gudgaon\" on top- 1. Corporate Powerhouse: Hosting over 250 #Fortune500 companies…",
+            "img": "",
+            "id": "7275472493245550593"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "Congratulations India 🇮🇳 It’s crazy how much India has achieved within 75 yrs of independence from British. Indian talent around the world is…",
+            "img": "",
+            "id": "7273046097965527042"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "India added 10 grandmasters in the 18 years from Anand becoming GM in 1987 From 2005 to 2023, India added 73 GMs and is now breaking into the top…",
+            "img": "",
+            "id": "10"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "Ambani draws 0 salary from Reliance. Many billionaires follow the same route, the reason being: Smart Understanding of Money. The Rich are Rich not…",
+            "img": "",
+            "id": "0"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "I am in work mode, my friend Logan Cookingham is in travel mode. Our compromise is to live and work 14 hrs in the Himalayas now. Building our…",
+            "img": "",
+            "id": "7272145474432700417"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "I am grateful to be part of this inspiring community that drives continuous growth and learning. Each day brings new opportunities to collaborate and…",
+            "img": "",
+            "id": "7269602912996077569"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "In a world where representation matters, generative AI is helping brands tell stories that include everyone. Let's be honest: traditional video…",
+            "img": "",
+            "id": "7272490286574907392"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "We are happy to share the information that Syama Prasad Mookerjee Port, Kolkata has tested KlearVisen for more than a month and expressed their…",
+            "img": "",
+            "id": "7273327247141289985"
+        },
+        {
+            "interaction": "Liked by Piyush Singh",
+            "link": "",
+            "title": "Being a founder isn't glamorous—it's a constant process of learning, adapting, and growing. Wow, running a startup is nothing like I thought it…",
+            "img": "",
+            "id": "7272127927218008064"
+        }
+    ],
+    "linkedin_num_id": 412080242.0,
+    "honors_and_awards": [
+        {
+            "title": "Swapan Gupta Memorial Scholarship",
+            "publication": "Civil Engineering Department, IIT Kharagpur",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": "Awarded Swapan Gupta Memorial Scholarship for outstanding performance in freshmen year and securing Department Rank 1 at the end of freshmen year"
+        },
+        {
+            "title": "Certificate of Merit",
+            "publication": "CBSE",
+            "date": "2011-01-01T00:00:00.000Z",
+            "description": "Recipient of Certificate of merit by CBSE for obtaining grade point of 10 in Class X board examinations"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

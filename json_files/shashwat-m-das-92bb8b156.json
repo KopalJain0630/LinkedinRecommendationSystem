@@ -1,0 +1,453 @@
+{
+    "id": "shashwat-m-das-92bb8b156",
+    "name": "Shashwat M. Das",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Engineer | Software and AI | IIT Kharagpur '22",
+    "about": "A software engineer, keen on building beautiful and performant applications.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Unsuit Legal Technologies",
+        "company_id": "unsuit-legal-technologies",
+        "title": "Software Engineer | Software and AI | IIT Kharagpur '22"
+    },
+    "experience": [
+        {
+            "title": "SDE 2(Founding Engineer)",
+            "description_html": null,
+            "duration": "Feb 2024 Sep 2024 8 months",
+            "start_date": "Feb 2024",
+            "end_date": "Sep 2024",
+            "duration_short": "8 months",
+            "company": "Unsuit Legal Technologies",
+            "company_id": "unsuit-legal-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jun 2022 Jan 2024 1 year 8 months",
+            "start_date": "Jun 2022",
+            "end_date": "Jan 2024",
+            "duration_short": "1 year 8 months",
+            "company": "Coda Payments",
+            "company_id": "coda",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Developed the cross-platform childcare application using React Native• Built the backend using GraphQL and AWS services like SES, S3, etc., imple-mented ElastiCache, reducing fetching time by upto 60% for various APIs• Integrated Twilio WebRTC for video calling feature and Firebase for chat• Revamped and built a horizontally scalable server architecture using ElasticBeanstalk and a CI/CD pipeline using CircleCI and CodeDeploy decreasingdeploy time by 80% and server down time by 90%",
+            "description_html": "• Developed the cross-platform childcare application using React Native• Built the backend using GraphQL and AWS services like SES, S3, etc., imple-mented ElastiCache, reducing fetching time by upto 60% for various APIs• Integrated Twilio WebRTC for video calling feature and Firebase for chat• Revamped and built a horizontally scalable server architecture using ElasticBeanstalk and a CI/CD pipeline using CircleCI and CodeDeploy decreasingdeploy time by 80% and server down time by 90%",
+            "duration": "Oct 2021 May 2022 8 months",
+            "start_date": "Oct 2021",
+            "end_date": "May 2022",
+            "duration_short": "8 months",
+            "company": "Krate",
+            "company_id": "krate-fashion",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneurship Cell, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "3 years 9 months",
+            "positions": [
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Jun 2021 - Apr 2022 11 months",
+                    "duration": "Jun 2021 Apr 2022 11 months",
+                    "start_date": "Jun 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "11 months",
+                    "title": "Student Coordinator",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "May 2020 - May 2021 1 year 1 month",
+                    "duration": "May 2020 May 2021 1 year 1 month",
+                    "start_date": "May 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "1 year 1 month",
+                    "title": "Senior Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Nov 2019 - May 2020 7 months",
+                    "duration": "Nov 2019 May 2020 7 months",
+                    "start_date": "Nov 2019",
+                    "end_date": "May 2020",
+                    "duration_short": "7 months",
+                    "title": "Associate Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Mar 2019 - Nov 2019 9 months",
+                    "duration": "Mar 2019 Nov 2019 9 months",
+                    "start_date": "Mar 2019",
+                    "end_date": "Nov 2019",
+                    "duration_short": "9 months",
+                    "title": "Associate Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Aug 2018 - Nov 2019 1 year 4 months",
+                    "description": "As a GES Intern, publicized Global Entrepreneurship Summit 2019 in Patna and managed the STR of registration desk in Global Entrepreneurship Summit 2019. I also contributed to the GES 2019 and Startin 9.0 websites.",
+                    "duration": "Aug 2018 Nov 2019 1 year 4 months",
+                    "start_date": "Aug 2018",
+                    "end_date": "Nov 2019",
+                    "duration_short": "1 year 4 months",
+                    "title": "GES Intern",
+                    "description_html": "As a GES Intern, publicized Global Entrepreneurship Summit 2019 in Patna and managed the STR of registration desk in Global Entrepreneurship Summit 2019. I also contributed to the GES 2019 and Startin 9.0 websites. <!---->"
+                }
+            ],
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "SDE Intern",
+            "description": "• Built a Slack Bot and slack notification service using Spring Boot, Kafka andMongoDB with automated messaging system decreasing response time ofsupport team by 40% and engagement by around 20%• Built an listener-processor architecture to process heavy API calls asyn-chronously using Spring Boot and Kafka",
+            "description_html": "• Built a Slack Bot and slack notification service using Spring Boot, Kafka andMongoDB with automated messaging system decreasing response time ofsupport team by 40% and engagement by around 20%• Built an listener-processor architecture to process heavy API calls asyn-chronously using Spring Boot and Kafka <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "MTX Group",
+            "company_id": "mtx-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Engineering Intern",
+            "location": "New Delhi, Delhi, India",
+            "description": "• Developed an npm package for Reactjs and a Gatsby Plugin for Gatsby web apps respectively, to integrate VWO(vwo.com) smartcode directly into the application.• Handled the backend for Event Architecture deployment from VWO editor.• Created a cron job to constantly optimize production MySQL table, keeping data size in check.• Changed the system to save heavy data in compressed format (GZIP encoding) and decoding data when needed.• Wrote backend APIs for a search engine called Kroomsa.",
+            "description_html": "• Developed an npm package for Reactjs and a Gatsby Plugin for Gatsby web apps respectively, to integrate VWO(vwo.com) smartcode directly into the application.• Handled the backend for Event Architecture deployment from VWO editor.• Created a cron job to constantly optimize production MySQL table, keeping data size in check.• Changed the system to save heavy data in compressed format (GZIP encoding) and decoding data when needed.• Wrote backend APIs for a search engine called Kroomsa.",
+            "duration": "Jan 2021 Mar 2021 3 months",
+            "start_date": "Jan 2021",
+            "end_date": "Mar 2021",
+            "duration_short": "3 months",
+            "company": "Wingify",
+            "company_id": "wingify",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "•Developed a cross-platform mobile application, for customer use integrating services like package tracking, philately, etc. using React Native .•Developed another cross-platform mobile application for delivery of packages and bags from one location to another. Developed functionalities for keeping track of packages at various stages, scanning barcodes using phone camera or bluetooth scanner,  etc.",
+            "description_html": "•Developed a cross-platform mobile application, for customer use integrating services like package tracking, philately, etc. using React Native .•Developed another cross-platform mobile application for delivery of packages and bags from one location to another. Developed functionalities for keeping track of packages at various stages, scanning barcodes using phone camera or bluetooth scanner, etc. <!---->",
+            "duration": "Jun 2020 Dec 2020 7 months",
+            "start_date": "Jun 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "7 months",
+            "company": "Reason Solutions",
+            "company_id": "reason-solutions",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Prathamesh Shiralkar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Soni",
+            "about": null,
+            "location": "Gandhinagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Namrata Valecha",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Swetha Tamatam",
+            "about": "Application Developer - Consultant at Thoughtworks",
+            "location": "Andhra Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Renaissa Jaiswal",
+            "about": "Sr. Software Engineer at Qualcomm | IIIT Allahabad",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshar Prasad",
+            "about": "Senior ML Engineer at Atlassian | Ex Microsoft Research",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishita Singh",
+            "about": "Strategic PMO at Barclays | Driving Governance, Risk Mitigation and Financial Excellence",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivansh Tiwari",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hitesh Kumar",
+            "about": "Software Engineer @ Tekion Corp | IIIT Allahabad'22 | 2.11+ year exp. | JavaScript | React.js",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Revanth Darsi",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivalika Kamboj",
+            "about": "Software engineer1 || Open to new opportunities in front end role",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanha Talavia",
+            "about": null,
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhavna Desai",
+            "about": "System Engineer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivekkumar Javiya",
+            "about": "Building something somewhere || LibreOffice developer || Open source || Startup",
+            "location": "Rajkot"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanvi .",
+            "about": "Data Engineer - Tata Consultancy Services | Data Analyst Intern - Erricson Global Pvt. Ltd.",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Dobariya",
+            "about": "Software Engineer | NextJs | ReactJS | Strapi (CMS) l Javascript | Typescript | Generative AI",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Chintan Shah",
+            "about": "Frontend Engineer @ BestX",
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Manoj Kumawat",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Singh",
+            "about": "MTS-2| Adobe | Ex-Unthinkable Solutions",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreya Singh",
+            "about": "Python Developer | Machine Learning & Data Analysis | Expert in Predictive Modeling, Solution Development, and Data-Driven Decision Making",
+            "location": "Indore"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "D.A.V. Public School, B.S.E.B. ,Patna",
+            "degree": "+2",
+            "field": "Mathematics",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "subtitle": "Homi Bhabha Centre for Science Education (HBCSE), TIFR",
+            "title": "Regional Mathematics Olympiad(RMO)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1529.0,
+    "connections": 500.0,
+    "current_company_company_id": "unsuit-legal-technologies",
+    "current_company_name": "Unsuit Legal Technologies",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "shashwat-m-das-92bb8b156",
+    "activity": [
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Did you hear? 🇺🇸 Several #US #companies are now nearshoring #manufacturing #operations to #Mexico and #Central #America. 🇲🇽 🇨🇦…",
+            "img": "",
+            "id": "7277888369697665024"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "\"𝐆𝐫𝐞𝐚𝐭 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐬 𝐝𝐨𝐧’𝐭 𝐣𝐮𝐬𝐭 𝐬𝐨𝐥𝐯𝐞 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬—𝐭𝐡𝐞𝐲 𝐢𝐧𝐬𝐩𝐢𝐫𝐞 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞, 𝐜𝐫𝐞𝐚𝐭𝐞…",
+            "img": "",
+            "id": "7276883340882784256"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "If you're a pet parent (my daughter has a word for it, pawrent) and looking to delight your dil-ka-tukda this christmas, we have curated just the…",
+            "img": "",
+            "id": "7276270334536818688"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "The internet’s angriest people walked into a party… And chaos walked in with them. Can Zepto x boAt Lifestyle save the night last-minute?",
+            "img": "",
+            "id": "7275792701436968960"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "India’s geospatial market is forecast to grow at a CAGR of 16.5% to reach Rs 25,000 crores by 2025. The push for precision agriculture have…",
+            "img": "",
+            "id": "7275362897210306560"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "What if a gentleman forgets to order speakers for a party? We did a fun film with our friends at boAt Lifestyle, our very own Vedansh K. and team.…",
+            "img": "",
+            "id": "7275480786802196482"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Caught up with Vishwas Saxena today to talk about challenges hotels face. Here’s what stood out: ► Most hotels underuse their first-party data. ►…",
+            "img": "",
+            "id": "7275490175646883840"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Working on something new with Prashant Kumar It's a tool that helps you answer complex questions on large and messy codebases. It reduces time to…",
+            "img": "",
+            "id": "7273674492055351296"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "7 easy to tell signs that someone is using ChatGPT: 1. Well-wishing as a first line: This is a classic copywriting for sales outreach strategy…",
+            "img": "",
+            "id": "7273749386789101569"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Working on something new with Aditya Singh It's a tool that helps you answer complex questions on large and messy codebases. It reduces time to…",
+            "img": "",
+            "id": "7273677432648351744"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Airport hotels consistently achieve some of the highest occupancy rates in the industry. Think about it – They’re not scenic, charming, or…",
+            "img": "",
+            "id": "7273199970545995776"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Budget tight, shopping list long? 👀 Don’t worry, Zepto Super Saver is here with lowest prices in 10 minutes on fruits, veggies, grocery and more…",
+            "img": "",
+            "id": "7272908742474551299"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Prices so low, even your wallet will do a happy dance 🤭 Zepto Super Saver se sasta dhundke dikhao, dhundho na please! Devendra Meel Chandan…",
+            "img": "",
+            "id": "7272847283472207872"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Quick breakfast, for a quick generation! Get iD batters & parathas in 10 minutes on Zepto 🚀",
+            "img": "",
+            "id": "7264618805031542785"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "We're launching a separate app for Zepto Café next week! The team is shipping an MVP and iterating quickly, so it may not be perfect on Day 1, but…",
+            "img": "",
+            "id": "7272496176334057472"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "😂😂 I can’t stop laughing! Imagine this: a company YesMadam ran a survey asking employees if they felt stressed at work… And then promptly…",
+            "img": "",
+            "id": "7271825792794288130"
+        },
+        {
+            "interaction": "Liked by Shashwat M. Das",
+            "link": "",
+            "title": "Mandap pe pandit: “'jaldi karo” Zepto: “we understood the assignment” Get wedding essentials in 10 minutes🚀 #Zepto",
+            "img": "",
+            "id": "7271155384260698112"
+        }
+    ],
+    "linkedin_num_id": 629980019.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

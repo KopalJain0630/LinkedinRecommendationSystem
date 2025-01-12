@@ -1,0 +1,342 @@
+{
+    "id": "navaneethsuresh",
+    "name": "Navaneeth Suresh",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "I'm a dedicated software engineer with a passion for solving complex problems through…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Kwalee",
+        "company_id": "kwalee"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sangeet Mishra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Arindam Biswas",
+            "about": "Software@o9 | IIT KGP",
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhav Vats",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Sharma",
+            "about": null,
+            "location": "Tottenham"
+        },
+        {
+            "profile_link": "",
+            "name": "Anurag Pandey",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Meghavi Singhaniya",
+            "about": "Business Analytics | MSBA @ McCombs | Analytics @ AMEX, Citi & J.P.Morgan",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyansh Jain",
+            "about": "Investcorp | Ex-IARC (Blackstone's Distressed Assets and NPL Platform) | B.Tech, IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Param Bhavsar",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajay Subramanian",
+            "about": "PhD student at NYU",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohith Krishna",
+            "about": "Senior Analyst - Product Development at American Express",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Parth Paradkar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Parth Gupta",
+            "about": "Product @ Zomato | IIT KGP",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "simran kaur",
+            "about": "MSCS Grad at Texas A&M University | Ex. SDE @Optum, UnitedHealth Group",
+            "location": "College Station, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Debajyoti Dasgupta",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Gowtham Karnan",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sahitya Nachhola",
+            "about": "SWE-2 @Walmart || IITG '23 || AIR 360 GATE CSE' 21 ||",
+            "location": "Madhya Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Purnesh Bansal",
+            "about": "Ex Zomato | NMIMS",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehak Mittal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Chirag Shetty",
+            "about": null,
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"Coursera\",\"title\":\"Deep Learning Specialization - deeplearning.ai\"},{\"subtitle\":\"MA21007\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"MA10001\",\"title\":\"Mathematics 1 - Multivariate Calculus\"},{\"subtitle\":\"MA10002\",\"title\":\"Mathematics 2- Linear Algebra and Numerical Analysis\"},{\"subtitle\":\"-\",\"title\":\"Probability and Stochastic Processes\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"MA20101\",\"title\":\"Transform Calculus\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Malayalam "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Feb 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning Kubernetes"
+        },
+        {
+            "meta": "Issued Jan 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "AWS Essential Training for Developers"
+        },
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Design Patterns"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID UE2WCZC9SS8XSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID 63U9G48C2RWPSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID C3SUBKDK4GKASee credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID ZYB65SBTV2QRSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID K5ZDNLY35EWASee credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jul 2018Credential ID 6JRV3GHRP995See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2018Credential ID E4CKE56JTNVPSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2018See credential",
+            "subtitle": "MongoDB",
+            "title": "MongoDB Basics"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Apr 2018 - Feb 2020 · 1 year 11 months",
+            "duration_short": "1 year 11 months",
+            "end_date": "Feb 2020",
+            "info": "- Curated the contents and taught in interactive Python and Git/GitHub workshops- Conducted Ubuntu install fest, GSoC introductory seminar and the Open Source summit 2018 with 700+ attendees- Organized Kharagpur Winter of Code (KWoC), a 1 month-long event for open-source development similar to Google Summer of Code(GSoC) which had 3000+ registrations across 75+ colleges and had increased the GSoC selections 4 times in three years from IIT Kharagpur",
+            "start_date": "Apr 2018",
+            "subtitle": "Kharagpur Open Source Society",
+            "title": "Executive Head"
+        },
+        {
+            "cause": "Education",
+            "duration": "Jan 2018 - May 2022 · 4 years 5 months",
+            "duration_short": "4 years 5 months",
+            "end_date": "May 2022",
+            "info": "- Metakgp is a loose association of engineers, hackers, artists, and students from IIT Kharagpur, who collaborate on various technical and non-technical projects- Contributed to projects:    1. Wiki - wikipedia clone for the college    2. Zoom - slack app that crossposts facebook posts and notifies on mail    3. Where Is My Professor - web app to show timetable of college professors to help students locate them",
+            "start_date": "Jan 2018",
+            "subtitle": "Metakgp",
+            "title": "Maintainer"
+        },
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Jul 2020 · 2 years 1 month",
+            "duration_short": "2 years 1 month",
+            "end_date": "Jul 2020",
+            "info": "- B-level certified cadet- Volunteered in blood donation camps, annual winter camp, mini marathon, plantations and cleanliness drives",
+            "start_date": "Jul 2018",
+            "subtitle": "National Cadet Corps",
+            "title": "Air Wing Cadet"
+        }
+    ],
+    "followers": 1626.0,
+    "connections": 500.0,
+    "current_company_company_id": "kwalee",
+    "current_company_name": "Kwalee",
+    "publications": "[{\"title\":\"Introducing yt 4.0: Analysis and Visualization of Volumetric Data\",\"description\":\"yt is an open-source, community-developed platform for analysis of volumetric data, with readers for several dozen data formats, indexing systems for gridded data, adaptive mesh refinement data, unstructured mesh data, discrete and particle formats, and octree-based data, as well as the combination of these\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Unscrapulous - Scrapes entities barred from doing financial business\",\"start_date\":\"Jan 2021\",\"end_date\":\"Feb 2021\",\"description\":\"- Scrapes entities barred from doing financial business published by various legal institutions- Developed in 2 months as a part of my software engineering internship at Zerodha Broking Ltd\"},{\"title\":\"Medical OCR\",\"start_date\":\"Mar 2018\",\"end_date\":\"Apr 2018\",\"description\":\"- Converts handwritten medical prescriptions to digital format using Google Cloud Vision API, MicrosoftAzure Vision API, React.js, Flask, OpenCV, NLTK- Bagged 1st position in the opensoft intra-college hackathon with a team size of 20 competing with 20 other teams\"},{\"title\":\"Professors’ timetable explorer\",\"description\":\"- Built an app to find the timetable of 720+ professors using data scraped from the ERP of IIT Kharagpur∙ Deployed as a Flask app and available on https://wimp.metakgp.org/ which now has 3000+ views\"},{\"title\":\"ROS Apps deployment\",\"description\":\"Investigated on deploying Robotic Operating System applications using Docker containers\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "navaneethsuresh",
+    "activity": [
+        {
+            "interaction": "Liked by Navaneeth Suresh",
+            "link": "",
+            "title": "Truly honored, humbled and filled with gratitude for being recognized with the Intuit India Annual Award 2024! 🏆 🙏 PS: Stay tuned for a lengthy…",
+            "img": "",
+            "id": "7269718647055486976"
+        },
+        {
+            "interaction": "Liked by Navaneeth Suresh",
+            "link": "",
+            "title": "Soooo, it's that time of the year again! :3 Every October, Hacktoberfest breathes new life into the open-source community, and as an Intuit…",
+            "img": "",
+            "id": "7249296519881764864"
+        },
+        {
+            "interaction": "Liked by Navaneeth Suresh",
+            "link": "",
+            "title": "Uber's Pratik Tibrewal dazzles the audience with the Real-Time Analytics scale which they have attained with Pinot and moved off Elasticsearch for…",
+            "img": "",
+            "id": "7243159295997997056"
+        },
+        {
+            "interaction": "Liked by Navaneeth Suresh",
+            "link": "",
+            "title": "Once upon a time, the dark arts of term sheets were closely guarded secrets. Now, we can take the help of AI & LLMs to understand them better. Open…",
+            "img": "",
+            "id": "7231113395528228864"
+        },
+        {
+            "interaction": "Liked by Navaneeth Suresh",
+            "link": "",
+            "title": "Four reasons why you should start your crypto investing journey with flippy 1. Step 1 to investing is researching. Before investing money, in any…",
+            "img": "",
+            "id": "6899320779192766464"
+        },
+        {
+            "interaction": "Liked by Navaneeth Suresh",
+            "link": "",
+            "title": "Excited to share a sneak peek of some of the ongoing work in our lab ( at Cornell!",
+            "img": "",
+            "id": "6887240856487776256"
+        },
+        {
+            "interaction": "Liked by Navaneeth Suresh",
+            "link": "",
+            "title": "We are glad to have the Paramshakti 1.3 PetaFlop High-Performance Computing facility and datacenter ecosystem at IIT Kharagpur under the National…",
+            "img": "",
+            "id": "13"
+        },
+        {
+            "interaction": "Liked by Navaneeth Suresh",
+            "link": "",
+            "title": "I've felt the paralyzing effects of imposter syndrome many times throughout my career (and I still feel it!). Here are some ways I minimize the…",
+            "img": "",
+            "id": "6873697235020992512"
+        }
+    ],
+    "linkedin_num_id": 618023056.0,
+    "honors_and_awards": [
+        {
+            "title": "Uber Hacktag Semifinalist",
+            "publication": "Uber",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "- Proposed a ride-hailing app using blockchain where drivers can bid and the users get the cheapest ride - Among 154 teams qualified for sem-finals of Uber hackathon with a team size of 3 from a total of 24K+ registrations"
+        },
+        {
+            "title": "Secured 1st position in Open IIT Data Analytics Competition",
+            "publication": "IIT Kharagpur",
+            "date": "2018-09-01T00:00:00.000Z",
+            "description": "Developed a mathematical model with a team of six for reducing wastage and safety stock of pharmaceuticals"
+        },
+        {
+            "title": "Secured 1st position in Interhall Opensoft Competition",
+            "publication": "IIT Kharagpur",
+            "date": "2018-04-01T00:00:00.000Z",
+            "description": "- Built a web app which converts handwritten medical prescriptions to digital format using Tesseract OCR"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

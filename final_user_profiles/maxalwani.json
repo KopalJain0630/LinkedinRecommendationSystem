@@ -1,0 +1,35 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "NIS Sparta",
+            "start_year": "1997",
+            "end_year": "1999",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1995",
+            "end_year": "1998",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2019See credential",
+            "subtitle": "LinkedIn",
+            "title": "Preventing Harassment in the Workplace"
+        }
+    ],
+    "current_company_name": "Teesta Investment Pvt. Ltd.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

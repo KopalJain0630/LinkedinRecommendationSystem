@@ -1,0 +1,277 @@
+{
+    "id": "aadeshk",
+    "name": "Aadesh K.",
+    "city": "Bangalore Urban, Karnataka, India",
+    "country_code": "IN",
+    "position": "CKA, AWS - SAA, AZURE, RHCSA, CCNA Certified | IIT Kharagpur Alumnus | DevSecOps, Kubernetes, Terraform, CI-CD Tools | SRE | Platform DevOps | Cloud Infrastructure Architect",
+    "about": "Experienced Cloud and DevOps professional with a deep focus on Kubernetes, CI/CD pipelines and Cloud. Certified in AWS, Azure, and Kubernetes (CKA), I excel at architecting and managing containerized solutions for scalable and secure cloud infrastructures. Proficient in automating deployments using Azure DevOps, Terraform, and Jenkins, and adept at creating custom Helm charts for streamlined application management. My expertise spans designing resilient Kubernetes clusters, implementing CI/CD pipelines, and ensuring seamless integrations to drive operational efficiency. Passionate about leveraging cutting-edge technologies to deliver impactful results in cloud and platform engineering.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Gemini Solutions Pvt Ltd",
+        "company_id": "gemini-solutions-india",
+        "title": "CKA, AWS - SAA, AZURE, RHCSA, CCNA Certified | IIT Kharagpur Alumnus | DevSecOps, Kubernetes, Terraform, CI-CD Tools | SRE | Platform DevOps | Cloud Infrastructure Architect"
+    },
+    "experience": [
+        {
+            "title": "Senior Software Engineer",
+            "description": "Development Operations, Lead – Dubai- Designed and deployed infrastructure for a property listing platform using AKS, Azure Blob Storage, PostgreSQL, and Key Vault.- Automated CI/CD pipelines in Azure DevOps, triggered by code commits, to streamline deployments.- Created custom Helm charts for dynamic secret management integrated with Azure Key Vault.- Containerized legacy .NET 4.5 applications for Windows-based AKS nodes, improving scalability.- Migrated 4–5 TB of image data to Azure Storage using Python scripts with automated naming conventions.- Managed live production data and database migrations, ensuring seamless transitions.Senior Software Engineer, Monitoring – Bangalore, India- Standardized monitoring processes, reducing incident resolution time and improving alert efficiency.- Built Splunk dashboards and alerts for 20+ metrics across 5 tools to provide real-time insights.- Configured Grafana dashboards for CICD tools and Kubernetes clusters, enhancing system visibility.- Automated silencing of alerts during scheduled changes using monitoring app APIs.- Onboarded applications to Dynatrace, creating performance dashboards with detailed metrics like response times and JVM threads.- Implemented Azure AKS monitoring with Log Analytics, improving container reliability.Senior Software Engineer, Platform – Internal Operations, Bangalore, India- Managed on-prem kubeadm clusters and AWS EKS environments, ensuring high availability.- Developed Terraform modules for AWS services like EC2, VPC, S3, and EKS, improving provisioning efficiency.- Automated Kubernetes secret and configMap configurations via Jenkins, enhancing security standards.- Integrated on-prem kubeadm clusters with AWS EFS for seamless and optimized storage utilization.- Set up automated ETCD database backups to S3 via Terraform, improving disaster recovery readiness.",
+            "description_html": "Development Operations, Lead – Dubai- Designed and deployed infrastructure for a property listing platform using AKS, Azure Blob Storage, PostgreSQL, and Key Vault.- Automated CI/CD pipelines in Azure DevOps, triggered by code commits, to streamline deployments.- Created custom Helm charts for dynamic secret management integrated with Azure Key Vault.- Containerized legacy .NET 4.5 applications for Windows-based AKS nodes, improving scalability.- Migrated 4–5 TB of image data to Azure Storage using Python scripts with automated naming conventions.- Managed live production data and database migrations, ensuring seamless transitions.Senior Software Engineer, Monitoring – Bangalore, India- Standardized monitoring processes, reducing incident resolution time and improving alert efficiency.- Built Splunk dashboards and alerts for 20+ metrics across 5 tools to provide real-time insights.- Configured Grafana dashboards for CICD tools and Kubernetes clusters, enhancing system visibility.- Automated silencing of alerts during scheduled changes using monitoring app APIs.- Onboarded applications to Dynatrace, creating performance dashboards with detailed metrics like response times and JVM threads.- Implemented Azure AKS monitoring with Log Analytics, improving container reliability.Senior Software Engineer, Platform – Internal Operations, Bangalore, India- Managed on-prem kubeadm clusters and AWS EKS environments, ensuring high availability.- Developed Terraform modules for AWS services like EC2, VPC, S3, and EKS, improving provisioning efficiency.- Automated Kubernetes secret and configMap configurations via Jenkins, enhancing security standards.- Integrated on-prem kubeadm clusters with AWS EFS for seamless and optimized storage utilization.- Set up automated ETCD database backups to S3 via Terraform, improving disaster recovery readiness.",
+            "duration": "Jun 2022 - Present 2 years 7 months",
+            "start_date": "Jun 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 7 months",
+            "company": "Gemini Solutions Pvt Ltd",
+            "company_id": "gemini-solutions-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Support Engineer",
+            "location": "London, England, United Kingdom",
+            "description": "- Led internal audits to secure ISO27001 certification and Cyber Essentials accreditation.  - Managed Governance, Risk, and Compliance (GRC) and conducted regular information security awareness programs.  - Deployed Elastic Load Balancer (ELB) and configured HTTPS/SSL Certificates for public-facing web servers.  - Administered LDAP MFA for AWS WorkSpaces using FreeRADIUS and LinOTP self-service portal.  - Utilized IAM to manage AWS user and group access to services and resources securely.  - Audited internal IT architecture against client DPIAs, ensuring compliance with security requirements.",
+            "description_html": "- Led internal audits to secure ISO27001 certification and Cyber Essentials accreditation. - Managed Governance, Risk, and Compliance (GRC) and conducted regular information security awareness programs. - Deployed Elastic Load Balancer (ELB) and configured HTTPS/SSL Certificates for public-facing web servers. - Administered LDAP MFA for AWS WorkSpaces using FreeRADIUS and LinOTP self-service portal. - Utilized IAM to manage AWS user and group access to services and resources securely. - Audited internal IT architecture against client DPIAs, ensuring compliance with security requirements.",
+            "duration": "Aug 2021 Mar 2022 8 months",
+            "start_date": "Aug 2021",
+            "end_date": "Mar 2022",
+            "duration_short": "8 months",
+            "company": "SFR Medical",
+            "company_id": "sfrmedical",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IT Department Intern",
+            "location": "Hyderabad Area, India",
+            "description": "- Contributed to the design and implementation of network architecture for a new environment setup.  - Managed inventory and distribution of 100+ devices to employees, ensuring seamless onboarding.  - Delivered IP DHCP reports and assessed security vulnerabilities in the network topology.",
+            "description_html": "- Contributed to the design and implementation of network architecture for a new environment setup. - Managed inventory and distribution of 100+ devices to employees, ensuring seamless onboarding. - Delivered IP DHCP reports and assessed security vulnerabilities in the network topology. <!---->",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Freyr Solutions",
+            "company_id": "freyrsolutions",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "location": "IIT Kharagpur, India",
+            "description": "▪Management of multiple adventure events and treks for 1000+ strength.▪Conducted interviews for selection of upcoming associate members.",
+            "description_html": "▪Management of multiple adventure events and treks for 1000+ strength.▪Conducted interviews for selection of upcoming associate members. <!---->",
+            "duration": "Jul 2018 Apr 2019 10 months",
+            "start_date": "Jul 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "10 months",
+            "company": "Technology Adventure Society (TAdS) IIT Kharagpur",
+            "company_id": "technology-adventure-society-tads-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Expansion Associate Member",
+            "location": "IIT Kharagpur",
+            "description": "▪Part of a 4-man team responsible for conducting an AIESEC info seminar at NIT Durgapur with a footfall of 100+ students.▪Co-ordinated a social welfare event/competition named Balakalakaar for a charity school in a remote location",
+            "description_html": "▪Part of a 4-man team responsible for conducting an AIESEC info seminar at NIT Durgapur with a footfall of 100+ students.▪Co-ordinated a social welfare event/competition named Balakalakaar for a charity school in a remote location <!---->",
+            "duration": "Sep 2017 Feb 2018 6 months",
+            "start_date": "Sep 2017",
+            "end_date": "Feb 2018",
+            "duration_short": "6 months",
+            "company": "AIESEC",
+            "company_id": "aiesec",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Priya Kumar",
+            "about": "Senior Escalation Engineer @Microsoft",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Singh",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Brijesh Singh",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruv Narayanan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Muhammed Aslam mv",
+            "about": "System Administrator | IT Support | Network Administrator",
+            "location": "Muscat"
+        },
+        {
+            "profile_link": "",
+            "name": "Manish Bonde",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Anand",
+            "about": "Associate Consultant ( Cyber Security ) at HCL Technologies | CCIE Security #58571 | Check Point Cert. CCSE | Next Gen Firewalls | AAA ISE | InfoSec | SOAR",
+            "location": "Canada"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravindra Prasad Bhatt",
+            "about": "Cisco Certified Network Associate | Microsoft Azure Administrator | Windows Server | Zabbix",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mithun Debnath",
+            "about": null,
+            "location": "Guwahati"
+        },
+        {
+            "profile_link": "",
+            "name": "pankaj arora",
+            "about": null,
+            "location": "Gurgaon"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Manufacturing Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: Interhall General Championship Player for Volleyball and Table Tennis",
+            "description_html": "Activities and Societies: Interhall General Championship Player for Volleyball and Table Tennis",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "FIITJEE",
+            "degree": "Intermediate Education",
+            "field": "MPC",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Tamil "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Telugu "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Japanese "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022",
+            "subtitle": "Microsoft",
+            "title": "Azure Fundamentals AZ-900"
+        },
+        {
+            "meta": "Issued May 2024Expires May 2026Credential ID LF-kfaoszode3",
+            "subtitle": "The Linux Foundation",
+            "title": "Certified Kubernetes Administrator"
+        },
+        {
+            "meta": "Issued Apr 2023Expires Apr 2025Credential ID 99E095D93901AC0F",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified: Azure Administrator Associate"
+        },
+        {
+            "meta": "Issued Feb 2022Expires Feb 2025Credential ID FL4VXMKB3BQ11550",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "Amazon Web Services Solutions Architect Associate"
+        },
+        {
+            "meta": "Issued Jun 2021Expires Jun 2024Credential ID 210-098-570",
+            "subtitle": "Red Hat",
+            "title": "Red Hat Certified System Administrator (RHCSA)"
+        },
+        {
+            "meta": "Issued Feb 2021Expires Feb 2024Credential ID CSCO13701259",
+            "subtitle": "Cisco",
+            "title": "Cisco Certified Network Associate (CCNA)"
+        },
+        {
+            "meta": "Issued Feb 2021Expires Feb 2023Credential ID HrFT71lQle",
+            "subtitle": "Fortinet",
+            "title": "Fortinet Network Security Expert Level 1: Certified Associate"
+        },
+        {
+            "meta": "Issued Feb 2021Expires Feb 2023Credential ID TqMAaQr7CC",
+            "subtitle": "Fortinet",
+            "title": "Fortinet Network Security Expert Level 2: Certified Associate"
+        },
+        {
+            "meta": "Credential ID COMP001021511268",
+            "subtitle": "CompTIA",
+            "title": "CompTIA A+"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Children",
+            "subtitle": "Balakalakkar",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 571.0,
+    "connections": 500.0,
+    "current_company_company_id": "gemini-solutions-india",
+    "current_company_name": "Gemini Solutions Pvt Ltd",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Evolving WordPress blog from being hosted on a single EC2 instance to a fully elastic scalable architecture on AWS\",\"start_date\":\"Jan 2022\",\"end_date\":\"Present\",\"description\":\"▪ Built the server manually, to experience and understand all the different components needed to produce a WordPress app.▪ Created a launch template for automated provisioning of the WordPress app.▪ Moved the MySQL database and content off the EC2 instance into a dedicated RDS instance and EFS respectively.▪ Provisioned an ASG and had an ELB (ALB) configured, which resulted in the application being fully resilient, self-healing and scalable.\"},{\"title\":\"Automated Security Technical Implementation Guide (STIG) for RHEL 8\",\"start_date\":\"Jun 2021\",\"end_date\":\"Present\",\"description\":\"▪ Created a bash script to automate the high-level security vulnerability mitigations (as per STIG) for Red Hat Enterprise Linux 8▪ The script enumerated vulnerabilities against the STIG database, downloaded patches and applied as needed\"},{\"title\":\"Deployment of CentOS Servers in QEMU/KVM\",\"start_date\":\"May 2021\",\"end_date\":\"Present\",\"description\":\"▪ Configured multiple storage options such as LVM, LUKS encryption using the filesystems BTRFS, EXT4, XFS.▪ Created podman containers and enabled them on startup. Set up cron jobs for backups using rsync.\"}]",
+    "organizations": null,
+    "location": "Bangalore Urban",
+    "linkedin_id": "aadeshk",
+    "activity": [
+        {
+            "interaction": "Liked by Aadesh K.",
+            "link": "",
+            "title": "We are presenting the very first episode with Ms. Vartika Jain, of our podcast - THE PSYCHE SHOW - designed for psychology students. Here:…",
+            "img": "",
+            "id": "7225737683812114432"
+        }
+    ],
+    "linkedin_num_id": 715107097.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

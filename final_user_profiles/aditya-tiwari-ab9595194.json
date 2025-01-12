@@ -1,0 +1,56 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2021Credential ID QZMT5MH6AAKVSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID TY3EH4GZ85D4See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Git and GitHub"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID PFK2RNTLDVSKSee credential",
+            "subtitle": "Coursera",
+            "title": "Capstone: Retrieving, Processing, and Visualizing Data with Python (with Honors)"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 6PYTVAXVUSX8See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 4YVPCVYG95G2See credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        }
+    ],
+    "current_company_name": "Zepto",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Inspire Scholarship",
+            "publication": "Department of Science and Technology, Government of India",
+            "date": null,
+            "description": null
+        }
+    ]
+}

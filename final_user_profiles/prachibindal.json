@@ -1,0 +1,156 @@
+{
+    "city": "Faridabad, Haryana, India",
+    "position": "Software Engineer at CarePay",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "CarePay",
+            "company_id": "carepayin",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Delhi, India",
+            "description": "Phocket is a fintech platform. I have worked on the credit analysis part which includes optimizing the already working code. Creating APIS for finding more entities like overdue messages, salary of a person, EMIs.",
+            "description_html": "Phocket is a fintech platform. I have worked on the credit analysis part which includes optimizing the already working code. Creating APIS for finding more entities like overdue messages, salary of a person, EMIs. <!---->",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Phocket - Instant Access to Cash",
+            "company_id": "phocket-instant-access-to-cash",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Remote",
+            "description": "This is a Machine Learning Web Application that can predict if a person has a Thyroid diseases or not.The datasets have been taken from ineuron. And overall analysis and model building for the diseases have been done in respective Jupyter Notebooks.",
+            "description_html": "This is a Machine Learning Web Application that can predict if a person has a Thyroid diseases or not.The datasets have been taken from ineuron. And overall analysis and model building for the diseases have been done in respective Jupyter Notebooks. <!---->",
+            "duration": "Jan 2023 Mar 2023 3 months",
+            "start_date": "Jan 2023",
+            "end_date": "Mar 2023",
+            "duration_short": "3 months",
+            "company": "iNeuron.ai",
+            "company_id": "ineuron-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core team Member",
+            "description_html": null,
+            "duration": "Aug 2021 Jul 2022 1 year",
+            "start_date": "Aug 2021",
+            "end_date": "Jul 2022",
+            "duration_short": "1 year",
+            "company": "GirlScript Foundation",
+            "company_id": "girlscript-foundation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Faridabad, Haryana, India",
+            "description": "My work revolves around NLP, data analysis, extracting important information from the data and using it to make  machine learning models.",
+            "description_html": "My work revolves around NLP, data analysis, extracting important information from the data and using it to make machine learning models. <!---->",
+            "duration": "Aug 2021 Jul 2022 1 year",
+            "start_date": "Aug 2021",
+            "end_date": "Jul 2022",
+            "duration_short": "1 year",
+            "company": "SwarYantra Technologies",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Content Writer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Nov 2020 Oct 2021 1 year",
+            "start_date": "Nov 2020",
+            "end_date": "Oct 2021",
+            "duration_short": "1 year",
+            "company": "GeeksforGeeks",
+            "company_id": "geeksforgeeks",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "DSC Core Team Member",
+            "location": "India",
+            "description_html": null,
+            "duration": "Sep 2020 Jul 2021 11 months",
+            "start_date": "Sep 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "11 months",
+            "company": "DSC UIET",
+            "company_id": "dsc-uiet",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Maharshi Dayanand University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Aggarwal Public School - India",
+            "degree": "CBSE",
+            "field": "non medical",
+            "description": "Activities and Societies: love playing badminton and reading book is my hobby. problem solver#coder",
+            "description_html": "Activities and Societies: love playing badminton and reading book is my hobby. problem solver#coder",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Linkedin Learning App",
+            "title": "Data Analytics Foundations"
+        },
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Linkedin Learning App",
+            "title": "Data Fluency Exploring and Describing Data "
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "Linkedin Learning App",
+            "title": "Applied Machine Learning"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "GirlScript Foundation",
+            "title": "Core Team Member"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "Linkedin Learning App",
+            "title": "Deep Learning"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "Swar Yantra Technologies",
+            "title": "Software Engineer Intern"
+        }
+    ],
+    "current_company_name": "CarePay",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

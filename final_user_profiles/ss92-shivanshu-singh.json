@@ -1,0 +1,83 @@
+{
+    "city": "Hyderabad, Telangana, India",
+    "position": "SDE @ ZL Tech | IIT Bhubaneswar'23",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2023 Mar 2024 9 months",
+            "start_date": "Jul 2023",
+            "end_date": "Mar 2024",
+            "duration_short": "9 months",
+            "company": "ZL Tech",
+            "company_id": "zltech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern (INAE-2021)",
+            "description_html": null,
+            "duration": "Jun 2021 Aug 2021 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern (SRF-2021)",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Science (IISc)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Internship Coordinator",
+            "description_html": null,
+            "duration": "Aug 2020 Jun 2021 11 months",
+            "start_date": "Aug 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "11 months",
+            "company": "Career Development Cell, IIT Bhubaneswar",
+            "company_id": "cdc-iitbbs",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology Bhubaneswar (IIT Bhubaneswar)",
+            "degree": "Dual Degree (BTech + MTech) - Mechanical Engineering",
+            "field": "Mechanical Systems Design",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: - - Student Internship Coordinator, Career Development Cell, IIT Bhubaneswar - Core Head, Alma Fiesta, IIT Bhubaneswar - Innovator, DIC, IIT Bhubaneswar - Team Member, RISC, IIT Bhubaneswar Teaching Assistant: - Internal Combustion Engine Laboratory - Machine & Mechanism Laboratory - Thermo-Fluid Laboratory",
+            "description_html": "Activities and Societies: - - Student Internship Coordinator, Career Development Cell, IIT Bhubaneswar - Core Head, Alma Fiesta, IIT Bhubaneswar - Innovator, DIC, IIT Bhubaneswar - Team Member, RISC, IIT Bhubaneswar Teaching Assistant: - Internal Combustion Engine Laboratory - Machine &amp; Mechanism Laboratory - Thermo-Fluid Laboratory",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Fluid Mechanics\"},{\"subtitle\":\"-\",\"title\":\"Mechanics of Solids\"},{\"subtitle\":\"-\",\"title\":\"Theory of Machines\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020Credential ID MSJQB8YC9LETSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "DeepLearning.AI Tensorflow Developer"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID a291e862-0793-4626-9209-c939ca621273See credential",
+            "subtitle": "MathWorks",
+            "title": "MATLAB Onramp"
+        }
+    ],
+    "current_company_name": "ZL Tech",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

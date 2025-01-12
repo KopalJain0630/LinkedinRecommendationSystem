@@ -1,0 +1,333 @@
+{
+    "id": "arpit-patidar-28b0b5174",
+    "name": "Arpit Patidar",
+    "city": "Dhar, Madhya Pradesh, India",
+    "country_code": "IN",
+    "position": "IIT KGP 23'",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Bert Labs",
+        "company_id": "bert-labs",
+        "title": "IIT KGP 23'"
+    },
+    "experience": [
+        {
+            "title": "Research Engineer 1",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• NOVA Microservices Ecosystem: Architected a scalable, sensor-agnostic distributed system for IoT device management using Cassandra and MongoDB.• Data Retrieval and Communication: Enhanced data integrity with Python scripts for Cassandra and implemented a fault-tolerant communication layer using Kafka, NATS, MQTT, and REST.• Health Safety Microservice: Developed a microservice with Azure file system integration, optimizing packet transfers and efficiency.• Angular-Based Dashboards: Created digital twins of manufacturing processes using Angular and WebSocket APIs for real-time IoT data monitoring.• Prediction and Optimization Models: Integrated models into dashboards via Flask REST APIs for dynamic data visualization and streamlined data ingestion.• Company Website with Next.js: Built a responsive company website using Next.js and ChakraUI, with an admin portal, real-time data updates, and a robust backend using Node.js, Express, and MongoDB.",
+            "description_html": "• NOVA Microservices Ecosystem: Architected a scalable, sensor-agnostic distributed system for IoT device management using Cassandra and MongoDB.• Data Retrieval and Communication: Enhanced data integrity with Python scripts for Cassandra and implemented a fault-tolerant communication layer using Kafka, NATS, MQTT, and REST.• Health Safety Microservice: Developed a microservice with Azure file system integration, optimizing packet transfers and efficiency.• Angular-Based Dashboards: Created digital twins of manufacturing processes using Angular and WebSocket APIs for real-time IoT data monitoring.• Prediction and Optimization Models: Integrated models into dashboards via Flask REST APIs for dynamic data visualization and streamlined data ingestion.• Company Website with Next.js: Built a responsive company website using Next.js and ChakraUI, with an admin portal, real-time data updates, and a robust backend using Node.js, Express, and MongoDB.",
+            "duration": "Dec 2023 Aug 2024 9 months",
+            "start_date": "Dec 2023",
+            "end_date": "Aug 2024",
+            "duration_short": "9 months",
+            "company": "Bert Labs",
+            "company_id": "bert-labs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Frontend Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Implemented React for custom components and Material UI to align with the app's dashboard design, enhancing its aesthetics • Leveraged Redux for highly efficient state management, facilitating seamless transfer of data between parallel components • Created data-driven visualizations, including charts and animations, using D3.js for improved dashboard’s user interaction • Employed Git commands for version control and Bitbucket for repositories, ensuring code synchronization among the team",
+            "description_html": "• Implemented React for custom components and Material UI to align with the app's dashboard design, enhancing its aesthetics • Leveraged Redux for highly efficient state management, facilitating seamless transfer of data between parallel components • Created data-driven visualizations, including charts and animations, using D3.js for improved dashboard’s user interaction • Employed Git commands for version control and Bitbucket for repositories, ensuring code synchronization among the team",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "aNumak & Company ®",
+            "company_id": "anumak-company",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Frontend Developer",
+            "location": "Indore, Madhya Pradesh, India",
+            "description": "• Created operator portal to facilitate proper information transfer between affiliates, business units, and developers using Reactjs• Used MaterialUI to create custom components rapidly, used hooks, and used Axios to fetch data from the internal Databases • Created interactive visualizations using charts.js concerning Gross merchandise value for each of the product categories",
+            "description_html": "• Created operator portal to facilitate proper information transfer between affiliates, business units, and developers using Reactjs• Used MaterialUI to create custom components rapidly, used hooks, and used Axios to fetch data from the internal Databases • Created interactive visualizations using charts.js concerning Gross merchandise value for each of the product categories <!---->",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Protonshub Technologies -A CMMI Level 5 Company",
+            "company_id": "protonshub-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Organising Team Member",
+            "description_html": null,
+            "duration": "Aug 2019 May 2020 10 months",
+            "start_date": "Aug 2019",
+            "end_date": "May 2020",
+            "duration_short": "10 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "description_html": null,
+            "duration": "Sep 2018 Apr 2019 8 months",
+            "start_date": "Sep 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "8 months",
+            "company": "Communiqué, IIT Kharagpur",
+            "company_id": "communiqu-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Former Kshitij Campus Affiliate",
+            "description_html": null,
+            "duration": "Aug 2018 Jan 2019 6 months",
+            "start_date": "Aug 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "6 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rishabh Agrawal",
+            "about": "Software Developer at Cisco | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Saransh Patel",
+            "about": "Incoming MTS@Oracle | Intern '22 @Oracle | IIT Kharagpur '23",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Manthan Patel",
+            "about": "Software Engineer @ Palo Alto Networks",
+            "location": "Mehsana"
+        },
+        {
+            "profile_link": "",
+            "name": "Mann Patel",
+            "about": "FRM L-1 | Business Analyst @Axis BIU | Quant Intern @ RW Investment Advisor | Cohort member @ Insurjo ’24' | IIT Kharagpur '24",
+            "location": "Mahesana"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Dusane",
+            "about": "Société Générale | IIT Kharagpur '23",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "FT Riya Saini",
+            "about": "AWL || CSIR- CFTRI || LIC",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Balaji B.",
+            "about": "Chemical Engineer| Alumnus of Sri Venkateswara University | Former Graduate Apprentice at BPCL | QnA Expert at Chegg",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kankana Haldar",
+            "about": "Data Scientist at American Express | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shakti Prasad Nanda",
+            "about": "SWE @Microsoft | Former SDE Intern @Amazon | IISc | IIT Kharagpur’24",
+            "location": "Cuttack"
+        },
+        {
+            "profile_link": "",
+            "name": "Ninad Kher",
+            "about": "System Engineer at Tata Consultancy Services",
+            "location": "Ratnagiri"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhalchandra Patil",
+            "about": "Associate at L.E.K. Consulting | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Hritik Kakkar",
+            "about": ".",
+            "location": "Fatehabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan K.",
+            "about": "Electronic Engineer, Electronic and Telecommunication, Electrical",
+            "location": "Newcastle Upon Tyne"
+        },
+        {
+            "profile_link": "",
+            "name": "Bashu Tiwari",
+            "about": "SDE @Oracle || Ex-Intern @Oracle @Hotwax Commerce",
+            "location": "Gwalior"
+        },
+        {
+            "profile_link": "",
+            "name": "Raja Mahto",
+            "about": "Product at Fibe | IIT KGP'23",
+            "location": "Darbhanga"
+        },
+        {
+            "profile_link": "",
+            "name": "Jyoti Soren",
+            "about": "Thermal and Fluid Systems Engineer at Cummins Inc.| Product Compliance and Regulatory Affairs| Life Cycle Assessment | Project Management |",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Jashan Singh",
+            "about": "Software Developer @ Hero FinCorp | BITS Pilani",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aastha Mahajan",
+            "about": "Lead Associate at EY",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Agrawal",
+            "about": "Product Engineer @ Sprinklr | IIT Kharagpur '23",
+            "location": "Gurugram"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated Masters",
+            "field": "Economics",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2739.0,
+    "connections": 500.0,
+    "current_company_company_id": "bert-labs",
+    "current_company_name": "Bert Labs",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Dhar",
+    "linkedin_id": "arpit-patidar-28b0b5174",
+    "activity": [
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "It's heartbreaking to see so many students still waiting, thinking that referrals, consultancies, or recruiting agencies will land them a job. But…",
+            "img": "",
+            "id": "7254382342524305408"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "Hello everyone, The Morning Context is hiring a frontend developer. This is a full time position. The candidate should have a minimum of two years of…",
+            "img": "",
+            "id": "7254056631229890560"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "Save on costs, boost your profits!💰💰 SnapMenu is here to empower the restaurant industry!😋 #snapmenu #FoodTechInnovation #TechInnovation…",
+            "img": "",
+            "id": "7254325624289308674"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "Do you love dining out too? 🍽️✨ Discover your next favourite meal with SnapMenu! #Snapmenu #Foodtechnology #dinnerideas #foodie",
+            "img": "",
+            "id": "7251569991009894400"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "Job opportunity: Head of Engineering at 70 LPA + 1-2% Equity, for an AI procurement startup. Be part of a company that: ➝ Is changing how businesses…",
+            "img": "",
+            "id": "7250067547193028608"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "❤Hey Community👨‍💻, 🎉Today, I am very excited to announce that I attended the #Innovizion speaker session organized by E-Cell IET DAVV,🔥 and the…",
+            "img": "",
+            "id": "7246913517994336258"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "You can’t ignore SnapMenu! It adds cool quotient to your ordering experience!😋😋 #snapmenu #foodie #technology #cafe #restaurants",
+            "img": "",
+            "id": "7249681775302451200"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "This cute kitty loves SnapMenu—You should try it too! #SnapMenu #restaurants #cafe #foodtech #food",
+            "img": "",
+            "id": "7248202821806800897"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "📌 2021 → Completed BTech 📌 2021 → Software Engineer at Walmart 📌 2024 → Software Engineer at Microsoft When I was in college, the idea of…",
+            "img": "",
+            "id": "2021"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "Last month marked the end of my tremendous almost-a-year space shuttle ride at Bert Labs. In the last year, I worked on, led, and executed projects…",
+            "img": "",
+            "id": "7237709282589167616"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "A BIG Thankyou to all those who were part of an amazing week for Bert Labs in Germany. Last week marked a significant milestone for us as we embarked…",
+            "img": "",
+            "id": "7203866629175173120"
+        },
+        {
+            "interaction": "Liked by Arpit Patidar",
+            "link": "",
+            "title": "At Bert Labs, we commemorate #FoundersDay on January 19th as a celebration of unity and the shared values that define the Bert family. This year…",
+            "img": "",
+            "id": "7155235619529515010"
+        }
+    ],
+    "linkedin_num_id": 692985419.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

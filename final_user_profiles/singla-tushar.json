@@ -1,0 +1,167 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ", |  |",
+            "start_year": "2009",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"CS21003\",\"title\":\"Algorithms-1\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Probability and Stochastic Processes\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"}]",
+    "certifications": [
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Technology for Product Managers"
+        }
+    ],
+    "current_company_name": "Stealth",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Quality Assessment of Wikipedia Articles | Computer Science Dept. | IIT Kharagpur\",\"start_date\":\"Nov 2018\",\"end_date\":\"Mar 2019\",\"description\":\"Received Letter of Recommendation from Professor Animesh Mukherjee for excellent research work- Performed extensive feature engineering by combining attributes from metadata & the content at each revision of Wikipedia page- Improved quality prediction over standard Wikimedia API (ORES) by implementing LSTMs to obtain an accuracy of around 65%\"},{\"title\":\"Neural Word Segmenter for Sanskrit | Computer Science Dept. | IIT Kharagpur\",\"start_date\":\"Aug 2018\",\"end_date\":\"Nov 2018\",\"description\":\"Received Letter of Recommendation from Professor Pawan Goyal for contribution to the project.• Predicted the \\\"Unsandhied\\\" string from the \\\"Sandhied\\\" Sanskrit input as a structured prediction problem using a deep seq2seq model• Improved the segmentation task by using CopyNet, an encoder-decoder structure using a novel copying & prediction mechanism\"},{\"title\":\"OCR Module for Handwriting recognition\",\"start_date\":\"May 2018\",\"end_date\":\"Jun 2018\",\"description\":\"-Achieved 98 percent accuracy for the classiﬁcation of handwritten alphabets and numerals by using deep learning techniques such as Convolutional Neural Networks (CNN) on EMNIST data set available on the internet.\"},{\"title\":\"Path Planning and localization in 2D plane\",\"start_date\":\"Jan 2018\",\"end_date\":\"Feb 2018\",\"description\":\"-Implemented path planning using RRT, RRT connect and Dijkstra on a 2-dimensional obstacle map along with using Kalman Filters for problem of localization\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Honorable Mention, Technology | Technology Students' Gymkhana, IIT Kharagpur",
+            "publication": "Annual Gymkhana Awards, IIT Kharagpur",
+            "date": "2021-11-01T00:00:00.000Z",
+            "description": "Awarded the prestigious HONOURABLE MENTION for excellence in extracurricular tech activities - Winning national innovation competitions, distinction in case studies, foreign internships, tech initiatives, and research projects over 4 years."
+        },
+        {
+            "title": "National Winners, SmartIDEAthon 2021",
+            "publication": "-",
+            "date": "2021-06-01T00:00:00.000Z",
+            "description": "-  -  (Pitch Video)"
+        },
+        {
+            "title": "Gold, India Innovation Championship '21 (Startup Investment Competition)",
+            "publication": "Orbit Future Academy, SucSeed, Chitkara University",
+            "date": "2021-04-01T00:00:00.000Z",
+            "description": "Only college startup from 250+ startups to secure a funding offer from international investors. -  -… Show more"
+        },
+        {
+            "title": "Silver, Kshitij Business Plan Competition'21",
+            "publication": "IIT Kharagpur",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Top 3 Startups | Cohort 5, iCreate Idea Accelerator",
+            "publication": "iCreate",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "- "
+        },
+        {
+            "title": "Top SaaS Startup, Local Startups Meet",
+            "publication": "Entrepreneurship Cell, IIT Kharagpur",
+            "date": "2020-12-01T00:00:00.000Z",
+            "description": ""
+        },
+        {
+            "title": "National Winners | 3M-CII Young Innovators Challenge Award",
+            "publication": "3M",
+            "date": "2020-09-01T00:00:00.000Z",
+            "description": "-  - "
+        },
+        {
+            "title": "National Runner's up | IndiaPreneur: International Business Plan Competition",
+            "publication": "Indira School of Business Studies, Pune",
+            "date": "2020-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "1st Runner up | Social Track | Empresario - Annual Business Model Competition",
+            "publication": "Entrepreneurship Cell, IIT Kharagpur | Kolkata Ventures",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Winner | GES Pitchers | 2 minute on-spot pitch round",
+            "publication": "Entrepreneurship Cell, IIT Kharagpur",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Gold Medal | Ashoka Tech for Change - Social Entrepreneurship Competition | Inter IIT Tech Meet",
+            "publication": "IIT Roorkee (Inter IIT Tech Meet 8.0 host)",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "Secured the coveted Gold amongst 22 IITs in the very competitive Tech-led Social Entrepreneurship Challenge. Had an absolutely amazing month brainstorming on our all-in-one assistive product, talking to users, designing, developing POC, preparing business model & presentation."
+        },
+        {
+            "title": "Silver Medallist | Open IIT Data Analytics",
+            "publication": "-",
+            "date": "2019-11-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Top 20 - Analyze This - Data Analytics Competition",
+            "publication": "Amercian Express",
+            "date": "2019-10-01T00:00:00.000Z",
+            "description": "Within Top 20 teams out of 850+ teams exclusively from the top 10 IITs and Delhi University."
+        },
+        {
+            "title": "Finalist | Data Analytics Competition | General Championship",
+            "publication": "IIT Kharagpur",
+            "date": "2019-02-01T00:00:00.000Z",
+            "description": "General Championship is a nail biting competition amongst all the halls of residence (hostels) at IIT Kharagpur - Developed Data led models to help curb network congestion given cell tower statistics. - Recall - 80%; Classifiers used - SVM, Logistic, Random Forest."
+        },
+        {
+            "title": "Silver Medallist | Case Study Competition | Open IIT",
+            "publication": "IIT Kharagpur",
+            "date": "2018-11-01T00:00:00.000Z",
+            "description": "Open IIT competitions are organised at university level with teams participating from all disciplines and degrees."
+        },
+        {
+            "title": "National Silver Medallist | Corporate Module Case Study | Techniche, IIT Guwahati",
+            "publication": "IIT Kharagpur",
+            "date": "2018-08-01T00:00:00.000Z",
+            "description": "Secured 2nd position amongst 250+ teams in the 24hr marketing cum business strategy Case competition by Techniche, the annual techno-management fest of IIT Guwahati."
+        },
+        {
+            "title": "Scholarship & B-Certificate | National Cadet Corps | IIT Kharagpur",
+            "publication": "IIT Kharagpur",
+            "date": "2018-08-01T00:00:00.000Z",
+            "description": "- Awarded B certificate for successfully completing two years at 1 Bengal EME Coy, NCC - Among top 6 selected for scholarship from NCC, IIT Kharagpur out of over 300 students due to academic excellence"
+        },
+        {
+            "title": "Department Change | IIT Kharagpur",
+            "publication": "IIT Kharagpur",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "Awarded a Department Change to Electrical Engineering owing to academic excellence for being in the top 10% students at the end of 1st year."
+        },
+        {
+            "title": "Gold Medallist | Social Case Challenge | India Calling, Spring Fest",
+            "publication": "IIT Kharagpur",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": "Won in the very first year of college, India Calling, a social case study competition organised by Spring Fest, IIT Kharagpur that witnessed teams across years, from all disciplines, and different colleges."
+        }
+    ]
+}

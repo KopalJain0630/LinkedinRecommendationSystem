@@ -1,0 +1,72 @@
+{
+    "city": "Noida, Uttar Pradesh, India",
+    "position": "Software Engineer @ Siemens EDA | IIT KGP'23",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Sep 2023 - Present 1 year 4 months",
+            "start_date": "Sep 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 4 months",
+            "company": "Siemens EDA (Siemens Digital Industries Software)",
+            "company_id": "siemens-eda",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "WazirX",
+            "company_id": "wazirx",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "description_html": null,
+            "duration": "Jan 2022 Mar 2022 3 months",
+            "start_date": "Jan 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "3 months",
+            "company": "Jupiter",
+            "company_id": "jupiter-money",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Btech + Mtech , dual degree",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Nalanda academy, Kota , Rajasthan",
+            "degree": "Science",
+            "field": "87%",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Andrew Ng's Machine Learning - Stanford University(Coursera)\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability & Statistics Course \"},{\"subtitle\":\"CS10001/CS11001\",\"title\":\"Programming and Data Structures\"}]",
+    "certifications": null,
+    "current_company_name": "Siemens EDA (Siemens Digital Industries Software)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

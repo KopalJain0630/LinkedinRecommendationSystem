@@ -1,0 +1,93 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Johnson & Johnson | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "GET",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Graduate Engineer Trainee in the Consumer Division of J&J based at Mulund, Mumbai",
+            "description_html": "Graduate Engineer Trainee in the Consumer Division of J&amp;J based at Mulund, Mumbai <!---->",
+            "duration": "Aug 2020 Jul 2021 1 year",
+            "start_date": "Aug 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "1 year",
+            "company": "Johnson & Johnson",
+            "company_id": "johnson-&-johnson",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Apr 2019 - Jul 2020 1 year 4 months",
+                    "description": "Representative to the Student's Senate IIT Kharagpur",
+                    "duration": "Apr 2019 Jul 2020 1 year 4 months",
+                    "start_date": "Apr 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year 4 months",
+                    "title": "Second Senate Member, RPH",
+                    "description_html": "Representative to the Student's Senate IIT Kharagpur <!---->"
+                },
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Aug 2018 - Apr 2019 9 months",
+                    "description": "Spearheaded the team to win the Social and Cultural General Championship 2018-2019 after a gap of 5 years winning 4 Gold, 5 Silver and 1 Bronze medal",
+                    "duration": "Aug 2018 Apr 2019 9 months",
+                    "start_date": "Aug 2018",
+                    "end_date": "Apr 2019",
+                    "duration_short": "9 months",
+                    "title": "General Secretary, RPH",
+                    "description_html": "Spearheaded the team to win the Social and Cultural General Championship 2018-2019 after a gap of 5 years winning 4 Gold, 5 Silver and 1 Bronze medal <!---->"
+                }
+            ],
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Samsung India",
+            "company_id": "samsung-india",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology",
+            "field": "Electrical engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": "Fourth Year Undergraduate Student",
+            "description_html": "Fourth Year Undergraduate Student <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Intelligent Control\"},{\"subtitle\":\"-\",\"title\":\"Neurochemistry\"}]",
+    "certifications": null,
+    "current_company_name": "Johnson & Johnson",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Thermal Image Processing\",\"start_date\":\"Jul 2019\",\"end_date\":\"Jul 2020\",\"description\":\"Deceit detection using Thermal Image Processing.\"},{\"title\":\"VLSI Summer School\",\"start_date\":\"May 2018\",\"end_date\":\"Jun 2018\",\"description\":\"Learned Various blocks of an IC ranging from the Analog Front End to the Digital end in the process of VLSI. Learnt both the idealities and Non idealities in the designing of the Front End Amplifier and The variable Gain Amplifier and worked on the biasing issues faced while designing analog amplifiers by testing various aspects of the theory by simulating circuits on the software LT SPICE.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "KVPY Scholar - SX",
+            "publication": "Indian Institute Of Science,Bangalore",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

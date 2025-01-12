@@ -1,0 +1,170 @@
+{
+    "id": "fauzanwaseem",
+    "name": "Fauzan Waseem",
+    "city": "Almora, Uttarakhand, India",
+    "country_code": "IN",
+    "position": "Python Developer | Data Analytics Enthusiast | Love to code and play with data",
+    "about": "With nearly 3 years of experience, I specialize in building and optimizing data pipelines using PySpark, SQL, and Teradata. I am skilled in database management, data analysis with Python (pandas, NumPy), Excel and have experience in developing statistical and analytical models. My expertise includes business analysis, data extraction, and the development of dashboards and reports which drive actionable insights and business success.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "EY",
+        "company_id": "ernstandyoung",
+        "title": "Python Developer | Data Analytics Enthusiast | Love to code and play with data"
+    },
+    "experience": [
+        {
+            "title": "Senior Consultant",
+            "location": "Delhi NCR",
+            "description_html": null,
+            "duration": "Nov 2024 - Present 2 months",
+            "start_date": "Nov 2024",
+            "end_date": "Present",
+            "duration_short": "2 months",
+            "company": "EY",
+            "company_id": "ernstandyoung",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Data Engineer",
+            "location": "Delhi, India",
+            "description": "- Received Highest Rating/Band for exceptional performance and contributions in 2023.- Helped in pipeline development for the Income Tax Department, managing datasets of 68 Crore PAN records, ITRs, and partner data.- Optimized data retrieval, modeled for risk assessment, and developed Teradata utility scripts, achieving a 75% revenue increase.- Developed and executed Spark-SQL / PySpark scripts to process and analyze data, meeting stakeholders’ requirements, and delivering actionable insights.- Developed PySpark scripts to read AIS data from Cassandra for end user / analyst requirements to perform analysis.- Developed and maintained dashboards and reports Using PowerBI , Excel and Google Sheets.- Developed text pre-processing code to clean, format, process unstructured data (Pictures, Signatures) using PySpark.- Involved in full Software Development Life Cycle (SDLC) – Business Requirement Analysis, preparation of Technical Design documents, Data Analysis, Logical database design, Coding, Testing, Implementing, and deploying to business users.- Extensive experience in developing complex SQL queries, performing many performance tunings like resolving spool space errors etc.",
+            "description_html": "- Received Highest Rating/Band for exceptional performance and contributions in 2023.- Helped in pipeline development for the Income Tax Department, managing datasets of 68 Crore PAN records, ITRs, and partner data.- Optimized data retrieval, modeled for risk assessment, and developed Teradata utility scripts, achieving a 75% revenue increase.- Developed and executed Spark-SQL / PySpark scripts to process and analyze data, meeting stakeholders’ requirements, and delivering actionable insights.- Developed PySpark scripts to read AIS data from Cassandra for end user / analyst requirements to perform analysis.- Developed and maintained dashboards and reports Using PowerBI , Excel and Google Sheets.- Developed text pre-processing code to clean, format, process unstructured data (Pictures, Signatures) using PySpark.- Involved in full Software Development Life Cycle (SDLC) – Business Requirement Analysis, preparation of Technical Design documents, Data Analysis, Logical database design, Coding, Testing, Implementing, and deploying to business users.- Extensive experience in developing complex SQL queries, performing many performance tunings like resolving spool space errors etc.",
+            "duration": "Jul 2021 Apr 2024 2 years 10 months",
+            "start_date": "Jul 2021",
+            "end_date": "Apr 2024",
+            "duration_short": "2 years 10 months",
+            "company": "LTIMindtree",
+            "company_id": "ltimindtree",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Engineering Trainee",
+            "description_html": null,
+            "duration": "Jul 2021 Sep 2021 3 months",
+            "start_date": "Jul 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "3 months",
+            "company": "LTI - Larsen & Toubro Infotech",
+            "company_id": "l&t-infotech",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Nishchay Manwani",
+            "about": null,
+            "location": "North Guwahati"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishant Chahar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Dixit",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritesh Rastogi",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Saumya Singh",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Aarnav Jindal",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ribhu Mukherjee",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Savitoj Singh",
+            "about": "SDE-2 at Amazon | Ex-Google",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Khatri",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikhil Medam",
+            "about": null,
+            "location": "Hyderabad"
+        }
+    ],
+    "educations_details": "NIT UK",
+    "education": [
+        {
+            "title": "NIT UK",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2020Credential ID UC-2560812a-ab33-4c33-9034-90138fe695b0See credential",
+            "subtitle": "Udemy",
+            "title": "Learn Ethical Hacking From Scratch "
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "C++(Basic)"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving(Basic)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 796.0,
+    "connections": 500.0,
+    "current_company_company_id": "ernstandyoung",
+    "current_company_name": "EY",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Almora",
+    "linkedin_id": "fauzanwaseem",
+    "activity": null,
+    "linkedin_num_id": 743759057.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

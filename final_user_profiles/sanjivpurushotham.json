@@ -1,0 +1,60 @@
+{
+    "city": "Singapore",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2022Credential ID BHWATB4D6F9QSee credential",
+            "subtitle": "Coursera",
+            "title": "Cryptocurrency and Blockchain: An Introduction to Digital Currencies"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "University of Pennsylvania",
+            "title": "Cryptocurrency and Blockchain: An Introduction to Digital Currencies"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID QCUGZ2444WRRSee credential",
+            "subtitle": "Coursera",
+            "title": "FinTech: Foundations, Payments, and Regulations"
+        }
+    ],
+    "current_company_name": "Bridge Solutions LLC FZ",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "GSMA Mobile Money Award",
+            "publication": "GSMA",
+            "date": "2013-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "GSMA Mobile Money Award",
+            "publication": "GSMA",
+            "date": "2012-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "GSMA Mobile Money",
+            "publication": "GSMA",
+            "date": "2011-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Global Sales Award",
+            "publication": "-",
+            "date": null,
+            "description": "For driving key emerging payment initiatives in the Asia and Africa region"
+        },
+        {
+            "title": "Patent Award",
+            "publication": "-",
+            "date": null,
+            "description": "Patent Awardee for the MasterCard Payments App."
+        }
+    ]
+}

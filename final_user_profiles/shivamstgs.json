@@ -1,0 +1,95 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Software Developer | IIT KGP@2023",
+    "experience": [
+        {
+            "title": "RoR Developer",
+            "location": "South Delhi, Delhi, India",
+            "description_html": null,
+            "duration": "Jan 2024 - Present 1 year",
+            "start_date": "Jan 2024",
+            "end_date": "Present",
+            "duration_short": "1 year",
+            "company": "NAYAN",
+            "company_id": "nayancam",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE-1",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jul 2023 Jan 2024 7 months",
+            "start_date": "Jul 2023",
+            "end_date": "Jan 2024",
+            "duration_short": "7 months",
+            "company": "Cogoport",
+            "company_id": "cogoport",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "OYO",
+            "company_id": "oyo-rooms",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Manager",
+            "location": "India",
+            "description_html": null,
+            "duration": "Feb 2022 Apr 2022 3 months",
+            "start_date": "Feb 2022",
+            "end_date": "Apr 2022",
+            "duration_short": "3 months",
+            "company": "Intugine - Logistics through Innovation",
+            "company_id": "intugine-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "description_html": null,
+            "duration": "Aug 2021 Sep 2021 2 months",
+            "start_date": "Aug 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "2 months",
+            "company": "Uni Cards",
+            "company_id": "uni-cards",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated MSc.",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2020",
+            "subtitle": "Creative Shock",
+            "title": "World Rank 20 -Case Study challenge"
+        }
+    ],
+    "current_company_name": "NAYAN",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

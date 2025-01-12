@@ -1,0 +1,345 @@
+{
+    "id": "madhvendra-pratap-singh",
+    "name": "Madhvendra singh",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Johnson & Johnson | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Johnson & Johnson",
+        "company_id": "johnson-&-johnson",
+        "title": "Johnson & Johnson | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "GET",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Graduate Engineer Trainee in the Consumer Division of J&J based at Mulund, Mumbai",
+            "description_html": "Graduate Engineer Trainee in the Consumer Division of J&amp;J based at Mulund, Mumbai <!---->",
+            "duration": "Aug 2020 Jul 2021 1 year",
+            "start_date": "Aug 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "1 year",
+            "company": "Johnson & Johnson",
+            "company_id": "johnson-&-johnson",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Apr 2019 - Jul 2020 1 year 4 months",
+                    "description": "Representative to the Student's Senate IIT Kharagpur",
+                    "duration": "Apr 2019 Jul 2020 1 year 4 months",
+                    "start_date": "Apr 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year 4 months",
+                    "title": "Second Senate Member, RPH",
+                    "description_html": "Representative to the Student's Senate IIT Kharagpur <!---->"
+                },
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Aug 2018 - Apr 2019 9 months",
+                    "description": "Spearheaded the team to win the Social and Cultural General Championship 2018-2019 after a gap of 5 years winning 4 Gold, 5 Silver and 1 Bronze medal",
+                    "duration": "Aug 2018 Apr 2019 9 months",
+                    "start_date": "Aug 2018",
+                    "end_date": "Apr 2019",
+                    "duration_short": "9 months",
+                    "title": "General Secretary, RPH",
+                    "description_html": "Spearheaded the team to win the Social and Cultural General Championship 2018-2019 after a gap of 5 years winning 4 Gold, 5 Silver and 1 Bronze medal <!---->"
+                }
+            ],
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Samsung India",
+            "company_id": "samsung-india",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Anoop Karnik",
+            "about": "Micro Sass End to End Products Builder, Full Stack Engineer (Sprinboot, flask, Mern stack, Nextjs, typescript), Devops (AWS) Engineer, Data Engineer (Postgres, Elastic Search, Mongodb, Fhir), Machine Learning/AI Engineer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hemant Singh",
+            "about": "Category Manager | IIM Lucknow | P&L Optimization, E-commerce",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Bhardwaj",
+            "about": "Bain & Co. (PPO) | XLRI | 4x National Case Comp | IITBHU",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhuvan Beejawat",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Tikshya Sharma",
+            "about": "Project Leader at Bain | The Smart Cube",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Jain",
+            "about": "Implementation Consultant | Data enthusiast | MBA- Health and Hospital Management | Healthcare IT | Pharmacist | EMR Specialist",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Shagun Jain",
+            "about": "Jaypee Institute of Information Technology || Graphic Designer || Mandala Artist and Educator",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Prathamesh Hinge",
+            "about": "Senior Analyst- Programmatic Buying | InMobi | Performance Marketing | BITS Pilani",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishank Bidamia",
+            "about": "Kearney",
+            "location": "Greater Kuala Lumpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhay Gaur",
+            "about": "Quantitative Researcher @ Nomura | Ex-Software Developer @ Veritas",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "Manish Choudhary",
+            "about": "Stealth Mode | ex magicpin, Aftershoot | DCE'19",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Varnika Aggarwal",
+            "about": "Analytics Professional | Data & BI | E-commerce",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Rout",
+            "about": null,
+            "location": "Coventry"
+        },
+        {
+            "profile_link": "",
+            "name": "Sukhjeevan Bansal",
+            "about": "Software Engineer III at Google | Ex-Goldman Sachs | IIT Kanpur",
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh Budholiya",
+            "about": null,
+            "location": "Ann Arbor, MI"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Patel",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Gupta",
+            "about": "Axis Bank || CSPO® || IIM Mumbai || NIT Surat",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Gauransh Soni",
+            "about": "Adobe | IIT Delhi | Lets build something",
+            "location": "Hauz Khas"
+        },
+        {
+            "profile_link": "",
+            "name": "Surbhi Verma",
+            "about": "American Express | Asian Paints | National Second RunnersUp, HUL LIME XI | EXL | NMIMS | DCE",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Lonkar",
+            "about": "Business Analyst | GTM analytics",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology",
+            "field": "Electrical engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": "Fourth Year Undergraduate Student",
+            "description_html": "Fourth Year Undergraduate Student <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Intelligent Control\"},{\"subtitle\":\"-\",\"title\":\"Neurochemistry\"}]",
+    "languages": [
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " German "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2016 - Apr 2018 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2018",
+            "info": "Being an active member of NSS IIT Kharagpur for 2 years we conducted many surveys in various villages on numerous social and hygienic matters. Also had a vivid and rich experience while teaching students of the only High school located in the village of Balarampur, West Bengal.",
+            "start_date": "Jul 2016",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 2337.0,
+    "connections": 500.0,
+    "current_company_company_id": "johnson-&-johnson",
+    "current_company_name": "Johnson & Johnson",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Thermal Image Processing\",\"start_date\":\"Jul 2019\",\"end_date\":\"Jul 2020\",\"description\":\"Deceit detection using Thermal Image Processing.\"},{\"title\":\"VLSI Summer School\",\"start_date\":\"May 2018\",\"end_date\":\"Jun 2018\",\"description\":\"Learned Various blocks of an IC ranging from the Analog Front End to the Digital end in the process of VLSI. Learnt both the idealities and Non idealities in the designing of the Front End Amplifier and The variable Gain Amplifier and worked on the biasing issues faced while designing analog amplifiers by testing various aspects of the theory by simulating circuits on the software LT SPICE.\"}]",
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "madhvendra-pratap-singh",
+    "activity": [
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "I Still Don't Know What I Want to Do with My Life For a long time, I have searched for this answer. What do I love doing? What kind of life do I…",
+            "img": "",
+            "id": "7249728934223720448"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "Feeling energized after attending the World Economic Forum Lighthouse Network Awards Dinner in Davos, Switzerland earlier this week. It was an…",
+            "img": "",
+            "id": "7153253490654355457"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "We are creating the 'Data Layer for 3D and XR Experiences' Analytics SDK 1) Plug-and-play with cross-platform compatibility 2) Capture and store…",
+            "img": "",
+            "id": "7141040751689318400"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "🏆 Exciting News! 🏆 Thrilled to share our MathWorks internal hackathon win, securing 1st place for 'Most Useful Hack.' This marks my third…",
+            "img": "",
+            "id": "7136668497501159424"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "Are you a tech-savvy go-getter ready to take on the world? If so, we want you to join our team! We're building one of the finest product for small &…",
+            "img": "",
+            "id": "7064087076274634752"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "Morning 4 am, Haven't slept for 2-3 nights, Empty stomach, Dressed tiptop in formals and Pedaling away as fast as I can on someone else's…",
+            "img": "",
+            "id": "7064118735502012416"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "A proud moment for all the KGPians as Skyroot Aerospace , a startup by KGP alumni Pawan Kumar Chandana, launched India's first private made rocket…",
+            "img": "",
+            "id": "6999660956867809280"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "Entrepreneurship Cell, IIT Kharagpur congratulates Skyroot Aerospace on launching their first-ever rocket Vikram-S today by creating a landmark in…",
+            "img": "",
+            "id": "6999735909340336128"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "I don't usually write long posts but here is a story which I can't resist to share with you all. A 13 years old small village kid once had a dream…",
+            "img": "",
+            "id": "6994253197808734209"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "I crossed 800,000 followers on LinkedIn today. This just proves that if you work really hard, you can achieve things that you were not trying to…",
+            "img": "",
+            "id": "800000"
+        },
+        {
+            "interaction": "Liked by Madhvendra singh",
+            "link": "",
+            "title": "Hey everyone! I am super excited to share that I have been selected for the flagship MBA programs of Indian Institute of Management Ahmedabad…",
+            "img": "",
+            "id": "6928027952248930304"
+        }
+    ],
+    "linkedin_num_id": 615401003.0,
+    "honors_and_awards": [
+        {
+            "title": "KVPY Scholar - SX",
+            "publication": "Indian Institute Of Science,Bangalore",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

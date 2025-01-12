@@ -1,0 +1,59 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2019See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Machine Learning with Python"
+        },
+        {
+            "meta": "Issued Jan 2019See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Python For Data Science"
+        },
+        {
+            "meta": "Issued Apr 2016See credential",
+            "subtitle": "Geekslab Technologies",
+            "title": "Certification of participation in Big Data Analytics and Hadoop"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Invest India",
+            "title": "#startupindia Learning Program"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Basics of Big-Data"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "IBM",
+            "title": "Big Data Foundations - Level 1"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "IBM",
+            "title": "Business Analytics Specialist"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Google",
+            "title": "Certification of Google Analytics "
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "IBM",
+            "title": "Machine Learning with Python - Level 1"
+        }
+    ],
+    "current_company_name": "Kidbea",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Analysis of Customer churn of Sales dataset.\",\"start_date\":\"Jun 2019\",\"description\":\"I was provided with a Sales dataset of Wrist watches. I had analysed that dataset with the data visualization tool, Tableau by creating various types of graphs and charts to understand the dataset in a visualized and easy manner to find the customer churn.\"},{\"title\":\"Human activity recognition by using smartphones.\",\"start_date\":\"Oct 2018\",\"end_date\":\"May 2019\",\"description\":\"Under this project,we perform recognition of the movement of Human's activity by using smartphones which have in-built accelerometer and gyroscope sensors which senses the movement in 3-axial manner.The Human Activity Recognition database was built from the recordings of 30 study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING).With the implementation of Machine learning techniques and Python,I have classified the dataset and performed feature selection.\"},{\"title\":\"Analysis of Global terrorism dataset\",\"description\":\"This project is based on analysis.In this project,dataset was extracted from kaggle and analysed and visualized by an analytical tool Tableau.\"},{\"title\":\"Brand perception survey\",\"description\":\"This survey was conducted on university level.In this survey,i had generated a google form,which was categorized with specifications of smartphone that why people use different brands of smartphones.Through that google form,i have completed this survey on the basis of smartphone's quality,durability and price.\"}]",
+    "honors_and_awards": null
+}

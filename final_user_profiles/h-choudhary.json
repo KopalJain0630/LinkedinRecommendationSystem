@@ -1,0 +1,46 @@
+{
+    "city": "Noida, Uttar Pradesh, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Gautam Buddha University",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Sales: Closing Strategies"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Udemy",
+            "title": "10 Soft Skills You Must Have in Workplace"
+        },
+        {
+            "meta": "Issued Jun 2018",
+            "subtitle": "COPC Inc.",
+            "title": "Certified COPC Implementation Leader"
+        }
+    ],
+    "current_company_name": "Springworks",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Business Quiz Runner Up",
+            "publication": "Business Standard",
+            "date": "2017-03-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

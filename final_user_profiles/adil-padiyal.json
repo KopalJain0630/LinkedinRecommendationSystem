@@ -1,0 +1,72 @@
+{
+    "city": "Tokyo, Japan",
+    "position": "Doctoral Student @ UTokyo | Digital Hardware Design | Verification | Ex-Texas Instruments",
+    "experience": [
+        {
+            "title": "Doctoral Student",
+            "location": "Tokyo, Japan",
+            "description_html": null,
+            "duration": "Oct 2022 - Present 2 years 3 months",
+            "start_date": "Oct 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 3 months",
+            "company": "The University of Tokyo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Design Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2022 Sep 2022 3 months",
+            "start_date": "Jul 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "3 months",
+            "company": "Texas Instruments",
+            "company_id": "texas-instruments",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Design Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Digital Design Engineering Intern in the Ethernet team. Worked on designing and implementing delay measurement blocks for various protocols.",
+            "description_html": "Digital Design Engineering Intern in the Ethernet team. Worked on designing and implementing delay measurement blocks for various protocols. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Texas Instruments",
+            "company_id": "texas-instruments",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated M. Tech.",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "The University of Tokyo",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "KVPY Fellow",
+            "publication": "IISc. Bangalore",
+            "date": "2017-04-01T00:00:00.000Z",
+            "description": "KVPY Fellow is the title granted to the students who have successfully cleared both Aptitude Test and Interview Round and have been selected by Indian Institute of Science, Bangalore., and are granted Scholarship if they are pursuing a Sciences Course/Degree."
+        }
+    ]
+}

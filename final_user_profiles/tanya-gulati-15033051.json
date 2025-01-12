@@ -1,0 +1,74 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": [
+        {
+            "title": "HR Coordinator",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Feb 2024 - Present 11 months",
+            "start_date": "Feb 2024",
+            "end_date": "Present",
+            "duration_short": "11 months",
+            "company": "VeeAR Projects Inc.",
+            "company_id": "veear-projects",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Talent Acquisition Associate",
+            "location": "Pune/Pimpri-Chinchwad Area",
+            "description_html": null,
+            "duration": "Mar 2021 Aug 2023 2 years 6 months",
+            "start_date": "Mar 2021",
+            "end_date": "Aug 2023",
+            "duration_short": "2 years 6 months",
+            "company": "Angular Minds",
+            "company_id": "angular-minds",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Human Resources Trainee",
+            "location": "Jamshedpur, Jharkhand, India",
+            "description_html": null,
+            "duration": "Feb 2019 Apr 2019 3 months",
+            "start_date": "Feb 2019",
+            "end_date": "Apr 2019",
+            "duration_short": "3 months",
+            "company": "Tata Steel",
+            "company_id": "tatasteelltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "IBS Mumbai",
+            "degree": "HR & Marketing",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "MITSOM | MIT School of Management",
+            "degree": "Bba-ib",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "VeeAR Projects Inc.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

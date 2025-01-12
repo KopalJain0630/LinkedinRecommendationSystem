@@ -1,0 +1,96 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Developer @Sensibull - India's biggest option trading platform | Ex-Intern @Klub and @Artificial Brix | Full Stack Web Developer | React ❄ | JavaScript ⚡ TypeScript | MERN | Serverless",
+    "experience": [
+        {
+            "title": "Sensibull",
+            "description_html": null,
+            "duration": "2 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Sensibull",
+                    "meta": "Jan 2023 - Present 2 years",
+                    "duration": "Jan 2023 - Present 2 years",
+                    "start_date": "Jan 2023",
+                    "end_date": "Present",
+                    "duration_short": "2 years",
+                    "title": "Software Developer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Sensibull",
+                    "meta": "Nov 2022 - Dec 2022 2 months",
+                    "description": "Building India's biggest Options Trading Platform",
+                    "duration": "Nov 2022 Dec 2022 2 months",
+                    "start_date": "Nov 2022",
+                    "end_date": "Dec 2022",
+                    "duration_short": "2 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": "Building India's biggest Options Trading Platform <!---->"
+                }
+            ],
+            "company": "Sensibull",
+            "company_id": "sensibull",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Tech Lead",
+            "description_html": null,
+            "duration": "May 2021 Apr 2023 2 years",
+            "start_date": "May 2021",
+            "end_date": "Apr 2023",
+            "duration_short": "2 years",
+            "company": "Pylamp Club",
+            "company_id": "pylamp-club",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Backend Developer Intern",
+            "description": "Worked on core payment system of the company integrating 3rd party payments apis.Tech stack -JavaScript, TypeScript, Monorepo, AWS Lambda, Step Functions, Dynamo DB.",
+            "description_html": "Worked on core payment system of the company integrating 3rd party payments apis.Tech stack -JavaScript, TypeScript, Monorepo, AWS Lambda, Step Functions, Dynamo DB. <!---->",
+            "duration": "Jul 2021 Dec 2021 6 months",
+            "start_date": "Jul 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "6 months",
+            "company": "Klub",
+            "company_id": "klubworks",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "description": "Made substantial work in building the product landing page with CMS. Tech Stack - React js, Material UI, Express js, Typescript, and MySQL.",
+            "description_html": "Made substantial work in building the product landing page with CMS. Tech Stack - React js, Material UI, Express js, Typescript, and MySQL. <!---->",
+            "duration": "Feb 2021 May 2021 4 months",
+            "start_date": "Feb 2021",
+            "end_date": "May 2021",
+            "duration_short": "4 months",
+            "company": "Artificial Brix",
+            "company_id": "artificial-brix",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Velalar College of Engineering and Technology",
+            "degree": "B.E CSE",
+            "field": "Computer science and engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Sensibull",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

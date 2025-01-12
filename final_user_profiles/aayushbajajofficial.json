@@ -1,0 +1,48 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "American Institute of Certified Public Accountants",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2010",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2018",
+            "subtitle": "Intuit",
+            "title": "Certified Proadvisor"
+        }
+    ],
+    "current_company_name": "GrevX Consulting",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Excellerator",
+            "publication": "EY",
+            "date": "2016-03-01T00:00:00.000Z",
+            "description": "\"Excellerator\" from TAS for the quarter October to December 2015 - “Excellerator” is an award that recognizes individuals / team who demonstrate excellence in their field of work."
+        },
+        {
+            "title": "Kudos",
+            "publication": "EY",
+            "date": "2015-09-01T00:00:00.000Z",
+            "description": "Individual award for demonstrating a steep learning curve within the first six months of joining."
+        }
+    ]
+}

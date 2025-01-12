@@ -1,0 +1,400 @@
+{
+    "id": "piyush1729",
+    "name": "Piyush Kumar",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "IITKgp '23 | Software Engineer @Adobe | Ex-Intern @Fractal",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Adobe",
+        "company_id": "adobe",
+        "title": "IITKgp '23 | Software Engineer @Adobe | Ex-Intern @Fractal"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "Adobe",
+            "company_id": "adobe",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Lead Data Science Mentor",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Sep 2022 May 2023 9 months",
+            "start_date": "Sep 2022",
+            "end_date": "May 2023",
+            "duration_short": "9 months",
+            "company": "DevTown",
+            "company_id": "devtown-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "National Winner - Citi Campus Innovation Challenge",
+            "location": "India",
+            "description": "- Developed Deep Learning Models for Handwritten text recognition in banking sector- Declared winner in the competition and awarded with a cash prize of INR 300k",
+            "description_html": "- Developed Deep Learning Models for Handwritten text recognition in banking sector- Declared winner in the competition and awarded with a cash prize of INR 300k <!---->",
+            "duration": "Mar 2023 Apr 2023 2 months",
+            "start_date": "Mar 2023",
+            "end_date": "Apr 2023",
+            "duration_short": "2 months",
+            "company": "Citi",
+            "company_id": "citi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "National Runner - American Express Campus Super Bowl",
+            "description": "- Developed ML models for American Express credit card default time prediction- Declared 1st runner up in the competition which saw over 3600+ participation across 21 top institutes of India.",
+            "description_html": "- Developed ML models for American Express credit card default time prediction- Declared 1st runner up in the competition which saw over 3600+ participation across 21 top institutes of India. <!---->",
+            "duration": "Oct 2022 Oct 2022 1 month",
+            "start_date": "Oct 2022",
+            "end_date": "Oct 2022",
+            "duration_short": "1 month",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Vision and AI Project Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "Worked with the AI and Machine Vision team on Document Digitization and Token Classification• Built Document AI models for Form Recognition, Receipt and Invoice Understanding using LayoutLMv3 with pytorch and transformers and automated the process of extracting relevant data from scanned and pdf documents• Trained the model on FUNSD and CORD datasets with 4 and 23 classes to achieve an F1 score of 90.14 and 93.46",
+            "description_html": "Worked with the AI and Machine Vision team on Document Digitization and Token Classification• Built Document AI models for Form Recognition, Receipt and Invoice Understanding using LayoutLMv3 with pytorch and transformers and automated the process of extracting relevant data from scanned and pdf documents• Trained the model on FUNSD and CORD datasets with 4 and 23 classes to achieve an F1 score of 90.14 and 93.46 <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Fractal",
+            "company_id": "fractal-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Editor",
+            "description_html": null,
+            "duration": "Apr 2020 Jun 2022 2 years 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2022",
+            "duration_short": "2 years 3 months",
+            "company": "IIT Tech Ambit",
+            "company_id": "iit-techambit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Global Finalist - Adobe Analytics Challenge 2021",
+            "description": "◦ Secured 4th place in the global intercollegiate finals among over 4000+ teams across 22 countries◦ Provided key business solutions for The Walt Disney Company across 2 platforms: Disney Web and Disney App for driving up the average order value using Adobe Analytics Workspace◦ Led a team of three and provided 4 solutions, namely Analysis, Redesign, Execution and Connect with an estimated growth of 13.9% in Disney’s e-commerce platform in the coming year◦ Presented business solution which include redesigning the website, analyzing purchase flow and cart abandonment, engineering customer segmentation to understand Disney’s customer base◦ The only Indian team to make it to Grand Finale. Awarded with a cash prize of 3,000 USD by Adobe: ",
+            "description_html": "◦ Secured 4th place in the global intercollegiate finals among over 4000+ teams across 22 countries◦ Provided key business solutions for The Walt Disney Company across 2 platforms: Disney Web and Disney App for driving up the average order value using Adobe Analytics Workspace◦ Led a team of three and provided 4 solutions, namely Analysis, Redesign, Execution and Connect with an estimated growth of 13.9% in Disney’s e-commerce platform in the coming year◦ Presented business solution which include redesigning the website, analyzing purchase flow and cart abandonment, engineering customer segmentation to understand Disney’s customer base◦ The only Indian team to make it to Grand Finale. Awarded with a cash prize of 3,000 USD by Adobe: ",
+            "duration": "Oct 2021 Nov 2021 2 months",
+            "start_date": "Oct 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "2 months",
+            "company": "Adobe",
+            "company_id": "adobe",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "India",
+            "description_html": null,
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "National Winner - Maverick 2.0 Hackathon",
+            "description": "• National Winner of ABInBev’s Maverick 2.0 Hack-a-thon among 750+ teams all across India. The only team of sophomores to make it to the final. Awarded with a cash prize of INR 1 lac.• Built a recommendation system for cross-sell and upsell of ABInBev’s products. Used Neural Collaborative Filtering for building the recommendation system. LSTM model was used to recommend quantities for the same.• Separate strategies were implemented for cross-sell and upsell which aim to increase the net generation revenue.• Built a Graphical User Interface using Flask to showcase and present our model.• GitHub link: ",
+            "description_html": "• National Winner of ABInBev’s Maverick 2.0 Hack-a-thon among 750+ teams all across India. The only team of sophomores to make it to the final. Awarded with a cash prize of INR 1 lac.• Built a recommendation system for cross-sell and upsell of ABInBev’s products. Used Neural Collaborative Filtering for building the recommendation system. LSTM model was used to recommend quantities for the same.• Separate strategies were implemented for cross-sell and upsell which aim to increase the net generation revenue.• Built a Graphical User Interface using Flask to showcase and present our model.• GitHub link: ",
+            "duration": "Mar 2021 May 2021 3 months",
+            "start_date": "Mar 2021",
+            "end_date": "May 2021",
+            "duration_short": "3 months",
+            "company": "AB InBev India",
+            "company_id": "ab-inbev-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "SirpiDataScience",
+            "company_id": "sirpidatascience",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shaurabh Tiwari",
+            "about": "SDE @Salesforce | Adobe | FinBox | ISB | UOttawa | 5 Star @Codechef | Expert @Codeforces | IIT Kharagpur'24",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Anushka Kulkarni",
+            "about": "Creative at Youngun by the Day, Tweeter throughout the Day.",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sachin Jaiswal",
+            "about": "Working Hard, Having Fun, Trying to make History",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsha Menda",
+            "about": "Lead Engineer in Test at FIS",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansi Mehrotra",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhu Damani",
+            "about": "Business Analyst @ Yellow.ai | Ex - Analyst @Quantiphi | Mumbai University’22",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Swahani Roy",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Jain",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Varun Ganta",
+            "about": "Software Engineer @ ISA | IIT Palakkad '23",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanuj Shrivastava",
+            "about": "Software Engineer I @ Briq | Ex-Hannover Re | GCP | Python & Flask Specialist | Backend Developer | Microservices Architect",
+            "location": "Gwalior"
+        },
+        {
+            "profile_link": "",
+            "name": "Pushpam Choudhary",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aryan Singh",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Divyansh Gupta",
+            "about": "SDE1 @Standard Chartered || SDE Intern 22' @Oracle|| Student at IIT (ISM) Dhanbad",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "ADITI SISODIA",
+            "about": "Associate @ Boston Consulting Group | Mitacs GRI'22 | Financial Engineering | IIT Kharagpur",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Gajanan Gitte",
+            "about": "SWE @Microsoft | Comp. Science and Engineering, IIT Roorkee '23",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayuk Basu",
+            "about": "IIM Bangalore'26 | Business@Flipkart | IIT Dhanbad'22",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Navjot Singh",
+            "about": "Senior Software Engineer @ Times Internet - ET Money | Fullstack Web Development and Machine Learning",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Amith A",
+            "about": "Cybersecurity Engineer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Saravanan J.",
+            "about": "Digital Specialist Engineer at Infosys || Full stack developer || Pega Certified Senior System Architect(v8.3)",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Dolly Bansal Sheth",
+            "about": "Writer",
+            "location": "Ahmedabad"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Instrumentation Engineering in the Department of Electrical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Major in Instrumentation Engineering with Specialization in Artificial Intelligence",
+            "description_html": "Major in Instrumentation Engineering with Specialization in Artificial Intelligence <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020See credential",
+            "subtitle": "Kaggle",
+            "title": "Deep Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2058.0,
+    "connections": 500.0,
+    "current_company_company_id": "adobe",
+    "current_company_name": "Adobe",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "piyush1729",
+    "activity": [
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "One Day To Go!!! Indian Institute of Technology, Kharagpur presents Illumination 2024 MINISTRY OF EDUCATION, GOVERNMENT OF INDIA Dharmendra Pradhan…",
+            "img": "",
+            "id": "7257369238795911168"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "Life Update <> Job Switch Last few months have been hectic and full of tough decisions. I left my previous organisation Vedantu in the month of June…",
+            "img": "",
+            "id": "7228973280907382784"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "Apply Now!",
+            "img": "",
+            "id": "7176099471137595392"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "Alchemy, the annual Adobe India's Intern Summit, was nothing short of magical 🪄 We formed so many new friendships, shared meaningful stories, and…",
+            "img": "",
+            "id": "7224995111523299329"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "#revoked #sprinklr Sprinklr Offer Revoked \"Every setback is a setup for a comeback.\" Hello LinkedIn Community, I hope this message finds you…",
+            "img": "",
+            "id": "7211407416255500288"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "A friend from a Tier 2 college told me the other they: She felt overwhelmed while competing against IITians in a competition. She felt overwhelmed in…",
+            "img": "",
+            "id": "7182935188631429120"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "Great Day 1 at #AdobeSummit! Take 1 minute to catch up below. More today, including a heavy dose of inspiration for all #marketers out there!…",
+            "img": "",
+            "id": "7178782447193509888"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "Guarantee the best services and digital experiences for each and every one of your customers. CEO Shantanu Narayen shares his excitement on the…",
+            "img": "",
+            "id": "7178786806656589828"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "To all the “losers” out there, listen to me, a former “loser”. This post is personal and important. - I barely secured my seat at IIT - I failed…",
+            "img": "",
+            "id": "7167913442652176384"
+        },
+        {
+            "interaction": "Liked by Piyush Kumar",
+            "link": "",
+            "title": "Thrilled to share a glimpse at my architectural journey over the past 5 years as an undergraduate student. Revealing my final year undergraduate…",
+            "img": "",
+            "id": "7170099141384105985"
+        }
+    ],
+    "linkedin_num_id": 788746641.0,
+    "honors_and_awards": [
+        {
+            "title": "KIRIT 3.0 | National Runner",
+            "publication": "Kirloskar Groups and Kirloskar Institute of Management",
+            "date": "2023-02-01T00:00:00.000Z",
+            "description": "-Proposed solution for the given problem statement regarding the decreased sales and profitability of diesel engines. - Aalysed various market trends and suggested various renovation techniques to shape up i the next five years."
+        },
+        {
+            "title": "Semantic Image Segmentation – organized by KDAG - IIT Kharagpur",
+            "publication": "Kharagpur Data Analytics Group, IIT Kharagpur",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "Applied an image segmentation algorithm – U-Net using Keras and Tensorflow to extract the areas rich in vegetation from satellite images of different locations. The 4-channel training mask images contain multi-class segmentations- road, buildings, vegetation, Green farms, Dry farms, barren land, water body and others. Declared 6th finalist in the competition which saw over 2000+ registrations."
+        },
+        {
+            "title": "First Runner up in Hackerearth's Social Hackathon: Code Against Corruption",
+            "publication": "HackerEarth",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "Developed a machine learning model for detection of bribes"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

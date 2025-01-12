@@ -1,0 +1,128 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "SDE II at Zomato",
+    "experience": [
+        {
+            "title": "Software Development Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2022 - Present 2 years 8 months",
+            "start_date": "May 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 8 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description": "Becoming a Pro (Working with Pro Team, Zomato)",
+            "description_html": "Becoming a Pro (Working with Pro Team, Zomato) <!---->",
+            "duration": "Sep 2021 Feb 2022 6 months",
+            "start_date": "Sep 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "6 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "• Implementation of various API Tests for the team to ensure smooth functionality of the APIs for ADCAAS Service.• Re-wrote the unit tests to test out the specific functionalities like agent profile creation for ADCAAS Service.• Used AWS extensively to check the reasons for failure of the tests and tried to make the process robust by debugging them.",
+            "description_html": "• Implementation of various API Tests for the team to ensure smooth functionality of the APIs for ADCAAS Service.• Re-wrote the unit tests to test out the specific functionalities like agent profile creation for ADCAAS Service.• Used AWS extensively to check the reasons for failure of the tests and tried to make the process robust by debugging them. <!---->",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Citrix",
+            "company_id": "citrix",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "AI Fellow",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "• Implementation of horvod based neural network based on distributed training in AWS Sagemaker to train the neural networks on a discounted basis by usage of spot instances. Managed to reduce costs by upto 69.9% on cifar dataset.• Application of several Image Processing Algorithms (basic) on SpaceNet dataset.• Application of SVM and UNet based architecture for land boundary detection. Benchmarking was done on spacenet dataset only.",
+            "description_html": "• Implementation of horvod based neural network based on distributed training in AWS Sagemaker to train the neural networks on a discounted basis by usage of spot instances. Managed to reduce costs by upto 69.9% on cifar dataset.• Application of several Image Processing Algorithms (basic) on SpaceNet dataset.• Application of SVM and UNet based architecture for land boundary detection. Benchmarking was done on spacenet dataset only. <!---->",
+            "duration": "Nov 2020 Apr 2021 6 months",
+            "start_date": "Nov 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "6 months",
+            "company": "CropIn Technology",
+            "company_id": "cropin-technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "1 year 9 months",
+            "positions": [
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Jul 2020 - Apr 2021 10 months",
+                    "description": "• Heading the Core Organizing Team to successfully conduct Kshitij - 2021, first ever conducted technomanagement fest in a virtual mode.• Managed the fund budget and coordinated with administration to successfully disperse the prize money to the participants.• Supervised a team of 28 Core Team Members to successfully ensure the smooth functioning of the syposium.",
+                    "duration": "Jul 2020 Apr 2021 10 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "10 months",
+                    "title": "Finance Head and Website Coordinator",
+                    "description_html": "• Heading the Core Organizing Team to successfully conduct Kshitij - 2021, first ever conducted technomanagement fest in a virtual mode.<br>• Managed the fund budget and coordinated with administration to successfully disperse the prize money to the participants.<br>• Supervised a team of 28 Core Team Members to successfully ensure the smooth functioning of the syposium. <!---->"
+                },
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Aug 2019 - Jul 2020 1 year",
+                    "description": "• Member of the Core Organizing Team responsible for handling Publicity, Corporate and Alumni relations with FTR Accommodation.• Raised a total alumni funding of INR 3.1 lacs from the regions of Mumbai, Kolkata and Pune for the technical symposium with 8.2% YoY.• Associated with Wildcraft as an exclusive Styling and Sporting Partner for Kshitij 2020.",
+                    "duration": "Aug 2019 Jul 2020 1 year",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year",
+                    "title": "Core Team Member",
+                    "description_html": "• Member of the Core Organizing Team responsible for handling Publicity, Corporate and Alumni relations with FTR Accommodation.<br>• Raised a total alumni funding of INR 3.1 lacs from the regions of Mumbai, Kolkata and Pune for the technical symposium with 8.2% YoY.<br>• Associated with Wildcraft as an exclusive Styling and Sporting Partner for Kshitij 2020. <!---->"
+                }
+            ],
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Chennai, Tamil Nadu, India",
+            "description": "Univariate Timeseries analysis using Machine Learning:• Improved the percentage accuracy of the LSTM model by over 18% using the Root-Mean-Squared-Error (RMSE) as performance metric.• Used statistical models like STL Decomposition, X11 Decomposition to understand the fundamentals of time series forecasting.• Performed an in depth analysis on the working of an LSTM model and its hyperparameters on a time series dataset.• Created a univariate time series model using LSTM and fine tuned the base model to achieve consistent forecasting results on the dataset.",
+            "description_html": "Univariate Timeseries analysis using Machine Learning:• Improved the percentage accuracy of the LSTM model by over 18% using the Root-Mean-Squared-Error (RMSE) as performance metric.• Used statistical models like STL Decomposition, X11 Decomposition to understand the fundamentals of time series forecasting.• Performed an in depth analysis on the working of an LSTM model and its hyperparameters on a time series dataset.• Created a univariate time series model using LSTM and fine tuned the base model to achieve consistent forecasting results on the dataset.",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "GeakMinds, Inc",
+            "company_id": "geakminds-inc",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Industrial and Systems Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: NSO Volleyball Second Senate Member, Nehru Hall of Residence",
+            "description_html": "Activities and Societies: NSO Volleyball Second Senate Member, Nehru Hall of Residence",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Zomato",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Neural Network Training using Genetic Algorithms | Term Project \",\"start_date\":\"Mar 2020\",\"end_date\":\"May 2020\",\"description\":\"• Utilised the conventional genetic algorithms to train a neural networks by learning the best hyperparamters• Deployed Tournament Selection, Roulette-wheel Selection, Cross-over and Mutation to select the parameters for the next generation• Obtained a loss of 0.229 compared to the loss of 0.321 using the conventional training methods for the neural networks\"}]",
+    "honors_and_awards": null
+}

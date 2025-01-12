@@ -1,0 +1,52 @@
+{
+    "city": "Noida, Uttar Pradesh, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021Credential ID UC-f021de12-56a1-4e78-8e12-155a9d2698a9See credential",
+            "subtitle": "Udemy",
+            "title": "Python for Data Science and Machine Learning Bootcamp"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 4H6YPELZ2DZPSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID FPPUD762HT28See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning | Andrew NG"
+        }
+    ],
+    "current_company_name": "Salesforce",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "2nd position, Kharagpur Data Science Hackathon 2021",
+            "publication": "RedBus",
+            "date": "2022-01-01T00:00:00.000Z",
+            "description": "1. Secured second position in KDSH 2021 among 3000+ teams from universities all over India 2. Proposed a solution for the identification and classification of bus operators under price leaders, price followers, and independent price-setters, given past time-series data of prices for various operators 3. Applied Granger's causality and TLCC(Time lagged cross-correlation) techniques to find causality correlations among the bus operators and achieved concrete conclusions regarding the… Show more"
+        },
+        {
+            "title": "National Finalist, Grid 2.0 Robotics Challenge",
+            "publication": "Flipkart",
+            "date": "2020-10-01T00:00:00.000Z",
+            "description": "1. Qualified as Top-9 National-Level finalist among 6000+ teams from universities all over India 2. Proposed the design and simulation for an Autonomous Stair Climbing Robot for it to be operated in warehouses 3. Designed a Load-bearing Robot capable of staircase identification, obstacle avoidance & autonomous stair traversal 4. Performed staircase identification using YOLO (You-Only-Look-Once) Object detection algorithm via stereo-camera attached to the robot 5. Handled Landmark… Show more"
+        }
+    ]
+}

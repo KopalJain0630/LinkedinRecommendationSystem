@@ -1,0 +1,76 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Xavier Institute of Management",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2017",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2017",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2013",
+            "subtitle": "Association Of Mutual Funds In India",
+            "title": "AMFI"
+        }
+    ],
+    "current_company_name": "Credin",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Hindustan Unilever Ltd-Brand Activation of Brook Bond Sehatmand Tea\",\"start_date\":\"Aug 2011\",\"end_date\":\"Oct 2011\",\"description\":\"Project leader for brand activation, increasing awareness and mapping customer perception of Brooke Bond – ‘Sehatmand Tea’ in 50 villages of Cuttack and Khurda districts of Orissa in 2011\"},{},{},{},{},{},{},{},{\"title\":\"Mahindra & Mahindra (FES)-Competitor Analysis & Feasibility Study\",\"start_date\":\"Feb 2011\",\"end_date\":\"Apr 2011\",\"description\":\"Worked as a project leader which involved the study of competitors of Mahindra Tractors as well as feasibility analysis for Yuvraj-215; Mahindra Mini Tractor, in 14 districts of orissa.\"},{},{},{},{},{},{\"title\":\"Mahindra & Mahindra(FES)-Measuring customer satisfaction index of existing customers & importance of referral value\",\"start_date\":\"Sep 2010\",\"end_date\":\"Oct 2010\",\"description\":\"Measuring customer satisfaction index of existing customers of Mahindra and importance of referral value of existing customers.\"},{},{},{\"title\":\"Uninor Mobile - Analysis of customer expenses on mobile as part of Gramotsava 2010 - The Rural Marketing Fair\",\"start_date\":\"Sep 2010\",\"end_date\":\"Oct 2010\",\"description\":\"The project involved mapping the share of expenditure on mobile services in total household expenditure, and mapping the share of Value Added Services in Cuttack and Puri districts of Orissa in 2010\"},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Investment Throughput Contest",
+            "publication": "Citibank N.A.",
+            "date": "2015-08-01T00:00:00.000Z",
+            "description": "Winner of Investment Throughput Contest for Year 2015 (May-July)"
+        },
+        {
+            "title": "Shooting Star",
+            "publication": "Citibank N.A.",
+            "date": "2014-10-01T00:00:00.000Z",
+            "description": "Shooting Star for year 2014"
+        },
+        {
+            "title": "B-Plan Competition",
+            "publication": "Department of Management Studies, IIT-Delhi",
+            "date": "2012-01-01T00:00:00.000Z",
+            "description": "Secured the third position in the National CSR based B-Plan Competition, \"Gram-Agragaman\", organized by Department of Management Studies, IIT-Delhi"
+        }
+    ]
+}

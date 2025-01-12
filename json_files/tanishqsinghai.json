@@ -1,0 +1,460 @@
+{
+    "id": "tanishqsinghai",
+    "name": "Tanishq Singhai",
+    "city": "Bhopal, Madhya Pradesh, India",
+    "country_code": "IN",
+    "position": "SSE @Pharmeasy | NIT Bhopal CSE'22",
+    "about": "I'm a software engineer with a focus on building intuitive and efficient software. My current project involves building the next-generation Thyrocare portal's frontend using React and Typescript. I've also gained quite some experience in Android and API creation. I have a strong foundation in data structures, algorithms, DBMS, and OOP, which enables me to deliver scalable and maintainable solutions.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "PharmEasy",
+        "company_id": "pharmeasy",
+        "title": "SSE @Pharmeasy | NIT Bhopal CSE'22"
+    },
+    "experience": [
+        {
+            "title": "PharmEasy",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "PharmEasy",
+                    "meta": "May 2024 - Present 8 months",
+                    "duration": "May 2024 - Present 8 months",
+                    "start_date": "May 2024",
+                    "end_date": "Present",
+                    "duration_short": "8 months",
+                    "title": "Senior Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "PharmEasy",
+                    "meta": "Jun 2022 - May 2024 2 years",
+                    "description": "I'm working on building the next-generation ThyroNXT/Lab Portal front end using React and Typescript. I've also tackled various tasks involving Android, Spring Boot, and API creation.",
+                    "duration": "Jun 2022 May 2024 2 years",
+                    "start_date": "Jun 2022",
+                    "end_date": "May 2024",
+                    "duration_short": "2 years",
+                    "title": "Software Engineer",
+                    "description_html": "I'm working on building the next-generation ThyroNXT/Lab Portal front end using React and Typescript. I've also tackled various tasks involving Android, Spring Boot, and API creation. <!---->"
+                },
+                {
+                    "subtitle": "PharmEasy",
+                    "meta": "Jan 2022 - Jun 2022 6 months",
+                    "description": "• Responsible for developing various robust UI components using ReactJS.• Developed CRUD API for helping doctors by providing them with the feature to customize and add new templates using the Java SpringBoot framework.",
+                    "duration": "Jan 2022 Jun 2022 6 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Jun 2022",
+                    "duration_short": "6 months",
+                    "title": "SDE Intern (Docon)",
+                    "description_html": "• Responsible for developing various robust UI components using ReactJS.<br>• Developed CRUD API for helping doctors by providing them with the feature to customize and add new templates using the Java SpringBoot framework. <!---->"
+                }
+            ],
+            "company": "PharmEasy",
+            "company_id": "pharmeasy",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Training and Placement Cell",
+            "location": "Bhopal, Madhya Pradesh, India",
+            "description": "Responsible for coordinating the recruitment process with HR and inviting organizations for campus placement drives.",
+            "description_html": "Responsible for coordinating the recruitment process with HR and inviting organizations for campus placement drives. <!---->",
+            "duration": "Jul 2021 Jan 2022 7 months",
+            "start_date": "Jul 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "7 months",
+            "company": "Maulana Azad National Institute of Technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Learned about various testing strategies and its implementation. • Build test/regression suits for different microservices in an AI module and implemented them in Cypress.",
+            "description_html": "• Learned about various testing strategies and its implementation. • Build test/regression suits for different microservices in an AI module and implemented them in Cypress. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "GEP Worldwide",
+            "company_id": "gep-worldwide",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Development Intern",
+            "description": "As a part of the Graduate Rotational Internship Program (GRIP), I worked on Social media integration and implemented the login and signup functionality on the web app.",
+            "description_html": "As a part of the Graduate Rotational Internship Program (GRIP), I worked on Social media integration and implemented the login and signup functionality on the web app. <!---->",
+            "duration": "Nov 2020 Nov 2020 1 month",
+            "start_date": "Nov 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "1 month",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "description": "Part of the summer cohort wherein I worked on different real life problem-solving techniques and learned how to solve them using conventional DS/Algo techniques.",
+            "description_html": "Part of the summer cohort wherein I worked on different real life problem-solving techniques and learned how to solve them using conventional DS/Algo techniques. <!---->",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Demux Academy",
+            "company_id": "demux-academy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Virtual Internship Experience",
+            "description": "Completed practical task modules in :• Establishing Financial Data Feeds• Frontend Web Development• Data Visualization with Perspective",
+            "description_html": "Completed practical task modules in :• Establishing Financial Data Feeds• Frontend Web Development• Data Visualization with Perspective <!---->",
+            "duration": "May 2020 May 2020 1 month",
+            "start_date": "May 2020",
+            "end_date": "May 2020",
+            "duration_short": "1 month",
+            "company": "JPMorgan Chase & Co.",
+            "company_id": "jpmorganchase",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sachin Gupta",
+            "about": "Software Engineer 2 at Celigo | CSM® - Certified Scrum Master | NIT Bhopal",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitin Gupta",
+            "about": "SE@TCS",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Saivennela Police",
+            "about": "Associate consultant at Siemens Digital Industries Software|Teamcenter Solution Development|Product Lifecycle management|Global Delivery Network|Siemens Scholar & Ece Graduate_2019-2023",
+            "location": "Secunderābād"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishika Agarwal",
+            "about": "Software Development Engineer in Test at Motorq | Ex-MTS @VMware",
+            "location": "Jalandhar"
+        },
+        {
+            "profile_link": "",
+            "name": "vishad khemasara",
+            "about": "SSE at ALICE",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Tejaswi .",
+            "about": "Tech Analyst at ICICI Bank | Ex ASE at Cogoport | Ex SDE Intern Samsung SDS",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Poulami Roy",
+            "about": "CSA @Amazon || Former TSE Intern @Microsoft",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreeja Kapoor",
+            "about": "Data Analyst Intern @ Intermountain Health | Data Analyst | Data Visualization | Power BI | Tableau | Domo | Python Developer | Master of Science in Information Systems",
+            "location": "Salt Lake City, UT"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivanshi Singh",
+            "about": "Software Engineer at Synoptek | Business Intelligence",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Rai",
+            "about": null,
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Lakshay Goel",
+            "about": "🌟 Master of Global Business | Digital Business Management | Sales Strategist 🚀 | Proven Track Record of Exceeding Targets",
+            "location": "Meerut"
+        },
+        {
+            "profile_link": "",
+            "name": "Rutuja Pawar",
+            "about": "Software Engineer @ Cataleya Pvt Ltd, Pune",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Hitesh Vishnoi",
+            "about": "SDE-1 at Infinity Learn|| ECE'23 NIT Bhopal || Competitive Programmer || Code and Content || Max 5 ⭐ at Codechef || Max Expert (1648) at Codeforces ll 1100+ on Leetcode || GFG Institute Rank 6",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Pallavi Thukral",
+            "about": "SDE @BNY || Gold Medalist || PhonePe Tech Scholar",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Dhawan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Pratap Singh",
+            "about": "Software Engineer @Samsung Noida | Ex-R&D Engineer Intern @Samsung | SIH 2020 Winner | CSE HBTU'22",
+            "location": "Kanpur Nagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Megha Sharma",
+            "about": "Associate Data Engineer at Shell",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Krishna Singh",
+            "about": "Data Engineer @AtkinsRealis | Ex-LTIMindtree | 8xMicrosoft Certified | DP-203 | AZ-900 | DP-600 | DP-900",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gauri Bansal",
+            "about": "Co-Convenor at IPR Society, Campus Law Centre || Law- CLC || HPAIR II Dexterity Global",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Lubna Ghazal",
+            "about": "Data Operations Associate @ Instabase | Berlin School of Business and Innovation-BSBI | MBA | Lovely Professional University",
+            "location": "Berlin"
+        }
+    ],
+    "educations_details": "Maulana Azad National Institute of Technology",
+    "education": [
+        {
+            "title": "Maulana Azad National Institute of Technology",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Aditya Convent School, Jabalpur",
+            "degree": "12th",
+            "field": "PCM",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St Paul's School, Katni",
+            "degree": "10th",
+            "field": "10/10",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Analysis and Design of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Angular Training Course by Uplatz Training\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Complete Web Development Bootcamp\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Data Science\"},{\"subtitle\":\"-\",\"title\":\"Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Database Management System\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Design\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Dec 2022Credential ID cert_dxpgr9n7See credential",
+            "subtitle": "Amigoscode",
+            "title": "Getting started with Spring Boot"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID UC-6f00bda4-4c7c-4da0-a172-b601a7444696See credential",
+            "subtitle": "Udemy",
+            "title": "React - The Complete Guide"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID UC-939d55e5-beef-4b4e-94ff-b1291e23ca5dSee credential",
+            "subtitle": "Udemy",
+            "title": "Angular Course "
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "Jul 2020 - Apr 2022 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2022",
+            "info": "Successfully conducted central India's largest quizzing event ABHIGYAN'20 in which more than 5000 students registered across the country.",
+            "start_date": "Jul 2020",
+            "subtitle": "Quizzers' Club MANIT",
+            "title": "Social Media Head"
+        },
+        {
+            "duration": "Jun 2020 - Dec 2020 · 7 months",
+            "duration_short": "7 months",
+            "end_date": "Dec 2020",
+            "start_date": "Jun 2020",
+            "subtitle": "GeeksforGeeks",
+            "title": "Campus Ambassador"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jul 2019 - Jul 2020 · 1 year 1 month",
+            "duration_short": "1 year 1 month",
+            "end_date": "Jul 2020",
+            "info": "Brought sponsorship worth 10K from different organizations.",
+            "start_date": "Jul 2019",
+            "subtitle": "Quizzers' Club MANIT",
+            "title": "Sponsorship Executive"
+        }
+    ],
+    "followers": 16769.0,
+    "connections": 500.0,
+    "current_company_company_id": "pharmeasy",
+    "current_company_name": "PharmEasy",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Secret Wall\",\"start_date\":\"Apr 2020\",\"end_date\":\"Present\",\"description\":\"• In this app, one can share his/her views, thoughts or secrets anonymously with others.• Technologies/Languages Used : HTML, CSS, JavaScript, Bootstrap, Express.js, Node.js\"},{\"title\":\"WikiSearch (Wikipedia searching tool)\",\"start_date\":\"Oct 2020\",\"end_date\":\"Oct 2020\",\"description\":\"• Users can type in a search box and view the resulting Wikipedia entries.• Key Learning: To fetch data from an outside API• Technologies/Languages Used : HTML, CSS, Angular, TypeScript, WikipediaAPI\"}]",
+    "organizations": [
+        {
+            "title": "Training and Placement Cell, MANIT",
+            "membership_type": "Branch Coordinator",
+            "start_date": "Jul 2021",
+            "end_date": "Present",
+            "membership_number": null
+        }
+    ],
+    "location": "Bhopal",
+    "linkedin_id": "tanishqsinghai",
+    "activity": [
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "राधे-राधे! ✨ Grateful and Honored! ✨ Today marks a significant milestone in my journey at Samsung R&D Institute India - Bangalore, as I was…",
+            "img": "",
+            "id": "7277016528380698624"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "If you want to be a great manager, You have to defend your people - From: ↳Toxic colleagues and cultures ↳Micromanagement ↳Burnout ↳Constant and…",
+            "img": "",
+            "id": "7275858733774118912"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "Hello world-- My team at Postman is changing how APIs are distributed and consumed by both humans and machines. I'm hiring Senior and Staff SDEs in…",
+            "img": "",
+            "id": "7274962407167344640"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "Exciting Opportunities Airtel Payments Bank ! We are expanding our Digital team at Airtel Payments Bank and are excited to announce a hiring event…",
+            "img": "",
+            "id": "7276917162437394432"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "Hi Connections, My team is hiring for SMTS role in bangalore location. Minimum experience requirement is 5 years. It's a backend engineer role…",
+            "img": "",
+            "id": "7275797082894909440"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "Swiggy is Actively Hiring across Tech! 🚀✨ We’re looking for talented individuals to join our team in the following roles: Software Dev Engineer I -…",
+            "img": "",
+            "id": "7274656176225599489"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "🎉 Thrilled to share that I've started my journey with Zepto as Head of IT and Infrastructure! A huge shoutout to the incredible HR team, Vanisree D…",
+            "img": "",
+            "id": "7275807974990729216"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "🌟 Big cheers and a warm Rippling welcome to Divyansh . 🎉!!! Divyansh . is joining the Global HRIS Foundations squad under the leadership of…",
+            "img": "",
+            "id": "7274338056080375809"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "I’m thrilled to share that I've relocated from Bangalore to Sunnyvale, California, while continuing my role as a Senior Software Engineer at…",
+            "img": "",
+            "id": "7275950634988695552"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "I attended 10+ sessions at KubeCon, but Flipkart's session on “And The Service Is Now Part of The Mesh!” by Purushotham Malipedda and I.V. Prasad…",
+            "img": "",
+            "id": "7275147804086284288"
+        },
+        {
+            "interaction": "Liked by Tanishq Singhai",
+            "link": "",
+            "title": "After nearly three incredible years at PhonePe, I have decided to pursue a new opportunity. I’m excited to share that I’m starting a new position as…",
+            "img": "",
+            "id": "7275056231071797248"
+        }
+    ],
+    "linkedin_num_id": 712228999.0,
+    "honors_and_awards": [
+        {
+            "title": "Young Jain Award 2018",
+            "publication": "Maitree Samooh",
+            "date": "2018-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Academic Excellence",
+            "publication": "Momentum",
+            "date": "2018-07-01T00:00:00.000Z",
+            "description": "JEE MAINS'2018 AIR under 10K."
+        },
+        {
+            "title": "Young Jaina Award",
+            "publication": "Maitree Samooh",
+            "date": "2016-10-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

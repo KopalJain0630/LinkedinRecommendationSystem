@@ -1,0 +1,417 @@
+{
+    "id": "sahilnaik2712",
+    "name": "Sahil Naik",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Consultant at Mercedes-Benz Research and Development India | Backend Engineer | Java | Spring Boot | Microservices | RESTful APIs |  Azure | Docker | Kubernetes | ETL Development | Apache Spark | Agile Practices",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Mercedes-Benz Research and Development India",
+        "company_id": "mercedes-benz-research-and-development-india",
+        "title": "Software Consultant at Mercedes-Benz Research and Development India | Backend Engineer | Java | Spring Boot | Microservices | RESTful APIs |  Azure | Docker | Kubernetes | ETL Development | Apache Spark | Agile Practices"
+    },
+    "experience": [
+        {
+            "title": "Mercedes-Benz Research and Development India",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Mercedes-Benz Research and Development India",
+                    "meta": "Apr 2023 - Present 1 year 9 months",
+                    "description": "• Working on the modernization of TEO, a key component of the dialog application handling millions of requests per day, using core Java and microservices architecture to enhance system performance and reliability.• Developed and maintained REST APIs and microservices for the Dia4U project, resulting in up to 80%improvement in user efficiency.• Designed and implemented microservices and ETL processes, optimizing data handling workflows and reducing processing time by up to 60%.• Spearheaded the migration of Daily Jobs from Spark to Airflow using Python, improving ETL monitoring and execution reliability by up to 3x.• Reduced ETL execution time from 7 hours to 1.5 hours by implementing pivotal changes in microservices and ETL processes, achieving a 4x increase in processing efficiency.• Resolved complex customer queries, improving customer satisfaction and operational efficiency, resulting in a 30% increase in the customer base.• Tech stack: Java, Spring Boot, Microservices, REST APIs, Cassandra, Spark, Kubernetes, Docker,Airflow, GitHub Actions, PostgreSQL, Azure, Kafka.",
+                    "duration": "Apr 2023 - Present 1 year 9 months",
+                    "start_date": "Apr 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 9 months",
+                    "title": "Software Consultant",
+                    "description_html": "• Working on the modernization of TEO, a key component of the dialog application handling millions of requests per day, using core Java and microservices architecture to enhance system performance and reliability.<br>• Developed and maintained REST APIs and microservices for the Dia4U project, resulting in up to 80%<br>improvement in user efficiency.<br>• Designed and implemented microservices and ETL processes, optimizing data handling workflows and reducing processing time by up to 60%.<br>• Spearheaded the migration of Daily Jobs from Spark to Airflow using Python, improving ETL monitoring and execution reliability by up to 3x.<br>• Reduced ETL execution time from 7 hours to 1.5 hours by implementing pivotal changes in microservices and ETL processes, achieving a 4x increase in processing efficiency.<br>• Resolved complex customer queries, improving customer satisfaction and operational efficiency, resulting in a 30% increase in the customer base.<br>• Tech stack: Java, Spring Boot, Microservices, REST APIs, Cassandra, Spark, Kubernetes, Docker,<br>Airflow, GitHub Actions, PostgreSQL, Azure, Kafka."
+                },
+                {
+                    "subtitle": "Mercedes-Benz Research and Development India",
+                    "meta": "Aug 2022 - Mar 2023 8 months",
+                    "description": "• Contributed to the DIA4U Project by developing a PDM Reporting microservice, streamlining carline reports for business users.• Managed and resolved operational dependencies in microservices, incorporating API monitoring and alerts using Grafana.• Addressed and resolved customer queries, improving API performance and reliability.• Tech stack Java, Spring Boot, Hibernate, Mockito, JUnit, Cassandra, Spark, Kubernetes, Docker,Grafana, Jenkins.",
+                    "duration": "Aug 2022 Mar 2023 8 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Mar 2023",
+                    "duration_short": "8 months",
+                    "title": "Graduate Engineering Trainee",
+                    "description_html": "• Contributed to the DIA4U Project by developing a PDM Reporting microservice, streamlining carline reports for business users.<br>• Managed and resolved operational dependencies in microservices, incorporating API monitoring and alerts using Grafana.<br>• Addressed and resolved customer queries, improving API performance and reliability.<br>• Tech stack Java, Spring Boot, Hibernate, Mockito, JUnit, Cassandra, Spark, Kubernetes, Docker,<br>Grafana, Jenkins. <!---->"
+                },
+                {
+                    "subtitle": "Mercedes-Benz Research and Development India",
+                    "meta": "Mar 2022 - Jul 2022 5 months",
+                    "description": "• Developed REST APIs and managed microservices for the Common Data Platform (CDP) Project.• Handled and mitigated software vulnerabilities, ensuring robust and secure API development.• Tech stack: Java, Spring Boot, Hibernate, Mockito, JUnit, Hasura Graphql, PostgreSQL, Docker,Jenkins.",
+                    "duration": "Mar 2022 Jul 2022 5 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "Jul 2022",
+                    "duration_short": "5 months",
+                    "title": "Student Intern",
+                    "description_html": "• Developed REST APIs and managed microservices for the Common Data Platform (CDP) Project.<br>• Handled and mitigated software vulnerabilities, ensuring robust and secure API development.<br>• Tech stack: Java, Spring Boot, Hibernate, Mockito, JUnit, Hasura Graphql, PostgreSQL, Docker,<br>Jenkins. <!---->"
+                }
+            ],
+            "company": "Mercedes-Benz Research and Development India",
+            "company_id": "mercedes-benz-research-and-development-india",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product Manager",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Led product development as Acting Head of Product, guiding PMs and designers through the Product Life Cycle.• Developed internal and student-facing products, improving operational efficiency and learning outcomes by 40%.• Tools Used Jira, Asana, Balsamiq.",
+            "description_html": "• Led product development as Acting Head of Product, guiding PMs and designers through the Product Life Cycle.• Developed internal and student-facing products, improving operational efficiency and learning outcomes by 40%.• Tools Used Jira, Asana, Balsamiq. <!---->",
+            "duration": "May 2021 Aug 2021 4 months",
+            "start_date": "May 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "4 months",
+            "company": "7Classes",
+            "company_id": "instaprepsai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Developed backend APIs for NSREEM Software’s video-sharing app and e-commerce website using Node.js, MongoDB, and Express.js.• Addressed and resolved customer queries, enhancing application performance and user satisfaction.",
+            "description_html": "• Developed backend APIs for NSREEM Software’s video-sharing app and e-commerce website using Node.js, MongoDB, and Express.js.• Addressed and resolved customer queries, enhancing application performance and user satisfaction. <!---->",
+            "duration": "Oct 2020 Dec 2020 3 months",
+            "start_date": "Oct 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "3 months",
+            "company": "First Principle Consultancy Services",
+            "company_id": "first-principle-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Developed backend APIs for NSREEM Software’s video-sharing app and e-commerce website using Node.js, MongoDB, and Express.js.• Addressed and resolved customer queries, enhancing application performance and user satisfaction.",
+            "description_html": "• Developed backend APIs for NSREEM Software’s video-sharing app and e-commerce website using Node.js, MongoDB, and Express.js.• Addressed and resolved customer queries, enhancing application performance and user satisfaction. <!---->",
+            "duration": "Oct 2020 Dec 2020 3 months",
+            "start_date": "Oct 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "3 months",
+            "company": "NSREEM SOFTWARES",
+            "company_id": "nsreem",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Red Hat Open Source Contest",
+            "description": "•  Developed a Thorntail and Quarkus Application using Maven.•  Worked on converting Microservice-Session Application from Thorntail to Quarkus and Contributed to ECA after Completion",
+            "description_html": "• Developed a Thorntail and Quarkus Application using Maven.• Worked on converting Microservice-Session Application from Thorntail to Quarkus and Contributed to ECA after Completion <!---->",
+            "duration": "Apr 2020 Jul 2020 4 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "4 months",
+            "company": "Red Hat",
+            "company_id": "red-hat",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research And Development Intern",
+            "location": "India",
+            "description_html": null,
+            "duration": "Apr 2020 May 2020 2 months",
+            "start_date": "Apr 2020",
+            "end_date": "May 2020",
+            "duration_short": "2 months",
+            "company": "Metrolapp",
+            "company_id": "metrolapp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Gazal Agarwala",
+            "about": null,
+            "location": "San Jose, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Vinayak Sachdeva",
+            "about": "AIR 45 GATE | SDE 3 at CodeNation | Gold Medalist, MNIT Jaipur",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyansh Parashar",
+            "about": "Data Engineer | SQL | Python | Azure | Spark | Hadoop | Hive | Databricks |",
+            "location": "Dehradun"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Rana",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Venkatesh Babu AR",
+            "about": null,
+            "location": "Sunnyvale, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Riya Kumar",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rachit Sethi",
+            "about": null,
+            "location": "Greater Delhi Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Muskan Garg",
+            "about": "Software Engineer at Google | NSIT'21",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Chandresh Phirke",
+            "about": "SDE 3 at Zeta",
+            "location": "Greater Indore Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepanshu Saxena",
+            "about": null,
+            "location": "Noida"
+        }
+    ],
+    "educations_details": "SDM College of Engg & Tech , Dharwad",
+    "education": [
+        {
+            "title": "SDM College of Engg & Tech , Dharwad",
+            "degree": "Bachelor of Engineering - BE",
+            "field": "computer science and engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Computer Orgranisation\"},{\"subtitle\":\"-\",\"title\":\"Data Science\"},{\"subtitle\":\"-\",\"title\":\"Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"OOPS In Java\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Kannada "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Marathi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2024Credential ID EE7A637725127831See credential",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified: Azure Fundamentals"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Data Analysis with Python "
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Data Visualization with Python"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID #1068-17874457See credential",
+            "subtitle": "SoloLearn",
+            "title": "Java Tutorial Course"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID TRVQQ2YZE85QSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Mar 2020See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Python 101 for Data Science"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID eeSU-4TpHSee credential",
+            "subtitle": "Microsoft",
+            "title": "Introduction to Programming Using Python"
+        }
+    ],
+    "recommendations": [
+        "Martin Štefanko “I mentored Sahil for his participation in Red Hat's Open Source contest, where he converted an application from the legacy framework Thorntail to Quarkus. Sahil had very little experience when he started, but he demonstrated enormous dedication and learned many different technologies from this experience. Except for Thorntail and Quarkus, he also studied Maven and Java. After the project, he was ready for a junior Java engineering position. Sahil is a dedicated software engineer who likes to learn new things and doesn't hesitate to take on even harder challenges.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Apr 2020 - Dec 2020 · 9 months",
+            "duration_short": "9 months",
+            "end_date": "Dec 2020",
+            "start_date": "Apr 2020",
+            "subtitle": "ClassVisa",
+            "title": "Digital Marketing"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jul 2020 - Dec 2020 · 6 months",
+            "duration_short": "6 months",
+            "end_date": "Dec 2020",
+            "start_date": "Jul 2020",
+            "subtitle": "Harvard Business Review",
+            "title": "HBR Ascend Select Member"
+        },
+        {
+            "cause": "Education",
+            "duration": "Jul 2020 - Sep 2020 · 3 months",
+            "duration_short": "3 months",
+            "end_date": "Sep 2020",
+            "start_date": "Jul 2020",
+            "subtitle": "TheOpenCode Foundation",
+            "title": "Software Engineer"
+        }
+    ],
+    "followers": 7355.0,
+    "connections": 500.0,
+    "current_company_company_id": "mercedes-benz-research-and-development-india",
+    "current_company_name": "Mercedes-Benz Research and Development India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "sahilnaik2712",
+    "activity": [
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "11 Years, A Journey to Remember Today marks my last day at Mercedes-Benz Research and Development India and as I look back on the past 11 years, I…",
+            "img": "",
+            "id": "7277195894670639104"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "Excited to share a proud milestone in my journey at JPMorganChase I’m honored to receive the Q3 Catalyst Award, celebrating innovation and…",
+            "img": "",
+            "id": "7277703477995147264"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "Wishing you all a merry Christmas 🌲❄️& a Happy New Year 2025! 🍾 Mitsubishi Fuso Truck and Bus Corporation Daimler Truck Asia Daimler Truck AG…",
+            "img": "",
+            "id": "7277287467659968512"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "Last month marked a defining moment in my journey at Daimler Truck Asia when our Daimler Truck AG CEO, Karin Rådström , visited the DTA design…",
+            "img": "",
+            "id": "7276809573833842688"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "Celebrating leadership that inspires! 🏆 Heartiest congratulations to our Managing Director and CEO, Manu Saale on being elected as a Fellow of the…",
+            "img": "",
+            "id": "7276803705012723714"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "I got offers from Google, Intuit, Twitter, LinkedIn and many more. ✨ But what was the key to all this? 🤔 You’re probably thinking it’s DSA or…",
+            "img": "",
+            "id": "7276461450997518337"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "🌟 Thrilled to Share a Big Milestone! 🌟 I’m incredibly excited to announce that our team has won the Hackutsav 2.0 AI 24-Hours Marathon at…",
+            "img": "",
+            "id": "7274754489100701696"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "🎉 Just earned my Microsoft Certified: Azure Fundamentals! 🚀 Excited to continue building my skills and knowledge in cloud computing. Looking…",
+            "img": "",
+            "id": "7275750617166295040"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "I am very sad to see dog meat on the streets veitnam. If I had known this, I would never have come here😔",
+            "img": "",
+            "id": "7274681870825459713"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "Flipkart is gearing up for an IPO. Mondelez is eyeing Hershey's. Alpha Wave Global has offered over $1 billion for a minority stake in…",
+            "img": "",
+            "id": "7272808748434223105"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "On 2-Dec-24, I completed 22 years with Mercedes-Benz. Incidentally, it also happens to be my father’s birthday ! Like most of yours, my father also…",
+            "img": "",
+            "id": "7272138920107085826"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "I'm thrilled to share that I have been promoted to Advanced App Engineering Analyst at Accenture! It's been an incredible journey so far, and I'm…",
+            "img": "",
+            "id": "7272291379131625472"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "Celebrating milestone 25 years@infosys #infosys #infosyspune",
+            "img": "",
+            "id": "7271453385063624704"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "Dear All, I completed my 10 fantastic years in MBRDI. I was very happy and excited to be part of service milestone award celebration. Time has gone…",
+            "img": "",
+            "id": "10"
+        },
+        {
+            "interaction": "Liked by Sahil Naik",
+            "link": "",
+            "title": "Quarkus has surpassed the 1,000 contributor milestone!",
+            "img": "",
+            "id": "7268355851344560128"
+        }
+    ],
+    "linkedin_num_id": 753786516.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

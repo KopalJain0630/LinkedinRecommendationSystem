@@ -1,0 +1,227 @@
+{
+    "id": "yuvraj-khanna-131259176",
+    "name": "yuvraj khanna",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Senior Software Engineer (Machine Learning) at Qualcomm",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Qualcomm",
+        "company_id": "qualcomm",
+        "title": "Senior Software Engineer (Machine Learning) at Qualcomm"
+    },
+    "experience": [
+        {
+            "title": "Senior Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Senior Software Engineer (Machine Learning) at Qualcomm",
+            "description_html": "Senior Software Engineer (Machine Learning) at Qualcomm <!---->",
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Qualcomm",
+            "company_id": "qualcomm",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Delhi, India",
+            "description": "Machine Learning EngineerProfessional Achievements:1. Led the development of a user proximity detection system using Wi-Fi signals, resulting in the award-winning \"Best Innovation Stellar Project Award\" in 2023.   - Pioneered data collection encryption algorithm design.   - Innovated signal processing-based data preprocessing pipeline development.   - Developed the end-to-end process, including deep learning model training, testing, and inference pipeline development.   - Deployed an on-device solution in C++ using TensorFlow.2. proposed the idea \"Human Activity Detection using Wi-Fi for Home Monitoring\" at the SRID Hackathon, where I served as the team leader. Our project was among 500 competing ideas and won the \"People's Choice Award\" at the SRI-Delhi Hackathon in 2022.3. Optimized mmWave motion detection services by designing a cost-effective, proprietary algorithm that directly utilizes raw sensor data, obviating the need for specialized microcontrollers and vendor chips.Awards:- Secured the \"People's Choice Award\" at the SRI-Delhi Hackathon in 2022.- Recognized with the \"Best Innovation Stellar Project Award\" in 2023.- Granted 3 patents (2 A1, A2).",
+            "description_html": "Machine Learning EngineerProfessional Achievements:1. Led the development of a user proximity detection system using Wi-Fi signals, resulting in the award-winning \"Best Innovation Stellar Project Award\" in 2023. - Pioneered data collection encryption algorithm design. - Innovated signal processing-based data preprocessing pipeline development. - Developed the end-to-end process, including deep learning model training, testing, and inference pipeline development. - Deployed an on-device solution in C++ using TensorFlow.2. proposed the idea \"Human Activity Detection using Wi-Fi for Home Monitoring\" at the SRID Hackathon, where I served as the team leader. Our project was among 500 competing ideas and won the \"People's Choice Award\" at the SRI-Delhi Hackathon in 2022.3. Optimized mmWave motion detection services by designing a cost-effective, proprietary algorithm that directly utilizes raw sensor data, obviating the need for specialized microcontrollers and vendor chips.Awards:- Secured the \"People's Choice Award\" at the SRI-Delhi Hackathon in 2022.- Recognized with the \"Best Innovation Stellar Project Award\" in 2023.- Granted 3 patents (2 A1, A2).",
+            "duration": "Jun 2022 Jun 2024 2 years 1 month",
+            "start_date": "Jun 2022",
+            "end_date": "Jun 2024",
+            "duration_short": "2 years 1 month",
+            "company": "Samsung R&D Institute India",
+            "company_id": "samsungrndindiabangalore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "India",
+            "description": "work1. Development of Acoustic Echo Cancellation Solution based on deep learning.  - Implementation of DTLN-AEC training & augmentation pipeline (  - Inference Pipeline Development for tflite module for deployment2. Development of Sound Event Detection Solution based on deep learning based Student-Teacher Model  - Model capable of training on Strongly labelled and weakly labelled data using student teacher architecture",
+            "description_html": "work1. Development of Acoustic Echo Cancellation Solution based on deep learning. - Implementation of DTLN-AEC training &amp; augmentation pipeline ( - Inference Pipeline Development for tflite module for deployment2. Development of Sound Event Detection Solution based on deep learning based Student-Teacher Model - Model capable of training on Strongly labelled and weakly labelled data using student teacher architecture <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Samsung R&D Institute India",
+            "company_id": "samsungrndindiabangalore",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": null,
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 438.0,
+    "connections": 439.0,
+    "current_company_company_id": "qualcomm",
+    "current_company_name": "Qualcomm",
+    "publications": "[{\"title\":\"A CNN With Multi-scale Convolution for Hyperspectral Image Classification using Target-Pixel-Orientation scheme\",\"subtitle\":\"IGARSS\",\"date\":\"July 12, 2021\",\"description\":\"Recently, CNN is a popular choice to handle the hyperspectral image classification challenges. In spite of having such large spectral information in Hyper-Spectral Image(s) (HSI), it creates a curse of dimensionality. Also, large spatial variability of spectral signature adds more difficulty in classification problem. Additionally, training a CNN in the end to end fashion with scarced training examples is another challenging and interesting problem. In this paper, a novel target-patch-orientation method is proposed to train a CNN based network. Also, we have introduced a hybrid of 3D-CNN and 2D-CNN based network architecture to implement band reduction and feature extraction methods, respectively. Experimental results show that our method outperforms the accuracies reported in the existing state of the art methods\"},{\"title\":\"From Supervised to Unsupervised Learning for Land Cover Analysis of Sentinel-2 Multispectral Images\",\"subtitle\":\"IGARSS\",\"date\":\"September 26, 2020\",\"description\":\"Sentinel-2 provides a large volume of the multi-spectral multi-resolution dataset. Training deep convolutional architecture with such a dataset is still a challenging task in land cover classification due to the absence of ground truth. Also, the selection of appropriate deep architecture for handling the Sentinel-2 dataset is another challenging task. In this paper, we propose a convolutional neural network (CNN) architecture to extract the information from various combinations of bands in Sentinel-2 imagery. We use a loss function, proposed in an earlier work, to train our model in an unsupervised manner. Recent advances in deep learning allow for transferring knowledge from one data set to another. Thus, in our study, we aim at analyzing the “transfer learning” capabilities of our proposed network to land cover classification in Sentinel-2 images. Pre-trained weights of a deep neural architecture, which is trained with very high-resolution optical satellite imagery from Aviris is transferred to a network of almost similar architecture for processing Sentinel-2 data. We used Salinas, a publicly available hyper-spectral dataset, to train this architecture in a supervised fashion and, finally, use transfer learning and fine-tuning on the architecture handling Sentinel-2 data for clustering. Experiments show that bands of 60m resolution have a positive combining effect with bands of 20m resolution for segregating waterbody, urban settlement, and tree canopies distinctly\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "yuvraj-khanna-131259176",
+    "activity": [
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Hey Connections! 👋 I’m diving into project-based learning, and I’d like to share my latest project: CityCalm - a React-based app for immersive…",
+            "img": "",
+            "id": "7267426549388206081"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "The infamous Untitled.ipynb, Untitled1.ipynb, ... Untitled-final-FINAL.ipynb workflow. I see it all the time with clients—it’s practically a rite of…",
+            "img": "",
+            "id": "7267333203059728384"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Ran into a batchmate after 6 years. Me: \"What are you up to these days?\" Him: \"I'm working at Uber.\" Me: \"Wow, man. What do you do there?\" Him:…",
+            "img": "",
+            "id": "6"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Interviews don’t determine if you’re qualified for the job; they assess if you might be a fit. Companies with high talent bars have a bias for false…",
+            "img": "",
+            "id": "7260665893964144640"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "It's wrong to force kids for a career let them choose what kind of engineer they want to become #college #parenting",
+            "img": "",
+            "id": "7217420034963345410"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "There's more than one way to invest in your future. Illustration by me 😊 --- P.S. I've spent thousands of hours making hundreds of daily visual…",
+            "img": "",
+            "id": "7215720854230380544"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Greetings everyone🎊 In this challenging job-hunting environment, I want to share some tips that helped me receive calls from recruiters on Naukri .…",
+            "img": "",
+            "id": "7209557256961499136"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Kids should be allowed to choose their career after completing engineering. #humour #engineering",
+            "img": "",
+            "id": "7200835681173016579"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Netflix CEO on why the company you work for is not your family 👇 \"The professional relationship is like a sports team. If you want to win a…",
+            "img": "",
+            "id": "7190590630375342081"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Yes, we can. Yes, we can build foundation models. Yes, we can build foundation models for India. Yes, we can train models on Indian languages &…",
+            "img": "",
+            "id": "7169268347560189953"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "\"No code\" is someone else's code. \"Cloud\" is someone else's servers. \"Machine Learning\" is just statistics on steroids. \"Artificial Intelligence\"…",
+            "img": "",
+            "id": "7171499093083545600"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "This is how we can hear sound from our head phone. Very interesting video #linkedin #ear #music #human",
+            "img": "",
+            "id": "7168258845956358144"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "LeetCode is the gym for software engineers. You hate every minute you're there but flex those problem-solving muscles on social media or in…",
+            "img": "",
+            "id": "7166326749272756225"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "I'm proud of being a job hopper. Moving from Amazon to Microsoft to Google, I jumped between 3 companies in 3 years and never looked back. In the…",
+            "img": "",
+            "id": "7165729386804002817"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Reading code helps you write better code. fact 💯 #coding #programming #softwareengineering #tech #techcareers",
+            "img": "",
+            "id": "7164524130011168768"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Prof. T K Bhattacharyya along with his research scholars Mr. Avik Seth and Ms. Lisa Sarkar of Department of Electronics and Electrical Communication…",
+            "img": "",
+            "id": "7146160693275209728"
+        },
+        {
+            "interaction": "Liked by yuvraj khanna",
+            "link": "",
+            "title": "Stumbling blocks can become stepping stones. Inspired by my friend, Corey Wilks, Psy.D. Illustrated by me 😊 #lessonslearned…",
+            "img": "",
+            "id": "7140007343940915200"
+        }
+    ],
+    "linkedin_num_id": 699337333.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

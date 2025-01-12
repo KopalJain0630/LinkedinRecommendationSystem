@@ -1,0 +1,382 @@
+{
+    "id": "yashwant26",
+    "name": "Yashwant Kumar Verma",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": "SWE @Moody's Analytics | Ex-Quant @Investech Solutions | Algo-Trader | IIT Kharagpur '23",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Moody's Analytics",
+        "company_id": "moodys",
+        "title": "SWE @Moody's Analytics | Ex-Quant @Investech Solutions | Algo-Trader | IIT Kharagpur '23"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "description_html": null,
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "Moody's Analytics",
+            "company_id": "moodys",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Ex: Quantitative Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description": "• Designed live trading strategies using Indicators like CPR, DMI+HalfTrend, PCR, etc. after improving their alphas• Created screener for tracking Active PCR, Future Price, and VWAP with both OIs using TrueData/Kite WebSocket API• Created GUI to track live Active Option Chain using TrueData API based on analytical formulae of BSM model• Drafted a live strategy for short strangle and adjustment on an intraday basis on the behavior of option pricing",
+            "description_html": "• Designed live trading strategies using Indicators like CPR, DMI+HalfTrend, PCR, etc. after improving their alphas• Created screener for tracking Active PCR, Future Price, and VWAP with both OIs using TrueData/Kite WebSocket API• Created GUI to track live Active Option Chain using TrueData API based on analytical formulae of BSM model• Drafted a live strategy for short strangle and adjustment on an intraday basis on the behavior of option pricing <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Investech Solutions",
+            "company_id": "investech-solutions",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Ex: Web Developer",
+            "location": "Rewa, Madhya Pradesh, India",
+            "description": "• Designed the web application using PHP as the backend framework with the help of HTML, CSS, and Bootstrap• Created a search engine capable of accessing food centers with various search filters with the autocomplete    suggestion feature and highlighting of the searched text in the output requested by the customer",
+            "description_html": "• Designed the web application using PHP as the backend framework with the help of HTML, CSS, and Bootstrap• Created a search engine capable of accessing food centers with various search filters with the autocomplete  suggestion feature and highlighting of the searched text in the output requested by the customer <!---->",
+            "duration": "Jun 2019 Jul 2019 2 months",
+            "start_date": "Jun 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "2 months",
+            "company": "Technolions",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Preet Sardhara",
+            "about": "Software Engineer II at Google | ex-sprinklr | ACM ICPC Asia-West Continent Finalist",
+            "location": "Bharuch"
+        },
+        {
+            "profile_link": "",
+            "name": "Garima Chadha",
+            "about": null,
+            "location": "Amritsar"
+        },
+        {
+            "profile_link": "",
+            "name": "Raghav Mittal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vagesh Verma",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Adish Agarwal",
+            "about": null,
+            "location": "Agra"
+        },
+        {
+            "profile_link": "",
+            "name": "Koneti Jagadish",
+            "about": "Principal Consultant at Wipro Limited",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Amit Kumar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Neerav Vyas Bohra",
+            "about": null,
+            "location": "Dublin"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Kumar",
+            "about": "SDE at Amazon | DTU (DCE)",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Mittal",
+            "about": "IAS at Indian Administrative Service (IAS) - Government of India",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjal Magdum",
+            "about": "Associate Consultant",
+            "location": "Kolhapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshita Dudani",
+            "about": "Software Engineer III at Google | Ex-Intern at BNY Mellon | JIIT’21",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Saketh BSV",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Nagpal",
+            "about": null,
+            "location": "Patiala"
+        },
+        {
+            "profile_link": "",
+            "name": "Arpit Kathuria",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Rajani",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishchay Manwani",
+            "about": null,
+            "location": "North Guwahati"
+        },
+        {
+            "profile_link": "",
+            "name": "Muskan Srivastava",
+            "about": "SDE at Microsoft",
+            "location": "Jabalpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Sushant Kumar Sinha",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aayush Kapadia",
+            "about": null,
+            "location": "Surat"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Prefinal year UG",
+            "field": "Ocean Engineering and Naval Architecture",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: member of technology transfer group",
+            "description_html": "Activities and Societies: member of technology transfer group",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya (JNV)",
+            "degree": "AISSCE (12th)",
+            "field": "Mathematics and Computer Science",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Great Learning",
+            "title": "Financial Risk Analytics"
+        },
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Great Learning",
+            "title": "Linux Tutorial"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID GKSZ3E3Y86NCSee credential",
+            "subtitle": "Coursera",
+            "title": "Derivatives - Options & Futures"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID 2MTY6PMDX2N2See credential",
+            "subtitle": "Coursera",
+            "title": "Mathematics for Machine Learning: Linear Algebra"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "Quantra",
+            "title": "Forex Trading using Python"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID MTNKWTPBLLGSSee credential",
+            "subtitle": "University of Michigan | Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "NSE Academy | QuantInsti ",
+            "title": "Options Trading Strategies In Python"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID HEWGAVT4E3NWSee credential",
+            "subtitle": "Coursera",
+            "title": "Stock Valuation with Comparable Companies Analysis"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID UVSCCHYNBFB8See credential",
+            "subtitle": "Coursera",
+            "title": "Supervised Machine Learning: Regression and Classification"
+        },
+        {
+            "meta": "Issued Jul 2022",
+            "subtitle": "Udacity",
+            "title": "Machine Learning for Trading"
+        },
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "Quantra",
+            "title": "Python for Trading"
+        },
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "Quantra",
+            "title": "Python for Machine Learning in Finance"
+        },
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "Quantra",
+            "title": "Quant Interview Questions Preparation"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1119.0,
+    "connections": 500.0,
+    "current_company_company_id": "moodys",
+    "current_company_name": "Moody's Analytics",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Pairs Trading: Statistical-Arbitrage\",\"start_date\":\"Jun 2022\",\"end_date\":\"Jun 2022\",\"description\":\"• Set automatic fyer's access token generation using selenium with chrome driver• Generate \\\"meta_data\\\" data frame using fyers API for different stock selected• Identified cointegrated pairs of stocks, plotted assets correlation matrix and performed OLS regression to get Hedge Ratio for each pair• Generated trading signals using normalized Z Score and obtained a CAGR of 44.31 % for KOTAKBANK and HDFC as a selected pair\"},{\"title\":\"Algorithmic Trading with Python\",\"start_date\":\"Feb 2022\",\"end_date\":\"Feb 2022\",\"description\":\"Section 1: Building An Equal-Weight BSE-200 Index Fund Theory & Concepts Importing our Constituents from IEX Cloud, Pulling Data For Our Constituents, Calculating Weights, Generating Our Output File. Section 2: Building A Quantitative Momentum Investing Strategy Theory & Concepts Pulling Data For Our Constituents, Calculating Weights, Generating Our Output File. This selects 20 stocks out of BSE_ 200 on the IEX cloud with the highest price momentum(HQM).\"},{\"title\":\"Algo Strategy (Pine Script)\",\"start_date\":\"May 2021\",\"end_date\":\"Jun 2021\",\"description\":\"This is based on cross overs of exponential moving averages, capable of processing market order long entry and exitAdded user-friendly feature to change averages type, averages period, and resolutions at the front end of the userAchieved 2904.57% net profit with 30.19% max drawdown when implemented on NIFTY in a bigger resolution\"},{\"title\":\"Ultimate Indicators\",\"start_date\":\"Mar 2021\",\"end_date\":\"Jun 2021\",\"description\":\"1. Given the capability to design all possible permutations and combinations over all possible moving averages (such as 'RMA', 'SMA', 'EMA', 'WMA', 'HMA', 'DEMA', 'TEMA', 'VWMA') with Moving Periods and Time Frames.2. Combined features of RS, RSI, and MACD into one indicator which provides you fast decision over-trading.\"}]",
+    "organizations": null,
+    "location": "Gurugram",
+    "linkedin_id": "yashwant26",
+    "activity": [
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Big O Notation 101: The Secret to Writing Efficient Algorithms From simple array operations to complex sorting algorithms, understanding the Big O…",
+            "img": "",
+            "id": "7275551844049813505"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Fake Bills being charged by ITC Hotels to boost their revenue. I had my wedding functions arranged at ITC Fortune Park, Aligarh (Fortune Park Hotels…",
+            "img": "",
+            "id": "7273750308042764288"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "~~ Flagship Intern Opportunity (One of the best in India) ~~ Role: AI Engineer Intern Stipend: 1.5 Lakh/month Perks: - 8 x PVR/INOX movie tickets -…",
+            "img": "",
+            "id": "7222492873726779392"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "I and my team members Priya KR had the privilege of attending the Test Tribe QA Conference on July 12th and 13th, 2024, in Bangalore. This event was…",
+            "img": "",
+            "id": "7221823244218114049"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Had a productive discussion about our ongoing green energy project funded by the Royal Academy of Engineering, London with our collaborator in the…",
+            "img": "",
+            "id": "7219941440640974850"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "As a proud sponsor of #ProcureConAsia, we had the pleasure to meet with procurement professionals at the event in Singapore last week. Our team was…",
+            "img": "",
+            "id": "7219506163741069312"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Reflecting on My First Year in Corporate Life... As I celebrate my 1-year anniversary at Moody's, I'm filled with gratitude and amazement. The past…",
+            "img": "",
+            "id": "7217912723857137665"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Thrilled to Share! It has been two weeks since I joined Moody's as a Finance Intern. This opportunity has already been an incredible learning…",
+            "img": "",
+            "id": "7208519652824502272"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "A wonderful two weeks in Istanbul and London. Played some cricket as well. A young Saudi couple was struggling with 7 month old twin girls on my…",
+            "img": "",
+            "id": "7206928715795058688"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Turning $1M Into $1B+: A Masterclass From The Indian Warren Buffett Mohnish Pabrai #Business #Investing #Brain #HumanDevelopment #WarrenBuffett…",
+            "img": "",
+            "id": "7201078596206043137"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Wonderful of the Munger family to continue to host the Friday Charlie Munger dinner. It is now called the Munger Family dinner. Looking forward to…",
+            "img": "",
+            "id": "7192346424242507776"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Hey Linkedin family! Delighted to share that I have cleared Chartered Financial Analyst (CFA) Level 2 exam, Nov 2023 in my first attempt. A big…",
+            "img": "",
+            "id": "7153400956133502977"
+        },
+        {
+            "interaction": "Liked by Yashwant Kumar Verma",
+            "link": "",
+            "title": "Dear Connections, I'm thrilled to share that our team #Rest_in_code has successfully qualified for ICPC Regionals 2023. This being our final attempt,…",
+            "img": "",
+            "id": "7152546080390270977"
+        }
+    ],
+    "linkedin_num_id": 734559711.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

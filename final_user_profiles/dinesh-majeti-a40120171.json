@@ -1,0 +1,82 @@
+{
+    "city": "Thanjavur, Tamil Nadu, India",
+    "position": "Software Engineer at Zensar Technologies",
+    "experience": [
+        {
+            "title": "Zensar Technologies",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "2 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Zensar Technologies",
+                    "meta": "Nov 2023 - Present 1 year 2 months",
+                    "duration": "Nov 2023 - Present 1 year 2 months",
+                    "start_date": "Nov 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 2 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Zensar Technologies",
+                    "meta": "Nov 2022 - Oct 2023 1 year",
+                    "duration": "Nov 2022 Oct 2023 1 year",
+                    "start_date": "Nov 2022",
+                    "end_date": "Oct 2023",
+                    "duration_short": "1 year",
+                    "title": "Junior Software Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "Zensar Technologies",
+            "company_id": "zensar",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Business Development Intern",
+            "description_html": null,
+            "duration": "Jul 2020 Jan 2021 7 months",
+            "start_date": "Jul 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "7 months",
+            "company": "EnR Consultancy Services",
+            "company_id": "engage-reap-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Strategy Intern",
+            "description_html": null,
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "ALPINE TECHNOLOGIES",
+            "company_id": "thealpinetechnologies",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Shanmugha Arts, Science, Technology and Research Academy",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical and Electronics Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Zensar Technologies",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

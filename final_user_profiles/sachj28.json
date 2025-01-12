@@ -1,0 +1,403 @@
+{
+    "id": "sachj28",
+    "name": "Sachin Jaiswal",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": "Working Hard, Having Fun, Trying to make History",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "American Express",
+        "company_id": "american-express",
+        "title": "Working Hard, Having Fun, Trying to make History"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist 1",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Backend Developer- Playing with CRUD APIs- Diving into Data Engineering",
+            "description_html": "- Backend Developer- Playing with CRUD APIs- Diving into Data Engineering <!---->",
+            "duration": "Feb 2024 Jul 2024 6 months",
+            "start_date": "Feb 2024",
+            "end_date": "Jul 2024",
+            "duration_short": "6 months",
+            "company": "FinBox",
+            "company_id": "finbox-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Creative Writer",
+            "location": "Indian Institute of Technology Kharagpur",
+            "description_html": null,
+            "duration": "Aug 2019 Apr 2024 4 years 9 months",
+            "start_date": "Aug 2019",
+            "end_date": "Apr 2024",
+            "duration_short": "4 years 9 months",
+            "company": "Technology Literary Society, IIT Kharagpur",
+            "company_id": "technology-literary-society",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Theatre Practicioner",
+            "location": "Indian Institute of Technology Kharagpur",
+            "description": "Actor, writer and director",
+            "description_html": "Actor, writer and director <!---->",
+            "duration": "Aug 2019 Apr 2024 4 years 9 months",
+            "start_date": "Aug 2019",
+            "end_date": "Apr 2024",
+            "duration_short": "4 years 9 months",
+            "company": "Technology Dramatics Society - Pravah",
+            "company_id": "pravahiitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2023 Sep 2023 5 months",
+            "start_date": "May 2023",
+            "end_date": "Sep 2023",
+            "duration_short": "5 months",
+            "company": "OYO",
+            "company_id": "oyo-rooms",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Vice President",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Jul 2022 Apr 2023 10 months",
+            "start_date": "Jul 2022",
+            "end_date": "Apr 2023",
+            "duration_short": "10 months",
+            "company": "TMES, IIT Kharagpur",
+            "company_id": "tmes-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "description_html": null,
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "Fleek",
+            "company_id": "getfleekapp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Nov 2021 Jan 2022 3 months",
+            "start_date": "Nov 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "3 months",
+            "company": "FinBox",
+            "company_id": "finbox-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investments Intern",
+            "location": "Remote",
+            "description_html": null,
+            "duration": "Nov 2021 Dec 2021 2 months",
+            "start_date": "Nov 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "2 months",
+            "company": "Mumbai Angels Network",
+            "company_id": "mumbaiangels",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Development Intern",
+            "location": "Remote",
+            "description_html": null,
+            "duration": "Aug 2021 Sep 2021 2 months",
+            "start_date": "Aug 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "2 months",
+            "company": "Smerkato",
+            "company_id": "smerkato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder's Fellow",
+            "location": "Remote",
+            "description_html": null,
+            "duration": "Jul 2021 Sep 2021 3 months",
+            "start_date": "Jul 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "3 months",
+            "company": "Tortoise",
+            "company_id": "tortoisebenefits",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "description": "Used analytics and stealth assessment tool to analyze cognitive stimulus-response pairs for the project \"Preliminary Cognitive Analysis Using KranionAI\"",
+            "description_html": "Used analytics and stealth assessment tool to analyze cognitive stimulus-response pairs for the project \"Preliminary Cognitive Analysis Using KranionAI\" <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "University of Waterloo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Development Intern",
+            "description_html": null,
+            "duration": "Feb 2021 Apr 2021 3 months",
+            "start_date": "Feb 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "3 months",
+            "company": "Sortizy",
+            "company_id": "sortizy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Development Intern",
+            "description_html": null,
+            "duration": "Jan 2021 Feb 2021 2 months",
+            "start_date": "Jan 2021",
+            "end_date": "Feb 2021",
+            "duration_short": "2 months",
+            "company": "GradSpace",
+            "company_id": "grad-space",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Radhika Bajaj",
+            "about": "SDE ll @Blinkit l Ex-Gradeup",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Aarnav Jindal",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Agarwal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manisha Khattar",
+            "about": null,
+            "location": "Greater Delhi Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Umang Chauhan",
+            "about": "Product @ Fast Retailing (UNIQLO, New York) | 3.1 Million+ YouTube Views | Creator | Strategist",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Chauhan",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Isha Gautam",
+            "about": "Software Engineer @Microsoft | SWE Intern'20 @Google | IGDTUW'21",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Rana",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Garima Luthra",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Srishti Sharma",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Rachit Jain",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Bansal",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Kapil Jindal",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Aakash Madan",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaishno Tiwari",
+            "about": "Senior UI/UX Designer | HTML | CSS | Bootstrap3/4/5 | jQuery | ReactJS | Next.js | Figma | Adobe XD |Adobe Photoshop | Adobe Illustrator |Tailwind CSS | Material UI | Mobile UI Design",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanket Singh",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sahiba Sethi",
+            "about": "On a break",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitin Bavlecha",
+            "about": null,
+            "location": "Rajkot"
+        },
+        {
+            "profile_link": "",
+            "name": "Sujeet Soni",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (BTech in Mining Engineering, MTech in Engineering Entrepreneurship)",
+            "field": "Mining Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "Activities and Societies: 1. Pravah : Technology Dramatics Society 2. Technology Literary Society 3. Captain- Hall Dramatics and Shortfilm Making, LBS Hall of Residence 4. Captain - Ad Design, LBS Hall of Residence 5. Vice President of Technology Mining Engineering Society, Departmental Society of Mining Engineering. 6. InterIIT Social and Cultural - Mime Captain, script and production team in stageplay and streetplay 7. UG Department Representative of Mining in UG Students' Council Department Rank 1 in Entrepreneurship Engineering and Department Rank 2 in the Mining Engineering Department 1. 10 pointer in the final semester 2. Recipient of MITACS GRI 2024, University of Alberta and MITACS GRA 2023, University of Waterloo 3. Participated and won many hackathons and case competitions, - Amex super Bowl challenge, DP world the big tech project, and others 4. Had a strong presence in dramatics, filmmaking, and writing community in IIT Kharagpur. 5. Active\u00e2\u20ac\u00a6 Show more",
+            "description_html": "Activities and Societies: 1. Pravah : Technology Dramatics Society 2. Technology Literary Society 3. Captain- Hall Dramatics and Shortfilm Making, LBS Hall of Residence 4. Captain - Ad Design, LBS Hall of Residence 5. Vice President of Technology Mining Engineering Society, Departmental Society of Mining Engineering. 6. InterIIT Social and Cultural - Mime Captain, script and production team in stageplay and streetplay 7. UG Department Representative of Mining in UG Students' Council",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Vidya Mandir, Shyamali",
+            "degree": "Senior Secondary, (Class 11th and 12th)",
+            "field": "Physics, Chemistry, Maths, English and Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": "Cleared JEE Mains and Advanced without any coaching",
+            "description_html": "Cleared JEE Mains and Advanced without any coaching <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 9490.0,
+    "connections": 500.0,
+    "current_company_company_id": "american-express",
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Gurugram",
+    "linkedin_id": "sachj28",
+    "activity": [
+        {
+            "interaction": "Liked by Sachin Jaiswal",
+            "link": "",
+            "title": "Can't believe Bryan Johnson didn't eat a SINGLE CALORIE of any food grown in India for the 6 days he was here. Why? \"I know how contaminated our\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7270693481885356032"
+        },
+        {
+            "interaction": "Liked by Sachin Jaiswal",
+            "link": "",
+            "title": "Zepto just raised $350M at a $5B valuation. Next day, they started delivering Manyavar kurtas in 10 mins. Guess the investor pitch was: \u00e2\u20ac\u0153We made\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7266684663274844160"
+        },
+        {
+            "interaction": "Liked by Sachin Jaiswal",
+            "link": "",
+            "title": "\u00f0\u0178\u0161\u20ac We're Hiring: Product Management Interns at Rapido! \u00f0\u0178\u0161\u20ac Are you ready to dive into the world of product management? Rapido is seeking 3 Product\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7236262669781983232"
+        },
+        {
+            "interaction": "Liked by Sachin Jaiswal",
+            "link": "",
+            "title": "12 international orders already delivered. Average delivery time for these was 9 minutes 42 seconds! And all 12 of them were from one country. Any\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7230481592798822400"
+        },
+        {
+            "interaction": "Liked by Sachin Jaiswal",
+            "link": "",
+            "title": "Internship \u00e2\u0153\u2026 InternPe",
+            "img": "",
+            "id": "7166064102874808321"
+        },
+        {
+            "interaction": "Liked by Sachin Jaiswal",
+            "link": "",
+            "title": "Google's Early Career Software Engineer (2024 full time) are now open for US locations. Apply online at the link below before May\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7197394737991962626"
+        }
+    ],
+    "linkedin_num_id": 757545227.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "city": "Kalyan, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Bodhan\",\"start_date\":\"Dec 2019\",\"end_date\":\"Present\",\"description\":\"● Building automated models for the evaluation of answer scripts of students through image detection and character recognition models and constructing the models for automatically answering the questions asked by students in live classes to decrease the dependency on teachers\"},{\"title\":\"Computational Geometry | C++ library\",\"start_date\":\"Dec 2019\",\"end_date\":\"Present\",\"description\":\"● A software library that contains several reliable geometric data structure and algorithms for operation in two-dimensional space● The library contains the number of operations on points, line, vector, circle, triangle, polygon and some functionality using two or more entities\"},{\"title\":\"AUTONOMOUS UNDERWATER VEHICLE \",\"start_date\":\"Dec 2017\",\"end_date\":\"Dec 2019\",\"description\":\"● Collaborated with thirty plus undergraduate students from multi-disciplines. The team is supposed to build and design a fully functional AUV which entails developing and manufacturing robust systems in the domain of mechanical, electrical and software engineering\"}]",
+    "honors_and_awards": [
+        {
+            "title": "AI Image Classification Hackathon",
+            "publication": "-",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "Ranked First in AI Image Classification Hackathon organized by KSHITIJ, IIT Kharagpur and Affine Analytics in January 2020"
+        },
+        {
+            "title": "Inter Hall Hardware Modelling (General Championship)",
+            "publication": "Technology student Gymkhana, IIT Kharagpur",
+            "date": "2019-04-01T00:00:00.000Z",
+            "description": "•Build a Robust bot having the ability to clean the unreachable drainage system and can be incorporated with minimum human interference • Bot can work in shallow as well as deep drainage, can connect with the internet and used for removing floating as well as non-floating matter"
+        },
+        {
+            "title": "Inter Hall Product Design (General Championship)",
+            "publication": "Technology student Gymkhana, IIT Kharagpur",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "● Designed a tool which eliminates all inaccuracies performed by a man while giving Cardio-Pulmonary Resuscitation (CPR) during cardiac arrest"
+        }
+    ]
+}

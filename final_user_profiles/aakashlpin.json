@@ -1,0 +1,30 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Vellore Institute of Technology",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Headout",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Improving KYC/Onboarding on Mobile and Web\",\"start_date\":\"Mar 2015\",\"description\":\"As a team, we improved on-boarding conversions by over 300% by revamping the merchant KYC document-upload process into a simple, intuitive, mobile-friendly and camera-aware workflow. Optimised front-end and used Base64 encode/decode to deliver superfast upload performance even on 2G connections.\"},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Winner @import url(“contest.css”)",
+            "publication": "Capillary Technologies",
+            "date": "2012-04-01T00:00:00.000Z",
+            "description": "Won a CSS3 contest organised by Capillary Technologies held at HasGeek's front end conference \"Meta Refresh\". Details here "
+        }
+    ]
+}

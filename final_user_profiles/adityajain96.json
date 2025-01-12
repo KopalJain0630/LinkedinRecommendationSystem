@@ -1,0 +1,70 @@
+{
+    "city": "San Francisco, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of California, Los Angeles",
+            "url": "",
+            "start_year": "2021-09",
+            "end_year": "2022-12",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2012-07",
+            "end_year": "2014-07",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Adnan Darwiche - Bayesian Networks\"},{\"subtitle\":\"-\",\"title\":\"Advanced Big Data Systems\"},{\"subtitle\":\"-\",\"title\":\"Advanced Computer Architecture\"},{\"subtitle\":\"-\",\"title\":\"Advanced Data Mining\"},{\"subtitle\":\"-\",\"title\":\"Advanced Graph Neural Networks\"},{\"subtitle\":\"-\",\"title\":\"Advanced Internet Architecture and Protocols\"},{\"subtitle\":\"-\",\"title\":\"Advanced Learning Machine and Customizable Computing for Big data\"},{\"subtitle\":\"-\",\"title\":\"Advanced Natural Language Processing\"},{\"subtitle\":\"-\",\"title\":\"Advanced Probablistic Programming and Relational Learning\"},{\"subtitle\":\"-\",\"title\":\"Advanced topics in Neural Network and Deep Learning\"},{\"subtitle\":\"-\",\"title\":\"Adversarial Robustness Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Algorithms 2\"},{\"subtitle\":\"-\",\"title\":\"Approximation and Online Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Cloud Computing\"},{\"subtitle\":\"-\",\"title\":\"Compilers (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Computer Organisation and Architecture (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Data Analytics (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Discrete Structures\"},{\"subtitle\":\"-\",\"title\":\"Distributed Systems\"},{\"subtitle\":\"-\",\"title\":\"Formal Languages and Automata Theory\"},{\"subtitle\":\"-\",\"title\":\"Foundations of Cryptography\"},{\"subtitle\":\"-\",\"title\":\"Graph Theory and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Parallel And Distributed Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Principles of Programming Languages\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Signals and Networks (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Switching Circuits and Logic Design (+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Theory of Computation\"}]",
+    "certifications": null,
+    "current_company_name": "LinkedIn",
+    "publications": null,
+    "patents": "[{\"title\":\"Augmented Reality Based Virtual Sales-Person that Provides Recommendation Based on Intent of Purchase Identified from Facial Actions Unit\",\"date_issued\":\"August 25, 2020\",\"patents_id\":\"US20190213403A1\",\"description\":\"Augmented reality predictions using machine learningAn augmented reality application executing on a computing system receives a video depicting a face of a person. The video includes a video frame. The augmented reality application augments the video frame with an image of an item selected via input from a user device associated with a user. The augmented reality application determines, from the video frame, a score representing an action unit. The action unit represents a muscle on the face of the person depicted by the video frame and the score represents an intensity of the action unit. The augmented reality application calculates, from a predictive model and based on the score, an indicator of intent of the person depicted by the video.\"}]",
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "(Finalist) Aditya Birla Scholarship Programme",
+            "publication": "Aditya Birla Group",
+            "date": "2014-09-01T00:00:00.000Z",
+            "description": "The Aditya Birla Scholarship Programme is the Group's way of pursuing Mr. Aditya Vikram Birla's ideals of spawning leaders with a passion to excel. Attained through fostering outstanding academic excellence and humane leadership values, in partnership with select IITs, IIMs and top law schools in India. Shortlisted along with 31 other outstanding incoming undergraduates from IITs and BITS in the year 2014."
+        },
+        {
+            "title": "JEE 2014 AIR - 276",
+            "publication": "-",
+            "date": "2014-06-01T00:00:00.000Z",
+            "description": "Among top 300 out of million students in India who appeared for admission in IITs."
+        },
+        {
+            "title": "Indian National Olympiads (Physics and Chemistry)",
+            "publication": "Homi Bhabha Center for Scientific Education",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": "Cleared the National Standard Examination in Physics and Chemistry (top 300 in India). Secured top 1% position in the state of Madhya Pradesh."
+        },
+        {
+            "title": "KVPY Scholar",
+            "publication": "Department of Science and Technology, Government of India",
+            "date": "2012-02-01T00:00:00.000Z",
+            "description": "KVPY is a National Program of Fellowship in Basic Sciences, initiated and funded by the Department of Science and Technology, Government of India, to attract exceptionally highly motivated students for pursuing basic science courses and research career in science."
+        },
+        {
+            "title": "National Talent Search Scholar",
+            "publication": "NCERT India",
+            "date": "2010-01-01T00:00:00.000Z",
+            "description": "National Talent Search Examination (NTSE) is a national-level government scholarship program in India to identify and recognize students with high intellect and academic talent. It is widely regarded by the Government of India as the toughest and most prestigious examination at high school level in the world. Amongst the top 500 students in the nation to be awarded this scholarship."
+        }
+    ]
+}

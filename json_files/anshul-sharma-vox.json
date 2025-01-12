@@ -1,0 +1,399 @@
+{
+    "id": "anshul-sharma-vox",
+    "name": "Anshul Sharma",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "General Mills | IIT Kharagpur'23",
+    "about": "Committed to continuous experimentation, measurement, and learning to rapidly iterate and improve. Always exploring new ways technology can solve problems and create value. Thrives on working with cross-functional teams. Adept at leveraging data, analytics, and emerging technologies to build new tools for users.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "General Mills",
+        "company_id": "general-mills",
+        "title": "General Mills | IIT Kharagpur'23"
+    },
+    "experience": [
+        {
+            "title": "Analyst (Stat Forecasting)",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "- Awarded the annual Star Debutante honor for outstanding impact, performance, and contributions as a new joiner- Conceptualized and developed Forecast Master, an innovative R Shiny application deployed on GCP, streamlining time-series analysis, forecasting, and model fine-tuning, reducing 20 man-hours per month for each team member- Developed an Anomaly Detection tool using Python Dash, enabling users to upload and analyze data for anomalies, perform EDA, implementing effective anomaly detection and correction- Led the monthly forecasting cycle for raw materials required for the international business demand & inventory planning",
+            "description_html": "- Awarded the annual Star Debutante honor for outstanding impact, performance, and contributions as a new joiner- Conceptualized and developed Forecast Master, an innovative R Shiny application deployed on GCP, streamlining time-series analysis, forecasting, and model fine-tuning, reducing 20 man-hours per month for each team member- Developed an Anomaly Detection tool using Python Dash, enabling users to upload and analyze data for anomalies, perform EDA, implementing effective anomaly detection and correction- Led the monthly forecasting cycle for raw materials required for the international business demand &amp; inventory planning",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "General Mills",
+            "company_id": "general-mills",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Developer Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "- Integrated Google Speech & Translate API into an audio transcription product; expanded capabilities to new markets- Drove 50% conversational improvement by deploying NLP models like BERT; significantly boosted user experience.- Added MP3/OGG compatibility using PyDub library; increased user satisfaction through seamless audio processing- Designed and built MySQL database to store product analytics and feedback; enabled data-driven product planning",
+            "description_html": "- Integrated Google Speech &amp; Translate API into an audio transcription product; expanded capabilities to new markets- Drove 50% conversational improvement by deploying NLP models like BERT; significantly boosted user experience.- Added MP3/OGG compatibility using PyDub library; increased user satisfaction through seamless audio processing- Designed and built MySQL database to store product analytics and feedback; enabled data-driven product planning <!---->",
+            "duration": "Mar 2023 May 2023 3 months",
+            "start_date": "Mar 2023",
+            "end_date": "May 2023",
+            "duration_short": "3 months",
+            "company": "Last Mile Care",
+            "company_id": "last-mile-care-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst Intern",
+            "location": "Kolkata, West Bengal, India",
+            "description": "- Leveraged image classification model to tag 92% of apparel products automatically, improving catalog organization- Uncovered 8 key retail performance indicators; designed interactive dashboards to monitor and optimize operations- Automated quarterly performance reports, saving 30+ weekly man-hours; enabled efficient monitoring of franchise stores",
+            "description_html": "- Leveraged image classification model to tag 92% of apparel products automatically, improving catalog organization- Uncovered 8 key retail performance indicators; designed interactive dashboards to monitor and optimize operations- Automated quarterly performance reports, saving 30+ weekly man-hours; enabled efficient monitoring of franchise stores <!---->",
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "Vedant Fashions Limited - Manyavar-Mohey",
+            "company_id": "vedant-fashions-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Operations Intern",
+            "description": "- Managed user engagement initiatives including thorough POC operations, increasing messages sent per user by 41%- Improved platform KPIs including 6% increase in community visit to chat view ratio and 3% lift in chat send retention- Conducted in-depth 35 user interviews to uncover adoption barriers; proposed targeted solutions to increase engagement",
+            "description_html": "- Managed user engagement initiatives including thorough POC operations, increasing messages sent per user by 41%- Improved platform KPIs including 6% increase in community visit to chat view ratio and 3% lift in chat send retention- Conducted in-depth 35 user interviews to uncover adoption barriers; proposed targeted solutions to increase engagement <!---->",
+            "duration": "Aug 2021 Dec 2021 5 months",
+            "start_date": "Aug 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "5 months",
+            "company": "FrontRow",
+            "company_id": "frontrow-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Research Intern",
+            "description": "- Researched deep learning models for satellite image segmentation of buildings; demonstrated computer vision expertise- Experimented with generative adversarial networks in PyTorch; gained hands-on expertise in deep learning frameworks- Developed U-Net, ResU-Net and PatchGAN models for image segmentation; skills directly applicable to computer vision- Extracted Land Surface Temperature data using Tiff files, trained a Neural Net to predict LST with R2 Score of 0.62",
+            "description_html": "- Researched deep learning models for satellite image segmentation of buildings; demonstrated computer vision expertise- Experimented with generative adversarial networks in PyTorch; gained hands-on expertise in deep learning frameworks- Developed U-Net, ResU-Net and PatchGAN models for image segmentation; skills directly applicable to computer vision- Extracted Land Surface Temperature data using Tiff files, trained a Neural Net to predict LST with R2 Score of 0.62 <!---->",
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "First Runner Up | Battlefield | Business Analytics Competition",
+            "description": "- Participated in a team to secure 2nd position among 818 teams at the national level final round in a multi-stage competition- Trained SVM, Random Forests, and Neural Nets to predict the probability of candidate acquisition with the F1 Score of 0.72- Conducted Data Cleaning and Manipulation, conceptualized a Voting Classifier to increase the final F1 Score by 22.5%",
+            "description_html": "- Participated in a team to secure 2nd position among 818 teams at the national level final round in a multi-stage competition- Trained SVM, Random Forests, and Neural Nets to predict the probability of candidate acquisition with the F1 Score of 0.72- Conducted Data Cleaning and Manipulation, conceptualized a Voting Classifier to increase the final F1 Score by 22.5% <!---->",
+            "duration": "Mar 2021 Mar 2021 1 month",
+            "start_date": "Mar 2021",
+            "end_date": "Mar 2021",
+            "duration_short": "1 month",
+            "company": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Open Source Contributor @ Kharagpur Winter of Code 2020",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Project Title: Algorithmic Bias in Deep Learning Models- Conceived a Dense Neural Net with 11 layers with a Dropout of 30% to predict Income Category with an Accuracy of 82%- Generated Heat Maps based on each network layer's output using the Layerwise Relevance Propagation technique- Executed an ablation study with various architectures & hyper-parameters to increase the accuracy of the model by 4.9%",
+            "description_html": "Project Title: Algorithmic Bias in Deep Learning Models- Conceived a Dense Neural Net with 11 layers with a Dropout of 30% to predict Income Category with an Accuracy of 82%- Generated Heat Maps based on each network layer's output using the Layerwise Relevance Propagation technique- Executed an ablation study with various architectures &amp; hyper-parameters to increase the accuracy of the model by 4.9% <!---->",
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Kharagpur Open Source Society",
+            "company_id": "kharagpur-open-source-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Harsha Bommana",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Honnesh Rohmetra",
+            "about": "Research Engineer | Efficient Deep Learning | BITS Pilani | Life Athlete",
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Srushti Sangawar",
+            "about": "MSCS at CU Boulder| Lowe's | NIT Rourkela-CSE'22 | HDFCLife",
+            "location": "Boulder, CO"
+        },
+        {
+            "profile_link": "",
+            "name": "Parth Shah",
+            "about": "ML Engineer @ Zscaler | LLMs | Machine Learning @ UCSD | IIT Guwahati",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehernaz Contractor",
+            "about": "CYBER AND CRIMINAL LAWYER Your Trusted Lawyer for Today's Complex Legal Landscape – Protecting Your Online World and Real-world Rights!",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakhar Roy",
+            "about": "Technical Consultant at Deloitte | Angular 19 + .NET Core + Azure Cloud Developer",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sinchana S R",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Komal Pal",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Prathamesh Borhade",
+            "about": "System Development Engineer @ Amazon",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushar Goel",
+            "about": "Remote SDE @Nexb | Former Software Engineer @Zomentum | Student GSoC 2020 | Former Intern @Zomentum @SWH | Mentor GCI 2019",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sahaaj Singh Chawla",
+            "about": "Software Engineer I @Cloudera",
+            "location": "Raipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsha Anil",
+            "about": "Software Development Engineer at Amadeus",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhartendu Singh",
+            "about": "FRONTEND DEVELOPER| ANGULAR | HTML | CSS | JAVASCRIPT| BOOTSTRAP | SQL",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Suraj Patni",
+            "about": "AI/ML Engineer@Qualcomm R&D || IIT Delhi - MS(Research), CSE",
+            "location": "Dehradun"
+        },
+        {
+            "profile_link": "",
+            "name": "Chaitanya Chadha",
+            "about": "Graduate Computer Science Student @ George Washington University | Machine Learning & AI Research",
+            "location": "Washington, DC"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Singh",
+            "about": "MTS-2| Adobe | Ex-Unthinkable Solutions",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankur Bhelawe",
+            "about": "Artist. Dreamer.",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Radhika Kumari",
+            "about": "Bachelor of Technology - BTech at Delhi Technical Campus, GGSIPU",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Apoorv Dixit",
+            "about": "CS grad @ USC | Former Intern at JPMorganChase | Former SDE at Siemens",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Gupta",
+            "about": "Senior Developer@Paymentus| Works on Generative AI| RAGs| Backend Development| Python expert",
+            "location": "Noida"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Mining Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021Credential ID UC-adaeb030-e229-422e-83b1-d3a95e4c3fa1See credential",
+            "subtitle": "Udemy",
+            "title": "Become a Product Manager"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID MXGYL3R7JBAYSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Software Product Management"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID KFFLLAXTCDXTSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID B9VJJBALLM9KSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID CNZ5TQTFGLH6See credential",
+            "subtitle": "Coursera",
+            "title": "Facial Expression Recognition with Keras"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID UC-1d05cdc9-ddda-4f22-92c2-2b6b935cf3ebSee credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2381.0,
+    "connections": 500.0,
+    "current_company_company_id": "general-mills",
+    "current_company_name": "General Mills",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"COVID-19 Detection Using Deep Learning\",\"start_date\":\"Nov 2020\",\"end_date\":\"Nov 2020\",\"description\":\"Worked on implementation of Deep Learning techniques to distinguish COVID-19 and Pneumonia from a set of Chest X-ray Images. Trained a 9 layered Convolutional Neural Network with Dense Layers and used Regularization techniques such as Dropout, Batch Normalization and Max Pooling combined with RELU Activation function. Achieved an Accuracy Score of 94.84% on the test data. Technology used: PyTorch.\"},{\"title\":\"Image Super Resolution Using CNN\",\"start_date\":\"Oct 2020\",\"end_date\":\"Oct 2020\",\"description\":\"Implemented a Convolutional neural network model to generate high resolution images from low resolution ones. Optimized the model using Adam, padding and Bicubic interpolation to increase Average Peak Signal to Noise ratio by 1.1% compared to SRCNN. Made a command line application to make the training and testing process easier. Technologies used: PyTorch, Click & PIL.\"},{\"title\":\"Pulsar detection using Ensemble Learning\",\"start_date\":\"Aug 2020\",\"end_date\":\"Aug 2020\",\"description\":\"Developed a Machine Learning model to distinguish Pulsar Stars from radio-frequency interference and normal stars. An ensemble model was trained using Random Forests, Support Vector Machines and Adaptive Boosting Algorithms on a highly imbalanced dataset corrected through Synthetic Minority Oversampling Technique. Achieved 97% precision score, 91% recall and 96% accuracy. Technologies used : Scikit-Learn.\"},{\"title\":\"Twimage\",\"start_date\":\"Aug 2020\",\"end_date\":\"Aug 2020\",\"description\":\"Twimage is a Python package that can scrap the trending section of Twitter for Hashtags. It can further download images shared under the thread. It can be used as an image data set generator for applying machine learning models for research.\"}]",
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "anshul-sharma-vox",
+    "activity": [
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "Aniket Jha of IIT Kharagpur shares his journey of upskilling through Unstop Practice. It’s always a pleasure when we see bright minds grow their…",
+            "img": "",
+            "id": "7157707977162903552"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "Hello everyone, I am happy to announce that after several rigorous rounds with more than 5k participants from 27 campuses team comprising of Me…",
+            "img": "",
+            "id": "7127868149412081664"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "I'm excited to share that I've just finished a two-month Data Science Internship at Simpl . During this incredible experience, I had the privilege of…",
+            "img": "",
+            "id": "7087494659819671552"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "Hello Connections! I am delighted to share that I have joined Mastercard as a Software Engineer. I had an amazing experience at the organisation…",
+            "img": "",
+            "id": "7082415832642838528"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "Dear LinkedIn community, I am thrilled to be writing my first LinkedIn post, and what better way to start than by sharing a truly transformative…",
+            "img": "",
+            "id": "7071179103697014784"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "I want to share a personal life update. This is my last week in Stockholm. I am moving back to India, permanently, to live closer with my family and…",
+            "img": "",
+            "id": "6944645250938241024"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "Loving this new GROWW feature where as soon as I buy a stock, everything turns Red! #groww",
+            "img": "",
+            "id": "6868879134685319171"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "Honoured to be speaking at my alma mater about a role that constantly excites and challenges me. For any current students, this might be a great way…",
+            "img": "",
+            "id": "6872551102500405248"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "What better way to kickstart our Youtube channel than by throwing the spotlight on our Marvel-lous Interns! Check out our latest video and the…",
+            "img": "",
+            "id": "6835932536712048640"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "It's our time to soar through the skies and find our place in between the stars. How? Head to the Newzera website to know more what the Guardians of…",
+            "img": "",
+            "id": "6828603614999707648"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "We too had a dream. We had the internet. And we made the most of it! Join us as we step into the future of news, where being informed is not just…",
+            "img": "",
+            "id": "6828252864633217025"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "I was once a child with a dream looking up to the stars. Now I'm an adult in a spaceship looking down to our beautiful Earth. To the next generation…",
+            "img": "",
+            "id": "6820055675230531584"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "3 months back I had posted querying about personal management tools and a lot of people helped me out. Thanks to everyone (especially Jus…",
+            "img": "",
+            "id": "6752149163401584641"
+        },
+        {
+            "interaction": "Liked by Anshul Sharma",
+            "link": "",
+            "title": "Customer Trust #amazon",
+            "img": "",
+            "id": "6750089767943213056"
+        }
+    ],
+    "linkedin_num_id": 838661146.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

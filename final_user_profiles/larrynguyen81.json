@@ -1,0 +1,35 @@
+{
+    "city": "Ho Chi Minh City, Vietnam",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of East Anglia",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2000",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Cisco",
+            "title": "CCNA"
+        }
+    ],
+    "current_company_name": "Heroes of Mavia",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"WordPress - B&F Image Comparison plugin\",\"start_date\":\"Aug 2016\",\"description\":\"B&F Image Comparison plugin allows you to create the effect of comparing the two images before and after.The plugin contains the following features:Set width.Set heightHover effectEasy to use with shortcodeShortcode:[compare before=\\\"http://domain.com/imagename1.jpg\\\" after=\\\"http://domain.com/imagename2.jpg\\\" width=\\\"600px\\\" height=\\\"400px\\\"]\"},{\"title\":\"WordPress - Woocommerce Hide Add To Cart Button\",\"start_date\":\"Aug 2016\",\"description\":\"The plugin could help to hide \\\"Add to Cart\\\" button for one or more Woocommerce products.It will :- Hide Add to Cart button from product single page.- Hide Add to Cart button from category page.- Hide Add to Cart button from homepage and all other pages.You can set the \\\"expiry date\\\" and the \\\"Add to cart\\\" button will come back afer that date.Tags: Hide Add To Cart Button, hide add to cart woocommerce, woocommerce\"},{\"title\":\"4News - WordPress theme\",\"start_date\":\"Feb 2016\"},{\"title\":\"Shoffee Coffee & Restaurant WordPress theme\",\"start_date\":\"Dec 2015\"},{\"title\":\"Fashion Loudge - WordPress Theme\",\"start_date\":\"May 2015\",\"description\":\"Fashion Loudge is a New Ultimate Multi-Purpose WordPress Theme with elegant and clear design. Besides it suits for any type of design fashion shop, blog, handmade, studio, portfolio, personal website, business etc.. Here are some features of our themeClean, modern, multi-purpose design can be used for any type of websiteWordPress 4.1 Tested and ApprovedBuilt with HTML5 and CSS3Well organized, commented & clean codeSEO Optimized ( also compatible with SEO Plugins )Cross-Browser Compatibility: Chrome, Firefox, Safari, IE9 ~ IE11100% Responsive ThemeComes with the Visual Composer, most awesome visual page builder for WordPressRetina Ready, Ultra-High Resolution GraphicsAll Themes Icons are font icons ( more than 10000 icons included )Awesome CSS3 animations for every modulesChild Theme Compatible – includes basic child themeStrong focus on design and typography, usability and overall user-experience.Jquery Enhancements\"}]",
+    "honors_and_awards": null
+}

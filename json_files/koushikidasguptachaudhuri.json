@@ -1,0 +1,522 @@
+{
+    "id": "koushikidasguptachaudhuri",
+    "name": "Koushiki Dasgupta Chaudhuri",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "Quantitative Developer@Squarepoint Capital | IIT KGP 2023 | Mathematics and Computing",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Squarepoint Capital",
+        "company_id": "squarepoint-capital",
+        "title": "Quantitative Developer@Squarepoint Capital | IIT KGP 2023 | Mathematics and Computing"
+    },
+    "experience": [
+        {
+            "title": "Quantitative Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Squarepoint Capital",
+            "company_id": "squarepoint-capital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter School",
+            "location": "Trieste, Friuli-Venezia Giulia, Italy",
+            "description": "Attended the winter school on 'Machine Learning in Biology'.",
+            "description_html": "Attended the winter school on 'Machine Learning in Biology'. <!---->",
+            "duration": "Dec 2022 Dec 2022 1 month",
+            "start_date": "Dec 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "1 month",
+            "company": "Abdus Salam International Centre for Theoretical Physics (ICTP)",
+            "company_id": "ictp-page",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Intern",
+            "location": "Dresden, Saxony, Germany",
+            "description": "Project on analysing fluorescent microscopy images of intracellular mesoscale structures with deep learning models under the guidance of Dr. Ivo Sbalzarini, MOSAIC Group.",
+            "description_html": "Project on analysing fluorescent microscopy images of intracellular mesoscale structures with deep learning models under the guidance of Dr. Ivo Sbalzarini, MOSAIC Group. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "MPI-CBG - Max Planck Institute of Molecular Cell Biology and Genetics",
+            "company_id": "mpi-cbg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Research Intern",
+            "description": "Project on Differential Convex Optimization Implicit Layers in Deep Learning under the guidance of Dr. Ivo Sbalzarini, MOSAIC group for Scientific Computing for image-based Systems Biology. Studied differentiable convex optimisation implicit layers and implemented them using Cvxpy package in Python on a toy denoising problem. Currently investigating the utility of differentiable layers in neural networks for learning consistent PDE differential operators by embedding hard moment constraints in the implicit layers.",
+            "description_html": "Project on Differential Convex Optimization Implicit Layers in Deep Learning under the guidance of Dr. Ivo Sbalzarini, MOSAIC group for Scientific Computing for image-based Systems Biology. Studied differentiable convex optimisation implicit layers and implemented them using Cvxpy package in Python on a toy denoising problem. Currently investigating the utility of differentiable layers in neural networks for learning consistent PDE differential operators by embedding hard moment constraints in the implicit layers.",
+            "duration": "Jun 2021 Aug 2021 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "3 months",
+            "company": "MPI-CBG - Max Planck Institute of Molecular Cell Biology and Genetics",
+            "company_id": "mpi-cbg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Research Intern",
+            "description": "Project on Product Demand Forecasting using Extreme Learning Machines and Harris hawks optimization under the guidance of Dr. Bugra Alkan, School of Engineering, Computer Science and Informatics Department. Built a novel forecasting model - an extreme learning machine model hypertuned with Harris Hawks optimisation algorithm to improve accuracy of predicting future product demand from historical sales data. Used the model to predict future product sales of a gaming consoles company and showed that our ELM-HHO approach had superior performance to other models like ARIMA, LSTM, GRU, ELM and ELM-BO. Work published in Applied Intelligence, Springer.",
+            "description_html": "Project on Product Demand Forecasting using Extreme Learning Machines and Harris hawks optimization under the guidance of Dr. Bugra Alkan, School of Engineering, Computer Science and Informatics Department. Built a novel forecasting model - an extreme learning machine model hypertuned with Harris Hawks optimisation algorithm to improve accuracy of predicting future product demand from historical sales data. Used the model to predict future product sales of a gaming consoles company and showed that our ELM-HHO approach had superior performance to other models like ARIMA, LSTM, GRU, ELM and ELM-BO. Work published in Applied Intelligence, Springer.",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "London South Bank University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "DAAD - Wise Research Intern",
+            "description": "Project on refining, simulating and validating discrete-continuous models of metabolic-regulatory networks under the guidance of Dr. Alexander Bockmayr, Mathematics in Life Sciences group. Studied flux balance analysis, dynamic flux balance analysis, regulatory flux balance analysis, regulatory dynamic enzyme flux balance analysis in constraint-based modelling of metabolic regulatory networks of biological organisms. Performed FBA, dFBA, rFBA on core carbon metabolic model of E. Coli using COBRA toolbox in Matlab, COBRApy in Python and Flexflux. Performed deFBA and r-deFBA analysis using pyrrrate-FBA software on core carbon metabolic model of E. Coli.",
+            "description_html": "Project on refining, simulating and validating discrete-continuous models of metabolic-regulatory networks under the guidance of Dr. Alexander Bockmayr, Mathematics in Life Sciences group. Studied flux balance analysis, dynamic flux balance analysis, regulatory flux balance analysis, regulatory dynamic enzyme flux balance analysis in constraint-based modelling of metabolic regulatory networks of biological organisms. Performed FBA, dFBA, rFBA on core carbon metabolic model of E. Coli using COBRA toolbox in Matlab, COBRApy in Python and Flexflux. Performed deFBA and r-deFBA analysis using pyrrrate-FBA software on core carbon metabolic model of E. Coli.",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "Freie Universität Berlin",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Student Researcher",
+            "description": "Used dynamic network biomarkers, surprisal analysis and other computational methods to investigate the presence of tipping points in the context of epithelial-mesenchymal transitions under the guidance of Dr. Mohit Kumar Jolly at the Cancer and Systems biology laboratory in the centre of Biosystems Science and Engineering.",
+            "description_html": "Used dynamic network biomarkers, surprisal analysis and other computational methods to investigate the presence of tipping points in the context of epithelial-mesenchymal transitions under the guidance of Dr. Mohit Kumar Jolly at the Cancer and Systems biology laboratory in the centre of Biosystems Science and Engineering. <!---->",
+            "duration": "Apr 2020 Apr 2021 1 year 1 month",
+            "start_date": "Apr 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "1 year 1 month",
+            "company": "Indian Institute of Science (IISc)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Scientific Programme",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Attended the Thirsting for Theoretical Biology Programme.",
+            "description_html": "Attended the Thirsting for Theoretical Biology Programme. <!---->",
+            "duration": "Jan 2021 Jan 2021 1 month",
+            "start_date": "Jan 2021",
+            "end_date": "Jan 2021",
+            "duration_short": "1 month",
+            "company": "International Centre for Theoretical Sciences",
+            "company_id": "icts-tifr",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter School",
+            "location": "Moscow City, Russia",
+            "description": "Attended the Winter School on Machine Learning in Robotics",
+            "description_html": "Attended the Winter School on Machine Learning in Robotics <!---->",
+            "duration": "Dec 2020 Dec 2020 1 month",
+            "start_date": "Dec 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "1 month",
+            "company": "Innopolis University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description": "Worked on a team project to enable offline voice commanding in Mobile Word:1) Built a Convolutional Neural Network model to perform text classification of commands into 26 different intents.2) Built a CNN based named entity recognition model to perform parameter extraction of commands.3) Deployed models on Android app for testing.4) Implemented dynamic download of models on device from Azure Blob Storage and direct download from a Onedrive link.5) Built a data collection Android app for collecting transcripts of voice commands from different users.6) Built an automated transcription pipeline to convert voice commands to text and included all inaccurate speech-to-text conversions in dataset to improve offline speech-to-text accuracy.",
+            "description_html": "Worked on a team project to enable offline voice commanding in Mobile Word:1) Built a Convolutional Neural Network model to perform text classification of commands into 26 different intents.2) Built a CNN based named entity recognition model to perform parameter extraction of commands.3) Deployed models on Android app for testing.4) Implemented dynamic download of models on device from Azure Blob Storage and direct download from a Onedrive link.5) Built a data collection Android app for collecting transcripts of voice commands from different users.6) Built an automated transcription pipeline to convert voice commands to text and included all inaccurate speech-to-text conversions in dataset to improve offline speech-to-text accuracy.",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter School",
+            "location": "Bengaluru, Karnataka",
+            "description": "Attended the ICTP-ICTS Winter School on Quantitative Systems Biology",
+            "description_html": "Attended the ICTP-ICTS Winter School on Quantitative Systems Biology <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "International Centre for Theoretical Sciences",
+            "company_id": "icts-tifr",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "Punjab,India",
+            "description": "Project titled 'Forecasting tipping points through a model-less approach',non-linear dynamics,theoretical ecology,mathematical modelling,advanced calculus",
+            "description_html": "Project titled 'Forecasting tipping points through a model-less approach',non-linear dynamics,theoretical ecology,mathematical modelling,advanced calculus <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Technology, Ropar",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Science Camp",
+            "location": "Bhopal",
+            "description": "Attended the National Science(Vijyoshi) camp for KVPY fellows",
+            "description_html": "Attended the National Science(Vijyoshi) camp for KVPY fellows <!---->",
+            "duration": "Dec 2018 Dec 2018 1 month",
+            "start_date": "Dec 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "1 month",
+            "company": "IISER Bhopal",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Parth Singhal",
+            "about": "Data Science @ American Express | IIT Delhi | CFA L1 Cleared",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jigar Mehta",
+            "about": "Software Engineer III @ Google | IIT Ropar CSE'22",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Rachit Bansal",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Khush Agrawal",
+            "about": "CMU Robotics Grad | ML and Robotics | ECE @ NIT",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Neel Parmar",
+            "about": "Assistant Technical Staff, MIT Lincoln Laboratory",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Poojitha Nandigam",
+            "about": "MS CSE @ Georgia Tech | Ex SW @ NVIDIA | IIITH",
+            "location": "Atlanta, GA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sejal Bhalla",
+            "about": "PhD Student at University of Toronto",
+            "location": "Canada"
+        },
+        {
+            "profile_link": "",
+            "name": "Dipanwita Guhathakurta",
+            "about": "MSCS at Georgia Tech | Ex-JPMC, IBM Research, MLH Fellow | IIIT-H",
+            "location": "Atlanta, GA"
+        },
+        {
+            "profile_link": "",
+            "name": "Bisakh Mondal",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Rachit Bhayana",
+            "about": "MS HCI @ Georgia Tech | ex-MTS @ Oracle Cloud",
+            "location": "Atlanta, GA"
+        },
+        {
+            "profile_link": "",
+            "name": "Drumil Trivedi",
+            "about": null,
+            "location": "Cambridge, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruv Krishna",
+            "about": "Machine Learning Engineer II @ Clutterbot | Former Research Intern at NUS'20 | ISRO",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhargav Patel",
+            "about": "Jr. Staff AI Engineer, Detect Technologies | ML, MLOPs Speaker & Trainer | Mentor | Tech, Community",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Arvind Manimurugan",
+            "about": "Decarbonising Concrete | IIT Bombay",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Keshav Bagri",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Kushal Chauhan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Shukla",
+            "about": "IIT(ISM) Dhanbad 2021",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "Purva Chiniya",
+            "about": "MSCS @UMD | Applied Science intern@ Amazon | Ex-Software Engineer at Cisco",
+            "location": "College Park, MD"
+        },
+        {
+            "profile_link": "",
+            "name": "Sutapa Dutta",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Shankar Swain",
+            "about": null,
+            "location": "Austin, TX"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated Msc.",
+            "field": "Mathematics and Computing",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Technology Literary Society, Scholar's Avenue(the English media body), Tech Ambit, Institute Wellness Group, Spring Fest",
+            "description_html": "Activities and Societies: Technology Literary Society, Scholar's Avenue(the English media body), Tech Ambit, Institute Wellness Group, Spring Fest",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Xavier's Institution",
+            "degree": "High School Diploma",
+            "field": "99.5%",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Bengali "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID coursera.org/verify/Q5XA3A6ZPD8ESee credential",
+            "subtitle": "Coursera",
+            "title": "Basic Image Classification with TensorFlow"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID EZLBRL4S9ZPUSee credential",
+            "subtitle": "Coursera",
+            "title": "Detecting COVID-19 with Chest X-Ray using PyTorch"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID PZ66EWEZN9WLSee credential",
+            "subtitle": "Coursera",
+            "title": "Sentiment Analysis with Deep Learning using BERT"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Artificial Intelligence Foundations: Neural Networks"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Building and Deploying Deep Learning Applications with TensorFlow"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Neural Networks and Convolutional Neural Networks Essential Training"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "NLP with Python for Machine Learning Essential Training"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID ZETT7DSK2MV7See credential",
+            "subtitle": "Coursera",
+            "title": "Probability and Statistics: To p or not to p?"
+        }
+    ],
+    "recommendations": [
+        "Archi Banerjee “I have known Koushiki in more than one way, and specifically she is a wonderful person to work with and run a team. Koushiki is a brilliant, intuitive and hardworking researcher who never shies away from exploring fields that are considered unconventional with respect to her line of research. In general too, she never shies away from new experiences in her work-life. To sum up, Ms Dasgupta Chaudhuri is someone with a strong knowledge and solid overview of the core of her fields of interest, well skilled in various other allied scientific fields, and a great person to have in your team. ”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jul 2018 - Mar 2020 · 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Mar 2020",
+            "info": "Teaching underprivileged students(primary and pre-primary level) of nearby villages of IIT Kharagpur on weekends.",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Teacher"
+        }
+    ],
+    "followers": 3696.0,
+    "connections": 500.0,
+    "current_company_company_id": "squarepoint-capital",
+    "current_company_name": "Squarepoint Capital",
+    "publications": "[{\"title\":\"Relation Predictions in Comorbid Disease Centric Knowledge Graph Using Heterogeneous GNN Models\",\"subtitle\":\"International Work-Conference on Bioinformatics and Biomedical Engineering, Springer Nature Switzerland\",\"date\":\"June 29, 2023\",\"description\":\"Disease comorbidity has been an important topic of research for the last decade. This topic has become more popular due to the recent outbreak of COVID-19 disease. A comorbid condition due to multiple concurrent diseases is more fatal than a single disease. These comorbid conditions can be caused due to different genetic as well as drug-related side effects on an individual. There are already successful methods for predicting comorbid disease associations. This disease-associated genetic or drug-invasive information can help infer more target factors that cause common diseases. This may further help find out effective drugs for treating a pair of concurrent diseases. In addition to that, the common drug side-effects causing a disease phenotype and the gene associated with that can be helpful in finding important biomarkers for further prognosis of the comorbid disease. In this paper, we use the knowledge graph (KG) from our previous study to find out target-specific relations apart from sole disease-disease associations. We use four different heterogeneous graph neural network models to perform link prediction among different entities in the knowledge graph and we perform a comparative analysis among them. It is found that our best heterogeneous GNN model outperforms existing state-of-the-art models on a few target-specific relationships. Further, we also predict a few novel drug-disease, drug-phenotype, disease-phenotype, and gene-phenotype associations. These interrelated associations are further used to find out the common phenotypes associated with a comorbid disease as well as caused by the direct side effects of a treating drug. In this regard, our methodology also predicts some novel biomarkers and therapeutics for different fatal prevalent diseases.\"},{\"title\":\"A hybrid extreme learning machine model with harris hawks optimisation algorithm: an optimised model for product demand forecasting applications\",\"subtitle\":\"Applied Intelligence, Springer\",\"date\":\"January 26, 2022\",\"description\":\"Accurate and real-time product demand forecasting is the need of the hour in the world of supply chain management. Predicting future product demand from historical sales data is a highly non-linear problem, subject to various external and environmental factors. In this work, we propose an optimised forecasting model - an extreme learning machine (ELM) model coupled with the Harris Hawks optimisation (HHO) algorithm to forecast product demand in an e-commerce company. ELM is preferred over traditional neural networks mainly due to its fast computational speed, which allows efficient demand forecasting in real-time. Our ELM-HHO model performed significantly better than ARIMA models that are commonly used in industries to forecast product demand. The performance of the proposed ELM-HHO model was also compared with traditional ELM, ELM auto-tuned using Bayesian Optimisation (ELM-BO), Gated Recurrent Unit (GRU) based recurrent neural network and Long Short Term Memory (LSTM) recurrent neural network models. Different performance metrics, i.e., Root Mean Squared Error (RMSE), Mean Absolute Percentage Error (MAPE) and Mean Percentage Error (MPE) were used for the comparison of the selected models. Horizon forecasting at 3 days and 7 days ahead was also performed using the proposed approach. The results revealed that the proposed approach is superior to traditional product demand forecasting models in terms of prediction accuracy and it can be applied in real-time to predict future product demand based on the previous week’s sales data. In particular, considering RMSE of forecasting, the proposed ELM-HHO model performed 62.73% better than the statistical ARIMA(7,1,0) model, 40.73% better than the neural network based GRU model, 34.05% better than the neural network based LSTM model, 27.16% better than the traditional non-optimised ELM model with 100 hidden nodes and 11.63% better than the ELM-BO model in forecasting product demand for future 3 months.\"},{\"title\":\"Size Optimization for Intent Analysis in Voice Commanding \",\"subtitle\":\"Short Paper Track at MLADS-Synapse 2020, Microsoft’s ML, AI and Data Science Conference\",\"date\":\"Jul 2020\",\"description\":\"Voice technology is getting more and more ubiquitous and with that, the need for it to work always. In this technology, a major highlight is to incorporate voice commanding in an application on a device. This suffers inaccuracies at two levels, firstly the conversion of the user's speech command to text and secondly classification of the underlying intent from this text. This twofold process is presently either done completely On-server limiting the functionality to only when user is online or incorporates two Deep Learning models leaving behind huge memory footprints in the app. In this work, we show how this problem can be solved by training only a single size optimized Intent classifier covering up the inaccuracies incurred by the device offline speech recognizer. A quantitative size comparison is first shown between various existing Machine Learning and Deep Learning Intent Classifier Models followed by an end to end implementation of this in Microsoft Word App.\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "koushikidasguptachaudhuri",
+    "activity": [
+        {
+            "interaction": "Liked by Koushiki Dasgupta Chaudhuri",
+            "link": "",
+            "title": "Last night Samantha Harvey won the Booker Prize for her novel \"Orbital\". The 136 pages of beauty are not structured like a traditional story but…",
+            "img": "",
+            "id": "7262355975934754817"
+        },
+        {
+            "interaction": "Liked by Koushiki Dasgupta Chaudhuri",
+            "link": "",
+            "title": "Thrilled to be presenting our work at Harvard Medical School Theory Lunch (chalk talk) on principles of cancer cell decision-making networks on…",
+            "img": "",
+            "id": "7259461733482692608"
+        },
+        {
+            "interaction": "Liked by Koushiki Dasgupta Chaudhuri",
+            "link": "",
+            "title": "I’m thrilled to share the release of my first book, Leafy Adventure. This book is born out of my own passion and love for Gardening—something…",
+            "img": "",
+            "id": "7261055442506698752"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Shared by Koushiki Dasgupta Chaudhuri",
+            "img": "",
+            "id": "47"
+        },
+        {
+            "interaction": "Liked by Koushiki Dasgupta Chaudhuri",
+            "link": "",
+            "title": "Boost your Consulting CV! With the CDC internship CV submission deadline approaching, I've been reviewing the CVs of some of the juniors and wanted…",
+            "img": "",
+            "id": "7082609481326481409"
+        },
+        {
+            "interaction": "Liked by Koushiki Dasgupta Chaudhuri",
+            "link": "",
+            "title": "What a great crowd - what a great program! It is the privilege of working with people like this that motivates me evey day! CMS Master - TU Dresden…",
+            "img": "",
+            "id": "7082448064799502336"
+        },
+        {
+            "interaction": "Shared by Koushiki Dasgupta Chaudhuri",
+            "link": "",
+            "title": "I am happy to share that our paper - \"Relation Predictions in Comorbid Disease Centric Knowledge Graph Using Heterogeneous GNN Models\" was accepted…",
+            "img": "",
+            "id": "7082325703773323264"
+        },
+        {
+            "interaction": "Liked by Koushiki Dasgupta Chaudhuri",
+            "link": "",
+            "title": "⚡️ Hiring alert ⚡️ Looking for Growth & Strategy Associates to join DPDzero If you are someone who, 💪🏻 Has a Growth mindset ❤️ Is Passionate…",
+            "img": "",
+            "id": "7077502967528001536"
+        },
+        {
+            "interaction": "Liked by Koushiki Dasgupta Chaudhuri",
+            "link": "",
+            "title": "Big news! I am excited to share that I will be relocating to a new country and joining TSMC in Taiwan as a Software Engineer - RC Solution Engineer!…",
+            "img": "",
+            "id": "7034169785386999808"
+        }
+    ],
+    "linkedin_num_id": 703714076.0,
+    "honors_and_awards": [
+        {
+            "title": "MITACS Globalink Research Internship Programme",
+            "publication": "-",
+            "date": "2022-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "DAAD - Wise Fellowship",
+            "publication": "German Academic Exchange Service - DAAD",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "JEE Advanced 2624 rank",
+            "publication": "-",
+            "date": "2018-06-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "ISC All India Topper",
+            "publication": "-",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "Topped the all India pre-collegiate final level school examinations with 99.5%"
+        },
+        {
+            "title": "ICSE All India 5th rank",
+            "publication": "-",
+            "date": "2016-05-01T00:00:00.000Z",
+            "description": "All India 5th rank in the intermediate school level examination"
+        },
+        {
+            "title": "KVPY(Kishore Vaigyanik Protsahan Yojana) Fellowship",
+            "publication": "Department of Science and Technology,Government of India",
+            "date": null,
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": "[{\"subtitle\":\"S14PUN493\",\"title\":\"BSNL EETP COURSE\"},{\"subtitle\":\"-\",\"title\":\"Diploma In Java Technology\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2023Credential ID  credential",
+            "subtitle": "University of Virginia",
+            "title": "Agile Meets Design Thinking"
+        },
+        {
+            "meta": "Issued Aug 2023Credential ID  credential",
+            "subtitle": "University of Colorado",
+            "title": "Agile Leadership"
+        },
+        {
+            "meta": "Issued Aug 2023Credential ID  credential",
+            "subtitle": "Google Cloud Training Online",
+            "title": "Google Cloud Introduction to Large Language Models"
+        },
+        {
+            "meta": "Issued Apr 2023Credential ID 1681110196853See credential",
+            "subtitle": "aktivlearn",
+            "title": "Leading Teams Effectively"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID 27031503See credential",
+            "subtitle": "Tata Motors",
+            "title": "Project Management: Scrum Framework for Software Development"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID UC-U15633PESee credential",
+            "subtitle": "Udemy",
+            "title": "Data Science for Professionals"
+        },
+        {
+            "meta": "Issued Jun 2018See credential",
+            "subtitle": "Amazon Web Services",
+            "title": "AWS"
+        },
+        {
+            "meta": "Issued Feb 2018See credential",
+            "subtitle": "Amazon Web Services",
+            "title": "AWS Innovate Online Conference Certificate"
+        },
+        {
+            "meta": "Issued Dec 2017",
+            "subtitle": "Profound Edutech Pvt Ltd",
+            "title": "Diploma in Java Technology"
+        },
+        {
+            "meta": "Issued Sep 2015See credential",
+            "subtitle": "RankSheet Online Services Pvt. Ltd.",
+            "title": "Professional Level in OOPS"
+        }
+    ],
+    "current_company_name": "Tata Motors",
+    "publications": "[{\"title\":\"Chatbot Development Simplified: An In-Depth Look at JIGYASABOT Platform and Alternatives\",\"subtitle\":\"Springer\",\"date\":\"January 19, 2024\",\"description\":\"The rapid integration of chatbot technology in diverse industries has revolutionized the way businesses engage with their customers and users. This research paper presents a comprehensive overview of recent chatbot platforms, exploring its essential components, functionalities, and its profound impact on the chatbot ecosystem. The study further investigates the potential applications of this platform and its transformative influence on artificial intelligence applications and innovations. Furthermore, the paper analyzes different categories of chatbot platforms, considering factors such as goal orientation, conversational capabilities, and ease of programming. The study showcases various tech-giant platforms like Google Dialogflow, IBM Watson, RASA NLU, ManyChat, and Microsoft Bot Framework, highlighting their unique features and applications. Moreover, the research discusses how these platforms can be employed to develop chatbots for distinct purposes, from educational and medical consultancies to marketing and customer care. RASA NLU stands out as an open-source NLP library, enabling designers to customize natural language processing for chatbots, while ManyChat offers simplicity and rapid deployment for Facebook Messenger bots. Python's ChatterBot library and TensorFlow, a versatile machine learning platform, are also explored for their automated response capabilities and deep neural network training, respectively. This research paper sheds light on the diversity and potential of chatbot builder platforms. The findings offer valuable insights for researchers, developers, and industry professionals in harnessing the power of chatbots and artificial intelligence to shape the future of customer engagement and user experiences.\"},{\"title\":\"my blog\",\"subtitle\":\"www.abhijitdalavi.weebly.com\",\"date\":\"June 10, 2013\",\"description\":\"this is my personal blog for the students like me. which helps them to build up their skills and knowledge about the electro machines.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"AI Sales Pitch generator\",\"start_date\":\"Jan 2024\",\"description\":\"Creates personalized pitches based on user profiles and virtual salesman personas, boosting sales conversion. Conversational AI assistants for customer service and in-vehicle interactions. Personalization of user experiences within automotive applications.\"},{\"title\":\"EV Post Installation Feedback\",\"start_date\":\"May 2021\",\"description\":\"EV post survey feedback capture through integrated platform.\"},{\"title\":\"JIGYASABOT\",\"start_date\":\"May 2021\",\"description\":\"Chatbot generator pipeline in single app. Design and Deploy survey chatbots within seconds can be possible through JIGYASABOT Platform. AI enabled chatbots with New LLM based models.\"},{\"title\":\"Struck Off Portal\",\"start_date\":\"May 2021\",\"description\":\"Struck off companies portal for Finance Teams all over India. Integration of iRPA and AI technology to give prompt output.\"},{\"title\":\"CLM Rachana\",\"start_date\":\"May 2020\",\"description\":\"Contract Life Cycle Management System for inhouse legal repository. NLP and AI based solution to give prompt output within seconds.\"},{\"title\":\"Khushi Chatbot - PV sales and CV sales\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jan 2021\",\"description\":\"Designed web chatbot framework from scratch which will be customised for many service and faq level Chatbots. revenue generated till now is around 2 million rupees.\"},{\"title\":\"Drishti BookMySeat Chatbot\",\"start_date\":\"Aug 2020\",\"end_date\":\"Dec 2020\",\"description\":\"Drishti chatbot which can record the user work-life balance feedback and users can able to book the seat for any office from any location.\"},{\"title\":\"Customer classification based on interest\",\"start_date\":\"Apr 2019\",\"end_date\":\"Jan 2020\",\"description\":\"Development of customer classification model based on their interest of around a million users.\"},{\"title\":\"fitsy web chatbot\",\"start_date\":\"May 2019\",\"end_date\":\"Oct 2019\",\"description\":\"Designed interactive chatbot for information about the application and creating ticket based on the request from a user.\"},{\"title\":\"Food Recognition using deep learning\",\"start_date\":\"Feb 2019\",\"end_date\":\"Apr 2019\",\"description\":\"Developed algorithm using computer vision techniques to detect contour based food detection and trained a model to recognise the food item.\"},{\"title\":\"Personalized Entity (Servicer) Recommendation\",\"start_date\":\"Oct 2018\",\"end_date\":\"Jan 2019\",\"description\":\"Developed a heterogeneous information network based movie recommendation system for recommendation in cold start settings\"},{\"title\":\"Servicer Assignment for Cash Matching Application\",\"start_date\":\"Mar 2018\",\"end_date\":\"Jan 2019\",\"description\":\"Designed regression model using banking transactions data for prediction of the servicer who initiated the transaction. This model is having 94% accuracy and serviced millions of transactions now.\"},{\"title\":\"Scoring mechanism for interactive chat\",\"start_date\":\"Feb 2018\",\"end_date\":\"Sep 2018\",\"description\":\"Developed a scoring algorithm to predict the correctness of answer in an interactive chat application.\"},{\"title\":\"Neural Abstract Generation from paragraph.\",\"start_date\":\"Nov 2017\",\"end_date\":\"Jan 2018\",\"description\":\"Implemented NLP (natural language processing) based sentence attention mechanism for neural abstract summarization.\"},{\"title\":\"breast cancer detection by using support vector machine algorithm\",\"start_date\":\"Jun 2015\",\"end_date\":\"Jun 2016\",\"description\":\"breast cancer detection using mamograophic image database classification of benign or malignant masses by support vector machine algorithms.\"},{},{},{\"title\":\"Wireless Fire Alarm System with gsm module.\",\"start_date\":\"Jul 2012\",\"end_date\":\"Apr 2013\",\"description\":\"This is a fire alarm system used for industrial security against fire and speedly preventation of it. This system connected to gsm module to send a message contains the specified location of where fire system is connected to control room mobile reciever .\"},{},{},{\"title\":\"whether data logger \",\"description\":\"using arduino atmega 328p controller this project is used to track whether changes and by using graphs on matlab.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Idea Selected for Implementation in Tata Group eHackathon",
+            "publication": "Tata Ideas",
+            "date": "2021-08-01T00:00:00.000Z",
+            "description": "Chatbot for verifying and updating contact details "
+        },
+        {
+            "title": "Idea Selected for Implementation in Tata Group eHackathon",
+            "publication": "Tata Ideas",
+            "date": "2021-08-01T00:00:00.000Z",
+            "description": "Certificate URL-  Idea selected in group innovation eHackathon"
+        },
+        {
+            "title": "Tata Motors Bronze Award",
+            "publication": "Tata Motors Ltd",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": "Customizable Chatbot Product Delivery"
+        },
+        {
+            "title": "Good Job Done (Team Recognition)",
+            "publication": "Tata Motors",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "Khushi Bot Product Delivery"
+        },
+        {
+            "title": "Employee of the Month",
+            "publication": "SQUATS",
+            "date": "2019-05-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "BEST OUTGOING STUDENT AWARD 2016",
+            "publication": "MMCOE Pune",
+            "date": "2016-06-01T00:00:00.000Z",
+            "description": "Awarded by MMCOE for best performance in the BE 2014-2016"
+        },
+        {
+            "title": "Best Rookie Award Robocon 2015",
+            "publication": "Robocon Asia",
+            "date": "2015-07-01T00:00:00.000Z",
+            "description": "Team Award"
+        }
+    ]
+}

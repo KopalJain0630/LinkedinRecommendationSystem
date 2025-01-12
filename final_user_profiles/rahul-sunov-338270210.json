@@ -1,0 +1,146 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "MLSA | Web Development Lead @ Google Developer Student Club",
+    "experience": [
+        {
+            "title": "System Engineer",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Tata Consultancy Services",
+            "company_id": "tata-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Social Media Head",
+            "description_html": null,
+            "duration": "Nov 2021 Dec 2023 2 years 2 months",
+            "start_date": "Nov 2021",
+            "end_date": "Dec 2023",
+            "duration_short": "2 years 2 months",
+            "company": "Youth Red Cross, VIT",
+            "company_id": "youth-red-cross-vit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Operations Head",
+            "description_html": null,
+            "duration": "Aug 2022 Oct 2023 1 year 3 months",
+            "start_date": "Aug 2022",
+            "end_date": "Oct 2023",
+            "duration_short": "1 year 3 months",
+            "company": "NexSeed Club",
+            "company_id": "nexseed-vit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Google Developer Student Club, VIT Chennai",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Google Developer Student Club, VIT Chennai",
+                    "meta": "Aug 2022 - Aug 2023 1 year 1 month",
+                    "duration": "Aug 2022 Aug 2023 1 year 1 month",
+                    "start_date": "Aug 2022",
+                    "end_date": "Aug 2023",
+                    "duration_short": "1 year 1 month",
+                    "title": "Web Development Lead",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Google Developer Student Club, VIT Chennai",
+                    "meta": "Sep 2021 - Jul 2022 11 months",
+                    "duration": "Sep 2021 Jul 2022 11 months",
+                    "start_date": "Sep 2021",
+                    "end_date": "Jul 2022",
+                    "duration_short": "11 months",
+                    "title": "Competitive Programmer",
+                    "description_html": null
+                }
+            ],
+            "company": "Google Developer Student Club, VIT Chennai",
+            "company_id": "gdg-vitc",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research And Development Intern",
+            "location": "Bhilai, Chhattisgarh, India",
+            "description_html": null,
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Steel Authority of India Limited",
+            "company_id": "steel-authority-of-india-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Microsoft Learn Student Ambassadors",
+            "description_html": null,
+            "duration": "Jan 2022 Apr 2023 1 year 4 months",
+            "start_date": "Jan 2022",
+            "end_date": "Apr 2023",
+            "duration_short": "1 year 4 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Outreach",
+            "description_html": null,
+            "duration": "Oct 2021 Apr 2023 1 year 7 months",
+            "start_date": "Oct 2021",
+            "end_date": "Apr 2023",
+            "duration_short": "1 year 7 months",
+            "company": "VIT Finance and Management Club",
+            "company_id": "vitfam",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Vellore Institute of Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School - Bhilai",
+            "degree": "12th-94.4%, 10th-92.5%",
+            "start_year": "2006",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2021Credential ID NPTEL21CS62S23260068See credential",
+            "subtitle": "NPTEL",
+            "title": "Cloud Computing"
+        }
+    ],
+    "current_company_name": "Tata Consultancy Services",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

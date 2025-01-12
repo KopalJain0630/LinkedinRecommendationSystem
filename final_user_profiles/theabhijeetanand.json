@@ -1,0 +1,83 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology (Indian School of Mines), Dhanbad",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advanced Certification in Cyber Law practice, Information technology Agreements and Social Media Law\"},{\"subtitle\":\"-\",\"title\":\"CT Operational School\"},{\"subtitle\":\"-\",\"title\":\"CT and Stimulation Technical School\"},{\"subtitle\":\"-\",\"title\":\"Energy Conservation\"},{\"subtitle\":\"-\",\"title\":\"Negotiation Refresher Workshop Class\"},{\"subtitle\":\"-\",\"title\":\"Water Control School\"},{\"subtitle\":\"-\",\"title\":\"Well Control Course\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Dec 2016",
+            "subtitle": "iPleaders.in",
+            "title": "Advanced Certification in Cyber Law practice, Information technology Agreements and Social Media Law"
+        },
+        {
+            "meta": "Issued Jul 2011",
+            "subtitle": "Petroleum Conservation Research Association, Ministry of Petroleum and Natural Gas, GOI.",
+            "title": "Institutional guide for Energy Efficiency and Conservation"
+        },
+        {
+            "meta": "Issued Jan 2005",
+            "subtitle": "Helpage India- A NGO working for the cause and care of the aged people.",
+            "title": "Outstanding Contribution Award"
+        },
+        {
+            "meta": "Issued Mar 2014Expires Mar 2018",
+            "subtitle": "IWCF",
+            "title": "Well Control Certification"
+        }
+    ],
+    "current_company_name": "abCoffee",
+    "publications": "[{\"title\":\"Optimized Well Performance Through Stage Fracturing and Coiled Tubing Perforations and Isolation Operations in a Horizontal Tight Gas Reservoir: A Case Study\",\"subtitle\":\"SPE, OTC\",\"date\":\"March 22, 2016\",\"description\":\"SPE paper published on the SLB's maiden plug and perforation multi-stage stimulation operations in India.\"},{\"title\":\"Suitability of horizontal, vertical and inclined wells in an Indian offshore platform using Pressure Transient Analysis\",\"subtitle\":\"ATCE 2012, SPE\",\"date\":\"October 8, 2012\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Relevance of Nanotechnology in Petroleum Industry: Present Scenario and Future Challenges\",\"start_date\":\"Mar 2013\",\"description\":\"University Final year thesis with focal points as under:1. Analyse the current trend and advancement in nanotechnology in the global oil industry.2. Comparison of the nanotech advancements of the oil industry with other industries.3. Suggest nanotechnology technologies which could be the future of the oil industry.\"},{\"title\":\"Dogleg selection for the Bhagyam and Mangla fields of Cairn\",\"start_date\":\"Jun 2012\",\"description\":\"Designed a thumb rule for dogleg values for drilling in BH-N, Bhagyam and Mangla fields using numerical multiple regression and field data.\"},{\"title\":\"Interpretation of the Well test data of NH Bombay High field.\",\"start_date\":\"Dec 2011\",\"description\":\"Manual Interpretation of the Well Testing data of the Bombay High field along with the Reservoir team of IRS.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "2021 SPE International Young Professional Service Award",
+            "publication": "Society of Petroleum Engineers",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": "I was recognized by the Society of Petroleum Engineers for the 2021 SPE International Young Professional Service Award for my contributions to the Energy industry and social innovations across Asia, and Europe."
+        },
+        {
+            "title": "Winner Well Intervention SIG 2016 Quiz Series",
+            "publication": "Eureka Schlumberger",
+            "date": "2016-12-01T00:00:00.000Z",
+            "description": "The Winner of the Well Intervention SIG 2016 Quiz series."
+        },
+        {
+            "title": "TOP 150 Eureka contributors",
+            "publication": "Schlumberger Eureka Group",
+            "date": "2015-12-01T00:00:00.000Z",
+            "description": "Nominated among TOP 150 contributors globally among 1,20,000 employees for the contribution and initiatives in the Well Intervention Special Interest Group of the Eureka Community of Schlumberger."
+        },
+        {
+            "title": "Top of Class",
+            "publication": "Schlumberger",
+            "date": "2014-03-01T00:00:00.000Z",
+            "description": "Awarded the \"Top of Class\" award among 15 trainees for the Coiled Tubing Operational school held at Middle East and Asia Learning Centre, Abu Dhabi."
+        }
+    ]
+}

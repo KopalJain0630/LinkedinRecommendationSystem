@@ -1,0 +1,62 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006-04",
+            "end_year": "2008-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2005",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Civil Engineering\"}]",
+    "certifications": null,
+    "current_company_name": "Satnara IIT AIIMS Academy",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Ganga River Basin Management Plan\",\"start_date\":\"2011\",\"end_date\":\"2012\",\"description\":\"An initiative by consortium of PAN IITs and the Ministry of Environment and Forests, Government of India || Guide - Professor D.J. Sen, Department of Civil Engineering, IIT Kharagpur•In depth analysis of Ganga River Basin of West Bengal by simulating surface discharge using SWAT incorporating weather data collected by NASA and other institutions•Locating areas with low ground water levels, surface runoff and high pollution levels and preparing plan to rectify the problem•Instrumental in serving India and Bangladesh with adequate amount of healthy water for future\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "National Standard Examination in Physics",
+            "publication": "Indian Association for Physics Teachers",
+            "date": "2011-04-01T00:00:00.000Z",
+            "description": "Awarded Certificate of Merit for being placed in state-wise top 1% in National Standard Examination in Physics organized by Indian Association for Physics Teachers (2007)"
+        },
+        {
+            "title": "Jagadis Bose National Science Talent Search Scholarship",
+            "publication": "JBNSTS",
+            "date": "2008-12-01T00:00:00.000Z",
+            "description": "Conferred Jagadis Bose National Science Talent Search Scholarship, awarded to only 23 students in entire West Bengal (2008)"
+        },
+        {
+            "title": "Nanyang Technological University, 100% Scholarship",
+            "publication": "Nanyang Technological University",
+            "date": "2008-04-01T00:00:00.000Z",
+            "description": "Offered B.Tech. in Computer Science Engineering at Nanyang Technological University, Singapore with 100% Scholarship(2008)"
+        },
+        {
+            "title": "Sanskrit Pratibha Award",
+            "publication": "Delhi Sanskrit Academy",
+            "date": "2006-03-01T00:00:00.000Z",
+            "description": "Awarded Sanskrit Pratibha Award by Delhi Sanskrit Academy"
+        }
+    ]
+}

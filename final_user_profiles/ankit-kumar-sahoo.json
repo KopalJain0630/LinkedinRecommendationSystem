@@ -1,0 +1,135 @@
+{
+    "city": "Cuttack, Odisha, India",
+    "position": "SDE at Microsoft | Ex- Walmart | Ex-SDE Intern @Sprinklr | Knight @Leetcode | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer II",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 Aug 2024 1 year 2 months",
+            "start_date": "Jul 2023",
+            "end_date": "Aug 2024",
+            "duration_short": "1 year 2 months",
+            "company": "Walmart Global Tech India",
+            "company_id": "walmartglobaltechindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Engineering Intern",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Sprinklr",
+            "company_id": "sprinklr",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij, IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "May 2021 - May 2022 1 year 1 month",
+                    "duration": "May 2021 May 2022 1 year 1 month",
+                    "start_date": "May 2021",
+                    "end_date": "May 2022",
+                    "duration_short": "1 year 1 month",
+                    "title": "Technical Team Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Aug 2020 - May 2021 10 months",
+                    "duration": "Aug 2020 May 2021 10 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "10 months",
+                    "title": "Technical Team Sub-Head",
+                    "description_html": null
+                }
+            ],
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Web Development Intern",
+            "description_html": null,
+            "duration": "Dec 2021 Apr 2022 5 months",
+            "start_date": "Dec 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "5 months",
+            "company": "Artyvis",
+            "company_id": "artyvis",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Department Representative",
+            "description_html": null,
+            "duration": "Sep 2021 Apr 2022 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "8 months",
+            "company": "Career Development Centre, IIT Kharagpur",
+            "company_id": "cdciitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Industrial and Systems Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020Credential ID KLTSWVRE35SQSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID J8LKNTT3AR8ASee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID BA9TXDC5WTFPSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

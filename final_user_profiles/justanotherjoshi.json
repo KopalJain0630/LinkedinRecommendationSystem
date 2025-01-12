@@ -1,0 +1,88 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2013",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2023",
+            "subtitle": "Udemy",
+            "title": "The Complete SQL Bootcamp: Go from Hero to Zero"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID UC-ca028998-9b77-49db-82e4-0b4f66b0c755",
+            "subtitle": "Udemy",
+            "title": "Big Data Analysis: using Sqoop & Advance HIVE"
+        },
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "Shobhit University",
+            "title": "Inspirer Day Celebrations Annual Sports Meet 2021 Hackathon: First Rank"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Python for Data Science"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID QGJXTM34FJ5MSee credential",
+            "subtitle": "Coursera",
+            "title": "Business Analytics for Decision Making"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Udemy",
+            "title": "NLP - Natural Language Programming with Python "
+        },
+        {
+            "meta": "Issued Nov 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Web Scraping using Python"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Chatbot Using IBM Watson Assistant"
+        },
+        {
+            "meta": "Issued May 2019",
+            "subtitle": "Skillics Learning Solutions",
+            "title": "Personality Development"
+        },
+        {
+            "meta": "Issued Jan 2012See credential",
+            "subtitle": "International Mathematical Olympiad",
+            "title": "State Top Score of International Olympiad of Mathematics"
+        }
+    ],
+    "current_company_name": "Deloitte",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Forest Fire Burnt Area Prediction\",\"start_date\":\"Aug 2019\",\"end_date\":\"Present\",\"description\":\"Using MODIS data, a model built on determining the Brightness of a location with the help of other 3 variable inputs\"},{\"title\":\"ChatBot using IBM Watson Assistant\",\"start_date\":\"Jan 2020\",\"end_date\":\"Jan 2020\"},{\"title\":\"Sentimental Analysis on Adoption of Mobile Wallets\",\"start_date\":\"Jul 2019\",\"end_date\":\"Jan 2020\",\"description\":\"Predict the likeability of sustainance of mobile wallets in future in India MarketTo extract precise factor and Model generation using Effective Factor Analysis.\"},{\"title\":\"Made ROBOT Jumbo\",\"start_date\":\"Nov 2019\",\"end_date\":\"Nov 2019\",\"description\":\"Jumbo was our BattleRobo, for Robotwars in which our team obtain 1st Runner-up position\"},{\"title\":\"User Perception towards MI Phones:\",\"start_date\":\"Dec 2018\",\"end_date\":\"Jun 2019\",\"description\":\"Obtaining the data of mobile user of young age group(15-25years) Finding corelation of influencial variables which formulate the perception\"}]",
+    "honors_and_awards": null
+}

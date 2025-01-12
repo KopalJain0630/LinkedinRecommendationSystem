@@ -1,0 +1,116 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Bangalore",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2021Credential ID 37c670d03b394f3d87fd55057ce3602cSee credential",
+            "subtitle": "edX",
+            "title": "Conquering Humor Fundamentals"
+        },
+        {
+            "meta": "Issued Jan 2021Credential ID 1869ba98637242bd9299bd33052ae62cSee credential",
+            "subtitle": "edX",
+            "title": "Financing Innovative Ventures"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Entrepreneurship Foundations"
+        },
+        {
+            "meta": "Issued Nov 2019Credential ID UC-KSICQI0KSee credential",
+            "subtitle": "Udemy",
+            "title": "Value investing"
+        },
+        {
+            "meta": "Issued Mar 2018",
+            "subtitle": "KPMG India",
+            "title": "Lean Six Sigma Green Belt (ICGB)"
+        },
+        {
+            "meta": "Issued May 2017Credential ID bbf8217d103e4470a4b687c35b8588efSee credential",
+            "subtitle": "HubSpot",
+            "title": "Inbound Marketing Certification"
+        }
+    ],
+    "current_company_name": "General Atlantic",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Assistive device for people suffering from Alzheimer's disease\",\"start_date\":\"Apr 2015\",\"description\":\"A 3-device system, including a wearable device for the patient suffering from Alzheimer's disease, a range extender cum assistive device (which can be attached to any mobile phone) for the caregiver and an Android app for assisting the caregiver.\"},{},{},{\"title\":\"Audio Support System for Speech Impaired People\",\"start_date\":\"Aug 2014\",\"end_date\":\"Apr 2015\",\"description\":\"An embedded system to provide limited audio support for Speech impaired person\"},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Campus Finalist , 1/224 of 6.3k+ (across 24 clgs), Colgate Transcend Challenge",
+            "publication": "-",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "National Runners up, Venture Capital Investment Competition (organised by UNC Kenan Flagler)",
+            "publication": "-",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": "Represented IIM Banaglaore, international VC Investment competition by UNC Kenan Flagler"
+        },
+        {
+            "title": "PPO, Valuelabs",
+            "publication": "-",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": "Pre-placement offer from Valuelabs"
+        },
+        {
+            "title": "Regional finalist , 1/27 of 200+ , ABG Avant-Garde 4.0",
+            "publication": "-",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Campus Finalist, 1/8 of 64, Mahindra War Room Challenge",
+            "publication": "-",
+            "date": "2018-11-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "National Finalist, 1/12 of 4600+ teams, Atom, Bajaj Finserve",
+            "publication": "-",
+            "date": "2018-11-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Campus Finalist: ABG Stratos , 1/7 of 50+teams",
+            "publication": "-",
+            "date": "2017-09-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Campus Runners-up, Reliance The Ultimate Pitch 3.0",
+            "publication": "-",
+            "date": null,
+            "description": "Business Idea presentation competition"
+        },
+        {
+            "title": "Regional Finalist , 1/60 of 2900+ , RB Global Challenge",
+            "publication": "-",
+            "date": null,
+            "description": null
+        }
+    ]
+}

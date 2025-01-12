@@ -1,0 +1,326 @@
+{
+    "id": "rishabhvatsa",
+    "name": "Rishabh Vatsa",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": "Data Scientist at SIGN3 || NITJ 2018-22",
+    "about": "Knowledge of Python, MySQL, Machine Learning and Data Analytics with a Bachelor of Technology - BTech focused in Instrumentation and Control from Dr. B R Ambedkar National Institute of Technology, Jalandhar.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "SIGN3",
+        "company_id": "sign3labs",
+        "title": "Data Scientist at SIGN3 || NITJ 2018-22"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Gurugram, Haryana, India",
+            "description": "Risk Model for Device Intelligence: Developed and continuously upgraded a risk model to identify risky devices for a Device Intelligence product. This model helps companies assess users at any stage of the funnel, enhancing platform security and decision-making.Embeddings PoC: Contributing as an individual contributor under senior data leadership, conducting a Proof of Concept to validate the InternViT image encoder model. The project combines image and text embeddings to generate generic embeddings, which aid in evaluating user behavior across various funnel stages, helping companies make informed decisions. Used advanced clustering and visualisation techniques such as PCA, t-SNE, and UMAP for validation.Open Source LLM Implementation: Led the setup and integration of open-source LLMs, including LLaMa, Wizard-ML, and bart-large-mnli models, into products. This improved classification tasks and enhanced the intelligence layer for real-time processing in 'Digital Footprint.'Data-Centric Workflow: Focused 80% of time on working with complex datasets, performing feature engineering, data exploration, and generating insights that drive business problem-solving and model development.Azure Data Pipelines: Set up experimental and validation data pipelines between Azure, VMs, and local storage environments for seamless data flow in various projects.Leadership and Innovation: Managed a team of four and successfully executed over 30 PoCs, showcasing innovative data-driven solutions for clients, enhancing product features and decision-making.",
+            "description_html": "Risk Model for Device Intelligence: Developed and continuously upgraded a risk model to identify risky devices for a Device Intelligence product. This model helps companies assess users at any stage of the funnel, enhancing platform security and decision-making.Embeddings PoC: Contributing as an individual contributor under senior data leadership, conducting a Proof of Concept to validate the InternViT image encoder model. The project combines image and text embeddings to generate generic embeddings, which aid in evaluating user behavior across various funnel stages, helping companies make informed decisions. Used advanced clustering and visualisation techniques such as PCA, t-SNE, and UMAP for validation.Open Source LLM Implementation: Led the setup and integration of open-source LLMs, including LLaMa, Wizard-ML, and bart-large-mnli models, into products. This improved classification tasks and enhanced the intelligence layer for real-time processing in 'Digital Footprint.'Data-Centric Workflow: Focused 80% of time on working with complex datasets, performing feature engineering, data exploration, and generating insights that drive business problem-solving and model development.Azure Data Pipelines: Set up experimental and validation data pipelines between Azure, VMs, and local storage environments for seamless data flow in various projects.Leadership and Innovation: Managed a team of four and successfully executed over 30 PoCs, showcasing innovative data-driven solutions for clients, enhancing product features and decision-making.",
+            "duration": "Dec 2022 - Present 2 years 1 month",
+            "start_date": "Dec 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 1 month",
+            "company": "SIGN3",
+            "company_id": "sign3labs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Product Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Automated the generation of weekly RFM (Recency, Frequency, Monetary) reports, enhancing efficiency and accuracy in customer behavior analysisCollaborated on consolidating UI/UX enhancements for dashboards, resulting in improved user experience and engagementDesigned and implemented the ETL process for monthly and annual data refresh of the dashboard, ensuring up-to-date and reliable insights",
+            "description_html": "Automated the generation of weekly RFM (Recency, Frequency, Monetary) reports, enhancing efficiency and accuracy in customer behavior analysisCollaborated on consolidating UI/UX enhancements for dashboards, resulting in improved user experience and engagementDesigned and implemented the ETL process for monthly and annual data refresh of the dashboard, ensuring up-to-date and reliable insights <!---->",
+            "duration": "Jul 2022 Dec 2022 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "6 months",
+            "company": "TEG Analytics",
+            "company_id": "teg-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SIGN3",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "5 months",
+            "positions": [
+                {
+                    "subtitle": "SIGN3",
+                    "meta": "Apr 2022 - Jul 2022 4 months",
+                    "description": "Conducted in-depth analysis of research papers focused on keystroke and touch dynamics implicit fingerprinting techniques, contributing to a comprehensive understanding of the fieldDeveloped and refined LSTM (Long Short-Term Memory) models tailored to touch dynamics implicit fingerprinting for diverse users, creating personalized personas for enhanced user identificationSuccessfully implemented the MFk-M clustering algorithm based on its foundational paper, specifically tailored for high-dimensional categorical datasets",
+                    "duration": "Apr 2022 Jul 2022 4 months",
+                    "start_date": "Apr 2022",
+                    "end_date": "Jul 2022",
+                    "duration_short": "4 months",
+                    "title": "Data Science Intern",
+                    "description_html": "Conducted in-depth analysis of research papers focused on keystroke and touch dynamics implicit fingerprinting techniques, contributing to a comprehensive understanding of the field<br><br>Developed and refined LSTM (Long Short-Term Memory) models tailored to touch dynamics implicit fingerprinting for diverse users, creating personalized personas for enhanced user identification<br><br>Successfully implemented the MFk-M clustering algorithm based on its foundational paper, specifically tailored for high-dimensional categorical datasets"
+                },
+                {
+                    "subtitle": "SIGN3",
+                    "meta": "Mar 2022 - Apr 2022 2 months",
+                    "description": "Investigated the importance of developer-based communities, understanding their crucial role in fostering collaboration, innovation, and product advancement of API  and SDK based productsExplored the initiatives and goals of the Fido Alliance, recognizing its significance in promoting secure authentication standards and contributing insights into the broader technology landscape",
+                    "duration": "Mar 2022 Apr 2022 2 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "Apr 2022",
+                    "duration_short": "2 months",
+                    "title": "Product and Community Analyst",
+                    "description_html": "Investigated the importance of developer-based communities, understanding their crucial role in fostering collaboration, innovation, and product advancement of API and SDK based products<br><br>Explored the initiatives and goals of the Fido Alliance, recognizing its significance in promoting secure authentication standards and contributing insights into the broader technology landscape <!---->"
+                }
+            ],
+            "company": "SIGN3",
+            "company_id": "sign3labs",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Narendra Singh",
+            "about": "Devops || Azure || AWS || Linux administrator || SRE",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranav Rihal",
+            "about": "MSE'24 @ CMU | SpringBoot, MERN | Ex-o9 Solutions",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Manish Kumar",
+            "about": "Air Traffic Controller || NITK'22",
+            "location": "Varanasi"
+        },
+        {
+            "profile_link": "",
+            "name": "Mihir Mali",
+            "about": "DC Analyst @Deloitte USI || NITK 2023",
+            "location": "Mangaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyas Rao Manchi",
+            "about": "Graduate Student at Columbia University | NITK Surathkal '23",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Raushan Kumar Singh",
+            "about": "Digital Marketing Manager at Cinntra Infotech Pvt. Ltd.",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Kapil Vyas",
+            "about": "Manager - Performance & Growth",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruvin Shah",
+            "about": "Looking forward to gaining experience in business /analytics /consulting roles.",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Tarannum Perween",
+            "about": "Pre-doctoral Research Apprentice at TCS Research (Robotics and Autonomous System) | Research Intern @IITD @NYU, @IITP | Technical Head @Robosoc",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Atul Kumar",
+            "about": "Ex-Noise | Ex - Mamaerth | Performace driven Digital Marketer | Aspiring Data Professional",
+            "location": "Noida"
+        }
+    ],
+    "educations_details": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+    "education": [
+        {
+            "title": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Instrumentation and Control",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2024Credential ID UC-0b1e1656-cb04-4a4c-a0b7-d809ad16c4adSee credential",
+            "subtitle": "Udemy",
+            "title": "Deep Learning A-Z 2024"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID UC-745b68ca-a5eb-48a5-9691-79c8a8330feaSee credential",
+            "subtitle": "Udemy",
+            "title": "Tableau 2020 Training for Data Science & Business Analytics"
+        },
+        {
+            "meta": "Issued Oct 2021Credential ID EBF37BFA56D5See credential",
+            "subtitle": "HackerRank",
+            "title": "MySQL "
+        },
+        {
+            "meta": "Issued Oct 2021Credential ID F8718883DD57See credential",
+            "subtitle": "HackerRank",
+            "title": "Python "
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID DND47P8X3J8BSee credential",
+            "subtitle": "Coursera",
+            "title": "Exploratory Data Analysis (EDA) in Google Sheets"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID GME3TNKYER55See credential",
+            "subtitle": "Coursera",
+            "title": "Game Development for Modern Platforms"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 9N5RXTZBDX7HSee credential",
+            "subtitle": "Coursera",
+            "title": "Principles of Game Design"
+        },
+        {
+            "meta": "Issued May 2020Credential ID QJ5MTF8JEX5ESee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Game Development"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Science and Technology",
+            "duration": "Mar 2019 - May 2021 · 2 years 3 months",
+            "duration_short": "2 years 3 months",
+            "end_date": "May 2021",
+            "start_date": "Mar 2019",
+            "subtitle": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+            "title": "Executive Member- Innovation Club"
+        },
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Jun 2019 · 1 year",
+            "duration_short": "1 year",
+            "end_date": "Jun 2019",
+            "start_date": "Jul 2018",
+            "subtitle": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+            "title": "NSS Volunteer"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Sep 2021 - Jun 2022 · 10 months",
+            "duration_short": "10 months",
+            "end_date": "Jun 2022",
+            "info": "Led the Science and Technology-oriented SPICE Society, NIT Jalandhar, for a tenure of 10 months.Enhanced the society's social media footprint through strategic initiatives, contributing to increased visibility and engagementPioneered the establishment of an Alumni-Student Interaction ecosystem, fostering valuable connections and knowledge exchangeOrchestrated impactful webinars covering diverse subjects, including Technology advancements in Instrumentation and Control…\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          Led the Science and Technology-oriented SPICE Society, NIT Jalandhar, for a tenure of 10 months.Enhanced the society's social media footprint through strategic initiatives, contributing to increased visibility and engagementPioneered the establishment of an Alumni-Student Interaction ecosystem, fostering valuable connections and knowledge exchangeOrchestrated impactful webinars covering diverse subjects, including Technology advancements in Instrumentation and Control Engineering, soft skills, Personality Development, and prudent investment strategies for individuals in their 20s\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Sep 2021",
+            "subtitle": "SPICE Society NIT Jalandhar",
+            "title": "Head"
+        }
+    ],
+    "followers": 1687.0,
+    "connections": 500.0,
+    "current_company_company_id": "sign3labs",
+    "current_company_name": "SIGN3",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Multiple Objects Tracking on Aerial Images\",\"start_date\":\"Nov 2021\",\"end_date\":\"May 2022\",\"description\":\"• Implemented Detection based trackers, where worked on centroid tracker and Deep SORT tracker with YOLOv4 as detection model trained on PASCAL datasets• Used SiamMask, a semi-supervised state-of-the-art technique as a detection-less tracker, first to draw the bounding box around the object from user Input and segment the video Stream around that bounding box, and track the segmented part in successive frames• extended the tracking of multiple objects in a frame using SiamMask\"},{},{},{\"title\":\"Application of Face Recognition in Robotics\",\"start_date\":\"Dec 2020\",\"end_date\":\"Jun 2021\",\"description\":\"• Constructed a Face recognition system by using HOG Algorithm as face identification Algorithm which identify people by creating gradient array from the face by concealing different sides of faces • Used Pyserial library to establish communication between Arduino and the computer system to respond to the circuitry from the output of the system in form output displayed at LCD Display • Used pttsx and Datetime library to bring out voice output for greeting identified face by system at the specified time and synchronized the output of voice when more than two faces are identified\"},{}]",
+    "organizations": null,
+    "location": "Gurugram",
+    "linkedin_id": "rishabhvatsa",
+    "activity": [
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "You might run into a censored confusion matrix in your data science career one day. For example , in product defect detection, if a product isn’t…",
+            "img": "",
+            "id": "7274392858604834816"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "Understanding Multiprogramming, Multitasking, and Multiprocessing: Simplified! 🔹 Multiprogramming (Single CPU): In a single-CPU system, multiple…",
+            "img": "",
+            "id": "7273617753737953280"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "In a heartbreaking incident, a man from Uttar Pradesh, working in Bengaluru, Atul Subhash, ended his life due to mental distress after his wife filed…",
+            "img": "",
+            "id": "7272203571452866561"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "Give me 2 minutes, and I'll teach you how Uber finds nearby drivers (not joking): ➟ They created a hexagonal-shaped hierarchical geospatial index…",
+            "img": "",
+            "id": "2"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "There are tons of Python libraries that we, as data scientists, use daily. I wanted to share one I've been using for a while and am really happy…",
+            "img": "",
+            "id": "7271497497234006016"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "Reduce grading costs, mitigats risks associated with undulating terrain, and enhance project-level economics by maintaining consistent pier reveal…",
+            "img": "",
+            "id": "7262070146557427712"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "In my career, I have inverted more Chrismas trees than binary trees 🌲 😂 Amazed that companies still have firm belief on leetcode grind to find…",
+            "img": "",
+            "id": "7266114528327671808"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "How to use GPU for local inference without having a GPU machine? Must have sounded like a clickbait, right? I didn’t mean to but what if I told you…",
+            "img": "",
+            "id": "7264140276611391489"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "🚀 Hiring for a portfolio startup 🚀 Exciting opportunity to join a cutting-edge tech team! Startup is led by a founder who was part of the…",
+            "img": "",
+            "id": "7259899615733252096"
+        },
+        {
+            "interaction": "Liked by Rishabh Vatsa",
+            "link": "",
+            "title": "My team and I extensively use CLIP in various projects, so when I came across this analysis on the 'modality gap,' it caught my attention. The…",
+            "img": "",
+            "id": "7264038797682577408"
+        }
+    ],
+    "linkedin_num_id": 667965845.0,
+    "honors_and_awards": [
+        {
+            "title": "Embark Fellow",
+            "publication": "upraised",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": "Recognized as a distinguished performer in the Upraised Embark Program, standing out amongst a competitive pool of over 455,000 participants Attained an exceptional rank of 590 in the field of Product and Growth during the rigorous 3rd Round of the Upraised Embark Fellowship Program"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

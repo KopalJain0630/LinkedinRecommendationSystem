@@ -1,0 +1,304 @@
+{
+    "id": "tiwarishaurabh",
+    "name": "Shaurabh Tiwari",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "SDE @Salesforce | Adobe | FinBox | ISB | UOttawa | 5 Star @Codechef | Expert @Codeforces | IIT Kharagpur'24",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Salesforce",
+        "company_id": "salesforce",
+        "title": "SDE @Salesforce | Adobe | FinBox | ISB | UOttawa | 5 Star @Codechef | Expert @Codeforces | IIT Kharagpur'24"
+    },
+    "experience": [
+        {
+            "title": "Software Development Engineer (AMTS)",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Salesforce",
+            "company_id": "salesforce",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Technology Literary Society, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "4 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Technology Literary Society, IIT Kharagpur",
+                    "meta": "Jun 2023 - May 2024 1 year",
+                    "duration": "Jun 2023 May 2024 1 year",
+                    "start_date": "Jun 2023",
+                    "end_date": "May 2024",
+                    "duration_short": "1 year",
+                    "title": "Executive Editor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Literary Society, IIT Kharagpur",
+                    "meta": "Jul 2021 - Jun 2023 2 years",
+                    "duration": "Jul 2021 Jun 2023 2 years",
+                    "start_date": "Jul 2021",
+                    "end_date": "Jun 2023",
+                    "duration_short": "2 years",
+                    "title": "Senior Editor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Literary Society, IIT Kharagpur",
+                    "meta": "Aug 2019 - Jul 2021 2 years",
+                    "duration": "Aug 2019 Jul 2021 2 years",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2021",
+                    "duration_short": "2 years",
+                    "title": "Writer",
+                    "description_html": null
+                }
+            ],
+            "company": "Technology Literary Society, IIT Kharagpur",
+            "company_id": "technology-literary-society",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Engineer (Backend)",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jan 2024 Apr 2024 4 months",
+            "start_date": "Jan 2024",
+            "end_date": "Apr 2024",
+            "duration_short": "4 months",
+            "company": "FinBox",
+            "company_id": "finbox-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research And Development Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "We worked as a team of three people. Applied Large Language Models (LLMs) to improve reviewer efficiency under the topic: “Use of LLMs for Controlled, Grounded Text Generation”. Built an automatic commenting pipeline using advanced NLP and embedding methods and tested its efficiency against various baselines, both pretrained and finetuned, using curated NLPeer data.Integrated the pipeline in the Adobe's framework using React, Typescript and Flask.",
+            "description_html": "We worked as a team of three people. Applied Large Language Models (LLMs) to improve reviewer efficiency under the topic: “Use of LLMs for Controlled, Grounded Text Generation”. Built an automatic commenting pipeline using advanced NLP and embedding methods and tested its efficiency against various baselines, both pretrained and finetuned, using curated NLPeer data.Integrated the pipeline in the Adobe's framework using React, Typescript and Flask. <!---->",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "Adobe",
+            "company_id": "adobe",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analytics Intern",
+            "location": "Remote",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description_html": null,
+            "duration": "Apr 2022 Jul 2022 4 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "4 months",
+            "company": "University of Ottawa",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Oindrila Ash",
+            "about": "Head Writer of Mighty Bheem’s Playtime and Mighty Little Bheem | Series Creator | Children’s Books and Television Writer | Content Developer",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "anmol tyagi",
+            "about": "Student at Jaypee Institute of Inormation Technology",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "ADITI SISODIA",
+            "about": "Associate @ Boston Consulting Group | Mitacs GRI'22 | Financial Engineering | IIT Kharagpur",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "SHREYASH SUKHADEVE",
+            "about": "Mechanical Engineer || Creative- Writer/ Copywriter/ Content Writer || Graphic Designer || HR/ Talent Acquisition Specialist || IOT/ Arduino ||",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Piyush Kumar",
+            "about": "IITKgp '23 | Software Engineer @Adobe | Ex-Intern @Fractal",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Vandana Nigam",
+            "about": "Creative Writer, Ghost Writer, Content Writer Poet, Storyteller, Voice over artist, Emcee for musicals",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Raghavendra patil",
+            "about": "creative copywriter",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Karnika Mahiyaria",
+            "about": "Creative Writer at The House of Things",
+            "location": "Udaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Singh",
+            "about": "screenwriter",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Dwivedi",
+            "about": "PYTHON | PYSPARK | DATABRICKS | DATA ENGINEER | ADF | SQL",
+            "location": "Banda"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech + M.Tech (Dual)",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID J4UACQWRHZX9See credential",
+            "subtitle": "University of Michigan | Coursera",
+            "title": "Web Applications for Everybody Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 6ZR3XVAZ998FSee credential",
+            "subtitle": "The Hong Kong University of Science and Technology | Coursera",
+            "title": "Front-End Web UI Frameworks and Tools: Bootstrap 4"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID DHLA48ANQP4TSee credential",
+            "subtitle": "University of Michigan | Coursera",
+            "title": "Python for Everybody Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID HLK5JNYFFPW2See credential",
+            "subtitle": "University of London | Coursera",
+            "title": "Responsive Web Design"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID YMGNH29L58P9See credential",
+            "subtitle": "University of London | Coursera",
+            "title": "Responsive Website Basics: Code with HTML, CSS, and JavaScript"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 5429.0,
+    "connections": 500.0,
+    "current_company_company_id": "salesforce",
+    "current_company_name": "Salesforce",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Hyderabad",
+    "linkedin_id": "tiwarishaurabh",
+    "activity": [
+        {
+            "interaction": "Liked by Shaurabh Tiwari",
+            "link": "",
+            "title": "🚀 Google AI is on FIRE! 🔥 Google Gemini 2.0 just dropped, our AI chips are crushing it (sorry, NVIDIA 😉), and Google stock is through the roof!…",
+            "img": null,
+            "id": "7276797423606288384"
+        },
+        {
+            "interaction": "Liked by Shaurabh Tiwari",
+            "link": "",
+            "title": "Excited to share this update (a little late, but better late than never) Four months ago, I embarked on a new journey by joining Amazon as a…",
+            "img": null,
+            "id": "7273720657526341632"
+        },
+        {
+            "interaction": "Liked by Shaurabh Tiwari",
+            "link": "",
+            "title": "Hey Everyone! Last year, I had the incredible opportunity to present my Bachelor’s thesis at EMNLP 2023. This year, I am thrilled to share that my…",
+            "img": null,
+            "id": "7264371828150697985"
+        },
+        {
+            "interaction": "Liked by Shaurabh Tiwari",
+            "link": "",
+            "title": "🚀 We're Hiring: Product Management Interns at Newton School 🚀 What's required? ▪ 0-1 years of experience ▪ Bias for action ▪ Strong analytical…",
+            "img": "",
+            "id": "7260192548281856001"
+        },
+        {
+            "interaction": "Liked by Shaurabh Tiwari",
+            "link": "",
+            "title": "🌟 Calling all prospective PhD Students! 🚀 We have an exciting opportunity for those passionate about the computational modelling of battery…",
+            "img": "",
+            "id": "7257424061729828865"
+        },
+        {
+            "interaction": "Liked by Shaurabh Tiwari",
+            "link": "",
+            "title": "For my first-ever post on LinkedIn, I’m excited to announce that as of today, Agentforce — our complete AI system for enterprises built on the…",
+            "img": "",
+            "id": "7257157359641255936"
+        },
+        {
+            "interaction": "Liked by Shaurabh Tiwari",
+            "link": "",
+            "title": "🚀 Exciting Opportunity: PhD Admissions Open for Spring 2024-25 at IIT Kharagpur! IIT Kharagpur, known for its rich legacy of cultivating academic…",
+            "img": "",
+            "id": "7255074878721040384"
+        },
+        {
+            "interaction": "Liked by Shaurabh Tiwari",
+            "link": "",
+            "title": "🌟 Thrilled to share that I've been honoured as the AI & Data CoE R&R Winner for October 2024, receiving the \"Learning Mindset - Individual\" award…",
+            "img": "",
+            "id": "7252642951896453120"
+        }
+    ],
+    "linkedin_num_id": 825551106.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

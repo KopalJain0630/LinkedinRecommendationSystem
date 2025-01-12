@@ -1,0 +1,136 @@
+{
+    "city": "India",
+    "position": "Data Scientist | Artist | Engineer",
+    "experience": [
+        {
+            "title": "Head of Data Science",
+            "description_html": null,
+            "duration": "Aug 2020 - Present 4 years 5 months",
+            "start_date": "Aug 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 5 months",
+            "company": "EMAlpha",
+            "company_id": "emalpha",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Recommendation System Project",
+            "location": "Kolkata, West Bengal, India",
+            "description": "• Implemented User based & Item based Collaborative Filtering using User Similarity and Item Similarity Matrices to make predictions.• Filtered out the products based on user ratings and found out the correlations between the ratings of various products with the others.• User Product data was generated using the random value generator of numpy. In this model Cosine Similarity (KNN) was Used.",
+            "description_html": "• Implemented User based &amp; Item based Collaborative Filtering using User Similarity and Item Similarity Matrices to make predictions.• Filtered out the products based on user ratings and found out the correlations between the ratings of various products with the others.• User Product data was generated using the random value generator of numpy. In this model Cosine Similarity (KNN) was Used. <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "TEESHOOD",
+            "company_id": "teeshood.com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Marketing Intern",
+            "location": "Pune Area, India",
+            "description": "• Planned and executed all digital marketing, including SEO/SMO, marketing database, email, social media, and advertising campaigns.• Analyzed trends and insights to optimize the spending and performance of the initiatives taken and campaigns launched.• Organized 'Startup and Business Meet N Mixture', which included 3 events viz EduTech, Digital Marketing, and Startup Story.",
+            "description_html": "• Planned and executed all digital marketing, including SEO/SMO, marketing database, email, social media, and advertising campaigns.• Analyzed trends and insights to optimize the spending and performance of the initiatives taken and campaigns launched.• Organized 'Startup and Business Meet N Mixture', which included 3 events viz EduTech, Digital Marketing, and Startup Story. <!---->",
+            "duration": "May 2018 Jun 2018 2 months",
+            "start_date": "May 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "2 months",
+            "company": "IndeedTeach (Platform for Educators)",
+            "company_id": "bro4pro",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of technology",
+            "field": "Metallurgical Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": "Activities and Societies: Spectra, IIT Kharagpur",
+            "description_html": "Activities and Societies: Spectra, IIT Kharagpur",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"MA20106\",\"title\":\"PROBABILITY & STOCHASTIC PROCESSES\"},{\"subtitle\":\"CS11001\",\"title\":\"PROGRAMMING AND DATA STRUCTURE\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021Credential ID WM6FNX5GL6RDSee credential",
+            "subtitle": "Coursera",
+            "title": "SQL for Data Science"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 9TR7UQ6DGKYPSee credential",
+            "subtitle": "Coursera",
+            "title": "Data Science Math Skills"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID H7F6WVTLFGU7See credential",
+            "subtitle": "Coursera",
+            "title": "Exploratory Data Analysis with Seaborn"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID JGQCRYX3SJ4LSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning Foundations: A Case Study Approach"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 3W3R2G4Y6AKNSee credential",
+            "subtitle": "Coursera",
+            "title": "Probability and Statistics: To p or not to p?"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID BP38VPLNGRGBSee credential",
+            "subtitle": "Coursera",
+            "title": "Using Python to Interact with the Operating System"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID VNX2JSZAAH8ZSee credential",
+            "subtitle": "Coursera",
+            "title": "Crash Course on Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID HF39HF76TLR9See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning | Stanford"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts (BMC)"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID UC-H56W231TSee credential",
+            "subtitle": "Udemy",
+            "title": "Python for Data Science and Machine Learning"
+        }
+    ],
+    "current_company_name": "EMAlpha",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"COVID19 Data Analysis Using Python\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"• Imported COVID19 dataset and prepared it for the analysis by dropping columns and aggregating rows.• Decided on and calculating a good measure for our analysis.• Merged two datasets and found correlations among our data.• Visualized our analysis results using Seaborn.\"},{},{\"title\":\"Neural Network Visualizer Web App with Python\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"• Created a Neural Network Visualizer web application using Streamlit, and a simple model server using Keras and Flask. • Used Keras to train a Neural Network model, and used Keras' functional API to create a model with multiple outputs. • Created a web application that will visualize the outputs of all the nodes of all the layers of the neural network for a given input image.\"},{\"title\":\"Nano-indentation Testing for Strain-Rate Sensitivity Analysis | Under: Prof. Debalay Chakrabarti | IITKGP\",\"start_date\":\"Dec 2019\",\"end_date\":\"Mar 2020\",\"description\":\"• Did Constant Strain Rate(CSR) Test at Maximum Strain rate on the specimen to obtain Hardness vs. Depth Curve.• From the obtained curve determined the Depth at which Indentation Depth Effect Vanishes.• For Strain Rate Jump Test, at variable indentation depths, the abrupt changes are made at different indentation strain-rates.• Analyzed the relation between Strain Rate Sensitivity and DBTT (Ductile to Brittle Transition Temperature ).\"},{\"title\":\"Medium Mn Steel for Automotive Application | Under: Prof. Tapas K Bandyopadhyay | IITKGP\",\"start_date\":\"Jul 2018\",\"end_date\":\"Nov 2018\",\"description\":\"• Analyzed the characterization of the forged specimen by SEM image and EBSD(Electron Back scatter Diffraction)phase map.• Examined Optical Micrographs of the specimen annealed for 15 mins, 30 mins, 60 mins, 120 mins at 1273K temperature.• The medium-Mn steels possess raised ductility and it additionally helps in lowering the production cost over the 2nd-generation AHSS.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Maharastra Talent Search Examination Award",
+            "publication": "-",
+            "date": "2011-04-01T00:00:00.000Z",
+            "description": "Awarded State Scholarship Rank 35 In Maharashtra Talent Search Examination (MTSE) for Std. 9th conducted at State Level."
+        },
+        {
+            "title": "Maharastra Talent Search Examination Award",
+            "publication": "-",
+            "date": "2010-04-01T00:00:00.000Z",
+            "description": "Awarded District Scholarship Rank 3 In Maharashtra Talent Search Examination (MTSE) for Std. 8th conducted at State Level."
+        },
+        {
+            "title": "National Talent Search Examination Award",
+            "publication": "-",
+            "date": "2010-01-01T00:00:00.000Z",
+            "description": "Awarded National Talent Search Scholarship(NTSE) as per merit through class 8th National Talent Search Examination, 2010."
+        }
+    ]
+}

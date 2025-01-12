@@ -1,0 +1,51 @@
+{
+    "city": "India",
+    "position": "manager",
+    "experience": [
+        {
+            "title": "Assistant General Manager",
+            "location": "India",
+            "description_html": null,
+            "duration": "Oct 2021 - Present 3 years 3 months",
+            "start_date": "Oct 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 3 months",
+            "company": "Jsw Ispat Limited Nagpur",
+            "company_id": "jsw-ispat-limited-nagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Assistant Manager",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jul 2019 Jul 2021 2 years 1 month",
+            "start_date": "Jul 2019",
+            "end_date": "Jul 2021",
+            "duration_short": "2 years 1 month",
+            "company": "Nspira management Services Pvt Ltd",
+            "company_id": "nspira-management-services-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Mechanical enginerring department",
+            "degree": "Bachelor of Technology",
+            "field": "Core and software skill",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Jsw Ispat Limited Nagpur",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

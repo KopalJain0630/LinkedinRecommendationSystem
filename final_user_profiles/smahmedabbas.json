@@ -1,0 +1,56 @@
+{
+    "city": "Karachi Division, Sindh, Pakistan",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "National University of Computer and Emerging Sciences",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009-01",
+            "end_year": "2010-10",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ".  ,",
+            "start_year": "2011",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020Credential ID 575408See credential",
+            "subtitle": "Scrum.org",
+            "title": "Professional Scrum Master"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID F3ES8B3YPNSYSee credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Software Processes and Agile Practices"
+        }
+    ],
+    "current_company_name": "Kamel Pay",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Software Framework To Explore Automobile Models Using Leap Motion In Virtual Reality\",\"start_date\":\"Jul 2015\",\"description\":\"Used 3D motion control technology i.e. Leap motion to explore 3D automobile models. Thisis done by using hand gestures that comes naturally when interacting with real life objects.Google Cardboard is used to project the models in virtual reality and make the interactionwith them more natural. Consequently, this makes the visualization of complex model veryrealistic.Technology Used: Unity3D 5.1.1 Leap Motion Control Panel Leap Motion SDK (For Developer) Blender v2.75 Dive SDK (For Head Tracking) Management\"},{\"title\":\"Library management system in PHP, JQuery ,HTML and CSS\"},{\"title\":\"Menu-Driven Link List in Java\"},{\"title\":\"Online Super Mart Management in ASP.net MVC\"},{\"title\":\"School Database Management System\"},{\"title\":\"Super Mart in C++\"},{\"title\":\"Temperature Actuator System in Adriano (Operating System)\"}]",
+    "honors_and_awards": null
+}

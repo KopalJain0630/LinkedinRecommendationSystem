@@ -1,0 +1,44 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of Michigan - Stephen M. Ross School of Business",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2004",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2000",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Pratech Brands Pvt. Ltd.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Employee Achievement Award",
+            "publication": "Continental",
+            "date": "2008-08-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "city": "Madhya Pradesh, India",
+    "position": "Immediate Joiner ll Software Engineer at kloudspot Inc. || JAVA || Springboot || Angular",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Feb 2022 Mar 2024 2 years 2 months",
+            "start_date": "Feb 2022",
+            "end_date": "Mar 2024",
+            "duration_short": "2 years 2 months",
+            "company": "Kloudspot",
+            "company_id": "kloudspot",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Development Intern",
+            "description_html": null,
+            "duration": "Jun 2021 Jun 2021 1 month",
+            "start_date": "Jun 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "1 month",
+            "company": "LetsGrowMore",
+            "company_id": "letsgrowmore",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Madhav Institute of Technology and Science, Gwalior",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Subhash School ,Joura,Morena",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya (JNV),Manpur,Morena",
+            "start_year": "2010",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "Coursera",
+            "title": "AI For Everyone"
+        }
+    ],
+    "current_company_name": "Kloudspot",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Engineer's Restaurant (Restaurant website)\",\"start_date\":\"Aug 2020\",\"end_date\":\"Dec 2020\",\"description\":\"it saves time of customer by pre-booking their seats\"},{\"title\":\"Digital Clock\",\"start_date\":\"Aug 2020\",\"end_date\":\"Nov 2020\",\"description\":\"It shows current status of time using javascript\"}]",
+    "honors_and_awards": [
+        {
+            "title": "CM award",
+            "publication": "-",
+            "date": null,
+            "description": "Honoured by chief minister for securing 86.8% in 12 th board.."
+        },
+        {
+            "title": "Qualified J.N.V Entrance Exam",
+            "publication": "-",
+            "date": null,
+            "description": "selected in top 80 students of district in J.N.V exam in 6 th class"
+        }
+    ]
+}

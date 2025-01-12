@@ -1,0 +1,57 @@
+{
+    "city": "Chicago, Illinois, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "The University of Chicago Booth School of Business",
+            "url": "",
+            "start_year": "2023-09",
+            "end_year": "2025-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2013-07",
+            "end_year": "2018-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "1999-06",
+            "end_year": "2013-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "Certified Financial Risk Manager (FRM) - Level 1"
+        }
+    ],
+    "current_company_name": "McKinsey & Company",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Order of Merit",
+            "publication": "Technology Students' Gymkhana, IIT Kharagpur",
+            "date": "2018-04-01T00:00:00.000Z",
+            "description": "Order of Merit for achievements in social and cultural sphere from graduation batch 2018."
+        },
+        {
+            "title": "Alumni Cup",
+            "publication": "Technology Students' Gymkhana, IIT Kharagpur",
+            "date": "2017-04-01T00:00:00.000Z",
+            "description": "Winner of Alumni Cup for excellence in extracurricular activities in the academic year 2016-17."
+        }
+    ]
+}

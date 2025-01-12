@@ -1,0 +1,99 @@
+{
+    "city": "Ahmedabad, Gujarat, India",
+    "position": "IIMA PGP'26 | Ex-Analog Devices Inc. | IIT KGP’22",
+    "experience": [
+        {
+            "title": "Digital Design Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Part of BMS (Battery Management System) team- Worked on SystemC modelling of SPI module- Acted as design owner of communication blocks I2C, SPI and UART. Resolved bugs and provided support to Verification team.- Worked on design & implementation of PMU (Power Management Unit). Developed algorithms for Power Management in a dual processor chip.",
+            "description_html": "- Part of BMS (Battery Management System) team- Worked on SystemC modelling of SPI module- Acted as design owner of communication blocks I2C, SPI and UART. Resolved bugs and provided support to Verification team.- Worked on design &amp; implementation of PMU (Power Management Unit). Developed algorithms for Power Management in a dual processor chip. <!---->",
+            "duration": "May 2022 Jun 2024 2 years 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2024",
+            "duration_short": "2 years 2 months",
+            "company": "Analog Devices",
+            "company_id": "analog-devices",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Design Engineer Intern",
+            "location": "India",
+            "description": "- Worked on Design of Parallel IIR Hardware Accelerator- Simulated the designed algorithm as Hardware Architectural model in Simulink",
+            "description_html": "- Worked on Design of Parallel IIR Hardware Accelerator- Simulated the designed algorithm as Hardware Architectural model in Simulink <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Analog Devices",
+            "company_id": "analog-devices",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Design and Controls Team Member",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Jan 2018 Aug 2019 1 year 8 months",
+            "start_date": "Jan 2018",
+            "end_date": "Aug 2019",
+            "duration_short": "1 year 8 months",
+            "company": "Kharagpur Robosoccer Students Group",
+            "company_id": "kharagpur-robosoccer-students-group",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (Btech. & Mtech.) |",
+            "field": "Major- Electrical Engineering | Minor - Computer Science & Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Chaitanya | Visakhapatnam (CBSE)",
+            "degree": "12th Class",
+            "field": "Science",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vidya Vihar Residential School, Purnea, Bihar",
+            "degree": "10th Class",
+            "field": "10 CGPA",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms-I\"},{\"subtitle\":\"-\",\"title\":\"Analog Electronic Circuits\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture and Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Control Systems\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronic Circuits\"},{\"subtitle\":\"-\",\"title\":\"Electrical Machines\"},{\"subtitle\":\"-\",\"title\":\"Electrical Technology\"},{\"subtitle\":\"-\",\"title\":\"Embedded Systems\"},{\"subtitle\":\"-\",\"title\":\"Image Processing\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Electronics\"},{\"subtitle\":\"-\",\"title\":\"Measurement and Electronic Instruments\"},{\"subtitle\":\"-\",\"title\":\"Power Electronics\"},{\"subtitle\":\"-\",\"title\":\"Power Systems\"},{\"subtitle\":\"-\",\"title\":\"Probability\"},{\"subtitle\":\"-\",\"title\":\"Programming And Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Semiconductor Devices\"},{\"subtitle\":\"-\",\"title\":\"Signals and Networks\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Feb 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Control of Mobile Robots"
+        }
+    ],
+    "current_company_name": "Analog Devices",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Term Project - Comb Filter Design using PSO Algorithm\",\"start_date\":\"Feb 2020\",\"end_date\":\"Mar 2020\",\"description\":\"- Designed an FIR Comb Filter in Matlab using PSO(ParticleSwarmOptimization) algorithm. Further, the number of bits for fixed-point representation was also decided based on the error between the frequency response.- The filter was used to remove AC background noise from the recorded speech of the human voice.\"},{\"title\":\"RHBD(Radiation Hardening by Design) Serial Communication\",\"start_date\":\"Sep 2019\",\"end_date\":\"Jan 2020\",\"description\":\"- Worked on Serial Link blocks required for Data Communication.- Designed a digital VCDL(Voltage Controlled Delay Loop) in Cadence Virtuoso using current starved inverter elements. And a decoding logic to control the delay amount.- Engineered Radiation Hardened topologies of VCO(Voltage Controlled Oscillator), simulated in Cadence Virtuoso. Current strikes were simulated at various nodes to check for radiation insensitivity.\"},{\"title\":\"Prediction Using Machine Learning\",\"start_date\":\"Jun 2018\",\"end_date\":\"Jul 2018\",\"description\":\"-University Admission:- Predicting the scope of admission of an individual into a university-based on certain parameters such as \\\"GRE score\\\", \\\"TOEFL score\\\", \\\"University Ranking\\\", \\\"CGPA score\\\" etc.-Predicting Ratings of Various Play Store Apps based on data available.Two methods were applied; Linear Regression(Without Normalization) and Linear Regression WIth Normalization\"}]",
+    "honors_and_awards": null
+}

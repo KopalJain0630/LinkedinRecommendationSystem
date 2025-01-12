@@ -1,0 +1,111 @@
+{
+    "city": "Faridabad, Haryana, India",
+    "position": "Associate at Blackrock/ Level 2 candidate of CFA/ Ex-Fidelity International Ltd.",
+    "experience": [
+        {
+            "title": "BlackRock",
+            "location": "India",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "BlackRock",
+                    "meta": "Nov 2024 - Present 2 months",
+                    "duration": "Nov 2024 - Present 2 months",
+                    "start_date": "Nov 2024",
+                    "end_date": "Present",
+                    "duration_short": "2 months",
+                    "title": "Associate",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "BlackRock",
+                    "meta": "Mar 2022 - Present 2 years 10 months",
+                    "duration": "Mar 2022 - Present 2 years 10 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "Present",
+                    "duration_short": "2 years 10 months",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "BlackRock",
+            "company_id": "blackrock",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Associate",
+            "location": "Gurgaon, India",
+            "description_html": null,
+            "duration": "Jul 2018 Aug 2019 1 year 2 months",
+            "start_date": "Jul 2018",
+            "end_date": "Aug 2019",
+            "duration_short": "1 year 2 months",
+            "company": "Fidelity International",
+            "company_id": "fidelity-international",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Writer",
+            "location": "Faridabad Area, India",
+            "description": "Fights4.com",
+            "description_html": "Fights4.com <!---->",
+            "duration": "Sep 2015 Feb 2018 2 years 6 months",
+            "start_date": "Sep 2015",
+            "end_date": "Feb 2018",
+            "duration_short": "2 years 6 months",
+            "company": "Freelancer",
+            "company_id": "freelancer-web-development",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Faridabad Area, India",
+            "description_html": null,
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "Garir automotives Pvt. ltd",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Amity college of commerce and finance",
+            "degree": "Bachelor of Commerce - BCom(h)",
+            "field": "finance",
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "amity college of commerce & finance",
+            "degree": "Bachelor of Commerce",
+            "field": "Honors/Regents High School/Secondary Diploma Program",
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2018Expires Jun 2021",
+            "subtitle": "National Institute of Securities Markets (NISM)",
+            "title": "Mutual Fund Distributor"
+        }
+    ],
+    "current_company_name": "BlackRock",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,213 @@
+{
+    "city": "Indore, Madhya Pradesh, India",
+    "position": "Machine Learning Engineer @ Miimansa AI systems | Ex - founder @ ResolvAI | Ex - Healthplix | IIT Kharagpur '22",
+    "experience": [
+        {
+            "title": "Machine Learning Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Miimansa",
+            "company_id": "miimansa",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-founder",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Raised $100k from a global VC fund and worked on the following points from an engineering perspective1. Built a robust backend for a platform enabling developers to create comprehensive courses addressing specific tech problems.2. Developed an Agentic RAG system with GPT-4 API for accurate tech query resolution with detailed explanations.3. Conducted 100+ user interviews with developers and feedback sessions with CTOs and EMs for product improvement.4. Scaled the platform to 1000+ DAUs and 10k total users, onboarding 3 B2B clients for RAG-based Q&A capability.5. Architected a resilient backend utilizing Docker, EC2, NGINX, and implemented CI/CD pipelines with GitHub Actions.6. Optimized page loads with caching using RTK Query and improved user retention by 56% with streaming updates and SSE.7. Conducted offline and online events, amassing a peak of 1000+ DAUs and 10k total users within a month of release.",
+            "description_html": "Raised $100k from a global VC fund and worked on the following points from an engineering perspective1. Built a robust backend for a platform enabling developers to create comprehensive courses addressing specific tech problems.2. Developed an Agentic RAG system with GPT-4 API for accurate tech query resolution with detailed explanations.3. Conducted 100+ user interviews with developers and feedback sessions with CTOs and EMs for product improvement.4. Scaled the platform to 1000+ DAUs and 10k total users, onboarding 3 B2B clients for RAG-based Q&amp;A capability.5. Architected a resilient backend utilizing Docker, EC2, NGINX, and implemented CI/CD pipelines with GitHub Actions.6. Optimized page loads with caching using RTK Query and improved user retention by 56% with streaming updates and SSE.7. Conducted offline and online events, amassing a peak of 1000+ DAUs and 10k total users within a month of release.",
+            "duration": "May 2023 Jul 2024 1 year 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2024",
+            "duration_short": "1 year 3 months",
+            "company": "Resolv AI",
+            "company_id": "resolv-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full Stack Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "1. Engineered a data pipeline for scheduled retrieval of daily data from multiple sources, storing in AWS S3 and querying with Athena.2. Configured and optimized an ELK stack for log retrieval and search, load tested at scale for high-volume server log production.3. Developed and enhanced a big data Data Quality and Reporting (DQR) pipeline using PySpark, deployed in an ECS cluster on AWS.4. Architected a system to automate and scale cron tasks using Apache Airflow and Celery, migrating various cron jobs to Directed Acyclic Graphs (DAGs).5. Designed and implemented an algorithm to translate natural language in prescription fields into structured data, identifying medicine, brand name, and dosage with a fallback to the closest match in the database.",
+            "description_html": "1. Engineered a data pipeline for scheduled retrieval of daily data from multiple sources, storing in AWS S3 and querying with Athena.2. Configured and optimized an ELK stack for log retrieval and search, load tested at scale for high-volume server log production.3. Developed and enhanced a big data Data Quality and Reporting (DQR) pipeline using PySpark, deployed in an ECS cluster on AWS.4. Architected a system to automate and scale cron tasks using Apache Airflow and Celery, migrating various cron jobs to Directed Acyclic Graphs (DAGs).5. Designed and implemented an algorithm to translate natural language in prescription fields into structured data, identifying medicine, brand name, and dosage with a fallback to the closest match in the database.",
+            "duration": "May 2022 Apr 2023 1 year",
+            "start_date": "May 2022",
+            "end_date": "Apr 2023",
+            "duration_short": "1 year",
+            "company": "HealthPlix",
+            "company_id": "healthplixtech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Graphics Society",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Computer Graphics Society",
+                    "meta": "May 2021 - Jul 2022 1 year 3 months",
+                    "description": "As a co-founder of Computer Graphics Society (CGL) at IIT Kharagpur, I worked to build the society from the ground up. We started by generating interest in game development among students and expanded our reach to cater to a diverse group of students interested in various facets of technology such as Artificial Intelligence, animation design, game art design, event management, gameplay research and more. CGL is now a full-fledged multifaceted technology group, providing students with opportunities to learn and explore various domains of technology. My experience in founding and scaling CGL taught me valuable skills in leadership, teamwork, and project management, which I'm excited to bring to my future endeavors.",
+                    "duration": "May 2021 Jul 2022 1 year 3 months",
+                    "start_date": "May 2021",
+                    "end_date": "Jul 2022",
+                    "duration_short": "1 year 3 months",
+                    "title": "Founder and Advisor",
+                    "description_html": "As a co-founder of Computer Graphics Society (CGL) at IIT Kharagpur, I worked to build the society from the ground up. We started by generating interest in game development among students and expanded our reach to cater to a diverse group of students interested in various facets of technology such as Artificial Intelligence, animation design, game art design, event management, gameplay research and more. CGL is now a full-fledged multifaceted technology group, providing students with opportunities to learn and explore various domains of technology. My experience in founding and scaling CGL taught me valuable skills in leadership, teamwork, and project management, which I'm excited to bring to my future endeavors."
+                },
+                {
+                    "subtitle": "Computer Graphics Lab",
+                    "meta": "Oct 2019 - May 2021 1 year 8 months",
+                    "duration": "Oct 2019 May 2021 1 year 8 months",
+                    "start_date": "Oct 2019",
+                    "end_date": "May 2021",
+                    "duration_short": "1 year 8 months",
+                    "title": "Founder and Managing Head",
+                    "description_html": null
+                }
+            ],
+            "company": "Computer Graphics Society",
+            "company_id": "computer-graphics-lab",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer",
+            "description": "1. Developed a recording feature for the main AR application using NatCorder API, capturing frames that combined the main camera feed with overlaid AR elements. Also implemented a standalone script for screenshot functionality.2. Implemented multithreaded features in the application, enhancing performance and user experience through concurrent processing.3. Restructured the user authentication and data downloading algorithms for improved scalability and privacy, utilizing secure data handling practices.4. Designed and integrated various native-like UI features in a Unity-based app, leveraging Unity’s UI toolkit to create custom components without pre-existing templates.",
+            "description_html": "1. Developed a recording feature for the main AR application using NatCorder API, capturing frames that combined the main camera feed with overlaid AR elements. Also implemented a standalone script for screenshot functionality.2. Implemented multithreaded features in the application, enhancing performance and user experience through concurrent processing.3. Restructured the user authentication and data downloading algorithms for improved scalability and privacy, utilizing secure data handling practices.4. Designed and integrated various native-like UI features in a Unity-based app, leveraging Unity’s UI toolkit to create custom components without pre-existing templates.",
+            "duration": "May 2021 Feb 2022 10 months",
+            "start_date": "May 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "10 months",
+            "company": "Flam",
+            "company_id": "flamappofficial",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "description": "worked on creating multithreaded camera recording api for an AR application, created logical workflows of downloading, authenticating and building personalised dataset for specific user profile.",
+            "description_html": "worked on creating multithreaded camera recording api for an AR application, created logical workflows of downloading, authenticating and building personalised dataset for specific user profile. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Homingos",
+            "company_id": "homingos",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Ambassador",
+            "location": "India",
+            "description": "Organised various workshops on Unity 3d in my institute , created games, projects closely associated with Unity",
+            "description_html": "Organised various workshops on Unity 3d in my institute , created games, projects closely associated with Unity <!---->",
+            "duration": "Sep 2018 Sep 2020 2 years 1 month",
+            "start_date": "Sep 2018",
+            "end_date": "Sep 2020",
+            "duration_short": "2 years 1 month",
+            "company": "Unity",
+            "company_id": "unity",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Virtual Reality Development Intern",
+            "description": "Worked on developing 2 different educational modules in Unity 3D, involving different sets of functionalities . Had experience with handling development and bug correction while launch is underway, worked on making module-wise assetBundles for deployment into market . Learnt to register mouseclicks, movement inside modules by the user and saving it as a file that can be used for analytics purposes.",
+            "description_html": "Worked on developing 2 different educational modules in Unity 3D, involving different sets of functionalities . Had experience with handling development and bug correction while launch is underway, worked on making module-wise assetBundles for deployment into market . Learnt to register mouseclicks, movement inside modules by the user and saving it as a file that can be used for analytics purposes. <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Inspirit Learning Inc.",
+            "company_id": "inspiritlearning",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tournament Coordinator",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Sep 2018 Oct 2019 1 year 2 months",
+            "start_date": "Sep 2018",
+            "end_date": "Oct 2019",
+            "duration_short": "1 year 2 months",
+            "company": "The Kgp Gaming Society",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Team Member",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Jan 2017 Oct 2019 2 years 10 months",
+            "start_date": "Jan 2017",
+            "end_date": "Oct 2019",
+            "duration_short": "2 years 10 months",
+            "company": "Kharagpur Robosoccer Students Group",
+            "company_id": "kharagpur-robosoccer-students-group",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "5yr integrated Btech+Mtech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithm Design\"},{\"subtitle\":\"-\",\"title\":\"Algorithms and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"C++ and Object Oriented Programming\"},{\"subtitle\":\"-\",\"title\":\"Competitive Programming by Coding Ninjas\"},{\"subtitle\":\"-\",\"title\":\"Computer Graphics Using OpenGL and C++\"},{\"subtitle\":\"-\",\"title\":\"Game Development in Unity\"},{\"subtitle\":\"-\",\"title\":\"Illustrator Master Class\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"}]",
+    "certifications": null,
+    "current_company_name": "Miimansa",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Full Stack login Application using React, NodeJs, MongoDB\",\"start_date\":\"Aug 2024\",\"end_date\":\"Aug 2024\",\"description\":\"The application demonstrates simple login features with text validations and JWT handling on the backend . Backend utilises a middleware for handling requests with a valid JWT .\"},{\"title\":\"OrthoAssistant Application\",\"start_date\":\"Jan 2020\",\"end_date\":\"Feb 2020\",\"description\":\"- This Application provides various Dental science research related calculations that help in determining the course of the treatment procedure to be followed during a particular case.- Analyses such as huckaba’s analysis, T J analysis, Moyer’s, Bolton, Tweed’s and Total Space Analysis areincluded in the app.- This was created using the C# programming language and using the unity Engine.- It is created in a single scene using panels to divide the specific calculations and coding logic and calculations in a script.\"},{\"title\":\"Fireman Simulation Training in Augmented Reality\",\"start_date\":\"Jan 2020\",\"end_date\":\"Jan 2020\",\"description\":\"- It is an augmented reality-based firemen simulation educational game, where we have to extinguish fires on objects which are rendered in real 3D space on rendered objects.- The fires on different kinds of objects can be extinguished by using only a specific type of fire extinguisher.- The fire extinguisher was modeled and animated in Blender which was then exported to unity and used via animation controllers which are inbuilt in unity.- Animation control was achieved using animation triggers which were used via scripts and attached to appropriate game objects.- The fire extinguishing mechanics works on the collision of particles with another set of particles. The particle system was used for creating fire, as well as for the extinguishing Gas from the extinguisher.- The application was created using Unity with the help of the Vuforia SDK.\"},{\"title\":\"ESaathi Hardware in Augmented Reality\",\"start_date\":\"Dec 2019\",\"end_date\":\"Dec 2019\",\"description\":\"- This app uses Vuforia’s Augmented Reality Support using UNITY.- Provides instructions for the usage of selected hardware instruments like printer/laptop by providing instructionsthrough UI and AR 3d arrows along with voice assist.- Written in C# using the unity Engine.- This Project was developed for Inter IIT tech meet 2019 held in IIT roorkee in December 2019.\"},{\"title\":\"EDinAR\",\"start_date\":\"Oct 2019\",\"end_date\":\"Nov 2019\",\"description\":\"- This application was created using the Vuforia SDK in UNITY for android.- The app was created for easing the various difficulties that are faced while studying the subject of EngineeringDrawing.- It provides an easy understanding of the subject by rendering objects using AR. Various topics in this app includethe projection of points/lines, projection of objects on planes and Sectional view of objects and orthographic views of objects.- Specific shaders were created for viewing different cross-sectional views of objects and viewing projections of planes.\"},{\"title\":\"Snakes n All game\",\"start_date\":\"Aug 2019\",\"end_date\":\"Sep 2019\",\"description\":\"- Written in C and using a unity engine, Game consists of a gameplay design where we can control multiple snakes at once.- Tap mechanics and 2d physics were used to create one level with 4 snakes.- Colliders and trail components were used while coding logic through the script and hence increasing/decreasing snakes length based on specified game logic.\"},{\"title\":\"Solid Model Viewer\",\"start_date\":\"Aug 2019\",\"end_date\":\"Sep 2019\",\"description\":\"- This application was created using Vuforia SDK in UNITY for android, the app uses vuforia’s augmentedreality support for rendering 3d objects over real-life objects which can be viewed through the camera of the device.- The app was created for easing the various difficulties that are faced while studying the subject of Engineering Drawing.- provides an easy understanding of the subject by rendering objects using AR. Various topics in this app include the projection of points/lines, projection of objects on planes and Sectional view of objects and orthographic views of objects.\"},{\"title\":\"The KGP Resource Tool Application\",\"start_date\":\"Jul 2019\",\"end_date\":\"Jul 2019\",\"description\":\"- The android application was created entirely using UNITY.- It provides easy access to all important links and pages that any student in IIT-KGP uses in day to day life.- The application was created in a single scene using panels for separate pages.- The UI of this app was created in illustrator. The app was coded in C# and banner ads were also included in the code before publishing to play store.- The application acquired 1500+ downloads within a week of release.\"},{\"title\":\"Pixel Crash Game\",\"description\":\"- Developed using the UNITY game engine, it uses the limited platform and 2d Rain physics as the game concept.- Assets were made using Illustrator, animated using unity’s inbuilt animation tools.- The game mechanics were coded in C# using Unity’s inbuilt physics libraries.- Particle effects, Glow and animation curves were iterated over a period of 13 days after which Admob banner ads and rewarded video ads were also included in the gameplay for publication on play store.- The Game acquired 500+ downloads within 3 days of release.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Gold in Inter IIT Tech Meet 2019",
+            "publication": "-",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "Secured the First Position and won ’Gold medal’ in ’Ashoka Tech for Change’ event during Inter IIT Tech meet 8.0 held in December 2019 for creating an AR-based supportive learning product for tough to use software and hardware. I also won overall 2nd position and a trophy with a team representing the Institute at Inter IIT Level."
+        },
+        {
+            "title": "National Talent Search Examination 2014",
+            "publication": "-",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "Cleared Stage 1 of NTSE 2014 and secured state rank 59. Scored 261/360 in stage 2 of NTSE 2014"
+        },
+        {
+            "title": "Joint Entrance Examination (Advanced) 2017",
+            "publication": "-",
+            "date": null,
+            "description": "Secured a rank of 1726 out of 200000 aspirants, scored 249/360 in JEE Advanced 2017."
+        },
+        {
+            "title": "Joint Entrance Examination (Mains) 2017",
+            "publication": "-",
+            "date": null,
+            "description": "Secured a rank of 2304 out of 1500000 aspirants, scored 254/360 in JEE Mains 2017."
+        },
+        {
+            "title": "National Standard Examination in Chemistry by HBCSE (NSEC) 2016",
+            "publication": "-",
+            "date": null,
+            "description": "Cleared State level of NSEC organized by Homi Bhabha Centre for Science Education and secured a state rank of 46 out of around 50000 aspirants."
+        },
+        {
+            "title": "National Standard Examination in Physics by HBCSE (NSEP) 2016",
+            "publication": "-",
+            "date": null,
+            "description": "Cleared State level of NSEP organized by Homi Bhabha Centre for Science Education and secured a state rank of 19 out of around 50000 aspirants, Received an appreciation certificate for securing top 1 per cent national position in NSEP 2016."
+        }
+    ]
+}

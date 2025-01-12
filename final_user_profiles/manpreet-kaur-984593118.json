@@ -1,0 +1,63 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Delhi School of Economics",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",  , -",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2023Credential ID MzY5MExb1QG8zBTuOk2PvwSee credential",
+            "subtitle": "WebEngage",
+            "title": "Fundamentals Of Retention Marketing"
+        },
+        {
+            "meta": "Issued Oct 2019See credential",
+            "subtitle": "LinkedIn",
+            "title": "Professional Networking"
+        },
+        {
+            "meta": "Issued Sep 2023Expires Sep 2025Credential ID mr3b6kdq2k3cSee credential",
+            "subtitle": "LinkedIn",
+            "title": "LinkedIn Sales Navigator: Essentials"
+        },
+        {
+            "meta": "Issued Sep 2023Expires Sep 2025Credential ID izkjjbg4owfySee credential",
+            "subtitle": "LinkedIn",
+            "title": "Sales Navigator Best Practices Skillset"
+        },
+        {
+            "meta": "Issued Sep 2017Expires Sep 2018",
+            "subtitle": "Google",
+            "title": "AdWords Certified"
+        }
+    ],
+    "current_company_name": "WebEngage",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

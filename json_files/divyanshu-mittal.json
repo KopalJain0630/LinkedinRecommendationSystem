@@ -1,0 +1,429 @@
+{
+    "id": "divyanshu-mittal",
+    "name": "Divyanshu Mittal",
+    "city": "Agra, Uttar Pradesh, India",
+    "country_code": "IN",
+    "position": "IIT KGP | Tower Research Capital | Quant @ Moody’s | Analyst Intern @ American Express | Research Associate @ Harvard Business School | Visiting Student Researcher @ uOttawa | Expert @ CodeForces | 5 ⭐ @ Codechef",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Moody's",
+        "company_id": "moodys",
+        "title": "IIT KGP | Tower Research Capital | Quant @ Moody’s | Analyst Intern @ American Express | Research Associate @ Harvard Business School | Visiting Student Researcher @ uOttawa | Expert @ CodeForces | 5 ⭐ @ Codechef"
+    },
+    "experience": [
+        {
+            "title": "Quantitative Analyst",
+            "location": "Greater Bengaluru Area",
+            "description_html": null,
+            "duration": "Sep 2023 Mar 2024 7 months",
+            "start_date": "Sep 2023",
+            "end_date": "Mar 2024",
+            "duration_short": "7 months",
+            "company": "Moody's",
+            "company_id": "moodys",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description": "Offer Personalization on Eligibility Checker (UK)",
+            "description_html": "Offer Personalization on Eligibility Checker (UK) <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Visiting Researcher",
+            "location": "Ontario, Canada",
+            "description": "Objective: Measurement of Corporate Culture & Financial Performance using Transcripts of US Firms• Extracted the Q/A section from the Earnings Call Transcripts to avoid \"cheap talk\" inside the Management Presentation section.• Matched company names to GVKEY using Fuzzy matching, then preprocessed and parsed the data using Stanford CoreNLP package.• Used Phraser & word2vec model of Gensim to learn phrases, MWEs & obtained word vectors for each corporate values eg. Innovation.• Measured the corporate culture for each firm year wise and calculated correlations b/w the scores and corresponding firm characteristics.",
+            "description_html": "Objective: Measurement of Corporate Culture &amp; Financial Performance using Transcripts of US Firms• Extracted the Q/A section from the Earnings Call Transcripts to avoid \"cheap talk\" inside the Management Presentation section.• Matched company names to GVKEY using Fuzzy matching, then preprocessed and parsed the data using Stanford CoreNLP package.• Used Phraser &amp; word2vec model of Gensim to learn phrases, MWEs &amp; obtained word vectors for each corporate values eg. Innovation.• Measured the corporate culture for each firm year wise and calculated correlations b/w the scores and corresponding firm characteristics.",
+            "duration": "May 2020 Aug 2021 1 year 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2021",
+            "duration_short": "1 year 4 months",
+            "company": "Telfer School of Management at the University of Ottawa",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Core Team Member",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Oct 2020 Jul 2021 10 months",
+            "start_date": "Oct 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "10 months",
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Researcher",
+            "location": "United States",
+            "description": "Objective: Prediction of Communication Index between Examiners using USPTO Dataset• Scraped Patent Applications data (SRNTs) using Google API & converted the data into CSVs using Tesseract-OCR & pdf2image.• Preprocessed Data using Pandas to create Examiner-SRNT mapping & then parsed the Data using Regex to eliminate non-alpha characters.• Applied Word Embedding Model using BERT & PyTorch on the Search Strings column of the Data frame to obtain word vectors.• Computed Cosine similarity b/w the word vectors of SRNTs of each examiner with one another to predict the communication index.",
+            "description_html": "Objective: Prediction of Communication Index between Examiners using USPTO Dataset• Scraped Patent Applications data (SRNTs) using Google API &amp; converted the data into CSVs using Tesseract-OCR &amp; pdf2image.• Preprocessed Data using Pandas to create Examiner-SRNT mapping &amp; then parsed the Data using Regex to eliminate non-alpha characters.• Applied Word Embedding Model using BERT &amp; PyTorch on the Search Strings column of the Data frame to obtain word vectors.• Computed Cosine similarity b/w the word vectors of SRNTs of each examiner with one another to predict the communication index.",
+            "duration": "Jun 2020 Dec 2020 7 months",
+            "start_date": "Jun 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "7 months",
+            "company": "Harvard Business School",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Secretary",
+            "location": "IIT Kharagpur",
+            "description": "• Managed publicity of all the technology events held in Open IIT, General Championship & ensured active participation by students.• Allocated & Channelized the Hall Budget of 2.5L for all the technical requirements of Hall across 10 different technological events.",
+            "description_html": "• Managed publicity of all the technology events held in Open IIT, General Championship &amp; ensured active participation by students.• Allocated &amp; Channelized the Hall Budget of 2.5L for all the technical requirements of Hall across 10 different technological events. <!---->",
+            "duration": "Aug 2019 Mar 2020 8 months",
+            "start_date": "Aug 2019",
+            "end_date": "Mar 2020",
+            "duration_short": "8 months",
+            "company": "LBS Hall",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "location": "Kharagpur Area, India",
+            "description": "Working under the Dean of Alumni Affairs and International Relations, Team Students' Alumni Cell strives to establish and nurture the interaction between the Institute and its alumni. It has served as a platform facilitating communication between the current students of IIT Kharagpur and their predecessors. The team works on facets like Networking, Publications and Events with an objective to keep the alumni connected to their Alma Mater and updated about the latest happenings in the Institute.We organize events like the Annual Alumni Meet (Reunion), Regional Student-Alumni Meet, Guest Lectures and carry on programmes like the Student Alumni Mentorship to meet our objective.",
+            "description_html": "Working under the Dean of Alumni Affairs and International Relations, Team Students' Alumni Cell strives to establish and nurture the interaction between the Institute and its alumni. It has served as a platform facilitating communication between the current students of IIT Kharagpur and their predecessors. The team works on facets like Networking, Publications and Events with an objective to keep the alumni connected to their Alma Mater and updated about the latest happenings in the Institute.We organize events like the Annual Alumni Meet (Reunion), Regional Student-Alumni Meet, Guest Lectures and carry on programmes like the Student Alumni Mentorship to meet our objective.",
+            "duration": "Aug 2019 Feb 2020 7 months",
+            "start_date": "Aug 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "7 months",
+            "company": "Students'​ Alumni Cell, Office of Alumni Affairs, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Executive Member",
+            "location": "Kharagpur Area, India",
+            "description": "• Designed the current website of Gopali Youth Welfare Society Light & mentored 7 Junior Web Design Executive Team members.• Worked and raised fund to provide free education to 250+ underprivileged children at our school Jagrati Vidya Mandir.• Part of Annual Donation Drive Yogdaan 20 team which raised 5 Lacs for the installation of smart classes in our JVM school.",
+            "description_html": "• Designed the current website of Gopali Youth Welfare Society Light &amp; mentored 7 Junior Web Design Executive Team members.• Worked and raised fund to provide free education to 250+ underprivileged children at our school Jagrati Vidya Mandir.• Part of Annual Donation Drive Yogdaan 20 team which raised 5 Lacs for the installation of smart classes in our JVM school. <!---->",
+            "duration": "Jul 2019 Feb 2020 8 months",
+            "start_date": "Jul 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "8 months",
+            "company": "Gopali Youth Welfare Society",
+            "company_id": "gopali-youth-welfare-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Yash Vardhan",
+            "about": "Scrum Master & Data Analyst @ John Deere | Data Analysis",
+            "location": "Lawrence, KS"
+        },
+        {
+            "profile_link": "",
+            "name": "Manas Choudhary",
+            "about": "Consultant at Deloitte USI | FullStack | DTU'19",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Princy Asawa",
+            "about": "Senior Analyst at Goldman Sachs | IIT Guwahati",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Avi Singh Raghuwanshi",
+            "about": "Blinkit | IIT Kharagpur",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Goyal",
+            "about": "Quantitative Research Analyst @ JP Morgan Chase & Co. | BTech | Mathematics and Computing | IIT Guwahati",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Manav Singh Raghav",
+            "about": "SDE 2 @ Zomato | IIT Kharagpur Graduate",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Shikhar Mishra",
+            "about": "IIT Kharagpur'23 | Data Scientist",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "PETER SELVARAJ J",
+            "about": "Manager-Data Analyst at Azim Premji Foundation, Bangalore",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Muskan Tewari",
+            "about": null,
+            "location": "Berlin"
+        },
+        {
+            "profile_link": "",
+            "name": "Aayush Poddar",
+            "about": "Financial Engineering | IIT Kharagpur",
+            "location": "Gurugram"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Undergraduate",
+            "field": "Artificial Intelligence/Biotechnology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ess Ess Convent School",
+            "degree": "Senior Secondary",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID FZFS4A6BGCUFSee credential",
+            "subtitle": "UC San Diego",
+            "title": "Algorithms"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID HL9LJ4QVGQMQSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID DY3SKZDYTU44See credential",
+            "subtitle": "UC San Diego",
+            "title": "Data Structures"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID CFGPAQRXC8VSSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID YG8269BTEBXHSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID EFMEW25JLM3WSee credential",
+            "subtitle": "Coursera",
+            "title": "Strucuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID AAW8BC3JM8ZRSee credential",
+            "subtitle": "University of Michigan",
+            "title": "Bonds and Stocks"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID Q56S4G2QUE5XSee credential",
+            "subtitle": "University of Michigan",
+            "title": "Decision Creteria & Applications"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 18977654See credential",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Forms of Business Structure"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Kaggle",
+            "title": "Intro to Machine Learning"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 18519876See credential",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Accounting Fundamentals"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 18715588See credential",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Fundamentals of Credit"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 18669388See credential",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Introduction to Corporate Finance"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 428HTGXJPBM6See credential",
+            "subtitle": "Indian School of Business",
+            "title": "Introduction to Financial Markets"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 18591002See credential",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Reading Financial Statements"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 55W4D6Z4PPNYSee credential",
+            "subtitle": "University of Michigan",
+            "title": "Time Value of Money"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Nov 2018 - Present · 6 years 2 months",
+            "duration_short": "6 years 2 months",
+            "end_date": "Present",
+            "info": "I have organised rallies in the Annual year camp of National service scheme 2018 in kharagpur with the help of IIT kharagpur professors and some local volunteers.",
+            "start_date": "Nov 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 4772.0,
+    "connections": 500.0,
+    "current_company_company_id": "moodys",
+    "current_company_name": "Moody's",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Agra",
+    "linkedin_id": "divyanshu-mittal",
+    "activity": [
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "𝗜𝘀 𝗰𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝘃𝗲 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴 𝗼𝘃𝗲𝗿? OpenAI announced its new o3 model, which has a 2727 rating on Codeforces. If it were a…",
+            "img": "",
+            "id": "7276210587355815936"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "You can literally buy a private plane for luxury car or metro 1BHK money. I thought planes run in 50+ crores.",
+            "img": "",
+            "id": "7275722971837513728"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "Unacademy x Samay Raina could be a marketing blunder and let me explain why ⬇️ Before you say “Bad PR is also PR” & “they got eyeballs”, let me make…",
+            "img": "",
+            "id": "7272966727641047040"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "Kids : Applied leave in advance for 16th Aug Legends : Take \"sick leave\" on 16th Aug Ultra legends : won't take any leave, still enjoy vacation…",
+            "img": "",
+            "id": "7229328383921254400"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "Just AWS things 😀",
+            "img": "",
+            "id": "7222854851334967298"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "Some milestones feel special because of the backstory. Two years ago, we built a prototype for sending bulk WhatsApp campaigns. It worked but was…",
+            "img": "",
+            "id": "7214483064016580608"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "Last week marked the end of my incredible three-year journey at Tower Research Capital. I want to take a moment to express my deepest…",
+            "img": "",
+            "id": "7205129774841618432"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "🚀 We are pleased to announce the release of Hexaly 12.5, which comes with many new features and performance improvements. • Capacitated Vehicle…",
+            "img": "",
+            "id": "125"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "The power of hustle and hard work is undeniable! Look at these two screenshots from raj vikramaditya's (striver) LinkedIn profile. One shows him…",
+            "img": "",
+            "id": "7174795597219061761"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "update: Have received enough applications for now, closing the application process for now Hiring interns for different positions: 1. DS intern:…",
+            "img": "",
+            "id": "7168191900913520640"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "Our high-performance algorithms are a product of extraordinary contributions from emerging leaders like Bhavy Singh, Quantitative Trading Engineer at…",
+            "img": "",
+            "id": "7116029347097935872"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "🚀 Embarking on the Journey I've Always Dreamed Of! 🚀 I am thrilled to announce the commencement of an extraordinary chapter in my career as a Big…",
+            "img": "",
+            "id": "7115206792090939393"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "Just 3 out of 222 unicorns founders in India are college dropouts You're more likely to be a unicorn founder as a post-grad or a PhD than a dropout…",
+            "img": "",
+            "id": "3"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "Our high-performance algorithms are a product of extraordinary contributions from emerging leaders like RESHMA K R, Senior Developer & Team Lead at…",
+            "img": "",
+            "id": "7108434303394480128"
+        },
+        {
+            "interaction": "Liked by Divyanshu Mittal",
+            "link": "",
+            "title": "A small tip to everyone on LinkedIn who is job-hunting or networking... If you're DMing someone, please use the correct spelling for their name…",
+            "img": "",
+            "id": "7103741757732904960"
+        }
+    ],
+    "linkedin_num_id": 755443705.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

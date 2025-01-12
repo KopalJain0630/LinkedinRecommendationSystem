@@ -1,0 +1,539 @@
+{
+    "id": "ankita-sareen",
+    "name": "Ankita Sareen",
+    "city": "Odisha, India",
+    "country_code": "IN",
+    "position": "Graduate Developer @ Barclays |Amazon ML Summer School'22| Organizer @HackNITR| ElE @ NITR'23 | Crework",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Barclays",
+        "company_id": "barclays-bank",
+        "title": "Graduate Developer @ Barclays |Amazon ML Summer School'22| Organizer @HackNITR| ElE @ NITR'23 | Crework"
+    },
+    "experience": [
+        {
+            "title": "BA-4 Developer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mentee - Amazon ML Summer School",
+            "description_html": null,
+            "duration": "Jun 2022 - Present 2 years 7 months",
+            "start_date": "Jun 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 7 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "HackNITR Hackathon",
+            "description_html": null,
+            "duration": "4 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "HackNITR Hackathon",
+                    "meta": "Jun 2021 - Present 3 years 7 months",
+                    "duration": "Jun 2021 - Present 3 years 7 months",
+                    "start_date": "Jun 2021",
+                    "end_date": "Present",
+                    "duration_short": "3 years 7 months",
+                    "title": "Content Team Lead",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "HackNITR Hackathon",
+                    "meta": "Dec 2020 - Jun 2021 7 months",
+                    "duration": "Dec 2020 Jun 2021 7 months",
+                    "start_date": "Dec 2020",
+                    "end_date": "Jun 2021",
+                    "duration_short": "7 months",
+                    "title": "Sponsorship Team Member",
+                    "description_html": null
+                }
+            ],
+            "company": "HackNITR Hackathon",
+            "company_id": "hacknitr",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Engineer",
+            "description_html": null,
+            "duration": "Jun 2023 Jul 2023 2 months",
+            "start_date": "Jun 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "2 months",
+            "company": "Stere",
+            "company_id": "stereio",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "description_html": null,
+            "duration": "Sep 2020 Feb 2023 2 years 6 months",
+            "start_date": "Sep 2020",
+            "end_date": "Feb 2023",
+            "duration_short": "2 years 6 months",
+            "company": "Machine Learning for Everyone (ML4E)",
+            "company_id": "machine-learning-for-everyone-ml4e",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "BA4 Analyst",
+            "location": "Pune, Maharashtra, India",
+            "description": "Worked in Post Trade division.",
+            "description_html": "Worked in Post Trade division. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "description_html": null,
+            "duration": "Jan 2022 Feb 2022 2 months",
+            "start_date": "Jan 2022",
+            "end_date": "Feb 2022",
+            "duration_short": "2 months",
+            "company": "R J Actuaries and Consultants(RJAC)",
+            "company_id": "r-j-actuaries-and-consultants-rjac",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Open Source Contributor",
+            "description_html": null,
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Winter of Code",
+            "company_id": "winterofcode",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "description_html": null,
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Edulyt India",
+            "company_id": "edulytindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Trainee 2020",
+            "description_html": null,
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Consulting and Analytics Club, IIT Guwahati",
+            "company_id": "caciitg",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Pranshu Nema",
+            "about": "MTech CSIS IIIT Hyderabad",
+            "location": "Bhopal"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Singh",
+            "about": "SDE-1 @ Glance | Android, Kotlin, Data Structures and Algorithms",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vidushi Aggarwal",
+            "about": "Cocco n Curry |Data Analytics | Poet | GGI Young Leaders’22",
+            "location": "Haryana, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Kansal",
+            "about": "2nd Generation Entrepreneur | XEAM VENTURES",
+            "location": "Chandigarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Narenraj Vivekanandan",
+            "about": "Master in Management graduate from IE Business School | BTech. Electrical and Electronics Engineering from NIT, Calicut |",
+            "location": "Ghana"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Kumar",
+            "about": "Product Engineer at EdgeVerve | NIT Jalandhar",
+            "location": "Gaya"
+        },
+        {
+            "profile_link": "",
+            "name": "Mudit Agarwal",
+            "about": "Senior AMS Verification Engineer @ Cadence Design Systems || Ex-NXP || M.Tech. BITS Pilani || B.Tech. DTU",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek L",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Srishti Ghulani",
+            "about": "MSc Social and Cultural Psychology, LSE",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagnik Datta",
+            "about": "MDI Gurgaon|Cognizant|VIT Vellore",
+            "location": "Tamil Nadu, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Koumudi Ranjan Mandal",
+            "about": "SDE-2 @ Amazon | ACM-ICPC Regionalist",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aishani Aarya",
+            "about": "Environment Engineer at Cairn || IIT ISM Dhanbad",
+            "location": "Bokaro"
+        },
+        {
+            "profile_link": "",
+            "name": "Keshav Goyal",
+            "about": "Campus Ambassador at Krayonnz",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Juhi Wani",
+            "about": "Texas Instruments | Mitacs GRI'21 | College Of Engineering Pune",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Devansh Sharma",
+            "about": "Software Engineer II at Par/Punchh | VPPR at Toastmasters International | GeeksForGeeks AICE",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Vanshita Sharma",
+            "about": "Analyst at L.E.K. Consulting’s Capability Network",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ponnada Ravi Rao",
+            "about": "Prompt Engineer | Generative AI | ESG & Sustainability Data Analysis | Data Visualization Expert",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Jasleen Kaur",
+            "about": "Owner at Frooty Bakes",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Agarwal",
+            "about": "Joint Secretary of KGEC E-Cell",
+            "location": "Haora"
+        },
+        {
+            "profile_link": "",
+            "name": "Nivedha Anbalagan",
+            "about": "Software Developer at SLB",
+            "location": "Coimbatore"
+        }
+    ],
+    "educations_details": "National Institute of Technology Rourkela",
+    "education": [
+        {
+            "title": "National Institute of Technology Rourkela",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and instrumentation (Major) Computer Science (Minor)",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "D.A.V. Public School, Chandrasekharpur",
+            "degree": "12th",
+            "field": "Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi public school, Damanjodi",
+            "degree": "10th",
+            "field": "10 cgpa",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": "Activities and Societies: Debating club, Elocution",
+            "description_html": "Activities and Societies: Debating club, Elocution",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID 5PPEF2BX8DW8See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID DPMNEKFEKF8HSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID VHDXYW674TDESee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "Aug 2019 - Present · 5 years 5 months",
+            "duration_short": "5 years 5 months",
+            "end_date": "Present",
+            "start_date": "Aug 2019",
+            "subtitle": "Leo club of Rourkela",
+            "title": "Social Worker"
+        },
+        {
+            "duration": "Sep 2019 - Nov 2019 · 3 months",
+            "duration_short": "3 months",
+            "end_date": "Nov 2019",
+            "start_date": "Sep 2019",
+            "subtitle": "Innovision NITRkl",
+            "title": "Publicity Coordinator"
+        },
+        {
+            "duration": "Nov 2020 - Present · 4 years 2 months",
+            "duration_short": "4 years 2 months",
+            "end_date": "Present",
+            "start_date": "Nov 2020",
+            "subtitle": "TEDxNITRourkela",
+            "title": "Management Team Member"
+        },
+        {
+            "duration": "May 2021 - Present · 3 years 8 months",
+            "duration_short": "3 years 8 months",
+            "end_date": "Present",
+            "start_date": "May 2021",
+            "subtitle": "Institute Counselling Services, NIT Rourkela",
+            "title": "Coordinator"
+        },
+        {
+            "duration": "Apr 2021 - Apr 2022 · 1 year 1 month",
+            "duration_short": "1 year 1 month",
+            "end_date": "Apr 2022",
+            "start_date": "Apr 2021",
+            "subtitle": "Hourglass, Toastmasters NITR chapter",
+            "title": "Chief Coordinator, Events and Management"
+        }
+    ],
+    "followers": 3272.0,
+    "connections": 500.0,
+    "current_company_company_id": "barclays-bank",
+    "current_company_name": "Barclays",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"COVID19 Data Analysis Using Python\"}]",
+    "organizations": null,
+    "location": "Odisha",
+    "linkedin_id": "ankita-sareen",
+    "activity": [
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "To all CAT aspirants: Next stop, Interviews! The interview is the last step before the coveted MBA admission. So, to help you crack every top MBA…",
+            "img": "",
+            "id": "7271518889329508352"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "Find hidden allies and shorten your sales cycles by discovering the right contacts at target accounts. ",
+            "img": "",
+            "id": "7186334226286354432"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "When Varun Alagh and I started our entrepreneurial journey, our mentors and well wishers had told us to be prepared for a ride full of…",
+            "img": "",
+            "id": "7269198714890522626"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "Packed with sensitive data and accessible from anywhere, mobile apps are every hacker's dream. Are your mobile apps secure?",
+            "img": "",
+            "id": "7262909637484564481"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "Dear CAT Aspirants, With less than 3 weeks left until the CAT exam, I understand the pressure you might be feeling—it’s natural, especially if your…",
+            "img": "",
+            "id": "7260266678347812865"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "I’m thrilled to share that I’ve received offers from both Swiggy and VISA! After much thought and consideration, I’ve joined the talented team at…",
+            "img": "",
+            "id": "7251463856110149632"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "In memoriam: Mr. Ratan Naval Tata, a leader whose compassion and vision will live on in the hearts of millions. K Krithivasan",
+            "img": "",
+            "id": "7250068170898612224"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "The year I got my biggest raise was the same year I lost a close friend. I can't remember anything from that year without thinking of that loss. A…",
+            "img": "",
+            "id": "7249632812142673920"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "The life of a hardworking kid was ruined, all for an iPhone. This type of news makes people feel unsafe in their own country. And prompt them to go…",
+            "img": "",
+            "id": "7247092945189847040"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "🚀 A warm welcome to Ashis Tripathy to Data Safeguard (DSG) family! We’re thrilled to introduce Ashis Tripathy as our new Associate Software…",
+            "img": "",
+            "id": "7245257138833399809"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "Getting ahead of the curve starts with signing up early. Secure your spot for the May CFA Program exam today.",
+            "img": "",
+            "id": "7239363723952336897"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "A few things for all the freshers (still in college / just passed out in 2024), who are continuously reaching out for referrals in Barclays 1…",
+            "img": "",
+            "id": "7238887313047486466"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "Work Partners and Life Partners - This is what we have done in the last month: ✅ We have created tutorial reels and shorts for our Educosys…",
+            "img": "",
+            "id": "7233723575268950017"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "Even though Soham was a total fresher, his profile stood out distinctly from the 400+ applications we had received. In spite of not having any…",
+            "img": "",
+            "id": "7231148330246934529"
+        },
+        {
+            "interaction": "Liked by Ankita Sareen",
+            "link": "",
+            "title": "Wipro is 𝗛𝗶𝗿𝗶𝗻𝗴 for 2024. #Fresher and #experienced candidates for work-from-home opportunity 𝗦𝗮𝗹𝗮𝗿𝘆: 3 to 35 LPA #Apply Here :-…",
+            "img": "",
+            "id": "7228388941601632256"
+        }
+    ],
+    "linkedin_num_id": 781017797.0,
+    "honors_and_awards": [
+        {
+            "title": "AWS ML Udacity Scholarship",
+            "publication": "Udacity",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Nehru Memorial Scholarship",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Second Regional DAV Topper in Boards",
+            "publication": "DAV Chandrasekharpur",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Thermax National Winners - STORM 2021",
+            "publication": "Thermax PVT Ltd.",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Winners at HackFIT MLH Hackathon",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Winners at QuantaHacks MLH Hackathon",
+            "publication": "-",
+            "date": null,
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,196 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Data Science Specialist (Global IP) at BASF | MSITDS - Hochschule Luzern '24 | MSE - FH Technikum Wien '24",
+    "experience": [
+        {
+            "title": "Data Science Specialist",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "BASF",
+            "company_id": "basf",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Master Assistant",
+            "location": "Switzerland",
+            "description": "- Working in an Agile set-up as a data analyst and backend developer at the Data Intelligence Lab of Hochschule Luzern - Smart Region Lab.",
+            "description_html": "- Working in an Agile set-up as a data analyst and backend developer at the Data Intelligence Lab of Hochschule Luzern - Smart Region Lab. <!---->",
+            "duration": "Jan 2023 Sep 2024 1 year 9 months",
+            "start_date": "Jan 2023",
+            "end_date": "Sep 2024",
+            "duration_short": "1 year 9 months",
+            "company": "Lucerne University of Applied Sciences and Arts",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Montreal, Quebec, Canada",
+            "description": "- Collaborated with Data Science professor on Natural Language Processing for sentiment analysis.- Analysed user sentiments (movie review, hate speech recognition) using NLP techniques and carried out topic modelling.",
+            "description_html": "- Collaborated with Data Science professor on Natural Language Processing for sentiment analysis.- Analysed user sentiments (movie review, hate speech recognition) using NLP techniques and carried out topic modelling. <!---->",
+            "duration": "Jul 2021 Dec 2021 6 months",
+            "start_date": "Jul 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "6 months",
+            "company": "Concordia University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Analyst",
+            "description": "- Applied advanced analytical methods to make credit score predictions and recommendation systems.- Collaborated with a team of 5 and extensively worked at the backend.",
+            "description_html": "- Applied advanced analytical methods to make credit score predictions and recommendation systems.- Collaborated with a team of 5 and extensively worked at the backend. <!---->",
+            "duration": "Sep 2020 Dec 2020 4 months",
+            "start_date": "Sep 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "4 months",
+            "company": "iSmileTechnologies",
+            "company_id": "ismiletechnologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sales And Marketing Intern",
+            "location": "India",
+            "description": "- Responsible for advertising and selling the courses offered by Unschool Academy by actively communicating with the customers.",
+            "description_html": "- Responsible for advertising and selling the courses offered by Unschool Academy by actively communicating with the customers. <!---->",
+            "duration": "Sep 2020 Sep 2020 1 month",
+            "start_date": "Sep 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "1 month",
+            "company": "Unschool",
+            "company_id": "unschool-it",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Greater Noida, Uttar Pradesh, India",
+            "description": "- Worked as a research intern and presented project work on initial finding related to Accent Conversion.",
+            "description_html": "- Worked as a research intern and presented project work on initial finding related to Accent Conversion. <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Bennett University",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Lucerne University of Applied Sciences and Arts",
+            "degree": "Master of Science - MS",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": "Pursued Masters degree in IT, Digitalization and Sustainability program at the Lucerne University of Applied Sciences and Arts",
+            "description_html": "Pursued Masters degree in IT, Digitalization and Sustainability program at the Lucerne University of Applied Sciences and Arts <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Fachhochschule Technikum Wien",
+            "degree": "Master's degree",
+            "field": "Information Systems Management",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2024",
+            "description": "- 6 months of Exchange Semester at FH Technikum Wien. - Pursuing double degree as a tie-up with HSLU in Information Systems Management (Wirtschaftsinformatik)",
+            "description_html": "- 6 months of Exchange Semester at FH Technikum Wien.- Pursuing double degree as a tie-up with HSLU in Information Systems Management (Wirtschaftsinformatik) <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SRM University",
+            "degree": "Bachelor's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ryan International School, Mumbai",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2021",
+            "subtitle": "Coursera",
+            "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "meta": "Issued Apr 2021",
+            "subtitle": "Coursera",
+            "title": "Natural Language Processing with Classification and Vector Spaces"
+        },
+        {
+            "meta": "Issued Mar 2021",
+            "subtitle": "Coursera",
+            "title": "Computational Neuroscience"
+        },
+        {
+            "meta": "Issued Mar 2021",
+            "subtitle": "Microsoft",
+            "title": "Microsoft AI Classroom Series"
+        },
+        {
+            "meta": "Issued Dec 2020",
+            "subtitle": "NPTEL",
+            "title": "Google Cloud Computing Foundations"
+        },
+        {
+            "meta": "Issued Nov 2020",
+            "subtitle": "AWS Elemental, an Amazon Web Services Company",
+            "title": "AWS Technical Professional"
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+            "title": "Satellite Photogrammetry and its Application"
+        },
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "Coursera",
+            "title": "Clustering Geolocation Data Intelligently in Python"
+        },
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "NVIDIA",
+            "title": "FUNDAMENTALS OF DEEP LEARNING FOR COMPUTER VISION"
+        },
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "Coursera",
+            "title": "Perform Sentiment Analysis with scikit-learn"
+        },
+        {
+            "meta": "Issued Apr 2020",
+            "subtitle": "Coursera",
+            "title": "Predict Future Product Prices Using Facebook Prophet"
+        }
+    ],
+    "current_company_name": "BASF",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Accent Conversion\",\"start_date\":\"May 2020\",\"end_date\":\"Jun 2020\"}]",
+    "honors_and_awards": null
+}

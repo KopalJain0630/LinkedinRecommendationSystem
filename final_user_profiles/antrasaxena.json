@@ -1,0 +1,41 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2018Expires Jan 2023Credential ID 544744",
+            "subtitle": "GARP FRM Program",
+            "title": "Financial Risk Manager (FRM) Level 1"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        }
+    ],
+    "current_company_name": "Accel",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Determinants of FII ownership of stocks in emerging markets: A case of India\",\"start_date\":\"Mar 2018\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Goldman Sachs Women Emerging in Finance",
+            "publication": "Golman Sachs",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "Part of the 60 women selected across all IITs and IIMs on the basis of tech based finance idea."
+        }
+    ]
+}

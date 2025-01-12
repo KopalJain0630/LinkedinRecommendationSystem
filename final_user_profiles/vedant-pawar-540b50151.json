@@ -1,0 +1,90 @@
+{
+    "city": "India",
+    "position": "Building Komet",
+    "experience": [
+        {
+            "title": "Co-Founder/CTO",
+            "description": "The sleekest wallet for everything NFTs - allowlist, mint & share collectibles",
+            "description_html": "The sleekest wallet for everything NFTs - allowlist, mint &amp; share collectibles <!---->",
+            "duration": "Jul 2021 - Present 3 years 6 months",
+            "start_date": "Jul 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 6 months",
+            "company": "Komet",
+            "company_id": "kometverse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder",
+            "location": "Shenzhen, Guangdong, China",
+            "description": "-Created a global network of experts(Professors and IEs) for optimization of existing products for the fortune top 50 companies and governments(China and US EPA) using AI and Blockchain unḍer the goal of \"Tech for Humanity\". -Founding team for 2 startups(1-Patent) and raised funding through government grants in the environmental-tech sector.-Introduced new monetization channels for startups by leveraging blockchain into their ways of working-offering new solutions to their clients, partnership between the startups to enter new markets in the smart environmental sector. -Published 5 research papers and 1-patent for scalable applications of tech(AI&Blockchain) in the environmental tech, Manufacturing and Healthcare.",
+            "description_html": "-Created a global network of experts(Professors and IEs) for optimization of existing products for the fortune top 50 companies and governments(China and US EPA) using AI and Blockchain unḍer the goal of \"Tech for Humanity\". -Founding team for 2 startups(1-Patent) and raised funding through government grants in the environmental-tech sector.-Introduced new monetization channels for startups by leveraging blockchain into their ways of working-offering new solutions to their clients, partnership between the startups to enter new markets in the smart environmental sector. -Published 5 research papers and 1-patent for scalable applications of tech(AI&amp;Blockchain) in the environmental tech, Manufacturing and Healthcare.",
+            "duration": "Nov 2019 May 2021 1 year 7 months",
+            "start_date": "Nov 2019",
+            "end_date": "May 2021",
+            "duration_short": "1 year 7 months",
+            "company": "Impact consulting (Endow.AI)",
+            "company_logo_url": ""
+        },
+        {
+            "title": "AI Developer",
+            "location": "Helsinki Area, Finland",
+            "description": "•Reviewed and compared the results of existing Tools and models for object detection and recognition•Studied Interpretation methods for deep learning models with comparison factors like Fairness, Accountability, Transparency•Developed an Image-anomaly detection algorithm for the steel plate generation factory to detect flaws in their plates using computer vision and deep learning.",
+            "description_html": "•Reviewed and compared the results of existing Tools and models for object detection and recognition•Studied Interpretation methods for deep learning models with comparison factors like Fairness, Accountability, Transparency•Developed an Image-anomaly detection algorithm for the steel plate generation factory to detect flaws in their plates using computer vision and deep learning. <!---->",
+            "duration": "May 2019 Oct 2019 6 months",
+            "start_date": "May 2019",
+            "end_date": "Oct 2019",
+            "duration_short": "6 months",
+            "company": "Silo AI",
+            "company_id": "amdsiloai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Visiting Researcher",
+            "location": "Shenzhen, Guangdong, China",
+            "description": "•Co-author in 1 Research paper(EGU General Assembly 2019) for my research and contribution for creating an equipment for water quality anomalies•Created a water quality alarming sensor with the guidance from Professor Jiping Jiang for the urban water quality management",
+            "description_html": "•Co-author in 1 Research paper(EGU General Assembly 2019) for my research and contribution for creating an equipment for water quality anomalies•Created a water quality alarming sensor with the guidance from Professor Jiping Jiang for the urban water quality management <!---->",
+            "duration": "Dec 2018 Jan 2019 2 months",
+            "start_date": "Dec 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "2 months",
+            "company": "Southern University of Science & Technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist Intern",
+            "location": "Mumbai Area, India",
+            "description": "Anomaly Detection: Created an \"Anomaly Detection\" feature to detect the anomalies on daily basis as an alert using Seasonal Hybrid Extreme Studentize Deviate algorithm.User Engagement: Hyper tuned the parameters of Xgboost model for engagement probability of users with Bayesian Optimization algorithm.Recommendation System: Created a Recommendation system for food recipes using \"Word2Vec\" algorithm and optimized the result using search techniques.",
+            "description_html": "Anomaly Detection: Created an \"Anomaly Detection\" feature to detect the anomalies on daily basis as an alert using Seasonal Hybrid Extreme Studentize Deviate algorithm.User Engagement: Hyper tuned the parameters of Xgboost model for engagement probability of users with Bayesian Optimization algorithm.Recommendation System: Created a Recommendation system for food recipes using \"Word2Vec\" algorithm and optimized the result using search techniques. <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "CleverTap",
+            "company_id": "clevertap",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Btech+ Mtech",
+            "field": "Electrical Engineering Technologies/Technicians",
+            "url": "",
+            "description": "Activities and Societies: Member of Kharagpur Data Analytics Group. Graduated with Master’s Thesis in the computer science department - “Voice identification for Hindi speakers under emotional scenarios”.",
+            "description_html": "Activities and Societies: Member of Kharagpur Data Analytics Group.",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Komet",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Correlation Between Emotional Intelligence and Positive Approach Towards Life\",\"start_date\":\"Nov 2017\",\"description\":\"•Collected data from the survey of IIT Kharagpur students with the help of an online questionnaire containing 5-6 MCQ questions on Self and Social factors•Built the best exponential model for Success, Failure and Motivation scores with the parameters Self Awareness, Self Management, and Social Awareness•Distinct weight values were obtained for each score where the rate of increase of each score can be monitored manually to determine the correlation\"},{\"title\":\"Emotion Detection\",\"start_date\":\"Oct 2019\",\"description\":\"•Worked on a Emotion Detection algorithm through speech pattern processing with the audio features extraction using LibROSA library in python•The dataset included around 1500 audio file input from 24 actors (12 male, 12 female) where these actors recorded short audios in 8 different emotions•Mel-frequency cepstrum coefficients (MFCCs) extracted from the audio files were used as an input to the Convolutional Network for classification\"},{\"title\":\"Chess Board Detection\",\"start_date\":\"Sep 2018\",\"end_date\":\"Nov 2018\",\"description\":\"•Built an algorithm that is capable of recognizing chessboard and locate the squares and detect chess pieces from an image for the next best move•For piece recognition used R-CNN to train a robust classifier to work on different kinds of chess board pieces and Stockfish-9 for the possible best move•The method performed better on different kinds of pieces as compared to a SIFT based classifier post-application of image preprocessing methods\"}]",
+    "honors_and_awards": null
+}

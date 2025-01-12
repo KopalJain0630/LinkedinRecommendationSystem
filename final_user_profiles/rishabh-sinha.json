@@ -1,0 +1,95 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Kozhikode",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-",
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2010",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2005",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Business & Government\"},{\"subtitle\":\"-\",\"title\":\"Business Laws\"},{\"subtitle\":\"-\",\"title\":\"Corporate Governance & CorporateSocial Responsibility\"},{\"subtitle\":\"-\",\"title\":\"Financial Derivatives\"},{\"subtitle\":\"-\",\"title\":\"International Business\"},{\"subtitle\":\"-\",\"title\":\"Investment Analysis and Portfolio Management\"},{\"subtitle\":\"-\",\"title\":\"Mergers, Acquisitions andCorporate Restructuring\"},{\"subtitle\":\"-\",\"title\":\"Operations Strategy\"},{\"subtitle\":\"-\",\"title\":\"Strategic Financial Management\"},{\"subtitle\":\"-\",\"title\":\"Supply Chain Management\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022Credential ID 58050394See credential",
+            "subtitle": "QuantInsti",
+            "title": "Executive Program in Algorithmic Trading - Certificate of Excellence "
+        },
+        {
+            "meta": "Issued Nov 2021See credential",
+            "subtitle": "CFA Institute",
+            "title": "CFA Level 2 Passed"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID UC-19c5b1de-0a69-4b04-bee6-027e9764a39cSee credential",
+            "subtitle": "Udemy",
+            "title": "Python for Finance: Investment Fundamentals & Data Analytics"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 21114874See credential",
+            "subtitle": "Financial Edge Training",
+            "title": "Goldman Sachs IBD/MBD Full Time Orientation 2020"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 5LT8FLGY9JT7See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Negotiation: A Strategic Playbook for Becoming a Principled & Persuasive Negotiator"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Udemy",
+            "title": "The Complete Financial Analyst Course 2020"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Udemy",
+            "title": "The Complete Investment Banking Course 2020"
+        },
+        {
+            "meta": "Issued Dec 2018See credential",
+            "subtitle": "CFA Institute",
+            "title": "CFA Level 1 Passed"
+        }
+    ],
+    "current_company_name": "JioSaavn",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Dean's List for Academic Excellence",
+            "publication": "University of Illinois",
+            "date": null,
+            "description": null
+        }
+    ]
+}

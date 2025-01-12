@@ -1,0 +1,44 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Kozhikode",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2003",
+            "end_year": "2005",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1998",
+            "end_year": "2001",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2016",
+            "subtitle": "Insurance Regulatory and Development Authority",
+            "title": "Certified Insurance Principal Officer"
+        }
+    ],
+    "current_company_name": "GrowthCap Ventures",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,50 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Institute of Engineering & Management (IEM)",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Utsav™",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Campus 24\",\"start_date\":\"Apr 2020\",\"end_date\":\"Mar 2021\",\"description\":\"Campus24 : Your Virtual CampusPersonalized social media for your college campus.Join the community of students from all across India and share your Achievements, Talents and Campus Stories.\"},{},{},{},{},{\"title\":\"Snaplingo\",\"start_date\":\"Jun 2020\",\"end_date\":\"Aug 2020\",\"description\":\"All in one Document Scanning App with OCR , QR Scanner & Generator.Snaplingo offer a lot of amazing Image Processing and Editing options such as1. Irregular Crop with Auto Edge Detection2. Adding Signature & Date3. Filters to enhance image4. Drawing on Documents5. Denoising DocumentsMade in India & Ad-Free\"},{},{},{\"title\":\"Innovacion App\",\"start_date\":\"Dec 2019\",\"end_date\":\"Mar 2020\",\"description\":\"Android app for the annual Tech Fest of IEM, Kolkata.Check out all the events, competitions .Participate in Online Events, Register yourself and much more.\"},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Keynote Speaker at Android Development Webinar",
+            "publication": "IEI India",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "Keynote speaker at Android Development Webinar organised by IEI, Electrical Engineering Department IEM in Collaboration with applex.in"
+        },
+        {
+            "title": "Grade 1 Violin, Trinity College London",
+            "publication": "Trinity College London",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "Level 1 Award in Graded Examination in Music Performance with Distinction. Issued by Sarah Kemp, Chief Executive Trinity College London"
+        }
+    ]
+}

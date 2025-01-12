@@ -1,0 +1,85 @@
+{
+    "city": "Allahabad, Uttar Pradesh, India",
+    "position": "Full Stack Developer | Python Developer|Django,Django Rest Framework|MERN Stack developer|MySql|React js developer|",
+    "experience": [
+        {
+            "title": "Associate",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Mar 2024 - Present 10 months",
+            "start_date": "Mar 2024",
+            "end_date": "Present",
+            "duration_short": "10 months",
+            "company": "Mobifly",
+            "company_id": "mobifly",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Django Developer",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Jul 2022 Mar 2024 1 year 9 months",
+            "start_date": "Jul 2022",
+            "end_date": "Mar 2024",
+            "duration_short": "1 year 9 months",
+            "company": "Empowered Wings Pvt Ltd",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Auditor",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Jan 2022 Jul 2022 7 months",
+            "start_date": "Jan 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "7 months",
+            "company": "Techelectro Consulting",
+            "company_id": "techelectro.consulting",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student",
+            "location": "Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Nov 2019 Jun 2022 2 years 8 months",
+            "start_date": "Nov 2019",
+            "end_date": "Jun 2022",
+            "duration_short": "2 years 8 months",
+            "company": "Chegg Inc.",
+            "company_id": "chegg-inc-",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "UCER",
+            "degree": "Bachelor of Technology",
+            "field": "Electrical Engineering Technologies/Technicians",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "M V Inter College Sulem Sarai Allahabad",
+            "degree": "B.TECH",
+            "field": "Electrical Engineering Technologies/Technicians",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Mobifly",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

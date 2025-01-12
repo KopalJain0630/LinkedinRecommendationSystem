@@ -1,0 +1,145 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Credit Analyst | Investment Products",
+    "experience": [
+        {
+            "title": "Kotak Mutual Fund",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "4 years",
+            "positions": [
+                {
+                    "subtitle": "Kotak Mutual Fund",
+                    "meta": "Nov 2022 - Present 2 years 2 months",
+                    "duration": "Nov 2022 - Present 2 years 2 months",
+                    "start_date": "Nov 2022",
+                    "end_date": "Present",
+                    "duration_short": "2 years 2 months",
+                    "title": "Credit Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Kotak Mutual Fund",
+                    "meta": "Jan 2021 - Oct 2022 1 year 10 months",
+                    "duration": "Jan 2021 Oct 2022 1 year 10 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "Oct 2022",
+                    "duration_short": "1 year 10 months",
+                    "title": "Product Manager",
+                    "description_html": null
+                }
+            ],
+            "company": "Kotak Mutual Fund",
+            "company_id": "kotak-mutual-fund",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Punjab Agricultural University",
+            "description_html": null,
+            "duration": "5 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "Punjab Agricultural University",
+                    "meta": "Feb 2018 - Jan 2021 3 years",
+                    "duration": "Feb 2018 Jan 2021 3 years",
+                    "start_date": "Feb 2018",
+                    "end_date": "Jan 2021",
+                    "duration_short": "3 years",
+                    "title": "Senior Research Fellow",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Punjab Agricultural University",
+                    "meta": "Jan 2016 - Jan 2018 2 years 1 month",
+                    "duration": "Jan 2016 Jan 2018 2 years 1 month",
+                    "start_date": "Jan 2016",
+                    "end_date": "Jan 2018",
+                    "duration_short": "2 years 1 month",
+                    "title": "Junior Research Fellow",
+                    "description_html": null
+                }
+            ],
+            "company": "Punjab Agricultural University",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Trainee",
+            "location": "Mumbai, India",
+            "description": "Portfolio Management Services",
+            "description_html": "Portfolio Management Services <!---->",
+            "duration": "Jun 2017 Jul 2017 2 months",
+            "start_date": "Jun 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "2 months",
+            "company": "Kotak Mahindra Asset Management Company",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Internship",
+            "description_html": null,
+            "duration": "Jun 2015 Jul 2015 2 months",
+            "start_date": "Jun 2015",
+            "end_date": "Jul 2015",
+            "duration_short": "2 months",
+            "company": "Ludhiana Stock and Capital Limited",
+            "company_id": "ludhiana-stock-and-capital-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "description_html": null,
+            "duration": "May 2014 Jun 2014 2 months",
+            "start_date": "May 2014",
+            "end_date": "Jun 2014",
+            "duration_short": "2 months",
+            "company": "SBI Funds Management Pvt. Ltd.",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "CFA Institute",
+            "degree": "CFA",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University Business School, Panjab University, Chandigarh",
+            "degree": "Master of Business Administration (MBA)",
+            "field": "Finance and Marketing",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "School of Business Studies, Punjab Agricultural University",
+            "degree": "Doctor of Philosophy (Ph.D.)",
+            "field": "Finance",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": "Senior Research Fellow",
+            "description_html": "Senior Research Fellow <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "CFA Institute",
+            "title": "Passed Level 3 of the CFA Program"
+        }
+    ],
+    "current_company_name": "Kotak Mutual Fund",
+    "publications": "[{\"title\":\"Risk‑adjusted Returns from Statistical Arbitrage Opportunities in Indian Stock Futures Market\",\"subtitle\":\"Springer Nature\",\"date\":\"July 16, 2020\",\"description\":\"Statistical arbitrage is a trading strategy that employs time series methods to identify relative mispricing between securities based on the expected values of these assets. The Pairs Trading, one of the techniques of statistical arbitrage, is a market neutral trading strategy. The daily future prices of stocks traded and listed on NSE are used on rolling basis to compute the performance based on the selection of pairs through minimizing the sum of squared deviation (distance method) and the selection based on cointegration tests (cointegration method) for identifying stocks suited for pairs trading strategies. To examine the risk of pairs trading and the drivers of returns, the portfolio returns are risk-adjusted using Fama and French three factor asset pricing model.\"},{\"title\":\"Risk Measurement: An Introduction to Value-at-Risk (VaR)\",\"subtitle\":\"National Press Associates\",\"date\":\"February 15, 2020\",\"description\":\"Value at risk (VaR) has been called the \\\"new science of risk management\\\", which calculates the maximum loss expected (or worst case scenario) on an investment, over a given time period and given a specified degree of confidence. Losses greater than the VaR are suffered only with a specified small probability. This paper is an introduction to the concept and methodology of VaR. We explain the concept of VaR, and then describe three methods for computing it.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

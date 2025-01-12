@@ -1,0 +1,146 @@
+{
+    "city": "Odisha, India",
+    "position": "Risk analyst at Piramal | CFA L1 cleared | IIT Kharagpur 2022",
+    "experience": [
+        {
+            "title": "Credit Risk Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Feb 2023 Oct 2024 1 year 9 months",
+            "start_date": "Feb 2023",
+            "end_date": "Oct 2024",
+            "duration_short": "1 year 9 months",
+            "company": "Piramal Capital & Housing Finance Limited",
+            "company_id": "piramalfinance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Gurugram, Haryana, India",
+            "description": "◦ Hand detection: Retrained the YOLO hand detector model that tracks the hand and its movements in the interview using the Egohands dataset. Increased the accuracy by 17% and added new features to the detector to make it more robust.◦ Question Answer Feature extraction: Built a QA feature extractor with LSTM model using in house data to extract features of questions asked in interviews and their answers to improve the quality of questions and answers in interviews.◦ Informal and Formal Suit detection: Analyzed Fashionpedia and DeepFashion2 datasets to extract useful main garment attributes and accessories to map them to various formal and informal interview attires for female candidates.",
+            "description_html": "◦ Hand detection: Retrained the YOLO hand detector model that tracks the hand and its movements in the interview using the Egohands dataset. Increased the accuracy by 17% and added new features to the detector to make it more robust.◦ Question Answer Feature extraction: Built a QA feature extractor with LSTM model using in house data to extract features of questions asked in interviews and their answers to improve the quality of questions and answers in interviews.◦ Informal and Formal Suit detection: Analyzed Fashionpedia and DeepFashion2 datasets to extract useful main garment attributes and accessories to map them to various formal and informal interview attires for female candidates.",
+            "duration": "Nov 2022 Jan 2023 3 months",
+            "start_date": "Nov 2022",
+            "end_date": "Jan 2023",
+            "duration_short": "3 months",
+            "company": "VMock",
+            "company_id": "vmock-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst Intern",
+            "description": "•Worked in the reconciliation team to map out various orders& their deliveries by different DSPs across  India using MySQL• Reconciled the orders of various delivery partners like Delhivery, Blowhorn, and Nowbike and facilitated the payment process• Corrected and replaced the wrong data in the excel sheets by applying various tools like vlookup, match, and pivot tables",
+            "description_html": "•Worked in the reconciliation team to map out various orders&amp; their deliveries by different DSPs across India using MySQL• Reconciled the orders of various delivery partners like Delhivery, Blowhorn, and Nowbike and facilitated the payment process• Corrected and replaced the wrong data in the excel sheets by applying various tools like vlookup, match, and pivot tables <!---->",
+            "duration": "Feb 2022 Mar 2022 2 months",
+            "start_date": "Feb 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "2 months",
+            "company": "Apollo 24|7",
+            "company_id": "apollo247",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Model risk analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "◦ Performed complete validation of Economic Risk Capital (ERC) model for the US and Europe Middle Market Loan portfolio.◦ Critically analyzed the model performance through materiality, shock calibration, model implementation, and back-testing.◦ Assessed the model limitations, model monitoring, and governance and presented my final findings in the validation report.",
+            "description_html": "◦ Performed complete validation of Economic Risk Capital (ERC) model for the US and Europe Middle Market Loan portfolio.◦ Critically analyzed the model performance through materiality, shock calibration, model implementation, and back-testing.◦ Assessed the model limitations, model monitoring, and governance and presented my final findings in the validation report. <!---->",
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Credit Suisse",
+            "company_id": "credit-suisse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer vision and Machine Learning Intern",
+            "description": "◦ Built a face recognition model using the Viola-Jones algorithm. Used Haar-cascade classifier to detect various facial properties.◦ Trained the CNN model to predict gender and age group of customers with an accuracy of 72.3% for age and 85.2% for gender.",
+            "description_html": "◦ Built a face recognition model using the Viola-Jones algorithm. Used Haar-cascade classifier to detect various facial properties.◦ Trained the CNN model to predict gender and age group of customers with an accuracy of 72.3% for age and 85.2% for gender. <!---->",
+            "duration": "Aug 2020 Sep 2020 2 months",
+            "start_date": "Aug 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "2 months",
+            "company": "CamfyVision Innovations",
+            "company_id": "camfyvision-technologies-1",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "◦ Developed a tool using Python to extract and process the data from the Household Consumption Expenditure surveys 2019.◦ Assessed the PLFS surveys conducted in 2017 and noted the dynamics in labor force participation and their dependencies.◦ Developed a regression model to predict MPCE in reference periods with 83.25% accuracy which was widely used during 2020.",
+            "description_html": "◦ Developed a tool using Python to extract and process the data from the Household Consumption Expenditure surveys 2019.◦ Assessed the PLFS surveys conducted in 2017 and noted the dynamics in labor force participation and their dependencies.◦ Developed a regression model to predict MPCE in reference periods with 83.25% accuracy which was widely used during 2020. <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": "Activities and Societies: 1.Secured silver medal in Interhall Cricket Tournament in the year 2017-18. 2.Secured gold medal in Interhall Cricket Tournament in the year 2018-19. 3.Participated in the interhall case study(Nov'18). 4.Volunteer at National Social Service in IIT Kharagpur(June'17 to present).Attended several Social Service camps.",
+            "description_html": "Activities and Societies: 1.Secured silver medal in Interhall Cricket Tournament in the year 2017-18. 2.Secured gold medal in Interhall Cricket Tournament in the year 2018-19. 3.Participated in the interhall case study(Nov'18). 4.Volunteer at National Social Service in IIT Kharagpur(June'17 to present).Attended several Social Service camps.",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "BHAGAT SENIOR SECONDARY PUBLIC SCHOOL, KOTA",
+            "degree": "CBSE 12th",
+            "field": "Science",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": "Activities and Societies: member of cricket team",
+            "description_html": "Activities and Societies: member of cricket team",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV PUBLIC SCHOOL, CHANDRASEKHARPUR",
+            "degree": "CBSE 10th board",
+            "field": "CGPA-10",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2015",
+            "description": "Activities and Societies: Qualified NSEJS(National Standard Examination in Junior Science) second round, NSEC, and NSEP.",
+            "description_html": "Activities and Societies: Qualified NSEJS(National Standard Examination in Junior Science) second round, NSEC, and NSEP.",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Piramal Capital & Housing Finance Limited",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Genetic algorithm-based optimized ensemble model for the prediction of happiness index\",\"start_date\":\"Sep 2020\",\"end_date\":\"Nov 2020\"}]",
+    "honors_and_awards": [
+        {
+            "title": "KVPY(Kishore Vaigyanik Protsahan Yojana) Scholar",
+            "publication": "The Department of Science and Technology of the Government of India",
+            "date": "2016-03-01T00:00:00.000Z",
+            "description": "->Secured all India rank 160. ->Selected for VIJYOSHI National Level Camp in 2016."
+        },
+        {
+            "title": "NTSE(National Talent Search Examination) Scholar",
+            "publication": "NCERT(National Council of Educational Research and Training)",
+            "date": "2015-05-01T00:00:00.000Z",
+            "description": "->Among top 1000 students in all india"
+        },
+        {
+            "title": "RMO(Regional Mathematics Olympiad)",
+            "publication": "Odisha Mathematical Society (OMS) and Homi Bhabha Centre For Science Education(HBCSE)",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": "->Among top 10 students in state"
+        }
+    ]
+}

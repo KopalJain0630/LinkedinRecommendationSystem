@@ -1,0 +1,104 @@
+{
+    "city": "Delhi, India",
+    "position": "Advanced Analyst at EY | ITS Ghaziabad | MBA '21",
+    "experience": [
+        {
+            "title": "EY",
+            "description_html": null,
+            "duration": "3 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "EY",
+                    "meta": "Oct 2023 - Present 1 year 3 months",
+                    "duration": "Oct 2023 - Present 1 year 3 months",
+                    "start_date": "Oct 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 3 months",
+                    "title": "Advanced Analyst | Infrastructure Advisory",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "EY",
+                    "meta": "Jul 2021 - Oct 2023 2 years 4 months",
+                    "duration": "Jul 2021 Oct 2023 2 years 4 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Oct 2023",
+                    "duration_short": "2 years 4 months",
+                    "title": "Analyst | Strategy and Transaction | Infrastructure Advisory",
+                    "description_html": null
+                }
+            ],
+            "company": "EY",
+            "company_id": "ernstandyoung",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "PNB MetLife India Insurance Co. Ltd",
+            "company_id": "pnb-metlife-india-insurance-co-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Dr. A.P.J. Abdul Kalam Technical University",
+            "degree": "Master of Business Administration - MBA",
+            "field": "Finance",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi University",
+            "degree": "Bachelor of Science ( Honours Course)",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2023See credential",
+            "subtitle": "EY",
+            "title": "EY Finance - Bronze (2023)"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID 27047872",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Introduction to banking"
+        },
+        {
+            "meta": "Credential ID 342148",
+            "subtitle": "CFA Institute",
+            "title": "Investment Foundations"
+        },
+        {
+            "subtitle": "365 Careers",
+            "title": "The Complete Financial Analyst Course 2021"
+        },
+        {
+            "subtitle": "Google Digital Unlocked",
+            "title": "The fundamental of Digital Marketing"
+        }
+    ],
+    "current_company_name": "EY",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

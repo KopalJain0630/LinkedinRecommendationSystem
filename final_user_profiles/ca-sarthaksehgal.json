@@ -1,0 +1,87 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Chartered Accountant | Deloitte USI",
+    "experience": [
+        {
+            "title": "Deloitte USI",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "3 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Deloitte USI",
+                    "meta": "Apr 2023 - Present 1 year 9 months",
+                    "duration": "Apr 2023 - Present 1 year 9 months",
+                    "start_date": "Apr 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 9 months",
+                    "title": "Solution Advisor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Deloitte USI",
+                    "meta": "Nov 2021 - Apr 2023 1 year 6 months",
+                    "duration": "Nov 2021 Apr 2023 1 year 6 months",
+                    "start_date": "Nov 2021",
+                    "end_date": "Apr 2023",
+                    "duration_short": "1 year 6 months",
+                    "title": "Associate Solution Advisor",
+                    "description_html": null
+                }
+            ],
+            "company": "Deloitte USI",
+            "company_logo_url": null
+        },
+        {
+            "title": "Articled Assistant",
+            "location": "Jaipur, Rajasthan",
+            "description_html": null,
+            "duration": "May 2018 Oct 2020 2 years 6 months",
+            "start_date": "May 2018",
+            "end_date": "Oct 2020",
+            "duration_short": "2 years 6 months",
+            "company": "PSD & Associates",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Articled Assistant",
+            "location": "Jaipur, Rajasthan",
+            "description_html": null,
+            "duration": "Oct 2017 May 2018 8 months",
+            "start_date": "Oct 2017",
+            "end_date": "May 2018",
+            "duration_short": "8 months",
+            "company": "Saraswat and saraswat chartered accountants",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Institute of Chartered Accountants of India",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indira Gandhi National Open University",
+            "degree": "Bachelor of Commerce - BCom",
+            "field": "Business/Commerce, General",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Deloitte USI",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

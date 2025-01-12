@@ -1,0 +1,349 @@
+{
+    "id": "vivekashirode",
+    "name": "Vivek Shirode",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Data Science @Amex | Ex- Deloitte USI | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "American Express",
+        "company_id": "american-express",
+        "title": "Data Science @Amex | Ex- Deloitte USI | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Analyst - Data Science",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Dec 2024 - Present 1 month",
+            "start_date": "Dec 2024",
+            "end_date": "Present",
+            "duration_short": "1 month",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2023 Dec 2024 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Dec 2024",
+            "duration_short": "1 year 5 months",
+            "company": "Deloitte",
+            "company_id": "deloitte",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "Overview: Worked on channel-wise supply KPI tracking & made recommendations on improvement avenues for Belvilla, a subsidiary of OYO\u00e2\u20ac\u00a2 Created SQL queries to fetch 5k+ distinct house ids data for New Live & Signing homes; analysed updated counts & revenue for year'22\u00e2\u20ac\u00a2 Built end-to-end connection between Tableau & Bigquery to create automated dashboards showcasing important insights from data\u00e2\u20ac\u00a2 Proposed 4 key insights by constructing dashboards for countrywise and contractwise data using sets, parameters, filters and groups\u00e2\u20ac\u00a2 Developed pivot tables on Ms-Excel, performed EDA and deduced information on the revenue structure of various geographical regions",
+            "description_html": "Overview: Worked on channel-wise supply KPI tracking &amp; made recommendations on improvement avenues for Belvilla, a subsidiary of OYO\u00e2\u20ac\u00a2 Created SQL queries to fetch 5k+ distinct house ids data for New Live &amp; Signing homes; analysed updated counts &amp; revenue for year'22\u00e2\u20ac\u00a2 Built end-to-end connection between Tableau &amp; Bigquery to create automated dashboards showcasing important insights from data\u00e2\u20ac\u00a2 Proposed 4 key insights by constructing dashboards for countrywise and contractwise data using sets, parameters, filters and groups\u00e2\u20ac\u00a2 Developed pivot tables on Ms-Excel, performed EDA and deduced information on the revenue structure of various geographical regions",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "OYO",
+            "company_id": "oyo-rooms",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Image processing Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "\u00e2\u20ac\u00a2 Worked on a Lives and Livelihoods Global Analysis project during COVID-19 pandemic using Multicriteria optimization to save lives and livelihoods\u00e2\u20ac\u00a2 Satellite image processing of NASA Blackmarble VIIRS Night Light sensor platform to extract luminosity measures by statistical operations in Qgis\u00e2\u20ac\u00a2 Implemented Time series analysis of Google Mobility & Nightlight data to identify important patterns of COVID-19 response on 95 countries\u00e2\u20ac\u00a2 Analyse the model output with Global Burden of Disease data, Containment Health Index, Stringency index & Govt. Response Index",
+            "description_html": "\u00e2\u20ac\u00a2 Worked on a Lives and Livelihoods Global Analysis project during COVID-19 pandemic using Multicriteria optimization to save lives and livelihoods\u00e2\u20ac\u00a2 Satellite image processing of NASA Blackmarble VIIRS Night Light sensor platform to extract luminosity measures by statistical operations in Qgis\u00e2\u20ac\u00a2 Implemented Time series analysis of Google Mobility &amp; Nightlight data to identify important patterns of COVID-19 response on 95 countries\u00e2\u20ac\u00a2 Analyse the model output with Global Burden of Disease data, Containment Health Index, Stringency index &amp; Govt. Response Index",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning and Data Analysis Intern",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "\u00e2\u20ac\u00a2 Worked on a pilot project with an Indian Gas Utility which involved applying Deep Learning techniques on images to record information for analysis\u00e2\u20ac\u00a2 Developed a Deep Learning based model to detect meter readings from meter images by analysing 20,000 images of household LPG pipeline meters\u00e2\u20ac\u00a2 Implemented a CNN model with a Softmax classifier to classify digits and achieved 92% accuracy on the testing data after tuning the hyper-parameters\u00e2\u20ac\u00a2 Trained a Custom YOLOv3 object detection model for 3,000 iterations to localize the part of the images containing the readings and achieved 0.87 mAP\u00e2\u20ac\u00a2 Achieved final accuracy of more than 85% on 5,000 test images by joining the 2 deep learning models and automated the end to end detection process\u00e2\u20ac\u00a2 Made a detailed project report on Setting up Solar Manufacturing Plant to help the new investors to know about the Policy, Technology, Market demand & Financial aspects",
+            "description_html": "\u00e2\u20ac\u00a2 Worked on a pilot project with an Indian Gas Utility which involved applying Deep Learning techniques on images to record information for analysis\u00e2\u20ac\u00a2 Developed a Deep Learning based model to detect meter readings from meter images by analysing 20,000 images of household LPG pipeline meters\u00e2\u20ac\u00a2 Implemented a CNN model with a Softmax classifier to classify digits and achieved 92% accuracy on the testing data after tuning the hyper-parameters\u00e2\u20ac\u00a2 Trained a Custom YOLOv3 object detection model for 3,000 iterations to localize the part of the images containing the readings and achieved 0.87 mAP\u00e2\u20ac\u00a2 Achieved final accuracy of more than 85% on 5,000 test images by joining the 2 deep learning models and automated the end to end detection process\u00e2\u20ac\u00a2 Made a detailed project report on Setting up Solar Manufacturing Plant to help the new investors to know about the Policy, Technology, Market demand &amp; Financial aspects",
+            "duration": "Jan 2021 Apr 2021 4 months",
+            "start_date": "Jan 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "4 months",
+            "company": "Assetplusconsulting - A Decision Science Company",
+            "company_id": "assetplusconsulting",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Murshid K N",
+            "about": "Product Management | Product Development | Pre Final Year at IIT KGP",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Anvita Verma",
+            "about": "Sustainability Consultant | Environmental Engineer | Ex-Vedanta | IIT-ISM Dhanbad",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Agrawal",
+            "about": "Software Developer at Cisco | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vijay Bhasker",
+            "about": "Application Development Associate",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Soumyajit Chakraborty",
+            "about": "Engineer at TSMC (Hsinchu, Taiwan) | MRM Intern Credit Suisse | Mentor @AlgoZenith | Mathematics and Computing | IIT KGP | 2023",
+            "location": "Hsinchu City"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Behera",
+            "about": "Industrial Engineering Student at IIT Kharagpur ||Data Analysis, Machine Learning",
+            "location": "West Godavari"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Priyadarshan Ravichandran",
+            "about": "Machine Learning Intern at Meteory | MSc Astronomy and Data Science, Leiden University",
+            "location": "Leiden"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanish P.",
+            "about": "Upcoming GET at Cairn India, Vedanta Limited IIT Kharagpur'24",
+            "location": "Madhya Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rakshit Patil",
+            "about": "Aerospace Engineer | Masters /PG Diploma in Aerospace Engineering | CAD, CFD and Aerodynamics | Passion for Innovative aircraft and UAV Designs.",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Srivastava",
+            "about": "Principal Investments, Deutsche Bank | IIT Kharagpur | CFA L1 Cleared | Financial Engineering",
+            "location": "Patna"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashutosh Mishra",
+            "about": "SSP24 | Doctoral Researcher (MEXT Scholar) at Space Robotics Laboratory, Tohoku University",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Varun Lahoti",
+            "about": "Business Intelligence Engineer @Amazon || IIT Kharagpur",
+            "location": "Greater Raipur Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishi Modi",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Farera",
+            "about": "Third Year Undergraduate | Civil Engineering | Indian Institute of Technology, Kharagpur",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "RAGHURAM PRASAD",
+            "about": "HOD at Pydah College of Engineering, Yanam Road, Patavala,Tallarevu (M), Kakinada-533461 (CC-6T)",
+            "location": "East Godavari"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Rajdev",
+            "about": "Quantitative Researcher | Machine Learning | Derivative Strategies | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Yaswanth Pavan Mahadasu",
+            "about": "Business @ Gameskraft | IIT KGP '22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vigneshwar R",
+            "about": "Youth at Sri Sathya Sai Seva Organisation",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Alakh Dixit",
+            "about": "MTS @ Adobe | Adobe Research | Anand Rathi Global Finance | IIT Kharagpur '23",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor and Masters of Technology",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2021Credential ID 9A7389SQEYV9See credential",
+            "subtitle": "Coursera",
+            "title": "SQL for Data Science"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID WFHH8JV292C6See credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID QRVVTW8SPVH9See credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "May 2020 - Apr 2021 \u00c2\u00b7 1 year",
+            "duration_short": "1 year",
+            "end_date": "Apr 2021",
+            "info": "\u00e2\u20ac\u00a2 National Students' Space Challenge is India's largest Space Technology fest. It contains many Technical and Non-Technical events and solely dedicated to space technology.\u00e2\u20ac\u00a2 Headed a team of 5 members responsible for overall designing work of the fest including brochures, posters, flexes, arena design, etc",
+            "start_date": "May 2020",
+            "subtitle": "National Students' Space Challenge",
+            "title": "Design Head"
+        },
+        {
+            "duration": "May 2020 - Apr 2021 \u00c2\u00b7 1 year",
+            "duration_short": "1 year",
+            "end_date": "Apr 2021",
+            "info": "\u00e2\u20ac\u00a2 Worked under the Dean of International Relations for positioning and branding IIT Kharagpur as a Global leader in science &technology\u00e2\u20ac\u00a2 Worked on the UG Achievers Directory 2019-20 which showcases achievements of IIT KGP students in field of sports, arts and academia\u00e2\u20ac\u00a2 Played a pivotal role in organising the 69th Foundation day of IIT Kharagpur, managing 100+ students from 15 different schools",
+            "start_date": "May 2020",
+            "subtitle": "Branding and Relations Cell IIT Kharagpur",
+            "title": "Senior Coordinator"
+        },
+        {
+            "info": "SPATS is the functional body of the Kalpana Chawla Space Technology Cell (KCSTC) which is the contact point of the Indian Space Research Organisation (ISRO) at IIT Kharagpur. It solely dedicated to Astronomy and Space technology. It also constitutes of astronomy club named \"From Quarks TO Quasars \" which aims to develop a theoretical approach towards cosmology and astronomy. We also conduct Space Technology Awareness Camp in different institutions of India which primarily aims to spread space\u00e2\u20ac\u00a6\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          SPATS is the functional body of the Kalpana Chawla Space Technology Cell (KCSTC) which is the contact point of the Indian Space Research Organisation (ISRO) at IIT Kharagpur. It solely dedicated to Astronomy and Space technology. It also constitutes of astronomy club named \"From Quarks TO Quasars \" which aims to develop a theoretical approach towards cosmology and astronomy. We also conduct Space Technology Awareness Camp in different institutions of India which primarily aims to spread space awareness across the nation.Inside the campus, we conduct various sky gazing sessions witnessing a response of more than 1500 people, guest lectures, web talks, and quiz events. Each semester we distribute our official newsletter named MOON WALK throughout the campus.\n            \n\n    \n    \n\n    \n        Show less",
+            "subtitle": "spAts",
+            "title": "Member"
+        },
+        {
+            "duration": "Jul 2018 - Apr 2020 \u00c2\u00b7 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2020",
+            "info": "\u00e2\u20ac\u00a2 Conducted Public awareness program, Cloth distribution camp every week at Nachna as a member of National Service Scheme\u00e2\u20ac\u00a2 Conducted lectures for the students.\u00e2\u20ac\u00a2 Distributed water purifiers to 25 houses of Nachana village",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 2832.0,
+    "connections": 500.0,
+    "current_company_company_id": "american-express",
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "vivekashirode",
+    "activity": [
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "Swiggy is hiring for Business Analyst Mentioned Experience: 1-3 YOE ( Freshers with relevant Skills as per JD can consider Applying) Application\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7262701314374008833"
+        },
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "Freshers looking for data science and data engineering roles, please send your resume with a brief introduction of your skills and strengths to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7262679392357670912"
+        },
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "Intuit is hiring !! Role: Software Engineer 2 Exp: 2+yrs Location: Bangalore Skills: Java, Postgres, Data Lake, Kafka, AWS/Kubernetes, API\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7262701724459499520"
+        },
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "Working on this project has been an incredible experience, especially given its broader impact. Developing a framework to assess and measure bias in\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7262481175754035200"
+        },
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "Life takes a full circle ! I have joined Indian Institute of Technology, Bombay as Assistant Professor \u00f0\u0178\u2122\u201a At 17 years of age I left home for Kota to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7260884946745995265"
+        },
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "Join Techolution as a Generative AI Intern! Techolution is looking for Generative AI Interns who are eager to innovate and collaborate on\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7260561374672486400"
+        },
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "Hey Folks, I\u00e2\u20ac\u2122m currently hiring a Senior Software Engineer(Founding Engineer Positions) Shelf Radar is a fast-growing revenue intelligence SaaS\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7253624055512129536"
+        },
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "#Hiring Colaberry is hiring a Data Scientist to build advanced machine learning models and algorithms to analyze power industry data related to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7231289525451268097"
+        },
+        {
+            "interaction": "Liked by Vivek Shirode",
+            "link": "",
+            "title": "Hello everyone, I am delighted to share that I have passed the CFA Level-1 exam (May 24), scoring above the 90th percentile. It has been a great\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7213785304938233857"
+        }
+    ],
+    "linkedin_num_id": 724400917.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

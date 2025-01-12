@@ -1,0 +1,333 @@
+{
+    "id": "mayankpatel14",
+    "name": "Mayank Patel",
+    "city": "Kharagpur, West Bengal, India",
+    "country_code": "IN",
+    "position": "Data Scientist at Sprinklr | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Sprinklr",
+        "company_id": "sprinklr",
+        "title": "Data Scientist at Sprinklr | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Sprinklr",
+            "company_id": "sprinklr",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE Intern",
+            "location": "Dubai, United Arab Emirates",
+            "description": "Working for the betterment of SMEs using Technology",
+            "description_html": "Working for the betterment of SMEs using Technology <!---->",
+            "duration": "Feb 2022 Jul 2022 6 months",
+            "start_date": "Feb 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "6 months",
+            "company": "Zyyp",
+            "company_id": "zyyp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Member",
+            "location": "IIT Kharagpur, West Bengal, India",
+            "description": "• Conducted Data Science hackathons and workshops with the participation of over 2000+ students from all over Asia• Mentored 6 junior students, helping them to build core concepts of Data Science and with implementing key projects",
+            "description_html": "• Conducted Data Science hackathons and workshops with the participation of over 2000+ students from all over Asia• Mentored 6 junior students, helping them to build core concepts of Data Science and with implementing key projects <!---->",
+            "duration": "Oct 2020 Jul 2021 10 months",
+            "start_date": "Oct 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "10 months",
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "NLP Research Intern",
+            "location": "Sheffield, England, United Kingdom",
+            "description_html": null,
+            "duration": "Nov 2020 Jan 2021 3 months",
+            "start_date": "Nov 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "3 months",
+            "company": "The University of Sheffield",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision",
+            "location": "Selangor, Malaysia",
+            "description": "Wilderness Satellite Image Classification | Professor Tomas Maul, University of Nottingham, Malaysia• Created Satellite Images dataset (17776 images) of forest & non-forest for Wilderness Classification using deep learning• Implemented LeNet, VggNet (11,13,16 &19), ResNet9, Inceptionv1, MobileNetv2 and DenseNet121 model using Pytorch• Developed DeepSatv2 (SOTA for satellite image classification) from scratch by adding 12 crafted features and got the maximum validation accuracy of 0.9888 and 0.0042 binary cross-entropy loss with DeepSatv2",
+            "description_html": "Wilderness Satellite Image Classification | Professor Tomas Maul, University of Nottingham, Malaysia• Created Satellite Images dataset (17776 images) of forest &amp; non-forest for Wilderness Classification using deep learning• Implemented LeNet, VggNet (11,13,16 &amp;19), ResNet9, Inceptionv1, MobileNetv2 and DenseNet121 model using Pytorch• Developed DeepSatv2 (SOTA for satellite image classification) from scratch by adding 12 crafted features and got the maximum validation accuracy of 0.9888 and 0.0042 binary cross-entropy loss with DeepSatv2",
+            "duration": "Nov 2020 Nov 2020 1 month",
+            "start_date": "Nov 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "1 month",
+            "company": "University of Nottingham Malaysia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Durham, England, United Kingdom",
+            "description": "• Annotated the available 3000 OCT images for feeding into the UNet Semantic Image Segmentation model• Understood the development of UNet based Semantic Image Segmentation model for segmenting out the ELM lines from the annotated OCT images and Pytorch library was used for the development of the model• Achieved 98% Intersection of Union (IoU) on the test data by using Adam Optimizer for updating the weights upon each epoch",
+            "description_html": "• Annotated the available 3000 OCT images for feeding into the UNet Semantic Image Segmentation model• Understood the development of UNet based Semantic Image Segmentation model for segmenting out the ELM lines from the annotated OCT images and Pytorch library was used for the development of the model• Achieved 98% Intersection of Union (IoU) on the test data by using Adam Optimizer for updating the weights upon each epoch <!---->",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "Durham University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Edmonton, Alberta, Canada",
+            "description": "• Investigating the effectiveness of presently available Covid-19 contact tracing apps on different parameters• Started with a thorough search on the available apps, studied their privacy issues, and inspected their current public adoption• Preprocessed the dataset for implementation and comparison of Time Series (ARIMA model) and LSTM model based mobility prediction models to assess apps’ effectiveness in face of realistic urban mobility scenario• Got lower RMSE (2913.13) for ARIMA based time series model than LSTM model (RMSE 4789.98)",
+            "description_html": "• Investigating the effectiveness of presently available Covid-19 contact tracing apps on different parameters• Started with a thorough search on the available apps, studied their privacy issues, and inspected their current public adoption• Preprocessed the dataset for implementation and comparison of Time Series (ARIMA model) and LSTM model based mobility prediction models to assess apps’ effectiveness in face of realistic urban mobility scenario• Got lower RMSE (2913.13) for ARIMA based time series model than LSTM model (RMSE 4789.98)",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "University of Alberta",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Spring Fest",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "2 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "Spring Fest",
+                    "meta": "Aug 2019 - Aug 2020 1 year 1 month",
+                    "description": "• Organized 61st Edition of Spring Fest, with a 26-member team which saw a participation of 10,000+participants.• Responsible for conducting the Eliminations at Raipur with another Core Team Member for the First Time for twoevents namely Poetry Slam and Hilarity Ensues which saw active participation.• Responsible for organizing Fashion Fest with a 300% YOY increase in Fashion Show and conducted Mr & Ms.Spring Fest for the First Time which saw active participation during the Spring Fest.• Coordinated sponsorship drive in Bangalore & Kolkata, raised ₹ 7.43 lakh through alumni contribution andcorporate deals and solely garnered funds of ₹ 5 lakhs from alumni contribution in Bangalore.• Co-led a team of 35 Associate Members, increasing overall in-house participation by 15% YoY and published 120+media articles, expanding the outreach of Fest to 650+ colleges.• I solely Spearheaded the Participant Reception Team in the fest that involved proper in-house accommodation andtransportation of 9000+ participants from over 450 colleges across the country.• Coordinated International Carnival, inviting artists from Iceland, Israel, Denmark, USA, Malta, Sweden & Canada.",
+                    "duration": "Aug 2019 Aug 2020 1 year 1 month",
+                    "start_date": "Aug 2019",
+                    "end_date": "Aug 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Core Organising Team Member",
+                    "description_html": "• Organized 61st Edition of Spring Fest, with a 26-member team which saw a participation of 10,000+participants.<br>• Responsible for conducting the Eliminations at Raipur with another Core Team Member for the First Time for two<br>events namely Poetry Slam and Hilarity Ensues which saw active participation.<br>• Responsible for organizing Fashion Fest with a 300% YOY increase in Fashion Show and conducted Mr &amp; Ms.<br>Spring Fest for the First Time which saw active participation during the Spring Fest.<br>• Coordinated sponsorship drive in Bangalore &amp; Kolkata, raised ₹ 7.43 lakh through alumni contribution and<br>corporate deals and solely garnered funds of ₹ 5 lakhs from alumni contribution in Bangalore.<br>• Co-led a team of 35 Associate Members, increasing overall in-house participation by 15% YoY and published 120+<br>media articles, expanding the outreach of Fest to 650+ colleges.<br>• I solely Spearheaded the Participant Reception Team in the fest that involved proper in-house accommodation and<br>transportation of 9000+ participants from over 450 colleges across the country.<br>• Coordinated International Carnival, inviting artists from Iceland, Israel, Denmark, USA, Malta, Sweden &amp; Canada."
+                },
+                {
+                    "subtitle": "Spring Fest",
+                    "meta": "Aug 2018 - Aug 2019 1 year 1 month",
+                    "description": "• Been a part of 35 member team responsible for the publicity department of the fest for the 60th edition of the fest.• Responsible for the Publicity Drive of the Spring Fest in Chhattisgarh which saw a participation with 33% YOYincrease also responsible for Publicity in the Kolkata region.• Responsible for publishing 12 Newspaper Articles in the Chhattisgarh region which saw a 33% YOY increase.• I along with two more Associate Member as a part of the Participant Reception team during the fest, received morethan 5000+ participants from over 450 colleges and was responsible for there proper in-house transportation.• Responsible for the proper execution of the Food Fest genre during the fest that includes events and workshopbringing participation of more than 450 Food enthusiasts.",
+                    "duration": "Aug 2018 Aug 2019 1 year 1 month",
+                    "start_date": "Aug 2018",
+                    "end_date": "Aug 2019",
+                    "duration_short": "1 year 1 month",
+                    "title": "Associate Member",
+                    "description_html": "• Been a part of 35 member team responsible for the publicity department of the fest for the 60th edition of the fest.<br>• Responsible for the Publicity Drive of the Spring Fest in Chhattisgarh which saw a participation with 33% YOY<br>increase also responsible for Publicity in the Kolkata region.<br>• Responsible for publishing 12 Newspaper Articles in the Chhattisgarh region which saw a 33% YOY increase.<br>• I along with two more Associate Member as a part of the Participant Reception team during the fest, received more<br>than 5000+ participants from over 450 colleges and was responsible for there proper in-house transportation.<br>• Responsible for the proper execution of the Food Fest genre during the fest that includes events and workshop<br>bringing participation of more than 450 Food enthusiasts."
+                }
+            ],
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Natural Language Processing Intern",
+            "location": "Bengaluru, Karnataka",
+            "description": "- Worked with NLTK and Spacy libraries- Developed algorithms with POS-tagging and dependency parsers- Developed LSTM based seq2seq model using TensorFlow- Built web scrapers",
+            "description_html": "- Worked with NLTK and Spacy libraries- Developed algorithms with POS-tagging and dependency parsers- Developed LSTM based seq2seq model using TensorFlow- Built web scrapers <!---->",
+            "duration": "Apr 2020 Jul 2020 4 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "4 months",
+            "company": "Moodboard Analytics",
+            "company_id": "moodboard-analytics",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Manav Nitin Kapadnis",
+            "about": "MS NLP (MIIS) @ CMU LTI | Institute Order of Merit | Publications @ TMLR, NAACL 2024, EMNLP 2024 2023, AAAI 2022 | CoML @ Inria, Paris | SONY Research | EECS @ IIT KGP",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Adithya Niranjan",
+            "about": "Applied Scientist II at Microsoft AI | Previously: Applied ML @ Amazon",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajatsubhra Chakraborty",
+            "about": "PhD Student Computer Science- University of North Carolina Charlotte",
+            "location": "Charlotte, NC"
+        },
+        {
+            "profile_link": "",
+            "name": "Palkit L.",
+            "about": "Analyst, QIS Structuring @J.P. Morgan | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sivaji Retta",
+            "about": "AI Engineer || Research and Development || Computer Vision || B.Tech@IIITN ||",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sai Harsh Tondomker 🇮🇳",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Surabhi Adhikari",
+            "about": "SWE @ Google | Ex-SWE intern @ Google | MS CS at Columbia University",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Prateek Sarangi",
+            "about": "Research Scholar, Department of Data Science and Engineering @ Indian Institutes of Science Education and Research, Bhopal",
+            "location": "Bhopal"
+        },
+        {
+            "profile_link": "",
+            "name": "Spandan Ghosh",
+            "about": "Senior Engineer @Qualcomm | Statistical Data Analysis | Volume Silicon Diagnostics | Machine Learning",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sowmya S Sundaram",
+            "about": "Postdoctoral Researcher at Stanford School of Medicine",
+            "location": "Union City, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Aishwarya Sen",
+            "about": "Master's Graduate from Columbia University | Associate Data Scientist @ Zoetis",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Jahnavi Tiwari",
+            "about": "SWE @Société Générale GSC | BITS PILANI'21",
+            "location": "Uttar Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sayani Guha",
+            "about": "Senior Engineer, DFT at Samsung Semiconductor|| MTECH @NIT Calicut (2022-2024) || JGEC (2018-2022)",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Krishna Adithya Venkatesh",
+            "about": null,
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanwayee Kundu",
+            "about": "Graduate Research Assistant | PhD in Biostatistics",
+            "location": "Tallahassee, FL"
+        },
+        {
+            "profile_link": "",
+            "name": "Subhankar Sen",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Purva Chiniya",
+            "about": "MSCS @UMD | Applied Science intern@ Amazon | Ex-Software Engineer at Cisco",
+            "location": "College Park, MD"
+        },
+        {
+            "profile_link": "",
+            "name": "Amogh Gajare",
+            "about": "MS EE@UPenn | Internet of Things, Embedded Hardware Design, PCB Design, Research and Development | Python, Verilog, C, Embedded C",
+            "location": "Philadelphia, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Aniket Didolkar",
+            "about": "ML Research @ Mila, Montreal",
+            "location": "Montreal, QC"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratiksha Sharma",
+            "about": null,
+            "location": "Columbus, OH"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech. + M.Tech.)",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School - Bhilai",
+            "degree": "12th CBSE board 94%",
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": "Proficiency certificate in Engineering Graphics for securing 100% marks in the boards. 10th CBSE board - 10 GPA",
+            "description_html": "Proficiency certificate in Engineering Graphics for securing 100% marks in the boards.10th CBSE board - 10 GPA <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": "-",
+            "title": " English "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 9302.0,
+    "connections": 500.0,
+    "current_company_company_id": "sprinklr",
+    "current_company_name": "Sprinklr",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kharagpur",
+    "linkedin_id": "mayankpatel14",
+    "activity": null,
+    "linkedin_num_id": 757015120.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

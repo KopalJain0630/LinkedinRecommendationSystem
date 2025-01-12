@@ -1,0 +1,86 @@
+{
+    "city": "Israel",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "The Hebrew University",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "IoT"
+        },
+        {
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "Software Development Engineer"
+        },
+        {
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "Solutions Architect"
+        }
+    ],
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Speaker Of The Year Finalist",
+            "publication": "WomenTech Global Awards",
+            "date": "2021-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Community Award Winner",
+            "publication": "WomenTech Global Awards",
+            "date": "2020-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "1st Place Hackathon Winner",
+            "publication": "Nexar",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "2nd Place Hackathon Winner",
+            "publication": "Taboola",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "Built Taboola Robot capable of replicating virtual sketches on a physical paper using LeJOS."
+        },
+        {
+            "title": "Graduation with Honors",
+            "publication": "Department of Business Administration, Hebrew University",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Dean's Honor List",
+            "publication": "Faculty of Science, Hebrew University of Jerusalem",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Outstanding Student Award",
+            "publication": "Shanghai Jiao Tong University, China",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "Big Data Storage and Management International Summer Session"
+        }
+    ]
+}

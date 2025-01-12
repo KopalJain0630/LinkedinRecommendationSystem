@@ -1,0 +1,32 @@
+{
+    "city": "Greater Bengaluru Area",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Nothing",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "The Change Makers",
+            "publication": "Indian School of Business",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": "Guest lecture on The Change Makers: Indian Leaders Scripting the Startup Story"
+        },
+        {
+            "title": "Panel Discussion",
+            "publication": "Symbiosis Centre for Management and Human Resource Development",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "Panel discussion for Mzakrat under Stratomania 5.0 organised by Symbiosis Centre for Management and Human Resource Development"
+        },
+        {
+            "title": "International Bloomberg Olympiad 2021",
+            "publication": "T A PAI Management Institute",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "Judge for International Bloomberg Olympiad 2021 and Guest Lecture on Insuretech and Automotive Industry in Indian startup ecosystem"
+        }
+    ]
+}

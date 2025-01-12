@@ -1,0 +1,401 @@
+{
+    "id": "shivam-agarwal-543445186",
+    "name": "Shivam Agarwal",
+    "city": "Midnapore Sadar, India",
+    "country_code": "IN",
+    "position": "Business Analyst at Flipkart | IIT Kharagpur",
+    "about": "I am a graduate from IIT Kharagpur. I am inclined towards  Machine Learning,Deep Learning and Natural Language Processing,  Skilled in Python, C++,",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Flipkart",
+        "company_id": "flipkart",
+        "title": "Business Analyst at Flipkart | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Business Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "City logistics - Last Mile",
+            "description_html": "City logistics - Last Mile <!---->",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Flipkart",
+            "company_id": "flipkart",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mentor",
+            "location": "Nagpur, Maharashtra, India",
+            "description": "Mentoring students throughout their journey of Learning Data Structures and Algorithms to aid their preparation for Tech Interviews",
+            "description_html": "Mentoring students throughout their journey of Learning Data Structures and Algorithms to aid their preparation for Tech Interviews <!---->",
+            "duration": "Aug 2022 Dec 2022 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "5 months",
+            "company": "AlgoZenith",
+            "company_id": "algozenith",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Info Edge India Ltd",
+            "company_id": "info-edge-india-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "description": "\u00e2\u20ac\u00a2Implemented a defaulter prediction model to predict the probability of a customer repaying the loan in future\u00e2\u20ac\u00a2Developed a model to predict the internal rate of return which improved the results of defaulter prediction model significantly\u00e2\u20ac\u00a2Used the pretrained BERT model to find mappings between the type of employment and average wages using cosine similarity\u00e2\u20ac\u00a2Performed extensive exploratory data analysis on the dataset which had details of more than 8 lakhs bank customers",
+            "description_html": "\u00e2\u20ac\u00a2Implemented a defaulter prediction model to predict the probability of a customer repaying the loan in future\u00e2\u20ac\u00a2Developed a model to predict the internal rate of return which improved the results of defaulter prediction model significantly\u00e2\u20ac\u00a2Used the pretrained BERT model to find mappings between the type of employment and average wages using cosine similarity\u00e2\u20ac\u00a2Performed extensive exploratory data analysis on the dataset which had details of more than 8 lakhs bank customers <!---->",
+            "duration": "Jul 2020 Sep 2020 3 months",
+            "start_date": "Jul 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "3 months",
+            "company": "Applied Data Finance",
+            "company_id": "applied-data-finance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Mumbai, Maharashtra",
+            "description": "\u00e2\u20ac\u00a2 Credit Profiling was done for farmers using alternative data points like utility bills, credit history, EMI, crop receipt.\u00e2\u20ac\u00a2 Built a model using pre-trained VGG-16 for predicting whether the document uploaded in the app Is aadhar card, pan card.other\u00e2\u20ac\u00a2Built an OCR model using the library Tesseract and stored the details of pan card and aadhar card in a JSON file",
+            "description_html": "\u00e2\u20ac\u00a2 Credit Profiling was done for farmers using alternative data points like utility bills, credit history, EMI, crop receipt.\u00e2\u20ac\u00a2 Built a model using pre-trained VGG-16 for predicting whether the document uploaded in the app Is aadhar card, pan card.other\u00e2\u20ac\u00a2Built an OCR model using the library Tesseract and stored the details of pan card and aadhar card in a JSON file <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Whrrl",
+            "company_id": "whrrl",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science General Championship",
+            "description": "\u00e2\u20ac\u00a2Worked on a time series dataset of electricity meter readings\u00e2\u20ac\u00a2Performed preliminary data preprocessing involving removing of data outliers using the help of histograms, box plots and distributions\u00e2\u20ac\u00a2Performed preliminary data analysis using heat maps, correlations and data normalization\u00e2\u20ac\u00a2Added new features as part of feature engineering, verified it using Hypothesis Testing\u00e2\u20ac\u00a2Successfully implemented LSTM ,GRU and tuned the various hyper -parameter in order to predict the reading of next four months",
+            "description_html": "\u00e2\u20ac\u00a2Worked on a time series dataset of electricity meter readings\u00e2\u20ac\u00a2Performed preliminary data preprocessing involving removing of data outliers using the help of histograms, box plots and distributions\u00e2\u20ac\u00a2Performed preliminary data analysis using heat maps, correlations and data normalization\u00e2\u20ac\u00a2Added new features as part of feature engineering, verified it using Hypothesis Testing\u00e2\u20ac\u00a2Successfully implemented LSTM ,GRU and tuned the various hyper -parameter in order to predict the reading of next four months",
+            "duration": "Feb 2020 Feb 2020 1 month",
+            "start_date": "Feb 2020",
+            "end_date": "Feb 2020",
+            "duration_short": "1 month",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Abhranil Chandra",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansi Uniyal",
+            "about": "Research Fellow@Microsoft Research | IITKGP",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashutosh Sabat",
+            "about": "Analyst @ Deutsche Bank | Data Science | Data Engineering | Analytics | Finance | NIT Allahabad '21",
+            "location": "Ganjam"
+        },
+        {
+            "profile_link": "",
+            "name": "Raunav Mondal",
+            "about": "PwC IN|Institute and Faculty of Actuaries",
+            "location": "Mumbai Metropolitan Region"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashutosh Kar",
+            "about": "Associate Software Engineer @ Highradius | Full Stack Development | Java | Js | Python | C | C++",
+            "location": "Odisha, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Chinmay Jain",
+            "about": "SDE-II @Walmart || kaggle expert in competitions",
+            "location": "Dehradun"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Agarwal",
+            "about": "Actuarial Associate at PwC UK|| Cleared 12/13 Actuarial Papers",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Riya Khetan",
+            "about": "Investment Banking | Economics Graduate",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Sheldon Sequeira",
+            "about": "Data Science R&D Manager @ WNS | MLOps Tech Lead",
+            "location": "Mumbai Metropolitan Region"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh Maken",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Prerana Munipalli",
+            "about": "MQM Student @ Duke University Fuqua School of Business | Strategy | Business Analytics",
+            "location": "Durham, NC"
+        },
+        {
+            "profile_link": "",
+            "name": "Aryamaan Pandey",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratham Kumar",
+            "about": "Sr. Business Analyst at LG Ad Solutions | Ex EXL",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashray Aman",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Maloo",
+            "about": "Actuarial Analyst at WTW | B.Sc. Economics",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepika Saini",
+            "about": "Senior Actuarial Analyst at AXA XL",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sathwik Matcha",
+            "about": "Graduate Student @ Northeastern University | IIT Bombay",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Shakya",
+            "about": "SDE @ Glean \u00f0\u0178\u0161\u20ac | Ex-System Intern @ Quadeye | DAAD Wise Scholar | Ex-RA Intern @ TU Dresden, Germany | CSE-CHE IIT Kanpur",
+            "location": "Kanpur Nagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Shruti SP",
+            "about": "Display Processor Engineer at Qualcomm || AI, Image Processing, and Landscape Photography",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Bhosale",
+            "about": "MTS @ Adobe | IIT Kharagpur '23",
+            "location": "Midnapore Sadar"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Entrepreneurship/Entrepreneurial Studies",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Convolutional neural networks\"},{\"subtitle\":\"-\",\"title\":\"Deep learning and neural networks - Coursera \"},{\"subtitle\":\"-\",\"title\":\"Machine learning A-Z : udemy\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020",
+            "subtitle": "deeplearning.ai",
+            "title": "Natural language processing with classification and vector space "
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 6XELM8YGP8KQSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID QW3VPUZXDGL9See credential",
+            "subtitle": "Coursera",
+            "title": "Image Classification with CNNs using Keras"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID XCUQVZBZJB9ASee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID VGEQXNJA67S3See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "deeplearning.ai",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 9S4NWX4WZXB7See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Feb 2020",
+            "subtitle": "Coursera",
+            "title": "Applied Machine Learning in Python"
+        },
+        {
+            "meta": "Issued Jan 2020",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Oct 2019",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z With Python And R"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Data Analysis and Visualization"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Present \u00c2\u00b7 6 years 6 months",
+            "duration_short": "6 years 6 months",
+            "end_date": "Present",
+            "info": "Build up a team for National Service Scheme and played a NUKKED for society awareness and won GOLD MEDAL In Nukkad Compitition at the annual NSS Camp",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 3286.0,
+    "connections": 500.0,
+    "current_company_company_id": "flipkart",
+    "current_company_name": "Flipkart",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Clustering Analysis",
+            "start_date": "Mar 2020",
+            "end_date": "May 2020",
+            "description": "Aim:Comparative analysis of all the popular clustering algorithms on the dataset \"Diabetes 130-US hospitals for years 1999-2008\"\u00e2\u20ac\u00a2Kmeans ,KMeDoids Clustering Algorithm was successfully implemented and the results were compared using Silhouette Coefficient\u00e2\u20ac\u00a2An agglomerative hierarchical clustering (AHC) algorithm with a bottom up approach was used to separate clinically appropriate clusters"
+        },
+        {},
+        {
+            "title": "Artificial neural network for Fuel consumption prediction of tractor",
+            "start_date": "Oct 2019",
+            "end_date": "Dec 2019",
+            "description": "Objective - to develop different neural network models and to compare their performance and predict the best model \u00e2\u20ac\u00a2 Linear Regression , backpropagation neural network .levenberg marqudid algorithm and radial basis function were used to train the dataset \u00e2\u20ac\u00a2 It was found that the best results were obtained by using Radial basis function (RBF) with a r2_score of .95 and mse was 0.003"
+        }
+    ],
+    "organizations": null,
+    "location": "Midnapore Sadar",
+    "linkedin_id": "shivam-agarwal-543445186",
+    "activity": [
+        {
+            "interaction": "Liked by Shivam Agarwal",
+            "link": "",
+            "title": "Can you spot the difference?",
+            "img": null,
+            "id": "7267862322126172161"
+        },
+        {
+            "interaction": "Liked by Shivam Agarwal",
+            "link": "",
+            "title": "Looks like someone leaked their Zomato application. P.S. The last line is pure gold! \u00f0\u0178\u02dc\u201a Follow Prithviraj Radhakrishnan if like this post :) and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7269247696522100736"
+        },
+        {
+            "interaction": "Liked by Shivam Agarwal",
+            "link": "",
+            "title": "\u00f0\u0178\u017d\u2030 Celebrating the Flipkart Employee Experience! \u00f0\u0178\u017d\u2030 We are thrilled to announce that Flipkart has been recently recognized at the ETHRWorld EX\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7268141042623754242"
+        },
+        {
+            "interaction": "Liked by Shivam Agarwal",
+            "link": "",
+            "title": "We believe observability is critical to delivering digital excellence. That's why we\u00e2\u20ac\u2122re so proud to be a Leader in the 2024 Magic Quadrant\u00e2\u201e\u00a2 for\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7255235323096449024"
+        },
+        {
+            "interaction": "Liked by Shivam Agarwal",
+            "link": "",
+            "title": "Hey everyone! Reflolabs is hiring Founding Engineers and Interns (Fullstack, AI)! We\u00e2\u20ac\u2122re on a mission to transform global supply chains by\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7263131441155190784"
+        },
+        {
+            "interaction": "Liked by Shivam Agarwal",
+            "link": "",
+            "title": "Shahrukh Khan is so successful Because he is a great human being.. He can absorb & imbibe so much.. And still deliver the best .. Recently on Raj\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7210497310630244352"
+        },
+        {
+            "interaction": "Liked by Shivam Agarwal",
+            "link": "",
+            "title": "A fulfilling journey of almost 8 years came to an end last week. It was a very tough decision to leave a company that has given a lot in true sense\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "8"
+        },
+        {
+            "interaction": "Liked by Shivam Agarwal",
+            "link": "",
+            "title": "Dear LinkedIn Community, I'm thrilled to share a profoundly inspiring moment from my journey at Unilever. Recently, Hindustan Unilever Limited's\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7103696306249871360"
+        }
+    ],
+    "linkedin_num_id": 735639747.0,
+    "honors_and_awards": [
+        {
+            "title": "Data Science General Championship",
+            "publication": "Technology Students Gymkhana",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "Silver Medal"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "id": "akankshakhurana",
+    "name": "Akanksha Khurana",
+    "city": "Sydney, New South Wales, Australia",
+    "country_code": "AU",
+    "position": "Portfolio Manager at Unreasonable",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Unreasonable",
+        "company_id": "unreasonable",
+        "title": "Portfolio Manager at Unreasonable"
+    },
+    "experience": [
+        {
+            "title": "Unreasonable",
+            "description_html": null,
+            "duration": "4 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Unreasonable",
+                    "meta": "Jan 2023 - Present 2 years",
+                    "duration": "Jan 2023 - Present 2 years",
+                    "start_date": "Jan 2023",
+                    "end_date": "Present",
+                    "duration_short": "2 years",
+                    "title": "Portfolio Manager, Asia Pacific",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Unreasonable",
+                    "meta": "Aug 2022 - Jan 2023 6 months",
+                    "duration": "Aug 2022 Jan 2023 6 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Jan 2023",
+                    "duration_short": "6 months",
+                    "title": "Investor Relations Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Unreasonable",
+                    "meta": "Nov 2020 - Aug 2022 1 year 10 months",
+                    "duration": "Nov 2020 Aug 2022 1 year 10 months",
+                    "start_date": "Nov 2020",
+                    "end_date": "Aug 2022",
+                    "duration_short": "1 year 10 months",
+                    "title": "Program Lead",
+                    "description_html": null
+                }
+            ],
+            "company": "Unreasonable",
+            "company_id": "unreasonable",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Catalyst",
+            "description_html": null,
+            "duration": "Oct 2023 Oct 2024 1 year 1 month",
+            "start_date": "Oct 2023",
+            "end_date": "Oct 2024",
+            "duration_short": "1 year 1 month",
+            "company": "The Women's Impact Alliance (formerly The Coaching Fellowship)",
+            "company_id": "thewomensimpactalliance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Consultant",
+            "description_html": null,
+            "duration": "Jul 2020 Nov 2020 5 months",
+            "start_date": "Jul 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "5 months",
+            "company": "Endeva",
+            "company_id": "endeva",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Network Strategist",
+            "location": "South Asia",
+            "description_html": null,
+            "duration": "2019 2020 1 year",
+            "start_date": "2019",
+            "end_date": "2020",
+            "duration_short": "1 year",
+            "company": "Ashoka",
+            "company_id": "ashoka",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Facilitator",
+            "description_html": null,
+            "duration": "2018 2020 2 years",
+            "start_date": "2018",
+            "end_date": "2020",
+            "duration_short": "2 years",
+            "company": "UNLEASH - Innovation lab for SDGs",
+            "company_id": "unleash.org",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Program Associate",
+            "location": "Bengaluru Area, India",
+            "description_html": null,
+            "duration": "2017 2019 2 years",
+            "start_date": "2017",
+            "end_date": "2019",
+            "duration_short": "2 years",
+            "company": "Buzz Women",
+            "company_id": "buzzwomen",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Analyst",
+            "location": "Nigeria",
+            "description_html": null,
+            "duration": "2017 2018 1 year",
+            "start_date": "2017",
+            "end_date": "2018",
+            "duration_short": "1 year",
+            "company": "Hello Tractor",
+            "company_id": "hello-tractor",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Intern",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "Dec 2016 Feb 2017 3 months",
+            "start_date": "Dec 2016",
+            "end_date": "Feb 2017",
+            "duration_short": "3 months",
+            "company": "Ankur Capital Fund",
+            "company_id": "ankur-capital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "Jun 2016 Aug 2016 3 months",
+            "start_date": "Jun 2016",
+            "end_date": "Aug 2016",
+            "duration_short": "3 months",
+            "company": "UNFRAMED",
+            "company_id": "unframed",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Intern",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "Jan 2016 Mar 2016 3 months",
+            "start_date": "Jan 2016",
+            "end_date": "Mar 2016",
+            "duration_short": "3 months",
+            "company": "Indian Angel Network",
+            "company_id": "indian-angel-network",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "Jun 2015 Jul 2015 2 months",
+            "start_date": "Jun 2015",
+            "end_date": "Jul 2015",
+            "duration_short": "2 months",
+            "company": "Deloitte",
+            "company_id": "deloitte",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Raoul Edward",
+            "about": "Building GoKwik | Ex-Sprinklr | Gold Medalist - BBM & MBA | CXM | CAPM | Customer Success Leader",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjana Sharma",
+            "about": "Community Builder",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Senthil Murugan",
+            "about": "Community Manager (Qobit, DACC, Populstay), Cryptocurrency Trader, Blockchain Enthusiast, Bounty Hunter",
+            "location": "Sivaganga"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumit Nawathe",
+            "about": "Smart Building Controls | GrowthX Fellow",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitisha Malhotra",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rashi Jain",
+            "about": "Consultant - RSP India | Ex-Patrika Foundation | Ex-India Smart City Fellow | Anant Fellow | Unleash Global Fellow | Mental Health Advocate",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruv Bathla",
+            "about": "Health Galaxy | delta v ('24) | MIT | Bain",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh Prabhu",
+            "about": "Associate Director at CRISIL | BFSI | Strategy | Commercial Due Diligence | Ex- PwC",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Akanksha Singh",
+            "about": "Social Impact Consulting",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranav Bhargava",
+            "about": "Experienced Chartered Accountant with specialization in Indirect Taxation specifically GST and Service Tax",
+            "location": "Delhi, India"
+        }
+    ],
+    "educations_details": "Jesus and Mary College, University of Delhi",
+    "education": [
+        {
+            "title": "Jesus and Mary College, University of Delhi",
+            "degree": "Bachelor’s Degree",
+            "field": "Business/Commerce, General",
+            "start_year": "2014",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Modern School",
+            "degree": "High School",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": "Activities and Societies: Green Brigade Society, Entrepreneurship Club, Interact Club, Founder of Yearbook Society, Economics Club",
+            "description_html": "Activities and Societies: Green Brigade Society, Entrepreneurship Club, Interact Club, Founder of Yearbook Society, Economics Club",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 20.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": [
+        "Su Ah Lee “I was working with Akanksha during Unreasonable batch program. She is excellent in communication and especially great with partner relationships, and such a pleasant person to work with! She is encouraging and supportive with positive energy and I highly recommend her. ”",
+        "Brittany Lane Blitzer “Akanksha is, quite simply, an absolute joy to work with. I had the privilege of bringing her onto my team while at Unreasonable, and it was one of the best decisions we made. She communicates proactively and openly, she builds relationships easily, and she is consistently curious about ways in which she can grow both personally and professionally. I could count on Akanksha to offer creative ideas, implement projects on time, keep me informed, challenge my thinking when I needed it, and ask for help when she needed it. I fondly think back on our weekly 1:1 meetings – we worked hard and had a lot of laughs. She is both humble and ambitious, a deep and critical thinker, and an asset to any team.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Civil Rights and Social Action",
+            "duration": "Apr 2014 - May 2014 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "May 2014",
+            "start_date": "Apr 2014",
+            "subtitle": "Transparency International",
+            "title": "Volunteer"
+        },
+        {
+            "cause": "Environment",
+            "duration": "2015 - 2016 · 1 year",
+            "duration_short": "1 year",
+            "end_date": "2016",
+            "start_date": "2015",
+            "subtitle": "The Ground_Up Project",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 2976.0,
+    "connections": 500.0,
+    "current_company_company_id": "unreasonable",
+    "current_company_name": "Unreasonable",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Sydney",
+    "linkedin_id": "akankshakhurana",
+    "activity": [
+        {
+            "interaction": "Liked by Akanksha Khurana",
+            "link": "",
+            "title": "This is truly a world-changing level of discovery. It has been known that printing metal ink to create electronic circuit boards (printed circuit…",
+            "img": "",
+            "id": "7275436584953397248"
+        },
+        {
+            "interaction": "Liked by Akanksha Khurana",
+            "link": "",
+            "title": "Very grateful to have Topaz Conway and Noga Edelstein join our IC, great things ahead!",
+            "img": "",
+            "id": "7274268346190077953"
+        },
+        {
+            "interaction": "Liked by Akanksha Khurana",
+            "link": "",
+            "title": "🎉 Our 2024 Climate Capital Stack & New Funds report is live! This is Sightline Climate (CTVC)'s most thorough analyses to-date on the state of dry…",
+            "img": "",
+            "id": "2024"
+        }
+    ],
+    "linkedin_num_id": 273972879.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,317 @@
+{
+    "id": "rupayan-sarkar-b36666176",
+    "name": "Rupayan Sarkar",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Senior Software Engineer at Oracle Database In-Memory | Research Intern at Microsoft Research | IISc | IIT Kharagpur EECS '21",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Oracle",
+        "company_id": "oracle",
+        "title": "Senior Software Engineer at Oracle Database In-Memory | Research Intern at Microsoft Research | IISc | IIT Kharagpur EECS '21"
+    },
+    "experience": [
+        {
+            "title": "Oracle",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Oracle",
+                    "meta": "Jan 2024 - Present 1 year",
+                    "description": "Working in the Oracle Data/Space/Transactions team in the In-Memory technologies group. I work on the core data, indexing and RCU layers of Oracle's next generation NVM-aware database engine.",
+                    "duration": "Jan 2024 - Present 1 year",
+                    "start_date": "Jan 2024",
+                    "end_date": "Present",
+                    "duration_short": "1 year",
+                    "title": "Senior Member of Technical Staff",
+                    "description_html": "Working in the Oracle Data/Space/Transactions team in the In-Memory technologies group. I work on the core data, indexing and RCU layers of Oracle's next generation NVM-aware database engine. <!---->"
+                },
+                {
+                    "subtitle": "Oracle",
+                    "meta": "Oct 2022 - Dec 2023 1 year 3 months",
+                    "description": "Working in the Oracle Data/Space/Transactions team in the In-Memory technologies group. I work on the core data, indexing and RCU layers of Oracle's next generation NVM-aware database engine.",
+                    "duration": "Oct 2022 Dec 2023 1 year 3 months",
+                    "start_date": "Oct 2022",
+                    "end_date": "Dec 2023",
+                    "duration_short": "1 year 3 months",
+                    "title": "Member of Technical Staff",
+                    "description_html": "Working in the Oracle Data/Space/Transactions team in the In-Memory technologies group. I work on the core data, indexing and RCU layers of Oracle's next generation NVM-aware database engine. <!---->"
+                },
+                {
+                    "subtitle": "Oracle",
+                    "meta": "Jul 2021 - Sep 2022 1 year 3 months",
+                    "description": "Worked on the backend infrastructure of the deployment webservice in Oracle Database Appliance. Was responsible for the server communication (SSH), distributed locking and cluster coordination (ZooKeeper) modules.",
+                    "duration": "Jul 2021 Sep 2022 1 year 3 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Sep 2022",
+                    "duration_short": "1 year 3 months",
+                    "title": "Member of Technical Staff",
+                    "description_html": "Worked on the backend infrastructure of the deployment webservice in Oracle Database Appliance. Was responsible for the server communication (SSH), distributed locking and cluster coordination (ZooKeeper) modules. <!---->"
+                }
+            ],
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Worked in Microsoft Research India Speech and Natural Language Group. Worked on adversarial example generation in NLP, using RL and Graph Neural Networks. Also worked on contextual alignment and guiding of encoder-decoder models.",
+            "description_html": "Worked in Microsoft Research India Speech and Natural Language Group. Worked on adversarial example generation in NLP, using RL and Graph Neural Networks. Also worked on contextual alignment and guiding of encoder-decoder models. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineering Intern",
+            "location": "Bengaluru, Karnataka",
+            "description": "Worked in Oracle Database Appliance and Automatic Storage Management Team. Worked on caching algorithms for a FUSE-based filesystem backed by object storage.",
+            "description_html": "Worked in Oracle Database Appliance and Automatic Storage Management Team. Worked on caching algorithms for a FUSE-based filesystem backed by object storage. <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bengaluru, Karnataka",
+            "description": "I worked at the Centre for NanoScience and Engineering at the Indian Institute of Science, under Professor Akshay Naik. My work involved dynamical systems modelling and resonance mode characterization of Graphene and Transition Metal Dichalcogenide NEMS Resonators.",
+            "description_html": "I worked at the Centre for NanoScience and Engineering at the Indian Institute of Science, under Professor Akshay Naik. My work involved dynamical systems modelling and resonance mode characterization of Graphene and Transition Metal Dichalcogenide NEMS Resonators. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Science (IISc)",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Akash Bhalotia",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Maitryee Naithani",
+            "about": "Full Stack Developer, Airline Technologies @ Fedex | Ex-Senior Software Engineer @ ZS",
+            "location": "Dehradun"
+        },
+        {
+            "profile_link": "",
+            "name": "AMAN GARG",
+            "about": "SDE 3 at Walmart | BITS Pilani CSE",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Srikanth",
+            "about": "Software Engineer II, Machine Learning Platform @ Netflix | Metaflow | Georgia Tech | IIIT Hyderabad",
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Naseem Shah",
+            "about": "Building Xena Intelligence | Senior Product Engineer | Founding Engineer",
+            "location": "Kochi"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshita Diddee",
+            "about": "LTI PhD at Carnegie Mellon University",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Nancy S.",
+            "about": null,
+            "location": "Greater Phoenix Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Shrey Dubey",
+            "about": "Software Engineer at Quadeye | Former Intern @ Tower Research Capital | Former SWE Intern @ Google | Candidate Master at Codeforces | ACM ICPC Regionalist",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Saloni Jain",
+            "about": null,
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Vedika Kulkarni",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Chhawi Prasad",
+            "about": "Software Engineer @Moveworks",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Osheen Sachdev",
+            "about": "Software Engineer @ Google",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Mittal",
+            "about": "Software Engineer at Google | 3 times ACM ICPC Regionalist",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vibhuti Mishra",
+            "about": "Software Engineer at Samsung Semiconductor India Research",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aashna Jena",
+            "about": null,
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajay Subramanian",
+            "about": "PhD student at NYU",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Vatika Harlalka",
+            "about": null,
+            "location": "Andhra Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sunil Kumar",
+            "about": "Engineering",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishal Singh",
+            "about": null,
+            "location": "Santa Clara, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhijit Mukherjee",
+            "about": "Engineering @ Juspay | Ex-Innovaccer | IIIT Bhubaneswar",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2814.0,
+    "connections": 500.0,
+    "current_company_company_id": "oracle",
+    "current_company_name": "Oracle",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "rupayan-sarkar-b36666176",
+    "activity": [
+        {
+            "interaction": "Liked by Rupayan Sarkar",
+            "link": "",
+            "title": "My team at Elastic is hiring! If you are a software engineer in the US with a background in distributed systems, you may be interested in these…",
+            "img": "",
+            "id": "7269737069172731904"
+        },
+        {
+            "interaction": "Liked by Rupayan Sarkar",
+            "link": "",
+            "title": "Excited to announce Jimini’s launch and pre-seed! Our mission is to radically improve the efficacy of mental health care. We are starting by…",
+            "img": "",
+            "id": "7265764704298401794"
+        },
+        {
+            "interaction": "Liked by Rupayan Sarkar",
+            "link": "",
+            "title": "How good are LLMs at basic #math word problems and #coding problems? While LLMs now can crack olympiad problems, as an academic and even as a…",
+            "img": "",
+            "id": "7260010549302730753"
+        },
+        {
+            "interaction": "Liked by Rupayan Sarkar",
+            "link": "",
+            "title": "🌟 Thrilled to share an exciting milestone! 🌟 During my final year at NITK, majoring in Electrical and Electronics Engineering, I embarked on a…",
+            "img": "",
+            "id": "7258130756168790016"
+        },
+        {
+            "interaction": "Liked by Rupayan Sarkar",
+            "link": "",
+            "title": "I had a great opportunity to meet Alumni from my Alma Mater. It's always inspirational to meet these folks working in such high-impact roles and…",
+            "img": "",
+            "id": "7256838431048192002"
+        },
+        {
+            "interaction": "Liked by Rupayan Sarkar",
+            "link": "",
+            "title": "I see a lot of negative comments on Vinesh Phogat getting disqualified. Unfortunately most of us have absolutely zero knowledge of human physiology.…",
+            "img": "",
+            "id": "7226960310853591040"
+        }
+    ],
+    "linkedin_num_id": 700349658.0,
+    "honors_and_awards": [
+        {
+            "title": "Senior Jagadish Chandra Bose National Science Talent Scholar (JBNSTS)",
+            "publication": "-",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "KVPY Fellowship, Indian Institute of Science",
+            "publication": "Indian Institute of Science (IISc)",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

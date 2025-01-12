@@ -1,0 +1,391 @@
+{
+    "id": "nisha-meena02",
+    "name": "Nisha Meena",
+    "city": "Kharagpur, West Bengal, India",
+    "country_code": "IN",
+    "position": "Associate at JP Morgan Chase & Co. | IIT KGP'21",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "JPMorgan Chase & Co.",
+        "company_id": "jpmorganchase",
+        "title": "Associate at JP Morgan Chase & Co. | IIT KGP'21"
+    },
+    "experience": [
+        {
+            "title": "JPMorgan Chase & Co.",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "3 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "JPMorgan Chase & Co.",
+                    "meta": "Jan 2024 - Present 1 year",
+                    "duration": "Jan 2024 - Present 1 year",
+                    "start_date": "Jan 2024",
+                    "end_date": "Present",
+                    "duration_short": "1 year",
+                    "title": "Associate",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "JPMorgan Chase & Co.",
+                    "meta": "Jul 2021 - Dec 2023 2 years 6 months",
+                    "duration": "Jul 2021 Dec 2023 2 years 6 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Dec 2023",
+                    "duration_short": "2 years 6 months",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "JPMorgan Chase & Co.",
+            "company_id": "jpmorganchase",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern",
+            "description": "Healthcare Capacity Planning for Comorbid People during COVID-19Here suitable datasets have been collected and prepared based on the number of healthcare facilities for COVID patients as per their age and the presence of comorbidities like hypertension, CKD, diabetes, etc. on the daily basis. Suitable time series models have been then fitted using this data to forecast the healthcare facilities that might be required in the forthcoming days. The models have been implemented through a web portal which would allow common people to have a look at the forecasts made and the healthcare planners to update changes in the datasets. Guides: Prof. Goutam Sen, Prof. Sayak RoychowdhuryDepartment: Industrial and System Engineering, IIT Kharagpur",
+            "description_html": "Healthcare Capacity Planning for Comorbid People during COVID-19Here suitable datasets have been collected and prepared based on the number of healthcare facilities for COVID patients as per their age and the presence of comorbidities like hypertension, CKD, diabetes, etc. on the daily basis. Suitable time series models have been then fitted using this data to forecast the healthcare facilities that might be required in the forthcoming days. The models have been implemented through a web portal which would allow common people to have a look at the forecasts made and the healthcare planners to update changes in the datasets. Guides: Prof. Goutam Sen, Prof. Sayak RoychowdhuryDepartment: Industrial and System Engineering, IIT Kharagpur",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investment Banking Intern",
+            "description": "\u00e2\u20ac\u00a2 Created dynamic financial models like Three Statements Model and Discounted Cash Flow Model to evaluate historical data and generate forecasts.\u00e2\u20ac\u00a2 Formulated base case model by collecting information from earning calls, press release, and annual reports\u00e2\u20ac\u00a2 Calculated Enterprise Value using DCF Valuation Method, to be used in Merger & Acquisitions and Valuation Advisory.\u00e2\u20ac\u00a2 Forecasted Equity Value and Share Price to give BUY/SELL recommendation in Equity Research.",
+            "description_html": "\u00e2\u20ac\u00a2 Created dynamic financial models like Three Statements Model and Discounted Cash Flow Model to evaluate historical data and generate forecasts.\u00e2\u20ac\u00a2 Formulated base case model by collecting information from earning calls, press release, and annual reports\u00e2\u20ac\u00a2 Calculated Enterprise Value using DCF Valuation Method, to be used in Merger &amp; Acquisitions and Valuation Advisory.\u00e2\u20ac\u00a2 Forecasted Equity Value and Share Price to give BUY/SELL recommendation in Equity Research. <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "CoursesMojo Academy",
+            "company_id": "coursesmojoacademy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary, Social and Cultural",
+            "location": "Kharagpur Area, India",
+            "description": "- Representing the hall in 19 Inter-hall General Championship events and 12 open IIT events.- Effectively managing a budget of INR 1.5 lakhs- Coordinating with a team of 6 secretaries for organizing workshops and intra-hall events.- Working with 3-tier council of over 30 members to manage affairs of over 400 hall boarders.",
+            "description_html": "- Representing the hall in 19 Inter-hall General Championship events and 12 open IIT events.- Effectively managing a budget of INR 1.5 lakhs- Coordinating with a team of 6 secretaries for organizing workshops and intra-hall events.- Working with 3-tier council of over 30 members to manage affairs of over 400 hall boarders. <!---->",
+            "duration": "Jul 2018 Apr 2019 10 months",
+            "start_date": "Jul 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "10 months",
+            "company": "Mother Teresa Hall of Residence",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Public Relation Head",
+            "location": "Kharagpur Area, India",
+            "description": "- Responsible for outreach and collaboration with other groups.- Coordinating a batch of 34 to conduct various workshops for promoting fine arts activities in college and nearby schools.",
+            "description_html": "- Responsible for outreach and collaboration with other groups.- Coordinating a batch of 34 to conduct various workshops for promoting fine arts activities in college and nearby schools. <!---->",
+            "duration": "Jul 2018 Mar 2019 9 months",
+            "start_date": "Jul 2018",
+            "end_date": "Mar 2019",
+            "duration_short": "9 months",
+            "company": "Spectra, IIT Kharagpur",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Divyaraj -",
+            "about": "Lowe's",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nandini Agarwal",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Arjun M Nair",
+            "about": "Marketing Automation Manager",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ram Dewani",
+            "about": null,
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Hardev Khandhar",
+            "about": "SDE 2 @ Workday | Ex-Huawei, Motorola | MS, CS @ SFU",
+            "location": "Vancouver, BC"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranav Agarwal",
+            "about": "Manager @ EY Risk Consulting | Credit Risk Analytics | Ex- EXL/IIT Kharagpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Anand Gaurav",
+            "about": "Software Engineer | JLR | ADAS | IIT(BHU)",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarvesh Joshi",
+            "about": "Accelerating Growth through Data-Driven Decision-Making| Analytics @ United Airlines |Ex-Noon.com,Meesho",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashankshekhar Singh",
+            "about": null,
+            "location": "Frisco, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Anushka Sharma",
+            "about": "Senior Analyst at Everest Group",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Anjal Mohammed",
+            "about": "JPMorgan Chase & Co. | BITS Pilani '21",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Mishra",
+            "about": "Product @ IndiaMART || Forbes D2C Top 10 B-School Champions 2022 - IIM Kashipur || IET Lucknow",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mukul Jaiswal",
+            "about": null,
+            "location": "Gorakhpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Kritika Nangia",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vinit Mehta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Aggarwal",
+            "about": "Senior Applications Engineer @ Oracle || IIT Kanpur || NIT Uttarakhand",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mahak Agarwal",
+            "about": "Data Scientist at IBM Chief Analytics Office | Generative AI",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "SAPTARSHI MUKHERJEE",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehendi Basu",
+            "about": "Building PocketFM | ex-Bain | IIM Kozhikode \u00e2\u20ac\u212222 (Merit Scholar) | CERN",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Riya Singh",
+            "about": null,
+            "location": "London"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Science (MSc.)",
+            "field": "Economics",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": "Activities and Societies: General Secretary of Social and Cultural at MT Hall of Residence, Spectra, NCC",
+            "description_html": "Activities and Societies: General Secretary of Social and Cultural at MT Hall of Residence, Spectra, NCC",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Dav Public School, Kota",
+            "start_year": "2002",
+            "end_year": "2015",
+            "description": "Activities and Societies: Art and Craft, Sports, Prefect",
+            "description_html": "Activities and Societies: Art and Craft, Sports, Prefect",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Financial Institutions and Markets\"},{\"subtitle\":\"-\",\"title\":\"Operation Research\"},{\"subtitle\":\"-\",\"title\":\"Optimization Techniques\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Public Finance and Policy\"},{\"subtitle\":\"-\",\"title\":\"Regression and Time Series Model\"},{\"subtitle\":\"-\",\"title\":\"Statistics for Economics\"}]",
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " English  "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jun 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z"
+        },
+        {
+            "meta": "Issued Dec 2018See credential",
+            "subtitle": "VIKRAM GENUINE TECHNOLOGIES PRIVATE LIMITED",
+            "title": "Programming in C++ Certification"
+        },
+        {
+            "meta": "Issued Jun 2018See credential",
+            "subtitle": "Natinal Cadet Corps, Kharagpur",
+            "title": "B Grade Certificate"
+        },
+        {
+            "meta": "Issued Jan 2017See credential",
+            "subtitle": "Natinal Cadet Corps, Kharagpur",
+            "title": "Combined Annual Training Camp"
+        },
+        {
+            "meta": "Issued Apr 2011See credential",
+            "subtitle": "National Council of Educational Research and Training ( NCERT )",
+            "title": "National Talent Search Examination (NTSE)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jul 2016 - Apr 2018 \u00c2\u00b7 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2018",
+            "info": "- Actively participated in the Combined Annual Training Camp of NCC.- Organized blood donation camps and awareness rallies.",
+            "start_date": "Jul 2016",
+            "subtitle": "National Cadet Corps",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 13991.0,
+    "connections": 500.0,
+    "current_company_company_id": "jpmorganchase",
+    "current_company_name": "JPMorgan Chase & Co.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kharagpur",
+    "linkedin_id": "nisha-meena02",
+    "activity": [
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "Sharing this great opportunity on behalf of a friend! If you're interested or know someone who might be, check it out! #JobOpening #Hiring\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7258186732536233984"
+        },
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "#Hiring #Intern Are you a creative student seeking hands-on experience in video editing, thumbnail design, and YouTube content optimization? This is\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7258185160360116226"
+        },
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "After a few incredible years in the Bay Area, I've made the big decision to return to India! \u00f0\u0178\u2021\u00ae\u00f0\u0178\u2021\u00b3 Leaving Silicon Valley wasn't easy, but I'm\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7256050268071501824"
+        },
+        {
+            "interaction": "Shared by Nisha Meena",
+            "link": "",
+            "title": "#WomenLeadershipProgram #2024WLC JPMorganChase",
+            "img": "",
+            "id": "7247935913815625728"
+        },
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "I\u00e2\u20ac\u2122m incredibly honored to be recognized with the \"Champion of the Quarter\" Award for Q4 FY24. This recognition for going \"Above & Beyond\" wouldn\u00e2\u20ac\u2122t\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7235256888152457218"
+        },
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "I was talking to a newly joining bureaucrat (IFS officer) the other day regarding life over the past decade. He explained how there is a curve of\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7198163044382752769"
+        },
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "#Innovation #SupplyChain",
+            "img": "",
+            "id": "7161817238654627840"
+        },
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "[PPO Trilogy Innovations (formerly Codenation) revoked due to the current economic conditions.] Hello everyone, My name is Soumyadeep Nandi, I am a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7062396665911029760"
+        },
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "LinkedIn is a constant of source of anxiety these days\u00f0\u0178\u02dc\u201a\u00f0\u0178\u02dc\u201a #success #linkedin #anxiety",
+            "img": "",
+            "id": "6975679852372787200"
+        },
+        {
+            "interaction": "Liked by Nisha Meena",
+            "link": "",
+            "title": "Stealing the moon. #amazing",
+            "img": "",
+            "id": "6970995101971996672"
+        }
+    ],
+    "linkedin_num_id": 705523434.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

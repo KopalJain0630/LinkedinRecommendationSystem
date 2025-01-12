@@ -1,0 +1,130 @@
+{
+    "city": "Moradabad, Uttar Pradesh, India",
+    "position": "IIT Kharagpur 2021",
+    "experience": [
+        {
+            "title": "Data Analyst",
+            "description": "Project: Building a book recommender system for e-commerce website enhancing personalized experience and engagement for users•Implemented model based approach of Collaborative Filtering method using K-Nearest Neighbors to generate the product recommendations•Applied user based filtering to streamline similar users based on past interactions of the purchases done calculating cosine similarity metric•Deployed item based filtering using Matrix Factorization algorithm for more exploratory experience that helps users discover similar items",
+            "description_html": "Project: Building a book recommender system for e-commerce website enhancing personalized experience and engagement for users•Implemented model based approach of Collaborative Filtering method using K-Nearest Neighbors to generate the product recommendations•Applied user based filtering to streamline similar users based on past interactions of the purchases done calculating cosine similarity metric•Deployed item based filtering using Matrix Factorization algorithm for more exploratory experience that helps users discover similar items",
+            "duration": "Feb 2020 Mar 2020 2 months",
+            "start_date": "Feb 2020",
+            "end_date": "Mar 2020",
+            "duration_short": "2 months",
+            "company": "Taxmann",
+            "company_id": "taxmann",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Governor",
+            "location": "West Bengal, India",
+            "description": "Social organisation run by students- Educating underprivileged students in nearby area of IIT kharagpur campus.- Mostly focuses on enhancing extra curricular activities for children to discover their best ones.",
+            "description_html": "Social organisation run by students- Educating underprivileged students in nearby area of IIT kharagpur campus.- Mostly focuses on enhancing extra curricular activities for children to discover their best ones. <!---->",
+            "duration": "Feb 2017 Mar 2020 3 years 2 months",
+            "start_date": "Feb 2017",
+            "end_date": "Mar 2020",
+            "duration_short": "3 years 2 months",
+            "company": "Sarth",
+            "company_id": "sarthiitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst",
+            "location": "Gurgaon, India",
+            "description": "Improving Process Efficiency of Tele calling operations with CRM•\tMethodically examined and analysed the data(appointments, follow up leads, current leads) of calling with current and potential customers.•\tAnalysed and made efficient changes to improve the process of tele calling operations that ultimately driving sales growth.Prediction of car prices•\tMade a slicer model for prediction of car prices using make, model, variant, year, city, registration date etc.",
+            "description_html": "Improving Process Efficiency of Tele calling operations with CRM• Methodically examined and analysed the data(appointments, follow up leads, current leads) of calling with current and potential customers.• Analysed and made efficient changes to improve the process of tele calling operations that ultimately driving sales growth.Prediction of car prices• Made a slicer model for prediction of car prices using make, model, variant, year, city, registration date etc. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "CarDekho",
+            "company_id": "cardekhogroup",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Volunteer",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Jul 2016 Apr 2017 10 months",
+            "start_date": "Jul 2016",
+            "end_date": "Apr 2017",
+            "duration_short": "10 months",
+            "company": "National Service Scheme",
+            "company_id": "national-service-scheme",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Intern",
+            "description": "Conducted an aptitude based test from class 8th to 12th among 10 schools in city Moradabad, U.P.",
+            "description_html": "Conducted an aptitude based test from class 8th to 12th among 10 schools in city Moradabad, U.P. <!---->",
+            "duration": "Nov 2016 Dec 2016 2 months",
+            "start_date": "Nov 2016",
+            "end_date": "Dec 2016",
+            "duration_short": "2 months",
+            "company": "Cognitio Education",
+            "company_id": "cognitio-education",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Scholars Den",
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Chitragupt Inter College,Moradabad",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2020See credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID DYDMHRAPJLSLSee credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jan 2019See credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Jun 2018See credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Machine Learning"
+        },
+        {
+            "subtitle": "Udemy",
+            "title": "The Complete SQL Bootcamp"
+        }
+    ],
+    "current_company_name": "Taxmann",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"COVID-19 Impact Assessment\",\"start_date\":\"May 2024\",\"end_date\":\"Jun 2024\",\"description\":\"- Analysing COVID-19 data, a notable correlation was observed between vaccination rates and mortality rates. Increasing vaccination by 10% correlated with a mortality reduction of 18.1% at 6 months and 16.8% at 12 months. - Using SQL, data was analysed to calculate and visualize peak monthly averages for COVID-19 infection rates (highest at 1.54 in March 2020) and maximum monthly vaccination rates (peaking at 4.97 in January 2022) using Tableau Public.\"},{\"title\":\"Airbnb Listing Insights\",\"start_date\":\"Mar 2024\",\"end_date\":\"Apr 2024\",\"description\":\"- Analysed data patterns and developed a Power BI dashboard for prospective hosts, providing insights into customer pricing preferences, peak sales periods, types of bedrooms, and key business locations. These insights are expected to result in a projected 15% increase in listing occupancy.\"},{\"title\":\"Titanic: Machine Learning from Disaster - Kaggle\",\"description\":\"-implemented machine learning tools(random forest classifier model) for the prediction of the data using Pyhton libraries - pandas ,numpy , matplotlib , scikit-learn -comed up with the accuracy of 78.9% to the test data\"}]",
+    "honors_and_awards": null
+}

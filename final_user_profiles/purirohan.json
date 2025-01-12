@@ -1,0 +1,23 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Vellore Institute of Technology",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Computer Science & Engineering\"}]",
+    "certifications": null,
+    "current_company_name": "Jupiter",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Reporting and Analytics - Teamcenter\",\"start_date\":\"May 2013\",\"end_date\":\"Jun 2013\",\"description\":\"Teamcenter is an integrated suite of Product Lifecycle Management applications originally created by Siemens PLM Software. It powers innovation and improves productivity by connecting people with the product and process knowledge they need to effectively function in a globally oriented product lifecycle. In this internship project, work has been specifically carried out on the reporting and analytical module of the software. I coded various pictorial representations with dynamic tables synchronized with the representations including Gantt charts etc. for the original data along with a detailed study of the software.\"},{},{},{\"title\":\"A new efficient clustering algorithm using weighted trees and edge-cut\",\"start_date\":\"Jan 2013\",\"end_date\":\"May 2013\",\"description\":\"I proposed a new algorithm that uses weighted tree wherein the tree is constructed using an approach similar to that of agglomerative hierarchical single linkage clustering while the output can be clustered into a specific number as required by the user using edge-cut, thereby satisfying the requirements of k-means. The result indicates that it produces same output as that of hierarchical clustering without any deviations. Thus it eliminates the disadvantage of both the approaches while incorporating their advantages.\"},{\"title\":\"Purchasing Trend of Soft Drinks in VIT, Asian Journal of Research in Social Sciences & Humanities, ISSN 2249 – 7315, Vol 4, No. 2, February 2014, pp. 300 – 314.\",\"start_date\":\"Jan 2013\",\"end_date\":\"Apr 2013\",\"description\":\"It is a vivid research project on the Purchasing Trends of Soft drink of the students within my college. The research included data collection and analysis and various aspects related to marketing, brand image and advertising were also taken into consideration.\"},{},{},{\"title\":\"Performance analysis of backoff algorithm for IEEE 802.11 Networks\",\"start_date\":\"Jul 2012\",\"end_date\":\"Nov 2012\",\"description\":\"In this work, an adaptive performance analysis of the Backoff algorithm to improve QoS is developed and tested in simulations. The protocol modifies the IEEE 80211 backoff algorithm, which is used to control the contention window in the case of collisions, in order to provide a better QoS performance according to the network status and condition. The new algorithms have been tested against the legacy IEEE 802.11 through simulations using NS2. The tests have shown significant improvements in performance, improvement in delay and improvement in packet delivery fraction compared to the original IEEE.\"},{},{\"title\":\"Android Application for College Attendance System\",\"start_date\":\"May 2012\",\"end_date\":\"Jun 2012\",\"description\":\"An android application was made for the online attendance portal in which student can view their attendance for all the registered courses while faculties have the option to post the attendance and also pass any message to the batch through SMS service\"},{}]",
+    "honors_and_awards": null
+}

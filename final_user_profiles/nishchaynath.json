@@ -1,0 +1,61 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Tap Invest (Formerly Leaf Round)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "AIR 5 - National Aerospace Olympiad",
+            "publication": "Aeronautical Society of India",
+            "date": "2009-12-01T00:00:00.000Z",
+            "description": "Led a team of 4 students and ranked 5th out of a total of 80+ teams."
+        },
+        {
+            "title": "National Science Olympiad",
+            "publication": "Science Olympiad Foundation",
+            "date": "2008-04-01T00:00:00.000Z",
+            "description": "Ranked in the top 250"
+        },
+        {
+            "title": "High Distinction ANCQ",
+            "publication": "The Royal Australian Chemistry Institute",
+            "date": null,
+            "description": "Awarded High Distinction for 3 years in a row, from 2007 to 2009."
+        },
+        {
+            "title": "Maharashtra state rank 2 - HFI Scholarship Exam",
+            "publication": "Holy Faith International",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "National Cyber Olympiad",
+            "publication": "Science Olympiad Foundation",
+            "date": null,
+            "description": "Ranked in the top 250 in 2006,2007,2008 & 2009"
+        }
+    ]
+}

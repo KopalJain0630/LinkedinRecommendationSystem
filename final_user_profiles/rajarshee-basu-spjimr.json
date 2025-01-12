@@ -1,0 +1,196 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "SPJIMR, PGDM 2024-2026 | Tiger Analytics | IIIT-Bh'21",
+    "experience": [
+        {
+            "title": "Tiger Analytics",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Tiger Analytics",
+                    "meta": "Jul 2023 - Jun 2024 1 year",
+                    "description": "• Built an AWS infrastructure for web apps and ML pipelines, achieving 15x scalability over the existing solution.• Utilised AWS Batch & EC2 Spot and Metaflow, an automated machine learning pipeline for pricing recommendation engines that can cut operating costs by 40%. • Integrated resilient restart ability solutions along with MlOps code optimisation.• Selected to mentor 5 senior analysts, steering their career development and managing their feedback process",
+                    "duration": "Jul 2023 Jun 2024 1 year",
+                    "start_date": "Jul 2023",
+                    "end_date": "Jun 2024",
+                    "duration_short": "1 year",
+                    "title": "MLOps Engineer",
+                    "description_html": "• Built an AWS infrastructure for web apps and ML pipelines, achieving 15x scalability over the existing solution.<br>• Utilised AWS Batch &amp; EC2 Spot and Metaflow, an automated machine learning pipeline for pricing recommendation engines that can cut operating costs by 40%. <br>• Integrated resilient restart ability solutions along with MlOps code optimisation.<br>• Selected to mentor 5 senior analysts, steering their career development and managing their feedback process <!---->"
+                },
+                {
+                    "subtitle": "Tiger Analytics",
+                    "meta": "Jul 2022 - Jun 2023 1 year",
+                    "description": "• Created an end-to-end template using Terraform to create an AWS EKS stack and deploy any docker application.• Designed and developed a web application to streamline deployment activities across various teams.• Used a new could thoroughly, Yandex, to create a MlOps platform and deploy applications.• Delivered training on the diverse technological stack for fostering the professional growth of 20+ new joiners.",
+                    "duration": "Jul 2022 Jun 2023 1 year",
+                    "start_date": "Jul 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "1 year",
+                    "title": "Senior Analyst - MLOps",
+                    "description_html": "• Created an end-to-end template using Terraform to create an AWS EKS stack and deploy any docker application.<br>• Designed and developed a web application to streamline deployment activities across various teams.<br>• Used a new could thoroughly, Yandex, to create a MlOps platform and deploy applications.<br>• Delivered training on the diverse technological stack for fostering the professional growth of 20+ new joiners. <!---->"
+                },
+                {
+                    "subtitle": "Tiger Analytics",
+                    "meta": "Aug 2021 - Jun 2022 11 months",
+                    "description": "• Deployed dashboard for portal oversight system, real-time metrics, error alerts and performance analytics.• Automated internal user onboarding on AWS and Azure with access management, reducing effort by 30%.• Used tools like Vantage to reduce the cost by 25%.",
+                    "duration": "Aug 2021 Jun 2022 11 months",
+                    "start_date": "Aug 2021",
+                    "end_date": "Jun 2022",
+                    "duration_short": "11 months",
+                    "title": "Analyst - MLOps",
+                    "description_html": "• Deployed dashboard for portal oversight system, real-time metrics, error alerts and performance analytics.<br>• Automated internal user onboarding on AWS and Azure with access management, reducing effort by 30%.<br>• Used tools like Vantage to reduce the cost by 25%. <!---->"
+                },
+                {
+                    "subtitle": "Tiger Analytics",
+                    "meta": "Feb 2021 - Jul 2021 6 months",
+                    "description": "• Engineered data-driven insights from three years of telecom data for forecasting customer churns.• Simulated the potential customer churn to secure market dominance with an accuracy of 82%.• Artifacts on each run are stored using MLflow.",
+                    "duration": "Feb 2021 Jul 2021 6 months",
+                    "start_date": "Feb 2021",
+                    "end_date": "Jul 2021",
+                    "duration_short": "6 months",
+                    "title": "Intern - MLOps",
+                    "description_html": "• Engineered data-driven insights from three years of telecom data for forecasting customer churns.<br>• Simulated the potential customer churn to secure market dominance with an accuracy of 82%.<br>• Artifacts on each run are stored using MLflow. <!---->"
+                }
+            ],
+            "company": "Tiger Analytics",
+            "company_id": "tiger-analytics",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Database and Android Developer",
+            "location": "Bhubaneswar, India",
+            "description": "• Collaborated with the development team to design a scalable database schema supporting user profiles, appointment scheduling, and medical history tracking for an Android doctor booking app.• Optimised database structure with indexing and normalisation to ensure high performance and low latency for real-time booking and appointment management.• Integrated security measures and data encryption in the schema, ensuring compliance and protecting user privacy for sensitive patient information.",
+            "description_html": "• Collaborated with the development team to design a scalable database schema supporting user profiles, appointment scheduling, and medical history tracking for an Android doctor booking app.• Optimised database structure with indexing and normalisation to ensure high performance and low latency for real-time booking and appointment management.• Integrated security measures and data encryption in the schema, ensuring compliance and protecting user privacy for sensitive patient information.",
+            "duration": "Nov 2019 Jan 2020 3 months",
+            "start_date": "Nov 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "3 months",
+            "company": "Teceads Solutions",
+            "company_id": "teceads-solutions",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Developer and Database Designer",
+            "location": "Hyderabad , India",
+            "description": "• Worked on terminal database management for the passenger reservation system and designing and creating databases for Indian Railways.• Developed a web app and optimised database, resulting in an efficiency increase of 40% over the legacy system.• This portal manages all end-points of reservations throughout the country.",
+            "description_html": "• Worked on terminal database management for the passenger reservation system and designing and creating databases for Indian Railways.• Developed a web app and optimised database, resulting in an efficiency increase of 40% over the legacy system.• This portal manages all end-points of reservations throughout the country. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Centre for Railway Information Systems (CRIS)",
+            "company_id": "centre-for-railway-information-systems-cris",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "SPJIMR SP Jain Institute of Management & Research",
+            "degree": "PGDM",
+            "field": "Business Management",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2026",
+            "description": "Activities and Societies: Campus Finalist, P&G Voyage | Member of WISE Tech Committee, ADMAP • Selected as one of the Campus Finalists for the First season of P&G Voyage in a pool of 80+ students.",
+            "description_html": "Activities and Societies: Campus Finalist, P&amp;G Voyage | Member of WISE Tech Committee, ADMAP",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "International Institute of Information Technology, Bhubaneswar",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "• Placement Coordinator at IIIT-Bh (2018-20): Successfully facilitated campus recruitment drives for multiple companies, managing placement drives for students across two consecutive years. • Hostel Welfare and Disciplinary Committee Secretary (2019-20): Led and oversaw a community of 1200+ students, implementing welfare initiatives and maintaining disciplinary standards across campus residential facilities. • Core Team Member, Advaita 2020: Spearheaded a 35+ member organising team for… Show more",
+            "description_html": "• Placement Coordinator at IIIT-Bh (2018-20): Successfully facilitated campus recruitment drives for multiple companies, managing placement drives for students across two consecutive years.• Hostel Welfare and Disciplinary Committee Secretary (2019-20): Led and oversaw a community of 1200+ students, implementing welfare initiatives and maintaining disciplinary standards across campus residential facilities.• Core Team Member, Advaita 2020: Spearheaded a 35+ member organising team for…",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya vidyalaya Fort William",
+            "degree": "Computer Science",
+            "url": "",
+            "start_year": "2007",
+            "end_year": "2017",
+            "description": "• Awarded as a grade B child scientist at the National Children's Science Congress and received the award from Dr APJ Abdul Kalam, sir. • Received the Prime Minister's Scholarship Scheme scholarship administered by the PMO and signed by the Hon’ble PM of India Narendra Modi. • Received letter of excellence from MHRD minister of India, Smt. Smriti Irani for the class 10th score. • Received 3rd position in the regional-level debate competition organised by the Indian Metrological… Show more",
+            "description_html": "• Awarded as a grade B child scientist at the National Children's Science Congress and received the award from Dr APJ Abdul Kalam, sir.• Received the Prime Minister's Scholarship Scheme scholarship administered by the PMO and signed by the Hon’ble PM of India Narendra Modi.• Received letter of excellence from MHRD minister of India, Smt. Smriti Irani for the class 10th score.• Received 3rd position in the regional-level debate competition organised by the Indian Metrological…",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Credential ID NPTEL18CS34S11160110",
+            "subtitle": "NPTEL",
+            "title": "Algorithms, Data Structures and Programming using Python"
+        },
+        {
+            "meta": "Credential ID SKVBHLCRTXGF",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Blockchain Specialization"
+        },
+        {
+            "meta": "Credential ID 0665F70C-74A1-A1C6-ADBF-14EABC5B0D36",
+            "subtitle": "Internshala",
+            "title": "Build Full Stack Websites "
+        },
+        {
+            "meta": "Credential ID Y8DG2G2ND2H6",
+            "subtitle": "Coursera",
+            "title": "Decentralized Applications (Dapps)"
+        },
+        {
+            "meta": "Credential ID UC-1927c419-6ac6-4ca4-93c9-71db55d0b52a",
+            "subtitle": "Udemy",
+            "title": "Ethereum Development Course - Blockchain at Berkeley"
+        },
+        {
+            "meta": "Credential ID UC-7RKJQFUD",
+            "subtitle": "Udemy",
+            "title": "Master ReactJS: Learn React JS from Scratch"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Platforms on Blockchain "
+        },
+        {
+            "meta": "Credential ID ZPADNA3M8A8R",
+            "subtitle": "Coursera",
+            "title": "Smart Contracts"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Coursera",
+            "title": "The Basics Of Blockchain "
+        }
+    ],
+    "current_company_name": "Tiger Analytics",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "National Children's Science Congress",
+            "publication": "Department of Science & Technology (DST), Government of India",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Prime Minister's Scholarship Scheme",
+            "publication": "Administered by the PMO and signed by the Hon’ble PM of India Narendra Modi",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Regional level debate competition- 3rd position",
+            "publication": "Indian Metrological Society",
+            "date": null,
+            "description": null
+        }
+    ]
+}

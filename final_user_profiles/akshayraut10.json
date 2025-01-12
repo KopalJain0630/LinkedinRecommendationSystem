@@ -1,0 +1,114 @@
+{
+    "city": "San Francisco, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Imperial College London",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-",
+            "start_year": "2018",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "...",
+            "start_year": "2001",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning HubSpot CRM"
+        },
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Data Analytics for Business Professionals"
+        },
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Intermediate SQL for Data Scientists"
+        },
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning SQL Programming"
+        },
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Tableau Essential Training"
+        },
+        {
+            "meta": "Issued Feb 2023",
+            "subtitle": "DataCamp",
+            "title": "Python for Data Analytics"
+        },
+        {
+            "meta": "Issued Feb 2023",
+            "subtitle": "DataCamp",
+            "title": "SQL for Data Analytics"
+        },
+        {
+            "meta": "Issued Sep 2018",
+            "subtitle": "Institution of Mechanical Engineers",
+            "title": "AMIMechE"
+        },
+        {
+            "meta": "Issued May 2016",
+            "subtitle": "DAAD German Academic Exchange Service",
+            "title": "Certificate of Completion- A1 Level Deutsch"
+        }
+    ],
+    "current_company_name": "Nanonets",
+    "publications": "[{\"title\":\"Design and Control of SLIDER: An Ultra-lightweight, Knee-less, Low-cost Bipedal Walking Robot\",\"subtitle\":\"IEEE International Conference on Robotics and Automation (Under Review)\",\"date\":\"September 15, 2019\"},{\"title\":\"Thermal Modelling and Simulation for ‘Pratham’ IIT Bombay student satellite\",\"subtitle\":\"67th International Astronautical Congress, Mexico (leading conference in space technology)\",\"date\":\"October 10, 2016\"},{\"title\":\"Structural Design, Analysis and Testing of Launch Vehicle Interface for Small Satellite, Pratham, IIT Bombay\",\"subtitle\":\"67th International Astronautical Congress, Mexico (leading conference in space technology)\",\"date\":\"October 9, 2016\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Chain Reaction Game | Team Leader\",\"start_date\":\"Oct 2014\",\"description\":\"Built and developed the popular game \\\"Chain Reaction\\\" using C++ programming language in a team of 3 members. Customized and upgraded the game from 2 to 8 players and added a new feature of playing single player.\"},{\"title\":\"Characteristics of a flapping wing | Summer Undergraduate Research Project (SURP)\",\"start_date\":\"May 2016\",\"end_date\":\"Jul 2016\",\"description\":\"Inspired by the flight of birds, the project aims to build a fully functional ornithopter which can be used or surveillance, military applications, traffic monitoring, etc.\"},{\"title\":\"Analysis of a cooling system for Beam accelerator\",\"start_date\":\"Dec 2015\",\"end_date\":\"Mar 2016\",\"description\":\"The project involved modelling and simulating the environmental model considering conduction, forced convection, natural convection and radiation in ANSYS Fluent.\"},{\"title\":\"Robotic Arm | Institute Technical Summer Project\",\"start_date\":\"Apr 2015\",\"end_date\":\"Jul 2015\",\"description\":\"Designed and fabricated an arduino based miniaturized robotic arm where once the input coordinates are given by the user it repeats the motion continuously in a loop.Basically a miniaturized version of automated robotic arms used on production lines in factories and industries.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Undergraduate Research Award",
+            "publication": "IIT Bombay",
+            "date": "2017-09-01T00:00:00.000Z",
+            "description": "Awarded Undergraduate Research Award for exemplary research in the Ornithopter project."
+        }
+    ]
+}

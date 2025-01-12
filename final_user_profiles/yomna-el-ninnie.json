@@ -1,0 +1,45 @@
+{
+    "city": "Al Jizah, Egypt",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Pharos University in Alexandria",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "The Future of Workplace Learning"
+        },
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "What You Need to Know to Get Started with Your Training Program"
+        },
+        {
+            "subtitle": "-",
+            "title": "Bachelors Degree in Dentistry from Pharos University in Alexandria"
+        }
+    ],
+    "current_company_name": "Flat6Labs",
+    "publications": "[{\"title\":\"Blog\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

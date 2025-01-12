@@ -1,0 +1,79 @@
+{
+    "city": "Bangalore Urban, Karnataka, India",
+    "position": "Software engineer at UIDAI | Building the India Stack",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Unique Identification Authority of India (UIDAI)",
+            "company_id": "unique-identification-authority-of-india-uidai-",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Representative",
+            "description_html": null,
+            "duration": "Aug 2020 Apr 2023 2 years 9 months",
+            "start_date": "Aug 2020",
+            "end_date": "Apr 2023",
+            "duration_short": "2 years 9 months",
+            "company": "Career Development & Corporate Relations Center, IIT Ropar",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Trainee",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Envestnet | Yodlee",
+            "company_id": "yodlee",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Ropar",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "MATHEMATICS AND COMPUTING",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Lal Bahadur Shastri Smarak Javm Sr School",
+            "degree": "High School Diploma",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "Unique Identification Authority of India (UIDAI)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

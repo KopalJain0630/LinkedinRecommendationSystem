@@ -1,0 +1,159 @@
+{
+    "city": "San Francisco Bay Area",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "The Ohio State University",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2002",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"Race Software\",\"title\":\"AUTOMOTIVE SUSPENSION AND CHASSIS SYSTEMS – DESIGN AND ENGINEERING FUNDAMENTALS\"},{\"subtitle\":\"Coursera\",\"title\":\"Algorithms for Battery Management System Specialisation\"},{\"subtitle\":\"ME41001 & ME40701\",\"title\":\"Applied Thermofluids I & II\"},{\"subtitle\":\"EE61001\",\"title\":\"Automotive Sensors and Instrumentation\"},{\"subtitle\":\"Coursera\",\"title\":\"Computer Vision Basics\"},{\"subtitle\":\"ME20001\",\"title\":\"DYNAMICS\"},{\"subtitle\":\"ME30602\",\"title\":\"Design of Machine Elements\"},{\"subtitle\":\"ME22004\",\"title\":\"Dynamics of Machines\"},{\"subtitle\":\"-\",\"title\":\"EdX - Hybrid Vehicles ( Chalmers University of Technology)\"},{\"subtitle\":\"AT60001\",\"title\":\"Embedded Control Systems\"},{\"subtitle\":\"CE13001\",\"title\":\"Engineering Drawing and Computer Graphics (Solidworks)\"},{\"subtitle\":\"ME21101 \",\"title\":\"FLUID MECHANICS\"},{\"subtitle\":\"ME30005\",\"title\":\"Heat Transfer\"},{\"subtitle\":\"ME21008\",\"title\":\"Kinematics of Machines\"},{\"subtitle\":\"ME10001\",\"title\":\"Mechanics\"},{\"subtitle\":\"ME31013\",\"title\":\"Mechanics of Solids\"},{\"subtitle\":\"ME29002\",\"title\":\"Mechanism Sessional\"},{\"subtitle\":\"-\",\"title\":\"Optimum Lap : for lap-time simulations and other calculations\"},{\"subtitle\":\"MA20103\",\"title\":\"PARTIAL DIFFERENTIAL EQUATIONS\"},{\"subtitle\":\"ME 7236\",\"title\":\"Powertrain Dynamics\"},{\"subtitle\":\"AT60002\",\"title\":\"Principles of Automotive Dynamics and Controls\"},{\"subtitle\":\"AT60002\",\"title\":\"Principles of Automotive Dynamics and Controls\"},{\"subtitle\":\"-\",\"title\":\"Ricardo - for simulation on internal combustion engines\"},{\"subtitle\":\"ME 5339\",\"title\":\"Simulation Techniques for Dynamic Systems\"},{\"subtitle\":\"MF41601\",\"title\":\"Soft Computing\"},{\"subtitle\":\"-\",\"title\":\"Solidworks\"},{\"subtitle\":\"Coursera\",\"title\":\"State Estimation and Localization for Self-Driving Cars\"},{\"subtitle\":\"ECE 5551\",\"title\":\"State Space Control Systems\"},{\"subtitle\":\"ME40601\",\"title\":\"Systems & Controls\"},{\"subtitle\":\"ME22002\",\"title\":\"Thermodynamics\"},{\"subtitle\":\"-\",\"title\":\"Visual Perception for Self Driving Cars\"},{\"subtitle\":\"ChM1012x\",\"title\":\"edX : Model Based Automotive Systems Engineering \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID LNZHJ7P7WMZWSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Formula Bharat",
+            "title": "Formula Student EV Concept Challenge 2020"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID JE8Z27WVZJGZSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks in Tensorflow"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 7ZC7A34D7XFMSee credential",
+            "subtitle": "Coursera",
+            "title": "Motion Planning for Self-Driving Cars"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "University of Alberta",
+            "title": "Reinforcement Learning Specialization"
+        },
+        {
+            "meta": "Issued May 2020Credential ID ZP8T37HFKF4ASee credential",
+            "subtitle": "Coursera",
+            "title": "Visual Perception for Self-Driving Cars"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID LKU4J59NZFGNSee credential",
+            "subtitle": "Coursera",
+            "title": "Autodesk Fusion 360 Integrated CAD/CAM/CAE"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Self-Driving Cars"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID EJBRQPTVAZ7HSee credential",
+            "subtitle": "Coursera",
+            "title": "State Estimation and Localization for Self Driving Cars"
+        },
+        {
+            "meta": "Issued Feb 2020See credential",
+            "subtitle": "Formula Bharat",
+            "title": "Formula Bharat 2020"
+        },
+        {
+            "meta": "Issued Jun 2019See credential",
+            "subtitle": "MathWorks",
+            "title": "Simulink Onramp"
+        },
+        {
+            "meta": "Issued May 2019See credential",
+            "subtitle": "MathWorks",
+            "title": "MATLAB Onramp"
+        },
+        {
+            "meta": "Issued Jul 2021Expires Jul 2024See credential",
+            "subtitle": "RACE Software",
+            "title": "Automotive Suspension and Chassis Systems - Design and Engineering Fundamentals"
+        }
+    ],
+    "current_company_name": "Lucid Motors",
+    "publications": "[{\"title\":\"Quantitative risk assessment and mitigation through fault diagnostics for automated vehicles\",\"subtitle\":\"OhioLINK Electronic Theses and Dissertations Center\",\"date\":\"September 19, 2024\"},{\"title\":\"Fault Diagnostics for Oscillatory Failure Case in Aircraft Elevator Servos\",\"subtitle\":\"IFAC-PapersOnline\",\"date\":\"November 22, 2023\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Design and Fabrication of an FSAE standard vehicle.\",\"start_date\":\"Jul 2019\",\"end_date\":\"Aug 2021\",\"description\":\"My area of expertise in this project spans the technical as well as corporate aspects. I have utilized my knowledge in developing the powertrain assembly for a Formula Student vehicle. As for the corporate part, I have been in constant contact with the company officials and individuals for sponsorship and other requirements of the team.\"},{\"title\":\"Deep Reinforcement Learning for Autonomous Vehicles\",\"start_date\":\"Aug 2020\",\"end_date\":\"Aug 2020\",\"description\":\"1. Deployed a Deep Neural Network to predict the discrete action values and mapped them to continuous signals for the vehicle control2.Used 84 x 84 RGB images for the environment perception as the state information collected from the camera sensor3. Accommodated the wheel odometry, collision and lane invasion sensor data to compute the real time reward for the agent4. State-space - The state is simply the 84 x 84 RGB image captured by the on-board vehicle camera which is processed by the neural network.5. Action-space - It is an array of tuples of the form (throttle, steering, brake). The output of the neural network is mapped to one of the tuples in this array using the minimum of the Euclidean norm calculated with respect to the obained value from the neural network.6. Reward - The reward is computed in real-time using the wheel odometry, collision, lane-invasion sensor values and is discounted over an episode with a preset discount factor\"},{\"title\":\"Traffic Sign Classification using CNN\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"1. Deployed a Convolutional Neural Network model using 3 Convolutional, a Dropout of 20%, and 2 Dense layers for the identification of traffic signs.2. Trained the model for 100 epochs on a pre-built dataset of 32 x 32 RGB images to achieve a training accuracy of 94%.3. Testing accuracy = 94% | Testing loss = 0.41924. Trained the network over a set of 86989 RGB images.\"},{\"title\":\"Implementation of Q-learning algorithm to train the CartPole agent\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jun 2020\",\"description\":\"1. Implemented the Q-Learning algorithm to train an RL agent to stabilize the Cart Pole vertically, in the presence of gravity, in the vertically downwards direction. 2. Trained the agent for 1000 episodes using the environment in the Gym library.3. State-space: Continuous and Action-space: Discrete. 4. Epsilon-greedy action selection was used with decreasing exploration rate using a log function. 5. Increasing learning rate was deployed using a log function and predefined minimum and maximum values.\"},{\"title\":\"Motion Planner for Self-Driving Cars\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jun 2020\",\"description\":\"Developed the Motion planning software stack for an autonomous vehicle to traverse a given path, using Python and CARLA simulator (for visualization).1. Implemented the behavioral planning concepts to create an instruction set for the path generation, considering the static as well as dynamic obstacles, and regulatory elements of the road. 2. Performed a collision check using circle collision checking and finally generated a collision-free path around an obstacle, using Conformal Lattice planning.3. Incorporated local planning concepts to develop a planner to process the information from the behavioral planner and use it to generate a comfortable, kinematically feasible path. 4. Finally using the local planner, generated a velocity profile for the vehicle to follow, subject to obstacles. 5. Longitudinal control, via a feedback (PID) + feedforward controller. 6. Lateral control via Stanley control steering method.\"},{\"title\":\"Visual Perception stack for a self-driving car, using segmented image data, collected from camera.\",\"start_date\":\"May 2020\",\"end_date\":\"May 2020\",\"description\":\"Provided the other parts of the code:-Using the segmented image output from the convolutional neural network (ConvNets),1. I performed a drivable space estimation in 3D and finally generated a plane in 3D, which the vehicle must abide by, under all circumstances.2. Next, I implemented the driving lane estimation to demarcate the lane boundaries, within which the vehicle is supposed to stay during its course in that lane.3. After filtering the errors from the 2D object detectors, once again a convolutional neural network, I obtained an image with boundaries around dynamic objects like vehicles. Using, this, I estimated the distance of this obstacle from the host car, which will then be used, to perform motion-planning, and safety decisions by the host car's control module.\"},{\"title\":\"State Estimator for a self-driving car using IMU, GNSS and LIDAR datasets.\",\"start_date\":\"Apr 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Provided the other parts of the code:-Using the data from the Inertial Measurement Unit (IMU), Global Navigation Satellite System (GNSS or simply GPS) and Light Detection and Ranging (LIDAR) sensors, I designed an Error State - Extended Kalman Filter. I predicted the current state using the IMU data and then corrected this, using suitable Kalman gains. to suit the scenario. Finally, if the GNSS/LIDAR was available as this timestep, then using an update function, modified this corrected state.The entire algorithm was programmed using Python and tested on a reference track and this project analyzed 2 extra scenarios apart from localization in the space - effects of poor sensor calibration and effects of sensor failure,All sensors were assumed to have errors that followed a Normal distribution with zero mean and non-zero covariances.\"},{\"title\":\"Vehicle Controller for a self-driving car based on errors in desired and actual parameters\",\"start_date\":\"Apr 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Provided the other parts of the code:- I implemented a PID control scheme for the longitudinal control of the self-driving vehicle. Based on the errors in vehicle velocity, the output signal (throttle & brake position) was modified using the PID gains. The vehicle was then subjected to a predefined racetrack on Carla Simulator and the code was executed as a Python Client, in the background.For lateral control, I used the Stanley control method. Using the heading and cross-track error estimation, a new output for the steering angle was generated for the next time step, which is equal to the sum of these errors, thus aiming to cancel them.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "2nd place for Aerospace industrial benchmark problem at IFAC World Congress",
+            "publication": "Airbus and Stellenbosch University",
+            "date": "2023-07-01T00:00:00.000Z",
+            "description": "1. Co-authored a conference paper to solve the detection & isolation of oscillatory failure cases in commercial aircraft elevator servos and subsequent control reconfiguration. 2. Secured 2nd place in the “Aerospace Industrial Benchmark problem on Fault detection and Fault tolerant control” organized by Airbus and Stellenbosch University."
+        },
+        {
+            "title": "Inter IIT Tech Meet 10.0",
+            "publication": "IIT Kharagpur",
+            "date": "2022-04-01T00:00:00.000Z",
+            "description": "1. Bagged the Gold medal in the event: \"Powered Bonnet for Electric Vehicles\" by Jaguar Land Rover, India. 2. Led a team of 10 members comprising of UG students towards developing a cost-effective and robust solution for automating the bonnet actuation for EVs. 3. Focused on energy optimization by incorporating torsional springs and regenerative braking as well as cost optimization by using lower rated actuators. 4. Performed an in-depth analysis of possible failure modes and… Show more"
+        },
+        {
+            "title": "Inter IIT Tech Meet 9.0",
+            "publication": "IIT Guwahati",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "1. Secured the Gold Medal for the innovative solutions presented for the event \"Bosch's Electric Vehicle Simulation\". 2. Proposed the powertrain architecture comprising a PMSM motor (self-designed), ABS, and VSC based on target performance parameters. 3. Our approach and solution in the limited preparation time were appreciated by the judges from Bosch."
+        },
+        {
+            "title": "Johnson & Johnson Crackathon (Industry 4.0)",
+            "publication": "Johnson & Johnson",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "1. Secured the runner's up position and received Alexa Echo Dot as a gift. 2. Designed a predictive maintenance system for electrical and mechanical faults in an Autopack Sollas Overwrapping machine based on AWS, IoT, and ML models."
+        },
+        {
+            "title": "Flipkart GRiD 2.0",
+            "publication": "Flipkart",
+            "date": "2020-09-01T00:00:00.000Z",
+            "description": "1. One of the 20 teams to clear levels 2/4 with problem statement: Autonomous Indoor Drone. 2. Submitted the solutions for the monocular vision-based navigation, autonomous control and planar obstacle avoidance."
+        },
+        {
+            "title": "4th Annual FSEV Concept Challenge 2020",
+            "publication": "Formula Bharat",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "1. Overall 5th place among 37 participant teams. 2. Received a notable mention: Fresher Team Effort - Design 3. Stood 2nd in EV presentation and 4th in Powertrain Package Design among 37 teams internationally."
+        },
+        {
+            "title": "Formula Bharat 2020",
+            "publication": "Formula Bharat",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "1. Overall 10th place in Combustion Category, among 52 teams. 2. 6th Place, Engineering Design Event. 3. 15th Place at Cost and Manufacturing Event"
+        },
+        {
+            "title": "3rd Annual FSEV Concept Challenge 2019.",
+            "publication": "Formula Bharat",
+            "date": "2019-08-01T00:00:00.000Z",
+            "description": "Overall 4th Place among 14 teams."
+        },
+        {
+            "title": "Gold Medal for National Science Olympiad",
+            "publication": "Science Olympiad Foundation",
+            "date": null,
+            "description": "Received this medal for being the highest scorer in the NSO among other students of my school."
+        }
+    ]
+}

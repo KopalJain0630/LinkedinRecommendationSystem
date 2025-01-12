@@ -1,0 +1,476 @@
+{
+    "id": "shivam-sharma123",
+    "name": "Shivam Sharma",
+    "city": "Coppell, Texas, United States",
+    "country_code": "US",
+    "position": "Blue Yonder || IIT Kharagpur",
+    "about": "Business Consultant with a history of working on academic projects in data science and logistics and supply chain industry. Skilled in R Programming, Management, HTML, and Teamwork.",
+    "posts": [
+        {
+            "title": "Artificial Intelligence in Governance",
+            "img": "",
+            "link": "",
+            "created_at": "2018-05-05T00:00:00.000Z",
+            "interaction": null,
+            "id": "sharma"
+        }
+    ],
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Blue Yonder",
+        "company_id": "blueyonder",
+        "title": "Blue Yonder || IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Blue Yonder",
+            "location": "Coppell, Texas, United States",
+            "description_html": null,
+            "duration": "6 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "Blue Yonder",
+                    "meta": "Mar 2024 - Present 10 months",
+                    "description": "Skills: Supply Chain planning, Fulfillment",
+                    "duration": "Mar 2024 - Present 10 months",
+                    "start_date": "Mar 2024",
+                    "end_date": "Present",
+                    "duration_short": "10 months",
+                    "title": "Solutions Architect/Sr Engineer 2",
+                    "description_html": "Skills: Supply Chain planning, Fulfillment <!---->"
+                },
+                {
+                    "subtitle": "Blue Yonder",
+                    "meta": "Jul 2023 - Feb 2024 8 months",
+                    "duration": "Jul 2023 Feb 2024 8 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Feb 2024",
+                    "duration_short": "8 months",
+                    "title": "Sr Business Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Blue Yonder",
+                    "meta": "Apr 2022 - Jun 2023 1 year 3 months",
+                    "duration": "Apr 2022 Jun 2023 1 year 3 months",
+                    "start_date": "Apr 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "1 year 3 months",
+                    "title": "Business Consultant Int",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Blue Yonder",
+                    "meta": "Nov 2020 - Mar 2022 1 year 5 months",
+                    "duration": "Nov 2020 Mar 2022 1 year 5 months",
+                    "start_date": "Nov 2020",
+                    "end_date": "Mar 2022",
+                    "duration_short": "1 year 5 months",
+                    "title": "Business Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Blue Yonder",
+                    "meta": "Feb 2020 - Oct 2020 9 months",
+                    "duration": "Feb 2020 Oct 2020 9 months",
+                    "start_date": "Feb 2020",
+                    "end_date": "Oct 2020",
+                    "duration_short": "9 months",
+                    "title": "Business Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Blue Yonder",
+                    "meta": "Jul 2019 - Feb 2020 8 months",
+                    "duration": "Jul 2019 Feb 2020 8 months",
+                    "start_date": "Jul 2019",
+                    "end_date": "Feb 2020",
+                    "duration_short": "8 months",
+                    "title": "Business Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Blue Yonder",
+                    "meta": "Jun 2018 - Jul 2019 1 year 2 months",
+                    "duration": "Jun 2018 Jul 2019 1 year 2 months",
+                    "start_date": "Jun 2018",
+                    "end_date": "Jul 2019",
+                    "duration_short": "1 year 2 months",
+                    "title": "Associate Business Consultant",
+                    "description_html": null
+                }
+            ],
+            "company": "Blue Yonder",
+            "company_id": "blueyonder",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Chennai Area, India",
+            "description": "Corresponded with team to industrie 4.0 to monitor Overall Equipment Effectiveness and achieved target of 96%• Applied Quick Change Over, 14-Q and 5S Principle under Bosch Production System to revamp the Production & Quality Manual• Analyzed daily production data in shop floor & extracted possible loss patterns leading to production losses and quality depletion• Identified possible causes of End of Line Rejections and successfully implemented 3 poke-yoke which improved daily production by 0.3%",
+            "description_html": "Corresponded with team to industrie 4.0 to monitor Overall Equipment Effectiveness and achieved target of 96%• Applied Quick Change Over, 14-Q and 5S Principle under Bosch Production System to revamp the Production &amp; Quality Manual• Analyzed daily production data in shop floor &amp; extracted possible loss patterns leading to production losses and quality depletion• Identified possible causes of End of Line Rejections and successfully implemented 3 poke-yoke which improved daily production by 0.3%",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "Bosch India",
+            "company_id": "bosch-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Internship",
+            "location": "Pune Area, India",
+            "description": "Research on the end-to-end pharmaceutical supply chain and demonstrated the simplified approach towards ORACLE ERP Products - E- Business Suite, Advance Supply Chain Planning (ASCP) and Demantra. Conducted stakeholder interviews to identify the major bottleneck in supply chain and presented in the form of 10 major issues.",
+            "description_html": "Research on the end-to-end pharmaceutical supply chain and demonstrated the simplified approach towards ORACLE ERP Products - E- Business Suite, Advance Supply Chain Planning (ASCP) and Demantra. Conducted stakeholder interviews to identify the major bottleneck in supply chain and presented in the form of 10 major issues. <!---->",
+            "duration": "May 2016 Jun 2016 2 months",
+            "start_date": "May 2016",
+            "end_date": "Jun 2016",
+            "duration_short": "2 months",
+            "company": "Trinamix",
+            "company_id": "trinamix",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Internship",
+            "location": "Kolkata Area, India",
+            "description": "Improvised the digital media campaign for small business enterprise and wrote blogs on parents concerned about child safetyDeveloped strategic marketing initiatives for startups on LinkedIn, Twitter and Facebook which enriched with new clientele",
+            "description_html": "Improvised the digital media campaign for small business enterprise and wrote blogs on parents concerned about child safetyDeveloped strategic marketing initiatives for startups on LinkedIn, Twitter and Facebook which enriched with new clientele <!---->",
+            "duration": "Mar 2016 Apr 2016 2 months",
+            "start_date": "Mar 2016",
+            "end_date": "Apr 2016",
+            "duration_short": "2 months",
+            "company": "Enter Cerebrum",
+            "company_id": "enter-cerebrum",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "News Reporter",
+            "location": "Work Form Home",
+            "description": "Winner of the \"Best covered story of the month\".",
+            "description_html": "Winner of the \"Best covered story of the month\". <!---->",
+            "duration": "Dec 2015 Feb 2016 3 months",
+            "start_date": "Dec 2015",
+            "end_date": "Feb 2016",
+            "duration_short": "3 months",
+            "company": "Hocalwire",
+            "company_id": "hocalwire",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Writing CUM Social Media marketing",
+            "location": "Work From Home",
+            "description": "Content Writer and Social Media Marketing",
+            "description_html": "Content Writer and Social Media Marketing <!---->",
+            "duration": "Dec 2015 Jan 2016 2 months",
+            "start_date": "Dec 2015",
+            "end_date": "Jan 2016",
+            "duration_short": "2 months",
+            "company": "Greymeter",
+            "company_id": "greymeter",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rajul Verma",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Naveen Surisetty",
+            "about": "Supply Chain Planning Architect @ Blue Yonder | IIM Lucknow MBA",
+            "location": "Karnataka, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Tomar",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Souranil Sen",
+            "about": "Aviation & Aerospace Business Consulting @ Ramco Systems",
+            "location": "Montreal, QC"
+        },
+        {
+            "profile_link": "",
+            "name": "Jitin Kohli",
+            "about": "Engagement Manager at ZS || ISB || HSG- Switzerland || Strategy, Analytics, Digital Tx || AgTech, FoodTech, Pharma, Life sciences",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Urvashi Beniwal",
+            "about": "EY Parthenon|| EY India || IIM Mumbai|| IIT Guwahati",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Srijan Srivastava",
+            "about": "Supply Chain | Consulting | Product | XLRI | IIT-R",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dipti Sangare",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "OP Harshwal",
+            "about": "Business Consultant Self-employed",
+            "location": "Thane"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Yadav",
+            "about": "Project Lead at Zinnov",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Industrial Engineering",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": "Activities and Societies: Industrial Engineer, Volleyball, Dramatics, Tabla Player",
+            "description_html": "Activities and Societies: Industrial Engineer, Volleyball, Dramatics, Tabla Player",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya Morena",
+            "degree": "10th class",
+            "field": "Mathematics",
+            "start_year": "2007",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Oriya "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Nov 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Having Difficult Conversations"
+        },
+        {
+            "meta": "Issued Nov 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Negotiating with Agility"
+        },
+        {
+            "meta": "Issued Sep 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "The Key to Good Communication: Your Audience"
+        },
+        {
+            "meta": "Issued Jul 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "GitHub Actions First Look"
+        },
+        {
+            "meta": "Issued Jul 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Microservices: Asynchronous Messaging"
+        },
+        {
+            "meta": "Issued Feb 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Software Architecture: Domain-Driven Design"
+        },
+        {
+            "meta": "Issued Jun 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Developing Executive Presence"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "A Design Thinking Approach to Putting the Customer First"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Excel 2019 Essential Training"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Fred Kofman on Managing Conflict"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Getting Things Done"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Google Sheets Essential Training"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "How to Present and Stay on Point"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Mixtape: Learning Highlights on Personal Effectiveness"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Negotiation Foundations"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Persuading Others"
+        }
+    ],
+    "recommendations": [
+        "Chethan Manja “I highly recommend Shivam for his outstanding ability to take ownership and accountability. His flawless execution and clear, concise, timely communication were crucial in ensuring the success of the innovation event we collaborated on. His dedication to seeing tasks through to their end state sets him apart as a reliable and effective team member. Shivam’s strategic thought process, attention to detail and commitment to excellence were evident throughout the event. I would like to laud his positive attitude and ability to adapt to challenges that made him a dependable asset to our team. I wholeheartedly endorse Shivam for any future endeavors and am confident in his ability to excel in any professional setting.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 3113.0,
+    "connections": 500.0,
+    "current_company_company_id": "blueyonder",
+    "current_company_name": "Blue Yonder",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Pattern extraction for high-risk accidents in Tata Steel\",\"start_date\":\"Oct 2016\",\"description\":\"Working on a project titled as “Pattern extraction for accidents in construction industry” for mitigating factory accidents Developing algorithms for pattern extraction from categorical data using multiple correspondence analysis (MCA), ensembleof decision tree and association rule mining techniques for high-risk accident for Tata Steel Private Limited. Analysing over 10000+ accidental data involving falls & falling object (Group:1) and other types (Group:2) between 2011-15.\"},{\"title\":\"Sonotuner\",\"start_date\":\"Dec 2014\",\"end_date\":\"Present\"},{},{},{\"title\":\"Sonotuner\",\"start_date\":\"Dec 2014\",\"end_date\":\"Present\",\"description\":\"It is a sound filtering device\"},{},{}]",
+    "organizations": null,
+    "location": "Coppell",
+    "linkedin_id": "shivam-sharma123",
+    "activity": [
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "🎄 From our family to yours, Merry Christmas! ✨ Wishing you all a season filled with joy, laughter, and the magic of togetherness. Here’s to…",
+            "img": "",
+            "id": "7277860405710843904"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "Amul's biggest secret revealed! . . . Amul butter has Amul's logo all over it and the mascot \"Amul girl\" on the cover. But Delicious fat spread…",
+            "img": "",
+            "id": "7275786901935022080"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "To Dalai Lama, Thank you for being a source of strength. You make me feel stronger. Thank you for choosing India as your home. India is better…",
+            "img": "",
+            "id": "7274998868755279872"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "I am in work mode, my friend Logan Cookingham is in travel mode. Our compromise is to live and work 14 hrs in the Himalayas now. Building our…",
+            "img": "",
+            "id": "7272145474432700417"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "I'm so glad to have had the opportunity to give a closing speech for the 6th Carrom World Championship! The World Cup was a testament to how people…",
+            "img": "",
+            "id": "7269908286169055232"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "I just don't understand the media's obsession about crore-plus offers at IITs. First of all, only a few students get it. On top of that, the job…",
+            "img": "",
+            "id": "7269523283899748352"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "📣 Happy to cross 500 mark of no of subscribers for my newsletter \"Enabling Success for Managers\". Tried to share personal experiences and POV on…",
+            "img": "",
+            "id": "500"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "India's per capita income is $2800. Excluding Ambani and Adani, it drops to $2700. Excluding the top 10 individuals, it is $2500. Excl the top 200…",
+            "img": "",
+            "id": "2800"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "In my secondary school board (ICSE), I secured some 86% after being handpicked by the school as one of the elite students. Mediocre performance it…",
+            "img": "",
+            "id": "7269114099228119040"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "If I could go back in time, here’s how I would fast-track my green card (& career) journey while I was at Columbia University. Context: The GC wait…",
+            "img": "",
+            "id": "7267567919918702593"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "#Hiring (Sr Functional QA – Supply Planning) We are looking for a skilled and detail-oriented Sr. Functional QA with experience in supply planning…",
+            "img": "",
+            "id": "7266830460897386497"
+        },
+        {
+            "interaction": "Liked by Shivam Sharma",
+            "link": "",
+            "title": "Following the trend 🫠 Also, seriously kyun karega? 🤔 #humour #zepto #manyavar #astrotalk Zepto Shaadi.com Anupam Mittal Chandan Mendiratta",
+            "img": "",
+            "id": "7267213128046637057"
+        }
+    ],
+    "linkedin_num_id": 409829887.0,
+    "honors_and_awards": [
+        {
+            "title": "Won Gold Medal in inter-hall volley ball competition",
+            "publication": "Technology Student Gymkhana",
+            "date": "2016-03-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

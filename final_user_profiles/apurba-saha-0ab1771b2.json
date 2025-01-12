@@ -1,0 +1,80 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "Detail-oriented and results-driven professional with an MBA and two years of experience as a Relationship Manager.\nAspiring Credit Analyst with a strong analytical background and expertise in financial assessment.",
+    "experience": [
+        {
+            "title": "HDFC Bank",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "HDFC Bank",
+                    "meta": "Jul 2023 - Present 1 year 6 months",
+                    "duration": "Jul 2023 - Present 1 year 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 6 months",
+                    "title": "Deputy Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "HDFC Bank",
+                    "meta": "Jul 2022 - Jul 2023 1 year 1 month",
+                    "duration": "Jul 2022 Jul 2023 1 year 1 month",
+                    "start_date": "Jul 2022",
+                    "end_date": "Jul 2023",
+                    "duration_short": "1 year 1 month",
+                    "title": "Relationship Manager",
+                    "description_html": null
+                }
+            ],
+            "company": "HDFC Bank",
+            "company_id": "hdfc-bank",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Internship Trainee",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2021 Aug 2021 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "3 months",
+            "company": "Axidio",
+            "company_id": "axidio",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Army Institute of Management",
+            "degree": "Master of Business Administration - MBA",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of Calcutta",
+            "degree": "Bachelor's degree",
+            "field": "Accounting and Finance",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "HDFC Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

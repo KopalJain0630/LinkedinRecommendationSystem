@@ -1,0 +1,426 @@
+{
+    "id": "akash-mudhol-9b8589174",
+    "name": "Akash Mudhol",
+    "city": "Midnapore Sadar, India",
+    "country_code": "IN",
+    "position": "Standard Chartered Bank | IIT KGP 23 | Citymall | NITI Aayog | Mazars | Educational Initiatives | Mindspark | ISB | RMSOEE",
+    "about": "Experienced Member with a demonstrated history of working in the non-profit organization management industry. Skilled in Microsoft Word, Management, HTML, JavaScript, and Microsoft Excel. Strong operations professional with a MSc - Master of Science focused in Economics from Indian Institute of Technology, Kharagpur. ",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Standard Chartered Bank",
+        "company_id": "standardchartered",
+        "title": "Standard Chartered Bank | IIT KGP 23 | Citymall | NITI Aayog | Mazars | Educational Initiatives | Mindspark | ISB | RMSOEE"
+    },
+    "experience": [
+        {
+            "title": "Credit Portfolio Management",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "Standard Chartered Bank",
+            "company_id": "standardchartered",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern Backend",
+            "location": "Gurugram, Haryana, India",
+            "description": "• Worked to Improve existing micro services that the infrastructure uses byredesigning the interface based implementation. Rewrote microservices which neededless latency from NodeJS to Golang and achieved a reduction in latency and hugereduction in memory usage using cache• Developed unit testing and integration testing using suites package in Golang toprovide extensive coverage, it involved working with various db like Postgres andcaching using Redis• Worked on Github actions workflows to prepare the yml files, to ensure CI/CD anddeploy code in our servers• Used Go standard library packages along with the external packages like gin gonic forrouters, testify, suite for testing, errors and many others.",
+            "description_html": "• Worked to Improve existing micro services that the infrastructure uses byredesigning the interface based implementation. Rewrote microservices which neededless latency from NodeJS to Golang and achieved a reduction in latency and hugereduction in memory usage using cache• Developed unit testing and integration testing using suites package in Golang toprovide extensive coverage, it involved working with various db like Postgres andcaching using Redis• Worked on Github actions workflows to prepare the yml files, to ensure CI/CD anddeploy code in our servers• Used Go standard library packages along with the external packages like gin gonic forrouters, testify, suite for testing, errors and many others.",
+            "duration": "Mar 2022 Feb 2023 1 year",
+            "start_date": "Mar 2022",
+            "end_date": "Feb 2023",
+            "duration_short": "1 year",
+            "company": "CityMall",
+            "company_id": "citymall91",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "• Developed a CRON script to automate the content porting which was earlier donemanually, worked mainly on PHP, MySQL and MongoDB• Used OOPs to execute cron connections sequentially, logging the status of therunning cron and execution of email service on completion",
+            "description_html": "• Developed a CRON script to automate the content porting which was earlier donemanually, worked mainly on PHP, MySQL and MongoDB• Used OOPs to execute cron connections sequentially, logging the status of therunning cron and execution of email service on completion <!---->",
+            "duration": "Oct 2021 Apr 2022 7 months",
+            "start_date": "Oct 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "7 months",
+            "company": "Educational Initiatives",
+            "company_id": "eistudy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Welfare Group, IIT Kharagpur",
+            "description_html": null,
+            "duration": "3 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Sep 2021 - Mar 2022 7 months",
+                    "duration": "Sep 2021 Mar 2022 7 months",
+                    "start_date": "Sep 2021",
+                    "end_date": "Mar 2022",
+                    "duration_short": "7 months",
+                    "title": "Advisor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Jun 2020 - Oct 2021 1 year 5 months",
+                    "description": "• Coordinating a team of 25 student members aimed at addressing prominent student-related issues under the aegis of Dean of Students' Affairs",
+                    "duration": "Jun 2020 Oct 2021 1 year 5 months",
+                    "start_date": "Jun 2020",
+                    "end_date": "Oct 2021",
+                    "duration_short": "1 year 5 months",
+                    "title": "Head",
+                    "description_html": "• Coordinating a team of 25 student members aimed at addressing prominent student-related issues under the aegis of Dean of Students' Affairs <!---->"
+                },
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Sep 2019 - May 2020 9 months",
+                    "description": "• Precisely administered Student Mentor Program 2019-20, one of the biggest on-campus programs, covering around 1600 UG freshmen • Initiated the first-ever Winter School of Software Development, Data Science and Finance; over 200 students attended the workshops",
+                    "duration": "Sep 2019 May 2020 9 months",
+                    "start_date": "Sep 2019",
+                    "end_date": "May 2020",
+                    "duration_short": "9 months",
+                    "title": "Student Member",
+                    "description_html": "• Precisely administered Student Mentor Program 2019-20, one of the biggest on-campus programs, covering around 1600 UG freshmen • Initiated the first-ever Winter School of Software Development, Data Science and Finance; over 200 students attended the workshops <!---->"
+                },
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Feb 2019 - Sep 2019 8 months",
+                    "description": "• Responsible for conducting PDS Doubt Sessions to assist non-CS background first-year undergraduates which observed 200+ attendance • Managed an online portal which is being actively used by 2000+ students facilitating them in their placement / Internship preparations• Successfully conducted campus tour for freshers in collaboration with other societies; worked with a team of 60+ members for the event",
+                    "duration": "Feb 2019 Sep 2019 8 months",
+                    "start_date": "Feb 2019",
+                    "end_date": "Sep 2019",
+                    "duration_short": "8 months",
+                    "title": "Associate Member",
+                    "description_html": "• Responsible for conducting PDS Doubt Sessions to assist non-CS background first-year undergraduates which observed 200+ attendance • Managed an online portal which is being actively used by 2000+ students facilitating them in their placement / Internship preparations<br><br>• Successfully conducted campus tour for freshers in collaboration with other societies; worked with a team of 60+ members for the event <!---->"
+                }
+            ],
+            "company": "Student Welfare Group, IIT Kharagpur",
+            "company_id": "student-welfare-group-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Advisory and Analytics",
+            "description": "• Managed database of 480+ micro small and medium enterprises with recurrent contactswith CDOs, MDs at MSME ministries and CFCs• Analysed 32 different clusters spanning 14 states across India and covering variety ofsectors such as Pharma, Clothing, Footwear etc• Developed ANSOFF matrix and Export Score matrix for accessingthe growth potentialand export potential respectively of the CFCs• Used A/B testing to design and analyze the best format for generating qualitative andquantitative response data",
+            "description_html": "• Managed database of 480+ micro small and medium enterprises with recurrent contactswith CDOs, MDs at MSME ministries and CFCs• Analysed 32 different clusters spanning 14 states across India and covering variety ofsectors such as Pharma, Clothing, Footwear etc• Developed ANSOFF matrix and Export Score matrix for accessingthe growth potentialand export potential respectively of the CFCs• Used A/B testing to design and analyze the best format for generating qualitative andquantitative response data",
+            "duration": "Mar 2021 Feb 2022 1 year",
+            "start_date": "Mar 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "1 year",
+            "company": "Mazars",
+            "company_id": "mazars",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Management and Analysis",
+            "location": "Delhi, India",
+            "description": "• Managed database of 480+ micro small and medium enterprises with recurrent contactswith CDOs, MDs at MSME ministries and CFCs• Analysed 32 different clusters spanning 14 states across India and covering variety ofsectors such as Pharma, Clothing, Footwear etc• Developed ANSOFF matrix and Export Score matrix for accessingthe growth potentialand export potential respectively of the CFCs• Used A/B testing to design and analyze the best format for generating qualitative andquantitative response data",
+            "description_html": "• Managed database of 480+ micro small and medium enterprises with recurrent contactswith CDOs, MDs at MSME ministries and CFCs• Analysed 32 different clusters spanning 14 states across India and covering variety ofsectors such as Pharma, Clothing, Footwear etc• Developed ANSOFF matrix and Export Score matrix for accessingthe growth potentialand export potential respectively of the CFCs• Used A/B testing to design and analyze the best format for generating qualitative andquantitative response data",
+            "duration": "Nov 2021 Jan 2022 3 months",
+            "start_date": "Nov 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "3 months",
+            "company": "NITI Aayog",
+            "company_id": "nitiaayog",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Startup Consultant",
+            "description_html": null,
+            "duration": "Jul 2021 Nov 2021 5 months",
+            "start_date": "Jul 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "5 months",
+            "company": "HeadStart RMSOEE Student Cell, IIT Kharagpur",
+            "company_id": "headstart-rmsoee-student-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analytics Intern",
+            "description": "• Implemented demand forecasting models, improving data forecast and accuracy by 45% • Utilized web scraping techniques to which helped to download public data, including 10,000 company descriptions and quotes, resulting in 50% increase in research efficiency",
+            "description_html": "• Implemented demand forecasting models, improving data forecast and accuracy by 45% • Utilized web scraping techniques to which helped to download public data, including 10,000 company descriptions and quotes, resulting in 50% increase in research efficiency <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Branding and Relations Cell IIT Kharagpur",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "1 year 6 months",
+            "positions": [
+                {
+                    "subtitle": "Branding and Relations Cell IIT Kharagpur",
+                    "meta": "Apr 2019 - Jan 2020 10 months",
+                    "description": "-Successfully covered Illumination, the unique culture of celebrating Diwali in IIT Kharagpur in various national news channels including Doordarshan, AAJ-Tak, CNN-IBN and various other news channels.-Played a pivotal role in organizing Foundation Program on the occassion of foundation day of IIT KGP.-Conducted a benchmark analysis about the QS ranking of top universities and suggested changes for the betterment of the institute.-Organized a Counselling Forum (online platform) for the students aspiring to join various engineering colleges which saw a participation of more than 13,000 students from all over India. -Organized main event of BARC called YIP(Young Innovator's Program) which is an all india level competition for school students to showcase their scientific abilities.",
+                    "duration": "Apr 2019 Jan 2020 10 months",
+                    "start_date": "Apr 2019",
+                    "end_date": "Jan 2020",
+                    "duration_short": "10 months",
+                    "title": "Student Member",
+                    "description_html": "-Successfully covered Illumination, the unique culture of celebrating Diwali in IIT Kharagpur in various national news channels including Doordarshan, AAJ-Tak, CNN-IBN and various other news channels.<br><br>-Played a pivotal role in organizing Foundation Program on the occassion of foundation day of IIT KGP.<br><br>-Conducted a benchmark analysis about the QS ranking of top universities and suggested changes for the betterment of the institute.<br><br>-Organized a Counselling Forum (online platform) for the students aspiring to join various engineering colleges which saw a participation of more than 13,000 students from all over India. -Organized main event of BARC called YIP(Young Innovator's Program) which is an all india level competition for school students to showcase their scientific abilities."
+                },
+                {
+                    "subtitle": "Branding and Relations Cell IIT Kharagpur",
+                    "meta": "Aug 2018 - Apr 2019 9 months",
+                    "description": "Designed the Front-end website for the YIP 2019.",
+                    "duration": "Aug 2018 Apr 2019 9 months",
+                    "start_date": "Aug 2018",
+                    "end_date": "Apr 2019",
+                    "duration_short": "9 months",
+                    "title": "Associate web developer",
+                    "description_html": "Designed the Front-end website for the YIP 2019. <!---->"
+                }
+            ],
+            "company": "Branding and Relations Cell IIT Kharagpur",
+            "company_id": "brandingandrelationscell",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Junior Executive",
+            "location": "Khargon Area, India",
+            "description_html": null,
+            "duration": "Aug 2018 Feb 2019 7 months",
+            "start_date": "Aug 2018",
+            "end_date": "Feb 2019",
+            "duration_short": "7 months",
+            "company": "Gopali Youth Welfare Society",
+            "company_id": "gopali-youth-welfare-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Akash Dusane",
+            "about": "Société Générale | IIT Kharagpur '23",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Syeda M.",
+            "about": "Software Developer",
+            "location": "Karnataka, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Mahatme",
+            "about": "Investment Banking at BDO | IIT Kharagpur | CFA L1 | FRM P1",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "BHARATH NALLA",
+            "about": "Senior Software Engineer at Capgemini",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Soumyajit Chakraborty",
+            "about": "Engineer at TSMC (Hsinchu, Taiwan) | MRM Intern Credit Suisse | Mentor @AlgoZenith | Mathematics and Computing | IIT KGP | 2023",
+            "location": "Hsinchu City"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitin Baghel",
+            "about": "SDE @Navi • IIT KGP '23 • Google Kickstart #314 • Expert @Codeforces",
+            "location": "Gwalior"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh Singh C.",
+            "about": null,
+            "location": "Gwalior"
+        },
+        {
+            "profile_link": "",
+            "name": "Gunjan Chakraborty",
+            "about": "IT Analyst @TCS | Linux Administrator, Infrastructure Engineering, AWS",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Brahmjot Singh",
+            "about": "Vice President, Technology Students' Gymkhana 2022-23",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Rajdev",
+            "about": "Quantitative Researcher | Machine Learning | Derivative Strategies | IIT Kharagpur",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Int. MSc - Master of Science",
+            "field": "Economics",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Disha Delphi Public School",
+            "degree": "11-12",
+            "field": "Mathematics",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kids Kingdom Public School",
+            "degree": "10",
+            "field": "school",
+            "start_year": "2011",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": [
+        "LinkedIn User “Akash is a highly intelligent, hard working and pragmatic problem solver who is able to understand and analyze data sets from both a micro-level and broad perspective. He is a good listener and a motivated team player and it has been a pleasure having him on the team.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Disaster and Humanitarian Relief",
+            "duration": "Jul 2018 - Present · 6 years 6 months",
+            "duration_short": "6 years 6 months",
+            "end_date": "Present",
+            "start_date": "Jul 2018",
+            "subtitle": "National Cadet Corps",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 1335.0,
+    "connections": 500.0,
+    "current_company_company_id": "standardchartered",
+    "current_company_name": "Standard Chartered Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Midnapore Sadar",
+    "linkedin_id": "akash-mudhol-9b8589174",
+    "activity": [
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "जो नेता नारे नहीं, बल्कि समाधान देते हैं, वही सच्चे नेता होते हैं। डॉ. मनमोहन सिंह जी ने देश को धर्म और जाति में बांटने के बजाय उसके उत्थान के लिए…",
+            "img": "",
+            "id": "7278299340081684483"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "Set yourself apart in sustainable real estate with a credential that demonstrates your ESG expertise and positions you for success in 2025.",
+            "img": "",
+            "id": "7270725579354636288"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "When we set out on the #BeatBadCholesterol campaign with Novartis India and The Times Of India, we envisioned an impactful awareness drive. But what…",
+            "img": "",
+            "id": "7270075779734982656"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "Recently, I had the privilege of giving a 2-hour lecture to the esteemed members of the Rotaract Club of New Taipei Glitter Star on the theme…",
+            "img": "",
+            "id": "7266429180693667841"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "Had a super-productive day at Futurefactory and Gigafactory yesterday. While the Futurefactory is scaling up with motorcycles coming soon…",
+            "img": "",
+            "id": "7262795695227580416"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "A slightly late post - But I'm glad to have been a part of the Data Analytics Congress & Awards, conducted in September 2024 by EIILM Kolkata & World…",
+            "img": "",
+            "id": "7253669594891001856"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "It was amazing to meet Mr. Mike Bloomberg at our office. What a clarity of thoughts & vision at his age!",
+            "img": "",
+            "id": "7249786351947059200"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "I'm thrilled to announce that after graduating from IIT Kharagpur, I've joined Dream11 as a Software Development Engineer 1 🚀 Ready to dive into the…",
+            "img": "",
+            "id": "7215646026487988224"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "I am delighted to share my latest article in businessline, which delves into the benefits and challenges of managing foreign debt My journey into…",
+            "img": "",
+            "id": "7210223750363893760"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "There is no FINISH! Backyard is a crazy race: you start on the hour every hour & complete a 4.167 mile trail route in that time. The concept may be…",
+            "img": "",
+            "id": "7201325300167647232"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "Dear hiring team, I am looking for the finance, Accountant and accounts payable and receivable jobs opportunity to join the organisation such as…",
+            "img": "",
+            "id": "7193325882382368770"
+        },
+        {
+            "interaction": "Liked by Akash Mudhol",
+            "link": "",
+            "title": "I'm thrilled to announce the release of two new evaluation frameworks that aim to advance the development and assessment of large language models…",
+            "img": "",
+            "id": "7172898699918950400"
+        }
+    ],
+    "linkedin_num_id": 694175324.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

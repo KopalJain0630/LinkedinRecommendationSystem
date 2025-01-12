@@ -1,0 +1,194 @@
+{
+    "city": "Lucknow, Uttar Pradesh, India",
+    "position": "Asst. Risk Consulting Associate| Moody's Analytics | Statistics Major | Gold Medallist|R,SQL,Excel",
+    "experience": [
+        {
+            "title": "Asst. Risk Consulting Associate",
+            "location": "Gurugram, Haryana, India",
+            "description": "The key projects include:* PPT Automation: Automated a PPT including different types of editable graphs and tables using R and created an app using R Shiny. I also incorporated interpretation of graphs using exhaustive prompting using Copilot.* App Development: Developed applications for scorecard summary from different portfolios in R Shiny. They included several automated features like alerts on errors and several check and visual features.",
+            "description_html": "The key projects include:* PPT Automation: Automated a PPT including different types of editable graphs and tables using R and created an app using R Shiny. I also incorporated interpretation of graphs using exhaustive prompting using Copilot.* App Development: Developed applications for scorecard summary from different portfolios in R Shiny. They included several automated features like alerts on errors and several check and visual features. <!---->",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Moody's Analytics",
+            "company_id": "moodys",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Managed Network Expert-Probability and Statistics",
+            "location": "New Delhi, Delhi, India",
+            "description": "Responsible for solving  probability and statistics  problems in detail for better understanding of students.",
+            "description_html": "Responsible for solving probability and statistics problems in detail for better understanding of students. <!---->",
+            "duration": "Sep 2020 Jun 2023 2 years 10 months",
+            "start_date": "Sep 2020",
+            "end_date": "Jun 2023",
+            "duration_short": "2 years 10 months",
+            "company": "Chegg Inc.",
+            "company_id": "chegg-inc-",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "I worked on automation of output files for Economic Capital estimation for a bank.I utilized tools and techniques in R to generate pivot tables in excel .The process of automation involved creation of pivot tables for different types of bank portfolios using dplyr package and involved usage of openxlsx package in R to get the data tables created in R on an Excel worksheet in different tabs keeping in mind the formatting of the tables as demanded by the client.The project also involved automation of scenario files like baseline scenario, stress scenarios . I utilized the same code which I developed for portfolio files automation with minimal changes in code.",
+            "description_html": "I worked on automation of output files for Economic Capital estimation for a bank.I utilized tools and techniques in R to generate pivot tables in excel .The process of automation involved creation of pivot tables for different types of bank portfolios using dplyr package and involved usage of openxlsx package in R to get the data tables created in R on an Excel worksheet in different tabs keeping in mind the formatting of the tables as demanded by the client.The project also involved automation of scenario files like baseline scenario, stress scenarios . I utilized the same code which I developed for portfolio files automation with minimal changes in code.",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "Moody's Analytics",
+            "company_id": "moodys",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science and Business Analytics",
+            "description_html": null,
+            "duration": "Dec 2021 Dec 2021 1 month",
+            "start_date": "Dec 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "1 month",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Human Resources Internship",
+            "description": "As a human resource intern at crazy for success , I had to build up a linkedin network and communicate with people .",
+            "description_html": "As a human resource intern at crazy for success , I had to build up a linkedin network and communicate with people . <!---->",
+            "duration": "Mar 2021 Apr 2021 2 months",
+            "start_date": "Mar 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "2 months",
+            "company": "Crazy for Success Foundation",
+            "company_id": "crazy-for-success",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Department of Statistics, University of Delhi",
+            "degree": "Master's degree",
+            "field": "Statistics",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi University",
+            "degree": "BSc - Bachelor of Science",
+            "field": "Statistics",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2021",
+            "description": "Ramjas college",
+            "description_html": "Ramjas college <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "City Montessori School",
+            "degree": "high school",
+            "field": "10th-94%, 12th -96%",
+            "url": "",
+            "start_year": "2004",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "HackerRank",
+            "title": "HackerRank sql(basic) certificate"
+        },
+        {
+            "meta": "Issued Nov 2020Credential ID 5NLPCZQ5FZ7YSee credential",
+            "subtitle": "Coursera",
+            "title": "introduction to time series"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "SAS",
+            "title": "Statistical Thinking and Problem Solving"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "IBM",
+            "title": "Data Visualization with R"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID e2cda881cb8a4b6e8028367be265e43bSee credential",
+            "subtitle": "Cognitive Class",
+            "title": "Data Visualization with R"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID UC- 9146369e-50ce-42f5-b58c-95c2551fc9f0See credential",
+            "subtitle": "Udemy",
+            "title": "Google Data Studio A -Z visualization and Dashboards"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "IBM",
+            "title": "R Essentials"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 07f53999e41d48a6802dfa142e6d090bSee credential",
+            "subtitle": "Cognitive Class",
+            "title": "R101"
+        },
+        {
+            "meta": "Issued May 2020Credential ID UC-a96024a9-ca74-4750-bbf4-e9f7b36df1e9See credential",
+            "subtitle": "Udemy",
+            "title": "sql masterclass: sql for data science"
+        },
+        {
+            "meta": "Issued Jun 2020Expires Jun 2023See credential",
+            "subtitle": "TestDome",
+            "title": "Excel"
+        },
+        {
+            "meta": "Issued Jun 2020Expires Jun 2023",
+            "subtitle": "Google",
+            "title": "introduction to data studio"
+        },
+        {
+            "subtitle": "UPTEC",
+            "title": "data analytics in r"
+        }
+    ],
+    "current_company_name": "Moody's Analytics",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"IPL ANALYSIS(2008-2020)\",\"description\":\"The aim of this project is to automate the team and individual players records in IPL (2008-2020), so that we can retrieve their stats by just calling the required functions.The Key functions are :1)team : It is a function which returns all statistics about a team including top run scorers,most destructive batsman,top 4 hitters,top 6 hitters,top wicket takers,top strike bowlers,most economical bowlers,the poor bowlers,Top run scorers by season,Top wicket takers by season .We also get to know about the impact players for each team.over_analysis : It returns the top run scorers for each over taking team name as parameter .position_runs : It returns the top run scorers for each position taking team name as parameter .tvt : It returns the analysis of one team against other, It involves two functions: *batting_vsteam : It returns the batting records versus a bowling team . *bowling_vsteam : It returns the bowling records versus a batting team .2)batter_perf : It takes the name of batter as input and returns all statistics about a batter. It includes several functions .3)bowler_perf : It takes the name of bowler as input and returns all statistics about a bowler. It includes several functions\"},{\"title\":\"IPL PROJECT DEPLOYMENT USING R SHINY\",\"description\":\"This is continuation of IPL Analysis project and in this we have deployed the R code in web using R Shiny.We utilized R Shiny to deploy the project on a web app .Using the tools of shiny we were able to deploy the project and the project is https://chandranshujain03.shinyapps.io/Ipl_2/\"}]",
+    "honors_and_awards": [
+        {
+            "title": "First position in M.Sc. Statistics in Delhi University",
+            "publication": "Delhi University",
+            "date": "2024-02-01T00:00:00.000Z",
+            "description": "I secured rank 1 in Msc Statistics in Delhi University."
+        },
+        {
+            "title": "First position in B.Sc. (H) Statistics in Ramjas college (2018-2021)",
+            "publication": "Ramjas College,University of Delhi",
+            "date": "2022-07-01T00:00:00.000Z",
+            "description": "Received merit certificate and trophy for being the topper of batch of department of statistics for 2018-2021."
+        },
+        {
+            "title": "First position in BSc (H) Statistics ,Ramjas College (2019-2020)",
+            "publication": "Ramjas College,University of Delhi",
+            "date": "2022-05-01T00:00:00.000Z",
+            "description": "Received Certificate of Merit for being topper of batch of B.Sc. (H) Statistics for session 2019-2020"
+        }
+    ]
+}

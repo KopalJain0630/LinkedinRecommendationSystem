@@ -1,0 +1,65 @@
+{
+    "city": "Kota, Rajasthan, India",
+    "position": "Executive Engineer at Torrent Gas Pvt Ltd, Btech in mechanical engineering from RTU, Kota.",
+    "experience": [
+        {
+            "title": "Executive Engineer",
+            "location": "Kota, Rajasthan, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Torrent Gas",
+            "company_id": "torrent-gas-private-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Rajasthan Technical University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Manu Public Sr Sec School , Ganesh Nagar Kota",
+            "degree": "12 Standard",
+            "field": "Sciene , Maths",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": "RBSE",
+            "description_html": "RBSE <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID R3Y2F42F7Z3ASee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Relational Database and SQL"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID Y8AT7PUGKL7TSee credential",
+            "subtitle": "Coursera",
+            "title": "Mechanics of Materials I: Fundamentals of Stress & Strain and Axial Loading"
+        },
+        {
+            "meta": "Issued May 2020Credential ID VHJCMBRYY6A4See credential",
+            "subtitle": "University of Michigan",
+            "title": "Programming for Everybody With Python"
+        }
+    ],
+    "current_company_name": "Torrent Gas",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

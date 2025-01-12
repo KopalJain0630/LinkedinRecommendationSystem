@@ -1,0 +1,52 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018-07",
+            "end_year": "2022-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2017-04",
+            "end_year": "2018-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2015-04",
+            "end_year": "2016-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"EC21101\",\"title\":\"Basic Electronics\"},{\"subtitle\":\"EC29001\",\"title\":\"Basic Electronics Lab\"},{\"subtitle\":\"HS20001\",\"title\":\"Economics\"},{\"subtitle\":\"EE11001\",\"title\":\"Electrical Technology\"},{\"subtitle\":\"EE19001\",\"title\":\"Electrical Technology lab\"},{\"subtitle\":\"CE13001\",\"title\":\"Engineering Drawing and Computer Graphics\"},{\"subtitle\":\"MA10001\",\"title\":\"Mathematics-I\"},{\"subtitle\":\"MA10002\",\"title\":\"Mathematics-II\"},{\"subtitle\":\"MA20102\",\"title\":\"Numerical Solution of Ordinary and PDE\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"CS19101\",\"title\":\"Programming and Data Structures lab\"},{\"subtitle\":\"MA20101\",\"title\":\"Transform Calculus\"}]",
+    "certifications": [
+        {
+            "meta": "Issued May 2020Credential ID b53fc0f647fd41048951c90075f81dbbSee credential",
+            "subtitle": "NVIDIA",
+            "title": "NVIDIA DLI Certificate – Fundamentals of Deep Learning for Computer Vision"
+        }
+    ],
+    "current_company_name": "Zomato",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Whale detection using computer vision\",\"start_date\":\"May 2020\",\"end_date\":\"May 2020\",\"description\":\"This is an Image classification project which uses computer vision techniques for the detection of a whale in the sea. The model was built using convolutional neural networks based on CAFFE framework and AlexNet architecture. This project uses DIGITS as it's base platform. This project was used for final evaluation and assessment in the course 'FUNDAMENTALS OF DEEP LEARNING AND COMPUTER VISION' by \\\"NVIDIA DEEP LEARNING INSTITUTE\\\". The model has an accuracy of 99% and it performed accurately in the final assessment.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "ITC Interrobang Case Study Season 11",
+            "publication": "ITC Ltd.",
+            "date": "2021-11-01T00:00:00.000Z",
+            "description": "Winning Team from IIT Kharagpur in the ITC Interrobang Case Study Season 11"
+        }
+    ]
+}

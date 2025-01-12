@@ -1,0 +1,236 @@
+{
+    "id": "sageer98",
+    "name": "Syed Sageer H.",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "Software Developer | Java Spring Boot Developer",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Lenskart.com",
+        "company_id": "lenskart-com",
+        "title": "Software Developer | Java Spring Boot Developer"
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Mar 2024 - Present 10 months",
+            "start_date": "Mar 2024",
+            "end_date": "Present",
+            "duration_short": "10 months",
+            "company": "Lenskart.com",
+            "company_id": "lenskart-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "1.Specializing in the development of efficient and scalable solutions using Java Spring Boot, contribute to creating high-performance applications tailored to meet complex business needs.2.Led the technical team in designing and implementing the Inbound module for the Product Warehouse Management System (WMS). This involved defining the architecture, setting development standards, and overseeing the coding process to ensure alignment with project goals and timelines.3.Demonstrated proficiency in utilizing a range of advanced technologies, including Java Persistence API (JPA) for database interaction, RabbitMQ for message brokering, Redis for caching, MSSQL for database management, and Junit for comprehensive unit testing.4.Adept at creating comprehensive API documentation, Facilitated seamless integration and usage of the developed APIs. My documentation practices ensure that internal and external developers can easily understand and implement the APIs, reducing integration time and effort.5.Demonstrated expertise in system design, focusing on creating robust and adaptable software architectures. My approach to system design ensures that the software can handle evolving business requirements and remain flexible to future enhancements.6.Successfully deployed the same codebase across four distinct business domains, highlighting the adaptability and versatility of the solutions I develop. This achievement underscores my ability to create reusable and scalable software components that can serve diverse operational needs.7.Committed to delivering high-quality software solutions that drive efficiency and productivity. I focus on ensuring that every piece of software I develop meets rigorous quality standards, contributes to business success, and enhances overall operational efficiency.",
+            "description_html": "1.Specializing in the development of efficient and scalable solutions using Java Spring Boot, contribute to creating high-performance applications tailored to meet complex business needs.2.Led the technical team in designing and implementing the Inbound module for the Product Warehouse Management System (WMS). This involved defining the architecture, setting development standards, and overseeing the coding process to ensure alignment with project goals and timelines.3.Demonstrated proficiency in utilizing a range of advanced technologies, including Java Persistence API (JPA) for database interaction, RabbitMQ for message brokering, Redis for caching, MSSQL for database management, and Junit for comprehensive unit testing.4.Adept at creating comprehensive API documentation, Facilitated seamless integration and usage of the developed APIs. My documentation practices ensure that internal and external developers can easily understand and implement the APIs, reducing integration time and effort.5.Demonstrated expertise in system design, focusing on creating robust and adaptable software architectures. My approach to system design ensures that the software can handle evolving business requirements and remain flexible to future enhancements.6.Successfully deployed the same codebase across four distinct business domains, highlighting the adaptability and versatility of the solutions I develop. This achievement underscores my ability to create reusable and scalable software components that can serve diverse operational needs.7.Committed to delivering high-quality software solutions that drive efficiency and productivity. I focus on ensuring that every piece of software I develop meets rigorous quality standards, contributes to business success, and enhances overall operational efficiency.",
+            "duration": "Aug 2021 Mar 2024 2 years 8 months",
+            "start_date": "Aug 2021",
+            "end_date": "Mar 2024",
+            "duration_short": "2 years 8 months",
+            "company": "Addverb",
+            "company_id": "addverb",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Kolkata, West Bengal, India",
+            "description": "1.Assisted in the development and implementation of advanced telecommunication solutions, focusing on enhancing network efficiency and reliability. Participated in designing intelligent network architectures to support scalable communication services.2.Supported the management of CCS#7 signaling systems, ensuring seamless interoperability. Gained hands-on experience with the latest industry switches, contributing to improved network capabilities and reduced latency.3.Contributed to the deployment and maintenance of fiber-optic communication networks, aiding in increasing data transmission speed and bandwidth. Assisted in testing and ensuring minimal signal loss.4.Learned and applied knowledge of Plesiochronous Digital Hierarchy (PDH), Synchronous Digital Hierarchy (SDH), and Dense Wavelength Division Multiplexing (DWDM) technologies. Assisted in enhancing data transmission efficiency and network capacity.5.Gained practical experience in the implementation and maintenance of GSM and CDMA mobile communication networks. Contributed to the deployment of broadband technology solutions, improving high-speed internet access and mobile services.6.Participated in the transition to Next Generation Networks (NGN), helping to integrate IP-based services and improve network flexibility. Assisted in developing strategies for seamless migration and enhanced service delivery.",
+            "description_html": "1.Assisted in the development and implementation of advanced telecommunication solutions, focusing on enhancing network efficiency and reliability. Participated in designing intelligent network architectures to support scalable communication services.2.Supported the management of CCS#7 signaling systems, ensuring seamless interoperability. Gained hands-on experience with the latest industry switches, contributing to improved network capabilities and reduced latency.3.Contributed to the deployment and maintenance of fiber-optic communication networks, aiding in increasing data transmission speed and bandwidth. Assisted in testing and ensuring minimal signal loss.4.Learned and applied knowledge of Plesiochronous Digital Hierarchy (PDH), Synchronous Digital Hierarchy (SDH), and Dense Wavelength Division Multiplexing (DWDM) technologies. Assisted in enhancing data transmission efficiency and network capacity.5.Gained practical experience in the implementation and maintenance of GSM and CDMA mobile communication networks. Contributed to the deployment of broadband technology solutions, improving high-speed internet access and mobile services.6.Participated in the transition to Next Generation Networks (NGN), helping to integrate IP-based services and improve network flexibility. Assisted in developing strategies for seamless migration and enhanced service delivery.",
+            "duration": "Jun 2019 Jul 2019 2 months",
+            "start_date": "Jun 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "2 months",
+            "company": "BSNL LTD",
+            "company_id": "bsnl-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Industrial Trainee",
+            "location": "Hyderabad, Telangana, India",
+            "description": "1.Gained hands-on experience with Programmable Logic Controllers (PLCs), learning to program and implement automated control systems for industrial machinery. This included understanding ladder logic, troubleshooting, and optimizing PLC operations.2.Acquired practical knowledge of Computer Numerical Control (CNC) machines, focusing on operation, programming, and maintenance. Developed skills in CNC coding, machine setup, and performing routine maintenance to ensure optimal performance.3.Learned how to integrate PLCs with CNC machines and other industrial equipment to create cohesive and efficient automation systems. This involved understanding communication protocols and system synchronization.4.Assisted in creating technical documentation for PLC and CNC systems, including user manuals and maintenance guides, to support operational efficiency and ease of use.5.Collaborated with experienced engineers on various automation projects, applying theoretical knowledge to real-world scenarios and gaining valuable insights into industrial automation processes.",
+            "description_html": "1.Gained hands-on experience with Programmable Logic Controllers (PLCs), learning to program and implement automated control systems for industrial machinery. This included understanding ladder logic, troubleshooting, and optimizing PLC operations.2.Acquired practical knowledge of Computer Numerical Control (CNC) machines, focusing on operation, programming, and maintenance. Developed skills in CNC coding, machine setup, and performing routine maintenance to ensure optimal performance.3.Learned how to integrate PLCs with CNC machines and other industrial equipment to create cohesive and efficient automation systems. This involved understanding communication protocols and system synchronization.4.Assisted in creating technical documentation for PLC and CNC systems, including user manuals and maintenance guides, to support operational efficiency and ease of use.5.Collaborated with experienced engineers on various automation projects, applying theoretical knowledge to real-world scenarios and gaining valuable insights into industrial automation processes.",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "Bharat Heavy Electricals Limited",
+            "company_id": "bhel",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Riddhi Sahu",
+            "about": "Software Engineer 2 @ Blue Yonder | Ex - TCS | Back-End Developer",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Mandal",
+            "about": "Wireless Technologies",
+            "location": "Hamburg"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranjal jhala",
+            "about": "B.Tech Computer Science| Python Developer | Data Science Enthusiast",
+            "location": "Melbourne, VIC"
+        },
+        {
+            "profile_link": "",
+            "name": "Manasa Gavini",
+            "about": "Azure DevOps Engineer at Deloitte India | 3 x Microsoft Azure Certified",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sreehitha Chowdary Meduri",
+            "about": null,
+            "location": "Redmond, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreya Basu",
+            "about": "Associate Consultant 1",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Surisha Jain",
+            "about": "F&O Trader | Investor Quest Global technologies • Medicaps University Indore ,AB Road (Rau)",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Chaitrali Hunnur",
+            "about": null,
+            "location": "Nasik"
+        },
+        {
+            "profile_link": "",
+            "name": "Adarsh Manoj",
+            "about": "M.Sc in Media Technology at TU Ilmenau",
+            "location": "Ilmenau"
+        },
+        {
+            "profile_link": "",
+            "name": "Jency Kathrotiya",
+            "about": "Senior Consultant at Staunchsys IT Services Pvt. Ltd.",
+            "location": "Ahmedabad"
+        }
+    ],
+    "educations_details": "National Institute of Technology Durgapur",
+    "education": [
+        {
+            "title": "National Institute of Technology Durgapur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: NCC",
+            "description_html": "Activities and Societies: NCC",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jadavpur University, Kolkata",
+            "degree": "Bachelor's degree",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya vidyalaya",
+            "degree": "Junior High/Intermediate/Middle School Education and Teaching",
+            "field": "92.2%",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": "Activities and Societies: JNMO, National Children Science congress, Social science exhibitions",
+            "description_html": "Activities and Societies: JNMO, National Children Science congress, Social science exhibitions",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya vidyalaya",
+            "degree": "Junior High/Intermediate/Middle School Education and Teaching",
+            "field": "CGPA 10",
+            "url": "",
+            "start_year": "2004",
+            "end_year": "2014",
+            "description": "Activities and Societies: Drama, Debate, Quizzing, Scouting, National Children science Congress",
+            "description_html": "Activities and Societies: Drama, Debate, Quizzing, Scouting, National Children science Congress",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Bengali "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Civil Rights and Social Action",
+            "duration": "Jul 2013 - Jul 2016 · 3 years 1 month",
+            "duration_short": "3 years 1 month",
+            "end_date": "Jul 2016",
+            "info": "Succesfully completed Tritiya Sopan testing camp held at KV Bengdubi.",
+            "start_date": "Jul 2013",
+            "subtitle": "Sporting Scout and Girl Guides",
+            "title": "Member"
+        },
+        {
+            "cause": "Social Services",
+            "duration": "Apr 2017 - Apr 2018 · 1 year 1 month",
+            "duration_short": "1 year 1 month",
+            "end_date": "Apr 2018",
+            "start_date": "Apr 2017",
+            "subtitle": "National Cadet Corps",
+            "title": "Member"
+        }
+    ],
+    "followers": 5771.0,
+    "connections": 500.0,
+    "current_company_company_id": "lenskart-com",
+    "current_company_name": "Lenskart.com",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "sageer98",
+    "activity": null,
+    "linkedin_num_id": 346968415.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

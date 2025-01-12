@@ -1,0 +1,91 @@
+{
+    "city": "Eluru, Andhra Pradesh, India",
+    "position": "Qualcomm | Ex-APT | IIT KGP'24",
+    "experience": [
+        {
+            "title": "NOC Design Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Qualcomm",
+            "company_id": "qualcomm",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Design Verification Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Addition of Verilator Support for the existing Verification Tool Flow",
+            "description_html": "Addition of Verilator Support for the existing Verification Tool Flow <!---->",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "APT Portfolio Private Limited",
+            "company_id": "a.p.t.-portfolio-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech + M.Tech)",
+            "field": "Electronics and Electrical Communication Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "CGPA : 9.86/10 Perfect SGPA of 10 in 6 continuous semesters of the academic sessions 2021-24 due to exceptional performance. M.Tech Spl. in Vision and Intelligent Systems Minor in Computer Science and Engineering Micro Spl. in Artificial Intelligence and Applications",
+            "description_html": "CGPA : 9.86/10Perfect SGPA of 10 in 6 continuous semesters of the academic sessions 2021-24 due to exceptional performance.M.Tech Spl. in Vision and Intelligent SystemsMinor in Computer Science and EngineeringMicro Spl. in Artificial Intelligence and Applications <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Chaitanya College of Education",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": "CGPA : 10/10 Percentage : 98.4% Board of Intermediate Education, Andhra Pradesh - BIEAP",
+            "description_html": "CGPA : 10/10Percentage : 98.4%Board of Intermediate Education, Andhra Pradesh - BIEAP <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Dr. K.K.R's Gowtham School",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": "GPA : 10/10 Board of Secondary Education, Andhra Pradesh - BSEAP",
+            "description_html": "GPA : 10/10Board of Secondary Education, Andhra Pradesh - BSEAP <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"EC31001 EC39001\",\"title\":\"Analog Communication\"},{\"subtitle\":\"EC21008 EC29008\",\"title\":\"Analog Electronics\"},{\"subtitle\":\"AI61005 CS60045\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"CS31702 EC60013\",\"title\":\"Computer Architecture\"},{\"subtitle\":\"EC60338 EC69210\",\"title\":\"Computer Vision\"},{\"subtitle\":\"EC21210 EE31009\",\"title\":\"Control Systems\"},{\"subtitle\":\"CS21003 CS29003 EC60011\",\"title\":\"Data Structures and Algorithms\"},{\"subtitle\":\"EC60334 EC69210\",\"title\":\"Deep Learning\"},{\"subtitle\":\"EC31002 EC39002\",\"title\":\"Digital Communication\"},{\"subtitle\":\"EC31003 EC39003\",\"title\":\"Digital Electronics\"},{\"subtitle\":\"EC31006 EC49001\",\"title\":\"Embedded Systems\"},{\"subtitle\":\"EC61203\",\"title\":\"Foundations of Learning Theory\"},{\"subtitle\":\"AI60201\",\"title\":\"Generative AI\"},{\"subtitle\":\"CS40019 EC61201 EC69211\",\"title\":\"Image and Video Processing\"},{\"subtitle\":\"CS60050 EC61211 AI42001\",\"title\":\"Machine Learning\"},{\"subtitle\":\"CS31702\",\"title\":\"Operating Systems\"},{\"subtitle\":\"MA20106 AI61004\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"EC31005 EC39005\",\"title\":\"RF and Microwave Engineering\"},{\"subtitle\":\"EC61471\",\"title\":\"Reinforcement Learning\"},{\"subtitle\":\"EC31008 EC39006 EC21004\",\"title\":\"Signal Processing\"},{\"subtitle\":\"EC31004 EC39004\",\"title\":\"VLSI Engineering\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "Indian Institute of Technology, Kharagpur",
+            "title": "Approaches to DSP Architecture Optimization"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID HVRG6PLS937ESee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 2H76J9ZDTXA7See credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID K2KLTQDU22BTSee credential",
+            "subtitle": "Coursera",
+            "title": "Python for Everybody Specialization"
+        }
+    ],
+    "current_company_name": "Qualcomm",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Information Geometric Approaches to Parameter Estimation in Latent Variable Models\",\"start_date\":\"Aug 2023\",\"end_date\":\"Apr 2024\",\"description\":\"Concepts from Differential Geometry made use of to study statistical manifolds and solve classical problems in the Information Geometric realm to arrive at interesting results.\"},{\"title\":\"Traffic Network Flow Prediction\",\"start_date\":\"Aug 2022\",\"end_date\":\"Apr 2023\",\"description\":\"Designed various ML models to deal with the spatio-temporal correlations as well as short term/long term prediction.\"},{\"title\":\"Design of 8 bit Digital to Analog Converter DAC\",\"start_date\":\"May 2021\",\"end_date\":\"Jul 2021\",\"description\":\"Various current mirrors used to design an 8 bit DAC and also implemented the current steering version to improve the performance.\"}]",
+    "honors_and_awards": null
+}

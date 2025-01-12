@@ -1,0 +1,353 @@
+{
+    "id": "yashdl",
+    "name": "Yash Lakade",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Curefoods | IIT Bombay | CFA L2 candidate",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Curefoods",
+        "company_id": "curefoods",
+        "title": "Curefoods | IIT Bombay | CFA L2 candidate"
+    },
+    "experience": [
+        {
+            "title": "Project Lead",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Sep 2022 - Present 2 years 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 4 months",
+            "company": "Curefoods",
+            "company_id": "curefoods",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tata Projects",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Tata Projects",
+                    "meta": "Oct 2021 - Sep 2022 1 year",
+                    "description": "Working at the Corporate office of International Business segment. Tracking and analyzing global markets, primarily Africa, for projects in Railways and Power Transmission and Distribution sectorPitching value propositions to various governments; devising business expansion plans and sustainability roadmapsIdentifying industry trends with detailed studies of select projects in market, both planned and completed",
+                    "duration": "Oct 2021 Sep 2022 1 year",
+                    "start_date": "Oct 2021",
+                    "end_date": "Sep 2022",
+                    "duration_short": "1 year",
+                    "title": "Business Development Manager",
+                    "description_html": "Working at the Corporate office of International Business segment. Tracking and analyzing global markets, primarily Africa, for projects in Railways and Power Transmission and Distribution sector<br><br>Pitching value propositions to various governments; devising business expansion plans and sustainability roadmaps<br><br>Identifying industry trends with detailed studies of select projects in market, both planned and completed <!---->"
+                },
+                {
+                    "subtitle": "Tata Projects",
+                    "meta": "Oct 2020 - Sep 2021 1 year",
+                    "description": "Working with the team of Pune underground metro to gain comprehensive overview of project functioning, from handling project finances, planning work schedule to execution work. Major focus on commercial aspects, analyzing various cost reports and subcontracts to resolve emerging challenges. Forecasting work schedule changes on AOP, cashflow and P&L statement.",
+                    "duration": "Oct 2020 Sep 2021 1 year",
+                    "start_date": "Oct 2020",
+                    "end_date": "Sep 2021",
+                    "duration_short": "1 year",
+                    "title": "Executive Trainee",
+                    "description_html": "Working with the team of Pune underground metro to gain comprehensive overview of project functioning, from handling project finances, planning work schedule to execution work. <br><br>Major focus on commercial aspects, analyzing various cost reports and subcontracts to resolve emerging challenges. Forecasting work schedule changes on AOP, cashflow and P&amp;L statement. <!---->"
+                }
+            ],
+            "company": "Tata Projects",
+            "company_id": "tata-projects",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Junior Member",
+            "location": "Mumbai Area, India",
+            "description": "Sharing Analysis on Regional Economies (ShARE) is a multicultural, non-profit organisation for students that strives to better understand the complexities of socio-economic and business issues.Member of a Global Student Think Thank with 600+ members from over 30 universities across 12 countries.Delegated to Business Strategy network responsible for making propositions and tracking business globally.",
+            "description_html": "Sharing Analysis on Regional Economies (ShARE) is a multicultural, non-profit organisation for students that strives to better understand the complexities of socio-economic and business issues.Member of a Global Student Think Thank with 600+ members from over 30 universities across 12 countries.Delegated to Business Strategy network responsible for making propositions and tracking business globally. <!---->",
+            "duration": "Aug 2017 May 2018 10 months",
+            "start_date": "Aug 2017",
+            "end_date": "May 2018",
+            "duration_short": "10 months",
+            "company": "International Student Organisation - ShARE",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Coordinator",
+            "location": "Mumbai Area, India",
+            "description": "The Entrepreneurship Cell is a non-profit organization run by the students of IIT Bombay that aims at manifesting the latent entrepreneurial spirit of the young students. We at E-Cell hosts various workshops, speaker sessions, innovative games, competitions for aspiring entrepreneurs and support them by providing necessary resources such as seed funding, mentoring, consultancy and networking.Initiatives•E-Summit: The annual flagship event, a networking hub for corporates, professionals and budding entrepreneurs from all across the nation.•Eureka!: Asia's largest B-Plan Competition as recognized by Thomson Reuters.•National Entrepreneurship Challenge(NEC) - Created with the vision to promote entrepreneurship amidst all the campuses in India, National Entrepreneurship Challenge is the first of its kind pan-India competition undertaken by The Entrepreneurship Cell , IIT Bombay.•EnB-Club: This new initiative aims to create an ecosystem for the budding entrepreneurs in the institute.",
+            "description_html": "The Entrepreneurship Cell is a non-profit organization run by the students of IIT Bombay that aims at manifesting the latent entrepreneurial spirit of the young students. We at E-Cell hosts various workshops, speaker sessions, innovative games, competitions for aspiring entrepreneurs and support them by providing necessary resources such as seed funding, mentoring, consultancy and networking.Initiatives•E-Summit: The annual flagship event, a networking hub for corporates, professionals and budding entrepreneurs from all across the nation.•Eureka!: Asia's largest B-Plan Competition as recognized by Thomson Reuters.•National Entrepreneurship Challenge(NEC) - Created with the vision to promote entrepreneurship amidst all the campuses in India, National Entrepreneurship Challenge is the first of its kind pan-India competition undertaken by The Entrepreneurship Cell , IIT Bombay.•EnB-Club: This new initiative aims to create an ecosystem for the budding entrepreneurs in the institute.",
+            "duration": "Aug 2017 Jan 2018 6 months",
+            "start_date": "Aug 2017",
+            "end_date": "Jan 2018",
+            "duration_short": "6 months",
+            "company": "The Entrepreneurship Cell, IIT Bombay",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Coordinator",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "May 2017 Jan 2018 9 months",
+            "start_date": "May 2017",
+            "end_date": "Jan 2018",
+            "duration_short": "9 months",
+            "company": "Mood Indigo IIT Bombay",
+            "company_id": "mood-indigo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Assistant Marketing Manager",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "Jul 2017 Sep 2017 3 months",
+            "start_date": "Jul 2017",
+            "end_date": "Sep 2017",
+            "duration_short": "3 months",
+            "company": "Team Shunya, IIT Bombay",
+            "company_id": "teamshunya-iitb",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sandeep Kumar Das",
+            "about": "SUN PHARMA (PPO) | IIMB PGP'25 | Tata Projects | IIT KGP'19",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishesh Sharma",
+            "about": "Data Scientist | AI/ML | IIT Kanpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Goyal",
+            "about": "Manager at Tata Projects",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Puneet Jain",
+            "about": "Scientific officer, NPCIL",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kunal Gajjar",
+            "about": "Engineer - QS & Contracts",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Srikar Tangudu",
+            "about": "BU Head(DGM) at Flipspaces",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Hemant Kumar",
+            "about": "Product & PMO @AU Bank | IIT Bombay' 22",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pradeep Kumar",
+            "about": "Senior Product Consultant @ EY | Ex-RBL Bank | IIT Bombay",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshil Agrawal",
+            "about": "Mastercard Advisors | IIT Bombay | University of Agder",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Khandare",
+            "about": "American Express | IIT Bombay’23",
+            "location": "Gurugram"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Bombay",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "degree": "Bachelor's degree",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Colorado School of Mines",
+            "degree": "Exchange undergraduate student",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "IIT Home",
+            "degree": "PCM",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4252.0,
+    "connections": 500.0,
+    "current_company_company_id": "curefoods",
+    "current_company_name": "Curefoods",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Design of signal-free Vakola Junction\",\"start_date\":\"Jan 2019\",\"end_date\":\"May 2019\",\"description\":\" Studying the existing traffic movement pattern at Vakola Junction near Mumbai’s domestic airport Proposal of new pattern, devoid of traffic signals, to be implemented by the Mumbai MetropolitanRegion Development Authority (MMRDA) Evaluating the performance of existing and proposed models using VISSIM software\"},{\"title\":\"IoT in Construction Industry\",\"start_date\":\"Feb 2018\",\"end_date\":\"May 2018\",\"description\":\" Worked with an international student team on a project commissioned by the Saint-Gobain Group Researched Europe and US markets for Internet of Things (IoT) applications in construction products,design of buildings and construction management Analysed in detail the technical aspects as well as the business models of the products and services\"}]",
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "yashdl",
+    "activity": [
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "Last year, Indian startups raised ₹10,000 crore in debt financing — Venture Debt is on one of the fastest growing asset classes in India — from ₹100…",
+            "img": "",
+            "id": "7274644034642464768"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "Google ads business empire is on shaky grounds. ROI on ads have dropped from 5x - 5 years ago to 3x - 3 years ago to about 2x- now. Mind you this…",
+            "img": "",
+            "id": "7273213540948176896"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "A Storm is coming in Data Center Stocks. - The cool part is there is no upward limit on how big this industry can become in 20 years. - As this…",
+            "img": "",
+            "id": "7272875566389694465"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "We're actively hiring for my team! If you're interested in joining us, you can apply through the links below: Senior Associate/VP, Bangalore-…",
+            "img": "",
+            "id": "7272873919731179521"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "🎉 Delighted to welcome Prasad Chaganti as Venture Partner at Riceberg Ventures! Prasad brings expertise with his strategic network, portfolio value…",
+            "img": "",
+            "id": "7272313918872522752"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "In December 2023, the RBI Governor had stated that RBI would consider creating a public cloud for financial services.. And, finally, the news is out…",
+            "img": "",
+            "id": "7271387662576472064"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "An open opportunity for India, Search Funds focused on mid-sized companies. By the above point, I specifically don't mean startups (though it could…",
+            "img": "",
+            "id": "7270369790710411264"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "🚨𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: The British Business Bank just released a report analyzing returns from 𝟮,𝟯𝟬𝟬 𝘃𝗲𝗻𝘁𝘂𝗿𝗲 𝗳𝘂𝗻𝗱𝘀. Let’s dive in… 💼…",
+            "img": "",
+            "id": "7270074394821963776"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "A year back, we thought - is it possible to inject some humour into our serious category of peer to peer lending? Yes, said the folks at Bakarmax…",
+            "img": "",
+            "id": "7270041437889601536"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "If you take a close look at Zepto’s cap table — you would notice that apart from the typical institutional investors, there are some individual…",
+            "img": "",
+            "id": "7269569682825756672"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "🚨 🚨 Fractal became India’s first AI unicorn in early 2022 after securing $360 million from private equity firm TPG. It snapped up five companies…",
+            "img": "",
+            "id": "7268857285739720705"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "What makes you Happy? This is the question I ask myself regularly. In a world dominated by screens and solitude, I discovered my happiness…",
+            "img": "",
+            "id": "7266646786117632000"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "I’m happy to share that I’m starting a new position as Senior Manager at Urban Company!",
+            "img": "",
+            "id": "7262331408071749632"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "It’s been 10 years since we started Zerodha Varsity. What began as a simple blog has gradually grown into a full-fledged stock market education…",
+            "img": "",
+            "id": "10"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "Thank you for sharing Atomberg's story, Harsh. A marketing book with case studies of Indian businesses was desperately needed, and this book is…",
+            "img": "",
+            "id": "7261964199948402688"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "Poorly-researched PR-driven articles like these pop up every year. 2lakh kiranas? What's the source. What about new outlets that opened. Is 2%…",
+            "img": "",
+            "id": "7261241134809526273"
+        },
+        {
+            "interaction": "Liked by Yash Lakade",
+            "link": "",
+            "title": "Chatted with an LP friend a week or so back about a ton of these new student/recent grad sub $10M VC funds Ok, maybe about 20-30 funds, you can…",
+            "img": "",
+            "id": "7261120658829385728"
+        }
+    ],
+    "linkedin_num_id": 535553129.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

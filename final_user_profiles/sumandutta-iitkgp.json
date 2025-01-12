@@ -1,0 +1,294 @@
+{
+    "id": "sumandutta-iitkgp",
+    "name": "Suman Dutta",
+    "city": "Tokyo, Japan",
+    "country_code": "JP",
+    "position": "Accenture Japan | IIT KGP'23",
+    "about": "Passionate for DevOps and Software Development. Graduated from the Indian Institute of Technology, Kharagpur, India. Aiming to use my knowledge and strategies to solve real-world problems.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Accenture Japan",
+        "company_id": "accenture-japan",
+        "title": "Accenture Japan | IIT KGP'23"
+    },
+    "experience": [
+        {
+            "title": "Business Architect Analyst",
+            "location": "Tokyo, Japan",
+            "description_html": null,
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Accenture Japan",
+            "company_id": "accenture-japan",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "DevOps & SDE",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2023 Sep 2023 4 months",
+            "start_date": "Jun 2023",
+            "end_date": "Sep 2023",
+            "duration_short": "4 months",
+            "company": "UTOR Labs",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Teaching Assistant",
+            "description": "TA for Engineering Laboratory (EN19003) Autumn/Spring 2022-23",
+            "description_html": "TA for Engineering Laboratory (EN19003) Autumn/Spring 2022-23 <!---->",
+            "duration": "Nov 2022 Jun 2023 8 months",
+            "start_date": "Nov 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "8 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "DevOps & Software Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "UTOR Labs",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Batched Cholesky Decomposition",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Worked under Prof. Soumyajit Dey in a team project on implementing the Batch Cholesky factorization in CUDA using single-precision arithmetic following a large number of optimizations. Batch matrix operations address the case of solving linear algebra problems for a very large number of very small matrices.\u00e2\u20ac\u00a2 Devised an efficient tiled & batched implementation for obtaining the Cholesky factorization of a single matrix and for a set of small matrices, respectively.\u00e2\u20ac\u00a2 Generated specific test data using MATLAB and conducted extensive experimental analysis by varying the i)Tiling, ii)Order of Looking, and iii)Chunk Size\u00e2\u20ac\u00a2 Performed the experiments for various sets of matrices and determined the best set of parameters that proved to be ideal for executing the algorithm.\u00e2\u20ac\u00a2 Concluded that the Top-looking Interleaved Chunked implementation of the algorithm (chunk size <= 1024/(tile size)^2) was giving the best performance.",
+            "description_html": "Worked under Prof. Soumyajit Dey in a team project on implementing the Batch Cholesky factorization in CUDA using single-precision arithmetic following a large number of optimizations. Batch matrix operations address the case of solving linear algebra problems for a very large number of very small matrices.\u00e2\u20ac\u00a2 Devised an efficient tiled &amp; batched implementation for obtaining the Cholesky factorization of a single matrix and for a set of small matrices, respectively.\u00e2\u20ac\u00a2 Generated specific test data using MATLAB and conducted extensive experimental analysis by varying the i)Tiling, ii)Order of Looking, and iii)Chunk Size\u00e2\u20ac\u00a2 Performed the experiments for various sets of matrices and determined the best set of parameters that proved to be ideal for executing the algorithm.\u00e2\u20ac\u00a2 Concluded that the Top-looking Interleaved Chunked implementation of the algorithm (chunk size &lt;= 1024/(tile size)^2) was giving the best performance.",
+            "duration": "Feb 2021 Apr 2021 3 months",
+            "start_date": "Feb 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Volunteer",
+            "location": "Kharagpur Area, India",
+            "description": "Volunteer at National Service Scheme, campaigning in village regarding various social issues, collecting clothes and other daily needs and raising funds from IIT Kharagpur Campus and distributing the same to the needy in Village, mentoring school going students, working on improving the village school and schooling structure. Constructed a section of the village road during the NSS Annual Camp.Actively participated in plantation drives, blood donation drives and communitydevelopment program.Won Silver Medal(Unit 12) at NSS Annual Camp 2018, nominated as the Best Volunteer from the Unit, given certificates for Best Volunteer of the Unit on NSS Annual Day, recognized for noteworthy performance.",
+            "description_html": "Volunteer at National Service Scheme, campaigning in village regarding various social issues, collecting clothes and other daily needs and raising funds from IIT Kharagpur Campus and distributing the same to the needy in Village, mentoring school going students, working on improving the village school and schooling structure. Constructed a section of the village road during the NSS Annual Camp.Actively participated in plantation drives, blood donation drives and communitydevelopment program.Won Silver Medal(Unit 12) at NSS Annual Camp 2018, nominated as the Best Volunteer from the Unit, given certificates for Best Volunteer of the Unit on NSS Annual Day, recognized for noteworthy performance.",
+            "duration": "Jul 2018 Jun 2020 2 years",
+            "start_date": "Jul 2018",
+            "end_date": "Jun 2020",
+            "duration_short": "2 years",
+            "company": "National Service Scheme",
+            "company_id": "national-service-scheme",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Junior Co-ordinator",
+            "location": "Kharagpur Area, India",
+            "description": "Contributed suggestions and ideas about existing and upcoming events/workshopsHelped plan and organize multiple events including National Students Space Challenge(2018), Sky Grazing Session",
+            "description_html": "Contributed suggestions and ideas about existing and upcoming events/workshopsHelped plan and organize multiple events including National Students Space Challenge(2018), Sky Grazing Session <!---->",
+            "duration": "Jul 2018 Dec 2018 6 months",
+            "start_date": "Jul 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "6 months",
+            "company": "spAts",
+            "company_id": "spats",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Princekumar Maurya",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Mintu Agarwal",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarath Chandran",
+            "about": "Python Developer | Tech enthusiasts | MCA",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanka Agarwal",
+            "about": "Amdocs",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Reddy",
+            "about": "Data Engineer at Culmination | Masters in Computer Science at University of Florida | AWS Certified | Data Science",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshi Gupta",
+            "about": "Design Verification Engineer",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhaya Hanuma",
+            "about": "Software Engineer @ Aptiv | GenAI | Data Science | Data Analytics",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhijeet Dheer",
+            "about": "FullStack Developer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankita Rajput",
+            "about": "Computer science engineer | Director at THREESTOCKS pvt ltd |",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Kumar",
+            "about": null,
+            "location": "Ranchi"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Gaikwad",
+            "about": "MTS 1 @ Cohesity | Ex-Veritas",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "AYUSH KUMAR",
+            "about": "Engineer at Qualcomm | Former TPA Intern at JUSPAY",
+            "location": "Giridih"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan D.",
+            "about": null,
+            "location": "Assam, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ananta Agarwalla",
+            "about": "Cloud Developer at Hewlett Packard Enterprise",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartikaya Sharma",
+            "about": "Student at Birla Institute of Technology and Science, Pilani",
+            "location": "Kota"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Pisipati",
+            "about": "Solution Engineering @ FlytBase | Automating Drones with Docks",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreya Dimri",
+            "about": "MTS Adobe | IIT Patna'23",
+            "location": "Dehra Dun"
+        },
+        {
+            "profile_link": "",
+            "name": "Esha Gupta",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rashmitha K M",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Mechanical Engineering Dual Degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Dual Degree (B-Tech+M-Tech), Mechanical Engineering Micro Spl. in Artificial Intelligence and Applications Micro Spl. in Embedded Control, Software, Modeling and Design Minor in Computer Science and Engineering IIT Kharagpur",
+            "description_html": "Dual Degree (B-Tech+M-Tech), Mechanical EngineeringMicro Spl. in Artificial Intelligence and ApplicationsMicro Spl. in Embedded Control, Software, Modeling and DesignMinor in Computer Science and EngineeringIIT Kharagpur <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Oxford Public School Ranchi",
+            "degree": "CBSE, XIIth",
+            "field": "Physics",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": "Activities and Societies: Cricket, Science Exhibition Secured School Rank 1 in Science Stream, Higher Secondary Examination from a batch of 600",
+            "description_html": "Activities and Societies: Cricket, Science Exhibition",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2024See credential",
+            "subtitle": "Celonis",
+            "title": "Certified to Create and Deliver Demos"
+        },
+        {
+            "meta": "Issued Mar 2024See credential",
+            "subtitle": "Celonis",
+            "title": "Certified to Prove Celonis Value"
+        },
+        {
+            "meta": "Issued Mar 2024See credential",
+            "subtitle": "Celonis",
+            "title": "Review and Interpret Analyses"
+        },
+        {
+            "meta": "Issued Mar 2024See credential",
+            "subtitle": "Celonis",
+            "title": "Value Assessment Expert"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID F72RRZDUYT23See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2509.0,
+    "connections": 500.0,
+    "current_company_company_id": "accenture-japan",
+    "current_company_name": "Accenture Japan",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Tokyo",
+    "linkedin_id": "sumandutta-iitkgp",
+    "activity": null,
+    "linkedin_num_id": 391515129.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

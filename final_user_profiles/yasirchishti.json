@@ -1,0 +1,57 @@
+{
+    "city": "United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ", ....&,",
+            "start_year": "2007",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2004",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Big-Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Business Research Methods\"},{\"subtitle\":\"-\",\"title\":\"Corporate Finance\"},{\"subtitle\":\"-\",\"title\":\"Financial Markets\"},{\"subtitle\":\"-\",\"title\":\"Financial Reporting and Analysis\"},{\"subtitle\":\"-\",\"title\":\"Information Systems in Business\"},{\"subtitle\":\"-\",\"title\":\"Operations Management\"},{\"subtitle\":\"-\",\"title\":\"Strategic Management\"}]",
+    "certifications": [
+        {
+            "meta": "Credential ID Silver Standard",
+            "subtitle": "TQMS",
+            "title": "Tata Business Excellence Model"
+        },
+        {
+            "meta": "Credential ID wes-20139445See credential",
+            "subtitle": "World Education Services",
+            "title": "Verified International Academic Qualifications"
+        }
+    ],
+    "current_company_name": "DAMAC Properties",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "National Science Olympiad",
+            "publication": "Science Olympiad Foundation",
+            "date": "2004-05-01T00:00:00.000Z",
+            "description": "All India Rank 207, State Rank 3"
+        }
+    ]
+}

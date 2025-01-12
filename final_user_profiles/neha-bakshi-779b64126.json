@@ -1,0 +1,57 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "BNM Institute Of Technology",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012-03",
+            "end_year": "2013-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2010-03",
+            "end_year": "2011-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Frugal Labs Tech Solutions Pvt Ltd",
+            "title": "Internet of things"
+        },
+        {
+            "subtitle": "digitlabz ",
+            "title": "robotics and embedded system programming "
+        },
+        {
+            "subtitle": "IEEE Nano 2018",
+            "title": "Tech treat on Emerging Technologies"
+        }
+    ],
+    "current_company_name": "Apple",
+    "publications": "[{\"title\":\"Solar powered lawn mower\",\"subtitle\":\"Vol-2, Issue-10. 2016 of IJIR\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Chargeback Management System\",\"start_date\":\"Jan 2019\",\"end_date\":\"Present\",\"description\":\"The Chargeback Management System application is responsible for allowing Lowe’s internal business users to collect, modify and maintain all customer related information on any and all chargebacks raised during the course of day-to-day business. This ongoing project involves building a web application for Chargeback management from depreciated version using java 8(Spring Boot framework with jdk 1.8) and Angular 6 for frontend and deploying it on JBoss servers.\"},{\"title\":\"Receipts Expansion\",\"start_date\":\"Mar 2018\",\"end_date\":\"Dec 2018\",\"description\":\"The applications impacted by this project collectively assist in providing Customer Purchase Receipts and Customer Signature information to varied users, both internal and external, via a common REST web service and individual Angular 5 clients. The application was built using both the front in Angular 5 as well as the back end in Java 8 using Spring Boot framework.\"},{\"title\":\"FPGA Based Scheduler for Avionic Systems \",\"start_date\":\"Jan 2017\",\"end_date\":\"Apr 2017\",\"description\":\"It is a Verilog programmed FPGA based scheduler for scheduling transmission and reception of data among various components in an avionic system using ARINC 429 protocol\"},{\"title\":\"SOLAR Powered Lawn Mower\",\"start_date\":\"Aug 2016\",\"end_date\":\"Nov 2016\",\"description\":\"Solar powered lawn mower is aimed to conserve energy. It uses solar energy trapped by solar panel to power the mower. It also includes a cost effective solar tracking device to provide efficient charging\"},{\"title\":\"QUADROTOR With SKIFI Labs\",\"description\":\"Basic quadcopter designed and developed using kkcopter board. It is a remote controlled multi motor aircraft made using accelerometer, gyroscope and controllers\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Best presentation award",
+            "publication": "-",
+            "date": null,
+            "description": "Best presentation award for the final semester project “FPGA BASED SCHEDULER FOR AVIONIC SYSTEMS”"
+        }
+    ]
+}

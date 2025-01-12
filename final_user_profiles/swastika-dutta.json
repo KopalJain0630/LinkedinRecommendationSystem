@@ -1,0 +1,238 @@
+{
+    "id": "swastika-dutta",
+    "name": "Swastika Dutta",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "NVIDIA",
+        "company_id": "nvidia"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ayush Saxena",
+            "about": "Researcher",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vandit Sharma",
+            "about": "ETH MSc Computer Science | Machine Learning | Data Science",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhav Sainanee",
+            "about": "SWE at Databricks | CS/Econ",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sahith Dambekodi",
+            "about": null,
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Khush Mody",
+            "about": "Ms CS @USC | NTU Research Intern | Samsung Prism Researcher | Ex NUS | Ex HPE",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajat Varma",
+            "about": "Machine Learning Engineer at Coinbase",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Masihullah Shaik",
+            "about": "ML Scientist II @Nykaa | AI/ML | Published Author in Top Conferences | 4x Most Valued Player",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rutuparn Pawar",
+            "about": "DV Engineer @ Lightmatter | UT Austin",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishitha Kalicheti",
+            "about": "MS CS @ JHU | Ex Software Engineer @ UBS | IIT Tirupati Alumni",
+            "location": "Baltimore, MD"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushita Singh",
+            "about": "Software Engineer | Python, Machine Learning, Data Analytics, NLP, AI | Ex-intern @Blueprint Medicines | Ex-Software Developer @TCS",
+            "location": "Cambridge, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Udit Arora",
+            "about": null,
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehul Singh",
+            "about": "System Analyst @ NetCracker",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Raj",
+            "about": "SWE2 at Indeed | MTech CSE from IIIT Hyderabad | Former research intern at LTRC IIIT Hyderabad",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Saksham Gupta",
+            "about": "Data Scientist",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Vidhi Patel",
+            "about": "Data Analyst | Ex-Schneider Electric | Data Analytics Engineering Graduate, Northeastern University, Boston | Ex-F5 | B.Tech Computer Science and Engineering Vellore Institute of Technology, Vellore",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sambhavesh Haralalka",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshul Gupta",
+            "about": "IIM Calcutta '25 | IIT Delhi '21 | ex-Microsoft, Simpl",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Jaspreet Singh Marwah",
+            "about": "R&D Engineer II @ Ansys | Seneca '23 | IIITD '21",
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Saranga K. Mahanta",
+            "about": "Master Data AI student @ IP Paris | GSoC'22, 23 Contributor @ ML4Sci",
+            "location": "Paris"
+        },
+        {
+            "profile_link": "",
+            "name": "SUBHASH ROUTHU",
+            "about": "Software Engineer at bigbasket.com",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Stanford University",
+    "education": [
+        {
+            "title": "Stanford University",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4551,
+    "connections": 500,
+    "current_company_company_id": "nvidia",
+    "current_company_name": "NVIDIA",
+    "publications": "[{\"title\":\"Analysing the Extent of Misinformation in Cancer Related Tweets\",\"subtitle\":\"International AAAI Conference on Web and Social Media (ICWSM 2020)\",\"date\":\"Mar 2020\",\"description\":\"Twitter has become one of the most sought after places to discuss a wide variety of topics, including medically relevant issues such as cancer. This helps spread awareness regarding the various causes, cures and prevention methods of cancer. However, no proper analysis has been performed, which discusses the validity of such claims. In this work, we aim to tackle the misinformation spread in such platforms. We collect and present a dataset regarding tweets which talk specifically about cancer and propose an attention-based deep learning model for automated detection of misinformation along with its spread. We then do a comparative analysis of the linguistic variation in the text corresponding to misinformation and truth. This analysis helps us gather relevant insights on various social aspects related to misinformed tweets.\"},{\"title\":\"Performance statistics and learning based detection of exploitative speculative attacks\",\"subtitle\":\"16th ACM International Conference on Computing Frontiers\",\"date\":\"May 2019\",\"description\":\"Most of the modern processors perform out-of-order speculative executions to maximise system performance. Spectre and Meltdown exploit these optimisations and execute certain instructions leading to leakage of confidential information of the victim. All the variants of this class of attacks necessarily exploit branch prediction or speculative execution. Using this insight, we develop a two-step strategy to effectively detect these attacks using performance counter statistics, correlation coefficient model, deep neural network and fast Fourier transform. Our approach is expected to provide reliable, fast and highly accurate results with no perceivable loss in system performance or system overhead.\"},{\"title\":\"RATAFIA: Ransomware Analysis using Time And Frequency Informed Autoencoders\",\"subtitle\":\"IEEE International Symposium on Hardware Oriented Security and Trust (HOST)\",\"date\":\"Jan 2019\",\"description\":\"Ransomware can produce direct and controllable economic loss, which makes it one of the most prominent threats in cyber security. As per the latest statistics, more than half of malwares reported in Q1 of 2017 are ransomwares and there is a potent threat of a novice cybercriminals accessing ransomware-as-a-service. The concept of public-key based data kidnapping and subsequent extortion was introduced in 1996. Since then, variants of ransomware emerged with different cryptosystems and larger key sizes, the underlying techniques remained same. Though there are works in literature which proposes a generic framework to detect the crypto ransomwares, we present a two step unsupervised detection tool which when suspects a process activity to be malicious, issues an alarm for further analysis to be carried in the second step and detects it with minimal traces. The two step detection framework- RAPPER uses Artificial Neural Network and Fast Fourier Transformation to develop a highly accurate, fast and reliable solution to ransomware detection using minimal trace points. We also introduce a special detection module for successful identification of disk encryption processes from potential ransomware operations, both having similar characteristics but with a different objective. We provide a comprehensive solution to tackle almost all scenarios (standard benchmark, disk encryption and regular high computational processes) pertaining to the crypto ransomware in light of software security.\"},{\"title\":\"RAPPER: Ransomware Prevention via Performance Counters\",\"subtitle\":\"Kangacrypt 2018\",\"date\":\"Dec 2018\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "swastika-dutta",
+    "activity": [
+        {
+            "interaction": "Liked by Swastika Dutta",
+            "link": "",
+            "title": "T-Mobile and NVIDIA are collaborating to transform telecommunications networks into AI computing infrastructure. AI-RAN\u00e2\u20ac\u201dpowered by the NVIDIA AI\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7242222787749167105"
+        },
+        {
+            "interaction": "Liked by Swastika Dutta",
+            "link": "",
+            "title": "Exciting News! RAG augmented Multimodal O-RAN Chatbot with NVIDIA NeMo is now open sourced:  A big shout out to Amparo\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7177024119895470081"
+        }
+    ],
+    "linkedin_num_id": 632712561,
+    "honors_and_awards": [
+        {
+            "title": "Grace Hopper Celebration, 2023",
+            "publication": "Stanford University",
+            "date": "2023-09-01T00:00:00.000Z",
+            "description": "Part of Stanford cohort in GHC'23"
+        },
+        {
+            "title": "Google IWD Summit",
+            "publication": "-",
+            "date": null,
+            "description": "Selected to be part of Google's International Women's Day Summit."
+        },
+        {
+            "title": "Google WECode Workshop",
+            "publication": "-",
+            "date": null,
+            "description": "Selected to be part of Google's WECode (Women Engineers Code) Workshop"
+        },
+        {
+            "title": "Grace Hopper Celebration",
+            "publication": "-",
+            "date": null,
+            "description": "Selected as a Google Scholar for the Grace Hopper Celebration, USA."
+        },
+        {
+            "title": "Inter IIT Tech Meets",
+            "publication": "-",
+            "date": null,
+            "description": "- Secured Gold in the Student Academic Conference. - Contingent Secured an overall Bronze in the Competition."
+        },
+        {
+            "title": "Regional Maths Olympiad (RMO)",
+            "publication": "Homi Bhabha Centre for Science Education",
+            "date": null,
+            "description": "Secured Gold Medal in RMO for holding first position in State."
+        },
+        {
+            "title": "Student Par Excellence",
+            "publication": "Department of Computer Science and Engineering, IIT Kharagpur",
+            "date": null,
+            "description": "Acknowledged by the Department for Performance Par Excellence."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

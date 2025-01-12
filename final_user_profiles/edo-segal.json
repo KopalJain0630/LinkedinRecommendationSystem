@@ -1,0 +1,83 @@
+{
+    "city": "Tel Aviv District, Israel",
+    "position": "Founder and CEO at Touchcast",
+    "experience": [
+        {
+            "title": "Founder and CEO",
+            "location": "Greater New York City Area",
+            "description_html": null,
+            "duration": "Jan 2012 - Present 13 years",
+            "start_date": "Jan 2012",
+            "end_date": "Present",
+            "duration_short": "13 years",
+            "company": "TouchCast",
+            "company_id": "touchcast",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "CEO",
+            "location": "New York",
+            "description_html": null,
+            "duration": "2008 - Present 16 years",
+            "start_date": "2008",
+            "end_date": "Present",
+            "duration_short": "16 years",
+            "company": "bMuse",
+            "company_id": "bmuse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder",
+            "description_html": null,
+            "duration": "2011 - Present 13 years",
+            "start_date": "2011",
+            "end_date": "Present",
+            "duration_short": "13 years",
+            "company": "Kinsa",
+            "company_id": "kinsa",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": null,
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "TouchCast",
+    "publications": null,
+    "patents": "[{\"title\":\"System and Method for Interactive Video Conferencing\",\"date_issued\":\"October 10, 2017\",\"patents_id\":\"US US 9,787,945\",\"description\":\"A networked communication session is defined vis-à-vis parameter information received from a first device, and access to the networked communication session is provided to the first device. Access to the networked communication session is further provided to each of additional device(s) in accordance with information associated with each of the additional device(s). A composited interactive audio/video feed is generated and transmitted that comprises audio/video input received during the networked communication session from each of the devices. Each of the devices is configured via a gesture-based user interface to enable user-based selection and respective manipulation of at least a portion of the composited audio/video feed that results in a customized representation of the composited audio-video feed at a particular one device that is not represented at a particular other of the device(s).\"},{\"title\":\"System and Method for Providing and Interacting with Coordinated Presentations\",\"date_issued\":\"May 30, 2017\",\"patents_id\":\"US US 9,666,231\",\"description\":\"A system and method for generating a coordinated presentation. Content selected by a user is curated for inclusion in the coordinated presentation, and images are captured for inclusion in the coordinated presentation. A first data stream associated with the curated content and a second data stream associated with the captured images are received, and a first arrangement of content associated with at least some of the first and second data streams are output. Respective content associated the two data streams are integrated to generate the coordinated presentation.\"},{\"title\":\"System and Method for Providing and Interacting with Coordinated Presentations\",\"date_issued\":\"May 23, 2017\",\"patents_id\":\"US US 9,661,256\",\"description\":\"A system and method for providing uninterrupted video content in a portion of a display while simultaneously providing other content. A coordinated presentation is provided that comprises a content unit and controllable display units. The content unit plays video content, a first controllable display unit plays first interactive video content and a second controllable display unit plays second interactive video content. The representation of the coordinated presentation is provided in a third controllable display unit without interrupting the playing of the video content.\"},{\"title\":\"Temperature Measurement System and Method\",\"date_issued\":\"March 14, 2017\",\"patents_id\":\"US US 9,593,985\",\"description\":\"In one or more implementations, a temperature measuring system is provided, including a temperature sensing probe having (a) a thermistor operatively connected to a first conductor and (b) a resistor operatively connected to a second conductor, and a temperature determination application stored in a memory of a computing device operatively connected to the temperature sensing probe. When executed by a processor of the computing device, the temperature determination application configures the computing device to: transmit a first instance of a signal to the first conductor, receive a temperature signal from the thermistor, the temperature signal corresponding to the first instance of the signal as output from the thermistor, transmit a second instance of the signal to the second conductor, receive a reference signal from the resistor, the reference signal corresponding to the second instance of the signal as output from the resistor, process the temperature signal and the reference signal to determine a relationship between the temperature signal and the reference signal, and compute a temperature based on the relationship.\"},{\"title\":\"System and Method for Providing and Interacting with Coordinated Presentations\",\"date_issued\":\"June 7, 2016\",\"patents_id\":\"US US 9,363,448\",\"description\":\"A system and method to generate coordinated presentations that includes a module to curate content selected by a user for inclusion in the coordinated presentation; an audio/visual input module to capture via camera images for inclusion in the coordinated presentation; a display module to display the presentation via a computing device.\"},{\"title\":\"Thermometer Probe\",\"date_issued\":\"November 24, 2015\",\"patents_id\":\"US US D743,817\"},{\"title\":\"System and Method for Generating and Transmitting Interactive Coordinated Presentations\",\"date_issued\":\"May 19, 2015\",\"patents_id\":\"US US 9,036,043\",\"description\":\"A teleprompter system and method including use of a touch-screen interface positioned intermediate to the user and a camera such that the camera captures the user's image through a transparency of the touch-screen interface. The touchscreen interface is coupled to a computer and is operably connected so as to enable user control and manipulation of interactive media content generated by the computer. A video mixing component integrates images captured by the camera with interactive media content generated by the computer, as may be manipulated by the user via the touch-screen interface, to generate a coordinated presentation.\"},{\"title\":\"System and Method for Interactive Mobile Gaming\",\"date_issued\":\"March 31, 2015\",\"patents_id\":\"US US 8,991,691\",\"description\":\"A method and apparatus for providing information to a camera associated with a computing device. The apparatus includes a base portion with an interior region that provides an illuminable surface. A machine-readable code is included that is supported by the surface, and a lens is disposed between the code and the bottom side of the base portion. The base is configured to seat the lens over the camera associated with the computing device in a first orientation and a second orientation. The machine-readable code presents, for reading by the computing device, first information in response to the lens being seated over the camera in the first orientation and second information in response to the lens being seated over the camera in the second orientation, respectively.\"},{\"title\":\"Temperature Measurement System and Method\",\"date_issued\":\"March 10, 2015\",\"patents_id\":\"US US 8,974,115\",\"description\":\"A temperature measuring system that includes a temperature-sensing probe having (a) a thermistor operatively connected to a first conductor and (b) a resistor operatively connected to a second conductor, and a temperature determination application stored on the mobile device connected to the temperature sensing probe.\"},{\"title\":\"System and Method for Interactive Mobile Gaming\",\"date_issued\":\"February 17, 2015\",\"patents_id\":\"US US 8,955,750\",\"description\":\"A method and apparatus for providing isolated actuations in a plurality of animated points of an object. A base portion and an object portion are provided with an apparatus, and a plurality of light-receiving elements are configured with the base portion that are operable to detect light emanating from pixels that flash on a computing device display screen. Actuators are provided with the base portion and each is configured to independently actuate in response to the light detected by the light-receiving elements. A plurality of passive mechanical components is provided with the object portion. The mechanical portions are operatively coupled to respective ones of the plurality of actuators, wherein independent movement of respective parts of the object portion is provided by the respective actuators in response to the light detected by the computing device.\"},{\"title\":\"System and Method for Single-User Control of Multiple Roles within a Music Simulation\",\"date_issued\":\"September 9, 2014\",\"patents_id\":\"US US 8,829,323\",\"description\":\"A system and method for enhancing interaction with a music simulation program. A controller interacts with the program in conjunction with a motion sensor to enable selection from among various operating modes, each representing a musical instrument or role.\"},{\"title\":\"System and Method for Interactive Mobile Gaming\",\"date_issued\":\"July 22, 2014\",\"patents_id\":\"US US 8,783,557\",\"description\":\"Disclosed is a method and apparatus for providing information to a camera associated with a computing device. The base portion of the gaming apparatus is configured with light-receiving elements that detect light emanating from pixels that flash on a device’s display screen.\"},{\"title\":\"Analog-Signal Controller for Mobile Electronic Devices\",\"date_issued\":\"March 18, 2014\",\"patents_id\":\"US US 8,672,756\",\"description\":\"A system and method for interfacing with a mobile device. One or more unique tones/signals are generated at a respective peripheral device corresponding to an event detected by that device.\"},{\"title\":\"Teleprompting System and Method\",\"date_issued\":\"August 13, 2013\",\"patents_id\":\"US US 8,508,614\",\"description\":\"A teleprompter system and method including use of a touchscreen interface positioned intermediate to the user and a camera that captures the user's image through a transparency of the touchscreen interface. The touchscreen interface is coupled to a computer and is operably connected so as to enable user control and manipulation of interactive media content generated by the computer. A video mixing component integrates images captured by the camera with interactive media content generated by the computer that the user can then manipulate to generate a coordinated presentation.\"},{\"title\":\"System and Method for Real-Time Alerts\",\"date_issued\":\"September 28, 2004\",\"patents_id\":\"US US 7,191,223\",\"description\":\"A system and method for receiving information streams, analyzing those streams, and generating an alert. The system provides alerts based on information sourced during a predetermined period of time.\"},{\"title\":\"Media Monitor System\",\"date_issued\":\"September 28, 2004\",\"patents_id\":\"US US 8,893,232\",\"description\":\"A media monitoring system that allows a monitoring device to control the media content that can be downloaded by a monitored device. The monitoring device reviews requests for media content from the monitored device and makes a decision whether to allow the monitored device access to the media content. Authorization may occur interactively or automatically using media settings associated with the monitored device. The monitored device is prevented from accessing media content until the media content is authorized. The media monitoring system may operate in a wired and/or wireless network.\"},{\"title\":\"Temperature measurement system and method\",\"date_issued\":\"April 26, 2013\",\"patents_id\":\"US US20130315276\"}]",
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Edison Award - Media and Visual Communications",
+            "publication": "The Edison Awards",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": "TouchCast won this award for it's next generation video communication platform"
+        },
+        {
+            "title": "Webby Award - Lifestyle (Handheld Devices)",
+            "publication": "The International Academy of Digital Arts and Sciences",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Webby Award - Best Use of Mobile Video",
+            "publication": "The International Academy of Digital Arts and Sciences",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Webby Award - Lifestyle (Handheld Devices)",
+            "publication": "The International Academy of Digital Arts and Sciences",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Hasbro Inventor of the Year Award",
+            "publication": "Hasbro",
+            "date": "2013-09-01T00:00:00.000Z",
+            "description": "Won Hasbro's Inventor of the Year Award for Telepods. A connected toy who made the most money out of any other third party inventor submission that year. Telepods sold over $50M and at the time was the top selling mobile connected toy of all time. "
+        }
+    ]
+}

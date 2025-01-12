@@ -1,0 +1,63 @@
+{
+    "city": "Midnapore Sadar, India",
+    "position": "SWE @Salesforce | SWE Intern @Salesforce'22 | IIT KGP CSE'23",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "Salesforce",
+            "company_id": "salesforce",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Salesforce",
+            "company_id": "salesforce",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree - BTech + Mtech",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms-I\"},{\"subtitle\":\"-\",\"title\":\"Algorithms-II\"},{\"subtitle\":\"-\",\"title\":\"Compilers\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Computer Organization and Architecture\"},{\"subtitle\":\"-\",\"title\":\"Database Management System\"},{\"subtitle\":\"-\",\"title\":\"Formal Language and Automata Theory\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"},{\"subtitle\":\"-\",\"title\":\"Switching Circuits and Logic Design\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID FJJX47AJM4WCSee credential",
+            "subtitle": "Coursera ",
+            "title": "Introduction to Artificial Intelligence (AI)"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID UC-0f5b3bd8-bd09-4a41-b55b-d03e84553445See credential",
+            "subtitle": "Udemy",
+            "title": "Python for Data Science and Machine Learning Bootcamp"
+        }
+    ],
+    "current_company_name": "Salesforce",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"EDGE INTELLIGENCE IN INDUSTRIAL INTERNET OF THINGS\",\"start_date\":\"Jan 2021\",\"description\":\"Proposed a re-configurable edge network for the Industrial Internet of Things. The solution deploys the required analytical module to the edge node, which is configurable using different analytical parameters. Implemented the solution using socket programming for creating edge node and cloud and machine learning algorithms. A classification algorithm was used on a dataset of temperatures to predict the temperature of a room.\"},{\"title\":\"ONLINE GROCERY SYSTEM\",\"start_date\":\"Jan 2021\",\"end_date\":\"Mar 2021\",\"description\":\"Created a website and an android application that manages all the functionalities of online grocery shopping using MySQL database, PhP backend and HTML, CSS interface. Facilitates online shopping of grocery items. User can search items according to his choice and also keep track of status of the item to be delivered. It also contains delivery person as user which has several other functionalities.\"},{\"title\":\"HEALTH MANAGEMENT SYSTEM\",\"start_date\":\"May 2020\",\"end_date\":\"Jul 2020\",\"description\":\"Worked as a part of Combat Covid-19 team, IIT Kharagpur. Created a WhatsApp chatbot with an integrated web application using MySQL database, JS for backend, HTML, CSS, JS for frontend and Dialogflow for making chatbot. Facilitates online consultations and zero-contact physical visit. User can book online consultations and even consult online.\"},{\"title\":\"MOVIE TICKET BOOKING SYSTEM\",\"start_date\":\"Feb 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Created a website that facilitates movie ticket booking using Django framework, SQLite Database and HTML, CSS interface. Facilitates booking and cancellation of movie tickets also manages inventory and finance.\"}]",
+    "honors_and_awards": null
+}

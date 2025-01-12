@@ -1,0 +1,174 @@
+{
+    "id": "sudhanshu196r",
+    "name": "Sudhanshu Kumar",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Data Engineer | Python, MySQL, Hadoop, PySpark, AWS",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "name": "IBM-ICE, People's University, MP[India]",
+        "title": "Data Engineer | Python, MySQL, Hadoop, PySpark, AWS"
+    },
+    "experience": [
+        {
+            "title": "Student",
+            "location": "Bhopal,Madhya Pradesh",
+            "description_html": null,
+            "duration": "Sep 2019 - Present 5 years 4 months",
+            "start_date": "Sep 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 4 months",
+            "company": "IBM-ICE, People's University, MP[India]",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ishanh Misra",
+            "about": "Software Engineer",
+            "location": "Kanpur Nagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitesh Choudhary",
+            "about": "Software Engineer | Rakuten Symphony",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Shraddha Singh",
+            "about": "Quality Assurance Engineer |",
+            "location": "Sultanpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Esther Sherly",
+            "about": "Data-Driven Catalogue Analyst | Expert in Product Data Management & Inventory Optimization | Enhancing Accuracy & Efficiency",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Cynthia Banerjee",
+            "about": "Data Engineer at Thomson Reuters",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Avani Laad",
+            "about": "Systems Engineer at TCS",
+            "location": "Madhya Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Niharika Reddy",
+            "about": "Adani Solar | FMS Delhi (2020-2022)",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Amod Kumar Jha",
+            "about": "Software Engineer || LeetCode Explorer",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshu Bhat",
+            "about": "Test Engineer at Nokia Solutions and Networks",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sajid Vali",
+            "about": "Full Stack Developer | Specialist Programmer @Infosys",
+            "location": "East Godavari"
+        }
+    ],
+    "educations_details": "IBM-ICE,People's University,Bhopal",
+    "education": [
+        {
+            "title": "IBM-ICE,People's University,Bhopal",
+            "degree": "B.tech",
+            "field": "Computer science and engineering",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "RCSS College",
+            "degree": "10+2",
+            "field": "Science",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Joseph Public School",
+            "degree": "Matriculation",
+            "field": "95%",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2022See credential",
+            "subtitle": "IBM",
+            "title": "Data Science Foundations - Level 1"
+        },
+        {
+            "meta": "Issued Oct 2022See credential",
+            "subtitle": "IBM",
+            "title": "Python for Data Science"
+        },
+        {
+            "meta": "Issued Oct 2020See credential",
+            "subtitle": "Codecademy",
+            "title": "Learn HTML Course"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID 757fbd8d4b09See credential",
+            "subtitle": "HackerRank",
+            "title": "C (Intermediate)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 3247.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "IBM-ICE, People's University, MP[India]",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Employee Management System",
+            "start_date": "Dec 2022",
+            "end_date": "Jan 2023",
+            "description": "Developed a comprehensive Employee Management System (EMS) using Python, Django, and MySQL.Leveraged the power of the Django framework to ensure rapid development, maintainability, and scalability of the system.Utilized MySQL for efficient data storage, retrieval, and management of employee data while ensuring data security.Implemented role-based authentication and access controls to ensure data privacy and security compliance."
+        },
+        {
+            "title": "System Health Checker",
+            "start_date": "Oct 2022",
+            "end_date": "Dec 2022",
+            "description": "It will show amount of memory used, storage used, processor involvement and swap used in Pie chart and Bar graph form. It is made using Python and Linux shell scripting.Used shell scripting to collect data from Ubuntu operating System."
+        },
+        {}
+    ],
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "sudhanshu196r",
+    "activity": null,
+    "linkedin_num_id": 742333226.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

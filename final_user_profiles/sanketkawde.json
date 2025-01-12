@@ -1,0 +1,59 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2000",
+            "end_year": "2005",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1996",
+            "end_year": "2000",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Marketing Management\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Supply Chain & Inventory Management\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2017See credential",
+            "subtitle": "LinkedIn",
+            "title": "Bill George on Self Awareness, Authenticity, and Leadership"
+        },
+        {
+            "meta": "Issued Aug 2017See credential",
+            "subtitle": "LinkedIn",
+            "title": "Body Language for Leaders"
+        },
+        {
+            "meta": "Issued Sep 2012See credential",
+            "subtitle": "CFA Institute, Charlottesville, Virginia",
+            "title": "Chartered Financial Analyst"
+        }
+    ],
+    "current_company_name": "Axis Bank",
+    "publications": "[{\"title\":\"Citibank India Credit Cards: Strategy for Profitable Growth\",\"subtitle\":\"Ivey/ISB\",\"date\":\"May 30, 2014\",\"description\":\"The case deals with the analytical approach to bring forth the concepts of precision targeting.\"},{\"title\":\"Citibank India Credit Cards: Strategy for Profitable Growth\",\"subtitle\":\"Harvard Business Review\",\"date\":\"May 30, 2014\",\"description\":\"A case discussing the contemporary analytical and marketing aspects of the cards business in India.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Geo-Targeted Mailers\",\"start_date\":\"Jan 2013\",\"end_date\":\"Jul 2013\",\"description\":\"Designing and executing the location based intelligence algorithm and identify most actionable touch-points for the customers.\"},{},{},{},{\"title\":\"Analytical Extrapolation engine for a Personal Finance portal\",\"start_date\":\"May 2009\",\"end_date\":\"Oct 2010\",\"description\":\"Designed an algorithm to scale up from credit cards spend to unbiased geo-demographic levels spends for similar profile of customers. The engine formed the back bone of the data being presented on www.bundle.com. The website aimed at helping customers make informed decisions about finances by comparing their spending with peer group.\"},{},{},{},{},{},{\"title\":\"Bundle - www.bundle.com\",\"start_date\":\"Sep 2009\",\"end_date\":\"Apr 2010\",\"description\":\"Spend Analytics\"},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Geo-targeted mailers design and execution",
+            "publication": "Direct Marketing Association India",
+            "date": "2014-07-01T00:00:00.000Z",
+            "description": "Bronze winner in Effectiveness - Business and Consumer Services category for Geo-targeted mailers "
+        },
+        {
+            "title": "Data & Analytics - Geo Database Application",
+            "publication": "Asian Marketing Effectiveness and Strategy Awards",
+            "date": "2014-06-01T00:00:00.000Z",
+            "description": "Silver winner in the category Data & Analytics for algorithmic design and implementation of Geo database for Dining and Shopping offers of Citibank. "
+        }
+    ]
+}

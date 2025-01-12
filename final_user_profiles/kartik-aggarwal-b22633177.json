@@ -1,0 +1,278 @@
+{
+    "id": "kartik-aggarwal-b22633177",
+    "name": "Kartik Aggarwal",
+    "city": "Delhi, India",
+    "country_code": "IN",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Zomato",
+        "company_id": "zomato"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Vidit Singhal",
+            "about": "Software Developer at EatClub Brands | Competitive Programmer | NIT Bhopal'23",
+            "location": "Haridwar"
+        },
+        {
+            "profile_link": "",
+            "name": "Harman Singh",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aayushi Shrivastava",
+            "about": "Associate at BCG | Associate Jr. at Indus Insights | Overall Coordinator at OCS IIT Delhi",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Chitra Kunal",
+            "about": "Quantitative Research Analyst || J P Morgan",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Itika Vashistha",
+            "about": "Consultant, @ Kantar | PGDM, Marketing | Analytics | Customer Analytics",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Manoj Kumar",
+            "about": "Software Engineer at Uber | Ex-Zomato | CSE IIT D'23",
+            "location": "Kuchaman City"
+        },
+        {
+            "profile_link": "",
+            "name": "Sucharitha Pinnu",
+            "about": "Masters in ComputerScience student @ CSUCI | TCS",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Vanshaj Goyal",
+            "about": "MasterCard | IIT Roorkee'22",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sujash Agrawal",
+            "about": "Building cool projects | IIT Roorkee",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Girish Jeswani",
+            "about": "MS in Computer Science, CU Boulder",
+            "location": "Boulder, CO"
+        },
+        {
+            "profile_link": "",
+            "name": "Mukund Kedia",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Kumar",
+            "about": null,
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Adityaraj Singh Chouhan",
+            "about": "SDE-I at slice | IITD'23",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sushmita Hada",
+            "about": "Sponsorship manager at Cognizance, IIT Roorkee",
+            "location": "Kota"
+        },
+        {
+            "profile_link": "",
+            "name": "Aryan Garg",
+            "about": "GenAI | UPSC CSE Interview | IITD'22 | Harvard College Conference | Wellness enthusiast",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishant Srivastava",
+            "about": "Software Engineer 2 at Celigo | NIT - Bhopal | ECE '22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Meghna Barnwal",
+            "about": "SWE @Google | Summer Intern'22 @Oracle",
+            "location": "Jharkhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nutan Dhangar",
+            "about": "Analyst at CRIF | MSc. Statistics | Hindu'24",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sayam Singla",
+            "about": "Building GenAI Product | Sr. Data Scientist at Publicis Sapient | IIT Delhi I get things done.",
+            "location": "Gurugram"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Delhi",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2003",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Calculus\"},{\"subtitle\":\"-\",\"title\":\"Data Structures and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Linear algebra and differential equation\"},{\"subtitle\":\"-\",\"title\":\"Machine learning and neural networking\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued May 2021Credential ID 44580See credential",
+            "subtitle": "CutShort",
+            "title": "CutShort Certified Data Science - Basic"
+        },
+        {
+            "meta": "Issued May 2021Credential ID 44577See credential",
+            "subtitle": "CutShort",
+            "title": "CutShort Certified Machine Learning (ML) - Basic"
+        },
+        {
+            "meta": "Issued Apr 2021See credential",
+            "subtitle": "John Hopkins University",
+            "title": "The Data Scientist's Toolbox"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Hyperparameter Tuning Regularization and Optmization"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Structuring Machine Learning Projects"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Aug 2018 - Mar 2020 \u00c2\u00b7 1 year 8 months",
+            "duration_short": "1 year 8 months",
+            "end_date": "Mar 2020",
+            "start_date": "Aug 2018",
+            "subtitle": "National Service Scheme, IITD",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 6500.0,
+    "connections": 500.0,
+    "current_company_company_id": "zomato",
+    "current_company_name": "Zomato",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Delhi",
+    "linkedin_id": "kartik-aggarwal-b22633177",
+    "activity": [
+        {
+            "interaction": "Liked by Kartik Aggarwal",
+            "link": "",
+            "title": "Introducing #zomatolookback2024. A reflection on the year gone by, with a twist \u00f0\u0178\u02dc\u02c6 The entire team came together with full enthusiasm, to craft an\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7278409625966669824"
+        },
+        {
+            "interaction": "Liked by Kartik Aggarwal",
+            "link": "",
+            "title": "Super pretty and fun xmas DIY cookie kits on Zomato. Check them out: for your kids and the hidden kid in you :)",
+            "img": "",
+            "id": "7276857690331475969"
+        },
+        {
+            "interaction": "Liked by Kartik Aggarwal",
+            "link": "",
+            "title": "We don't encourage order cancellation at Zomato, because it leads to a tremendous amount of food wastage. Inspite of stringent policies, and a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7261387648668192768"
+        },
+        {
+            "interaction": "Liked by Kartik Aggarwal",
+            "link": "",
+            "title": "I have nearly completed a year in the corporate world as a software developer, where each day presents its own challenges and opportunities for\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7258416715510763520"
+        },
+        {
+            "interaction": "Liked by Kartik Aggarwal",
+            "link": "",
+            "title": "WOW! The Zomato Feeding India Concert (ft. Dua Lipa) tickets SOLD OUT in less than 24 hours! A big thank you to everyone for supporting our cause on\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7235165206744547328"
+        },
+        {
+            "interaction": "Liked by Kartik Aggarwal",
+            "link": "",
+            "title": "Biased opinion, but Zomato is on Fire \u00f0\u0178\u201d\u00a5 \u00f0\u0178\u201d\u00a5 All guns blazing \u00f0\u0178\u0161\u20ac - District, Zomato Feeding India Concert (ZFIC ft. Dua Lipa \u00f0\u0178\u017d\u00a4), Ticket reselling\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7235172571371954176"
+        }
+    ],
+    "linkedin_num_id": 703268234.0,
+    "honors_and_awards": [
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana (KVPY) Scholar",
+            "publication": "Indian Institite of Science (IISc)",
+            "date": "2018-04-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

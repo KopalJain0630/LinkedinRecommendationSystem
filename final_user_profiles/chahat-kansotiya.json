@@ -1,0 +1,37 @@
+{
+    "city": "Kharagpur, West Bengal, India",
+    "position": "Student at Indian Institute of Technology, Kharagpur",
+    "experience": [
+        {
+            "title": "Project Intern",
+            "description": "•Performed statistical analysis and comprehensive data visualization, establishing a robust foundation for the project.•Conducted thorough EDA, obtained correlation for input features, and preprocessed data by feature selection and encoding.•Ensured data integrity through effective splitting into train, test, and validation, and handled missing values and outliers.•Developed, Hyper-tuned, and evaluated regression and classification models, and selected the optimal model based on results.•Employed XGBoost model to achieve 98% precision and 87% recall for classification and showed results through the dashboard.",
+            "description_html": "•Performed statistical analysis and comprehensive data visualization, establishing a robust foundation for the project.•Conducted thorough EDA, obtained correlation for input features, and preprocessed data by feature selection and encoding.•Ensured data integrity through effective splitting into train, test, and validation, and handled missing values and outliers.•Developed, Hyper-tuned, and evaluated regression and classification models, and selected the optimal model based on results.•Employed XGBoost model to achieve 98% precision and 87% recall for classification and showed results through the dashboard.",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Unravel Data",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master's degree",
+            "field": "Chemistry",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "Activities and Societies: Academic Projects:- Analyzing Stock Performance and Building a Dashboard, Classification for MNIST IRIS data, Semi Markov Models for Change Point Detection, Spam Classification using Support Vector Machine. Extra Academic Activities:- Member of NSO, Illumination Team, NVH Hall Team in inter-hall General Championship,",
+            "description_html": "Activities and Societies: Academic Projects:- Analyzing Stock Performance and Building a Dashboard, Classification for MNIST IRIS data, Semi Markov Models for Change Point Detection, Spam Classification using Support Vector Machine. Extra Academic Activities:- Member of NSO, Illumination Team, NVH Hall Team in inter-hall General Championship,",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Unravel Data",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Analyzing Stock Performance and Building a Dashboard | Coursera\",\"description\":\"•Extracted historical Share Price &Revenue data using Python libraries and Webscraping on populer stocks.•Extracted data from web using BeautifulSoap, yfinance, Numpy for various stocks.•Visualised the data into a dashboard in form of plots to identify patterns or trends.\"},{\"title\":\"Classification using MNIST Dataset\",\"description\":\"•Developed a fully connected feedforward neural network model with various activation functions for digit classification.•Trained the models using the MNIST training dataset, tested the models with the test data, and compared their results.\"},{\"title\":\"Machine Learning | Spam Classification | Support Vector Machine\",\"description\":\"•Implemented a spam filter using SVM with a linear kernel, leveraging a dataset comprising 4000 training and 1000 test emails.•Employed Text Analytics methodologies such as Stemming, Normalization, and Feature Extraction to preprocess the data.•Trained the SVM model on the meticulously preprocessed dataset, yielding an impressive test set accuracy of 98.5%.\"},{\"title\":\"Semi Markov Models for Change Point Detection\",\"description\":\"• Formulated the problem of change point detection in a time series using the Semi-Markov Model framework.• Used EM algorithm to detect the probabilistic model to identify the change point of a time series data.\"},{\"title\":\"SVM Development for classification using IRIS dataset\",\"description\":\"•Built distinct support vector machines featuring different kernel functions for species classification on the IRIS dataset.•Trained the SVM models, calculated classification accuracy for test data, and then visualized with comparative analysis.\"}]",
+    "honors_and_awards": null
+}

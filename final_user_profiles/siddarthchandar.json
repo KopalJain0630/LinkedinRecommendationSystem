@@ -1,0 +1,44 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2005",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Computer Organization and Architecture\"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Economics of Growth\"},{\"subtitle\":\"-\",\"title\":\"Financial Institutions and Markets\"},{\"subtitle\":\"-\",\"title\":\"Fluid Mechanics\"},{\"subtitle\":\"-\",\"title\":\"Functional Analysis\"},{\"subtitle\":\"-\",\"title\":\"International Trade\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Measure theory and Integration\"},{\"subtitle\":\"-\",\"title\":\"Modern Algebra\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Systems Design\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Optimization methods in Finance\"},{\"subtitle\":\"-\",\"title\":\"Partial Differential Equations\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Public Finance and Policy\"},{\"subtitle\":\"-\",\"title\":\"Real Analysis\"},{\"subtitle\":\"-\",\"title\":\"Stochastic Processes\"}]",
+    "certifications": null,
+    "current_company_name": "Urban Company",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "KVPY Fellow",
+            "publication": "KVPY",
+            "date": null,
+            "description": "I am a KVPY Fellow under the SA stream of 2014."
+        }
+    ]
+}

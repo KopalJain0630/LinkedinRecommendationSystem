@@ -1,0 +1,86 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "MS in Computer Science at UTD | Ex-Barclays, Automation and Application Developer",
+    "experience": [
+        {
+            "title": "BA4 graduate analyst",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Aug 2022 Jul 2024 2 years",
+            "start_date": "Aug 2022",
+            "end_date": "Jul 2024",
+            "duration_short": "2 years",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology intern",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graphic Designer",
+            "location": "Chennai, Tamil Nadu, India",
+            "description_html": null,
+            "duration": "Dec 2020 Dec 2020 1 month",
+            "start_date": "Dec 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "1 month",
+            "company": "Sand Bird",
+            "company_id": "sandbird",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "The University of Texas at Dallas",
+            "degree": "Master of Science - MS",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2026",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Great Learning",
+            "degree": "Advanced Certificate in Full Stack Development",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "National Institute of Technology Rourkela",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: Hourglass club Club for public speaking",
+            "description_html": "Activities and Societies: Hourglass club",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Barclays",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Development of Smart Stick for the Visually Impaired\",\"start_date\":\"Sep 2021\",\"end_date\":\"Apr 2022\"}]",
+    "honors_and_awards": null
+}

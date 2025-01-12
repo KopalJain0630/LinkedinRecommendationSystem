@@ -1,0 +1,175 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Consultant at Mercedes-Benz Research and Development India | Backend Engineer | Java | Spring Boot | Microservices | RESTful APIs |  Azure | Docker | Kubernetes | ETL Development | Apache Spark | Agile Practices",
+    "experience": [
+        {
+            "title": "Mercedes-Benz Research and Development India",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Mercedes-Benz Research and Development India",
+                    "meta": "Apr 2023 - Present 1 year 9 months",
+                    "description": "• Working on the modernization of TEO, a key component of the dialog application handling millions of requests per day, using core Java and microservices architecture to enhance system performance and reliability.• Developed and maintained REST APIs and microservices for the Dia4U project, resulting in up to 80%improvement in user efficiency.• Designed and implemented microservices and ETL processes, optimizing data handling workflows and reducing processing time by up to 60%.• Spearheaded the migration of Daily Jobs from Spark to Airflow using Python, improving ETL monitoring and execution reliability by up to 3x.• Reduced ETL execution time from 7 hours to 1.5 hours by implementing pivotal changes in microservices and ETL processes, achieving a 4x increase in processing efficiency.• Resolved complex customer queries, improving customer satisfaction and operational efficiency, resulting in a 30% increase in the customer base.• Tech stack: Java, Spring Boot, Microservices, REST APIs, Cassandra, Spark, Kubernetes, Docker,Airflow, GitHub Actions, PostgreSQL, Azure, Kafka.",
+                    "duration": "Apr 2023 - Present 1 year 9 months",
+                    "start_date": "Apr 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 9 months",
+                    "title": "Software Consultant",
+                    "description_html": "• Working on the modernization of TEO, a key component of the dialog application handling millions of requests per day, using core Java and microservices architecture to enhance system performance and reliability.<br>• Developed and maintained REST APIs and microservices for the Dia4U project, resulting in up to 80%<br>improvement in user efficiency.<br>• Designed and implemented microservices and ETL processes, optimizing data handling workflows and reducing processing time by up to 60%.<br>• Spearheaded the migration of Daily Jobs from Spark to Airflow using Python, improving ETL monitoring and execution reliability by up to 3x.<br>• Reduced ETL execution time from 7 hours to 1.5 hours by implementing pivotal changes in microservices and ETL processes, achieving a 4x increase in processing efficiency.<br>• Resolved complex customer queries, improving customer satisfaction and operational efficiency, resulting in a 30% increase in the customer base.<br>• Tech stack: Java, Spring Boot, Microservices, REST APIs, Cassandra, Spark, Kubernetes, Docker,<br>Airflow, GitHub Actions, PostgreSQL, Azure, Kafka."
+                },
+                {
+                    "subtitle": "Mercedes-Benz Research and Development India",
+                    "meta": "Aug 2022 - Mar 2023 8 months",
+                    "description": "• Contributed to the DIA4U Project by developing a PDM Reporting microservice, streamlining carline reports for business users.• Managed and resolved operational dependencies in microservices, incorporating API monitoring and alerts using Grafana.• Addressed and resolved customer queries, improving API performance and reliability.• Tech stack Java, Spring Boot, Hibernate, Mockito, JUnit, Cassandra, Spark, Kubernetes, Docker,Grafana, Jenkins.",
+                    "duration": "Aug 2022 Mar 2023 8 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Mar 2023",
+                    "duration_short": "8 months",
+                    "title": "Graduate Engineering Trainee",
+                    "description_html": "• Contributed to the DIA4U Project by developing a PDM Reporting microservice, streamlining carline reports for business users.<br>• Managed and resolved operational dependencies in microservices, incorporating API monitoring and alerts using Grafana.<br>• Addressed and resolved customer queries, improving API performance and reliability.<br>• Tech stack Java, Spring Boot, Hibernate, Mockito, JUnit, Cassandra, Spark, Kubernetes, Docker,<br>Grafana, Jenkins. <!---->"
+                },
+                {
+                    "subtitle": "Mercedes-Benz Research and Development India",
+                    "meta": "Mar 2022 - Jul 2022 5 months",
+                    "description": "• Developed REST APIs and managed microservices for the Common Data Platform (CDP) Project.• Handled and mitigated software vulnerabilities, ensuring robust and secure API development.• Tech stack: Java, Spring Boot, Hibernate, Mockito, JUnit, Hasura Graphql, PostgreSQL, Docker,Jenkins.",
+                    "duration": "Mar 2022 Jul 2022 5 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "Jul 2022",
+                    "duration_short": "5 months",
+                    "title": "Student Intern",
+                    "description_html": "• Developed REST APIs and managed microservices for the Common Data Platform (CDP) Project.<br>• Handled and mitigated software vulnerabilities, ensuring robust and secure API development.<br>• Tech stack: Java, Spring Boot, Hibernate, Mockito, JUnit, Hasura Graphql, PostgreSQL, Docker,<br>Jenkins. <!---->"
+                }
+            ],
+            "company": "Mercedes-Benz Research and Development India",
+            "company_id": "mercedes-benz-research-and-development-india",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product Manager",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Led product development as Acting Head of Product, guiding PMs and designers through the Product Life Cycle.• Developed internal and student-facing products, improving operational efficiency and learning outcomes by 40%.• Tools Used Jira, Asana, Balsamiq.",
+            "description_html": "• Led product development as Acting Head of Product, guiding PMs and designers through the Product Life Cycle.• Developed internal and student-facing products, improving operational efficiency and learning outcomes by 40%.• Tools Used Jira, Asana, Balsamiq. <!---->",
+            "duration": "May 2021 Aug 2021 4 months",
+            "start_date": "May 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "4 months",
+            "company": "7Classes",
+            "company_id": "instaprepsai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Developed backend APIs for NSREEM Software’s video-sharing app and e-commerce website using Node.js, MongoDB, and Express.js.• Addressed and resolved customer queries, enhancing application performance and user satisfaction.",
+            "description_html": "• Developed backend APIs for NSREEM Software’s video-sharing app and e-commerce website using Node.js, MongoDB, and Express.js.• Addressed and resolved customer queries, enhancing application performance and user satisfaction. <!---->",
+            "duration": "Oct 2020 Dec 2020 3 months",
+            "start_date": "Oct 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "3 months",
+            "company": "First Principle Consultancy Services",
+            "company_id": "first-principle-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Developed backend APIs for NSREEM Software’s video-sharing app and e-commerce website using Node.js, MongoDB, and Express.js.• Addressed and resolved customer queries, enhancing application performance and user satisfaction.",
+            "description_html": "• Developed backend APIs for NSREEM Software’s video-sharing app and e-commerce website using Node.js, MongoDB, and Express.js.• Addressed and resolved customer queries, enhancing application performance and user satisfaction. <!---->",
+            "duration": "Oct 2020 Dec 2020 3 months",
+            "start_date": "Oct 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "3 months",
+            "company": "NSREEM SOFTWARES",
+            "company_id": "nsreem",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Red Hat Open Source Contest",
+            "description": "•  Developed a Thorntail and Quarkus Application using Maven.•  Worked on converting Microservice-Session Application from Thorntail to Quarkus and Contributed to ECA after Completion",
+            "description_html": "• Developed a Thorntail and Quarkus Application using Maven.• Worked on converting Microservice-Session Application from Thorntail to Quarkus and Contributed to ECA after Completion <!---->",
+            "duration": "Apr 2020 Jul 2020 4 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "4 months",
+            "company": "Red Hat",
+            "company_id": "red-hat",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research And Development Intern",
+            "location": "India",
+            "description_html": null,
+            "duration": "Apr 2020 May 2020 2 months",
+            "start_date": "Apr 2020",
+            "end_date": "May 2020",
+            "duration_short": "2 months",
+            "company": "Metrolapp",
+            "company_id": "metrolapp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "SDM College of Engg & Tech , Dharwad",
+            "degree": "Bachelor of Engineering - BE",
+            "field": "computer science and engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Computer Orgranisation\"},{\"subtitle\":\"-\",\"title\":\"Data Science\"},{\"subtitle\":\"-\",\"title\":\"Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"OOPS In Java\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2024Credential ID EE7A637725127831See credential",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified: Azure Fundamentals"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Data Analysis with Python "
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Data Visualization with Python"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID #1068-17874457See credential",
+            "subtitle": "SoloLearn",
+            "title": "Java Tutorial Course"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID TRVQQ2YZE85QSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Mar 2020See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Python 101 for Data Science"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID eeSU-4TpHSee credential",
+            "subtitle": "Microsoft",
+            "title": "Introduction to Programming Using Python"
+        }
+    ],
+    "current_company_name": "Mercedes-Benz Research and Development India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

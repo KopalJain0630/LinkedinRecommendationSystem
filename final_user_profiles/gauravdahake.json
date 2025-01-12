@@ -1,0 +1,38 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "...",
+            "start_year": "2002",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Evolutionary Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Financial Engineering\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Production Planning and Inventory Control\"},{\"subtitle\":\"-\",\"title\":\"Quality Design and Control\"},{\"subtitle\":\"-\",\"title\":\"Queuing Theory \"},{\"subtitle\":\"-\",\"title\":\"Reliability Engineering\"},{\"subtitle\":\"-\",\"title\":\"Visual Communication\"}]",
+    "certifications": null,
+    "current_company_name": "Bitbns",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Efficient prediction of stock market indices and foreign exchange rates using Artificial Bee Colony evolutionary computation technique\",\"start_date\":\"Aug 2010\",\"end_date\":\"Dec 2010\",\"description\":\"- Nominated as the best project out of 20 projects in the use of evolutionary computation techniques in problem solving. - Research paper submitted to Expert Systems with Applications international journal for review\"}]",
+    "honors_and_awards": null
+}

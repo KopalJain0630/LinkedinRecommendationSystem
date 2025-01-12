@@ -1,0 +1,334 @@
+{
+    "id": "aalok-agrawal-554225195",
+    "name": "Aalok Agrawal",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "Product Engineer@Sprinklr | MITACS GRI '22 @UoR, Canada | Final year Electrical Engineering @IIT Kharagpur  | Minor in Computer Science and Engineering | Micro in Artificial Intelligence and Applications",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Sprinklr",
+        "company_id": "sprinklr",
+        "title": "Product Engineer@Sprinklr | MITACS GRI '22 @UoR, Canada | Final year Electrical Engineering @IIT Kharagpur  | Minor in Computer Science and Engineering | Micro in Artificial Intelligence and Applications"
+    },
+    "experience": [
+        {
+            "title": "Product Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description": "Finetuned various LLMs(Flan T5, GPT, Bloom) in low resource settings using PEFT techniques to extract relevant phrases from customer reviews.",
+            "description_html": "Finetuned various LLMs(Flan T5, GPT, Bloom) in low resource settings using PEFT techniques to extract relevant phrases from customer reviews. <!---->",
+            "duration": "May 2023 Jun 2023 2 months",
+            "start_date": "May 2023",
+            "end_date": "Jun 2023",
+            "duration_short": "2 months",
+            "company": "Sprinklr",
+            "company_id": "sprinklr",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "MITACS GRI Intern",
+            "location": "Regina, Saskatchewan, Canada",
+            "description": "Working on adaptive learning for concept drift and the possible ways to identify and adapt the model towards it.",
+            "description_html": "Working on adaptive learning for concept drift and the possible ways to identify and adapt the model towards it. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "University of Regina",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Member",
+            "description_html": null,
+            "duration": "Jul 2021 Jul 2022 1 year 1 month",
+            "start_date": "Jul 2021",
+            "end_date": "Jul 2022",
+            "duration_short": "1 year 1 month",
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "Dec 2021 Apr 2022 5 months",
+            "start_date": "Dec 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "5 months",
+            "company": "Ethan AI Pte Ltd",
+            "company_id": "ethan-ai-pte-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Researcher",
+            "location": "India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Communiqu\u00c3\u00a9 IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Communiqu\u00c3\u00a9 IIT Kharagpur",
+                    "meta": "Aug 2020 - May 2021 10 months",
+                    "duration": "Aug 2020 May 2021 10 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "10 months",
+                    "title": "Secretary",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Communiqu\u00c3\u00a9 IIT Kharagpur",
+                    "meta": "Aug 2019 - Aug 2020 1 year 1 month",
+                    "duration": "Aug 2019 Aug 2020 1 year 1 month",
+                    "start_date": "Aug 2019",
+                    "end_date": "Aug 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Communiquetor",
+                    "description_html": null
+                }
+            ],
+            "company": "Communiqu\u00c3\u00a9 IIT Kharagpur",
+            "company_id": "communiqu%C3%A9-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Tech team sub head",
+            "description": "Contributed in hosting website of official technical festival of IIT Kharagpur with over 1 million views made using MERN stack technology.",
+            "description_html": "Contributed in hosting website of official technical festival of IIT Kharagpur with over 1 million views made using MERN stack technology. <!---->",
+            "duration": "Aug 2020 May 2021 10 months",
+            "start_date": "Aug 2020",
+            "end_date": "May 2021",
+            "duration_short": "10 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Keertimaan Nayak",
+            "about": "Product Manager @Kotak Mahindra Bank | IIT Kharagpur 2023",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Bissa",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sibtain Raghib",
+            "about": "SDE-2@ Sapiens || VIT 2022",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Asmita Nimesh",
+            "about": "Associate Software Engineer at o9 Solutions, Inc.| CSE Graduate IIT Kanpur, BTech",
+            "location": "Gwalior"
+        },
+        {
+            "profile_link": "",
+            "name": "Sandeep Sabu",
+            "about": "Process Surveillance Engineer at Quest global",
+            "location": "Kerala, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinav Huria",
+            "about": "SDE-1 @Bajaj Finserv Health | CSE | Full Stack Dev",
+            "location": "Chandigarh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Mehta",
+            "about": "SWE-II @ Juniper Networks | IIT Kanpur '23",
+            "location": "Kota"
+        },
+        {
+            "profile_link": "",
+            "name": "Keshav Maheshwari",
+            "about": "Top-Rated Freelancer on Upwork | Product Designer | IIT Kanpur '23",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhi K.",
+            "about": "Ind & Func AI Decision Science Analyst @ Accenture Japan | IITKanpur'24",
+            "location": "Tokyo, Japan"
+        },
+        {
+            "profile_link": "",
+            "name": "Prathyush Thunguri",
+            "about": "New Product Development Engineer at Rieco Industries | Bachelors and Master in Mechanical from IIT Bombay",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jun 2021See credential",
+            "subtitle": "WorldQuant University",
+            "title": "Applied Data Science I: Scientific Computing & Python (with honors)"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID SNYDRA3XXCR8See credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID P8FHHP4YE3JQSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Feb 2021Credential ID 75VB8ZYBNN93See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID JKUM7X8PUTJ3See credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1035.0,
+    "connections": 500.0,
+    "current_company_company_id": "sprinklr",
+    "current_company_name": "Sprinklr",
+    "publications": "[{\"title\":\"On Zeroshot Counterspeech Generation by LLMs\",\"subtitle\":\"LREC-COLING 2024\",\"date\":\"May 20, 2024\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "aalok-agrawal-554225195",
+    "activity": [
+        {
+            "interaction": "Liked by Aalok Agrawal",
+            "link": "",
+            "title": "We are pleased to announce the successful completion of the Intra-Society Hackathon at Kharagpur Data Analytics Group. This two-week event challenged\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7239873513250004993"
+        },
+        {
+            "interaction": "Liked by Aalok Agrawal",
+            "link": "",
+            "title": "\u00f0\u0178\u017d\u2030 Excited to share our achievement! \u00f0\u0178\u017d\u2030 Our paper, \"Did You Tell a Deadly Lie? Evaluating Large Language Models for Health Misinformation\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7236917519574331392"
+        },
+        {
+            "interaction": "Liked by Aalok Agrawal",
+            "link": "",
+            "title": "Hey Everyone! I am excited to share that I've officially embarked on my journey in the Master's program in Intelligent Information Systems (MIIS)\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7232077840790282243"
+        },
+        {
+            "interaction": "Liked by Aalok Agrawal",
+            "link": "",
+            "title": "Massachusetts Institute of Technology (MIT) announced the world's first AI + Education summit 2 months back. They asked for conference paper\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7214530427682742273"
+        },
+        {
+            "interaction": "Liked by Aalok Agrawal",
+            "link": "",
+            "title": "RIP Satoru Iwata \u00e2\u20ac\u0153If we reduce the number of employees for better short-term financial results, employee morale will decrease. I sincerely doubt\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7157321790296317952"
+        },
+        {
+            "interaction": "Liked by Aalok Agrawal",
+            "link": "",
+            "title": "Facefirst is hiring Machine Learning Engineers! The successful candidate must be conversant with the latest development in deep learning for visual\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7117770614936915970"
+        },
+        {
+            "interaction": "Liked by Aalok Agrawal",
+            "link": "",
+            "title": "One piece of infra most ML pipelines don't have. These are the 3 key non-obvious benefits of using an orchestration tool such as Airflow for your ML\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7105799487536701440"
+        },
+        {
+            "interaction": "Liked by Aalok Agrawal",
+            "link": "",
+            "title": "Personal Update: I am extremely delighted to join H2O.ai as a Data Scientist. The next chapter of my life begins after spending four tough years\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7063841579282628609"
+        }
+    ],
+    "linkedin_num_id": 767946448.0,
+    "honors_and_awards": [
+        {
+            "title": "Winner of Source Code- 2021",
+            "publication": "Kshitij, IIT Kharagpur",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "Source code is a coding competition organised annually by Kshitij, IIT Kharagpur."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

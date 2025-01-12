@@ -1,0 +1,393 @@
+{
+    "id": "ankita132",
+    "name": "Ankita Sahoo",
+    "city": "Amherst, Massachusetts, United States",
+    "country_code": "US",
+    "position": "UMass Amherst | IIT KGP",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Affirm",
+        "company_id": "affirm",
+        "title": "UMass Amherst | IIT KGP"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "San Francisco, California, United States",
+            "description_html": null,
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Affirm",
+            "company_id": "affirm",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Massachusetts, United States",
+            "description_html": null,
+            "duration": "Aug 2023 Dec 2023 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Dec 2023",
+            "duration_short": "5 months",
+            "company": "Symbotic",
+            "company_id": "symbotic",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "San Francisco, California, United States",
+            "description_html": null,
+            "duration": "Jun 2023 Aug 2023 3 months",
+            "start_date": "Jun 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "3 months",
+            "company": "Samsara",
+            "company_id": "samsara",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Morgan Stanley",
+            "location": "India",
+            "description_html": null,
+            "duration": "2 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Jan 2022 - Aug 2022 8 months",
+                    "duration": "Jan 2022 Aug 2022 8 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Aug 2022",
+                    "duration_short": "8 months",
+                    "title": "Senior Tech Associate",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Jan 2021 - Dec 2021 1 year",
+                    "duration": "Jan 2021 Dec 2021 1 year",
+                    "start_date": "Jan 2021",
+                    "end_date": "Dec 2021",
+                    "duration_short": "1 year",
+                    "title": "Tech Associate",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Aug 2020 - Jan 2021 6 months",
+                    "duration": "Aug 2020 Jan 2021 6 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "Jan 2021",
+                    "duration_short": "6 months",
+                    "title": "Tech Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Tech Analyst Intern",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Spring Fest",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Spring Fest",
+                    "meta": "Apr 2018 - Apr 2019 1 year 1 month",
+                    "duration": "Apr 2018 Apr 2019 1 year 1 month",
+                    "start_date": "Apr 2018",
+                    "end_date": "Apr 2019",
+                    "duration_short": "1 year 1 month",
+                    "title": "Head (Tech-Team)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Spring Fest",
+                    "meta": "Jul 2017 - Mar 2018 9 months",
+                    "duration": "Jul 2017 Mar 2018 9 months",
+                    "start_date": "Jul 2017",
+                    "end_date": "Mar 2018",
+                    "duration_short": "9 months",
+                    "title": "Sub-Head(Tech-team)",
+                    "description_html": null
+                }
+            ],
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Kharagpur Open Source Society",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "2 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "Kharagpur Open Source Society",
+                    "meta": "Apr 2018 - Apr 2019 1 year 1 month",
+                    "duration": "Apr 2018 Apr 2019 1 year 1 month",
+                    "start_date": "Apr 2018",
+                    "end_date": "Apr 2019",
+                    "duration_short": "1 year 1 month",
+                    "title": "Executive Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Kharagpur Open Source Society",
+                    "meta": "Feb 2017 - Mar 2018 1 year 2 months",
+                    "duration": "Feb 2017 Mar 2018 1 year 2 months",
+                    "start_date": "Feb 2017",
+                    "end_date": "Mar 2018",
+                    "duration_short": "1 year 2 months",
+                    "title": "Core Team Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Kharagpur Open Source Society",
+            "company_id": "kharagpur-open-source-society",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Bengaluru Area, India",
+            "description_html": null,
+            "duration": "May 2018 Jun 2018 2 months",
+            "start_date": "May 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "2 months",
+            "company": "Skylark Drones",
+            "company_id": "skylark-drones",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Embedded Team Member",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Mar 2017 Sep 2017 7 months",
+            "start_date": "Mar 2017",
+            "end_date": "Sep 2017",
+            "duration_short": "7 months",
+            "company": "Swarm Robotics IIT KGP",
+            "company_id": "swarm-robotics-iit-kgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Aakash Bhardwaj",
+            "about": "AVP at J.P. Morgan",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Chapani",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shachi Bhavsar",
+            "about": "Software Engineer at Google | Ex-Morgan Stanley | DAIICT '20",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Vedika Baid",
+            "about": "Vice President at Goldman Sachs",
+            "location": "Dallas, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Pratap Singh",
+            "about": "SDE 2 @ Amazon",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Devliyal",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Kapil Sharma",
+            "about": "Software Engineer at Stripe",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kamalesh Ghosh",
+            "about": "Associate at Millennium",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddhant Garg",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Shruti Sinha",
+            "about": "Associate @ BNY Mellon | Data Engineer | Ex Oracle | NIT Raipur ‘20",
+            "location": "Raipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepanshu Vijay",
+            "about": "SDE-2 at Amazon | Ex-Goldman Sachs | IIIT-H",
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhi Saxena",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Jain",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Deekshita V.",
+            "about": null,
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Kedia",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Chintan Shah",
+            "about": "Frontend Engineer @ BestX",
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Soham Saha",
+            "about": "MBA Candidate at Stanford GSB | MSD (Merck & Co) | L.E.K. Consulting | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Prayag Godha",
+            "about": "Vice President at Goldman Sachs",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Jagriti Kesarwani",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Saquib Anwar",
+            "about": "Software Engineer II at Zocdoc",
+            "location": "Pune"
+        }
+    ],
+    "educations_details": "University of Massachusetts Amherst",
+    "education": [
+        {
+            "title": "University of Massachusetts Amherst",
+            "degree": "Master's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Electrical Communication Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2194.0,
+    "connections": 500.0,
+    "current_company_company_id": "affirm",
+    "current_company_name": "Affirm",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Amherst",
+    "linkedin_id": "ankita132",
+    "activity": [
+        {
+            "interaction": "Liked by Ankita Sahoo",
+            "link": "",
+            "title": "Happy thanksgiving!! Anecdotally, it seems like hiring has picked up a bit, especially at Meta. --- neetcode.io",
+            "img": "",
+            "id": "7268335785735507968"
+        },
+        {
+            "interaction": "Liked by Ankita Sahoo",
+            "link": "",
+            "title": "I’m happy to share that I recently graduated from the University of Michigan with a B.S.E. in Computer Science (summa cum laude) and a minor in…",
+            "img": "",
+            "id": "7205799130453979137"
+        },
+        {
+            "interaction": "Liked by Ankita Sahoo",
+            "link": "",
+            "title": "Glad to see some of my contributions around Upsert enhancements making it into the release! Check out the video for more details.",
+            "img": "",
+            "id": "11"
+        }
+    ],
+    "linkedin_num_id": 522745746.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,378 @@
+{
+    "id": "radhika-gupta35",
+    "name": "RADHIKA GUPTA",
+    "city": "Bareilly, Uttar Pradesh, India",
+    "country_code": "IN",
+    "position": "Software Engineer @ Microsoft (Azure Storage) | Former SDE Intern @ Microsoft\u00e2\u20ac\u2122 22 | Mathematics and Computing IIT Kharagpur\u00e2\u20ac\u2122 23",
+    "about": "A final year undergraduate student from Mathematics and Computing at Indian Institute of Technology Kharagpur. I am experienced in Software Development, with keen interest in exploring cutting-edge technologies used in real-world products by developing efficient, robust and optimised algorithmic solutions.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Microsoft",
+        "company_id": "microsoft",
+        "title": "Software Engineer @ Microsoft (Azure Storage) | Former SDE Intern @ Microsoft\u00e2\u20ac\u2122 22 | Mathematics and Computing IIT Kharagpur\u00e2\u20ac\u2122 23"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "description": "- Azure Files team under Azure Storage",
+            "description_html": "- Azure Files team under Azure Storage <!---->",
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Project",
+            "description": "\u00e2\u20ac\u00a2\u00c2\u00a0 Analysed and summarised the primary works of key authors to find the problem statement for Android Malware Detection System under the guidance of Professor Arash Habibi Lashkari\u00e2\u20ac\u00a2 \u00c2\u00a0Deduced a novel framework generating realistic adversarial examples incorporating\u00c2\u00a0Provably Certified Defense against Adversarial Attack\u00e2\u20ac\u00a2 \u00c2\u00a0Building a non-uniform manipulation set for android malware applications to design examples by analysing feature importance\u00e2\u20ac\u00a2\u00c2\u00a0 Applying\u00c2\u00a0Projected Gradient Descent (PGD) to optimise worst-case loss on the convex-outer\u00c2\u00a0bound to a non-convex set of final-layer activations of deep ReLu networks",
+            "description_html": "\u00e2\u20ac\u00a2&nbsp; Analysed and summarised the primary works of key authors to find the problem statement for Android Malware Detection System under the guidance of Professor Arash Habibi Lashkari\u00e2\u20ac\u00a2 &nbsp;Deduced a novel framework generating realistic adversarial examples incorporating&nbsp;Provably Certified Defense against Adversarial Attack\u00e2\u20ac\u00a2 &nbsp;Building a non-uniform manipulation set for android malware applications to design examples by analysing feature importance\u00e2\u20ac\u00a2&nbsp; Applying&nbsp;Projected Gradient Descent (PGD) to optimise worst-case loss on the convex-outer&nbsp;bound to a non-convex set of final-layer activations of deep ReLu networks",
+            "duration": "Apr 2021 Dec 2024 3 years 9 months",
+            "start_date": "Apr 2021",
+            "end_date": "Dec 2024",
+            "duration_short": "3 years 9 months",
+            "company": "University of New Brunswick",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Internship",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Worked under Azure Files team of Azure Storage\u00e2\u20ac\u00a2 Proposed an optimised high-level design for the Force Close Handle Live Site Tool to mitigate leaked file handles of NFSV4 Azure File Shares \u00e2\u20ac\u00a2 Implemented three commands in C++ among Partition Layer, NFS Frontend, Storage Diagnostics Server in Azure Storage architecture\u00e2\u20ac\u00a2 Tested in local environment on handles being leaked, opened to NFS file share mounted by ubuntu client locally, by Storage Diagnostics client close command",
+            "description_html": "\u00e2\u20ac\u00a2 Worked under Azure Files team of Azure Storage\u00e2\u20ac\u00a2 Proposed an optimised high-level design for the Force Close Handle Live Site Tool to mitigate leaked file handles of NFSV4 Azure File Shares \u00e2\u20ac\u00a2 Implemented three commands in C++ among Partition Layer, NFS Frontend, Storage Diagnostics Server in Azure Storage architecture\u00e2\u20ac\u00a2 Tested in local environment on handles being leaked, opened to NFS file share mounted by ubuntu client locally, by Storage Diagnostics client close command <!---->",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary of Sports",
+            "description": "\u00e2\u20ac\u00a2 Conducted the virtualised Cyclothon, Chess, Quizzicals, Fitness challenges and Sports Analytics worshops online for more than 500 boarders\u00e2\u20ac\u00a2 Increased the participation from all the batches in WIN India 2.0 sporting extravaganza and the hall secured bronze in virtual marathon",
+            "description_html": "\u00e2\u20ac\u00a2 Conducted the virtualised Cyclothon, Chess, Quizzicals, Fitness challenges and Sports Analytics worshops online for more than 500 boarders\u00e2\u20ac\u00a2 Increased the participation from all the batches in WIN India 2.0 sporting extravaganza and the hall secured bronze in virtual marathon <!---->",
+            "duration": "Jan 2021 Jan 2022 1 year 1 month",
+            "start_date": "Jan 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "1 year 1 month",
+            "company": "Sarojini Naidu Indira Gandhi Hall of Residence",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Internship",
+            "description": "\u00e2\u20ac\u00a2 Built a responsive Login,Signup and other related web pages for the employment web application using React JS and Reactstrap\u00e2\u20ac\u00a2 Designed features like login from an external account, username authentication, logout, keeping the user signed in via API integration",
+            "description_html": "\u00e2\u20ac\u00a2 Built a responsive Login,Signup and other related web pages for the employment web application using React JS and Reactstrap\u00e2\u20ac\u00a2 Designed features like login from an external account, username authentication, logout, keeping the user signed in via API integration <!---->",
+            "duration": "Aug 2020 Oct 2020 3 months",
+            "start_date": "Aug 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "3 months",
+            "company": "iC2C",
+            "company_id": "icampus2corporate",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Microsoft Mentee",
+            "description": "\u00e2\u20ac\u00a2 Part of the Mars Colonisation Program with Ace Hacker ,in Microsoft Engage 2020\u00e2\u20ac\u00a2 Worked in a team of three members to build a web application deploying invincible Tic-Tac-Toe game using the Minimax algorithm up till 6th depth, optimised by Alpha-Beta pruning\u00e2\u20ac\u00a2 Extended the order of matrices to 4x4 and 5x5 in addition to the 3x3 matrix with 4 difficulty levels, achieving scalability and generalizabilty\u00e2\u20ac\u00a2 Added the feature of providing AI-powered suggestions for the next move to the two human players competing against each other\u00e2\u20ac\u00a2 Designed an interactive and attractive frontend using Javascript, HTML and CSS and hosted the web application on Github pages",
+            "description_html": "\u00e2\u20ac\u00a2 Part of the Mars Colonisation Program with Ace Hacker ,in Microsoft Engage 2020\u00e2\u20ac\u00a2 Worked in a team of three members to build a web application deploying invincible Tic-Tac-Toe game using the Minimax algorithm up till 6th depth, optimised by Alpha-Beta pruning\u00e2\u20ac\u00a2 Extended the order of matrices to 4x4 and 5x5 in addition to the 3x3 matrix with 4 difficulty levels, achieving scalability and generalizabilty\u00e2\u20ac\u00a2 Added the feature of providing AI-powered suggestions for the next move to the two human players competing against each other\u00e2\u20ac\u00a2 Designed an interactive and attractive frontend using Javascript, HTML and CSS and hosted the web application on Github pages",
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Aniket Ranjan \u00f0\u0178\u2021\u00ae\u00f0\u0178\u2021\u00b3",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Samikshya Mahapatra",
+            "about": "Client Servicing Manager at The Esports Club",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "abhishek banerjee",
+            "about": "data engineer @ atlys | ex - hindustan times | GenAItechLab fellow",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Parma Nand Thakur",
+            "about": "Automation Testing |Java Selenium |Devops | NIT Jalandhar",
+            "location": "Madhwapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Aashik Sharif Basheer Ahamed",
+            "about": "Seeking full-time opportunities in Data Engineering and Developer roles | Available May 2025 |Student Success Advisor at WSU OAE| MS CS at Washington State University | Ex-Infosys Ltd | Snowflake | Java | Python",
+            "location": "Pullman, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Shibani B.",
+            "about": "Video Content and Actor Consultant at Times Internet",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shahid Farooq",
+            "about": "Data Scientist || Business Analytics || Machine Learning || NLP || Data Analytics || Data Mining",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Chauhan",
+            "about": null,
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Neha Aggarwal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Alexander Babu Arulanthu",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Khyatti Gupta",
+            "about": null,
+            "location": "Switzerland"
+        },
+        {
+            "profile_link": "",
+            "name": "Riyaz Indian",
+            "about": "Bollywood and TV actor, Standup comedian, Stage actor, Mimicry Artist, riyaz indian Call 9004562247",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh Joshi",
+            "about": null,
+            "location": "Z\u00c3\u00bcrich Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Bharani CV",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Meenal Agrawal",
+            "about": "Software Engineer 2 at Microsoft",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Chandu Yuvarajappa",
+            "about": "Member of Technical Staff ( RTL Design)",
+            "location": "San Jose, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Subham Gupta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Palak Arora",
+            "about": "Data Analytics at Expertise in Excel, SQL, Power BI, Power Query, Data Modelling, DAX & Data Visualization",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Balajiganapathi S",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Sharma",
+            "about": null,
+            "location": "Kota"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "5yr Integrated MSc",
+            "field": "Mathematics and Computing || Micro in Artificial Intelligence and Applications",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: National Sports Organization - Basketball | Mathematics Colloquium | Hindi Dramatics Society Pravah",
+            "description_html": "Activities and Societies: National Sports Organization - Basketball | Mathematics Colloquium | Hindi Dramatics Society Pravah",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Bishop Conrad Senior Secondary School , Bareilly",
+            "degree": "High School",
+            "field": "10 CGPA",
+            "start_year": "2003",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"AI61005\",\"title\":\"Artificial Intelligence: Foundations and Applications\"},{\"subtitle\":\"CS31702\",\"title\":\"Computer Architecture and Operating Systems\"},{\"subtitle\":\"MA21007\",\"title\":\"Design and Analysis of Algorithms(T/L)\"},{\"subtitle\":\"MA40004\",\"title\":\"File Organization and Database Systems\"},{\"subtitle\":\"MA30003\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"MA31011\",\"title\":\"Object Oriented Systems Design(T/L)\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures(T/L)\"},{\"subtitle\":\"MA40003\",\"title\":\"System Programming\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 879.0,
+    "connections": 500.0,
+    "current_company_company_id": "microsoft",
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Fast Polygon Triangulation",
+            "start_date": "Oct 2020",
+            "end_date": "Nov 2020",
+            "description": "\u00e2\u20ac\u00a2 Worked under Professor Bodhayan Roy of the Mathematics Department of IIT Kharagpur for a course project of Object Oriented Systems Design\u00e2\u20ac\u00a2 Applied Ear-clipping method of quadratic time complexity by iteratively removing ear vertices using a circular doubly linked list\u00e2\u20ac\u00a2 Optimised to linearithmic time with 6 times speedup by Seidel's algorithm storing topological information in doubly connected edge list\u00e2\u20ac\u00a2 Implemented sweep line algorithm to divide a simple polygon into y-monotone polygons followed by greedy triangulation in linear time\u00e2\u20ac\u00a2 Implemented in C++ using STL and graphics library to implement data structures and visualize triangulation of a simple n-sided polygon"
+        }
+    ],
+    "organizations": [
+        {
+            "title": "Mathematics Colloquium",
+            "membership_type": "President",
+            "start_date": "Mar 2022",
+            "end_date": "Present",
+            "description": "\u00e2\u20ac\u00a2 Holding the position of President of Mathematics Colloquium of 15 members\u00e2\u20ac\u00a2 Responsible for organising talks, intra-departmental group activities on inter-disciplinary topics and recreating events for 400+ students of the Department of Mathematics\u00e2\u20ac\u00a2 Responsible for smooth communications among and across the batches of undergraduate and postgraduate students and research scholars",
+            "membership_number": null
+        },
+        {
+            "title": "Technology Dramatics Society - Pravah",
+            "membership_type": "Actor",
+            "start_date": "Aug 2018",
+            "end_date": "Present",
+            "description": "\u00e2\u20ac\u00a2 Secured bronze in intercollegiate Street Play competition in Carpe Diem (Annual Cultural Fest) at IIM Calcutta in 2019 \u00e2\u20ac\u00a2 Performed three stage plays and a street play addressing social causes to the college students of more than 3000",
+            "membership_number": null
+        }
+    ],
+    "location": "Bareilly",
+    "linkedin_id": "radhika-gupta35",
+    "activity": [
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "When open water swimmer Bhakti Sharma swam across the English Channel, sharks and jellyfish weren\u00e2\u20ac\u2122t the only dangers she faced. Here\u00e2\u20ac\u2122s how she became\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7270453896752332800"
+        },
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "As a student, I used to travel for free all the time. I would apply for multiple scholarships and sponsorship opportunities at different conferences,\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7267005509612765184"
+        },
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "When I graduated in May 2024, I didn't have a single job offer. It was tough. Every time I met friends or family, the first question was always\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "Took the course on course on basics of Generative AI applications in corporate, along with the ethical implications. Interesting takeaway: Use of VAE\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7244992292128751616"
+        },
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "Carnegie Mellon University welcomed Google CEO Sundar Pichai, who had the chance to engage with members of our innovative community, tour campus and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7242316975455051776"
+        },
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "At SDC2024, Rena Shah and I will talk about the evolution of Azure Files with SMB, NFS and REST protocols and the design challenges for a cloud\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7241619900681613312"
+        },
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "Say Goodbye to countless job Interviews. ChatGPT is a powerful tool that can enhance your job applications \u00f0\u0178\u02dc\u017d \u00f0\u0178\u2019\u00bb Don't forget to share this post\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7188914677916090369"
+        },
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "#LegendsofIITK !!",
+            "img": "",
+            "id": "7186304987218481152"
+        },
+        {
+            "interaction": "Liked by RADHIKA GUPTA",
+            "link": "",
+            "title": "\u00f0\u0178\u017d\u201c Exciting News: Submitted my PhD Dissertation! Presenting my doctoral dissertation on understanding how bacteria \u00f0\u0178\u00a6\u00a0 evolve phage resistance and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7179798761991200769"
+        }
+    ],
+    "linkedin_num_id": 707327682.0,
+    "honors_and_awards": [
+        {
+            "title": "Inter-IIT Women Basketball",
+            "publication": "-",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "Player of the gold-winning Basketball Women Team of IIT Kharagpur in Inter-IIT Sports Meet held at IIT Kharagpur in 2019"
+        },
+        {
+            "title": "Street Play Competition at Carpedium, IIM Kolkata",
+            "publication": "-",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "Part of the bronze winning team in intercollegiate Street Play competition in Carpe Diem (Annual Cultural Fest) at IIM Calcutta in 2019"
+        },
+        {
+            "title": "National Level Science Talent Search Examination",
+            "publication": "-",
+            "date": "2012-07-01T00:00:00.000Z",
+            "description": "Secured an All India Rank 1196 and awarded first place at School level in National Level Science Talent Search Examination in 2015"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "city": "Gaya, Bihar, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2019",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"8/10\",\"title\":\"Combustion, 💥 Explosion and Detonation \"},{\"subtitle\":\"9/10\",\"title\":\"Electric Aircraft propulsion\"},{\"subtitle\":\"8\",\"title\":\"Finance and Accounting \"},{\"subtitle\":\"10/10\",\"title\":\"Introduction to Rocket Propulsion\"},{\"subtitle\":\"-\",\"title\":\"Organizational Behaviour\"},{\"subtitle\":\"8.5/10\",\"title\":\"Principle of Economy \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jan 2021",
+            "subtitle": "NPTEL",
+            "title": "Organizatonal Behaviour"
+        },
+        {
+            "subtitle": "Jones Aviation",
+            "title": "Flight training of Microlite"
+        }
+    ],
+    "current_company_name": "Let us Lead",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "C& S Electric Award",
+            "publication": "IITM Director",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": "I was awarded with this medal 🥇 for performing the Best Entrepreneurial activities among the students during my Graduation days."
+        },
+        {
+            "title": "First prize at LeanHack competition",
+            "publication": "E-cell IITM",
+            "date": "2020-03-01T00:00:00.000Z",
+            "description": "First prize winner at LeanHack Bplan competition."
+        },
+        {
+            "title": "Second prize at Start up series, E-cell IITM",
+            "publication": "E-cell IITM",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": "Bootstrap startup competition prize winner startup Techtable."
+        },
+        {
+            "title": "India's biggest water rocket challenge",
+            "publication": "IAAA India",
+            "date": "2017-10-01T00:00:00.000Z",
+            "description": "We won the second prize with our bottle rocket which was more than 6 feets."
+        }
+    ]
+}

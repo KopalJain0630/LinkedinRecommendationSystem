@@ -1,0 +1,516 @@
+{
+    "id": "adnanhassan99",
+    "name": "Adnan Hassan",
+    "city": "Aurangabad, Bihar, India",
+    "country_code": "IN",
+    "position": "Analyst @American Express • CFA L1 • IIT Kharagpur",
+    "about": "I'm an Analyst at American Express. I am interested in data science, strategy, and finance.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "American Express",
+        "company_id": "american-express",
+        "title": "Analyst @American Express • CFA L1 • IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description": "US Commercial Risk Strategy",
+            "description_html": "US Commercial Risk Strategy <!---->",
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "AI Research Consultant",
+            "description_html": null,
+            "duration": "Sep 2023 Apr 2024 8 months",
+            "start_date": "Sep 2023",
+            "end_date": "Apr 2024",
+            "duration_short": "8 months",
+            "company": "Marktechpost Media Inc.",
+            "company_id": "marktechpost",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Ambassador",
+            "description_html": null,
+            "duration": "Sep 2023 Feb 2024 6 months",
+            "start_date": "Sep 2023",
+            "end_date": "Feb 2024",
+            "duration_short": "6 months",
+            "company": "Shepherd",
+            "company_id": "shepherd-study",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "Mar 2023 Mar 2023 1 month",
+            "start_date": "Mar 2023",
+            "end_date": "Mar 2023",
+            "duration_short": "1 month",
+            "company": "Protium",
+            "company_id": "protiumindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Department Academic Mentor",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "• Mentor to 5 sophomores for their academic and general concerns, and helping them cope with the curriculum• Organized several connect sessions to address their concerns and inform them of the overall framework of the curriculum",
+            "description_html": "• Mentor to 5 sophomores for their academic and general concerns, and helping them cope with the curriculum• Organized several connect sessions to address their concerns and inform them of the overall framework of the curriculum <!---->",
+            "duration": "Dec 2021 Mar 2023 1 year 4 months",
+            "start_date": "Dec 2021",
+            "end_date": "Mar 2023",
+            "duration_short": "1 year 4 months",
+            "company": "Student Welfare Group, IIT Kharagpur",
+            "company_id": "student-welfare-group-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Revenue Strategy Intern",
+            "description_html": null,
+            "duration": "Oct 2022 Jan 2023 4 months",
+            "start_date": "Oct 2022",
+            "end_date": "Jan 2023",
+            "duration_short": "4 months",
+            "company": "Mobile Premier League (MPL)",
+            "company_id": "mobile-premier-league",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "description_html": null,
+            "duration": "Sep 2022 Nov 2022 3 months",
+            "start_date": "Sep 2022",
+            "end_date": "Nov 2022",
+            "duration_short": "3 months",
+            "company": "Jodo",
+            "company_id": "jodopay",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description_html": null,
+            "duration": "Aug 2022 Sep 2022 2 months",
+            "start_date": "Aug 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "2 months",
+            "company": "Elystar Investment Management",
+            "company_id": "elystar",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Summer School",
+            "description": "• Selected in this integrated learning course with practical industry applications through an immersive experience with Amazon Scientists • Inculcated knowledge about some key ML topics including Supervised Learning, Deep Neural Networks, Dimensionality Reduction, Unsupervised Learning, Probabilistic Graphical Models and Sequential LearningSkills: Machine Learning Python (Programming Language)",
+            "description_html": "• Selected in this integrated learning course with practical industry applications through an immersive experience with Amazon Scientists • Inculcated knowledge about some key ML topics including Supervised Learning, Deep Neural Networks, Dimensionality Reduction, Unsupervised Learning, Probabilistic Graphical Models and Sequential LearningSkills: Machine Learning Python (Programming Language) <!---->",
+            "duration": "Jul 2022 Jul 2022 1 month",
+            "start_date": "Jul 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "1 month",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Worked under Prof. Manoj Kumar Tiwari, Director, NITIE Mumbai• Developed a web application using Django framework for Landscaping & Forecasting services and deployed using Heroku• Operated with the team on analysis of man power deployment of a large firm and decremented the requirements by 10%",
+            "description_html": "Worked under Prof. Manoj Kumar Tiwari, Director, NITIE Mumbai• Developed a web application using Django framework for Landscaping &amp; Forecasting services and deployed using Heroku• Operated with the team on analysis of man power deployment of a large firm and decremented the requirements by 10% <!---->",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Management Mumbai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Coordinator",
+            "location": "India",
+            "description": "• Assisted in finalizing annual Technology Budget of Patel Hall, helped in appointing team captains & formation of teams• Patel hall team was the Gold medalist in Data Analytics event in the Gymkhana Championship Technology, 202",
+            "description_html": "• Assisted in finalizing annual Technology Budget of Patel Hall, helped in appointing team captains &amp; formation of teams• Patel hall team was the Gold medalist in Data Analytics event in the Gymkhana Championship Technology, 202 <!---->",
+            "duration": "Sep 2021 Apr 2022 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "8 months",
+            "company": "Patel Hall of Residence",
+            "company_id": "patel-hall-of-residence",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Debater",
+            "description": "• Contested in various organized events during the academic year 2020-21",
+            "description_html": "• Contested in various organized events during the academic year 2020-21 <!---->",
+            "duration": "Sep 2020 Feb 2021 6 months",
+            "start_date": "Sep 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "6 months",
+            "company": "Debating Society, IIT Kharagpur",
+            "company_id": "debating-society-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Intern",
+            "location": "Chennai, Tamil Nadu, India",
+            "description": "• Performed exploratory data analysis of different kinds of brakes, their manufacturing processes & involved calculations• Involved with research & development team on modelling the different components of brakes & their assembly design• Explored advanced machines related to testing of materials and R&D involved in manufacturing process using childparts",
+            "description_html": "• Performed exploratory data analysis of different kinds of brakes, their manufacturing processes &amp; involved calculations• Involved with research &amp; development team on modelling the different components of brakes &amp; their assembly design• Explored advanced machines related to testing of materials and R&amp;D involved in manufacturing process using childparts <!---->",
+            "duration": "Dec 2020 Dec 2020 1 month",
+            "start_date": "Dec 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "1 month",
+            "company": "Manufacturing company",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Member",
+            "description": "• Represented in product design competitions during year 2019-20 as an Associate Member at ProDex, IIT Kharagpur• Attained 5th position, working in a team of 10+ members in Open IIT Product Design, IIT Kharagpur, 2019",
+            "description_html": "• Represented in product design competitions during year 2019-20 as an Associate Member at ProDex, IIT Kharagpur• Attained 5th position, working in a team of 10+ members in Open IIT Product Design, IIT Kharagpur, 2019 <!---->",
+            "duration": "Aug 2019 Apr 2020 9 months",
+            "start_date": "Aug 2019",
+            "end_date": "Apr 2020",
+            "duration_short": "9 months",
+            "company": "ProDex IIT Kharagpur",
+            "company_id": "prodex-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Debankit Priyadarshi",
+            "about": "Masters student at NISER | Former research intern at NPL",
+            "location": "Bhubaneshwar"
+        },
+        {
+            "profile_link": "",
+            "name": "Pijush Bhuyan",
+            "about": "Machine Learning @Awiros | Vision AI 👁️ | IIIT Delhi",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Atharva Chaporkar",
+            "about": "IB Strategy @ Nomura | Ex-VC @ Riverwalk Holdings | CFA L1 | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "SUBHAJIT BHATTACHARJEE",
+            "about": "IIM Indore PGP ‘25 || Ex-TCS || KGEC ‘21",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivangi Bakshi",
+            "about": "Passionate about leveraging innovative technologies to architect scalable and efficient systems that drive business success",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyansh Rawat",
+            "about": "Masters in IT/IT Management @ The University of Sydney",
+            "location": "Sydney, NSW"
+        },
+        {
+            "profile_link": "",
+            "name": "Ketaki Ghadage",
+            "about": "Software Engineer @NICE | Full Stack Developer",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhiraj Kumar Rajak",
+            "about": "Senior Consultant at LTIMINDTREE",
+            "location": "Thane"
+        },
+        {
+            "profile_link": "",
+            "name": "DEBANGAN MITRA",
+            "about": "Java Backend Developer | TCS Digital |",
+            "location": "West Bengal, India"
+        },
+        {
+            "profile_link": "",
+            "name": "BIDYA SAGAR",
+            "about": "Pros Consultant",
+            "location": "Baripada"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree (B.Tech+M.Tech)",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "Activities and Societies: Entrepreneurship cell, IIT Kharagpur, Debating Society, IIT Kharagpur, ProDex , IIT Kharagpur",
+            "description_html": "Activities and Societies: Entrepreneurship cell, IIT Kharagpur, Debating Society, IIT Kharagpur, ProDex , IIT Kharagpur",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Spanish "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Urdu "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Sep 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Cybersecurity Foundations"
+        },
+        {
+            "meta": "Issued Oct 2023See credential",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level 1"
+        },
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Designing a Presentation"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Asking for Feedback as an Employee"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Communicating Nonverbally"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Communication Foundations"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Critical Thinking"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Cultivating a Growth Mindset"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Developing Your Emotional Intelligence (2017)"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Interpersonal Communication"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "People Analytics"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "PowerPoint: Eight Easy Ways to Make Your Presentation Stand Out"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Strategic Thinking"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Unconscious Bias"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Using Questions to Foster Critical Thinking and Curiosity"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Writing Emails People Want to Read"
+        }
+    ],
+    "recommendations": [
+        "Murugesh B. “I have had the opportunity to interact with Adnan when he was an intern at our department. I always amazed with his deep knowledge and wisdom about various topics. We have spent hours talking about human evolution, culture, relationships, societal pressure etc. He always had a very interesting view points. I'm sure he was well deserved to earn a seat at IIT KGP. Also he would bring a great atmosphere wherever he is in. Wish him all success :)”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Aug 2019 - Jun 2021 · 1 year 11 months",
+            "duration_short": "1 year 11 months",
+            "end_date": "Jun 2021",
+            "start_date": "Aug 2019",
+            "subtitle": "NATIONAL CADET CORPS - India",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 16739.0,
+    "connections": 500.0,
+    "current_company_company_id": "american-express",
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Aurangabad",
+    "linkedin_id": "adnanhassan99",
+    "activity": [
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Meta AI Releases Apollo: A New Family of Video-LMMs Large Multimodal Models for Video Understanding Researchers from Meta AI and Stanford…",
+            "img": "",
+            "id": "7274675766695489537"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Nexa AI Releases OmniAudio-2.6B: A Fast Audio Language Model for Edge Deployment Nexa AI has announced OmniAudio-2.6B, an audio-language model…",
+            "img": "",
+            "id": "7274310078789251072"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Meta AI Releases Apollo: A New Family of Video-LMMs Large Multimodal Models for Video Understanding While multimodal models (LMMs) have advanced…",
+            "img": "",
+            "id": "7274749861600661505"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Aravind Srinivas, CEO of Perplexity, tells Lex Fridman all the ways in which I was right against the prevalent ideas of the time: deep learning…",
+            "img": "",
+            "id": "7274187811711340544"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Give me 2 minutes, and I'll teach you how Uber computes ETA (not joking): • They represent the physical map as a graph • They compute ETA by…",
+            "img": "",
+            "id": "2"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Euler's Identity Widely regarded as one of the most beautiful equations in mathematics, it unites e, π, i, 1, and 0 - five fundamental constants in…",
+            "img": "",
+            "id": "7273393891800731648"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Imagine a world where everyone, regardless of their visual ability, can experience the thrill of a live soccer match. The cheers. The tension. The…",
+            "img": "",
+            "id": "7273705575081734145"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Meta AI Introduces Byte Latent Transformer (BLT): A Tokenizer-Free Model That Scales Efficiently Meta introduces the Byte Latent Transformer (BLT) –…",
+            "img": "",
+            "id": "7273559297505013760"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "LG AI Research Releases EXAONE 3.5: Three Open-Source Bilingual Frontier AI-level Models Delivering Unmatched Instruction Following and Long Context…",
+            "img": "",
+            "id": "35"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Sometimes our anthropocentric assumptions about how intelligence \"should\" work (like using language for reasoning) may be holding AI development…",
+            "img": "",
+            "id": "7272264534524866560"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Microsoft Research Introduces AI-Powered Carbon Budgeting Method: A Real-Time Approach to Tracking Global Carbon Sinks and Emission Since the…",
+            "img": "",
+            "id": "7272853392912273410"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "LG AI Research Releases EXAONE 3.5: Three Open-Source Bilingual Frontier AI-level Models Delivering Unmatched Instruction Following and Long Context…",
+            "img": "",
+            "id": "35"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Visa 🆚 Mastercard 🆚 PayPal 🆚 American Express The latest Income Statements from the Payments Giants at glance: Source: App Economy Insights…",
+            "img": "",
+            "id": "7271145736178708480"
+        },
+        {
+            "interaction": "Liked by Adnan Hassan",
+            "link": "",
+            "title": "Apple just released their annual holiday ad... ❤️",
+            "img": "",
+            "id": "7267974682761457664"
+        }
+    ],
+    "linkedin_num_id": 833173414.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

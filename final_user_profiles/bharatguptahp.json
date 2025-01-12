@@ -1,0 +1,65 @@
+{
+    "city": "Vancouver, British Columbia, Canada",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian School of Business",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2005",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". ' ,",
+            "start_year": "1993",
+            "end_year": "2002",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". ' ,",
+            "start_year": "2002",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2022-06",
+            "end_year": "2022-09",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Cloud Architecture: Core Concepts"
+        },
+        {
+            "meta": "Issued Dec 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Becoming an AI-First Product Leader"
+        }
+    ],
+    "current_company_name": "Equinox Gold Corp.",
+    "publications": "[{\"title\":\"Patent : Efficient cloud resource utilization for enterprise customers\",\"date\":\"Mar 2015\"}]",
+    "patents": "[{\"title\":\"Single tool for performance testing (scale, stress and load) of IaaS resources\",\"date_issued\":\"October 15, 2014\",\"patents_id\":\"US NA\"}]",
+    "projects": null,
+    "honors_and_awards": null
+}

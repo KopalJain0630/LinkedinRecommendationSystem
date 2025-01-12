@@ -1,0 +1,356 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "Associate @Accenture | Ex Top Voice | Formerly @Delta-V Analytics @NamaSYS @GFG, @LGM, @SSB | FullStack AI DevOps-AWS Engineer | Coding a better tomorrow",
+    "experience": [
+        {
+            "title": "Associate",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Nov 2024 - Present 2 months",
+            "start_date": "Nov 2024",
+            "end_date": "Present",
+            "duration_short": "2 months",
+            "company": "Accenture",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Delta-V Analytics",
+            "location": "United States",
+            "description_html": null,
+            "duration": "2 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "Delta-V Analytics",
+                    "meta": "Apr 2023 - Sep 2024 1 year 6 months",
+                    "description": "● Engineered mission-based satellite simulating digital twins with member and stakeholder based simulating workspace, revolutionizing simulation capabilities.● Spearheaded R&D on establishing bidirectional communication socket channels and simulation mechanisms, advancing communication capabilities.● Led and managed the AWS cloud infrastructure using infrastructure as code, ensuring scalable and reliable cloud operations.● Built a robust authentication unit with enhanced security measures such as firewalls, API access keys, authorizers, and mechanisms for multi-session and idle session management ensuring seamless user experiences.● Designed and managed a comprehensive microservice-based API architecture, integrating API gateways, Lambdas, and serverless deployment pipelines, significantly improving deployment efficiency and system scalability.● Integrated deployment pipelines for AWS Fargate architecture, leveraging AWS ECS, ECR, Load Balancer, Networking Infrastructure, CodePipelines, and CodeBuild, ensuring a robust and efficient deployment process.● Orchestrated smooth frontend deployment pipelines using AWS S3, Route 53, and CloudFront for rapid application deployment.● Build History for tracking simulation events, eliminating manual satellite build track by 100% and optimizing historical data storage of simulating configurations and visualizations.● Designed user-session based Kubernetes pod management in typescript cloud-functions enhancing user-service management efficiency by 60%.● Developed a suite of service wrappers (Drag and Drop, Multithread, Layout, JSON Forms, Visualization Engines) enhancing project functionality and efficiency by 40%, enabling advanced features like timeseries analysis satellite diagram modelling and 3D Cesium simulting visualization.",
+                    "duration": "Apr 2023 Sep 2024 1 year 6 months",
+                    "start_date": "Apr 2023",
+                    "end_date": "Sep 2024",
+                    "duration_short": "1 year 6 months",
+                    "title": "Software Development Engineer(AI and DevOps)",
+                    "description_html": "● Engineered mission-based satellite simulating digital twins with member and stakeholder based simulating workspace, revolutionizing simulation capabilities.<br>● Spearheaded R&amp;D on establishing bidirectional communication socket channels and simulation mechanisms, advancing communication capabilities.<br>● Led and managed the AWS cloud infrastructure using infrastructure as code, ensuring scalable and reliable cloud operations.<br>● Built a robust authentication unit with enhanced security measures such as firewalls, API access keys, authorizers, and mechanisms for multi-session and idle session management ensuring seamless user experiences.<br>● Designed and managed a comprehensive microservice-based API architecture, integrating API gateways, Lambdas, and serverless deployment pipelines, significantly improving deployment efficiency and system scalability.<br>● Integrated deployment pipelines for AWS Fargate architecture, leveraging AWS ECS, ECR, Load Balancer, Networking Infrastructure, CodePipelines, and CodeBuild, ensuring a robust and efficient deployment process.<br>● Orchestrated smooth frontend deployment pipelines using AWS S3, Route 53, and CloudFront for rapid application deployment.<br>● Build History for tracking simulation events, eliminating manual satellite build track by 100% and optimizing historical data storage of simulating configurations and visualizations.<br>● Designed user-session based Kubernetes pod management in typescript cloud-functions enhancing user-service management efficiency by 60%.<br>● Developed a suite of service wrappers (Drag and Drop, Multithread, Layout, JSON Forms, Visualization Engines) enhancing project functionality and efficiency by 40%, enabling advanced features like timeseries analysis satellite diagram modelling and 3D Cesium simulting visualization."
+                },
+                {
+                    "subtitle": "Delta-V Analytics",
+                    "meta": "Oct 2022 - Apr 2023 7 months",
+                    "description": "● Lead Project Nembus, a 3D view of mega-constellations coverage by scraped geo-orbital data with multi-workspace reports, reducing 45% data rental cost and ensuring the project met its critical data management requirements.● Built FaultDetection reducing downtime by 20% by training user data with channel mapping automated by cloning & parser. Predicting anomaly reports from user-trained LSTM model in react flask architecture. with diagnostic summarizations for both components and its channels.● Built SystemIdentification enhancing dynamic metric by 30%. by flask’s distributed architecture, with dual-stage workspace & storage cleanups.● Increased user experience and loading downtime by 30% by handling simulation streams in czml and 3D visualization of current simulations.● Reduced api-response time by 12% by migrating rest-api to GRPC Web protobuf with envoy proxy and docker for http1-http2 communication.● Reduced network usage & latency by 60% by real-time data streams using distributed service of NodeJS and Websocket with Redis cashing.",
+                    "duration": "Oct 2022 Apr 2023 7 months",
+                    "start_date": "Oct 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "7 months",
+                    "title": "Software Developer (FullStack)",
+                    "description_html": "● Lead Project Nembus, a 3D view of mega-constellations coverage by scraped geo-orbital data with multi-workspace reports, reducing 45% data rental cost and ensuring the project met its critical data management requirements.<br>● Built FaultDetection reducing downtime by 20% by training user data with channel mapping automated by cloning &amp; parser. Predicting anomaly reports from user-trained LSTM model in react flask architecture. with diagnostic summarizations for both components and its channels.<br>● Built SystemIdentification enhancing dynamic metric by 30%. by flask’s distributed architecture, with dual-stage workspace &amp; storage cleanups.<br>● Increased user experience and loading downtime by 30% by handling simulation streams in czml and 3D visualization of current simulations.<br>● Reduced api-response time by 12% by migrating rest-api to GRPC Web protobuf with envoy proxy and docker for http1-http2 communication.<br>● Reduced network usage &amp; latency by 60% by real-time data streams using distributed service of NodeJS and Websocket with Redis cashing."
+                },
+                {
+                    "subtitle": "Delta-V Analytics",
+                    "meta": "Jul 2022 - Oct 2022 4 months",
+                    "description": "● Engineered GUI based 3D satellite component visualization designed by graph based component categorization, to their parent propagators.● Designed simulation interface in Konva Minimap & zoom controls enhancing accessibility by 10%. with canvas event computations in browser worker-threads and Redux● Designed intricate data flows to increase efficiency by 20% with Redux and sagas, custom hooks, with an adapter architecture, streamlining data handling processes.● Utilized advanced frontend storage services like IndexDB, local, and session storage to ensure robust data management and accessibility.● Maintained and managed code by employing highest software development standards ESLint, Prettier, Webpack and Pre-committer Husky, resulting in a reliable and maintainable codebase.● Programmed functionalities include sharing & custom linking simulations.",
+                    "duration": "Jul 2022 Oct 2022 4 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Oct 2022",
+                    "duration_short": "4 months",
+                    "title": "Software Developer (Frontend)",
+                    "description_html": "● Engineered GUI based 3D satellite component visualization designed by graph based component categorization, to their parent propagators.<br>● Designed simulation interface in Konva Minimap &amp; zoom controls enhancing accessibility by 10%. with canvas event computations in browser worker-threads and Redux<br>● Designed intricate data flows to increase efficiency by 20% with Redux and sagas, custom hooks, with an adapter architecture, streamlining data handling processes.<br>● Utilized advanced frontend storage services like IndexDB, local, and session storage to ensure robust data management and accessibility.<br>● Maintained and managed code by employing highest software development standards ESLint, Prettier, Webpack and Pre-committer Husky, resulting in a reliable and maintainable codebase.<br>● Programmed functionalities include sharing &amp; custom linking simulations."
+                }
+            ],
+            "company": "Delta-V Analytics",
+            "company_id": "deltav-analytics",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Full Stack Cloud (AWS) BlockChain Android Developer",
+            "location": "Remote",
+            "description": "Empowering your business with fullstack software develoment with cloud solutions and strategic decision making for driving profitable customer focused technology.● RECENT WORKS:   Full Stack Web Application:  to store and print Adhar, Voter and Pan Card details once Admin transfers an amount to the user. Also linking of Adhar, Voter and Pan card are done through the application. With an Admin Panel to transfer amount, see all the details given by all users, and delete fake accounts.● BUSINESS PAGE:   Experience in Developing Business page of startups's and service companies● PORTFOLIO PAGE:   Experience in Developing Portfolio pages of individuals● For more details visit:       ",
+            "description_html": "Empowering your business with fullstack software develoment with cloud solutions and strategic decision making for driving profitable customer focused technology.● RECENT WORKS: Full Stack Web Application: to store and print Adhar, Voter and Pan Card details once Admin transfers an amount to the user. Also linking of Adhar, Voter and Pan card are done through the application. With an Admin Panel to transfer amount, see all the details given by all users, and delete fake accounts.● BUSINESS PAGE: Experience in Developing Business page of startups's and service companies● PORTFOLIO PAGE: Experience in Developing Portfolio pages of individuals● For more details visit: ",
+            "duration": "Oct 2021 Dec 2023 2 years 3 months",
+            "start_date": "Oct 2021",
+            "end_date": "Dec 2023",
+            "duration_short": "2 years 3 months",
+            "company": "Freelancer.com",
+            "company_id": "freelancer-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full Stack Engineer",
+            "location": "California, United States",
+            "description": "● Achieved 45% efficiency gain by transitioning static response to JSON,integrating it’s client-side with 30+ validated Postman-API tests.● Enhanced user retention by 12% by StripeApi subscriptions andautomated Jinja Email Templates.● Reduced manual efforts of Ops team by 15% by designing real-timeJSON builder and Admin control to customize engines and layouts of app",
+            "description_html": "● Achieved 45% efficiency gain by transitioning static response to JSON,integrating it’s client-side with 30+ validated Postman-API tests.● Enhanced user retention by 12% by StripeApi subscriptions andautomated Jinja Email Templates.● Reduced manual efforts of Ops team by 15% by designing real-timeJSON builder and Admin control to customize engines and layouts of app <!---->",
+            "duration": "Mar 2022 Jul 2022 5 months",
+            "start_date": "Mar 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "5 months",
+            "company": "Namasys Analytics",
+            "company_id": "namasys-company",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Campus Manager",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "Mentored over 1,500 students in Git and Data Structures & Algorithms (DSA), significantly improving their technical skills. Conducted seminars and talks to inspire and encourage students in coding, fostering a strong coding culture.",
+            "description_html": "Mentored over 1,500 students in Git and Data Structures &amp; Algorithms (DSA), significantly improving their technical skills. Conducted seminars and talks to inspire and encourage students in coding, fostering a strong coding culture. <!---->",
+            "duration": "Jun 2021 May 2022 1 year",
+            "start_date": "Jun 2021",
+            "end_date": "May 2022",
+            "duration_short": "1 year",
+            "company": "GeeksforGeeks",
+            "company_id": "geeksforgeeks",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Developer",
+            "location": "Remote",
+            "description": "Built a result and records manager that reduced manual search time by 40%, improving efficiency and data accessibility.",
+            "description_html": "Built a result and records manager that reduced manual search time by 40%, improving efficiency and data accessibility. <!---->",
+            "duration": "Jul 2021 Aug 2021 2 months",
+            "start_date": "Jul 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "2 months",
+            "company": "LetsGrowMore",
+            "company_id": "letsgrowmore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Developer",
+            "location": "West Bengal, India",
+            "description": "● Engineered a records manager slashing manual search time by an impressive 90%.● Spearheaded collaborative efforts to swiftly troubleshoot and resolve critical technical issues for clients.",
+            "description_html": "● Engineered a records manager slashing manual search time by an impressive 90%.● Spearheaded collaborative efforts to swiftly troubleshoot and resolve critical technical issues for clients. <!---->",
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "SSB Infotech Pvt.Ltd",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Haldia Institute of Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2024",
+            "description": "Activities and Societies: Hitian Inside, Hit Needs, Taru Guardians and IEEE Highly passionate computer science engineering student. First Year: Achieved a remarkable 9.97 CGPA. Second Year: Maintained academic excellence with a 9.65 CGPA while actively participating in societies and extra caricular activities. Third Year: Achieved an 8.98 CGPA while actively working in startups. Final year project: ● Developed a groundbreaking system for Pneumonia Detection using CXR Images, leveraging machine learning VGG16, ResNet and DenseNet models to… Show more",
+            "description_html": "Activities and Societies: Hitian Inside, Hit Needs, Taru Guardians and IEEE",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sudhir Memorial Institute Madhyamgram",
+            "degree": "cbse",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": "Activities and Societies: debate, chess, cricket and coding",
+            "description_html": "Activities and Societies: debate, chess, cricket and coding",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Methodist School Dankuni",
+            "degree": "icse",
+            "field": "science",
+            "start_year": "2005",
+            "end_year": "2018",
+            "description": "Activities and Societies: cricket team vice captain",
+            "description_html": "Activities and Societies: cricket team vice captain",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2023Credential ID 1rlfohenfPfvWbhWhUgB0NaNwEryJbzmySee credential",
+            "subtitle": "PwC",
+            "title": "Launchpad Program (Cloud and Digital)"
+        },
+        {
+            "meta": "Issued Feb 2023Credential ID MWHIT1149See credential",
+            "subtitle": "Mywbut.com",
+            "title": "Python Programming Language with SQL"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID nirmalyasahaSee credential",
+            "subtitle": "CodeChef",
+            "title": "3* Programmer "
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID nirmalyasahaSee credential",
+            "subtitle": "GeeksforGeeks",
+            "title": "32 Rank in GeeksForGeeks"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID e6d35847ac35225cb06ce15ce7181128See credential",
+            "subtitle": "GeeksforGeeks",
+            "title": "DSA Self paced"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID c537e8e5-a0df-4f4f-9feb-b95acfb46f98See credential",
+            "subtitle": "Google",
+            "title": "Milestone 1 (8 Quest and 4 Skill Google Cloud Badges)"
+        },
+        {
+            "meta": "Issued May 2022Credential ID GG5DSUKAETVBSee credential",
+            "subtitle": "Coursera",
+            "title": "A Crash Course in Data Science"
+        },
+        {
+            "meta": "Issued May 2022Credential ID GVGKFPVFLYPUSee credential",
+            "subtitle": "Coursera",
+            "title": "Cyber Security And Its Ten Domains"
+        },
+        {
+            "meta": "Issued May 2022Credential ID 5PTNsA2lSee credential",
+            "subtitle": "IBM",
+            "title": "Data Science Orientation"
+        },
+        {
+            "meta": "Issued May 2022Credential ID JXZSFWNM4272See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued May 2022Credential ID 9YLNDQ82RCQCSee credential",
+            "subtitle": "Coursera",
+            "title": "What is Data Science?"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID UC-6f01c2cc-1530-49cc-b46d-d35ed9123b4fSee credential",
+            "subtitle": "Udemy",
+            "title": "SQL Fundamentals for beginners"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID UC-63626433-d4a3-452c-8e21-db5dc3cdb6e0See credential",
+            "subtitle": "Udemy",
+            "title": "The Complete Web Developer in 2021: Zero to Mastery"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID 6ZFL9K5X2XZ8See credential",
+            "subtitle": "Coursera",
+            "title": "A Life of Happiness and Fulfillment"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID EBS2PZLN38ZRSee credential",
+            "subtitle": "Coursera",
+            "title": "Communication theory: bridging academia and practice"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID 3S82N2DDLXQ8See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Philosophy"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID SGTNDRAJPGR5See credential",
+            "subtitle": "Coursera",
+            "title": "Web Design for Everybody: Basics of Web Development & Coding"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID 4R44UWDA3TS7See credential",
+            "subtitle": "Coursera",
+            "title": "Write Professional Emails in English"
+        },
+        {
+            "meta": "Issued May 2021Credential ID TPT2QH4ANZS5See credential",
+            "subtitle": "Coursera",
+            "title": "Advanced Styling with Responsive Design"
+        },
+        {
+            "meta": "Issued May 2021Credential ID LBK9454DG9CKSee credential",
+            "subtitle": "Coursera",
+            "title": "Interactivity with JavaScript"
+        },
+        {
+            "meta": "Issued Apr 2021Credential ID UC-48191de1-00b1-41f1-81d2-7bf635384286See credential",
+            "subtitle": "Udemy",
+            "title": "Easy italian to survive"
+        },
+        {
+            "meta": "Issued Apr 2021Credential ID UC-674400b08-95e9-49ee-b7f4-9b95545d5d84See credential",
+            "subtitle": "Udemy",
+            "title": "The complete 2021 web development bootcamp"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID UC-5cec6d80-7f62-4210-8f9d-55a6f76b7478See credential",
+            "subtitle": "Udemy",
+            "title": "Android Firebase-Firestore MasterClass"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID 78YRYLPSHZ9HSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to CSS3"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID 5HZRKQTZ7JHNSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to HTML5"
+        },
+        {
+            "meta": "Issued Feb 2021Credential ID 45485A7A-ABA0-9CBD-B4BC-D4A875037468See credential",
+            "subtitle": "Internshala",
+            "title": "Android App Development"
+        },
+        {
+            "meta": "Issued Feb 2021Credential ID 3850E4CA-EF8A-965E-AEF6-9E26413CDEB3See credential",
+            "subtitle": "Internshala",
+            "title": "Internship & Job Preparation."
+        },
+        {
+            "meta": "Issued Feb 2021Credential ID P44XHWRNUSSNSee credential",
+            "subtitle": "Coursera",
+            "title": "Responsive Website Basics: Code with HTML, CSS, and JavaScript"
+        },
+        {
+            "meta": "Issued Jan 2021Credential ID e6ff94be-b963-4a4e-bebc-d7f53f4306daSee credential",
+            "subtitle": "Udemy",
+            "title": "C++ mini project"
+        }
+    ],
+    "current_company_name": "Accenture",
+    "publications": "[{\"title\":\"Mastering AWS Deployment: A Step-by-Step Guide to VPCs, ECS, Load Balancers, ECR and CI/CD Pipelines\",\"subtitle\":\"Medium\",\"date\":\"June 1, 2024\",\"description\":\"Mastering AWS Deployment: A Step-by-Step Guide to VPCs, ECS, Load Balancers, ECR, and CI/CD PipelinesDive deep into AWS deployment strategies with a comprehensive guide covering Virtual Private Clouds (VPCs), Elastic Container Service (ECS), Load Balancers, Elastic Container Registry (ECR), and Continuous Integration/Continuous Deployment (CI/CD) Pipelines. Learn how to orchestrate these AWS services to build scalable and secure cloud architectures.Let's empower your AWS deployment journey for scalable and reliable applications.\"},{\"title\":\"How to Deploy React App on AWS using S3, CloudFront, Route53 with AWS CI/CD CodePipeline & CodeBuild\",\"subtitle\":\"Medium\",\"date\":\"March 10, 2024\",\"description\":\"Mastering AWS React Deployment:Explore the intricacies of AWS services to establish a resilient deployment pipeline using AWS CodePipeline and CodeBuild. Learn how to host a ReactJS website efficiently with AWS S3 for build storage, front-ended by CloudFront CDN. This publication also delves into attaching domains to CloudFront URLs using AWS Route53, ensuring seamless integration and enhanced performance.Let's harness technology to make a lasting impact and accessibility.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"ESTATE BAZAR\",\"start_date\":\"Jan 2023\",\"end_date\":\"Mar 2023\",\"description\":\"Developed a secured AI-powered Real Estate marketplace for conducting smooth real estate auctions, leveraging Flask with PostgreSQL framework incorporating Artificial Neural Network, Web Sockets, BlockChain Network, Web Scrapping, Docker and JavaScript-based frontend.● Auction Managers Scrapes on-sale hosted properties from realtor.com and manages auction lifecycle.● Enabled real-time bidding with AI-driven property valuation predictions for bidders.● Implemented tokenized authentication using sha256 encryption, secured Ethereum Payments, and generated NFT tokens for sold items.● Containerized the entire tech stack in a Docker environment for scalable deployment.Link: https://hub.docker.com/r/nirmalyasaha/estate-bazar\"},{},{},{},{\"title\":\"Smart Auction\",\"start_date\":\"Feb 2022\",\"end_date\":\"Feb 2022\",\"description\":\"FullStack Ethereum Blockchain prototype for secure and real-time auctions, integrating Solidity, IPFS-network, React.js, Node.js, MongoDB, and Socket.io.● Engineered a prototype enabling real-time auction hosting secured with Ethereum Payments and generating NFT tokens for sold items.● Established a staging area using Node.js and MongoDB for nominated items, facilitating real-time bidding through Socket.io.Recognized as a finalist in the Hack-a-Web hackathon.\"},{},{},{\"title\":\"Patti-Patni\",\"start_date\":\"Jan 2022\",\"end_date\":\"Feb 2022\",\"description\":\"Developed a web-based Ethereum Blockchain application aimed at eliminating Marriage & Childbirth frauds, utilizing Solidity, IPFS-network, React.js, and Node.js.● Implemented a fraud reduction system for marriages, issuing unique certificate tokens upon government approval.● Built a public forum to track child birth, marital and parental status, particularly beneficial in handling divorce cases.\"},{\"title\":\"Fund Raiser\",\"start_date\":\"Dec 2021\",\"end_date\":\"Jan 2022\",\"description\":\"Developed a FundRaiser on Ethereum Blockchain, utilizing Solidity, IPFS-network, Mocha, Node.js, React.js, and Next.js. The platform aims to raise funds securely for Project Ideas, NGOs, and Personal Scholarships while mitigating fraud through blockchain technology.Security & Fraud Management:● Owners initiate fund generation requests to Managers, providing documentary proofs stored securely on IPFS-network.● Managers verify details and approve fund-raising requests, ensuring transparency and security.● All investor transactions are immutably recorded on Blockchain, fostering trust and accountability.● Owners request fund utilization transactions, subject to majority investor approval, giving investors control over fund usage.● Investors can raise issues through customer care and upvote others' issues. Managers trigger alerts based on upvoting, enhancing fraud prevention.People's Choice: Investors vote for the best project, where the winner receives a prize funded by earlier security deposits, promoting transparency and trust.Additional Features:● Fundraising options include Project Ideas, NGOs, and Personal Scholarships.● Personal Funds allow owners to withdraw without investor approval but exclude voting and customer care mechanisms.The decentralized and tamper-proof nature of blockchain ensures transparency and trust in investor interactions and voting mechanisms.\"},{\"title\":\"College Street App (End-To-End Encryption & Machine Learning)\",\"start_date\":\"Aug 2021\",\"end_date\":\"Nov 2021\",\"description\":\"A B2B marketplace for second hand books, using Kotlin, XML, Firebase & SQLite Database, Cryptography-AES, Firebase ML Kit● Buying & Selling of books with End-To-End Encrypted messaging support by Cryptography-AES technology● Interactive ChatBots, Search Engines with ImageToText recognition & custom filters. Media for Book Reviews with like, share, comment● Supportive Features of Product Reviews, WishList by SQLite, CartList, Settings, InApp Cals, Address & User Activity managements● Google Maps Api for tracking packages & QR Code confirmation. Implemented secure Encryption in User Contacts & Address.\"},{\"title\":\"Connector\",\"start_date\":\"Apr 2021\",\"end_date\":\"Aug 2021\",\"description\":\"Social Media for developers/HR’s to share github commit stories, blogs post, apply/post jobs to hire developers, using MERN-stack, Socket.io, JWT-token● CRUD operations to Post stories(with like, unlike, comments), blogs, profile sections jobs and applying through submitting resume● Like and unlike posts, blogs. Comments like and unlike comments● Personalized dashboard to create, update & delete profile, experience, education, projects, awards & achievements, portfolio links, activity showing your posts and jobs posted.● Resume builder - create, share resumes with real time edit access by providing unique access codes using Socket.io and Quill Api● Private Messaging | One-To-One Video Conference interviews using WEBrtc Api | ChatBots using React ChatBot Kit● Online code editor for HTML,CSS,JAVASCRIPT using Codemirror Api | Advance Alert System | Validation Checks | Encryptions | Private Routes\"},{\"title\":\"Food Runner App\",\"start_date\":\"Feb 2021\",\"end_date\":\"May 2021\",\"description\":\"● impact : Zomato clone food ordering app make your first order with this with a list of 10 restaurants and their menu chart.● using : Volley api calling, glide library, Intents(explicit and implicit), json and Gson parsing, Coroutines, SQLITE database,Room library, Live data,View Models.● firebase and Firestone.● using : kotlin and XML .\"},{\"title\":\"Notes App\",\"start_date\":\"Feb 2021\",\"end_date\":\"Feb 2021\",\"description\":\"● impact: storing various notes and images and share it by Live data .● creating a SQLITE database using Room library to store , delete and share notes in a View Model using Live data● tech: Intents explicit and implicit, SQLite Room database, android architecture, View Model, Coroutines,Live data .● using kotlin and XML.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Contributor in Hacktoberfest 2022",
+            "publication": "HacktoberFest",
+            "date": "2022-10-01T00:00:00.000Z",
+            "description": "● 4+ PRs are successfully accepted officially in this Hacktoberfest 2022 ● link: "
+        },
+        {
+            "title": "Open Source Contributor In Diversion",
+            "publication": "Institute of Engineering and Management",
+            "date": "2022-06-01T00:00:00.000Z",
+            "description": "● Contributed in Open Source project Samarpan link: ● "
+        },
+        {
+            "title": "Open Source Contributor in Script Winter Of Code",
+            "publication": "Script Winter Of Code(SWOC)",
+            "date": "2022-03-01T00:00:00.000Z",
+            "description": "● Open Source Contributor in SWOC, ● Actively participated in building projects. ● Verify my certificate at: "
+        },
+        {
+            "title": "30th Institutional Rank In GeeksForGeeks",
+            "publication": "GeeksForGeeks",
+            "date": "2022-02-01T00:00:00.000Z",
+            "description": "● 1200+ score with 450+ problems solved ● Completed DSA Self Paced Course with 27 tracks with 330+ questions 10+ contests and tons of quizes. along with 2 other courses in GFG platform"
+        },
+        {
+            "title": "Hack-a-Web Finalist",
+            "publication": "-",
+            "date": "2022-02-01T00:00:00.000Z",
+            "description": "● Finalist in Hack-a-Web hackathon"
+        },
+        {
+            "title": "3-start CodeChef Programmer",
+            "publication": "CodeChef",
+            "date": null,
+            "description": "● 1612 Rating"
+        }
+    ]
+}

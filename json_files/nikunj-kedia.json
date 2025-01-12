@@ -1,0 +1,435 @@
+{
+    "id": "nikunj-kedia",
+    "name": "Nikunj Kedia",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Director at Summit Kailash",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Summit Kailash",
+        "company_id": "summit-kailash",
+        "title": "Director at Summit Kailash"
+    },
+    "experience": [
+        {
+            "title": "Director",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jan 2023 - Present 2 years",
+            "start_date": "Jan 2023",
+            "end_date": "Present",
+            "duration_short": "2 years",
+            "company": "Summit Kailash",
+            "company_id": "summit-kailash",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marwar Capital",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "4 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "Marwar Capital",
+                    "meta": "Jan 2023 - Present 2 years",
+                    "duration": "Jan 2023 - Present 2 years",
+                    "start_date": "Jan 2023",
+                    "end_date": "Present",
+                    "duration_short": "2 years",
+                    "title": "Advisor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Marwar Capital",
+                    "meta": "Dec 2020 - Jan 2023 2 years 2 months",
+                    "duration": "Dec 2020 Jan 2023 2 years 2 months",
+                    "start_date": "Dec 2020",
+                    "end_date": "Jan 2023",
+                    "duration_short": "2 years 2 months",
+                    "title": "Partner",
+                    "description_html": null
+                }
+            ],
+            "company": "Marwar Capital",
+            "company_id": "marwarcapital",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Financial Advisor",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jul 2020 Nov 2020 5 months",
+            "start_date": "Jul 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "5 months",
+            "company": "IIFL (India Infoline Group)",
+            "company_id": "iifl",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Mumbai Area, India",
+            "description": "International Banking",
+            "description_html": "International Banking <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "YES BANK",
+            "company_id": "yes-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Mumbai, India",
+            "description_html": null,
+            "duration": "Dec 2017 May 2018 6 months",
+            "start_date": "Dec 2017",
+            "end_date": "May 2018",
+            "duration_short": "6 months",
+            "company": "Otomax Tech-Serve Pvt. Ltd.",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Mumbai, India",
+            "description_html": null,
+            "duration": "Feb 2017 Jul 2017 6 months",
+            "start_date": "Feb 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "6 months",
+            "company": "SP PRECAST SOLUTIONS PRIVATE LIMITED",
+            "company_id": "sp-precast-solutions-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Article Assistant",
+            "location": "Mumbai, India",
+            "description_html": null,
+            "duration": "Oct 2012 Oct 2014 2 years 1 month",
+            "start_date": "Oct 2012",
+            "end_date": "Oct 2014",
+            "duration_short": "2 years 1 month",
+            "company": "Ramesh Varma & Co.",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Article Assistant",
+            "description": "Some of the services we offer are internal audit, risk assessment, fraud risk management and information technology services. We are also into business process improvement and Sarbanes-Oxley compliance.",
+            "description_html": "Some of the services we offer are internal audit, risk assessment, fraud risk management and information technology services. We are also into business process improvement and Sarbanes-Oxley compliance. <!---->",
+            "duration": "Mar 2012 Oct 2012 8 months",
+            "start_date": "Mar 2012",
+            "end_date": "Oct 2012",
+            "duration_short": "8 months",
+            "company": "Discern-Risk",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Article Assistant",
+            "description": "Statutory Audit",
+            "description_html": "Statutory Audit <!---->",
+            "duration": "Oct 2011 Mar 2012 6 months",
+            "start_date": "Oct 2011",
+            "end_date": "Mar 2012",
+            "duration_short": "6 months",
+            "company": "Sharp & Tannan Associates",
+            "company_id": "sharpandtannan",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "CA Kishan Kanani",
+            "about": "Partner at S N D K & Associates LLP",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Saket Mehra",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Balraj Nair",
+            "about": "CFO with 30+ years experience",
+            "location": "Doha, Qatar"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash K.",
+            "about": "Certified Financial Planner(CFP) | Charted Trust and Estate Planner(CTEP) | Wealth management",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitin Goyal",
+            "about": "Co-Founder at Compounding Gems",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "CA Ashish Agarwal",
+            "about": "Practicing Chartered Accountant",
+            "location": "Muzaffarnagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Vinod Nair",
+            "about": "Managing Director & Head - Risk Advisory Services",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Dongre",
+            "about": "Real Estate Project Finance Expert | Founder Partner at Finamics Capital Llp",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "CA.Ankit Shah (Salecha)",
+            "about": "Partner l Ex-EY l Ex-Axis I AS Ind AS IFRS l Project finance l Govt Subsidy l I.Tax IGSTl Startupsl outsourcing l Virtual CFOI M&A l Stock Audit l Fixed Asset l Deesa l Palanpur l Mehsana l Sanand l Chattral l Dekavada",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhavik Shah",
+            "about": "MBA Student at UNC Kenan-Flagler Business School | Ex-Co-Founder - Synerbridge Investancy | Ex-Investment Banker at Anand Rathi | CA, CFA Level 2 Cleared",
+            "location": "Chapel Hill, NC"
+        },
+        {
+            "profile_link": "",
+            "name": "CA Rishabh Aggarwal",
+            "about": "Chartered Accountant | Your GST Partner | GST Trainer | GST Consultant | GST Faculty at ICAI | Motivational Speaker | Faculty at YMCA University , Faridabad | Ex-ICICI",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjay Banthia",
+            "about": "On Jobbatical !",
+            "location": "Harrow"
+        },
+        {
+            "profile_link": "",
+            "name": "Shravan Guduthur",
+            "about": "Practising CA | Registered Valuer IBBI | Director FKCCI | Past Chairman ICAI Blore Br | Faculty ICFAI | Speaker",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Niraj Punjabi",
+            "about": "Partner at Sanil & Punjabi Chartered Accountants",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "CA Jainam Sanghavi",
+            "about": "Chartered Accountant",
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "CA. Akhil Sonkhiya",
+            "about": "Partner at Shiv Shankar Khandelwal & Co. Chartered Accountants",
+            "location": "Rajasthan, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Chirag Rathi",
+            "about": "Partner at C S Rathi & Associates",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakash Chellam",
+            "about": "Managing Director at Premji Invest",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hemant Shah",
+            "about": "CA, FRM, CS, CWA, DISA, Dip in IFRS (UK), FAFD",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Welingkar Institute of Management",
+    "education": [
+        {
+            "title": "Welingkar Institute of Management",
+            "degree": "Master's in Management Studies",
+            "field": "Management",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "H.R. College Of Commerce & Economics",
+            "degree": "Bachelor of Commerce (B.Com.)",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "G.D. Somani Memorial School",
+            "url": "",
+            "start_year": "1995",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": "-",
+            "title": " Marwari "
+        },
+        {
+            "subtitle": "-",
+            "title": " French "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID 159185027384",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4535.0,
+    "connections": 500.0,
+    "current_company_company_id": "summit-kailash",
+    "current_company_name": "Summit Kailash",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "nikunj-kedia",
+    "activity": [
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "I am delighted and honored to share a momentous occasion with you all - I have completed 40 glorious years with the Indian Association of Secretaries…",
+            "img": "",
+            "id": "7274462008794648576"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "If you're tired of the same old boring corporate jobs and want to join one of the most exciting, fast-growing industries in India... then you're in…",
+            "img": "",
+            "id": "7267552196299251712"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "Happy to have been a part of the team that worked on the BlackBuck IPO listing journey! 🌟 #IPOlisting #nselisting #ipomarkets #capitalmarketsindia",
+            "img": "",
+            "id": "7265595135613169665"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "Pramod Bhandari has been appointed as the Group CFO at Aureolis Group, which encompasses the group’s corporate business and investment entities such…",
+            "img": "",
+            "id": "7264593271358656512"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "As an investor, having experience in family business in Bharat, I am excited to join a fireside chat on the topic \"Opportunities in Building for…",
+            "img": "",
+            "id": "7262290769166704640"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "The Family Office: Bridging Operating Businesses with Legacy A family office plays a unique role as the bridge between strategic business plans of…",
+            "img": "",
+            "id": "7255914132825088000"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Nikunj Kedia",
+            "img": "",
+            "id": "7252828627866685442"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "Glad to share deal announcement - 2nd transaction from India SME Fund II, 4th transaction of the year and 16th transaction since…",
+            "img": "",
+            "id": "7252664992888459264"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "Super excited to be speaking at the CoreNet Global #India #Summit in #Bengaluru next month. CoreNet is one of the #premier #CorporateRealEstate…",
+            "img": "",
+            "id": "7249632883420610561"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "There is a lot of talk about toxic work places and culture. In my view toxic workplace doesn't necessarily mean a place where folks are overworked. I…",
+            "img": "",
+            "id": "7243986328726458369"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "After an amazing 4.5 years at IFU's New Delhi office, I'm excited to announce that I have relocated to Copenhagen for the next two years. I am…",
+            "img": "",
+            "id": "45"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "Historically, Indian entrepreneurs have been well known for “Jugaad” or innovating around the problem. That changed in 2023 when India put a…",
+            "img": "",
+            "id": "7241483232154669056"
+        },
+        {
+            "interaction": "Liked by Nikunj Kedia",
+            "link": "",
+            "title": "Hello everyone, I am starting my new journey on LinkedIn! Here’s a little bit about my life :) I’m Alay Jhaveri, CEO of Jhaveri Flexo, where we…",
+            "img": "",
+            "id": "7239857094575673346"
+        }
+    ],
+    "linkedin_num_id": 173146203.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

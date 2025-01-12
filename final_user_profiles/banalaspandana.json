@@ -1,0 +1,62 @@
+{
+    "city": "Dublin, County Dublin, Ireland",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Trinity College Dublin",
+            "url": "",
+            "start_year": "2019-09",
+            "end_year": "2020-10",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ".",
+            "start_year": "2012-10",
+            "end_year": "2016-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"CS7CS3\",\"title\":\"Advanced Software Engineering\"},{\"subtitle\":\"CS7DS3\",\"title\":\"Applied Statistical Modelling\"},{\"subtitle\":\"CS7DS4\",\"title\":\"Data Visualization\"},{\"subtitle\":\"CS7NS6\",\"title\":\"Distibuted Systems\"},{\"subtitle\":\"CS7IS1\",\"title\":\"Knowledge and Data Engineering\"},{\"subtitle\":\"CS7CS4\",\"title\":\"Machine Learning\"},{\"subtitle\":\"CS7NS1\",\"title\":\"Scalable Computing\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Nov 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Data Ingestion with Python"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "DevOps Foundations"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Power BI Essential Training"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Web Development Foundations: Web Technologies"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Tableau Software",
+            "title": "Tableau Data Scientist"
+        },
+        {
+            "meta": "Issued Mar 2017Credential ID L2XHJR4CDBR12K02",
+            "subtitle": "Teradata",
+            "title": "Teradata Certified Professional "
+        }
+    ],
+    "current_company_name": "Citi",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"COVID-19 Stats Dashboard Effects and measures - Data Visualization\",\"start_date\":\"Mar 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Project descriptionTechnologies Used: Tableau- Developed an interactive dashboard of the COVID-19 stats and Time series analysis, using some of the advanced visualization plots such as orthographic heat maps, and Bubble maps.- Plotted a time series showing the trend in the increase in the number of cumulative cases, recovered and deaths in each country- Also plotted measures which are taken by each country in order to diminish the cases- GitHub URL: https://github.com/spandanabanala/tableau-covid-19-visualization\"},{\"title\":\"Wine Comparison using Statistical Modeling and Regression\",\"start_date\":\"Mar 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Technologies Used: R, R Markdown- performed a comparative analysis on Chardonnay and Sauvignon blanc to find which is better rated using Bayesian Stats- Also compared wines produced in different regions in Italy- Developed a regression model to predict the points for the wines produced in the USA.\"},{\"title\":\"Smart Locker System Using Facial Recognition \",\"start_date\":\"Feb 2020\",\"end_date\":\"Mar 2020\",\"description\":\"-The facial recognition system uses a deep learning model to recognize human faces which is associated with three systems hardware, communication system, cloud system for safe to be working efficiently.- To manage deployment of the Application opted to use a combination of Docker and AWS Elastic Container Service\"},{\"title\":\"Eire-health-service-locator\",\"start_date\":\"Nov 2019\",\"end_date\":\"Dec 2019\",\"description\":\"Technologies Used: Juma, Protége, - Uplifted the open datasets for streets and Hospital Service data available for Dublin city to be used for the application interface running SPARQL query on the combined data structure.- Designed the schema, ontology, and R2RML mappings for streets and Hospitals Service present in Dublin city.- Created ontology documentation.\"},{\"title\":\"Income Prediction\",\"start_date\":\"Sep 2019\",\"end_date\":\"Nov 2019\",\"description\":\"Technologies Used: Python( scikit-learn, catboost, xgboost, lightgbm)performed an income prediction regression task as a part of Kaggle competition (https://www.kaggle.com/c/tcd-ml-comp-201920-income-pred-group and https://www.kaggle.com/c/tcdml1920-income-ind/overview)\"},{\"title\":\"Image And Audio Captcha Breaker\",\"start_date\":\"Sep 2019\",\"end_date\":\"Oct 2019\",\"description\":\"-The Image captcha's are generated using a python package captcha which rotates scales and translates the letters and also adds noise to the image making it difficult to read. The audio captcha is generated manually using about 30 different voices curated from various sources and randomly selecting a voice for each character in the captcha.-The captcha is then fed to a Convolutional Neural Network after various pre-processing steps, which then predicts what the captcha is with over 95% accuracy.\"}]",
+    "honors_and_awards": null
+}

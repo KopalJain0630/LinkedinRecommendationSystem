@@ -1,0 +1,73 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018-07",
+            "end_year": "2022-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016-07",
+            "end_year": "2018-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021",
+            "subtitle": "Amazon",
+            "title": "Amazon Web Services Cloud Practitioner"
+        }
+    ],
+    "current_company_name": "Stealth Startup",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "GenAI Hackathon - National Top 10",
+            "publication": "Entrepreneur First",
+            "date": "2023-06-01T00:00:00.000Z",
+            "description": "– Implemented Sharma.JI, personalized education Telegram bot, to address tutor shortcomings and language barriers – Leveraged OpenAI API integration, rectifying root causes of mistakes and redefining education with tailored tutoring"
+        },
+        {
+            "title": "Smart India Hackathon 2022 - National Winner",
+            "publication": "ISRO - Indian Space Research Organization",
+            "date": "2022-09-01T00:00:00.000Z",
+            "description": "– Developed a fully automated algorithm to quickly stitch multiple adjacent satellite images to create a seamless mosaic – Implemented image blending techniques with OpenCV and enhanced performance using machine learning and GP-GAN"
+        },
+        {
+            "title": "EXL™ Hackathon - International Winner",
+            "publication": "EXL Service",
+            "date": "2022-08-01T00:00:00.000Z",
+            "description": "– Created a Cloud-Agnostic Storage Solution with easy Programmatic Access, file backup, and cloud recommendation – Built a robust backend using Express.js, MongoDB in the database, and secured the application with JWT authentication"
+        },
+        {
+            "title": "Narcotics Control Bureau Darkathon 2022 - National Top 30",
+            "publication": "Narcotics Control Bureau & Cyber Peace Foundation",
+            "date": "2022-07-01T00:00:00.000Z",
+            "description": "– Devised algorithm to extract entities amidst semi-structured from Dark Web data using Scrapy and word2Vec tokenizer – Formulated Random Forest model with 10,000 entities-data, achieving 92% accuracy and identifying Indian drug trafficker"
+        },
+        {
+            "title": "Rakathon'22 / Code The Future - International Top 100",
+            "publication": "Rakuten",
+            "date": "2022-07-01T00:00:00.000Z",
+            "description": "– Designed a dark themed website using React, Flask with Socket.io for backend and TensorFlow for machine learning – Trained Computer Vision model and Speech Recognition model to detect Sign Language to predict text and vice-versa"
+        },
+        {
+            "title": "MBRDI HackStar - National Winner",
+            "publication": "Mercedes-Benz Research and Development India (MBRDI)",
+            "date": "2022-03-01T00:00:00.000Z",
+            "description": "– Optimized mobile charging and integrated payment solutions for electric vehicles to enhance EV infrastructure in the city – Implemented slot booking for EV charging using Node.js, MongoDB and GoogleMapsAPI to book the nearest station’s slot"
+        }
+    ]
+}

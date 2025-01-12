@@ -1,0 +1,406 @@
+{
+    "id": "amarnath-kgp",
+    "name": "Amarnath Reddy Mukkamalla",
+    "city": "Greater Hyderabad Area",
+    "country_code": "IN",
+    "position": "Data Scientist at App Orchid | IIT KGP '22",
+    "about": "I’m an IIT Kharagpur graduate and avid Machine Learning enthusiast. Currently a Data Scientist at App Orchid, where we are focused on operationalising AI across enterprises with unparalleled speed. Eager to connect, collaborate, and contribute to the dynamic world of AI. Let’s innovate together!",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "App Orchid Inc",
+        "company_id": "app-orchid-inc",
+        "title": "Data Scientist at App Orchid | IIT KGP '22"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Dec 2024 - Present 1 month",
+            "start_date": "Dec 2024",
+            "end_date": "Present",
+            "duration_short": "1 month",
+            "company": "App Orchid Inc",
+            "company_id": "app-orchid-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Engineer",
+            "location": "Greater Hyderabad Area",
+            "description": "I am a data science engineer with experience in developing and deploying AI/ML solutions for large-scale, real-world applications. Throughout my career, I have worked on integrating machine learning models, automation, and MLOps frameworks to optimize workflows, automate processes, and drive insights in semiconductor manufacturing. I am highly skilled in leveraging cloud platforms like Google Kubernetes Engine (GKE) for scalable deployments and Apache Airflow for pipeline automation.- Spearheaded the development of a Retrieval-Augmented Generation (RAG) system, enhancing chatbot functionality using natural language processing and language models.- Deployed cutting-edge machine learning models for wafer defect classification and yield management, improving decision-making accuracy and enhancing quality analysis.- Implemented CI/CD pipelines and scalable cloud-based solutions to support continuous improvement and rapid model deployment.- Automated key manufacturing processes, including Defects per Million (DPM) monitoring and root cause analysis, improving efficiency and streamlining workflows.",
+            "description_html": "I am a data science engineer with experience in developing and deploying AI/ML solutions for large-scale, real-world applications. Throughout my career, I have worked on integrating machine learning models, automation, and MLOps frameworks to optimize workflows, automate processes, and drive insights in semiconductor manufacturing. I am highly skilled in leveraging cloud platforms like Google Kubernetes Engine (GKE) for scalable deployments and Apache Airflow for pipeline automation.- Spearheaded the development of a Retrieval-Augmented Generation (RAG) system, enhancing chatbot functionality using natural language processing and language models.- Deployed cutting-edge machine learning models for wafer defect classification and yield management, improving decision-making accuracy and enhancing quality analysis.- Implemented CI/CD pipelines and scalable cloud-based solutions to support continuous improvement and rapid model deployment.- Automated key manufacturing processes, including Defects per Million (DPM) monitoring and root cause analysis, improving efficiency and streamlining workflows.",
+            "duration": "Jun 2022 Nov 2024 2 years 6 months",
+            "start_date": "Jun 2022",
+            "end_date": "Nov 2024",
+            "duration_short": "2 years 6 months",
+            "company": "Micron Technology",
+            "company_id": "micron-technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Worked on an Automation Tool which converts the source code from Oracle PL/SQL to Snowflake SQL using ANTLR with Python     • Increased the ANTLR parse-tree-walker performance by 15% by restructuring the ANTLR grammar and simplifying ATN graphs     • Tested the converted language semantics with relevant data from database and made required changes to grammar and listener functions     • Started work on improving the tool using Neural Machine Translation (seq2seq model with a transformer architecture)",
+            "description_html": "• Worked on an Automation Tool which converts the source code from Oracle PL/SQL to Snowflake SQL using ANTLR with Python • Increased the ANTLR parse-tree-walker performance by 15% by restructuring the ANTLR grammar and simplifying ATN graphs • Tested the converted language semantics with relevant data from database and made required changes to grammar and listener functions • Started work on improving the tool using Neural Machine Translation (seq2seq model with a transformer architecture)",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "TEKsystems",
+            "company_id": "teksystems",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Volunteer",
+            "location": "IIT Kharagpur",
+            "description": "The National Service Scheme (NSS) is a Central Sector Scheme of Government of India, Ministry of Youth Affairs & Sports. It provides the opportunity to the student youth of Technical Institution, Graduate & Post Graduate at colleges and University level of India to take part in various government-led community service activities & programmes.The sole aim of the NSS is to provide hands-on experience to young students in delivering community service.",
+            "description_html": "The National Service Scheme (NSS) is a Central Sector Scheme of Government of India, Ministry of Youth Affairs &amp; Sports. It provides the opportunity to the student youth of Technical Institution, Graduate &amp; Post Graduate at colleges and University level of India to take part in various government-led community service activities &amp; programmes.The sole aim of the NSS is to provide hands-on experience to young students in delivering community service. <!---->",
+            "duration": "Aug 2017 Jul 2019 2 years",
+            "start_date": "Aug 2017",
+            "end_date": "Jul 2019",
+            "duration_short": "2 years",
+            "company": "National Service Scheme",
+            "company_id": "national-service-scheme",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary Strategy Cup",
+            "location": "IIT Kharagpur",
+            "description": "Technology Students’ Gymkhana is the hub of the numerous extra-curricular and co-curricular activities in IIT Kharagpur ranging from sports to socio-cultural. The Gymkhana is managed by the students, for the students, under the guidance and active participation of the faculty and staff members.The moto of Technology Students'​ Gymkhana is YOGAH KARMASU KAUSALAM which in English means \"Perfection in action is Yoga\"​. Our goal is to bring overall development in IITians through cultivating and nurturing their extra-curricular talents",
+            "description_html": "Technology Students’ Gymkhana is the hub of the numerous extra-curricular and co-curricular activities in IIT Kharagpur ranging from sports to socio-cultural. The Gymkhana is managed by the students, for the students, under the guidance and active participation of the faculty and staff members.The moto of Technology Students'​ Gymkhana is YOGAH KARMASU KAUSALAM which in English means \"Perfection in action is Yoga\"​. Our goal is to bring overall development in IITians through cultivating and nurturing their extra-curricular talents",
+            "duration": "Apr 2018 Apr 2019 1 year 1 month",
+            "start_date": "Apr 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "1 year 1 month",
+            "company": "Technology Students'​ Gymkhana, IIT Kharagpur",
+            "company_id": "technology-students-gymkhana-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shivam Singh",
+            "about": "SDE 2 @Quince | Prev @Zomato | IIT KGP@2022",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Aayush Parmar",
+            "about": "Data Research Analyst, JPMorgan Chase & Co.",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Kochar",
+            "about": "SDE PhonePe | IIITA",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anjali Deep",
+            "about": "SDE 2 @Adobe | IIT Mandi CSE’22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravishankar Gaikwad",
+            "about": "NIT Nagpur 22, Jio",
+            "location": "Thane"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Jain",
+            "about": "Associate Data Scientist @ PayU | IIT Kanpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Sankalpa Hota",
+            "about": "Semiconductor Product Engineer -2 at Micron | PCIe-NVMe-NAND",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Samarendra Nimmala",
+            "about": "Programmer Analyst at Cognizant Technology Solutions",
+            "location": "Andhra Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav chandra Mishra",
+            "about": "Serving Notice Period | Software Developer @Infosys",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikhil Bisht",
+            "about": "Graduate Assistant at Physics Department, Florida State University",
+            "location": "Tallahassee, FL"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Pawar",
+            "about": "Associate Software Engineer at Accenture || UI-UX || VIT PUNE",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakash Choudhary",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Patel",
+            "about": "Engineer @Samsung • IIT Kanpur • SIH'18 Winner",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Sriraag Av",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Varun Muralidharan",
+            "about": "MSc Physics at McGill University | BS Physics from IIT Kanpur",
+            "location": "Montreal, QC"
+        },
+        {
+            "profile_link": "",
+            "name": "Apurv Chandel",
+            "about": "Software Developer at Shaadi.com",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manvita Joshi",
+            "about": "Software Engineer @ JP Morgan Chase & Co.",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhijeet Kumar",
+            "about": "Assistant Manager",
+            "location": "Jharsuguda"
+        },
+        {
+            "profile_link": "",
+            "name": "Pradeep Ranwa",
+            "about": "SDE@FinBox | CityMall | Mastercard | IIT KGP | Maths and Computing",
+            "location": "Midnapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohit Kulkarni",
+            "about": "🧠",
+            "location": "Boston, MA"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Int. MSc",
+            "field": "Physics",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": "Activities and Societies: Field Hockey, Student Representative Major - Integrated Master of Science, Physics Micro Specialization - Artificial Intelligence and it's Applications",
+            "description_html": "Activities and Societies: Field Hockey, Student Representative",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Chaitanya College of Education",
+            "degree": "Andhra Pradesh Board of Intermediate Education",
+            "field": "96.9%",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Vijayavani Vidhyanikethan High School",
+            "degree": "Andhra Pradesh Board of Secondary Education",
+            "field": "9.7/10.0 CGPA",
+            "start_year": "2002",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"High Performance Computing\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"Neuro Science\"},{\"subtitle\":\"-\",\"title\":\"Operating System\"},{\"subtitle\":\"-\",\"title\":\"Partial Differential Equations\"},{\"subtitle\":\"-\",\"title\":\"Physics of Semiconductor Devices\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Product Development\"},{\"subtitle\":\"-\",\"title\":\"Speech Recognition and Natural Language Processing\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Telugu "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1031.0,
+    "connections": 500.0,
+    "current_company_company_id": "app-orchid-inc",
+    "current_company_name": "App Orchid Inc",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "amarnath-kgp",
+    "activity": [
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "It was a pleasure hosting the Chief Minister of Penang, YAB Tuan Chow Kon Yeow, CEO of InvestPenang Dato’ Lee Lian Loo, and Director of MIDA Penang…",
+            "img": "",
+            "id": "7275306057403441152"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "Meta launched Llama 3.3 70B LLM Llama 3.3 is the latest LLM in Llama family LLMs. Llama 3.3 with just 70B parameters matches the performance of…",
+            "img": "",
+            "id": "7270993354467733504"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "𝐖𝐢𝐧𝐭𝐞𝐫 𝐒𝐜𝐡𝐨𝐨𝐥 𝐨𝐟 𝐃𝐞𝐞𝐩 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 by 𝐈𝐧𝐝𝐢𝐚𝐧 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐬𝐭𝐢𝐭𝐮𝐭𝐞. This 2-month intense program with…",
+            "img": "",
+            "id": "7269328369266122752"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": ">> REST API Cheat Sheet I wish I had created before<< 🏛️ Architectural Principles of REST 1. Client-Server Architecture - Strict separation of…",
+            "img": "",
+            "id": "7268313963212275712"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "Hard skills get you the job. Soft skills get you the promotion. 7 rare soft skills you need to accelerate your career: 1. Emotional Intelligence…",
+            "img": "",
+            "id": "7259918426477912064"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "Micron is driving #VR and #AR innovation with cutting-edge solutions like the 512GB UFS 3.1 and 64Gb 1-beta based LPDDR5X. From portfolio…",
+            "img": "",
+            "id": "7267604926007001088"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "CST team is excited to have hosted the Innovations in Spinal Robotics (INSR) in Toronto. Dr. Christie from Halifax and Dr. Pham from San Diego shared…",
+            "img": "",
+            "id": "7266912581955522560"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "The world's richest understand something most founders miss: ‘It's better to own 10% of something than 100% of nothing.’ These titans don't own…",
+            "img": "",
+            "id": "7267390970638278656"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "A job might not make you super rich. But, you get paid at a job to build skills that might make you rich one day. World is pretty much how you…",
+            "img": "",
+            "id": "7267467899043258368"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "LLM embeddings are surprisingly great for high dimensional regression. Why? Because they preserve Lipschitz continuity better than traditional…",
+            "img": "",
+            "id": "7267290813666050048"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "The way I learnt machine learning at MIT changed my life. I started the Machine Learning: Teach by Doing series to transfer my learnings to those…",
+            "img": "",
+            "id": "7266299623445536768"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Amarnath Reddy Mukkamalla",
+            "img": "",
+            "id": "7264803580950257665"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "With OpenAI, Figure 01 can now have full conversations with people -OpenAI models provide high-level visual and language intelligence -Figure neural…",
+            "img": "",
+            "id": "01"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "🚀Just wrapped up a transformative project under the PwC Switzerland Power BI Virtual Experience, where I used #PowerBI to unveil insights into…",
+            "img": "",
+            "id": "7161416522693849088"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "By 2025, cars will average 16GB of DRAM and 204GB of NAND — that’s at least three times more than in 2021. Do you know what memory and storage is…",
+            "img": "",
+            "id": "7157888768463511553"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "Micron HBM3E has changed the game for AI. Check out our blog post to learn about the companies we've invested in and how specialized hardware and…",
+            "img": "",
+            "id": "7150935249256910848"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "We are thrilled to congratulate our VP of Frontend Procurement, Thy Tran, for winning the Global Semiconductor Alliance 2023 Rising Women of…",
+            "img": "",
+            "id": "7138949834207543299"
+        },
+        {
+            "interaction": "Liked by Amarnath Reddy Mukkamalla",
+            "link": "",
+            "title": "With critical CHIPS Act funding, the scale of our plans to invest over $140 billion to bring leading-edge memory tech to the U.S. will propel the…",
+            "img": "",
+            "id": "7136066688654966785"
+        }
+    ],
+    "linkedin_num_id": 603787541.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

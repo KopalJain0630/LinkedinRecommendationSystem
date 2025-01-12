@@ -1,0 +1,92 @@
+{
+    "city": "Midnapore Sadar, India",
+    "position": "Student at Indian Institute of Technology, Kharagpur",
+    "experience": [
+        {
+            "title": "Student Mentor",
+            "location": "IIT KHARAGPUR",
+            "description_html": null,
+            "duration": "Aug 2017 - Present 7 years 5 months",
+            "start_date": "Aug 2017",
+            "end_date": "Present",
+            "duration_short": "7 years 5 months",
+            "company": "Student Welfare Group, IIT Kharagpur",
+            "company_id": "student-welfare-group-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "City Head",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Sep 2015 Jul 2016 11 months",
+            "start_date": "Sep 2015",
+            "end_date": "Jul 2016",
+            "duration_short": "11 months",
+            "company": "Rankethon",
+            "company_id": "rankethon",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master's degree",
+            "field": "Geological/Geophysical Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2019Credential ID 5KLZNVRRXS57",
+            "subtitle": "Coursera",
+            "title": "Data Visualization with Python"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID PJ9NV6WZMM2D",
+            "subtitle": "Coursera",
+            "title": "Databases and SQL for Data Science"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID FUESZMDBTL33",
+            "subtitle": "Coursera",
+            "title": "IBM Data Science Professional Certificate Specialization"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID YVGRRCUZGEV3",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science Specialization"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID XPJAA37K2X6S",
+            "subtitle": "Coursera",
+            "title": "Machine Learning with Python"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID SXPRYKX3WCXS",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        }
+    ],
+    "current_company_name": "Student Welfare Group, IIT Kharagpur",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

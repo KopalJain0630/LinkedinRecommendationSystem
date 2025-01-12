@@ -1,0 +1,81 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2004",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Koenig Solutions Pvt. Ltd.",
+            "title": "DP-100|Designing and Implementing a Data Science Solution on Azure"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID B47KP3XZX72USee credential",
+            "subtitle": "Coursera",
+            "title": "DeepLearning.AI TensorFlow Developer Specialization"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID QAAUZZUQ638KSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID H3C6ZACY9VDHSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID NUNUZWBRUE3HSee credential",
+            "subtitle": "Coursera",
+            "title": "Graph Search, Shortest Paths, and Data Structures"
+        },
+        {
+            "meta": "Issued Dec 2019Credential ID BMWXDVNBNPUYSee credential",
+            "subtitle": "Coursera",
+            "title": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
+        }
+    ],
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"DevCamper API\",\"start_date\":\"Dec 2020\",\"end_date\":\"Jan 2021\",\"description\":\"Created an extensive backend using Express for a Bootcamp directory websiteUsed mongoose and MongoDB to create Bootcamp, Course, Review, and User Model Created middlewares for error handling, password encryption, etcDeveloped app integration with REST and other APIs for getting exact coordinates of a location, security, authorization\"},{\"title\":\"ProShop\",\"start_date\":\"Oct 2020\",\"end_date\":\"Dec 2020\",\"description\":\"Created an e-commerce web application by using Express.js for backend API, JWT, and OAuth for authentication and Redux for State management and Integrated React with Express using Hooks and Async/Await practicesCreated the Interactive Web pages using React.js framework for a product, checkout process, user profile, and admin managementAdded features such as PayPal/credit card integration, database seeder, product search, and pagination feature, etcTo view the web application -> https://proshopapp1610.herokuapp.com\"},{\"title\":\"DevConnecter\",\"start_date\":\"Sep 2020\",\"end_date\":\"Oct 2020\",\"description\":\"• DevConnector is a social network platform for developers, which includes authentication, profiles and forum posts• Created an extensive backend API with Express and testing with postman, integrated React with Expressusing React Hooks and Async/Await practices and used JWT and OAuth for authentication• Created the Interactive Web pages using React.js framework for the register, login, profile, and dashboard pages• To view the web application -> https://secret-ravine-40910.herokuapp.com/\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Game Changer",
+            "publication": "Axis Bank",
+            "date": "2023-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Intelligent Banking Case Challenge by HDFC Bank",
+            "publication": "Entrepreneurship Cell, IIT Kharagpur",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "Participated and secured third position among 62 teams in a case study competition about leveraging artificial intelligence on HDFC bank."
+        }
+    ]
+}

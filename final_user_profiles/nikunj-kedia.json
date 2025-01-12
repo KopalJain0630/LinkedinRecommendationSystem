@@ -1,0 +1,182 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Director at Summit Kailash",
+    "experience": [
+        {
+            "title": "Director",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jan 2023 - Present 2 years",
+            "start_date": "Jan 2023",
+            "end_date": "Present",
+            "duration_short": "2 years",
+            "company": "Summit Kailash",
+            "company_id": "summit-kailash",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marwar Capital",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "4 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "Marwar Capital",
+                    "meta": "Jan 2023 - Present 2 years",
+                    "duration": "Jan 2023 - Present 2 years",
+                    "start_date": "Jan 2023",
+                    "end_date": "Present",
+                    "duration_short": "2 years",
+                    "title": "Advisor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Marwar Capital",
+                    "meta": "Dec 2020 - Jan 2023 2 years 2 months",
+                    "duration": "Dec 2020 Jan 2023 2 years 2 months",
+                    "start_date": "Dec 2020",
+                    "end_date": "Jan 2023",
+                    "duration_short": "2 years 2 months",
+                    "title": "Partner",
+                    "description_html": null
+                }
+            ],
+            "company": "Marwar Capital",
+            "company_id": "marwarcapital",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Financial Advisor",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jul 2020 Nov 2020 5 months",
+            "start_date": "Jul 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "5 months",
+            "company": "IIFL (India Infoline Group)",
+            "company_id": "iifl",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Mumbai Area, India",
+            "description": "International Banking",
+            "description_html": "International Banking <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "YES BANK",
+            "company_id": "yes-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Mumbai, India",
+            "description_html": null,
+            "duration": "Dec 2017 May 2018 6 months",
+            "start_date": "Dec 2017",
+            "end_date": "May 2018",
+            "duration_short": "6 months",
+            "company": "Otomax Tech-Serve Pvt. Ltd.",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Mumbai, India",
+            "description_html": null,
+            "duration": "Feb 2017 Jul 2017 6 months",
+            "start_date": "Feb 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "6 months",
+            "company": "SP PRECAST SOLUTIONS PRIVATE LIMITED",
+            "company_id": "sp-precast-solutions-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Article Assistant",
+            "location": "Mumbai, India",
+            "description_html": null,
+            "duration": "Oct 2012 Oct 2014 2 years 1 month",
+            "start_date": "Oct 2012",
+            "end_date": "Oct 2014",
+            "duration_short": "2 years 1 month",
+            "company": "Ramesh Varma & Co.",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Article Assistant",
+            "description": "Some of the services we offer are internal audit, risk assessment, fraud risk management and information technology services. We are also into business process improvement and Sarbanes-Oxley compliance.",
+            "description_html": "Some of the services we offer are internal audit, risk assessment, fraud risk management and information technology services. We are also into business process improvement and Sarbanes-Oxley compliance. <!---->",
+            "duration": "Mar 2012 Oct 2012 8 months",
+            "start_date": "Mar 2012",
+            "end_date": "Oct 2012",
+            "duration_short": "8 months",
+            "company": "Discern-Risk",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Article Assistant",
+            "description": "Statutory Audit",
+            "description_html": "Statutory Audit <!---->",
+            "duration": "Oct 2011 Mar 2012 6 months",
+            "start_date": "Oct 2011",
+            "end_date": "Mar 2012",
+            "duration_short": "6 months",
+            "company": "Sharp & Tannan Associates",
+            "company_id": "sharpandtannan",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Welingkar Institute of Management",
+            "degree": "Master's in Management Studies",
+            "field": "Management",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "H.R. College Of Commerce & Economics",
+            "degree": "Bachelor of Commerce (B.Com.)",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "G.D. Somani Memorial School",
+            "url": "",
+            "start_year": "1995",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID 159185027384",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        }
+    ],
+    "current_company_name": "Summit Kailash",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,298 @@
+{
+    "id": "shagun-dixit-19a367166",
+    "name": "Shagun Dixit",
+    "city": "Melbourne, Victoria, Australia",
+    "country_code": "AU",
+    "position": "Data Science, RMIT University",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "New Balance",
+        "company_id": "new-balance",
+        "title": "Data Science, RMIT University"
+    },
+    "experience": [
+        {
+            "title": "Sales Associate",
+            "location": "Melbourne, Victoria, Australia",
+            "description_html": null,
+            "duration": "Nov 2024 - Present 2 months",
+            "start_date": "Nov 2024",
+            "end_date": "Present",
+            "duration_short": "2 months",
+            "company": "New Balance",
+            "company_id": "new-balance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "NICE Ltd",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "3 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "NICE Ltd",
+                    "meta": "Dec 2022 - Apr 2024 1 year 5 months",
+                    "description": "Part of NICE's delivery team Advanced Services for custom solutions on top of standard NICE products. Primary projects on Data & audio Migration, Cloud Migration,  Decommissioning. Designed a Local time sync functionality using MS SQL to be incorporated for systems spread across various time zones. Designed a search bot utility using Python and Langchain library to improve internal support operations.Skills : SQL, AWS (S3, EC2, Snowball, Direct S3, CLI), Python, Requirement gathering, Solution Design, Effort estimation",
+                    "duration": "Dec 2022 Apr 2024 1 year 5 months",
+                    "start_date": "Dec 2022",
+                    "end_date": "Apr 2024",
+                    "duration_short": "1 year 5 months",
+                    "title": "Advanced services Engineer",
+                    "description_html": "Part of NICE's delivery team Advanced Services for custom solutions on top of standard NICE products. <br><br>Primary projects on Data &amp; audio Migration, Cloud Migration, Decommissioning. <br><br>Designed a Local time sync functionality using MS SQL to be incorporated for systems spread across various time zones. Designed a search bot utility using Python and Langchain library to improve internal support operations.<br><br>Skills : SQL, AWS (S3, EC2, Snowball, Direct S3, CLI), Python, Requirement gathering, Solution Design, Effort estimation"
+                },
+                {
+                    "subtitle": "NICE Ltd",
+                    "meta": "Oct 2020 - Jan 2023 2 years 4 months",
+                    "description": "1. Part of team providing technical services for Enterprise & Compliance recording solution NICE Engage, serving a global client base along with Internal teams. 2. Exceeded KPIs of RCA, Technical analysis & consultations. 3. Over the tenure, acted as a Technical lead- drove Technical escalations, helped in Recruitment operations and Mentored 6 engineers. Helped deliver 20+ KT sessions. 4. Spot award recognizing Fast Technical growth and help in upskilling new hires.",
+                    "duration": "Oct 2020 Jan 2023 2 years 4 months",
+                    "start_date": "Oct 2020",
+                    "end_date": "Jan 2023",
+                    "duration_short": "2 years 4 months",
+                    "title": "Engineer - Client services",
+                    "description_html": "1. Part of team providing technical services for Enterprise &amp; Compliance recording solution NICE Engage, serving a global client base along with Internal teams. <br>2. Exceeded KPIs of RCA, Technical analysis &amp; consultations. <br>3. Over the tenure, acted as a Technical lead- drove Technical escalations, helped in Recruitment operations and Mentored 6 engineers. Helped deliver 20+ KT sessions. <br>4. Spot award recognizing Fast Technical growth and help in upskilling new hires. <!---->"
+                }
+            ],
+            "company": "NICE Ltd",
+            "company_id": "nice-systems",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Project Management Intern",
+            "location": "Pune Area, India",
+            "description": "Organized a Nationwide Social Project ‘Catalyse’ along with team (In 15 cities, with 5000 volunteers). Managed Databases for the entire event.",
+            "description_html": "Organized a Nationwide Social Project ‘Catalyse’ along with team (In 15 cities, with 5000 volunteers). Managed Databases for the entire event. <!---->",
+            "duration": "Aug 2018 Sep 2018 2 months",
+            "start_date": "Aug 2018",
+            "end_date": "Sep 2018",
+            "duration_short": "2 months",
+            "company": "Bhumi",
+            "company_id": "bhumiorg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Engineering Intern",
+            "location": "Nagpur Area, India",
+            "description": "Trained and worked on current technologies used by BSNL in the telecommunication sector.",
+            "description_html": "Trained and worked on current technologies used by BSNL in the telecommunication sector. <!---->",
+            "duration": "Jun 2018 Jun 2018 1 month",
+            "start_date": "Jun 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "1 month",
+            "company": "Bharat Sanchar Nigam Limited",
+            "company_id": "bsnl",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Kamal Dua",
+            "about": "Lead Engineer at Commvault",
+            "location": "Haryana, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Lisma Jena",
+            "about": "Driving Customer Success with Data-Driven Strategies | Cloud | SAAS | CXM",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Joseph Justin",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "SAURABH KUMAR",
+            "about": "Research & Development Engineer Specialist at Dassault Systèmes",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Hritika Mehta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhijith KR",
+            "about": "Technical lead - Android and Mobile applications development",
+            "location": "Kochi"
+        },
+        {
+            "profile_link": "",
+            "name": "Isha Arora",
+            "about": "Data Scientist @ MGH | MS in Data Science @ Northeastern University",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Jessica David",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "lavanya kalyankar",
+            "about": "Infrastructure Engineer SQL Database Administration at Kyndryl",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Chaudhary",
+            "about": "Senior Software Consultant at Genpact",
+            "location": "Ghaziabad"
+        }
+    ],
+    "educations_details": "RMIT University",
+    "education": [
+        {
+            "title": "RMIT University",
+            "degree": "Masters of Data Science",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2026",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Maharashtra Institute of Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and telecommuniction engineering",
+            "url": "",
+            "description": "Research Paper : Comparative analysis for prediction models for PM2.5 prediction (IEEE) Part of IOTIOT.in - Worked on Embedded linux, Router OS, Linux root file directory. University Projects : Integration of GPS-INS for localization of UAV (Associated with DRDO, Pune) and Water Management system",
+            "description_html": "Research Paper : Comparative analysis for prediction models for PM2.5 prediction (IEEE) Part of IOTIOT.in - Worked on Embedded linux, Router OS, Linux root file directory.University Projects : Integration of GPS-INS for localization of UAV (Associated with DRDO, Pune) and Water Management system <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jun 2021 - Present · 3 years 7 months",
+            "duration_short": "3 years 7 months",
+            "end_date": "Present",
+            "info": "Leading NICE's association with Non profit accounts impacting STEM education of children and Women in Tech. Responsible for CSR space - newsletter for NICE released quarterly.",
+            "start_date": "Jun 2021",
+            "subtitle": "NICE Ltd",
+            "title": "CSR"
+        },
+        {
+            "cause": "Education",
+            "duration": "Jul 2018 - Aug 2019 · 1 year 2 months",
+            "duration_short": "1 year 2 months",
+            "end_date": "Aug 2019",
+            "info": "Led a team of 9 volunteers contributing in STEM education of 500 under priviledged children. Helped in Increase in Activities and Corporate fundraising for the center.",
+            "start_date": "Jul 2018",
+            "subtitle": "Bhumi",
+            "title": "Center Lead"
+        }
+    ],
+    "followers": 3932.0,
+    "connections": 500.0,
+    "current_company_company_id": "new-balance",
+    "current_company_name": "New Balance",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Melbourne",
+    "linkedin_id": "shagun-dixit-19a367166",
+    "activity": [
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "This is too true. #ai",
+            "img": null,
+            "id": "7272893432824524800"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "We at #amex are hiring analysts for USCM Marketing Analytics in #gurugram, India!!! If you like to develop marketing strategies for Acquisition…",
+            "img": null,
+            "id": "7270692084909514753"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "Just earned my Microsoft Certified: Power BI Data Analyst Associate certification! Excited for what comes next. #DataAnalytics #PowerBI",
+            "img": "",
+            "id": "7270572514139893761"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "We focus on cultivating talent at all levels of the organization and commit ourselves to supporting and encouraging our associates' continued growth,…",
+            "img": "",
+            "id": "7270470291120705537"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "We're Hiring: Data Scientist at ANZ Bank, Bangalore! I am looking for a Data Scientist with 3-5 years of experience for my team in Bangalore. If…",
+            "img": "",
+            "id": "7269171642998685696"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "𝗧𝗼𝗻𝗶𝗴𝗵𝘁’𝘀 𝘁𝗵𝗲 𝗻𝗶𝗴𝗵𝘁, 𝗦𝘆𝗱𝗻𝗲𝘆! Get ready for the much anticipated #BeerOpsSydney 𝚂̲𝙾̲𝙻̲𝙳̲ ̲𝙾̲𝚄̲𝚃̲…",
+            "img": "",
+            "id": "7267280980237787138"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "We're hiring at Novo Nordisk! Embark on a 3-country job at Europe's top firm. Who you are: An ambitious postgrad (2024 or 2025) with 0-2 years of…",
+            "img": "",
+            "id": "7264905530383429632"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "𝗜𝗻𝗱𝗶𝗮 𝗶𝘀 𝗶𝗻𝗰𝗿𝗲𝗱𝗶𝗯𝗹𝗲! I just spent time with our clients, partners and teams in Mumbai and Delhi. I always love my time in India…",
+            "img": "",
+            "id": "7255020180219518977"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "Talking through customer experience is my favourite part. #nice #lifeatnice",
+            "img": "",
+            "id": "7252162263619411968"
+        },
+        {
+            "interaction": "Liked by Shagun Dixit",
+            "link": "",
+            "title": "Envision: The Future of Financial Crime Fighting 🌟 What an incredible event organized by the NICE Actimize PS team, with fantastic participation…",
+            "img": "",
+            "id": "7249461795155824641"
+        }
+    ],
+    "linkedin_num_id": 663771718.0,
+    "honors_and_awards": [
+        {
+            "title": "Spot Award",
+            "publication": "-",
+            "date": null,
+            "description": "Fast technical growth and help in upskilling New hires."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

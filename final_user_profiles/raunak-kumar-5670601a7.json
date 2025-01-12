@@ -1,0 +1,78 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Software Engineer at CUBE | React.js | Node.js | Express | MySQL | MongoDB",
+    "experience": [
+        {
+            "title": "CUBE",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "CUBE",
+                    "meta": "Jul 2023 - Present 1 year 6 months",
+                    "duration": "Jul 2023 - Present 1 year 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 6 months",
+                    "title": "Software Development Engineer 1",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "CUBE",
+                    "meta": "Jan 2023 - Jun 2023 6 months",
+                    "duration": "Jan 2023 Jun 2023 6 months",
+                    "start_date": "Jan 2023",
+                    "end_date": "Jun 2023",
+                    "duration_short": "6 months",
+                    "title": "Software Development Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "CUBE",
+            "company_id": "cube-ms",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Remote",
+            "description_html": null,
+            "duration": "Aug 2021 Sep 2021 2 months",
+            "start_date": "Aug 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "2 months",
+            "company": "ReWorks.in",
+            "company_id": "reworksin",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Birla Institute of Technology, Mesra",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "CUBE",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "COMPETITIVE PROGRAMMING",
+            "publication": "CODECHEF",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": "Secured 2nd rank in college and 65 globally in CODECHEF CQM 8.2 coding competition conducted on Codechef."
+        }
+    ]
+}

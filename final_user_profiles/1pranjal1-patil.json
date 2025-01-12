@@ -1,0 +1,25 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Software Developer",
+    "experience": null,
+    "education": [
+        {
+            "title": "Dr. Babasaheb Ambedkar Technological University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Cat Meme Picker\",\"description\":\"• The Emotion-Based Cat Meme Generator is an interactive web application that allows users to explore different emotions and generate cat memes corresponding to their selected emotions.• This project combines cute cat images with a range of emotions, providing users with an entertaining and lighthearted experience.\"},{\"title\":\"Meme Generator\",\"description\":\"• Developed a meme generator with user inputs for top and bottom text. Utilizedan API to fetch meme images and combine them with user text to generatecustom memes.\"},{\"title\":\"Notes App\",\"description\":\"• Created a note-taking app with rich text formatting, including bold, italic,strike-through, and bullet points. Users can preview notes in real time, and create,update, and delete them. Updated notes appear at the top, and titles areauto-generated from the first line of each note.\"},{\"title\":\"Shopping Buddy\",\"description\":\"• Shopping Buddy is a charming and handy web app designed to help you keep track of your to-buy items. Its adorable interface allows you to add and manage items effortlessly. Simply list the things you don't want to forget, and you can easily remove them by clicking on them. Stay organized and never forget important items to buy with Shopping Buddy!\"},{\"title\":\"Tenzies Game\",\"description\":\"• Experience a thrilling dice game with a captivating user interface. Click the \\\"Roll\\\" button to change the dice values, creating an engaging and interactive gaming experience. Freeze individual dice by simply clicking on them, and strategizing your moves.• To win, align all dice to display the same value, adding an exciting winning condition to the gameplay. Will you be able to achieve this dice-rolling feat and claim victory? Roll the dice and find out!\"},{\"title\":\"Twimba : Twitter Clone\",\"description\":\"• Developed a Twitter clone allowing users to compose tweets and post them byclicking the ”Tweet” button.• Displayed user-generated tweets along with profile pictures and usernames• Enabled users to like tweets and view comments on posts by clicking thecomment icon\"},{\"title\":\"Wizard and Orc Game\",\"description\":\"• Developed a dynamic combat simulation featuring a wizard and demons.Implemented an ”Attack” button for users to engage in battles.• Wizard starts with 60 health, demons with 30. Wizard rolls three dice initially;demons retaliate in subsequent rounds\"}]",
+    "honors_and_awards": null
+}

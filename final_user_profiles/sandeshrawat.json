@@ -1,0 +1,44 @@
+{
+    "city": "San Francisco, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Northwestern University - Kellogg School of Management",
+            "url": "",
+            "start_year": "2022-06",
+            "end_year": "2023-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "....",
+            "start_year": "2007",
+            "end_year": "2009-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "National Stock Exchange of India Limited",
+            "title": "Financial Markets"
+        }
+    ],
+    "current_company_name": "AiDash",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Stainless Steel Market Research in Indian Infrastructure Industry\",\"start_date\":\"May 2013\",\"end_date\":\"Jul 2013\",\"description\":\"Recognized the unexploited stainless steel (SS) potential based on primary and secondary market research in Western-India.\"}]",
+    "honors_and_awards": null
+}

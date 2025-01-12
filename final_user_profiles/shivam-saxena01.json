@@ -1,0 +1,280 @@
+{
+    "id": "shivam-saxena01",
+    "name": "Shivam Saxena",
+    "city": "Atlanta, Georgia, United States",
+    "country_code": "US",
+    "position": "MS CS @ Georgia Tech || Ex-Microsoft || IIT KGP EECE'21",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Microsoft",
+        "company_id": "microsoft",
+        "title": "MS CS @ Georgia Tech || Ex-Microsoft || IIT KGP EECE'21"
+    },
+    "experience": [
+        {
+            "title": "Microsoft",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Microsoft",
+                    "meta": "Mar 2024 - Jul 2024 5 months",
+                    "duration": "Mar 2024 Jul 2024 5 months",
+                    "start_date": "Mar 2024",
+                    "end_date": "Jul 2024",
+                    "duration_short": "5 months",
+                    "title": "Software Engineer II",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Microsoft",
+                    "meta": "Jan 2023 - Mar 2024 1 year 3 months",
+                    "duration": "Jan 2023 Mar 2024 1 year 3 months",
+                    "start_date": "Jan 2023",
+                    "end_date": "Mar 2024",
+                    "duration_short": "1 year 3 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Microsoft",
+                    "meta": "Jun 2021 - Dec 2022 1 year 7 months",
+                    "duration": "Jun 2021 Dec 2022 1 year 7 months",
+                    "start_date": "Jun 2021",
+                    "end_date": "Dec 2022",
+                    "duration_short": "1 year 7 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "San Francisco Bay Area",
+            "description_html": null,
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "Nucleodyne Systems",
+            "company_id": "nucleodyne-systems",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative Trading Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Edelweiss Financial Services Limited",
+            "company_id": "edelweissfin",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bengaluru, Karnataka",
+            "description_html": null,
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Science (IISc)",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "SUBHASH ROUTHU",
+            "about": "Software Engineer at bigbasket.com",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Samarth Singhal",
+            "about": "SDE 2 @ Uber || Ex Adobe, Harness || DTU(DCE)",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Geethika Patchava",
+            "about": "Student at Georgia Institute of Technology, Ex-Microsoft|Looking for roles as software engineer",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Rupayan Sarkar",
+            "about": "Senior Software Engineer at Oracle Database In-Memory | Research Intern at Microsoft Research | IISc | IIT Kharagpur EECS '21",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajiv Kumar Kale",
+            "about": "Lead Engineer @ Samsung Bangalore",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Singh",
+            "about": "Software Engineer 2 - Index Exchange | IIT Bhilai",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Nancy S.",
+            "about": null,
+            "location": "Greater Phoenix Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhav Sainanee",
+            "about": "SWE at Databricks | CS/Econ",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhawna Paliwal",
+            "about": "Research Engineer at Microsoft Research",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nihal Thukarama Rao",
+            "about": "Software Engineer @ Stripe | Masters in CS, IIT Kanpur | ex - ML Engineer @ Vue.ai | NITK",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishesh Kishore",
+            "about": "DevOps Engineer | Certified Kubernetes Administrator (CKA) | AWS & Azure Cloud | Docker, Kubernetes, CI/CD, Git, Jenkins, Linux, Terraform | Data Analysis, Machine Learning, Python, SQL",
+            "location": "Glasgow"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruv Kundu",
+            "about": "Senior Software Engineer at Commvault",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sachin Bhatia",
+            "about": "Big Data Engineer @ Infosys | Former SDE Intern @ Ericsson R&D | Traveller",
+            "location": "Kanpur Nagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Jain",
+            "about": "CSE IITD | Quant Strategist",
+            "location": "Madhya Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vandit Sharma",
+            "about": "ETH MSc Computer Science | Machine Learning | Data Science",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshita Diddee",
+            "about": "LTI PhD at Carnegie Mellon University",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Todi",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilufa Islam",
+            "about": "Product Engineer@Juspay | ex@IBM | CSE",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagnik Gupta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Rai",
+            "about": "SDE2 @ Amazon Fresh",
+            "location": "Kushinagar"
+        }
+    ],
+    "educations_details": "Georgia Institute of Technology",
+    "education": [
+        {
+            "title": "Georgia Institute of Technology",
+            "degree": "Master of Science",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2026",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Somerville School,Vasundhara Enclave,Delhi",
+            "degree": "High School Diploma",
+            "start_year": "2003",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2019See credential",
+            "subtitle": "ICPC - International Collegiate Programming Contest",
+            "title": "ACM International Collegiate Programming Contest"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1026.0,
+    "connections": 500.0,
+    "current_company_company_id": "microsoft",
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Atlanta",
+    "linkedin_id": "shivam-saxena01",
+    "activity": null,
+    "linkedin_num_id": 755955761.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

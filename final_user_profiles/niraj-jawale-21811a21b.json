@@ -1,0 +1,41 @@
+{
+    "city": "Bhusawal, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2024Credential ID 107159867See credential",
+            "subtitle": "CFA Institute",
+            "title": "CFA Program Level I"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID CYX2T35MEVMASee credential",
+            "subtitle": "DeepLearning.AI, Stanford University",
+            "title": "Supervised Machine Learning: Regression and Classification "
+        }
+    ],
+    "current_company_name": "Vayu Technology",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

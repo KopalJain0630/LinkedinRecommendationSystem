@@ -1,0 +1,46 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2008",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2003",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Wooqer",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Client Award for Excellence",
+            "publication": "-",
+            "date": "2015-03-01T00:00:00.000Z",
+            "description": "The award was given for undertaking complex modeling assignments around dealer profitability modeling and strategy formulation. While working on the newly launched Secured Auto lending strategy project, I took the onus of building the loss projection models for different auto dealers/brokers and then interlinking these to the profitability models for the dealers. This was a very complex assignment which required a complete understanding of the cash flow projections, risk discounting and… Show more"
+        }
+    ]
+}

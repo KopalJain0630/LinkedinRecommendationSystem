@@ -1,0 +1,127 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Senior Analyst at American Express | IIT Kanpur'21 | Ex-EXL | Credit Risk Analytics | Data Scientist",
+    "experience": [
+        {
+            "title": "Senior Analyst - Data Science",
+            "location": "Gurugram, Haryana, India",
+            "description": "New Accounts Commercial Decision Sciences",
+            "description_html": "New Accounts Commercial Decision Sciences <!---->",
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "EXL",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "EXL",
+                    "meta": "Jan 2023 - May 2024 1 year 5 months",
+                    "description": "Underwriting ML model development for credit cards for US-Based Retail Bank",
+                    "duration": "Jan 2023 May 2024 1 year 5 months",
+                    "start_date": "Jan 2023",
+                    "end_date": "May 2024",
+                    "duration_short": "1 year 5 months",
+                    "title": "Consultant II",
+                    "description_html": "Underwriting ML model development for credit cards for US-Based Retail Bank <!---->"
+                },
+                {
+                    "subtitle": "EXL",
+                    "meta": "Jun 2021 - Dec 2022 1 year 7 months",
+                    "description": "Financial Consultant for US-Israeli Fintech company in Credit Risk Management domain for Auto and Card loansModel Lifecycle Management for US-based Global Consumer Bank in FP&A and CCAR domainExceeded all performance criteria and expectations with an annual aggregate rating of 4.5/5",
+                    "duration": "Jun 2021 Dec 2022 1 year 7 months",
+                    "start_date": "Jun 2021",
+                    "end_date": "Dec 2022",
+                    "duration_short": "1 year 7 months",
+                    "title": "Consultant I",
+                    "description_html": "Financial Consultant for US-Israeli Fintech company in Credit Risk Management domain for Auto and Card loans<br><br>Model Lifecycle Management for US-based Global Consumer Bank in FP&amp;A and CCAR domain<br><br>Exceeded all performance criteria and expectations with an annual aggregate rating of 4.5/5 <!---->"
+                }
+            ],
+            "company": "EXL",
+            "company_id": "exl-service",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "B.Tech - M.Tech Dual Degree",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": "Specialization: Environmental Engineering",
+            "description_html": "Specialization: Environmental Engineering <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Stephen's School, DumDum",
+            "degree": "Senior Secondary, ISC",
+            "field": "Mathematics and Computer Science",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Stephen's School, DumDum",
+            "degree": "High School, ICSE",
+            "field": "General Studies",
+            "url": "",
+            "start_year": "2000",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"MTH101A\",\"title\":\"Calculus and Real Analysis\"},{\"subtitle\":\"ESO208A\",\"title\":\"Computational Methods in Engineering\"},{\"subtitle\":\"IME672A\",\"title\":\"Data Mining\"},{\"subtitle\":\"MSO203B\",\"title\":\"Differential Equations\"},{\"subtitle\":\"ESC101A\",\"title\":\"Fundamentals of Computing\"},{\"subtitle\":\"CE331A\",\"title\":\"Geoinformatics\"},{\"subtitle\":\"ECO413A\",\"title\":\"Indian Economic Problems\"},{\"subtitle\":\"PHI142A\",\"title\":\"Introduction to Logic\"},{\"subtitle\":\"CS771A\",\"title\":\"Introduction to Machine Learning\"},{\"subtitle\":\"MTH102A\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"ECO101A\",\"title\":\"Microeconomics and Macroeconomics\"},{\"subtitle\":\"HSO201A\",\"title\":\"Probability and Statistics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Nov 2021Credential ID AWKOYNKUSee credential",
+            "subtitle": "Great Learning",
+            "title": "EXL's Data Analytics Rapid Training Program"
+        }
+    ],
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Mathematical Modeling of a Sequencing Batch Reactor (SBR) (Master’s Project)\",\"start_date\":\"Aug 2020\",\"end_date\":\"Aug 2021\",\"description\":\"Modelling of SBR involving both the Aerobic (BOD Removal and Nitrification) and Anaerobic (Denitrification) processesFormulated and simulated a system of 10 simultaneous differential equations using optimized Runge Kutta Method170 cycles required to achieve complete substrate and ammonium degradation and appreciable nitrate degradation\"},{\"title\":\"Design Discharge Estimation : Hydraulic and Hydrologic Design\",\"start_date\":\"Jan 2020\",\"end_date\":\"Feb 2020\",\"description\":\"Design discharge estimated for 50 year return period flood at 5 cities using 100 years of annual maximum daily discharge.Suitability of Exponential, Gaussian, Lognormal, Gamma, Pearson Type-III and Gumbel distributions tested by performing Chi-squared, Kolmogorov-Smirnov and Anderson-Darling tests respectively for each site data.Best distribution model for each site was selected by comparing Akaike Information Criterion (AIC) and Bayesian Information Criterion (BIC) values for the models for which the null hypothesis was not rejected.\"},{\"title\":\"Sparse Recovery: Introduction to Machine Learning (CS771A Course Project)\",\"start_date\":\"Jan 2020\",\"end_date\":\"Feb 2020\",\"description\":\"Solving a L1 regularized, least squared (Least Absolute Shrinkage and SelecƟon Operator: LASSO) regression problemPerformed Primal Subgradient Descent and Primal Proximal Gradient Descent methods to learn sparse linear modelStep length hyperparameters and regularization parameters were tuned for best results for both the methodsBetter convergence results were reported for the Primal Proximal Gradient Descent method\"},{\"title\":\"Store Item Demand Forecasting Challenge : Data Mining (IME672A Course Project)\",\"start_date\":\"May 2019\",\"end_date\":\"Jul 2019\",\"description\":\"Predicted and analyzed 3 months of sales for 50 different items at 10 different stores given 5 years of store item sales data.Performed Exploratory Data Analysis with Prophet Modelling and MLP Neural Network Forecast Modelling and compared the final results with the conventional ARIMA Model (Autoregressive Integrated Moving Average Model) used for the time series data.Symmetric Mean Absolute Percent Error (SMAPE) achieved for Prophet Model was 20% which was lesser than the SMAPE for ARIMA Model (25%) due to better prediction of seasonality trends with the Prophet Model.\"},{\"title\":\"Surveying and Mapping : Geoinformatics (CE331A Course Project)\",\"start_date\":\"Aug 2018\",\"end_date\":\"Nov 2018\",\"description\":\"Surveyed the Academic Area of IIT Kanpur in global co-ordinate system (using GPS) and prepared a map using QGIS.Created a web based GIS mapping using JUNO and performed topographic mapping and road profiling.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Inspire Scholarship 2016",
+            "publication": "Ministry of Science and Technology, Government of India.",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": "Awarded to 1% percentile candidates in JEE-Advanced"
+        },
+        {
+            "title": "International Mathematics Olympiad",
+            "publication": "-",
+            "date": null,
+            "description": "2-time Gold Medallist and 2-time Silver Medallist"
+        },
+        {
+            "title": "National Cyber Olympiad",
+            "publication": "-",
+            "date": null,
+            "description": "1-time Gold Medallist and 1-time Silver Medallist"
+        },
+        {
+            "title": "National Science Olympiad",
+            "publication": "-",
+            "date": null,
+            "description": "2-time Gold Medallist"
+        }
+    ]
+}

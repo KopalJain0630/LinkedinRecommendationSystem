@@ -1,0 +1,62 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2001",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Geological Field Trip - Angul Region, Odisha, India\",\"start_date\":\"Dec 2017\",\"description\":\"During the academic session 2017-2018, I had the privilege of participating in the structural geology field trip organized by the Department of Geology and Geophysics, IIT Kharagpur, held in Angul, Orissa. This enlightening field trip spanned from 8th December 2017 to 20th December 2017.The main objective of the field trip was to conduct a comprehensive stress and strain analysis in the region and create a detailed regional geological map. To achieve this, we meticulously observed and plotted Foliations and Lineations on the stereo-net, enhancing our understanding of the geological structures in the area.These meticulously crafted maps served as invaluable tools in analyzing the possible tectonic and deformation history of the region. Throughout the field trip, we encountered a diverse array of major rock types, including Khondalite, Charnockite, Augen Gneiss, Quartzite, and Migmatites, each possessing distinct characteristic minerals and properties. The field trip provided a unique hands-on experience and a deeper insight into the complexities of structural geology.\"},{},{},{},{},{\"title\":\"Geological Mapping - Simultala Region Bihar, India\",\"start_date\":\"Dec 2016\",\"description\":\"The fieldwork was conducted as part of the third-year applied geology curriculum for the 2014-19 Undergraduate Batch of the Department of Geology and Geophysics, Indian Institute of Technology, Kharagpur.The primary objective of the project was to draw a comprehensive geological field map of the Shimultala region. The major aspects and objectives of the fieldwork encompassed:1. Imprints of three deformations were meticulously recorded in the area, and these are represented by three distinct phases of folding, as depicted on the geological map.2. The fieldwork involved thorough observation and investigation of bands of granite-gneiss, including a particularly coarse-grained granite, which were extensively documented in the geological report.Throughout the fieldwork, students gained hands-on experience in geological mapping techniques and deepened their understanding of the region's geological history. The project provided a valuable opportunity for practical learning and analysis of complex geological formations.\"},{},{},{},{},{\"title\":\"High Temperature Deformation of Polycrystalline MgO - Lower mantle rheology at University of Tokyo, Japan\",\"start_date\":\"Jul 2016\",\"description\":\"The primary objectives of the project were:Analyzing the high-temperature deformation behavior of polycrystalline MgO to gain insights into its mechanical properties and understand the fundamentals of lower mantle rheology.Conducting experimental assays to validate the Flow law of polycrystals at different temperatures, thereby contributing to a deeper understanding of the material's mechanical response under varying conditions.\"},{\"title\":\"Geology and Geophysics Field Work - Balasore & Chandipur Region, India\",\"start_date\":\"Dec 2015\",\"description\":\"The field trip was organized for the second-year students of the 2014-19 UG Batch from the Department of Geology and Geophysics, Indian Institute of Technology, Kharagpur, and took place from 7th December 2015 to 15th December 2015.The main objective of the project was to gain practical knowledge about the geological aspects of the region around Balasore, North Odisha. During the field trip, we focused on the following key areas:1. Observing and studying the different compositions of minerals in the Singhbum granite to understand the stratigraphy of the area.2. Examining and analyzing the various grades of weathering in the region.Additionally, we learned that the geological significance of this area lies in it being a part of the Singhbhum Craton, which is considered one of the oldest and earliest-formed landmasses on Earth.Furthermore, during our visit to Chandipur Beach, a sea resort in Balasore District, Odisha, India, our team had the opportunity to study sedimentary facies and sedimentary structures. We also gained insights into understanding the direction of currents and waves in this coastal environment.The field trip provided us with practical exposure to geological fieldwork and enhanced our understanding of the unique geological features of the region. It was a valuable learning experience that complemented our academic studies and allowed us to witness the diverse geological formations first-hand.\"},{},{},{},{\"title\":\"Master's Thesis Project\",\"start_date\":\"Aug 2018\",\"end_date\":\"Apr 2019\",\"description\":\"The primary objective of the project was two fold:1. To investigate and determine the solubility of gold (Au) in Sb2S3 melt, aiming to understand if Au can be dissolved in the Sb2S3 melt.2. To identify and ascertain the temperature and composition of the eutectic, if present, between the gold (Au) and Sb2S3. This aspect was crucial in exploring any potential alloy formations and their properties.The project involved experimental analysis and data collection to gain insights into the solubility of gold in the Sb2S3 melt and to determine any eutectic points that might exist between the two components. The findings were significant in advancing the understanding of materials science and potential applications of these alloys in various industries.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Winner - Oscar Creation Lab",
+            "publication": "Oscar Young Management Consultants",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "JMBS Scholarship",
+            "publication": "Government of Canada",
+            "date": "2017-06-01T00:00:00.000Z",
+            "description": "Recipient of the JMBS Scholarship from Canada Government to work on their sponsored project. Project - To examine the effect of poison pill adoptions on firm value, controlling for the adopting firm's pre-existing corporate governance structure."
+        },
+        {
+            "title": "JST Scholarship",
+            "publication": "Japan Science & Technology",
+            "date": "2016-07-01T00:00:00.000Z",
+            "description": "Selected for Japan-Asia Youth Exchange Program in Science, the program for enhancing exchanges between Asia and Japan of the youths who will play a crucial role in the future field of Geology & Geophysics. Received a scholarship from Japan science and Technology, to work on their sponsored project at University of Tokyo, Japan. Project - Lower mantle rheology at high temperature."
+        },
+        {
+            "title": "Inspire Scholarship",
+            "publication": "Department of Science and Technology , Govt. of India",
+            "date": "2015-03-01T00:00:00.000Z",
+            "description": "Awarded to students who are ranked among the top 1% in 12th grade at their respective Board or Are among top 10,000 candidates in CML list who qualified JEE Advanced Examinations from all over India and are pursuing courses in Natural and Basic sciences."
+        }
+    ]
+}

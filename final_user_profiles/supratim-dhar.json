@@ -1,0 +1,42 @@
+{
+    "city": "Doha, Qatar",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Qatar Development Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "WorldQuant Alpha Quality Project: Global Rank 12",
+            "publication": "-",
+            "date": "2020-06-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "ZS Campus Beats Case Challenge: Top 20 Teams",
+            "publication": "-",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Investment and Risk Management Case Challenge, INAE Youth Conclave: First Runners-Up",
+            "publication": "-",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

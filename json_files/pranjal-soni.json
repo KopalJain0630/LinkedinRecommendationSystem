@@ -1,0 +1,293 @@
+{
+    "id": "pranjal-soni",
+    "name": "Pranjal Soni",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Data Scientist | Time Series | GenAI",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Crest",
+        "company_id": "get-crest",
+        "title": "Data Scientist | Time Series | GenAI"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Built and implemented an automated demand forecasting engine for FMCG products, streamlining the data science workflow by automating feature generation, data transformation, and model building. Achieved a 33% reduction in runtime, enhancing operational efficiency. Demonstrated a remarkable 20% improvement in forecasting accuracy.• Engineered a range-based forecasting model utilizing residual bootstrapping techniques to mitigate bias, resulting in enhanced forecast accuracy.• Contributed to developing key tools, including a classification engine for seamless model development, training, and testing; an EDA app enabling code-free exploratory data analysis with exportable reports; and a cookie-cutter setup to streamline processes for the data science team.• Designed and implemented a multi-functional audio analysis tool with Azure services & OpenAI´s LLM models, including features for speech-to-text transcription, language translation, audio summarization, sentiment analysis, and a chatbot for interactive engagement with audio content.• Build an Agentic Text-to-SQL tool using LangGraph and. Azure OpenAI to enable seamless data retrieval from Snowflake for direct access.• Developed multiple Streamlit dashboards to facilitate model delivery to end users, ensuring efficient monitoring and eliminating dependencies on Excel.• Led data cleaning and exploratory data analysis initiatives, specializing in classical time series models such as ARIMA, SARIMA, and Prophet. Also, I proficiently worked with machine learning and deep learning algorithms, including Random Forest, XGBoost, LightGBM, Neural Prophet, and LSTM.",
+            "description_html": "• Built and implemented an automated demand forecasting engine for FMCG products, streamlining the data science workflow by automating feature generation, data transformation, and model building. Achieved a 33% reduction in runtime, enhancing operational efficiency. Demonstrated a remarkable 20% improvement in forecasting accuracy.• Engineered a range-based forecasting model utilizing residual bootstrapping techniques to mitigate bias, resulting in enhanced forecast accuracy.• Contributed to developing key tools, including a classification engine for seamless model development, training, and testing; an EDA app enabling code-free exploratory data analysis with exportable reports; and a cookie-cutter setup to streamline processes for the data science team.• Designed and implemented a multi-functional audio analysis tool with Azure services &amp; OpenAI´s LLM models, including features for speech-to-text transcription, language translation, audio summarization, sentiment analysis, and a chatbot for interactive engagement with audio content.• Build an Agentic Text-to-SQL tool using LangGraph and. Azure OpenAI to enable seamless data retrieval from Snowflake for direct access.• Developed multiple Streamlit dashboards to facilitate model delivery to end users, ensuring efficient monitoring and eliminating dependencies on Excel.• Led data cleaning and exploratory data analysis initiatives, specializing in classical time series models such as ARIMA, SARIMA, and Prophet. Also, I proficiently worked with machine learning and deep learning algorithms, including Random Forest, XGBoost, LightGBM, Neural Prophet, and LSTM.",
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "Crest",
+            "company_id": "get-crest",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Worked on digital signals, filtering, analyzing, and preparing the data. Applied various statistical methods to generate insights and model the signals.• Setup an end-to-end automated architecture for the organization for processing and loading the data into the data warehouse for analytics purposes. Also, set up analytical infrastructure for delivering the analytics using PowerBI. • Worked with various teams i.e. Data Science, Product, Sales, Finance, and Marketing to understand and deliver their analytics requirements.• Perform data visualization for time series data using Seaborn and Matplotlib. And also explicitly worked on Pandas, Numpy, Bigquery, Linux, and Google Console.",
+            "description_html": "• Worked on digital signals, filtering, analyzing, and preparing the data. Applied various statistical methods to generate insights and model the signals.• Setup an end-to-end automated architecture for the organization for processing and loading the data into the data warehouse for analytics purposes. Also, set up analytical infrastructure for delivering the analytics using PowerBI. • Worked with various teams i.e. Data Science, Product, Sales, Finance, and Marketing to understand and deliver their analytics requirements.• Perform data visualization for time series data using Seaborn and Matplotlib. And also explicitly worked on Pandas, Numpy, Bigquery, Linux, and Google Console.",
+            "duration": "Aug 2021 Aug 2022 1 year 1 month",
+            "start_date": "Aug 2021",
+            "end_date": "Aug 2022",
+            "duration_short": "1 year 1 month",
+            "company": "Dozee",
+            "company_id": "dozeehealth",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "• Built deep learning models for computer vision project using thePytorch framework for recognizing text from the images • Worked with transfer learning technique and used pre-trainedmodels like Resnet, Efficientnet, Nfnets, and Attention models• Extract business keywords from articles using collocations and theRAKE algorithm• Performed data collection, preprocessing, and labeling. Improverunning time of the python scripts to enhance the efficiency of theprograms",
+            "description_html": "• Built deep learning models for computer vision project using thePytorch framework for recognizing text from the images • Worked with transfer learning technique and used pre-trainedmodels like Resnet, Efficientnet, Nfnets, and Attention models• Extract business keywords from articles using collocations and theRAKE algorithm• Performed data collection, preprocessing, and labeling. Improverunning time of the python scripts to enhance the efficiency of theprograms <!---->",
+            "duration": "Jan 2021 Jul 2021 7 months",
+            "start_date": "Jan 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "7 months",
+            "company": "Vidooly",
+            "company_id": "vidooly",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Nikita Katyal",
+            "about": null,
+            "location": "Bangkok Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivangi Sharma",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Manisha Khattar",
+            "about": null,
+            "location": "Greater Delhi Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Souraj Mishra",
+            "about": null,
+            "location": "Cracow"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajinkya Kolhe",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishi Mahto",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashok Lathwal",
+            "about": "Exploring Things | Ex Cisco | Ex-IIITB | Kaggle Master",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ronak S.",
+            "about": null,
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Pulkit Singhal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Lavesh Kaushik",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Central University Of Rajasthan",
+    "education": [
+        {
+            "title": "Central University Of Rajasthan",
+            "degree": "Master's degree",
+            "field": "Data Science and Analytics",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Central University Of Rajasthan",
+            "degree": "Integreted B.Sc. in Computer Science",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Applied Natural Language Processing\"},{\"subtitle\":\"-\",\"title\":\"Bioinformatics\"},{\"subtitle\":\"-\",\"title\":\"Combinatorial Optimization\"},{\"subtitle\":\"-\",\"title\":\"Data Mining\"},{\"subtitle\":\"-\",\"title\":\"Enabling Technologies For Data Science\"},{\"subtitle\":\"-\",\"title\":\"Introduction To Econometrics & Finance\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra & Matrix Therory\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Modelling In Operation Management\"},{\"subtitle\":\"-\",\"title\":\"Probability Distributions\"},{\"subtitle\":\"-\",\"title\":\"Statistical Methods\"},{\"subtitle\":\"-\",\"title\":\"Time Series And Forecasting\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jan 2021Credential ID TNHDZTJU6MHRSee credential",
+            "subtitle": "Coursera",
+            "title": "Natural Language Processing with Attention Models"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID 5F54TUWLT9DQSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID C0A1BC7B3EEDSee credential",
+            "subtitle": "HackerRank",
+            "title": "Python (Intermediate)"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID QTZN98UJA3U6See credential",
+            "subtitle": "Coursera",
+            "title": "Advanced Data Science with IBM Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Fundamentals of Scalable Data Science"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 6BSQVUVUBPKNSee credential",
+            "subtitle": "Coursera",
+            "title": "Applied Data Science with Python Specialization"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID W7VTFUE22JDKSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued May 2019",
+            "subtitle": "NPTEL",
+            "title": "Programming,Data Structures and Algorithms using Python"
+        },
+        {
+            "meta": "Issued Feb 2018",
+            "subtitle": "Udacity India",
+            "title": "Google India Challenge Scholarship"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "freeCodeCamp",
+            "title": "JavaScript Algorithms and Data Structures"
+        }
+    ],
+    "recommendations": [
+        "Vedant Singh Rathore “I have worked with Pranjal for 2 years. He is a very skilled Data Scientist and a brilliant developer. Pranjal delivered multiple projects end-to-end working independently as well as with a team. He has a very high learning agility which makes him a perfect fit in any fast-paced project. Pranjal works very well with ambiguous requirements. His tendency to take upon a task without a fear of failures has always set him apart. Due to these traits, he has always been able to start projects from scratch and deliver them on-time in-full. Pranjal is very transparent about his opinions and voices them in any setup. This helps him question his own progress and also suggest betterment opportunities in his peers' work. He is constantly looking for critique to improve his work as well as his skillset.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 4073.0,
+    "connections": 500.0,
+    "current_company_company_id": "get-crest",
+    "current_company_name": "Crest",
+    "publications": "[{\"title\":\"CNN Model With PyTorch For Image Classification\",\"subtitle\":\"Medium\",\"date\":\"January 9, 2021\"},{\"title\":\"Natural Language Processing and Word Embeddings\",\"subtitle\":\"Medium\",\"date\":\"October 14, 2020\"},{\"title\":\"Handling Imbalanced Datasets With imblearn Library\",\"subtitle\":\"Medium\",\"date\":\"October 10, 2020\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Dog Breed Image Predication\",\"start_date\":\"Jun 2021\",\"end_date\":\"Jun 2021\",\"description\":\"An end-to-end project to identify the 10 different types of dog breeds. Deployment link of the project: https://dog-breed-prediction-01.herokuapp.com/Tool Used: Pytorch, Fast-API, Jupyter Notebook, Python, Matplotlib, Pandas, Numpy\"},{\"title\":\"Fine Grained Sentiment Prediction For Mobile Reviews\",\"start_date\":\"Oct 2020\",\"end_date\":\"Oct 2020\",\"description\":\"Perform fine-grained sentiment prediction on mobile reviews. The task is to scrap the mobile phone reviews from amazon and perform to predict sentiment for them. The machine learning model is trained for the Stanford Sentiment Tree dataset.\"},{\"title\":\"Bitcoin Price Forecasting\",\"start_date\":\"Sep 2020\",\"end_date\":\"Oct 2020\",\"description\":\"The project is related to time series analysis. We used various several time series models to test various hypotheses on Bitcoin price movements and try to relate it with various fluctuations in the Stock market and see how it is affected. We have considered SP500, Oil Prices, Gold Prices, and finding how these three and Bitcoin prices are correlated. Also, how their volatilities affect others. The goal of this project is to come up with a conclusion that will help in Bitcoin's price prediction.\"},{},{},{\"title\":\"Fake Job Description Prediction\",\"start_date\":\"Mar 2020\",\"end_date\":\"May 2020\",\"description\":\"This is a data science project and problem is to identify given job description is fraudulent or not. The dataset is taken from Kaggel and it consists meta-information about 18K job descriptions. We deal with numerical and text features in this project. The project consists of data preprocessing, data analysis, feature engineering, handling imbalanced dataset and hyperparameter tuning.\"},{}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "pranjal-soni",
+    "activity": [
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "Family that celebrates together, grows closer. 🙌🏻 I often wonder why we decided to transition from remote to hybrid work, and one fascinating…",
+            "img": "",
+            "id": "7277205028795293696"
+        },
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "Shark Tank nights are a tradition with my grandchildren—they never miss an episode. So, when they found out that I know some of the Sharks, their…",
+            "img": "",
+            "id": "7268514731487862784"
+        },
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "Thank you to Chaitanya N. for having me! Podcast link:  It was a pleasure sharing my experiences and insights on your…",
+            "img": "",
+            "id": "7266360539721662464"
+        },
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "We will be organizing more such events. Join us to connect with other professionals from your field!",
+            "img": "",
+            "id": "7260694987200159745"
+        },
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "VScode + Draw io extension = ❤️❤️❤️",
+            "img": "",
+            "id": "7258938696719097858"
+        },
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "Everyone that's building a product knows that marketing it well is so crucial – but good marketing content is expensive and inaccessible for many…",
+            "img": "",
+            "id": "7255122896451227648"
+        },
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "#Bangalore auto driver who goes out of his way to help and encourage passengers to speak in #Kannada. It's always beneficial to learn the local…",
+            "img": "",
+            "id": "7254094833458241536"
+        },
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "While revisiting Terraform concepts over the weekend, I came across an incredible Terraform course by Abhishek Veeramalla on YouTube that I just have…",
+            "img": "",
+            "id": "7253822285256564736"
+        },
+        {
+            "interaction": "Liked by Pranjal Soni",
+            "link": "",
+            "title": "Indigo also tries to cut AC costs. On ground. the airline used to pull down all the window shades so the aircraft remains a little cooler. It also…",
+            "img": "",
+            "id": "7251212662196387840"
+        }
+    ],
+    "linkedin_num_id": 603627711.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

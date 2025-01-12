@@ -1,0 +1,417 @@
+{
+    "id": "rajdoshi14",
+    "name": "Raj Doshi",
+    "city": "London, England, United Kingdom",
+    "country_code": "GB",
+    "position": "Product and Strategy",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Revolut",
+        "company_id": "revolut",
+        "title": "Product and Strategy"
+    },
+    "experience": [
+        {
+            "title": "Operating Principal",
+            "location": "London, England, United Kingdom",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Revolut",
+            "company_id": "revolut",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-Founder",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Education largely focuses on teaching tools rather than learning how to create solutions to relevant problems. How to think, How to create, How to lead - these succinctly capture the abilities that modern careers will need. We built Zingle (zingle.app) as a peer-learning platform for school students (10-14yrs) where they showcase and discover new interests, interact with like minded students and feel inspired. Students' internet adoption has been cemented, yet there isn't a platform or community where they can engage with one another and get exposure to what other students learn and do.Prior to Zingle, we built business simulation games for school students to equip them with real-world skills. Why simulation games? Because they are experiential, real world based and something students love. Imagine a game-experience in which a student is running a restaurant - investing resources and taking decisions with trade-offs to maximise the revenue. Students feel super empowered.",
+            "description_html": "Education largely focuses on teaching tools rather than learning how to create solutions to relevant problems. How to think, How to create, How to lead - these succinctly capture the abilities that modern careers will need. We built Zingle (zingle.app) as a peer-learning platform for school students (10-14yrs) where they showcase and discover new interests, interact with like minded students and feel inspired. Students' internet adoption has been cemented, yet there isn't a platform or community where they can engage with one another and get exposure to what other students learn and do.Prior to Zingle, we built business simulation games for school students to equip them with real-world skills. Why simulation games? Because they are experiential, real world based and something students love. Imagine a game-experience in which a student is running a restaurant - investing resources and taking decisions with trade-offs to maximise the revenue. Students feel super empowered.",
+            "duration": "Jan 2021 Jun 2022 1 year 6 months",
+            "start_date": "Jan 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "1 year 6 months",
+            "company": "Zingle",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sr. Product Manager (PayU Credit)",
+            "location": "Mumbai Area, India",
+            "description": "PaySense was acquired by PayU for $185 mn -  Led the integration of PaySense loan product with PayU's BNPL product, LazyPay, achieved 55% instant disbursals via green channel- Managed a 20-member team to develop lending partnership with Byju's Edtech, built a new app for Byju's agents, managed a tripartite integration between PaySense, Byju's, and banks. Scaled to 35% of monthly disbursals- Implemented borrower risk-based pricing of loans using ML models- Developed doc parsing and image matching tools to automate manual loan approval steps, reducing loan processing time by 50%.- Enhanced loan application process by making requirements adaptive and adding real-time in-app assistance, resulting in a 70% increase in install-to-disbursal funnel conversion (from 2% to 3.4%)- Improved touch-less repayment rate by 6% (from 79% to 85%) by introducing auto-repayment setup, flexible repayment options, and late payment charges to incentivize timely repayment behavior",
+            "description_html": "PaySense was acquired by PayU for $185 mn -  Led the integration of PaySense loan product with PayU's BNPL product, LazyPay, achieved 55% instant disbursals via green channel- Managed a 20-member team to develop lending partnership with Byju's Edtech, built a new app for Byju's agents, managed a tripartite integration between PaySense, Byju's, and banks. Scaled to 35% of monthly disbursals- Implemented borrower risk-based pricing of loans using ML models- Developed doc parsing and image matching tools to automate manual loan approval steps, reducing loan processing time by 50%.- Enhanced loan application process by making requirements adaptive and adding real-time in-app assistance, resulting in a 70% increase in install-to-disbursal funnel conversion (from 2% to 3.4%)- Improved touch-less repayment rate by 6% (from 79% to 85%) by introducing auto-repayment setup, flexible repayment options, and late payment charges to incentivize timely repayment behavior",
+            "duration": "Apr 2017 Jan 2021 3 years 10 months",
+            "start_date": "Apr 2017",
+            "end_date": "Jan 2021",
+            "duration_short": "3 years 10 months",
+            "company": "PaySense",
+            "company_id": "paysense",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Perfected price discovery algorithm, simplified mobile app, and educated drivers, resulting in a 90% transition of shipments from manual sourcing to app marketplace.- Successfully led a team of 25 to grow driver base by 3x, resulting in an improvement of fulfillment rate from 75% to 95%. Recognized with an award from the CEO.- Launched personal loans ($20mn in pre-approved amount), job board, job referrals, and cashless-toll-payment solution on the app for drivers, resulting in a 40% monthly retention improvement.",
+            "description_html": "- Perfected price discovery algorithm, simplified mobile app, and educated drivers, resulting in a 90% transition of shipments from manual sourcing to app marketplace.- Successfully led a team of 25 to grow driver base by 3x, resulting in an improvement of fulfillment rate from 75% to 95%. Recognized with an award from the CEO.- Launched personal loans ($20mn in pre-approved amount), job board, job referrals, and cashless-toll-payment solution on the app for drivers, resulting in a 40% monthly retention improvement.",
+            "duration": "Mar 2016 Mar 2017 1 year 1 month",
+            "start_date": "Mar 2016",
+            "end_date": "Mar 2017",
+            "duration_short": "1 year 1 month",
+            "company": "BlackBuck (Zinka Logistics Solutions Pvt. Ltd.)",
+            "company_id": "blackbuck",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Consultant",
+            "location": "Mumbai Area, India",
+            "description": "Exposure to business problems and strategic approach to solving them -Socio-economic impact assessment (Dubai) of a downstream petrochemicals project in Oman- Profiled Oman’s social and economic priorities - employment, capabilities, GDP diversification- Evaluated the socio-economic impact of the project and compared with that of other gas based industries to ascertain the best option for Oman to meet its objectives• Business Turnaround for a Telecom major in India- Conducted district-level analysis for key circles to identify issues in customer acquisition, usage and retention- Presented recommendations across product pricing, S&D, brand, network expansion to achieve revenue uplift- Prepared the annual operating plan for 2015/16• Strategy Document (Qatar) for a Qatari Chemical Marketing and Distribution Company- Estimated the total value creation potential for the company through operational savings and new initiatives- Created a corporate and functional level strategic planning document to achieve the target by 2019• Expansion Strategy for an NGO focused on girl child education in Rajasthan- Comparative analysis of intervention opportunities in pre-primary and secondary education space for the girl child- Assessed client's capabilities and aspirations to recommend the best approach and partners for its expansion• Sales Growth Strategy for the Cement brand of an Indian Steel and Cement Company- Identified existing gaps in client capability through detailed diagnostics and competitive benchmarking- Charted a prioritized list of markets and sales target plan based on market attractiveness and market intelligence• Market Entry: International expansion strategy for a European Pharma company into 4 emerging markets- Conducted market assessment for Vietnam: market size, competitive & regulatory landscape, consumer behaviour- Profiled 50+ Vietnam based companies as potential partners; short-listed and engaged with 20 high priority firms",
+            "description_html": "Exposure to business problems and strategic approach to solving them -Socio-economic impact assessment (Dubai) of a downstream petrochemicals project in Oman- Profiled Oman’s social and economic priorities - employment, capabilities, GDP diversification- Evaluated the socio-economic impact of the project and compared with that of other gas based industries to ascertain the best option for Oman to meet its objectives• Business Turnaround for a Telecom major in India- Conducted district-level analysis for key circles to identify issues in customer acquisition, usage and retention- Presented recommendations across product pricing, S&amp;D, brand, network expansion to achieve revenue uplift- Prepared the annual operating plan for 2015/16• Strategy Document (Qatar) for a Qatari Chemical Marketing and Distribution Company- Estimated the total value creation potential for the company through operational savings and new initiatives- Created a corporate and functional level strategic planning document to achieve the target by 2019• Expansion Strategy for an NGO focused on girl child education in Rajasthan- Comparative analysis of intervention opportunities in pre-primary and secondary education space for the girl child- Assessed client's capabilities and aspirations to recommend the best approach and partners for its expansion• Sales Growth Strategy for the Cement brand of an Indian Steel and Cement Company- Identified existing gaps in client capability through detailed diagnostics and competitive benchmarking- Charted a prioritized list of markets and sales target plan based on market attractiveness and market intelligence• Market Entry: International expansion strategy for a European Pharma company into 4 emerging markets- Conducted market assessment for Vietnam: market size, competitive &amp; regulatory landscape, consumer behaviour- Profiled 50+ Vietnam based companies as potential partners; short-listed and engaged with 20 high priority firms",
+            "duration": "Feb 2014 Oct 2015 1 year 9 months",
+            "start_date": "Feb 2014",
+            "end_date": "Oct 2015",
+            "duration_short": "1 year 9 months",
+            "company": "Booz & Company",
+            "company_id": "strategyand",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Nariman Point, Mumbai",
+            "description": "Portfolio engagement - Led business strategy for two portfolio companies, including digital marketing, competitive landscaping, customer intelligence and recruitment• Deals - Sourced deals and conducted due diligence to evaluated new investment opportunities• Internal processes - Formalized the investment thesis and start-up evaluation parameters for the firm",
+            "description_html": "Portfolio engagement - Led business strategy for two portfolio companies, including digital marketing, competitive landscaping, customer intelligence and recruitment• Deals - Sourced deals and conducted due diligence to evaluated new investment opportunities• Internal processes - Formalized the investment thesis and start-up evaluation parameters for the firm <!---->",
+            "duration": "Sep 2013 Jan 2014 5 months",
+            "start_date": "Sep 2013",
+            "end_date": "Jan 2014",
+            "duration_short": "5 months",
+            "company": "Kae Capital",
+            "company_id": "kaecapital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Placement Manager",
+            "location": "Placement Office, IIT Bombay",
+            "description": "I led a team of 90, was involved in making policy decisions and managing recruitment activities of 300 companies & 1400 students.Was the first non-PhD student entrusted to lead PhD Placements. I revised the process timeline to revive job prospects for the PhD students.The issue of PhD under-representation was addressed by involving the PhD Academic Unit as key stakeholders. Effected a boost in team productivity by saving manual effort of 200 hrs a month, through enhanced online systems like attendance automationComplemented student preparation by setting up centralized resource bank and cross-dept collaboration",
+            "description_html": "I led a team of 90, was involved in making policy decisions and managing recruitment activities of 300 companies &amp; 1400 students.Was the first non-PhD student entrusted to lead PhD Placements. I revised the process timeline to revive job prospects for the PhD students.The issue of PhD under-representation was addressed by involving the PhD Academic Unit as key stakeholders. Effected a boost in team productivity by saving manual effort of 200 hrs a month, through enhanced online systems like attendance automationComplemented student preparation by setting up centralized resource bank and cross-dept collaboration",
+            "duration": "Apr 2012 May 2013 1 year 2 months",
+            "start_date": "Apr 2012",
+            "end_date": "May 2013",
+            "duration_short": "1 year 2 months",
+            "company": "IIT Bombay Placement Team",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst",
+            "location": "Mumbai",
+            "description": "Analyzed customer behavior in organized retail market using analytical tools. Dissected client transaction data to segment customers into ‘bargain hunters’ and ‘price sensitive customers’Recommended revised customer targeting rules to increase the offer redemption rate by 0.1%",
+            "description_html": "Analyzed customer behavior in organized retail market using analytical tools. Dissected client transaction data to segment customers into ‘bargain hunters’ and ‘price sensitive customers’Recommended revised customer targeting rules to increase the offer redemption rate by 0.1% <!---->",
+            "duration": "May 2012 Jun 2012 2 months",
+            "start_date": "May 2012",
+            "end_date": "Jun 2012",
+            "duration_short": "2 months",
+            "company": "Fractal Analytics",
+            "company_id": "fractal-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Alumni Secretary",
+            "location": "IIT Bombay",
+            "description": "Fetched internship opportunities, funds, and mentoring by reaching out to 70 alumni based in India and US. There is a much greater scope to engage with the alumni since their experience and career insights can help students develop a wider perspective and make mature decisions.",
+            "description_html": "Fetched internship opportunities, funds, and mentoring by reaching out to 70 alumni based in India and US. There is a much greater scope to engage with the alumni since their experience and career insights can help students develop a wider perspective and make mature decisions. <!---->",
+            "duration": "Aug 2011 May 2012 10 months",
+            "start_date": "Aug 2011",
+            "end_date": "May 2012",
+            "duration_short": "10 months",
+            "company": "Hostel 7",
+            "company_id": "iit-bombay-heritage-fund",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst Intern",
+            "location": "Mumbai",
+            "description": "Winner of Eureka! 2010, E-Cell IIT Bombay.Suggested a changed strategic direction to target colleges as primary customers, instead of a fragmented student fraternity.Was involved in the process of building and testing hypotheses for the venture’s new business plan in social media marketing; identified ‘customer segments’ and ‘revenue channels’ as uncertainties.",
+            "description_html": "Winner of Eureka! 2010, E-Cell IIT Bombay.Suggested a changed strategic direction to target colleges as primary customers, instead of a fragmented student fraternity.Was involved in the process of building and testing hypotheses for the venture’s new business plan in social media marketing; identified ‘customer segments’ and ‘revenue channels’ as uncertainties. <!---->",
+            "duration": "Dec 2011 Jan 2012 2 months",
+            "start_date": "Dec 2011",
+            "end_date": "Jan 2012",
+            "duration_short": "2 months",
+            "company": "Thotmatrix",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Philips Innovation Campus, Bangalore",
+            "description": "Established proof of concept of Philips healthcare model by implementing a code to simultaneously acquire data from multiple medical devices; further investigated feasibility of wireless connectivity of the devices.Program to be incorporated in Philips’ Heart Health project and planned to be launched across major Indian cities.",
+            "description_html": "Established proof of concept of Philips healthcare model by implementing a code to simultaneously acquire data from multiple medical devices; further investigated feasibility of wireless connectivity of the devices.Program to be incorporated in Philips’ Heart Health project and planned to be launched across major Indian cities. <!---->",
+            "duration": "May 2011 Jul 2011 3 months",
+            "start_date": "May 2011",
+            "end_date": "Jul 2011",
+            "duration_short": "3 months",
+            "company": "Philips Healthcare",
+            "company_id": "philips",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "The Entrepreneurship Cell, IIT Bombay",
+            "location": "IIT Bombay",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "The Entrepreneurship Cell, IIT Bombay",
+                    "meta": "Mar 2010 - May 2011 1 year 3 months",
+                    "description": "Led a 2-tier team of 30+ students to network with VC funds & industry experts to mentor and fund budding start-upsBuilt relationships with 400 Mentors, Judges and 20 organizations for Eureka! - Asia’s largest B-Plan CompetitionExtended expert guidance to 800 Eureka! teams by launching query solution forum and legal consultancyIncorporated social entrepreneurship into E-Cell's vision, saw participation of 120 teams in Eureka! Social 2011Secured engagement of over 60 distinguished speakers including the likes of Sam Pitroda, Rahul Bajaj and Ronnie Screwvala for the flagship annual Entrepreneurship SummitDoubled the investor panel to 16 for Vulture’s Nest, a platform availed by 100 start-ups to pitch for funding",
+                    "duration": "Mar 2010 May 2011 1 year 3 months",
+                    "start_date": "Mar 2010",
+                    "end_date": "May 2011",
+                    "duration_short": "1 year 3 months",
+                    "title": "Manager, Corporate Relations",
+                    "description_html": "Led a 2-tier team of 30+ students to network with VC funds &amp; industry experts to mentor and fund budding start-ups<br>Built relationships with 400 Mentors, Judges and 20 organizations for Eureka! - Asia’s largest B-Plan Competition<br>Extended expert guidance to 800 Eureka! teams by launching query solution forum and legal consultancy<br>Incorporated social entrepreneurship into E-Cell's vision, saw participation of 120 teams in Eureka! Social 2011<br>Secured engagement of over 60 distinguished speakers including the likes of Sam Pitroda, Rahul Bajaj and Ronnie Screwvala for the flagship annual Entrepreneurship Summit<br>Doubled the investor panel to 16 for Vulture’s Nest, a platform availed by 100 start-ups to pitch for funding"
+                },
+                {
+                    "subtitle": "The Entrepreneurship Cell, IIT Bombay",
+                    "meta": "2009 - Feb 2010 1 year",
+                    "duration": "2009 Feb 2010 1 year",
+                    "start_date": "2009",
+                    "end_date": "Feb 2010",
+                    "duration_short": "1 year",
+                    "title": "Co-ordinator, Corporate Relations",
+                    "description_html": null
+                }
+            ],
+            "company": "The Entrepreneurship Cell, IIT Bombay",
+            "company_id": "ecell_iitb",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Palak Jain",
+            "about": null,
+            "location": "Bangalore Urban district"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishav Sinha",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Malpani",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishanth Kara",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Roshan Prabhakar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Praneeth Bakki",
+            "about": "Head, Customer Products @ Rapido | IIM Lucknow | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankur Malhotra",
+            "about": null,
+            "location": "North Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Somnath Das",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Jyotsna Mahajan",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Sudhanva Rao",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Bombay",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "field": "M.Tech in Comm. & Signal Processing",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sathaye College",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Mahindra Academy",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 5.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": [
+        "Abhinav Agarwal “Raj was one of the most active manager in the team of 22 who always went in the direction of work which will create the maximum impact, no matter how unconventional or non convincing it may sound in the beginning. He is the person who gets the job done, brilliantly, makes sure the team under him is working at the full potential and connects to the work personally.”",
+        "Shilpa Kundapur “I had the opportunity to observe Raj while he worked as an intern in Philips Research. Raj is sincere and dedicated when it comes to his work. He was unfazed when he was asked to learn a completely new topic for his project. He delved into the task with great enthusiasm and quickly picked up the fundamentals. He was able to work independently in very little time and needed little guidance, in spite of being completely new to the topic. He demonstrated the ability to think out-of-the-box and generate new ideas. He also has great communication and networking skills. Raj will be an asset to any team he works with and I wish him all the very best for the future.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 5618,
+    "connections": 500,
+    "current_company_company_id": "revolut",
+    "current_company_name": "Revolut",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "London",
+    "linkedin_id": "rajdoshi14",
+    "activity": [
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "At Zippy, we’ve always believed in the power of storytelling to ignite curiosity and foster learning in kids. Through our Prototype 2 testing, we…",
+            "img": "",
+            "id": "7275356344264630272"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "The Best Time to Raise Capital is When You Don’t Need It One of the most common pieces of advice VCs give to entrepreneurs Recently, I met an…",
+            "img": "",
+            "id": "7277218820920950784"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "His transformation is amazing and inspiring.. i am sure he doesnt eat food from zomato / swiggy.. kuch samajh aaya? ps. i have deleted zomato and…",
+            "img": "",
+            "id": "7276150031512969217"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "Last weekend, I received an unexpected parcel. To my surprise, it was a box of goodies accompanied by a personalised thank-you note from NatWest…",
+            "img": "",
+            "id": "7274429729615626240"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "On the left is a picture of a hostel from Carleton University. On the right is a picture of a hostel from IIT Bombay the most prestigious institute…",
+            "img": "",
+            "id": "7271414316891828225"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "Plant-का Milks 2.0 !! They’re finally here—an alternative that will ease your journey to a healthier lifestyle. This is more than just an…",
+            "img": "",
+            "id": "7275759362898280449"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "I started learning about AI and deep learning in all earnestness in 2014 after a summer at Morgan Stanley (followed by a very shoddy attempt in 2015…",
+            "img": "",
+            "id": "7274846715365453826"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "Having turned Vendiman Pvt. Ltd. around to profitability while also giving birth to my son, Samay, I finally feel ready to open up about my journey…",
+            "img": "",
+            "id": "7273035389475409920"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "This is not Palestine or Ukraine or the Moon, its our beloved #Koramangala! Within 200 meters of the famous Billionaire's street and next to the…",
+            "img": "",
+            "id": "7269252015396909056"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "I'll pay for your flight to NYC... Together, we'll buy $10,000 worth of Christmas presents for sick children at the NewYork-Presbyterian Children's…",
+            "img": "",
+            "id": "7270107439679623169"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "I’m thrilled to share that Aampe has successfully raised $18M in a Series A round — a huge milestone in our story! It’s hard to put into words how…",
+            "img": "",
+            "id": "7272560584569540610"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "It is a real pleasure to officially welcome Sir Peter Estlin and Fiona Fry to our Revolut UK board. As we are continuing our journey towards…",
+            "img": "",
+            "id": "7270719404642861057"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "Engineering Gharvaapsi 🔧 Remember those countless jokes about engineers ending up in non-engineering fields? We lived that stereotype - jumping…",
+            "img": "",
+            "id": "7269573502985281537"
+        },
+        {
+            "interaction": "Liked by Raj Doshi",
+            "link": "",
+            "title": "10 years after graduating, I had the opportunity to spend the day with my Alma Matar, Ashoka University (where I did my post grad) and I couldn’t be…",
+            "img": "",
+            "id": "7268571989982777344"
+        }
+    ],
+    "linkedin_num_id": 48908283,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Guru Gobind Singh Indraprastha University",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2019",
+            "subtitle": "Coding Blocks",
+            "title": "Full stack development"
+        },
+        {
+            "meta": "Issued Jul 2018",
+            "subtitle": "Coding Blocks",
+            "title": "Data structures and algorithms"
+        }
+    ],
+    "current_company_name": "Plivo",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,75 @@
+{
+    "city": "United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "The University of Chicago Booth School of Business",
+            "url": "",
+            "start_year": "2021-09",
+            "end_year": "2023-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Pulse",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Intel Achievement Award (IAA)",
+            "publication": "Intel CEO Bob Swan and Executive Leadership",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "It’s the highest Intel honor that a small team can receive at Intel Corporation. Member of the small team that received IAA 2020 for outstanding contributions in designing an developing Intel's first Next Gen Discrete Graphics product."
+        },
+        {
+            "title": "Department Recognition Award, DGS",
+            "publication": "Discrete Graphics SoC Development Group, Intel Corporation",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "Recipient of Department Recognition award accorded by Discrete Graphics SOC Development Group for outstanding contributions in leading integration efforts of the global SoC Design for Intel Next Gen DG product."
+        },
+        {
+            "title": "Department Recognition Award, DGS",
+            "publication": "Discrete Graphics SoC Development Group, Intel Corporation",
+            "date": "2019-07-01T00:00:00.000Z",
+            "description": "This was awarded in recognition of outstanding contributions made in design and integration of fabric in Intel Next Gen DG SOC. Noble & fast way to collaborate between u-arch, logic and physical design to achieve common goal."
+        },
+        {
+            "title": "Recognition Awards by Peers, Intel Corporation",
+            "publication": "Peers/Colleagues",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": "Awarded over 22 recognitions by peers at Intel Corporation for design, leadership, automation, innovation, contributing to culture and teamwork. 2017 – 2021"
+        },
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana Fellowship (KVPY)",
+            "publication": "Indian Institute of Science, Bangalore",
+            "date": "2009-05-01T00:00:00.000Z",
+            "description": "Awarded the prestigious KVPY scholarship in the year 2011. The KVPY is a National Program of Fellowships in Basic Sciences, initiated and funded by the Department of Science and Technology, Government of India, to attract exceptionally talented and highly motivated students for pursuing basic science courses and research career in science."
+        },
+        {
+            "title": "Mathematical Olympiad Talent Search Competition",
+            "publication": "Andhra Pradesh Math Teachers Association",
+            "date": "2009-01-01T00:00:00.000Z",
+            "description": "Ranked 8th in 36th Mathematical Olympiad Talent Search Competition sponsored by Andhra Pradesh Math teachers association (APMTA)"
+        }
+    ]
+}

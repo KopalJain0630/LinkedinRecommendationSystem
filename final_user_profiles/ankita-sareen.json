@@ -1,0 +1,242 @@
+{
+    "city": "Odisha, India",
+    "position": "Graduate Developer @ Barclays |Amazon ML Summer School'22| Organizer @HackNITR| ElE @ NITR'23 | Crework",
+    "experience": [
+        {
+            "title": "BA-4 Developer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mentee - Amazon ML Summer School",
+            "description_html": null,
+            "duration": "Jun 2022 - Present 2 years 7 months",
+            "start_date": "Jun 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 7 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "HackNITR Hackathon",
+            "description_html": null,
+            "duration": "4 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "HackNITR Hackathon",
+                    "meta": "Jun 2021 - Present 3 years 7 months",
+                    "duration": "Jun 2021 - Present 3 years 7 months",
+                    "start_date": "Jun 2021",
+                    "end_date": "Present",
+                    "duration_short": "3 years 7 months",
+                    "title": "Content Team Lead",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "HackNITR Hackathon",
+                    "meta": "Dec 2020 - Jun 2021 7 months",
+                    "duration": "Dec 2020 Jun 2021 7 months",
+                    "start_date": "Dec 2020",
+                    "end_date": "Jun 2021",
+                    "duration_short": "7 months",
+                    "title": "Sponsorship Team Member",
+                    "description_html": null
+                }
+            ],
+            "company": "HackNITR Hackathon",
+            "company_id": "hacknitr",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Engineer",
+            "description_html": null,
+            "duration": "Jun 2023 Jul 2023 2 months",
+            "start_date": "Jun 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "2 months",
+            "company": "Stere",
+            "company_id": "stereio",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "description_html": null,
+            "duration": "Sep 2020 Feb 2023 2 years 6 months",
+            "start_date": "Sep 2020",
+            "end_date": "Feb 2023",
+            "duration_short": "2 years 6 months",
+            "company": "Machine Learning for Everyone (ML4E)",
+            "company_id": "machine-learning-for-everyone-ml4e",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "BA4 Analyst",
+            "location": "Pune, Maharashtra, India",
+            "description": "Worked in Post Trade division.",
+            "description_html": "Worked in Post Trade division. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "description_html": null,
+            "duration": "Jan 2022 Feb 2022 2 months",
+            "start_date": "Jan 2022",
+            "end_date": "Feb 2022",
+            "duration_short": "2 months",
+            "company": "R J Actuaries and Consultants(RJAC)",
+            "company_id": "r-j-actuaries-and-consultants-rjac",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Open Source Contributor",
+            "description_html": null,
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Winter of Code",
+            "company_id": "winterofcode",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "description_html": null,
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Edulyt India",
+            "company_id": "edulytindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Trainee 2020",
+            "description_html": null,
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Consulting and Analytics Club, IIT Guwahati",
+            "company_id": "caciitg",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "National Institute of Technology Rourkela",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and instrumentation (Major) Computer Science (Minor)",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "D.A.V. Public School, Chandrasekharpur",
+            "degree": "12th",
+            "field": "Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi public school, Damanjodi",
+            "degree": "10th",
+            "field": "10 cgpa",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": "Activities and Societies: Debating club, Elocution",
+            "description_html": "Activities and Societies: Debating club, Elocution",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID 5PPEF2BX8DW8See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID DPMNEKFEKF8HSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID VHDXYW674TDESee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "Barclays",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"COVID19 Data Analysis Using Python\"}]",
+    "honors_and_awards": [
+        {
+            "title": "AWS ML Udacity Scholarship",
+            "publication": "Udacity",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Nehru Memorial Scholarship",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Second Regional DAV Topper in Boards",
+            "publication": "DAV Chandrasekharpur",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Thermax National Winners - STORM 2021",
+            "publication": "Thermax PVT Ltd.",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Winners at HackFIT MLH Hackathon",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Winners at QuantaHacks MLH Hackathon",
+            "publication": "-",
+            "date": null,
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,444 @@
+{
+    "id": "dhruv-singhal-709795118",
+    "name": "Dhruv Singhal",
+    "city": "Madhya Pradesh, India",
+    "country_code": "IN",
+    "position": "Building Gen AI Product | Senior Associate @Publicis Sapient | IIT Kgp",
+    "about": "“I am a dedicated person who enjoys reading, and the knowledge and perspective that my reading gives me have strengthened my soft skills and presentation abilities. I attribute this success to my ability to plan, schedule, and handle many different tasks at once. This flexibility will help me to work in a different environment, where there are many different personalities.”",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Publicis Sapient",
+        "company_id": "publicissapient",
+        "title": "Building Gen AI Product | Senior Associate @Publicis Sapient | IIT Kgp"
+    },
+    "experience": [
+        {
+            "title": "Senior Associate Data Science",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Publicis Sapient",
+            "company_id": "publicissapient",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "Optimised Search and Recommendation in Product Retail Industry using Knowledge Graph• Engineered Labelled Property Graph (LPG) Database in Amazon Neptune, ingesting the modified Product Catalogue data in Amazon S3• Leveraged hierarchical relationships in the graph that reduced search space for product search using Gremlin Query Language for the graph traversal• Employed PageRank Algorithm using Gremlin to recommend similar products based on common nodes and attributes identification from the database• Built a real-time Efficient Apriori module to recommend the frequently bought together products from the graph using the customer transaction data• Dockerized, the ML Module using AWS EC2 Instance and developed dashboards and User Interface using Stremlit for visualization",
+            "description_html": "Optimised Search and Recommendation in Product Retail Industry using Knowledge Graph• Engineered Labelled Property Graph (LPG) Database in Amazon Neptune, ingesting the modified Product Catalogue data in Amazon S3• Leveraged hierarchical relationships in the graph that reduced search space for product search using Gremlin Query Language for the graph traversal• Employed PageRank Algorithm using Gremlin to recommend similar products based on common nodes and attributes identification from the database• Built a real-time Efficient Apriori module to recommend the frequently bought together products from the graph using the customer transaction data• Dockerized, the ML Module using AWS EC2 Instance and developed dashboards and User Interface using Stremlit for visualization",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Publicis Sapient",
+            "company_id": "publicissapient",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Second Senate Member (SSM)",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "• Elected by the 330+ boarders of Lala Lajpat Rai Hall of Residence to be entrusted with the responsibility of putting forward the voice of the boarders• Substantially contributed as an active member of the Students' Senate accountable for the overall welfare of 15,000+ students residing in the institute• Leading a 3 tier Hall Council of 8 General Secretaries and 30+ secretaries for the smooth functioning of hall activities and welfare of all the boarders• Accountable for drafting and managing the Annual Hall Council Budget of INR 13 Lakhs in conjunction with 330+ boarders in the hall• Strategized the successful election campaign, publicity, and student-led outreach activities for Vice President and General Secretary Social and Cultural",
+            "description_html": "• Elected by the 330+ boarders of Lala Lajpat Rai Hall of Residence to be entrusted with the responsibility of putting forward the voice of the boarders• Substantially contributed as an active member of the Students' Senate accountable for the overall welfare of 15,000+ students residing in the institute• Leading a 3 tier Hall Council of 8 General Secretaries and 30+ secretaries for the smooth functioning of hall activities and welfare of all the boarders• Accountable for drafting and managing the Annual Hall Council Budget of INR 13 Lakhs in conjunction with 330+ boarders in the hall• Strategized the successful election campaign, publicity, and student-led outreach activities for Vice President and General Secretary Social and Cultural",
+            "duration": "Sep 2021 Apr 2022 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "8 months",
+            "company": "Lala lajpat Rai Hall Of Residence,IIT Kharagpur",
+            "company_id": "lala-lajpat-rai-hall-of-residence-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Worked on Recommendation Engine model to predict customer behaviour• Engineered and transformed features to perform EDA and Data Visualization in Tableau and Plotnine to visualise trends and patterns in the dataset• Enhanced the company's Sales, Profitability, and Decision-Making by getting business insights into the dataset through trends and patterns analysis• Performed Statistical Analysis using chi-square hypothesis test and Spearman correlation to finalise the optimum features for model training• Trained LightFm Model based on Collaborative Filtering and achieved 75% Precision@5 and 67% Precision@10 in model recommendations",
+            "description_html": "Worked on Recommendation Engine model to predict customer behaviour• Engineered and transformed features to perform EDA and Data Visualization in Tableau and Plotnine to visualise trends and patterns in the dataset• Enhanced the company's Sales, Profitability, and Decision-Making by getting business insights into the dataset through trends and patterns analysis• Performed Statistical Analysis using chi-square hypothesis test and Spearman correlation to finalise the optimum features for model training• Trained LightFm Model based on Collaborative Filtering and achieved 75% Precision@5 and 67% Precision@10 in model recommendations",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "Think360.ai",
+            "company_id": "think-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Under the guidance of Prof. Anand Ramaswamy Vijaysankaran - ISB Hyderabad• Streamlined the Company news articles data across the globe from google Gdelt Project using SQL followed by data preprocessing using NLP• Carried out Sentiment Analysis on text scraped from news articles using Beautiful Soup for evaluating the news polarity score for companies• Modeling the companys news polarity score with share price fluctuation and financial metadata using various Classification models.• Performed 10 fold cross-validation to achieve an F1 score of 0.851 using SVM, 0.871 using Random Forest, and 0.826 using Naive Bayes",
+            "description_html": "Under the guidance of Prof. Anand Ramaswamy Vijaysankaran - ISB Hyderabad• Streamlined the Company news articles data across the globe from google Gdelt Project using SQL followed by data preprocessing using NLP• Carried out Sentiment Analysis on text scraped from news articles using Beautiful Soup for evaluating the news polarity score for companies• Modeling the companys news polarity score with share price fluctuation and financial metadata using various Classification models.• Performed 10 fold cross-validation to achieve an F1 score of 0.851 using SVM, 0.871 using Random Forest, and 0.826 using Naive Bayes",
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretory Maintenance",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "• Mobilised resources and designed the fundraising campaign for supporting LLR Hall Staff during COVID 19 and raised the sum of Rs. 4.5L+ in 2 weeks• Monitored the renovation activities in the hall with the help of hall staff and organised timely sessions to help hall juniors during online semester",
+            "description_html": "• Mobilised resources and designed the fundraising campaign for supporting LLR Hall Staff during COVID 19 and raised the sum of Rs. 4.5L+ in 2 weeks• Monitored the renovation activities in the hall with the help of hall staff and organised timely sessions to help hall juniors during online semester <!---->",
+            "duration": "Oct 2020 Apr 2021 7 months",
+            "start_date": "Oct 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "7 months",
+            "company": "Lala lajpat Rai Hall Of Residence,IIT Kharagpur",
+            "company_id": "lala-lajpat-rai-hall-of-residence-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Gopali Youth Welfare Society",
+            "location": "India",
+            "description_html": null,
+            "duration": "2 years 9 months",
+            "positions": [
+                {
+                    "subtitle": "Gopali Youth Welfare Society",
+                    "meta": "Mar 2020 - Apr 2021 1 year 2 months",
+                    "description": "• Managing a team of 45+ IITians from UG, PG divisions, and raised annual funds of INR 4.5+ million for India's largest student-run NGO• Educating 240+ underprivileged students free of cost in an English-Medium primary school of GYWS named Jagriti Vidya Mandir• Strategized CSR inflow into the organisation and Strengthened relations with Alumni, Corporates, CSR Partners, and individual donors• Outperformed the previous tenure as Executive Member with YoY increase of ~50% in total funds, and ~100% YoY increase in team strength",
+                    "duration": "Mar 2020 Apr 2021 1 year 2 months",
+                    "start_date": "Mar 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "1 year 2 months",
+                    "title": "Head Of Sponsorship Team",
+                    "description_html": "• Managing a team of 45+ IITians from UG, PG divisions, and raised annual funds of INR 4.5+ million for India's largest student-run NGO<br>• Educating 240+ underprivileged students free of cost in an English-Medium primary school of GYWS named Jagriti Vidya Mandir<br>• Strategized CSR inflow into the organisation and Strengthened relations with Alumni, Corporates, CSR Partners, and individual donors<br>• Outperformed the previous tenure as Executive Member with YoY increase of ~50% in total funds, and ~100% YoY increase in team strength"
+                },
+                {
+                    "subtitle": "Gopali Youth Welfare Society",
+                    "meta": "Mar 2019 - Mar 2020 1 year 1 month",
+                    "description": "* As Senior Executive Member of Sponsorship Team raises funds and donation for NGO.* Currently working on management and implementation tasks for the Finance sub-division and Media and Publicity sub-division of the organization.",
+                    "duration": "Mar 2019 Mar 2020 1 year 1 month",
+                    "start_date": "Mar 2019",
+                    "end_date": "Mar 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Senior Executive Member",
+                    "description_html": "* As Senior Executive Member of Sponsorship Team raises funds and donation for NGO.<br>* Currently working on management and implementation tasks for the Finance sub-division and Media and Publicity sub-division of the organization. <!---->"
+                },
+                {
+                    "subtitle": "Gopali Youth Welfare Society",
+                    "meta": "Aug 2018 - Mar 2019 8 months",
+                    "duration": "Aug 2018 Mar 2019 8 months",
+                    "start_date": "Aug 2018",
+                    "end_date": "Mar 2019",
+                    "duration_short": "8 months",
+                    "title": "Junior Executive Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Gopali Youth Welfare Society",
+            "company_id": "gopali-youth-welfare-society",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Intern",
+            "location": "Udaipur, Rajasthan, India",
+            "description": "Under the guidance of Prof Ashish Galande - IIM Udaipur• Scraped text-based data of 250 Global Companies from top 50 trending search links for each year using Selenium and Beautiful Soup in Python• Evaluated cosine similarity score for mission, vision, slogan, and campaign statement by implementing the Doc2Vec Model to vectorise the text",
+            "description_html": "Under the guidance of Prof Ashish Galande - IIM Udaipur• Scraped text-based data of 250 Global Companies from top 50 trending search links for each year using Selenium and Beautiful Soup in Python• Evaluated cosine similarity score for mission, vision, slogan, and campaign statement by implementing the Doc2Vec Model to vectorise the text <!---->",
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Management Udaipur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Department Representative",
+            "description": "- Part of a 32 member team responsible for coordinating the placements and internships for students of IIT Kharagpur- Point of contact between company executives, placecom, and applicants during the recruitment procedure",
+            "description_html": "- Part of a 32 member team responsible for coordinating the placements and internships for students of IIT Kharagpur- Point of contact between company executives, placecom, and applicants during the recruitment procedure <!---->",
+            "duration": "Oct 2020 Oct 2020 1 month",
+            "start_date": "Oct 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "1 month",
+            "company": "Career Development Centre, IIT Kharagpur",
+            "company_id": "cdciitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "The Summer Internship at Dblue.Inc, in the role of Data Analyst, was an excellent working experience. Here I have worked on an internal project of Exploratory Data Analysis, Natural Language Processing, and the algorithm for the Recommendation Engine.",
+            "description_html": "The Summer Internship at Dblue.Inc, in the role of Data Analyst, was an excellent working experience. Here I have worked on an internal project of Exploratory Data Analysis, Natural Language Processing, and the algorithm for the Recommendation Engine. <!---->",
+            "duration": "Apr 2020 Jul 2020 4 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "4 months",
+            "company": "Dblue Inc",
+            "company_id": "dblue-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "NCC Cadet",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Aug 2018 Jun 2020 1 year 11 months",
+            "start_date": "Aug 2018",
+            "end_date": "Jun 2020",
+            "duration_short": "1 year 11 months",
+            "company": "NATIONAL CADET CORPS - India",
+            "company_id": "national-cadet-corps---india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GES Intern",
+            "location": "Kharagpur",
+            "description_html": null,
+            "duration": "Aug 2018 Mar 2019 8 months",
+            "start_date": "Aug 2018",
+            "end_date": "Mar 2019",
+            "duration_short": "8 months",
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Siddharth Garg",
+            "about": "AI Engineer & Developer | CFA level 1 | Freelancer",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyas Kowshik",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Chenna Jahnavi",
+            "about": "Devops Engineer 2 at Ericsson global | IIT DHANBAD ‘21 | software developer | JAVA | PYTHON | Springboot",
+            "location": "Visakhapatnam"
+        },
+        {
+            "profile_link": "",
+            "name": "Kriti Nigam",
+            "about": "Product @ Newfold",
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Sunit Gautam",
+            "about": "Using AI to fight fraud | IITK, Goldman, Apple Card",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mukund Varma T",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhu Samhitha Vangara",
+            "about": null,
+            "location": "Jersey City, NJ"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishaan Hemrajani",
+            "about": "SDE-1 @ Amazon | Ex - HPE | JECRC",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Kopal Sharma",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Neha Gianchandani",
+            "about": "Engineer-In-Training : AI at The City of Calgary • AI for healthcare enthusiast",
+            "location": "Calgary, AB"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarthak Mittal",
+            "about": "Robotics @ Polybee",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Patel",
+            "about": null,
+            "location": "Greater Phoenix Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Lochab",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Palak Singhal",
+            "about": null,
+            "location": "Karnataka, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanmay Gupta",
+            "about": "Started out to do whatever needs to be done. Still on the same path. Working to make students curious again. Ex-FreeStand",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Misha Dey",
+            "about": "Senior Software Engineer @Zaggle | Python | Java | ROR | Spring Framework | Machine Learning",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Agarwal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Laveena Parwani",
+            "about": "Software Engineer at Cognizant",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Subhashni Kumari",
+            "about": "Accenture Startegy & Consulting (PPO) | FMS, Delhi ‘24 | Flipkart (PPI) | Ex-TCS Digital | Gold Medalist@CSE, SLIET",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinav Prasad Yasaswi",
+            "about": "Looking for Full Time Roles starting Summer 2025 | ASU 2025 | NITK 2021",
+            "location": "Tempe, AZ"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated Master's and Bachelor of Science",
+            "field": "Chemistry",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Table Tennis, Hockey, National Cadet Corps (NCC), Member at Gopali Youth Welfare Society.",
+            "description_html": "Activities and Societies: Table Tennis, Hockey, National Cadet Corps (NCC), Member at Gopali Youth Welfare Society.",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID 683722PF47B7See credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Nov 2019Credential ID UC-XHZWDOTISee credential",
+            "subtitle": "Udemy",
+            "title": "Flask"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID A65N2EUYZQHESee credential",
+            "subtitle": "Corsera",
+            "title": "Time Value of Money"
+        }
+    ],
+    "recommendations": [
+        "LinkedIn User “I worked with Dhruv on Knowledge Graph-based recommendation system. This project had an extremely steep learning curve and yet Dhruv was not only able to grasp the concepts but also actively developed key machine learning & deep learning components within that project. He is very particular about delivery and usually over-delivers. Beyond his technical prowess, his communication skills are also very sharp. He can articulate his thoughts very clearly and concisely. Plus he has a knack for leading conversations. This enables him to remove ambiguity that might arise during planning/discussions. Which had a visible impact on the team's productivity. He proved to be an excellent addition to the team and I highly recommend him.”",
+        "Rajesh Hegde “We had Dhruv as an Intern at Dblue, though it was for a shorter period, he could get a lot of things done and pick up the engineering aspects very fast. He is very hard-working and never sleeps before finishing the work. Dhruv would be a best fit for any team and gels with everyone.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 2656.0,
+    "connections": 500.0,
+    "current_company_company_id": "publicissapient",
+    "current_company_name": "Publicis Sapient",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Madhya Pradesh",
+    "linkedin_id": "dhruv-singhal-709795118",
+    "activity": [
+        {
+            "interaction": "Liked by Dhruv Singhal",
+            "link": "",
+            "title": "Hi everyone, I am happy to share that I am starting a new position as Software Engineer at Google ! A heartfelt thank you to everyone who has…",
+            "img": "",
+            "id": "7266713642367135745"
+        },
+        {
+            "interaction": "Liked by Dhruv Singhal",
+            "link": "",
+            "title": "IIT tag doesn't matter, it's 2024... - 4.3 Cr package by lIT Madras student, Highest in India till date - 800 Offers within 24 hrs at IIT KGP - 579…",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Dhruv Singhal",
+            "link": "",
+            "title": "Presented by the Students’ Alumni Cell, these inspiring stories resonate with the essence of accomplishment, sparking fresh aspirations. Pranay…",
+            "img": "",
+            "id": "7258432685935632384"
+        },
+        {
+            "interaction": "Liked by Dhruv Singhal",
+            "link": "",
+            "title": "Exciting News! We are pleased to welcome Umesh Shiknis as our new Global Chief Growth Officer! With extensive experience in technology advisory and…",
+            "img": "",
+            "id": "7257750491978244097"
+        },
+        {
+            "interaction": "Liked by Dhruv Singhal",
+            "link": "",
+            "title": "For me, Investing time is more important than investing money. No, I’ve not invested in 100/200/400 companies. I don’t want to collect startups…",
+            "img": "",
+            "id": "7251853271676452864"
+        },
+        {
+            "interaction": "Liked by Dhruv Singhal",
+            "link": "",
+            "title": "Celebrating Exceptional Performers: Energized by the Young Alumni Achievers Award! Pawan Kumar Chandana :- Founder & CEO - Skyroot Aerospace…",
+            "img": "",
+            "id": "7256243268865171456"
+        },
+        {
+            "interaction": "Liked by Dhruv Singhal",
+            "link": "",
+            "title": "Hi LinkedIn family, Today, I had the amazing opportunity to present a tech talk at Open Source India 2024! I’m incredibly excited to share this…",
+            "img": "",
+            "id": "7254869426980675584"
+        },
+        {
+            "interaction": "Liked by Dhruv Singhal",
+            "link": "",
+            "title": "Rubrik is on a mission to secure the world’s data, and we’re looking for ambitious individuals who want to reach new career heights. As part of our…",
+            "img": "",
+            "id": "7249874296074838017"
+        }
+    ],
+    "linkedin_num_id": 491639481.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

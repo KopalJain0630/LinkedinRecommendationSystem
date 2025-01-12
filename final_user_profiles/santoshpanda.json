@@ -1,0 +1,45 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Alliance Manchester Business School",
+            "url": "",
+            "start_year": "2005",
+            "end_year": "2007",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "1998",
+            "end_year": "1998",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1993",
+            "end_year": "1997",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1989",
+            "end_year": "1991",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Foundership - Web3 & AI Accelerator VC",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

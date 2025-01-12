@@ -1,0 +1,245 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "AI/ML Engineer, Foundry | IIT KGP | Author, TowardsDataScience",
+    "experience": [
+        {
+            "title": "AI/ML Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "At Foundry, we‘re not waiting for a decentralised financial future — we‘re building it now. By empowering institutions with the tools they need to mine and stake digital assets, we‘re thoughtfully driving the industry forward. Learn more at foundrydigital.com",
+            "description_html": "At Foundry, we‘re not waiting for a decentralised financial future — we‘re building it now. By empowering institutions with the tools they need to mine and stake digital assets, we‘re thoughtfully driving the industry forward. Learn more at foundrydigital.com <!---->",
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "Foundry",
+            "company_id": "foundrydigital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-Founder",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Dec 2023 - Present 1 year 1 month",
+            "start_date": "Dec 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 1 month",
+            "company": "Raagz",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sr. AI Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Dec 2023 Sep 2024 10 months",
+            "start_date": "Dec 2023",
+            "end_date": "Sep 2024",
+            "duration_short": "10 months",
+            "company": "Skypoint",
+            "company_id": "skypoint-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Associate Data Science L1",
+            "description": "Knowledgebase | Custom Vector Database• Led client engagements and created a custom vector database, a python librarywith a pluggable interface for Elasticsearch and Weaviate.• Expanded the use-cases including document insertion to create AsktheDocs bymaking it compatible with OpenAI embeddings and Langchain library• Served the Vector Database over FastAPI and deployed it on a Kubernetescluster while developing CI/CD using Github Actions and ArgoCD• Ensured the robustness and stability of the system by rigourous testing ofpython library, FastAPI and API client using pytest to a coverage of 91%Virtual Try-on | Vision-based Saas Platform• Created a Virtual Try-On based SaaS-platform which has varied offeringsincluding Clothes, Hairstyle, Haircolor, Makeup and Jewellery Try-On• Used Bilateral Segmentation Network(BiSeNet) for semantic segmentation ofthe facial features of humans into 17 different classes• Implemented Parser-Free Appearence Flow Network for on custom clothingdataset generated using Pose estimation and Human Parser Segmentation• Trained custom CNN models using transfer learning for adding pre-validationschecks and post-processing enchancement• Used Mediapipe and CVzone libraries for the generation of face mesh, faciallandmarks and background removal for real-time image processing• Managed a team of 4 frontend and DevOps engineers to design and develop afeedback system for the SaaS-platform for consumer analytics• Developed CI/CD for the SaaS-platfrom in AWS using Serverless Function, APIGateway for 100k+ users with a max limit of 1000 concurrent users",
+            "description_html": "Knowledgebase | Custom Vector Database• Led client engagements and created a custom vector database, a python librarywith a pluggable interface for Elasticsearch and Weaviate.• Expanded the use-cases including document insertion to create AsktheDocs bymaking it compatible with OpenAI embeddings and Langchain library• Served the Vector Database over FastAPI and deployed it on a Kubernetescluster while developing CI/CD using Github Actions and ArgoCD• Ensured the robustness and stability of the system by rigourous testing ofpython library, FastAPI and API client using pytest to a coverage of 91%Virtual Try-on | Vision-based Saas Platform• Created a Virtual Try-On based SaaS-platform which has varied offeringsincluding Clothes, Hairstyle, Haircolor, Makeup and Jewellery Try-On• Used Bilateral Segmentation Network(BiSeNet) for semantic segmentation ofthe facial features of humans into 17 different classes• Implemented Parser-Free Appearence Flow Network for on custom clothingdataset generated using Pose estimation and Human Parser Segmentation• Trained custom CNN models using transfer learning for adding pre-validationschecks and post-processing enchancement• Used Mediapipe and CVzone libraries for the generation of face mesh, faciallandmarks and background removal for real-time image processing• Managed a team of 4 frontend and DevOps engineers to design and develop afeedback system for the SaaS-platform for consumer analytics• Developed CI/CD for the SaaS-platfrom in AWS using Serverless Function, APIGateway for 100k+ users with a max limit of 1000 concurrent users",
+            "duration": "Aug 2021 Jan 2024 2 years 6 months",
+            "start_date": "Aug 2021",
+            "end_date": "Jan 2024",
+            "duration_short": "2 years 6 months",
+            "company": "Publicis Sapient",
+            "company_id": "publicissapient",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Instructor",
+            "description_html": null,
+            "duration": "Jan 2022 Jun 2023 1 year 6 months",
+            "start_date": "Jan 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "1 year 6 months",
+            "company": "AlmaBetter",
+            "company_id": "almabetter",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Awaaz, IIT Kharagpur",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Awaaz, IIT Kharagpur",
+                    "meta": "Jul 2020 - Apr 2021 10 months",
+                    "duration": "Jul 2020 Apr 2021 10 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "10 months",
+                    "title": "Editor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Awaaz, IIT Kharagpur",
+                    "meta": "Jul 2019 - Jul 2020 1 year 1 month",
+                    "duration": "Jul 2019 Jul 2020 1 year 1 month",
+                    "start_date": "Jul 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Sub-Editor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Awaaz, IIT Kharagpur",
+                    "meta": "Jul 2018 - Jul 2019 1 year 1 month",
+                    "duration": "Jul 2018 Jul 2019 1 year 1 month",
+                    "start_date": "Jul 2018",
+                    "end_date": "Jul 2019",
+                    "duration_short": "1 year 1 month",
+                    "title": "Senior Reporter",
+                    "description_html": null
+                }
+            ],
+            "company": "Awaaz, IIT Kharagpur",
+            "company_id": "awaaz-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Intern",
+            "location": "Jeddah, Makkah, Saudi Arabia",
+            "description": "Implemented Ensemble Learning on 16 different models to determine the correlation between the emotions during games and neuro disordersPerformed Feature Extraction using higher-order statistics on EMG signal using wavelet-based methods like DWT, TQWT, WPD and DT-CWTCompared Kappa Statistic and ROC curves of results and obtained a combined classification accuracy of 99.25% post 10-fold cross validation",
+            "description_html": "Implemented Ensemble Learning on 16 different models to determine the correlation between the emotions during games and neuro disordersPerformed Feature Extraction using higher-order statistics on EMG signal using wavelet-based methods like DWT, TQWT, WPD and DT-CWTCompared Kappa Statistic and ROC curves of results and obtained a combined classification accuracy of 99.25% post 10-fold cross validation <!---->",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "Effat University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Data Science",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Created a Multi-objective approach to solve the Vehicle Routing Problem for Route Optimisation with constraints of Time windowImplemented Metaheuristic approaches like Genetic Algorithms, Ant Colony Optimisation, Particle Swarm and Iterative Local SearchImplemented modified Asynchronous Advantage A-C with input tuples containing static and dynamic elements to cater the varying demandsUsed LSTM-Decoders coupled with Pointer Networks instead of Seq2Seq to deal with the dynamic dataset in the above Actor-Critic modulesDevised a Method based on Stochastic Probability called Beam Search for the test function to give more exploration than greedy approach",
+            "description_html": "Created a Multi-objective approach to solve the Vehicle Routing Problem for Route Optimisation with constraints of Time windowImplemented Metaheuristic approaches like Genetic Algorithms, Ant Colony Optimisation, Particle Swarm and Iterative Local SearchImplemented modified Asynchronous Advantage A-C with input tuples containing static and dynamic elements to cater the varying demandsUsed LSTM-Decoders coupled with Pointer Networks instead of Seq2Seq to deal with the dynamic dataset in the above Actor-Critic modulesDevised a Method based on Stochastic Probability called Beam Search for the test function to give more exploration than greedy approach",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Publicis Sapient",
+            "company_id": "publicissapient",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep learning Research Intern",
+            "location": "Bangalore",
+            "description": "Predicted the fate of a stock (i.e. BUY, SELL or HOLD) using a Reinforcement Learning agent on historical data of 3 different sharesCreated several Environments with varying reward functions to obtain the best possible strategy to attain a high Sharpe ratioCompared the outcome ROI on historical data with Reinforcement learning agents like DQN, Double DQN and neuro-Evolution StrategyDeveloped 5 different market indicators namely MA, %R, MACD, RSI, %K and used it to generate a trend using LSTM-RNN to improve ROIPerformed sentiment analysis of news articles using WordtoVec model and Transfer Learning to further improve the sharpe ratio",
+            "description_html": "Predicted the fate of a stock (i.e. BUY, SELL or HOLD) using a Reinforcement Learning agent on historical data of 3 different sharesCreated several Environments with varying reward functions to obtain the best possible strategy to attain a high Sharpe ratioCompared the outcome ROI on historical data with Reinforcement learning agents like DQN, Double DQN and neuro-Evolution StrategyDeveloped 5 different market indicators namely MA, %R, MACD, RSI, %K and used it to generate a trend using LSTM-RNN to improve ROIPerformed sentiment analysis of news articles using WordtoVec model and Transfer Learning to further improve the sharpe ratio",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "ITC Infotech",
+            "company_id": "itc-infotech",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Metallurgical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sarvodaya School - India",
+            "degree": "Central Board of Secondary Education",
+            "field": "95%",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Augustine's Day School - India",
+            "degree": "Indian Certificate of Secondary Education",
+            "field": "97%",
+            "start_year": "2008",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2024Credential ID 1100080584",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified: Azure AI Engineer Associate"
+        },
+        {
+            "meta": "Issued Dec 2021Credential ID JTDCCVZ2RN6PSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning and Engineering for Production (MLOPs) Specialization"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID UC-19efc4fd-c9e4-4ec2-b1b2-5906eb79a09aSee credential",
+            "subtitle": "Udemy",
+            "title": "Ethereum and Solidity : The complete developer's guide"
+        },
+        {
+            "meta": "Issued May 2020Credential ID UC-9657c0ef-a5ca-4397-9191-ebe2429bee40See credential",
+            "subtitle": "Udemy",
+            "title": "Artificial Intelligence: Reinforcement Learning in Python"
+        },
+        {
+            "meta": "Issued May 2020Credential ID UC-7404db3a-f499-4d53-8693-fc4c8a2e1780See credential",
+            "subtitle": "Udemy",
+            "title": "Deep Learning A-Z: Hands on Artificial Neural Networks"
+        },
+        {
+            "meta": "Issued May 2020Credential ID UC-49656220-19da-4163-9cd5-44080fe56e7fSee credential",
+            "subtitle": "Udemy",
+            "title": "Deep Reinforcement Learning 2.0"
+        },
+        {
+            "meta": "Issued May 2020Credential ID UC-e1ffff08-4cfa-4785-b749-3f89454b2d21See credential",
+            "subtitle": "Udemy",
+            "title": "Multiobjective Optimization Problems and Algorithms"
+        },
+        {
+            "meta": "Issued May 2020Credential ID UC-9035dd34-3f76-47a2-8d49-87c8fc81a8b6See credential",
+            "subtitle": "Ude,",
+            "title": "Optimization Problems and Algorithms"
+        }
+    ],
+    "current_company_name": "Foundry",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Deep Reinforcement Learning in Homomorphic Encryption Scheme | Bachelors Thesis Project\",\"start_date\":\"Aug 2020\",\"end_date\":\"May 2021\",\"description\":\"•Implemented a competing Deep Reinforcement Learning algorithm for blood glucose control for 30 simulated patients of Type-1 diabetes•Reduced risk by 27.76% and improved the time spent in optimal glucose level by 4.32% than the widely used baseline PID algorithm•Conversion of various Deep-RL Algorithms to Fully Homomorphic Scheme using custom made libraries like TFHE and CUDA accelerated cuFHE•Transformation of the entire codebase into C++ from Python using the above libraries to accept encrypted inputs rather than normal inputs\"},{\"title\":\"Conveyer Belts related accidents prediction using scarce data\",\"start_date\":\"Jul 2018\",\"end_date\":\"Mar 2019\",\"description\":\"•Applied LAD algorithm to a two-class classification problem consisting of only 28 observations each having a set of 4 features i.e. scarce data•Trained data in three stages namely Data Binarization, SCP and finally performed Pattern Generation using MILP approach in MATLAB•Performed Leave-one-out-cross-validation procedure due for testing on discriminant formula followed by 5-fold cross validation\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Gold in General Championship Data Analytics",
+            "publication": "Technology Students Gymkhana, IIT Kharagpur",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "•Analysed data consumption by different networks to predict the possibility and the type of congestion that is most probable to occur •Applied data Model Ensemble(Maximum Vote Classifier) on support vector machine - rbf kernel, XGBoost, LightGBM and Neural Networks •Performed Hyperparameter Tuning using Grid Search and Bayesian Optimization followed by a k-fold validation to verify the robustness"
+        },
+        {
+            "title": "Silver in NetApp Data Challenge",
+            "publication": "Kshitij, IIT Kharagpur",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "•Performed Text Classification on the given data of news headlines and description and categorised them into 41 different categories •Used TF-IDF for feature extraction along with Noise Removal, Lemmatization, Tokenization and trained data using 4 distinct models •Performed Model Ensemble on the results obtained from SVM-linear kernel , Encoder-Decoder Transformer and Multinomial Naïve Bayes"
+        }
+    ]
+}

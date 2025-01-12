@@ -1,0 +1,125 @@
+{
+    "city": "Bangalore Urban, Karnataka, India",
+    "position": "FrontEnd Web Developer with great people Skills",
+    "experience": null,
+    "education": [
+        {
+            "title": "Techno India University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya Vidyalaya",
+            "degree": "Class12",
+            "field": "Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Front End Development with React\"},{\"subtitle\":\"-\",\"title\":\"Web Development\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "JavaScript Essential Training"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "JavaScript: Classes"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "JavaScript: Scope"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning GitHub"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning npm the Node Package Manager"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning the JavaScript Language"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Node.js Essential Training"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Succeeding in Web Development: Full Stack and Front End"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Web Programming Foundations"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Udacity",
+            "title": "Android Development Track"
+        },
+        {
+            "meta": "Issued Jan 2020See credential",
+            "subtitle": "Codecademy",
+            "title": "Code Foundations Skill Path"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "Codecademy",
+            "title": "Learn How to Code Course"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Lynda.com",
+            "title": "Learning Java"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Lynda.com",
+            "title": "Programming Foundations: Algorithms"
+        },
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Codecademy",
+            "title": "Non-Technical Life Skills Course"
+        },
+        {
+            "subtitle": "Globsyn Group",
+            "title": "Oracle Database 12c: SQL Fundamentals"
+        }
+    ],
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Automatic Street Light ON / OFF\",\"description\":\"The project helps us to save the morning electricity(The road side electric Polls) which seems to turn of till 8 o clock in the morning.\"},{\"title\":\"Online Job Portal\"}]",
+    "honors_and_awards": [
+        {
+            "title": "2nd in Inter School Quiz Competition",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Hult Innovation Prize (Startup Award)",
+            "publication": "Techno India University",
+            "date": null,
+            "description": null
+        }
+    ]
+}

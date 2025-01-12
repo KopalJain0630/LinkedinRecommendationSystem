@@ -1,0 +1,393 @@
+{
+    "id": "tanmay-nagpal-b23255136",
+    "name": "Tanmay Nagpal",
+    "city": "Gurgaon, Haryana, India",
+    "country_code": "IN",
+    "position": "MTS-Software @Siemens EDA | Ex-Data Science Intern @Kotak Mahindra Bank @OLA Mobility Institute | IIT Kharagpur",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Siemens EDA (Siemens Digital Industries Software)",
+        "company_id": "siemens-eda",
+        "title": "MTS-Software @Siemens EDA | Ex-Data Science Intern @Kotak Mahindra Bank @OLA Mobility Institute | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Member Technical Staff: Software",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Siemens EDA (Siemens Digital Industries Software)",
+            "company_id": "siemens-eda",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Conducted individual analysis of parameter values, including home loan, credit card limit, UPI transaction value, mutual fund value, life insurance, car loan, utility bills, and personal loan, to accurately predict relationship values• Implemented a robust data preprocessing technique by creating small intervals and consolidating data points within each interval, resulting in a substantial improvement in the Pearson correlation coefficient from 0.02 to 0.95• Developed and trained highly accurate linear regression models on the preprocessed data, achieving an impressive average R-square value of 0.92• Demonstrated strong analytical skills by effectively analyzing a large dataset of over 10 million points and deriving meaningful insights",
+            "description_html": "• Conducted individual analysis of parameter values, including home loan, credit card limit, UPI transaction value, mutual fund value, life insurance, car loan, utility bills, and personal loan, to accurately predict relationship values• Implemented a robust data preprocessing technique by creating small intervals and consolidating data points within each interval, resulting in a substantial improvement in the Pearson correlation coefficient from 0.02 to 0.95• Developed and trained highly accurate linear regression models on the preprocessed data, achieving an impressive average R-square value of 0.92• Demonstrated strong analytical skills by effectively analyzing a large dataset of over 10 million points and deriving meaningful insights",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Kotak Mahindra Bank",
+            "company_id": "kotak-mahindra-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "• Built a choropleth map using the Folium library of Python for state-wise comparison of the number of accidents, injuries, and deaths• Designed a dashboard using Tableau for Delhi consisting of a map and various plots to analyze the situation of road accidents in the city• Detected hotspots of road accidents in the East Bardhaman District of West Bengal with the help of a heat map built in Tableau• Identified possible causes of road accidents by constructing various plots and reported them to the concerned authorities• Built and deployed a machine learning model to predict accident probabilities based on various input parameters",
+            "description_html": "• Built a choropleth map using the Folium library of Python for state-wise comparison of the number of accidents, injuries, and deaths• Designed a dashboard using Tableau for Delhi consisting of a map and various plots to analyze the situation of road accidents in the city• Detected hotspots of road accidents in the East Bardhaman District of West Bengal with the help of a heat map built in Tableau• Identified possible causes of road accidents by constructing various plots and reported them to the concerned authorities• Built and deployed a machine learning model to predict accident probabilities based on various input parameters",
+            "duration": "Dec 2021 Jun 2022 7 months",
+            "start_date": "Dec 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "7 months",
+            "company": "Ola Mobility Institute (OMI)",
+            "company_id": "omi-foundation",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Vinay Kumar",
+            "about": "Aerospace engineering || IIT Kharagpur",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Muskan Srivastava",
+            "about": "SDE at Microsoft",
+            "location": "Jabalpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritesh Rastogi",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshita Agarwalla",
+            "about": "Software Engineer at Microsoft",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abdul Hannan Faruqi",
+            "about": "Complex Dynamical Systems| Fast Computational Algorithms| Autonomous Control",
+            "location": "Aligarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjal Magdum",
+            "about": "Associate Consultant",
+            "location": "Kolhapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Prateek Narang",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kriti Joshi",
+            "about": null,
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "RAJESH KRISHNAN P L",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Himani Virmani",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Niyati Chaudhary",
+            "about": "Software Engineer @Google",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nidhi Dubey",
+            "about": "End-to-End Automation Strategist | Increased Team Productivity by 85% | Expert in AI-Powered Automation | Jenkins & GitLab Pro\" RPA & Test Automation Expert | Python, Selenium & UiPath Specialist",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepansh Bhargava",
+            "about": null,
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivangi Sharma",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Divyanshu Singh",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhika Bhardwaj",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Agarwal",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Chougule",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Khushboo Singh",
+            "about": "Assistant Manager at HCL Technology",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Aakash Madan",
+            "about": null,
+            "location": "Bangalore Urban"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (Btech + MTech)",
+            "field": "Manufacturing Engineering & Industrial Systems and Management. Minor in Computer Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "Captain | Interhall Badminton Championship (2021-22 & 2022-23) • Managed a substantial budget of 40,000 rupees for the Badminton team, strategically allocating resources for equipment and training • Promoted the sport within the hall through tournaments and workshops, fostering widespread participation and healthy competitiveness Mentor | Student Welfare Group (2021-22 & 2022-23) • Provided essential academic support and career guidance to incoming individuals, ensuring a smooth… Show more",
+            "description_html": "Captain | Interhall Badminton Championship (2021-22 &amp; 2022-23)• Managed a substantial budget of 40,000 rupees for the Badminton team, strategically allocating resources for equipment and training• Promoted the sport within the hall through tournaments and workshops, fostering widespread participation and healthy competitivenessMentor | Student Welfare Group (2021-22 &amp; 2022-23)• Provided essential academic support and career guidance to incoming individuals, ensuring a smooth…",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021Credential ID L8VMRBJV9L85See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID ltzlnizi1qgSee credential",
+            "subtitle": "University of Helsinki",
+            "title": "Elements of AI - Introduction to AI"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID FPGK3UHYJJHFSee credential",
+            "subtitle": "Coursera",
+            "title": "Advanced Styling with Responsive Design"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID SX8P7HQRRZESSee credential",
+            "subtitle": "Coursera",
+            "title": "Algorithmic Toolbox"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID E3URYWMLDQUZSee credential",
+            "subtitle": "Coursera",
+            "title": "Interactivity with JavaScript"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID TAK8ERSWCAXBSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to CSS3"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID CBP9VKGL2S5KSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to HTML5"
+        },
+        {
+            "meta": "Issued May 2020Credential ID JRWEB3KYA4FCSee credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        },
+        {
+            "meta": "Issued May 2020Credential ID ZDXMMKZP2ZTRSee credential",
+            "subtitle": "Coursera",
+            "title": "Python Classes and Inheritance"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 5Q3PKZXFGKYJSee credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2897.0,
+    "connections": 500.0,
+    "current_company_company_id": "siemens-eda",
+    "current_company_name": "Siemens EDA (Siemens Digital Industries Software)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Gurgaon",
+    "linkedin_id": "tanmay-nagpal-b23255136",
+    "activity": [
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "2 days to go!! Heartiest Congratulations to the Distinguished Alumnus Awardees of 2024! Indian Institute of Technology, Kharagpur is exited to…",
+            "img": "",
+            "id": "7278320762992652288"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "And the count down begins.... 3 days to go!! IIT Kharagpur gears up to celebrate the 70th Convocation of the institute, scheduled for 30th December…",
+            "img": "",
+            "id": "7278004561615757312"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "This year at Get Marketed, we celebrated the joy of togetherness with a heartwarming Secret Santa exchange, creating cherished memories as a team…",
+            "img": "",
+            "id": "7277993635634130944"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "Cheers to 24 years of being unapologetically me 🤍✨🌷🍰 Wishing you all the happiest of holidays! 🎄",
+            "img": "",
+            "id": "24"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "Had the most heartwarming pre-birthday celebration with my family🤍 Thank you EmpathyOps for the sweetest treat 🫶🏼 📍Tijara Fort, Rajasthan",
+            "img": "",
+            "id": "7277216783088959488"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "I’m thrilled to share that I’ve started a new chapter in my career by joining Cadence Design Systemas Lead Software Engineer! I'm excited about the…",
+            "img": "",
+            "id": "7276984357829943297"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "\"My journey started at Indian Institute of Technology, Kharagpur. Wherever I have reached today, is because of the strong foundation was given to me…",
+            "img": "",
+            "id": "7276898534002450432"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "There are 2 types of IITians: 1.) IIT rank is the biggest achievement in life, they never get tired of bragging about their IIT tag. 2.) IIT was just…",
+            "img": "",
+            "id": "2"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "🚀 Our Website is Live! Check it out:  Excited to announce that the Beta Version of Our App is launching soon! Be part of…",
+            "img": "",
+            "id": "7275749439212810244"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "Speaking on the QS World University Rankings Sustainability 2025, Prof. Virendra Tewari, Director Indian Institute of Technology, Kharagpur remarked,…",
+            "img": "",
+            "id": "7275126761175044098"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "Key Insights into the Role of a Founder, As founders, we focus on strategy and growth, but true leadership goes beyond that. Here’s what I’ve…",
+            "img": "",
+            "id": "7274417784409702402"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "𝗙𝗿𝗼𝗺 𝟲𝟱𝟬 𝘁𝗼 𝟳𝟱𝟬+: 𝗛𝗼𝘄 𝗜 𝗖𝗼𝗻𝗾𝘂𝗲𝗿𝗲𝗱 𝘁𝗵𝗲 𝗚𝗠𝗔𝗧 (𝗮𝗻𝗱 𝗠𝘆 𝗔𝗻𝘅𝗶𝗲𝘁𝘆) 📈 I took the GMAT not once, not twice, but…",
+            "img": "",
+            "id": "7274260700233904129"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "The girl with the best intern could not get placed.. The guy with product profile cracking the hardest finance role.. The person with the best…",
+            "img": "",
+            "id": "7274272053539577858"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "Unpopular Opinion: IIT Hostels and Life IITs are often criticized for poor hostel facilities and mess food. But I believe these experiences make us…",
+            "img": "",
+            "id": "7272606338902302721"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "Some Glimpses of the Central Inauguration of #SmartIndiaHackathon2024 at Indian Institute of Technology, Kharagpur The 7th Edition of Smart India…",
+            "img": "",
+            "id": "7272567980910096384"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "“There’s no point quitting smoking 🚬... until I’m in Delhi!” 😳 At first, I laughed it off when I overheard this in the office cab. But then it hit…",
+            "img": "",
+            "id": "7265212333675663360"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "Indian Institute of Technology, Kharagpur's 2024-25 placement process has surpassed 1,000 job offers in its first phase. Students secured over 800…",
+            "img": "",
+            "id": "1000"
+        },
+        {
+            "interaction": "Liked by Tanmay Nagpal",
+            "link": "",
+            "title": "What happened when I dressed up as a Zomato delivery guy will shock you—here’s the truth about how society treats delivery workers! I decided to…",
+            "img": "",
+            "id": "7270324636481908736"
+        }
+    ],
+    "linkedin_num_id": 556004619.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

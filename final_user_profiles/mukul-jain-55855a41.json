@@ -1,0 +1,131 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Facctum | Ex-Barclays | AWS Certified Associate Developer | IIT Kharagpur (Batch of 2020)",
+    "experience": [
+        {
+            "title": "Platform Engineer SDE-2",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2024 - Present 8 months",
+            "start_date": "May 2024",
+            "end_date": "Present",
+            "duration_short": "8 months",
+            "company": "Facctum",
+            "company_id": "facctum",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Analyst",
+            "location": "Pune, Maharashtra, India",
+            "description": "Managing Cloud Migration On-Premise Enterprise Data Applications to AWS Cloud andOpenShift Container Platform and achieved 33% reduction in support incidents and essentialAWS Services – ECS, EC2, S3, VPC, CloudWatch Enhancing capabilities of Java based Cucumber, Selenium Automation Testing Framework byintegrating complex Browser Actions, JIRA and Logs tracking, hence reducing manual effortsand time of 100+ testers thus achieving faster release deliveries Performing API Load Testing by leveraging J-meter to achieve API stability and hencereduction in Performance Incidents Advance Unit testing using Junit and Mockito for Java-based data platform services. Mentoring Junior Interns in converting business requirements to code and developed a tool toaudit test coverage done by testing teams",
+            "description_html": "Managing Cloud Migration On-Premise Enterprise Data Applications to AWS Cloud andOpenShift Container Platform and achieved 33% reduction in support incidents and essentialAWS Services – ECS, EC2, S3, VPC, CloudWatch Enhancing capabilities of Java based Cucumber, Selenium Automation Testing Framework byintegrating complex Browser Actions, JIRA and Logs tracking, hence reducing manual effortsand time of 100+ testers thus achieving faster release deliveries Performing API Load Testing by leveraging J-meter to achieve API stability and hencereduction in Performance Incidents Advance Unit testing using Junit and Mockito for Java-based data platform services. Mentoring Junior Interns in converting business requirements to code and developed a tool toaudit test coverage done by testing teams",
+            "duration": "Aug 2020 May 2024 3 years 10 months",
+            "start_date": "Aug 2020",
+            "end_date": "May 2024",
+            "duration_short": "3 years 10 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Trainee",
+            "location": "Bangalore Urban district, Karnataka, India",
+            "description": "During my internship at Groww, I was responsible for developing a production-ready microservice in Spring Framework to track IP Addresses of app users. I was also responsible to analyze the behaviour patterns of investors using MySQL, BigQuery and Python.",
+            "description_html": "During my internship at Groww, I was responsible for developing a production-ready microservice in Spring Framework to track IP Addresses of app users. I was also responsible to analyze the behaviour patterns of investors using MySQL, BigQuery and Python. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Groww, India",
+            "company_id": "groww.in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Backend and Data Analyst",
+            "location": "Gurgaon, India",
+            "description": "During my internship at Sqrrl Fintech Pvt. Ltd, I was able to create a python algorithm of SMS parsing using Natural Language Processing techniques and Feature Engineering. I analysed spend pattern of customers based on SMS data. I developed a Machine Learning Model to classify an SMS as debited or not. I also developed a javascript code to import and export data from an API to Google Spreadsheet.",
+            "description_html": "During my internship at Sqrrl Fintech Pvt. Ltd, I was able to create a python algorithm of SMS parsing using Natural Language Processing techniques and Feature Engineering. I analysed spend pattern of customers based on SMS data. I developed a Machine Learning Model to classify an SMS as debited or not. I also developed a javascript code to import and export data from an API to Google Spreadsheet. <!---->",
+            "duration": "May 2018 Jun 2018 2 months",
+            "start_date": "May 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "2 months",
+            "company": "Sqrrl Fintech",
+            "company_id": "sqrrl-fintech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Head- Publicity & Design",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Apr 2017 Apr 2018 1 year 1 month",
+            "start_date": "Apr 2017",
+            "end_date": "Apr 2018",
+            "duration_short": "1 year 1 month",
+            "company": "Technology Mining Engineering Society- IIT Kharagpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Jul 2016 Apr 2017 10 months",
+            "start_date": "Jul 2016",
+            "end_date": "Apr 2017",
+            "duration_short": "10 months",
+            "company": "Great Step, IIT Kharagpur",
+            "company_id": "great-step-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated Master of Technology (M.Tech.)",
+            "field": "Mining Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Hillview Adventist School",
+            "degree": "ICSE",
+            "field": "Standard 10th",
+            "start_year": "1998",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2017Credential ID NPTEL17MG24S1420053See credential",
+            "subtitle": "NPTEL",
+            "title": "Introduction to Data Analytics"
+        },
+        {
+            "meta": "Issued Dec 2022Expires Dec 2025Credential ID 8L0SK2MC51RQ1GC5See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "Amazon Web Services Cloud Practitioner"
+        },
+        {
+            "meta": "Issued Dec 2022Expires Dec 2025Credential ID VRY76MY25EE1Q639See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "Amazon Web Services Developer - Associate"
+        }
+    ],
+    "current_company_name": "Facctum",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

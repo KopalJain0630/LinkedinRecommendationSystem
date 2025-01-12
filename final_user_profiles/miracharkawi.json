@@ -1,0 +1,86 @@
+{
+    "city": "Riyadh, Saudi Arabia",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Hult International Business School",
+            "url": "",
+            "start_year": "2022-10",
+            "end_year": "2022-12",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Ace the Case - Master Class in Business Case Analysis with KPMG \"},{\"subtitle\":\"-\",\"title\":\"Global Outreach & Leadership Development - Lebanese American University in New York City\"},{\"subtitle\":\"-\",\"title\":\"Training with a TV Network - Workshop with France 24 \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Mar 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Customer Experience: Creating Customer Personas"
+        },
+        {
+            "meta": "Issued Nov 2022See credential",
+            "subtitle": "Digital Marketing Institute",
+            "title": "Digital Strategy and Business Opportunity"
+        },
+        {
+            "meta": "Issued Jun 2021See credential",
+            "subtitle": "DataCamp",
+            "title": "Machine Learning Fundamentals"
+        },
+        {
+            "meta": "Issued Apr 2021See credential",
+            "subtitle": "Tuff Leadership Training",
+            "title": "Coaching & Leading Individuals "
+        },
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "DataCamp",
+            "title": "Data Science Fundamentals"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 8253-2121604See credential",
+            "subtitle": "Kauffman Fellows",
+            "title": "Venture Deals"
+        }
+    ],
+    "current_company_name": "DTEK.ai",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Exemplary Student Life Experience Award",
+            "publication": "University of Balamand",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "This award was presented to me during the University of Balamand's 2018 Award Ceremony. This award reflects the amount of participation put during my college years representing the University at various conferences and competitions."
+        },
+        {
+            "title": "Best Delegate Award at Beirut International Model United Nations",
+            "publication": "American University of Beirut",
+            "date": "2018-04-01T00:00:00.000Z",
+            "description": "Best Delegate Award presented for an outstanding performance at the Disarmament and International Security Committee"
+        },
+        {
+            "title": "First Place Winner at Inter-Universities Mediation Competition",
+            "publication": "Universite Saint Joseph - Centre Professionnel de Mediation - AUF Moyen Orient - Bureau de l'UNESCO a Beyrouth",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "A yearly Mediation Competition that happens between all Lebanese universities."
+        },
+        {
+            "title": "Office of Student Affairs Support Award",
+            "publication": "University of Balamand",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": "Awarded during the University of Balamand's Award Ceremony 2017"
+        }
+    ]
+}

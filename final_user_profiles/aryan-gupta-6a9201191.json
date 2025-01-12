@@ -1,0 +1,104 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023Credential ID EF4LJFG14BQQ1RGSSee credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Cloud Practitioner"
+        },
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "LearnCodeOnline.in",
+            "title": "Angular Developer Bootcamp"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID 577d24d2329b4d74b7a4ffdcd8faf567See credential",
+            "subtitle": "NVIDIA",
+            "title": "Fundamentals of Deep Learning"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "KPMG India",
+            "title": "DATA ANALYTICS CONSULTANT"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID fT8WBJKiBbG2Msr2jSee credential",
+            "subtitle": "Microsoft",
+            "title": "Engineering: Undergraduate Virtual Experience Program"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 2947917180552410546See credential",
+            "subtitle": "LearnCodeOnline.in",
+            "title": "Machine Learning and Data Science Bootcamp"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID JGYBZEY646JKSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID FYZJ2U3DZKTHSee credential",
+            "subtitle": "Coursera",
+            "title": "AutoML for Computer Vision with Microsoft Custom Vision"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID GH5R8VLARAQGSee credential",
+            "subtitle": "Coursera",
+            "title": "RESTful API with HTTP and JavaScript"
+        },
+        {
+            "meta": "Issued May 2020Credential ID C8TB8UVRGFXYSee credential",
+            "subtitle": "Coursera",
+            "title": "Advanced Features with Relational Database Tables Using SQLiteStudio"
+        },
+        {
+            "meta": "Issued May 2020Credential ID MVWQXYZQ2TS2See credential",
+            "subtitle": "Coursera",
+            "title": "Basic Sentiment Analysis with TensorFlow"
+        },
+        {
+            "meta": "Issued May 2020Credential ID DY4FJ28K8TNASee credential",
+            "subtitle": "Rhyme.com (Acquired by Coursera)",
+            "title": "Classification with Transfer Learning in Keras"
+        },
+        {
+            "meta": "Issued May 2020Credential ID PYWWBU2STME2See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "meta": "Issued May 2020Credential ID JN9H4V45UZPXSee credential",
+            "subtitle": "Coursera",
+            "title": "Logistic Regression with Python and Numpy"
+        },
+        {
+            "meta": "Issued May 2020Credential ID HNCMN8VAWWKUSee credential",
+            "subtitle": "Coursera",
+            "title": "Perform Real-Time Object Detection with YOLOv3"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Qwiklabs",
+            "title": "GCP Essentials"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Qwiklabs",
+            "title": "GCP Essentials"
+        },
+        {
+            "meta": "Issued May 2024Expires May 2027Credential ID 2091953b-bbd4-4092-b9f0-5b78fb83a580See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Cloud Solutions Architect Associate"
+        }
+    ],
+    "current_company_name": null,
+    "publications": "[{\"title\":\"Automated Sign to Speech Conversion Model using Deep Learning\",\"subtitle\":\"International Journal of Next-Generation Computing\",\"date\":\"November 26, 2021\",\"description\":\"- The prime motive of the proposed research work is to bridge the research gap in Sign Language Recognition with maximum efficiency. - The goal is to replace the human mediator with a machine to minimize human interference. - This paper focuses on the recognition of ASL in real-time. - In automatic sign language translator design, the challenging part lies in selecting a good classifierto classify the static input gestures with high accuracy.\"},{\"title\":\"COVID-19 Face Mask Detection using Deep Convolutional Neural Networks & Computer Vision\",\"subtitle\":\"Indian Journal of Science and Technology\",\"date\":\"November 15, 2021\",\"description\":\"- Proposed a model which could classify in real-time if an individual is wearing a face mask or not wearing a face mask. A lightweight system that could be easily deployed and assist in surveillance.- Taking into consideration the use-case of deployments and structuring, a new Keras-based model is proposed that surpasses the achievement results of standard architectures.\"},{\"title\":\"Real-Time Object Detection for Visually Challenged\",\"subtitle\":\"Springer\",\"date\":\"April 3, 2021\",\"description\":\"- The proposed system can identify objects in front of the blind person and also calculate the distance at which the object is present. - The output is in the form of audio, and once the object is identified the system gives audio of the object label with a warning as the person approaches the object. - The proposed system detects an object as well as humans which will help to maintain social distancing in public.\"},{\"title\":\"Cost Effective Hydro Power Plant\",\"subtitle\":\"Conference World\",\"date\":\"October 1, 2018\",\"description\":\"Enter \\\"ARYAN\\\" as the author's name.or use this link directly in Chromehttp://proceeding.conferenceworld.in/Goa-Conference/uAeFHlaOG2045.pdf\"},{\"title\":\"COST EFFECTIVE HYDRO POWER PLANT\",\"subtitle\":\"IJMTE JOURNAL\",\"date\":\"October 1, 2018\",\"description\":\"Select ID as 285 or use this link directly in chromehttp://ijamtes.org/gallery/285.%20oct%20ijmte%20-%20cw.pdf\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Vision.ai: A real-time object detection for blind with distance and voice generation\",\"start_date\":\"Feb 2020\",\"end_date\":\"Present\",\"description\":\"-This project aims at bringing ease to the Blind Section of the Society in Object Detection in Real-Time and generation of alerts w.r.t the distance of the object. -You can view it's working on my blog on medium \\\"beingryaan\\\".\"},{\"title\":\"PORTFOLIO WEBSITE\",\"start_date\":\"May 2020\",\"end_date\":\"May 2020\",\"description\":\"This project contains a portfolio resume that showcases examples of your work along with the usual resume information about your work experience. It was created with HTML, CSS, and Javascript. It is lightweight and fully responsive, as well as comes with the Bootstrap. The Sourcode can be viewed at mt GitHub profile.\"},{\"title\":\"Sign to Speech Conversion using Conv Neural Network\",\"start_date\":\"Oct 2019\",\"end_date\":\"Dec 2019\",\"description\":\"The purpose of this project is to contribute recognizing American sign languages(ASL) to the field of automatic sign language recognition with maximum efficiency.This model basically focuses on the real-time static sign gestures that are collected from Laptop Webcam and convert it into speech modules for mute people.CNN architecture is used to design classifiers for sign language recognition, in the proposed system. The system trained CNNs for the classification of twenty-five alphabets using 1200-1400 images. The system has trained the classifier with different parameter configurations and tabulated the results. Compared to previous literature the proposed work attained an efficiency of 99.35% for our classifier .\"}]",
+    "honors_and_awards": null
+}

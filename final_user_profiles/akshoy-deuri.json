@@ -1,0 +1,64 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"01\",\"title\":\"ELECTRICAL ENGINEERING\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Nov 2019Credential ID 2ed3d59c658bae639cf262d0c2013a62See credential",
+            "subtitle": "Coursera",
+            "title": "Certificate of Completion: Machine Learning (Stanford University)"
+        },
+        {
+            "meta": "Issued Nov 2019Credential ID #1059-3533771See credential",
+            "subtitle": "SoloLearn",
+            "title": "Certificate of Completion: PHP Tutorial"
+        },
+        {
+            "meta": "Issued Nov 2019Credential ID #1060-3533771See credential",
+            "subtitle": "SoloLearn",
+            "title": "Certificate of Completion: SQL Fundamentals"
+        },
+        {
+            "meta": "Issued Feb 2017Credential ID #1023-3533771See credential",
+            "subtitle": "SoloLearn",
+            "title": "Certificate of Completion: CSS Fundamentals"
+        },
+        {
+            "meta": "Issued Feb 2017Credential ID #1073-3533771See credential",
+            "subtitle": "SoloLearn",
+            "title": "Certificate Of Completion: Python3 Tutorial"
+        },
+        {
+            "meta": "Issued Jan 2017Credential ID #1014-3533771See credential",
+            "subtitle": "SoloLearn",
+            "title": "Certificate of Completion: HTML Fundamentals"
+        },
+        {
+            "meta": "Credential ID #1024-3533771See credential",
+            "subtitle": "SoloLearn",
+            "title": "Certificate Of Completion: JavaScript Tutorial"
+        },
+        {
+            "meta": "Credential ID #1082-3533771See credential",
+            "subtitle": "SoloLearn",
+            "title": "Certificate Of Completion: jQuery Tutorial"
+        }
+    ],
+    "current_company_name": "Pazcare",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,171 @@
+{
+    "city": "Toronto, Ontario, Canada",
+    "position": "Seeking full-time opportunities from Feb '25 | Multi-Cloud/DevOps/IT Support Engineer | CKA, AWS, RedHat OpenShift Certified | Freelancer",
+    "experience": [
+        {
+            "title": "Service Desk Technician - L1",
+            "location": "Toronto, Ontario, Canada",
+            "description_html": null,
+            "duration": "Sep 2024 Dec 2024 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Dec 2024",
+            "duration_short": "4 months",
+            "company": "Info-Tech Research Group",
+            "company_id": "info-tech-research-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Whizlabs",
+            "description_html": null,
+            "duration": "1 year 1 month",
+            "positions": [
+                {
+                    "subtitle": "Whizlabs",
+                    "meta": "Sep 2022 - May 2023 9 months",
+                    "duration": "Sep 2022 May 2023 9 months",
+                    "start_date": "Sep 2022",
+                    "end_date": "May 2023",
+                    "duration_short": "9 months",
+                    "title": "Cloud Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Whizlabs",
+                    "meta": "May 2022 - Aug 2022 4 months",
+                    "duration": "May 2022 Aug 2022 4 months",
+                    "start_date": "May 2022",
+                    "end_date": "Aug 2022",
+                    "duration_short": "4 months",
+                    "title": "Cloud Support Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "Whizlabs",
+            "company_id": "whizlabs-software",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "RedHat OpenShift Administrator",
+            "description_html": null,
+            "duration": "Dec 2021 May 2022 6 months",
+            "start_date": "Dec 2021",
+            "end_date": "May 2022",
+            "duration_short": "6 months",
+            "company": "Opalina Technologies Pvt. Ltd.",
+            "company_id": "opalina",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Trainee",
+            "description_html": null,
+            "duration": "Sep 2020 Sep 2021 1 year 1 month",
+            "start_date": "Sep 2020",
+            "end_date": "Sep 2021",
+            "duration_short": "1 year 1 month",
+            "company": "ARTH - The School of Technologies",
+            "company_id": "rightarth",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Trainee",
+            "description_html": null,
+            "duration": "Mar 2020 Aug 2020 6 months",
+            "start_date": "Mar 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "6 months",
+            "company": "LinuxWorld Informatics Pvt Ltd",
+            "company_id": "linuxworld-informatics-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Loyalist College",
+            "degree": "Ontario College Graduate Certificate",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "LDRP Institute of Technology & Research, Gujarat Technological University",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2023Expires Dec 2026Credential ID 210-129-706",
+            "subtitle": "Red Hat",
+            "title": "Red Hat Certified OpenShift Administrator"
+        },
+        {
+            "meta": "Issued Oct 2023Expires Oct 2026See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Solutions Architect"
+        },
+        {
+            "meta": "Issued Sep 2024Expires Sep 2026See credential",
+            "subtitle": "The Linux Foundation",
+            "title": "Kubernetes and Cloud Native Associate (KCNA)"
+        },
+        {
+            "meta": "Issued Jun 2024Expires Jun 2026See credential",
+            "subtitle": "HashiCorp",
+            "title": "HashiCorp Certified Terraform Associate"
+        },
+        {
+            "meta": "Issued Jan 2023Expires Jan 2026Credential ID 67171042See credential",
+            "subtitle": "Google",
+            "title": "Associate Cloud Engineer"
+        },
+        {
+            "meta": "Issued Sep 2022Expires Sep 2025Credential ID LF-0764gzxrchSee credential",
+            "subtitle": "The Linux Foundation",
+            "title": "Certified Kubernetes Administrator"
+        },
+        {
+            "meta": "Issued Aug 2021Expires Aug 2024Credential ID 210-129-706See credential",
+            "subtitle": "Red Hat",
+            "title": "Red Hat Certified Specialist in Containers and Kubernetes (EX180)"
+        },
+        {
+            "meta": "Issued Jun 2021Expires Jun 2024Credential ID 2021-12761See credential",
+            "subtitle": "Aviatrix",
+            "title": "Aviatrix Certified Engineer - Multi-Cloud Network Associate"
+        },
+        {
+            "meta": "Issued Feb 2021Expires Feb 2024Credential ID 29295850See credential",
+            "subtitle": "ARTH - The School of Technologies",
+            "title": "Best Technical Volunteer"
+        },
+        {
+            "meta": "Issued Jan 2022Expires Jan 2024Credential ID 991781272See credential",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified Azure AI Fundamentals"
+        },
+        {
+            "meta": "Issued Jan 2022Expires Jan 2024Credential ID 991781272See credential",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified Azure Fundamentals"
+        }
+    ],
+    "current_company_name": "Info-Tech Research Group",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

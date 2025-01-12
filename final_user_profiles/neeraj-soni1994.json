@@ -1,0 +1,97 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "IIT Kharagpur - Vinod Gupta School of Management",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2019",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"1\",\"title\":\"R Programming for Data Science\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Program Management Foundations"
+        },
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Sales Forecasting"
+        },
+        {
+            "meta": "Issued Oct 2021Credential ID 001257677",
+            "subtitle": "Scrum Alliance",
+            "title": "Certified ScrumMaster (CSM)"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID C15656",
+            "subtitle": "OneTrust",
+            "title": "OneTrust Certified Professional"
+        },
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "Citi",
+            "title": "Institutional Banking Virtual Internship Program"
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID TANS4YZDBUJQSee credential",
+            "subtitle": "Coursera",
+            "title": "Visual Analytics with Tableau"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID W6DXJC99VF98See credential",
+            "subtitle": "Coursera",
+            "title": "Data-driven Decision Making"
+        },
+        {
+            "meta": "Issued Jan 2019",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concept"
+        },
+        {
+            "meta": "Issued Sep 2018",
+            "subtitle": "Finitiatives Learning India Pvt Ltd. (FLIP)",
+            "title": "Finance and Banking Fundamentals (India)"
+        }
+    ],
+    "current_company_name": "MSD",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Rashtrapati Award",
+            "publication": "President of India",
+            "date": "2009-04-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

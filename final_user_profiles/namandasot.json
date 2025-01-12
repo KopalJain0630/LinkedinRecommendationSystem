@@ -1,0 +1,38 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2008",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Google",
+    "publications": "[{\"title\":\"Towards Evidence-Based Precision Medicine: Extracting Population Information from Biomedical Text using Binary Classifiers and Syntactic Patterns\",\"subtitle\":\"AMIA 2016 Joint Summits on Translational Science / NCBI\",\"date\":\"July 20, 2016\",\"description\":\"Precision Medicine is an emerging approach for prevention and treatment of disease that considers individual variability in genes, environment, and lifestyle for each person. The dissemination of individualized evidence by automatically identifying population information in literature is a key for evidence-based precision medicine at the point-of-care. We propose a hybrid approach using natural language processing techniques to automatically extract the population information from biomedical literature. Our approach first implements a binary classifier to classify sentences with or without population information. A rule-based system based on syntactic-tree regular expressions is then applied to sentences containing population information to extract the population named entities. The proposed two-stage approach achieved an F-score of 0.81 using a MaxEnt classifier and the rule- based system, and an F-score of 0.87 using a Nai've-Bayes classifier and the rule-based system, and performed relatively well compared to many existing systems. The system and evaluation dataset is being released as open source.\"}]",
+    "patents": "[{\"title\":\"METHOD AND SYSTEM FOR GENERATING REAL ESTATE RECOMMENDATIONS\",\"date_issued\":\"August 19, 2016\",\"patents_id\":\"IN 201621016592\",\"description\":\"A real-time machine learning based Recommendation System which understands the unstated preferences of customers and accordingly recommends appropriate real estate properties.\"}]",
+    "projects": "[{\"title\":\"Differentiating Visual Objects of any Category Using Machine Learning and Pattern Recognition\",\"start_date\":\"Oct 2012\",\"description\":\"Currently working on differentiating mail objects like spam, general and important mails based on the data context.\"},{\"title\":\"Impact of Aural Elements on Visuals\",\"start_date\":\"Mar 2013\",\"end_date\":\"Apr 2013\",\"description\":\"Visual communication course project under Professor: Priyadarshi Patnaik.• This project was aimed to record opinions and conclude patterns of impact on people on how they felt when the same visual was played with a different audio. The survey was done on a group of 40-50 people.• Visuals were designed using iMovie Software.\"},{},{\"title\":\"Impact of Aural Elements on Visuals\",\"start_date\":\"Mar 2013\",\"end_date\":\"Apr 2013\",\"description\":\"Visual communication course project under Professor: Priyadarshi Patnaik.• This project was aimed to record opinions and conclude patterns of impact on people on how they felt when the same visual was played with a different audio. The survey was done on a group of 40-50 people.• Visuals were designed using iMovie Software.\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "NTSE",
+            "publication": "NCERT",
+            "date": "2007-07-01T00:00:00.000Z",
+            "description": "National Talent Search Examination (NTSE) is a national-level scholarship program in India to identify and recognize students with very high intellect and academic talent. It is a Scholarship Program by Indian Government in association with National Council of Educational Research and Training."
+        }
+    ]
+}

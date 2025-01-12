@@ -1,0 +1,34 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "url": "",
+            "start_year": "2016-08",
+            "end_year": "2021-01",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Automation in Manufacturing\"},{\"subtitle\":\"-\",\"title\":\"Materials and Design\"},{\"subtitle\":\"-\",\"title\":\"Refrigeration and Cryogenics\"},{\"subtitle\":\"-\",\"title\":\"Renewable Energy Technologies\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Dec 2018",
+            "subtitle": "Centre for Social Innovation and Entrepreneurship, IIT Madras",
+            "title": "International winter school on Social Entrepreneurship"
+        },
+        {
+            "meta": "Issued Dec 2017Credential ID -See credential",
+            "subtitle": "IBM",
+            "title": "Deep Learning"
+        }
+    ],
+    "current_company_name": "Transition VC",
+    "publications": null,
+    "patents": "[{\"title\":\"AN ELECTROMECHANICAL SYSTEM AND DEVICE UTILIZING 2 GRAVITATIONAL POTENTIAL TO CONDENSE ATMOSPHERIC\",\"patents_id\":\"IN IN201941026443\"}]",
+    "projects": null,
+    "honors_and_awards": null
+}

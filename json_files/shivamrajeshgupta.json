@@ -1,0 +1,234 @@
+{
+    "id": "shivamrajeshgupta",
+    "name": "Shivam Rajesh Gupta",
+    "city": "Bangalore Urban, Karnataka, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "Dual Degree Undergraduate at IIT Kharagpur",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Technoforte Software Pvt. Ltd.",
+        "company_id": "technoforte-software-pvt.-ltd."
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ramit Pahwa",
+            "about": "Research Engineer @ Rivian | IIT KGP, UT Austin",
+            "location": "Austin, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Gunavardhan Ganji",
+            "about": "Lead Engineer at HighLevel | DevOps | GCP | IIT KGP",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanprit Nayan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanskriti Sinha",
+            "about": null,
+            "location": "West Lafayette, IN"
+        },
+        {
+            "profile_link": "",
+            "name": "Shantanu Dubey",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sriashika A.",
+            "about": "Software Engineer | DM to collaborate on website(s) and/or projects",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Geetha Bhargava Mandava",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohit Garg",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Meher Changlani",
+            "about": "MSc AI@University of Amsterdam | AB InBev | IIT KGP 21'",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pragya Jain",
+            "about": null,
+            "location": "Delhi"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018-07",
+            "end_year": "2023-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2018-07",
+            "end_year": "2023-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2005",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advanced Mass Transfer\"},{\"subtitle\":\"-\",\"title\":\"Advanced Numerical Techniques\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence for Manufacturing\"},{\"subtitle\":\"-\",\"title\":\"Biochemical Engineering\"},{\"subtitle\":\"-\",\"title\":\"Chemical Process Calculation\"},{\"subtitle\":\"-\",\"title\":\"Chemical Process Technology\"},{\"subtitle\":\"-\",\"title\":\"Computer Aided Process Engineering\"},{\"subtitle\":\"-\",\"title\":\"Computer Methods in Chemical Engineering\"},{\"subtitle\":\"-\",\"title\":\"Economics\"},{\"subtitle\":\"EE10001\",\"title\":\"Electrical Technology\"},{\"subtitle\":\"-\",\"title\":\"File Organisation & Database Systems\"},{\"subtitle\":\"-\",\"title\":\"Fluid Mechanics\"},{\"subtitle\":\"-\",\"title\":\"Heat Transfer\"},{\"subtitle\":\"-\",\"title\":\"Instrumentation & Process Control\"},{\"subtitle\":\"-\",\"title\":\"Mass Transfer\"},{\"subtitle\":\"-\",\"title\":\"Mechanical Operation\"},{\"subtitle\":\"-\",\"title\":\"Numerical Solution of ODE and PDE\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Process Modelling & Simulation\"},{\"subtitle\":\"CS10001\",\"title\":\"Progamming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Reaction Engineering\"},{\"subtitle\":\"-\",\"title\":\"Real Analysis\"},{\"subtitle\":\"-\",\"title\":\"Thermodynamics\"},{\"subtitle\":\"-\",\"title\":\"Transform Calculus\"},{\"subtitle\":\"-\",\"title\":\"Transport Phenomena\"}]",
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued May 2021See credential",
+            "subtitle": "AlgoZenith",
+            "title": "Applied Algorithms & Data Structures"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1750.0,
+    "connections": 500.0,
+    "current_company_company_id": "technoforte-software-pvt.-ltd.",
+    "current_company_name": "Technoforte Software Pvt. Ltd.",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Todo List Web Application\",\"start_date\":\"Nov 2021\",\"end_date\":\"Dec 2021\",\"description\":\"• Developed a dynamic website that enables the user to create, edit, and track the status of each todo item on the daily basis• Utilized HTML list elements to display the tasks, also used CSS and Bootstrap to make the UI more friendly and accessible• Implemented todo CRUD operations by using JavaScript event listeners consisting of arrays, objects, and class methods\"},{\"title\":\"Detecting Covid-19 with chest X-rays\",\"start_date\":\"Jun 2021\",\"end_date\":\"Jul 2021\",\"description\":\"• Built image classification model which classifies Chest X-ray scans as one of the 3 classes- Normal, Pneumonia or Covid19• Used pre-trained ResNet18 in PyTorch with Covid-19 radiography dataset, achieving an accuracy of 92% on validation data\"},{\"title\":\"Facial Expression Recognition\",\"start_date\":\"Apr 2021\",\"end_date\":\"May 2021\",\"description\":\"• Implemented 4 layer convolutional neural network using Keras to identify 7 facial expressions achieving an accuracy of 88%• Utilized OpenCV to automatically detect human expressions in real-time videos, employed ADAM optimizer for better results• Deployed the trained model on Heroku using Flask, where the user can upload videos and get the predicted facial expression\"}]",
+    "organizations": null,
+    "location": "Bangalore Urban",
+    "linkedin_id": "shivamrajeshgupta",
+    "activity": [
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "Yes, graduated! ✅ I'm now officially an alumnus of McGill University and Mila - Quebec Artificial Intelligence Institute! Some people see - Us…",
+            "img": "",
+            "id": "7270617968848343042"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "𝐓𝐡𝐞 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐋𝐢𝐟𝐞𝐜𝐲𝐜𝐥𝐞: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐟𝐫𝐨𝐦 𝐈𝐝𝐞𝐚𝐬 𝐭𝐨 𝐈𝐦𝐩𝐚𝐜𝐭 As I am diving deeper in my journey into Product…",
+            "img": "",
+            "id": "7269213698089467904"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "After completing my graduate degree at Columbia University, I will be starting a new role as a Software Engineer at Citadel! Excited for this next…",
+            "img": "",
+            "id": "7268100881982590976"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "Hi everyone, I am happy to share that I am starting a new position as Software Engineer at Google ! A heartfelt thank you to everyone who has…",
+            "img": "",
+            "id": "7266713642367135745"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "The first post is always a special one. I am elated to share that my research titled \" A computational study of the influence of wavy arteries and…",
+            "img": "",
+            "id": "7252462616122466304"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "🌟 Thrilled to share that I've been honoured as the AI & Data CoE R&R Winner for October 2024, receiving the \"Learning Mindset - Individual\" award…",
+            "img": "",
+            "id": "7252642951896453120"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "India has lost not just a business icon, but a visionary leader who redefined integrity, compassion, and innovation. Ratan Tata’s legacy goes beyond…",
+            "img": "",
+            "id": "7250328466611392513"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "Today I completed 450 days at Microsoft! This photo is from my visit to the Microsoft Redmond office—it made me stop and think about how massive…",
+            "img": "",
+            "id": "7250754954712244225"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "OpenG2P is excited to participate in the #GlobalDPISummit in Cairo, Egypt from October 1-3, 2024! Our Chief Technology Officer, Puneet Joshi, will…",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "Hello to our newly inducted KGPians!! We have a big surprise for you. Our esteemed Alumnus Mr. Arjun Malhotra who is widely renowned for his…",
+            "img": "",
+            "id": "7225362958187380736"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "In a momentous occasion of pride, Indian Institute of Technology, Kharagpur honoured Shri Sundar Pichai with the Doctor of Science (Honoris Causa)…",
+            "img": "",
+            "id": "7222596672130883584"
+        },
+        {
+            "interaction": "Liked by Shivam Rajesh Gupta",
+            "link": "",
+            "title": "🎉 We are thrilled to announce that Bevolv and Technoforte Software Pvt. Ltd. have become the first accredited Implementation Partners of…",
+            "img": "",
+            "id": "7220060884054798337"
+        }
+    ],
+    "linkedin_num_id": 719706644.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

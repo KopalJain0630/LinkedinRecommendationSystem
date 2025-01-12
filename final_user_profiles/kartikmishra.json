@@ -1,0 +1,37 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Massachusetts Institute of Technology - Sloan School of Management",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Startups",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Intel Sports Inventor",
+            "publication": "Intel and Neo Sports",
+            "date": null,
+            "description": "Proposed idea and prototype for measurement and visualization of drift in the air and deviation of the pitch for spin bowler in Cricket to improve audience viewing experience."
+        }
+    ]
+}

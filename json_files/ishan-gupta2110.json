@@ -1,0 +1,212 @@
+{
+    "id": "ishan-gupta2110",
+    "name": "Ishan Gupta",
+    "city": "Noida, Uttar Pradesh, India",
+    "country_code": "IN",
+    "position": "SDE-2 @ Amazon || Data Structures & Algorithms || Competitive Programmer",
+    "about": "Competitive Programming enthusiast skilled in Data Structures and Algorithms. Self motivated, hardworking and committed individual with good problem-solving skills and sound knowledge of OOPS, DBMS and Computer Networks.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Amazon",
+        "company_id": "amazon",
+        "title": "SDE-2 @ Amazon || Data Structures & Algorithms || Competitive Programmer"
+    },
+    "experience": [
+        {
+            "title": "Amazon",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "2 years 11 months",
+            "positions": [
+                {
+                    "subtitle": "Amazon",
+                    "meta": "Dec 2024 - Present 1 month",
+                    "duration": "Dec 2024 - Present 1 month",
+                    "start_date": "Dec 2024",
+                    "end_date": "Present",
+                    "duration_short": "1 month",
+                    "title": "Software Development Engineer II",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Amazon",
+                    "meta": "Jul 2022 - Dec 2024 2 years 6 months",
+                    "duration": "Jul 2022 Dec 2024 2 years 6 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Dec 2024",
+                    "duration_short": "2 years 6 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Amazon",
+                    "meta": "Feb 2022 - Jun 2022 5 months",
+                    "description": "Tools and Stack - AWS, CDK, Java and Testing Frameworks.",
+                    "duration": "Feb 2022 Jun 2022 5 months",
+                    "start_date": "Feb 2022",
+                    "end_date": "Jun 2022",
+                    "duration_short": "5 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": "Tools and Stack - AWS, CDK, Java and Testing Frameworks. <!---->"
+                }
+            ],
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rohit Samudralwar",
+            "about": "SDE 2 at Amazon",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivangi Sharma",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Vanjani",
+            "about": null,
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Pulkit Singhal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rachana Bhimavarapu",
+            "about": null,
+            "location": "Frisco, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Adish Agarwal",
+            "about": null,
+            "location": "Agra"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Garg",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishika Gupta",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Smit Mandavia",
+            "about": "SWE at Rubrik | Former SWE III @Google | Competitive Programmer | Codeforces Master | Codechef 6 🌟",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishi Mahto",
+            "about": null,
+            "location": "Seattle, WA"
+        }
+    ],
+    "educations_details": "Jaypee Institute Of Information Technology",
+    "education": [
+        {
+            "title": "Jaypee Institute Of Information Technology",
+            "degree": "Bachelor's degree",
+            "field": "Electronics and Communication Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Bal Bharati Public School, Noida",
+            "degree": "XII (94.8%)",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021See credential",
+            "subtitle": "Internshala",
+            "title": "React"
+        },
+        {
+            "meta": "Issued May 2020Credential ID DYFRV5V5TPWKSee credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Science and Technology",
+            "duration": "Sep 2019 - May 2020 · 9 months",
+            "duration_short": "9 months",
+            "end_date": "May 2020",
+            "start_date": "Sep 2019",
+            "subtitle": "IEEE Student Branch JIIT",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 7575.0,
+    "connections": 500.0,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Text Summarizer\",\"start_date\":\"Feb 2021\",\"end_date\":\"Apr 2021\",\"description\":\"A Machine Learning based Full stack Extractive Summarization Web Application to summarize the contents of Wikipedia Articles, Plain Text and PDF Documents by using NLTK and TextRank Algorithm.TechStack: HTML, CSS, JavaScript, Python, Bootstrap 5 and Flask.\"},{\"title\":\"Twitter Recommendation and Analysis\",\"start_date\":\"Sep 2020\",\"end_date\":\"Dec 2020\",\"description\":\"Developed an ML model that uses Twitter API to analyze the reviews carried out by the twitter user and to develop a system that could post such recommendations of the product to the target audience (decided on the basis of the past’s few tweets of the user). Used NLP, Naïve Bayes Algorithm, Python and R Programming.\"},{}]",
+    "organizations": null,
+    "location": "Noida",
+    "linkedin_id": "ishan-gupta2110",
+    "activity": [
+        {
+            "interaction": "Liked by Ishan Gupta",
+            "link": "",
+            "title": "I am hiring for my team!! We are looking for a Software Engineer (L3) at Google. Join me and my team and let's build Google Cloud together !! ✅…",
+            "img": "",
+            "id": "7275022582939107328"
+        },
+        {
+            "interaction": "Liked by Ishan Gupta",
+            "link": "",
+            "title": "Just to confirm about a reel flooding on LinkedIn. I was a part of Amazon Core Transportation team in Amazon from 2016 to 2020, before moving to…",
+            "img": "",
+            "id": "7271103248298573824"
+        },
+        {
+            "interaction": "Liked by Ishan Gupta",
+            "link": "",
+            "title": "I took 6 years to get promoted as a Program Manager in Amazon. Back then, I believed that if you do your best work, the organization will naturally…",
+            "img": "",
+            "id": "6"
+        }
+    ],
+    "linkedin_num_id": 777919722.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

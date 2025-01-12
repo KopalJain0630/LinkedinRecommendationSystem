@@ -1,0 +1,299 @@
+{
+    "id": "krishnaiitkgp96",
+    "name": "Krishna Kshirsagar",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Data Scientist at Bayer  |  IIT Kharagpur",
+    "about": "I am an experienced Data Scientist specializing in solving real-world business challenges across diverse industries. My expertise includes advanced natural language processing techniques and extensive hands-on experience with AWS cloud services. I have a proven track record of deploying multiple machine learning models into production, delivering measurable value by transforming complex data into actionable business insights.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Bayer",
+        "company_id": "bayer",
+        "title": "Data Scientist at Bayer  |  IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Bayer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "Bayer",
+                    "meta": "Jul 2024 - Present 6 months",
+                    "duration": "Jul 2024 - Present 6 months",
+                    "start_date": "Jul 2024",
+                    "end_date": "Present",
+                    "duration_short": "6 months",
+                    "title": "Data Scientist",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Bayer",
+                    "meta": "Jun 2022 - Aug 2024 2 years 3 months",
+                    "duration": "Jun 2022 Aug 2024 2 years 3 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Aug 2024",
+                    "duration_short": "2 years 3 months",
+                    "title": "Associate Data Scientist",
+                    "description_html": null
+                }
+            ],
+            "company": "Bayer",
+            "company_id": "bayer",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Developed and deployed a Bert model in production for named entity recognition and multi-label text classification using Hugging Face, TensorFlow, and PyTorch.Proficient in AWS cloud services, including:  - AWS Lambda  - AWA Fargate  - AWS Step Functions  - AWS Textract  - AWS SageMaker  - AWS Elastic Container Registry (ECR)  - AWS Simple Storage Service (S3)",
+            "description_html": "Developed and deployed a Bert model in production for named entity recognition and multi-label text classification using Hugging Face, TensorFlow, and PyTorch.Proficient in AWS cloud services, including: - AWS Lambda - AWA Fargate - AWS Step Functions - AWS Textract - AWS SageMaker - AWS Elastic Container Registry (ECR) - AWS Simple Storage Service (S3) <!---->",
+            "duration": "Aug 2020 Jun 2022 1 year 11 months",
+            "start_date": "Aug 2020",
+            "end_date": "Jun 2022",
+            "duration_short": "1 year 11 months",
+            "company": "Quantiphi",
+            "company_id": "quantiphi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Internship",
+            "location": "Bengaluru Area, India",
+            "description": "Marker Quality Prediction and Timeseries Forecasting with Real-Time Data",
+            "description_html": "Marker Quality Prediction and Timeseries Forecasting with Real-Time Data <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Monsanto Company",
+            "company_id": "monsanto",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Abhinay Chetla",
+            "about": "AVP | Digital & Business Product @ JPMC |Northwestern University | UCEOU |",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshu Bansal",
+            "about": "Computer Vision @IRB | MS in AI | ex-Associate JPMorganChase",
+            "location": "Zurich"
+        },
+        {
+            "profile_link": "",
+            "name": "Shalvi Desai",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Shaun Mendes",
+            "about": null,
+            "location": "New York City Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Kumar",
+            "about": "Software Engineer | Automotive Engineer specialized in SOME/IP technologies",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sidharth Talwar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Prasannajeet Bajpai",
+            "about": "Senior Software Enginner | Role of Data Scientist @ Zimetrics Technology",
+            "location": "Bilaspur"
+        },
+        {
+            "profile_link": "",
+            "name": "Loveleen Amar",
+            "about": "AI Solution Engineer at Intel | Former Machine Learning Engineer at LTTS| ML Intern at Utopia Global | CSE-IIIT NR",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Divyanjali Soni",
+            "about": "Data Scientist @ SG Analytics | Software Development, Cloud Computing, AI",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Dubey",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree(B.Tech and M.Tech)",
+            "field": "Biotechnology & Biochemical Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Educational Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning(Coursera)\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023Credential ID ZFQWLDMGFSJSSee credential",
+            "subtitle": "Coursera",
+            "title": "Deploy a Website Container Image in AWS ECS and AWS Fargate"
+        },
+        {
+            "meta": "Issued Dec 2022Credential ID K3YR3J9EV23USee credential",
+            "subtitle": "Coursera",
+            "title": "AWS Elastic Beanstalk:Deploy a Python(Flask) Web Application"
+        },
+        {
+            "meta": "Issued Nov 2022Credential ID 59WPUHYUAZHQSee credential",
+            "subtitle": "Coursera",
+            "title": "From Data to Insights with Google Cloud Specialization"
+        },
+        {
+            "meta": "Issued Sep 2022Credential ID UDJVCNMYBZDHSee credential",
+            "subtitle": "Coursera",
+            "title": "Python, Bash and SQL Essentials for Data Engineering Specialization"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID T8WDY635CBKBSee credential",
+            "subtitle": "Coursera",
+            "title": "Practical Data Science on the AWS Cloud Specialization"
+        },
+        {
+            "meta": "Issued Jan 2021Credential ID S5G748SL883CSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID 26797859See credential",
+            "subtitle": "Google",
+            "title": "Associate Cloud Engineer"
+        },
+        {
+            "meta": "Issued Nov 2020See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Solutions Architect – Associate"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID YWMEZ8CM7GW8See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning with TensorFlow on Google Cloud Platform Specialization"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Children",
+            "subtitle": "National Service Scheme",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 1705.0,
+    "connections": 500.0,
+    "current_company_company_id": "bayer",
+    "current_company_name": "Bayer",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "krishnaiitkgp96",
+    "activity": [
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "Yesterday, the best open model to date was released! 👀 DeepSeek-V3 is a 671B parameter MoE that matches or outperforms OpenAI and Anthropic! Trained…",
+            "img": "",
+            "id": "7278313766679658498"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Krishna Kshirsagar",
+            "img": "",
+            "id": "7269579279401639939"
+        },
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "Well played! Google DeepMind just released its Gemini (reasoning) preview of an OpenAI o1-like reasoning mode! And it is not hiding its Chain of…",
+            "img": "",
+            "id": "7275559454488625152"
+        },
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "ModernBERT, BERT revisited in the age of LLMs and Generative AI! LightOn and Answer.ai modernized BERT! Improved architecture with 8192 context…",
+            "img": "",
+            "id": "7275551060302131201"
+        },
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "Wow! Thats beautiful! A pencil sketch-style Black Forest Labs Flux Lora! It looks incredible! Use \"shou_xin, pencil sketch\" to trigger the image…",
+            "img": "",
+            "id": "7275516339350327297"
+        },
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "🌱 Enthusiastic visitors at Bayer’s R&D Site in Bangalore! 🌱 Over the past two months, we had the privilege of hosting professors and students…",
+            "img": "",
+            "id": "7274642617114480640"
+        },
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "Rice holds a crucial role as a primary food source for over half of the global population. However, as the world faces challenges like increasing…",
+            "img": "",
+            "id": "7273278585509941248"
+        },
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "It was a truly remarkable experience to be part of the inauguration of Strand Life Sciences' new Genomics Diagnostics & Research Centre, a grand…",
+            "img": "",
+            "id": "7272892718794600449"
+        },
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "We’re excited to announce that Simon Wiebusch, President of Bayer South Asia, has joined the Board of the Indian Chamber of Food and Agriculture…",
+            "img": "",
+            "id": "7262393127775186944"
+        },
+        {
+            "interaction": "Liked by Krishna Kshirsagar",
+            "link": "",
+            "title": "Proud to be a speaker (on VerifAI Biomed) and a panelist (on #PromptEngineering) at Data Science Conference Europe. See you there from 20-22 November!",
+            "img": "",
+            "id": "7263830384306483201"
+        }
+    ],
+    "linkedin_num_id": 497735507.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

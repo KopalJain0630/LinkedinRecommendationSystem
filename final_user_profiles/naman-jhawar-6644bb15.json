@@ -1,0 +1,50 @@
+{
+    "city": "Singapore, Singapore",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Bangalore",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2006",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Introduction to Business Analysis\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Process Improvement\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Project Management\"}]",
+    "certifications": null,
+    "current_company_name": "Picus Capital",
+    "publications": "[{\"title\":\"Synthesis of MWCNT Reinforce Al based nanocomposites via microwave sintering\",\"subtitle\":\"Metallurgical and Materials Transaction\"},{\"title\":\"Why not television banking?\",\"subtitle\":\"The Hindu - Business Line\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Best Outgoing Student",
+            "publication": "Patel Hall of Residence, IIT Kharagpur",
+            "date": "2011-05-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Order of Merit",
+            "publication": "Technology Students Gymkhana, IIT Kharagpur",
+            "date": "2011-05-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "EPSC Scholarship",
+            "publication": "University of Manchester",
+            "date": "2009-05-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

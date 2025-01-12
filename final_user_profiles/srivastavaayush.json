@@ -1,0 +1,101 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "&",
+            "start_year": "1995",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2020Credential ID ec9a1b3eca9c4da8a2eba55bbcff6d62See credential",
+            "subtitle": "Rochester Institute of Technology",
+            "title": "Design Thinking Fundamentals"
+        },
+        {
+            "meta": "Issued Dec 2018See credential",
+            "subtitle": "Scrum.org",
+            "title": "Professional Scrum Master"
+        },
+        {
+            "meta": "Issued Aug 2013See credential",
+            "subtitle": "Harvard Business School",
+            "title": "Justice (Via edX)"
+        },
+        {
+            "meta": "Issued May 2013Credential ID PBDQRW7NVYSee credential",
+            "subtitle": "University of Pennsylvania",
+            "title": "Gamification"
+        },
+        {
+            "meta": "Issued May 2013See credential",
+            "subtitle": "University of Maryland",
+            "title": "Surviving Disruptive Technologies (Via Coursera)"
+        },
+        {
+            "meta": "Issued Apr 2013See credential",
+            "subtitle": "Georgia Institute of Technology",
+            "title": "Energy 101 (Via Coursera)"
+        },
+        {
+            "meta": "Issued Apr 2013See credential",
+            "subtitle": "University of Virginia",
+            "title": "Foundations of Business Strategy (Via Coursera)"
+        },
+        {
+            "meta": "Issued Jun 2019Expires Jun 2022See credential",
+            "subtitle": "Google Analytics for Business",
+            "title": "Google Analytics"
+        }
+    ],
+    "current_company_name": "Bodhi",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "National Record Holder",
+            "publication": "Limca Book of Records",
+            "date": "2013-01-01T00:00:00.000Z",
+            "description": "National Record holder with a collection of postage stamps and coins from 192 United Nations members."
+        },
+        {
+            "title": "Runner-Up, Divisional Handball",
+            "publication": "Zilla Parishad",
+            "date": "2007-01-01T00:00:00.000Z",
+            "description": "Finished runner-up at the divisional level in the Handball Championship with Nowrosjee Wadia Junior College."
+        },
+        {
+            "title": "Winner, District Handball",
+            "publication": "Zilla Parishad",
+            "date": "2007-01-01T00:00:00.000Z",
+            "description": "Won the prestigious district level Handball championship with Nowrosjee Wadia College."
+        },
+        {
+            "title": "Distinction in English",
+            "publication": "University of New South Wales",
+            "date": "2004-01-01T00:00:00.000Z",
+            "description": "Got Distinction in English in the exam conducted by the prestigious Australian Institute, University of New South Wales."
+        },
+        {
+            "title": "Quarter-finalist, All Asia BQC",
+            "publication": "Cadbury India",
+            "date": "2003-01-01T00:00:00.000Z",
+            "description": "Created history by becoming first team from Hutchings High School to reach quarter-final of the All-Asia Bournvita Quiz Contest."
+        }
+    ]
+}

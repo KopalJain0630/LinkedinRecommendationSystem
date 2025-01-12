@@ -1,0 +1,41 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "The American University in Cairo",
+            "url": "",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Amazon Web Services (AWS)",
+    "publications": "[{\"title\":\"BBC Arabic Interview\",\"subtitle\":\"BBC Arabic\",\"date\":\"April 30, 2019\"},{\"title\":\"Let's Take This Online Podcast\"},{\"title\":\"The Glory of Serial Entrepreneurship\",\"subtitle\":\"Egypt Innovate\",\"description\":\"\\\"Great idea? Check. Prototype? Check. Flip flops & hoodie? Check.I was 29, I unbuckled my seatbelt, flashed the peace sign to the other passengers staring at me in shock and flew out of the plane, with the goal of building another flying machine....\\\"\"},{\"title\":\"The Victor Antonio Podcast\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Top 10 Facebook Africa & Middle East chatbots",
+            "publication": "Facebook",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Best Ad Campaigns of 2019",
+            "publication": "Identity Magazine",
+            "date": null,
+            "description": "\"Hire Hunt’s ad campaign went viral for all the right reasons. Several of which were that they conveyed all of our fears about the job market.\" "
+        },
+        {
+            "title": "Outstanding Gamification Software",
+            "publication": "Gamification Europe",
+            "date": null,
+            "description": ""
+        }
+    ]
+}

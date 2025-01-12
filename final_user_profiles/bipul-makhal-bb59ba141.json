@@ -1,0 +1,301 @@
+{
+    "id": "bipul-makhal-bb59ba141",
+    "name": "Bipul Makhal",
+    "city": "West Bengal, India",
+    "country_code": "IN",
+    "position": "Genpact | IIT Madras'22",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Genpact",
+        "company_id": "genpact",
+        "title": "Genpact | IIT Madras'22"
+    },
+    "experience": [
+        {
+            "title": "Consultant",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "Genpact",
+            "company_id": "genpact",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Institute Weightlifting Captain",
+            "location": "Chennai, Tamil Nadu, India",
+            "description_html": null,
+            "duration": "Apr 2021 Mar 2022 1 year",
+            "start_date": "Apr 2021",
+            "end_date": "Mar 2022",
+            "duration_short": "1 year",
+            "company": "Indian Institute of Technology, Madras",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative Developer",
+            "location": "India",
+            "description": "- Developed intricate trading strategies in Python for clients and seamlessly integrated these strategies with brokers' APIs for algorithmic trading.- Engineered Pine Script algorithms for backtesting and Algo trading, seamlessly integrating them with Webhook for efficient execution.",
+            "description_html": "- Developed intricate trading strategies in Python for clients and seamlessly integrated these strategies with brokers' APIs for algorithmic trading.- Engineered Pine Script algorithms for backtesting and Algo trading, seamlessly integrating them with Webhook for efficient execution. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Freelancer.com",
+            "company_id": "freelancer-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "MaverixPro Limited",
+            "location": "Kozhikode, Kerala, India",
+            "description_html": null,
+            "duration": "3 months",
+            "positions": [
+                {
+                    "subtitle": "MaverixPro Limited",
+                    "meta": "Jan 2021 - Mar 2021 3 months",
+                    "description": "- Designed and implemented indicators in Pinescript for technical analysis.- Enhanced strategies by optimization techniques.- Developed indicators and algorithms in Pinescript for strategy backtesting, including Alert Algorithms.- Developed an automated Entry and Exit Signals algorithm for seamless trading execution.",
+                    "duration": "Jan 2021 Mar 2021 3 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "Mar 2021",
+                    "duration_short": "3 months",
+                    "title": "Trading Bot Developer Internship",
+                    "description_html": "- Designed and implemented indicators in Pinescript for technical analysis.<br>- Enhanced strategies by optimization techniques.<br>- Developed indicators and algorithms in Pinescript for strategy backtesting, including Alert Algorithms.<br>- Developed an automated Entry and Exit Signals algorithm for seamless trading execution. <!---->"
+                },
+                {
+                    "subtitle": "MaverixPro Limited",
+                    "meta": "Jan 2021 - Mar 2021 3 months",
+                    "description": "- Crafted a Python-based live market stock screener scanning 142 F&O stocks from NSE, providing real-time identification of Bullish and Bearish stocks every five minutes. This facilitates informed intraday trading decisions aligned with specified strategies, leveraging five-minute data analysis.- Designed a Python-based stock screener analyzing 142 F&O stocks from NSE after market hours, generating bullish and bearish stock recommendations for the following day based on daily data and predefined strategies.",
+                    "duration": "Jan 2021 Mar 2021 3 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "Mar 2021",
+                    "duration_short": "3 months",
+                    "title": "Python Quantitative Developer Project",
+                    "description_html": "- Crafted a Python-based live market stock screener scanning 142 F&amp;O stocks from NSE, providing real-time identification of Bullish and Bearish stocks every five minutes. This facilitates informed intraday trading decisions aligned with specified strategies, leveraging five-minute data analysis.<br><br>- Designed a Python-based stock screener analyzing 142 F&amp;O stocks from NSE after market hours, generating bullish and bearish stock recommendations for the following day based on daily data and predefined strategies."
+                }
+            ],
+            "company": "MaverixPro Limited",
+            "company_id": "maverixpro",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shivam Kant",
+            "about": "PhD in Interdisciplinary life sciences (PULSe) at Purdue University",
+            "location": "West Lafayette, IN"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditi Joshi",
+            "about": "Data Science Intern - CME Group | Master\u00e2\u20ac\u2122s in Information Management at University of Maryland College Park | IIT Bombay \u00e2\u20ac\u02dc22 | Ex-Morgan Stanley",
+            "location": "College Park, MD"
+        },
+        {
+            "profile_link": "",
+            "name": "Sathwik Matcha",
+            "about": "Graduate Student @ Northeastern University | IIT Bombay",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Sahu",
+            "about": "Axtria - Ingenious Insights | Tiger Analytics | Climate Connect | IIT Kanpur | NIT Uttarakhand",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh Maken",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Anamika Mishra",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Goyal",
+            "about": "CS Grad @ USC | Mathematics @ IIT Delhi | Adobe | KAIST",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashwin Bhale",
+            "about": "Dassault Syst\u00c3\u00a8mes | IIT Bombay | WCE",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shruti SP",
+            "about": "Display Processor Engineer at Qualcomm || AI, Image Processing, and Landscape Photography",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Kar",
+            "about": "System Software Engineer, NVIDIA",
+            "location": null
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Madras",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "degree": "BTech and MTech",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Dakshana Foundation, JNV kottayam",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya (JNV)",
+            "degree": "High School",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2020Credential ID UC-c994918a-2818-4465-a650-515328cdb5f9See credential",
+            "subtitle": "Udemy",
+            "title": "Python for Financial Analysis and Algorithmic Trading"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z\u00e2\u201e\u00a2: Hands-On Python & R In Data Science"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Python for Absolute Beginners"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 710.0,
+    "connections": 500.0,
+    "current_company_company_id": "genpact",
+    "current_company_name": "Genpact",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "West Bengal",
+    "linkedin_id": "bipul-makhal-bb59ba141",
+    "activity": [
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "Great financial cheat sheet by Compounding Quality",
+            "img": "",
+            "id": "7084833772860235776"
+        },
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "Hearty congratulations to Dr. Thalappil Pradeep, Deepak Parekh Chair Professor, Department of Chemistry #IITMadras for being conferred with the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6863804664001925121"
+        },
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "The 2021 IIT selection test results are finally out. This batch had a lot of challenges with Covid, campus shutdown, delayed tests etc. I am super\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6857005878416166912"
+        },
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "Successfully completed 2nd vaccination Drive for all our Employees at MSFL Mumbai",
+            "img": "",
+            "id": "6840992764117757952"
+        },
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "A bit, late update: My #phd thesis (which I defended in 2020 July), was recently awarded the #ibm Best PhD Thesis Award 2021. I thank my supervisor\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6823615771491618816"
+        },
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "#IITMadras alumni start-up DeTect Technologies' real-time pipeline monitoring system that tracks leaks and corrosion using sensors and Artificial\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6821294643351703552"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Bipul Makhal",
+            "img": "",
+            "id": "6789359428425650176"
+        },
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "Thanks for the recognition Dare2Compete! Elated to receive this honour!",
+            "img": "",
+            "id": "6786290055888666625"
+        },
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "After a gruelling month of intense competition, the most awaited results are here. The final leaderboard is here!! Congratulations to all the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6782752294715961344"
+        },
+        {
+            "interaction": "Liked by Bipul Makhal",
+            "link": "",
+            "title": "IIT Madras has recently established a Chair in the name of Prof. P. C. Varghese, acknowledging his contributions as a teacher and researcher, in the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6776439378957873152"
+        }
+    ],
+    "linkedin_num_id": 578781497.0,
+    "honors_and_awards": [
+        {
+            "title": "InterIIT'19 BRONZE medalist (+77kg weightlifting)",
+            "publication": "Indian Institute of Technology",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

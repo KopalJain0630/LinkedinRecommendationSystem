@@ -1,0 +1,115 @@
+{
+    "city": "London, England, United Kingdom",
+    "position": "Ex-KPMG | ACCA | Auditor",
+    "experience": [
+        {
+            "title": "Audit Assistant",
+            "location": "London Area, United Kingdom",
+            "description_html": null,
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "PKF International",
+            "company_id": "pkf-international-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Consultant",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jan 2022 Aug 2023 1 year 8 months",
+            "start_date": "Jan 2022",
+            "end_date": "Aug 2023",
+            "duration_short": "1 year 8 months",
+            "company": "KPMG Global Services (KGS)",
+            "company_id": "kpmgindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Outbooks UK",
+            "location": "India",
+            "description_html": null,
+            "duration": "1 year 1 month",
+            "positions": [
+                {
+                    "subtitle": "Outbooks UK",
+                    "meta": "Oct 2021 - Jan 2022 4 months",
+                    "duration": "Oct 2021 Jan 2022 4 months",
+                    "start_date": "Oct 2021",
+                    "end_date": "Jan 2022",
+                    "duration_short": "4 months",
+                    "title": "Senior Executive",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Outbooks UK",
+                    "meta": "Jan 2021 - Sep 2021 9 months",
+                    "duration": "Jan 2021 Sep 2021 9 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "Sep 2021",
+                    "duration_short": "9 months",
+                    "title": "Account Executive",
+                    "description_html": null
+                }
+            ],
+            "company": "Outbooks UK",
+            "company_id": "outbooks",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "ACCA",
+            "degree": "ACCA",
+            "field": "Accounting and Finance",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Excel for Accounting"
+        },
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Excel: Advanced Formatting Techniques"
+        },
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Word: Formatting and Styles in Depth (365/2019)"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Financial Accounting Foundations"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Strategic Planning Foundations"
+        },
+        {
+            "meta": "Issued Apr 2020",
+            "subtitle": "Grant Thornton LLP",
+            "title": "Audit Virtual Experience "
+        }
+    ],
+    "current_company_name": "PKF International",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

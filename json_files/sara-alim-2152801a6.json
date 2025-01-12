@@ -1,0 +1,309 @@
+{
+    "id": "sara-alim-2152801a6",
+    "name": "Sara Alim",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "Assoc MLE @ ServiceNow | Ex- Adobe, Zomato | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "ServiceNow",
+        "company_id": "servicenow",
+        "title": "Assoc MLE @ ServiceNow | Ex- Adobe, Zomato | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Associate Machine Learning Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "ServiceNow",
+            "company_id": "servicenow",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Reduced computation costs during the inference of the text-to-image diffusion model through caching with a vector database.",
+            "description_html": "Reduced computation costs during the inference of the text-to-image diffusion model through caching with a vector database. <!---->",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "Adobe",
+            "company_id": "adobe",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "description": "Worked on the chatbot that recommends movies according to user interests.",
+            "description_html": "Worked on the chatbot that recommends movies according to user interests. <!---->",
+            "duration": "Jan 2023 Apr 2023 4 months",
+            "start_date": "Jan 2023",
+            "end_date": "Apr 2023",
+            "duration_short": "4 months",
+            "company": "RecoBee",
+            "company_id": "recobee",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "Ensured parity and customer benefit by comparing the price of combo deals and of the same items present individually in each restaurantIncreased image acceptance through the revamping of displayed images via masking and segmenting out food portions",
+            "description_html": "Ensured parity and customer benefit by comparing the price of combo deals and of the same items present individually in each restaurantIncreased image acceptance through the revamping of displayed images via masking and segmenting out food portions <!---->",
+            "duration": "Apr 2022 Jul 2022 4 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "4 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Dec 2021 Mar 2022 4 months",
+            "start_date": "Dec 2021",
+            "end_date": "Mar 2022",
+            "duration_short": "4 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "IIM Bangalore",
+            "description": "Leveraged Selenium for streamlined table scraping and efficient PDF downloads from the Indian Environment Ministry website",
+            "description_html": "Leveraged Selenium for streamlined table scraping and efficient PDF downloads from the Indian Environment Ministry website <!---->",
+            "duration": "Dec 2021 Dec 2021 1 month",
+            "start_date": "Dec 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "1 month",
+            "company": "Indian Institute of Management Bangalore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analytics Intern",
+            "location": "Lucknow, Uttar Pradesh, India",
+            "description": "Researched use cases of machine learning in the discrete manufacturing industry, identified process areas with high defect rates, and addressed the discrepancy using machine learning techniques.",
+            "description_html": "Researched use cases of machine learning in the discrete manufacturing industry, identified process areas with high defect rates, and addressed the discrepancy using machine learning techniques. <!---->",
+            "duration": "Jul 2021 Sep 2021 3 months",
+            "start_date": "Jul 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "3 months",
+            "company": "Hornbill Labs",
+            "company_id": "hornbilllabs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Developed an algorithm to keep count of the number of people heading \"in\" or \"out\" of a department store in real-time to ensure security",
+            "description_html": "Developed an algorithm to keep count of the number of people heading \"in\" or \"out\" of a department store in real-time to ensure security <!---->",
+            "duration": "May 2021 Aug 2021 4 months",
+            "start_date": "May 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "4 months",
+            "company": "LTI - Larsen & Toubro Infotech",
+            "company_id": "l&t-infotech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "IIT Kharagpur",
+            "description": "Integrated an NLP-based mental health chatbot in an app for Cognitive Behavioral Therapy with Dialogflow to combat depression",
+            "description_html": "Integrated an NLP-based mental health chatbot in an app for Cognitive Behavioral Therapy with Dialogflow to combat depression <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Aug 2019 Jun 2021 1 year 11 months",
+            "start_date": "Aug 2019",
+            "end_date": "Jun 2021",
+            "duration_short": "1 year 11 months",
+            "company": "Technology Adventure Society (TAdS) IIT Kharagpur",
+            "company_id": "technology-adventure-society-tads-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Duhita Wani",
+            "about": "Building CareDale | IIT Kharagpur '23",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishansha Abusaria",
+            "about": "IIT BHU Varanasi",
+            "location": "Rajasthan, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Verma",
+            "about": "Graduate Researcher @ ARPL | Robotics and Computer Vision",
+            "location": "Brooklyn, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash kumar singh",
+            "about": "Building the next generation Earth Observation systems",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Bankar",
+            "about": null,
+            "location": "West Lafayette, IN"
+        },
+        {
+            "profile_link": "",
+            "name": "Guddu Singh",
+            "about": "SDE @ Amazon| CM @ Codeforces | 6⭐ @ Codechef | 2650+ @ Leetcode | IIT Roorkee'22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Sharma",
+            "about": "MS CS at University of Wisconsin-Madison | ex-Wadhwani AI | IIT Roorkee Gold Medalist",
+            "location": "Madison, WI"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivanjay Raj Lavaniya",
+            "about": "Grade A Officer @ IOCL||Ex-HPCL ||AIR-93 GATE ME NIT SURAT’22",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyam Garg",
+            "about": "PhD Student in NeuroAI @IISc, Bengaluru | AIR-10 in JEST Theoretical Computer Science 2024 | Former BTSA @ZS Associates | Deep Learning | Flutter",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rushikesh Pachghare",
+            "about": "--",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Kailash Choudhary",
+            "about": "PhD@Purdue, BTech@IIT Indore",
+            "location": "Lafayette, IN"
+        },
+        {
+            "profile_link": "",
+            "name": "Adarsh Singh",
+            "about": "DC Analyst @Deloitte NIT JSR'23",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Jeewangini Manjkhola",
+            "about": "SE @Cisco | Student @BITS Pilani",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruv Bansal",
+            "about": "Application Developer @ Deloitte USI | Ex-SDE Intern @ Accolite Digital | NITJSR",
+            "location": "Agra"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Sarda",
+            "about": "Associate at Goldman Sachs • IIT Indore",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Balaji Sivakumar",
+            "about": "SOFTWARE TRAINEE",
+            "location": "Coimbatore"
+        },
+        {
+            "profile_link": "",
+            "name": "Mihul Bansal",
+            "about": "Senior Engineer at Larsen & Toubro",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishal Pandey",
+            "about": "Geophysicist (S) at ONGC: A Maharatna Central Public Sector Enterprise (CPSE) of the Government of India under the administrative control of Ministry of Petroleum & Natural Gas || Member of SEG DL Committee, HO, USA",
+            "location": "Varanasi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sujay Donkar",
+            "about": "Treasurer at Society of Automotive Engineers (VIT, Vellore)",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Rijuta Singh",
+            "about": "ITC Ltd | HONDA Y-E-S Awardee | GSoC'21 @ Oppia |IIT Roorkee",
+            "location": "Sahibzada Ajit Singh Nagar"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech+M.Tech)",
+            "field": "Mechanical Engineering | specialization in Financial Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "Activities and Societies: NSS member",
+            "description_html": "Activities and Societies: NSS member",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1339.0,
+    "connections": 500.0,
+    "current_company_company_id": "servicenow",
+    "current_company_name": "ServiceNow",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Hyderabad",
+    "linkedin_id": "sara-alim-2152801a6",
+    "activity": null,
+    "linkedin_num_id": 806879537.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

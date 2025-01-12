@@ -1,0 +1,103 @@
+{
+    "city": "San Jose, California, United States",
+    "position": "Actively seeking full time opportunities starting June 2025/ co-op opportunities | MS CS @UMass Amherst | Fractal AI | Lear Corporation | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "AI Engineer Intern",
+            "description_html": null,
+            "duration": "Jun 2024 Aug 2024 3 months",
+            "start_date": "Jun 2024",
+            "end_date": "Aug 2024",
+            "duration_short": "3 months",
+            "company": "Docket Inc",
+            "company_id": "docket-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist(Imagineer)",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2021 Jul 2023 2 years 1 month",
+            "start_date": "Jul 2021",
+            "end_date": "Jul 2023",
+            "duration_short": "2 years 1 month",
+            "company": "Fractal",
+            "company_id": "fractal-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Pune, Maharashtra",
+            "description_html": null,
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Lear Corporation",
+            "company_id": "lear-corporation",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "University of Massachusetts Amherst",
+            "degree": "Master of Science - MS",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": "Courses Fall 2023 589 - Machine Learning 682 - Introduction to Neural Networks 532 - Systems for Data Science Courses Spring 2024 685 - Advanced NLP 602 - Business Intelligence and Analytics 574 - Intelligent Visual Computing Courses Fall 2024 646 - Information Retrieval 687 - Reinforcement learning 514 - Algorithms for Data Science",
+            "description_html": "Courses Fall 2023 589 - Machine Learning682 - Introduction to Neural Networks532 - Systems for Data ScienceCourses Spring 2024685 - Advanced NLP602 - Business Intelligence and Analytics574 - Intelligent Visual ComputingCourses Fall 2024646 - Information Retrieval687 - Reinforcement learning514 - Algorithms for Data Science <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BE - Bachelor of Engineering",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: • General Secretary of Mekanika, official student body of the Mechanical Engineering department • Socio-Cultural Secretary at Mother Teresa Hall of residence • Member of Ad-Design and Vice captain of Prod-Design team • Part of Illumination team, Mother Teresa hall of residence • Active member of women's Volleyball team administered by National Sports Organization, IIT Kharagpur",
+            "description_html": "Activities and Societies: • General Secretary of Mekanika, official student body of the Mechanical Engineering department • Socio-Cultural Secretary at Mother Teresa Hall of residence • Member of Ad-Design and Vice captain of Prod-Design team • Part of Illumination team, Mother Teresa hall of residence • Active member of women's Volleyball team administered by National Sports Organization, IIT Kharagpur",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2023",
+            "subtitle": "Fractal",
+            "title": "SQL developer"
+        },
+        {
+            "meta": "Issued Aug 2021",
+            "subtitle": "Fractal",
+            "title": "Fractal certified Data Scientist"
+        },
+        {
+            "meta": "Issued Dec 2018",
+            "subtitle": "IEEE Student Branch, IIT Kharagpur",
+            "title": "Image Processing"
+        },
+        {
+            "meta": "Issued Dec 2018",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        }
+    ],
+    "current_company_name": "Docket Inc",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Real time tag recommendation system on Stack Overflow data\",\"start_date\":\"Oct 2023\",\"end_date\":\"Nov 2023\",\"description\":\"Developed this as a part of course project where we predicted the tags for Questions and answers dataset of Stack Overflow data which is of 5GB size. Set up the entire Azure environment to host the recommendation system. Created a separate SQL database to store the dataset and for training purposes in Azure environment. Designed the recommendation system in Pyspark using SparkNLP library and created an API out of it to host it in the Azure environment. Made use of the Stackoverflow API to read the data real time and predict the tag for real time queries. Achieved an overall accuracy of 88%. On the entire recommendation system, we also tried to study system based parameters such as runtime changing the threads and more. Recognised as one of the best projects in a class of 100+ people.\"},{\"title\":\"Text augmentation using LLMs\",\"start_date\":\"Oct 2023\",\"end_date\":\"Nov 2023\",\"description\":\"This project was taken up as a part of a course project 682 where we got to understand about Large Language models and key concepts of Natural Language Processing. It is quite common that classification and sentiment based models perform poorly when there is a huge imbalance in the dataset. There exist traditional methods of augmenting using library functions but they may not always necessarily lead the model to learn new features. It was also clear when we compared the augmented texts using traditional library methods, ChatGPT and other LLMs. It was observed that library methods do not produce much diverse augmented text and ChatGPT has done the best of all. Augmentation metrics such as cosine similarity were used to compare the augmentation results. It was observed that the models that used ChatGPT for classification and sentiment analysis tasks performed by at least 10 percent in accuracy.\"},{\"title\":\"Load Runner\",\"start_date\":\"Apr 2023\",\"end_date\":\"Jun 2023\",\"description\":\"Built the optimum shipment using Operations Research optimization algorithms which reduced the trucks used by 20%. Given the list of orders, we built the optimum shipment owing to maximum weight and maximum volume constraints of a given truck. Determined the stacking order owing to stacking weight, stacking index and space dynamics. Visualized the stacking and the list of items in each truck in PowerBI. Achieved overall 10 percent increase in Volume Fill Rate in the trucks compared to default STO order in the warehouse. Nominated for Kaizen star award and attracted more clients using this project.\"},{\"title\":\"Command Center\",\"start_date\":\"May 2022\",\"end_date\":\"Feb 2023\",\"description\":\"Took roles of SQL developer and SME in a cross-functional team of 35+ members to develop and deliver key features. Amended SQL queries to extract data from 6 databases using SSMS and helped in development of features in DevOps. Solely led the automation module which comprised of frontend, backend and testing team. Acted as SME for this automation module which automates the process of giving config inputs for different sites.\"},{\"title\":\"Regeneron Hackathon\",\"start_date\":\"Nov 2021\",\"end_date\":\"Jan 2022\",\"description\":\"Developed an analytics framework that helps to predict the next best patient type for first line usage in wAMD. Given data on patient purchase and medical history of more than 1 million data points, performed patient profiling alongside the analytics framework to predict the next best patient type. Preprocessed the data, synthesized new features and used this to train the model. Pyspark was used to train the model and achieved an accuracy of 87% when used LightGBM model. Implemented shaply analysis on the model to understand the key features affecting the model behavior.\"},{\"title\":\"Crop Classification on Sentinel-2 data\",\"start_date\":\"Jan 2021\",\"end_date\":\"Apr 2021\",\"description\":\"The increasing spatial demand and temporal resolution of satellite data has opened doors to the possibility of creating fine algorithms to predict patterns. In this project, Random Forest and TWDTW methods were implemented at both pixel and field level to observe crop patterns. Started off with understanding the images using different band data to get details such as presence of water, cloud density, vegetation cover and its health. Derived Normalised Difference Vegetative Index at pixel level which is used in further downstream tasks. Segmented the data using Multi Spectral Resolution algorithm and compared the model performances at both pixel and object level data. Observed that model has better accuracy when done at object level than at pixel level by at least 10 percent. TWDTW algorithm performed better than any machine learning algorithm by at least 5 percent.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Lear Spotlight Award",
+            "publication": "Lear Corporation",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "Honored with Lear Spotlight Award which was awarded to summer interns who had been performing great during the summer of 2020. As a part of the internship, I was mainly responsible for designing the batter cooling subsystem for an electric vehicle."
+        }
+    ]
+}

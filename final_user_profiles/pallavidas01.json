@@ -1,0 +1,275 @@
+{
+    "id": "pallavidas01",
+    "name": "Pallavi Das",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Morgan Stanley | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Morgan Stanley",
+        "company_id": "morgan-stanley",
+        "title": "Morgan Stanley | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Associate",
+            "location": "Mumbai Metropolitan Region",
+            "description_html": null,
+            "duration": "Mar 2024 - Present 10 months",
+            "start_date": "Mar 2024",
+            "end_date": "Present",
+            "duration_short": "10 months",
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Manager",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Sep 2022 Feb 2024 1 year 6 months",
+            "start_date": "Sep 2022",
+            "end_date": "Feb 2024",
+            "duration_short": "1 year 6 months",
+            "company": "Drip Capital",
+            "company_id": "dripcapital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Mumbai, Maharashtra",
+            "description_html": null,
+            "duration": "Mar 2020 Aug 2022 2 years 6 months",
+            "start_date": "Mar 2020",
+            "end_date": "Aug 2022",
+            "duration_short": "2 years 6 months",
+            "company": "Credit Suisse",
+            "company_id": "credit-suisse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Bengaluru Area, India",
+            "description_html": null,
+            "duration": "Jul 2019 Feb 2020 8 months",
+            "start_date": "Jul 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "8 months",
+            "company": "Accenture AI",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Students' Alumni Cell, Office of Alumni Affairs and International Relations, IIT Kharagpur",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "3 years 9 months",
+            "positions": [
+                {
+                    "subtitle": "Students' Alumni Cell, Office of Alumni Affairs and International Relations, IIT Kharagpur",
+                    "meta": "May 2017 - Apr 2019 2 years",
+                    "duration": "May 2017 Apr 2019 2 years",
+                    "start_date": "May 2017",
+                    "end_date": "Apr 2019",
+                    "duration_short": "2 years",
+                    "title": "Advisor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Students' Alumni Cell, Office of Alumni Affairs and International Relations, IIT Kharagpur",
+                    "meta": "Apr 2016 - Apr 2017 1 year 1 month",
+                    "duration": "Apr 2016 Apr 2017 1 year 1 month",
+                    "start_date": "Apr 2016",
+                    "end_date": "Apr 2017",
+                    "duration_short": "1 year 1 month",
+                    "title": "Coordinator",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Students' Alumni Cell, Office of Alumni Affairs and International Relations, IIT Kharagpur",
+                    "meta": "Aug 2015 - Apr 2016 9 months",
+                    "duration": "Aug 2015 Apr 2016 9 months",
+                    "start_date": "Aug 2015",
+                    "end_date": "Apr 2016",
+                    "duration_short": "9 months",
+                    "title": "Student Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Students' Alumni Cell, Office of Alumni Affairs and International Relations, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Actor",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Aug 2014 Apr 2019 4 years 9 months",
+            "start_date": "Aug 2014",
+            "end_date": "Apr 2019",
+            "duration_short": "4 years 9 months",
+            "company": "Technology Dramatics Society - Druheen",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Bengaluru Area, India",
+            "description_html": null,
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Ola (ANI Technologies Pvt. Ltd)",
+            "company_id": "olacabs-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "Motilal Oswal Financial Services Ltd",
+            "company_id": "motilal-oswal-financial-services-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "description_html": null,
+            "duration": "May 2016 Jun 2016 2 months",
+            "start_date": "May 2016",
+            "end_date": "Jun 2016",
+            "duration_short": "2 months",
+            "company": "EY",
+            "company_id": "ernstandyoung",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Karishma Ghundiyal",
+            "about": "CA and CFA Level 3 candidate | Fitness Enthusiast | On a mission to make the world healthy and happy",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Susmita Shyamal",
+            "about": "Incoming @ Kearney | IIM Calcutta'24 | Ex-Citi | IIT Kharagpur'20",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Garima Bharti",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Raunak Mehta",
+            "about": "Qure.ai | IIM Mumbai | IIT Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sukriti Bansal",
+            "about": "Equity Research at Bank of America Merrill Lynch",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Jindal",
+            "about": "Associate CCB Risk In J P Morgan chase ) || IIT- Roorkee",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "PRIYANSU PRATIK",
+            "about": "State Bank Of India ||Ex-IDFC First Bank || Ex- HDFC Bank || Ex- Accenture",
+            "location": "North Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "PUNIT DUGAR",
+            "about": "Analyst at EY. FRM( CHARTER PENDING ).",
+            "location": "West Bengal, India"
+        },
+        {
+            "profile_link": "",
+            "name": "JAYANT PANSARE",
+            "about": "Index Manager at S&P Global",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankita Sarna",
+            "about": "Equity Research Associate at Goldman Sachs",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated M.Sc.",
+            "field": "Mathematics and Computing",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": "Activities and Societies: Students' Alumni Cell, Technology Dramatics Society - Druheen",
+            "description_html": "Activities and Societies: Students' Alumni Cell, Technology Dramatics Society - Druheen",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School - Ruby Park, Kolkata",
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "M. P. Birla Foundation H.S. School",
+            "start_year": "2000",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2844.0,
+    "connections": 500.0,
+    "current_company_company_id": "morgan-stanley",
+    "current_company_name": "Morgan Stanley",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "pallavidas01",
+    "activity": null,
+    "linkedin_num_id": 396658973.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

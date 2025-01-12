@@ -1,0 +1,428 @@
+{
+    "id": "siddharth-mehndiratta-aa519818",
+    "name": "Siddharth Mehndiratta",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Product Manager at PhonePe",
+    "about": null,
+    "posts": [
+        {
+            "title": "Lessons I learned from my first job",
+            "img": "",
+            "link": "",
+            "created_at": "2015-12-06T00:00:00.000Z",
+            "interaction": null,
+            "id": "mehndiratta"
+        },
+        {
+            "title": "Four myths about life I never realized were false before I turned twenty",
+            "img": "",
+            "link": "",
+            "created_at": "2015-12-05T00:00:00.000Z",
+            "interaction": null,
+            "id": "mehndiratta"
+        }
+    ],
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "PhonePe",
+        "company_id": "phonepe-internet",
+        "title": "Product Manager at PhonePe"
+    },
+    "experience": [
+        {
+            "title": "Product Manager",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description_html": null,
+            "duration": "Oct 2021 - Present 3 years 3 months",
+            "start_date": "Oct 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 3 months",
+            "company": "PhonePe",
+            "company_id": "phonepe-internet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "INDmoney",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "2 years 8 months",
+            "positions": [
+                {
+                    "subtitle": "INDmoney",
+                    "meta": "Sep 2019 - Sep 2021 2 years 1 month",
+                    "duration": "Sep 2019 Sep 2021 2 years 1 month",
+                    "start_date": "Sep 2019",
+                    "end_date": "Sep 2021",
+                    "duration_short": "2 years 1 month",
+                    "title": "Senior Product Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "INDmoney.com",
+                    "meta": "Feb 2019 - Aug 2019 7 months",
+                    "duration": "Feb 2019 Aug 2019 7 months",
+                    "start_date": "Feb 2019",
+                    "end_date": "Aug 2019",
+                    "duration_short": "7 months",
+                    "title": "Product Manager",
+                    "description_html": null
+                }
+            ],
+            "company": "INDmoney",
+            "company_id": "indmoney",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product Manager",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Jul 2018 Feb 2019 8 months",
+            "start_date": "Jul 2018",
+            "end_date": "Feb 2019",
+            "duration_short": "8 months",
+            "company": "Kraftshala",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Manager - EMI Cards",
+            "location": "Pune, Maharashtra, India",
+            "description": "• Drove product efforts for digitization of No Cost EMI Cards from inception to go-live and subsequent feature updates• Reduced card delivery TAT from around 30 days to 2 minutes, which improved early activations and NPS by a substantial percentage• Worked with cross-functional teams including engineering, design, marketing, risk, legal, finance et al • Dove deep into customer activation and retention data to improve the metrics through product improvements• Prepared product roadmaps, user stories, and PRDs to ensure smooth product development and delivery• Identified, prototyped and viability-tested app features based on customer behavior data",
+            "description_html": "• Drove product efforts for digitization of No Cost EMI Cards from inception to go-live and subsequent feature updates• Reduced card delivery TAT from around 30 days to 2 minutes, which improved early activations and NPS by a substantial percentage• Worked with cross-functional teams including engineering, design, marketing, risk, legal, finance et al • Dove deep into customer activation and retention data to improve the metrics through product improvements• Prepared product roadmaps, user stories, and PRDs to ensure smooth product development and delivery• Identified, prototyped and viability-tested app features based on customer behavior data",
+            "duration": "May 2017 Jul 2018 1 year 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2018",
+            "duration_short": "1 year 3 months",
+            "company": "Bajaj Finserv",
+            "company_id": "bajaj-finserv-lending",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Gurgaon, India",
+            "description": "• Performed in-depth analysis of G Suite market landscape in tier II cities in India• Performed market sizing activities along with identification of potential markets• Devised a Go-to-Market strategy to tap the untapped potential of G Suite• Identified potential key accounts and partners to drive growth in tier II cities • Initiated partnership and business association conversations with potential partners and clients",
+            "description_html": "• Performed in-depth analysis of G Suite market landscape in tier II cities in India• Performed market sizing activities along with identification of potential markets• Devised a Go-to-Market strategy to tap the untapped potential of G Suite• Identified potential key accounts and partners to drive growth in tier II cities • Initiated partnership and business association conversations with potential partners and clients  <!---->",
+            "duration": "Apr 2016 Jun 2016 3 months",
+            "start_date": "Apr 2016",
+            "end_date": "Jun 2016",
+            "duration_short": "3 months",
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Warehouse Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Worked on Business Intelligence tools such as Informatica Power Center 9.1 and SAP Business Objects• Worked on enhancements and development of ETL mappings to transform raw data from multiple sources into meaningful insights• Worked on creating Business Objects front-end analytical reports• Experience in working with Business Analysts to understand the business requirements and   translate them into ETL code",
+            "description_html": "• Worked on Business Intelligence tools such as Informatica Power Center 9.1 and SAP Business Objects• Worked on enhancements and development of ETL mappings to transform raw data from multiple sources into meaningful insights• Worked on creating Business Objects front-end analytical reports• Experience in working with Business Analysts to understand the business requirements and translate them into ETL code <!---->",
+            "duration": "Feb 2014 Jun 2015 1 year 5 months",
+            "start_date": "Feb 2014",
+            "end_date": "Jun 2015",
+            "duration_short": "1 year 5 months",
+            "company": "Tata Consultancy Services",
+            "company_id": "tata-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sandeep Bilwal",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivani Lochab",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Manish Saraf",
+            "about": "Product@Walmart | Ex Ola, Bounce, Mu Sigma | Mentor | NIT-D",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Arora",
+            "about": "Sr. Manager, American Express || FMS Delhi || IIT Mandi",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Ronak Poddar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Yoshita Bardhan",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Hada",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ferzaad Mohammed",
+            "about": null,
+            "location": "Trivandrum"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinav Kumar",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sreeram Ramamoorthy",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Pandey",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kaushal Ghai",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Datwani",
+            "about": null,
+            "location": "Dublin, OH"
+        },
+        {
+            "profile_link": "",
+            "name": "Jitendra Solanki",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilesh Mishra",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Anurag Verma",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gourav Soni",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shiva Mehta",
+            "about": "Building the Future of Rewards | Omnichannel Payment Solutions & Loyalty Programs Expert | Specialist in Credit Cards, Lending, BNPL, and Loyalty Networks | SPJIMR Gold Medalist",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhineet Sinha (he/him)",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Pancholi",
+            "about": null,
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Management Rohtak",
+    "education": [
+        {
+            "title": "Indian Institute of Management Rohtak",
+            "degree": "Master of Business Administration (M.B.A.)",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": "Activities and Societies: President, Public Relations Cell • Led the 21-member strong team of Public Relations Cell of the institute • Developed editorial content including official press releases of IIM Rohtak • Maintained existing and forged new relationships with media houses • Was responsible for ensuring electronic and print media coverage about IIM Rohtak • Devised strategies for brand building of IIM Rohtak on digital platforms • Managed aspirant relations for the admissions process 2016 • Regularly collaborated with college… Show more",
+            "description_html": "Activities and Societies: President, Public Relations Cell",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Seth Jai Parkash Mukand Lal Inst. of Engineering & Technology",
+            "degree": "Engineer’s Degree",
+            "field": "Electronics and Communication Engineering",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2016Credential ID XBZHENJQKLQJSee credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Marketing in a Digital World"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4661.0,
+    "connections": 500.0,
+    "current_company_company_id": "phonepe-internet",
+    "current_company_name": "PhonePe",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "siddharth-mehndiratta-aa519818",
+    "activity": [
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "What people see: Gukesh winning 10 Cr prize money, becoming a WC at 18 What people don't see: father giving up his career, travelling everywhere…",
+            "img": "",
+            "id": "10"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "99.99% founders these days - --------------- post created using SuperPen",
+            "img": "",
+            "id": "7268528031751639040"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "Meet this social media influencer with 56 Lakh followers who couldn’t collect 560 votes! Despite being an actor, Big Boss contestant, and…",
+            "img": "",
+            "id": "7266061872083214336"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "I am really thinking about unfollowing anyone and everyone writing posts on Zomato's drama every single day. I am hoping that you are at least…",
+            "img": "",
+            "id": "7265998556220538880"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "What is the one parameter that helps you identify your worth? Tell me in the comments. #rajshamani #figuringout",
+            "img": "",
+            "id": "7265976297204404224"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "VA TECH WABAG LTD. has been ranked as the 𝟯𝗿𝗱 𝗹𝗮𝗿𝗴𝗲𝘀𝘁 𝗗𝗲𝘀𝗮𝗹𝗶𝗻𝗮𝘁𝗶𝗼𝗻 𝗣𝗹𝗮𝗻𝘁 𝗦𝘂𝗽𝗽𝗹𝗶𝗲𝗿 𝗴𝗹𝗼𝗯𝗮𝗹𝗹𝘆 by Global Water…",
+            "img": "",
+            "id": "7265332655888494594"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "Say what you will about older businesses being stuck in their thought patterns, but at least they are steel. These new-age founders are more talk.…",
+            "img": "",
+            "id": "7264905912610377728"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "Honored to be part of the ET EnergyWorld Smart Energy Summit 2024 as a speaker! 🌟 A big thank you to Azure Power for giving me the platform and…",
+            "img": "",
+            "id": "7264545282699272193"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "What motivated me to start Maven? Honestly? In part, it was being pissed off at MBA programs, how much they charge and how little value they offer……",
+            "img": "",
+            "id": "7264274182174085121"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "INDWealth, the \"super money app,\" clocked $8 million in revenue with an equal $8 million in losses. Meanwhile, Sharan Hegde's 1% Club pulled in…",
+            "img": "",
+            "id": "7264184028021293056"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "🔻🔻 Mamaearth parent Honasa slips 22% after results, now below IPO price. I guess this is what happens when a founder admits to analysts that…",
+            "img": "",
+            "id": "7264130588599562240"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "My wife has to pull me away from people since I get on my soapbox and talk incessantly about this..",
+            "img": "",
+            "id": "7262258619121876993"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "#MarketsWithMC | Dixon Tech and Nokia tap into India's hunger for data, plan to make fixed broadband devices 🛜📶📱 Stay updated on…",
+            "img": "",
+            "id": "7260642506814488576"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "Wrote up a quick essay about the death of Product Management. To anyone starting your career in 2025 — don’t chase Product Management. Or at the…",
+            "img": "",
+            "id": "7259833063977742337"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "We believe India's earnings growth is increasingly driven by stable, non-cyclical sectors like infrastructure and utilities, rather than other…",
+            "img": "",
+            "id": "7259641240621600769"
+        },
+        {
+            "interaction": "Liked by Siddharth Mehndiratta",
+            "link": "",
+            "title": "🌟 Thrilled to Welcome Aklesh Padhy to the o9 Solutions, Inc. Team! 🌟 Excited to have Aklesh Padhy join us as a Senior Product Manager! With a…",
+            "img": "",
+            "id": "7259437541068582912"
+        }
+    ],
+    "linkedin_num_id": 60170525.0,
+    "honors_and_awards": [
+        {
+            "title": "Top Writer",
+            "publication": "Quora",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "Was awarded the Top Writer '18 title by Quora for contributions over 2017-18."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

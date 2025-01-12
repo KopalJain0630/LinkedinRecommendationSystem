@@ -1,0 +1,73 @@
+{
+    "city": "Boston, Massachusetts, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Harvard Business School",
+            "url": "",
+            "start_year": "2023-08",
+            "end_year": "2025-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2007",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Completed a course on \\\"Entrepreneurship, Innovation and Sustainability\\\" from The University of Wisconsin, Eau Claire\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jun 2017",
+            "subtitle": "National Institute of Securities Markets",
+            "title": "NISM- Series V-A: Mutual Fund Distributors Certification Examination "
+        },
+        {
+            "meta": "Issued Mar 2016",
+            "subtitle": "National Stock Exchange of India Limited",
+            "title": "NSE Academy's Certified Derivatives Pro Certificate and cleared NCMP level 2"
+        }
+    ],
+    "current_company_name": "India Conference at Harvard",
+    "publications": "[{\"title\":\"Research Article: To Be or Not to Be\",\"subtitle\":\"Strides: A Student's Journal of SRCC | Vol 1| Issue 1\",\"date\":\"Apr 2017\",\"description\":\"The foundation issue of the Journal is successfully released on 91st Annual Day held on 13th April 2017 by Shri Prakash Javadekar, Honb'le Minister of Human Resource Development, Government of India.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Alternate Investments 2020\",\"start_date\":\"Jun 2017\",\"end_date\":\"Aug 2017\"},{\"title\":\"Role of Financial Technology in Mutual Funds\",\"start_date\":\"Jun 2017\",\"end_date\":\"Aug 2017\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Academic Excellence Award",
+            "publication": "SRCC",
+            "date": "2017-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Principal Madan Mohan Medal for most active participation in extra-curricular activities",
+            "publication": "SRCC",
+            "date": "2017-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Award for Academic Excellence",
+            "publication": "Notre Dame Academy",
+            "date": "2015-06-01T00:00:00.000Z",
+            "description": "Received the award for academic excellence for 11 consecutive years"
+        },
+        {
+            "title": "School Blues: Student Of the Year",
+            "publication": "Notre Dame Academy",
+            "date": "2013-05-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

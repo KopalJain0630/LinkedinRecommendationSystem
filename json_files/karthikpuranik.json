@@ -1,0 +1,439 @@
+{
+    "id": "karthikpuranik",
+    "name": "Karthik Puranik",
+    "city": "Tiruchirappalli, Tamil Nadu, India",
+    "country_code": "IN",
+    "position": "Senior Data Scientist at Great Learning | IIIT Trichy '22",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Great Learning",
+        "title": "Senior Data Scientist at Great Learning | IIIT Trichy '22"
+    },
+    "experience": [
+        {
+            "title": "Great Learning",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Great Learning",
+                    "meta": "Apr 2024 - Present 9 months",
+                    "duration": "Apr 2024 - Present 9 months",
+                    "start_date": "Apr 2024",
+                    "end_date": "Present",
+                    "duration_short": "9 months",
+                    "title": "Senior Data Scientist",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Great Learning",
+                    "meta": "May 2023 - Apr 2024 1 year",
+                    "duration": "May 2023 Apr 2024 1 year",
+                    "start_date": "May 2023",
+                    "end_date": "Apr 2024",
+                    "duration_short": "1 year",
+                    "title": "Data Scientist",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Great Learning",
+                    "meta": "Feb 2022 - Apr 2023 1 year 3 months",
+                    "duration": "Feb 2022 Apr 2023 1 year 3 months",
+                    "start_date": "Feb 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "1 year 3 months",
+                    "title": "Associate Data Scientist",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Great Learning",
+                    "meta": "Nov 2021 - Feb 2022 4 months",
+                    "duration": "Nov 2021 Feb 2022 4 months",
+                    "start_date": "Nov 2021",
+                    "end_date": "Feb 2022",
+                    "duration_short": "4 months",
+                    "title": "Data Science Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Great Learning",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Intern",
+            "description": "• Research and development of Topological Relations between Spatial Objects under Dr. Sukhada.• Improved the translations produced by Language Communicator, a translation tool by IIT BHU using masked language models (MLM) in transformers like BERT and t5.• Worked on a research paper in Spatial topological relations in Hindi by analyzing responses from various native and non-native speakers.",
+            "description_html": "• Research and development of Topological Relations between Spatial Objects under Dr. Sukhada.• Improved the translations produced by Language Communicator, a translation tool by IIT BHU using masked language models (MLM) in transformers like BERT and t5.• Worked on a research paper in Spatial topological relations in Hindi by analyzing responses from various native and non-native speakers. <!---->",
+            "duration": "Dec 2020 Dec 2021 1 year 1 month",
+            "start_date": "Dec 2020",
+            "end_date": "Dec 2021",
+            "duration_short": "1 year 1 month",
+            "company": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "description": "• Worked on Machine Translation for Indian languages to produce exceptional BLEU scores.• Trained fairseq models on the Samanantar dataset after removing noise, and also worked with the SimAlign tool to produce word alignments for translation.• Worked on various multilingual pre-trained models for the same task and analyzed the scores",
+            "description_html": "• Worked on Machine Translation for Indian languages to produce exceptional BLEU scores.• Trained fairseq models on the Samanantar dataset after removing noise, and also worked with the SimAlign tool to produce word alignments for translation.• Worked on various multilingual pre-trained models for the same task and analyzed the scores <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Enago (Crimson Interactive)",
+            "company_id": "enago",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Content Writer Intern",
+            "description": "• Research and write case studies on an upcoming company in the telemedicine industry under Dr. Saurabh Kumar.• Analyzing and formulating ideas for an IoT based company to recover from the losses incurred due to COVID-19 and recording the same",
+            "description_html": "• Research and write case studies on an upcoming company in the telemedicine industry under Dr. Saurabh Kumar.• Analyzing and formulating ideas for an IoT based company to recover from the losses incurred due to COVID-19 and recording the same <!---->",
+            "duration": "Jan 2021 Feb 2021 2 months",
+            "start_date": "Jan 2021",
+            "end_date": "Feb 2021",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Management, Indore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science and Business Analytics Intern",
+            "description": "Worked on various supervised and unsupervised Machine Learning algorithms to solve real-time problems and analyse the results.",
+            "description_html": "Worked on various supervised and unsupervised Machine Learning algorithms to solve real-time problems and analyse the results. <!---->",
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Writer",
+            "description": "• Worked as a technical writer in this AI-based Transaction Behavioral Intelligence (TBI) company that provides solutions to the banking industry.• Introduced to Big Data and the real-time use of ML and AI in the industry.",
+            "description_html": "• Worked as a technical writer in this AI-based Transaction Behavioral Intelligence (TBI) company that provides solutions to the banking industry.• Introduced to Big Data and the real-time use of ML and AI in the industry. <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Goals101",
+            "company_id": "goals101",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Writer",
+            "description_html": null,
+            "duration": "Dec 2019 Feb 2020 3 months",
+            "start_date": "Dec 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "3 months",
+            "company": "Swadesi.com",
+            "company_id": "swadesi-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Writer",
+            "description_html": null,
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Mind Rank Ventures",
+            "company_id": "mrvsellsales",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Muskan Agarwal",
+            "about": null,
+            "location": "Varanasi"
+        },
+        {
+            "profile_link": "",
+            "name": "Oshin Malviya",
+            "about": "B.Tech + MBA @IIIT Gwalior. Operations. Looking for a full-time opportunity.",
+            "location": "Gwalior"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Gupta",
+            "about": "AM - Aftersales Planning at Honda Cars India Ltd | Project Management | Analytics",
+            "location": "Uttar Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush M",
+            "about": "Consultant at EY | ServiceNow",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajeet Kumar",
+            "about": "Software engineer @G2 | ADP | MNNIT",
+            "location": "Allahabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Jahnavi Gujjula",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Sourjya Ray",
+            "about": "Asian Paints | IIM Udaipur | NIT Durgapur | Writer",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Singh",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Raushan kumar",
+            "about": "Digital specialist engineer at infosys",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreya Gupta",
+            "about": "Data Scientist | Google Venkat Panchapakesan Memorial Scholar 2022 | Google Cloud Certified Associate Cloud Engineer",
+            "location": "Rajasthan, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Misba Shaikh",
+            "about": null,
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubh Rastogi",
+            "about": "Technology Analyst @Fiserv | VIT-Bhopal",
+            "location": "Gonda"
+        },
+        {
+            "profile_link": "",
+            "name": "Manpinder Singh",
+            "about": "Machine Learning Engineer @ Advenio TecnoSys",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Jaymit Surve",
+            "about": "PhD Candidate at The Institute of Optics, University of Rochester",
+            "location": "Rochester, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohan Reddy Pallavula",
+            "about": "AI Engineer at Matdun Labs",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Avni Jain",
+            "about": "Software Engineer at Togopool",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Meenakshi Saji",
+            "about": "IIMB '25 | AFBP Finance Intern ‘24 @ Amazon (PPO) | CAT '22 99.97 | ex-HSBC",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Atharva Pagare",
+            "about": "SPJIMR, PGDM 2023-2025 | Placement Coordinator | National Semi-Finalist, PwC US Challenge 5.0 | Events, OJAS XVI | Placement Support Committee | Axis Bank | CAT'22 99.3% | SPCE'20",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shaksham Kapoor",
+            "about": "Associate Director | Senior Data Scientist 🌀 UBS ♦ Mentor ♦ MTech 🌀 BITS Pilani",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Rivu Bose",
+            "about": "Data Scientist at Tata Consultancy Services",
+            "location": "Kolkata"
+        }
+    ],
+    "educations_details": "Indian Institute of Information Technology, Tiruchirappalli",
+    "education": [
+        {
+            "title": "Indian Institute of Information Technology, Tiruchirappalli",
+            "degree": "Bachelor of Technology - B.Tech",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: • Training and Placement representative. • Coordinator of media club. • Member of IIIT Dance Troupe.",
+            "description_html": "Activities and Societies: • Training and Placement representative. • Coordinator of media club. • Member of IIIT Dance Troupe.",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Deeksha Center for Learning PU College, Bengaluru",
+            "degree": "Pre-University",
+            "field": "PCMCs",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SDM Central School",
+            "degree": "Schooling",
+            "field": "10 CGPA",
+            "start_year": "2006",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Kannada "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Microsoft",
+            "title": "Engineering: Undergraduate & Masters Virtual Internship Platform"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "University of Michigan",
+            "title": "Applied Data Science with Python Specialization"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Tensorflow in Practice Specialization"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "University of Michigan",
+            "title": "Python For Everybody Specialization"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "JPMorgan Chase & Co.",
+            "title": "Software Engineering Virtual Experience"
+        },
+        {
+            "meta": "Issued Mar 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Complete Python Bootcamp: Go from zero to hero in Python 3"
+        },
+        {
+            "meta": "Issued Mar 2020See credential",
+            "subtitle": "freeCodeCamp",
+            "title": "Responsive Web Design"
+        },
+        {
+            "meta": "Issued Mar 2020See credential",
+            "subtitle": "Udemy",
+            "title": "SEO Driven Content Marketing"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID cert_8s6mcmtx",
+            "subtitle": "DigitalDeepak.com",
+            "title": "Digital Marketing "
+        },
+        {
+            "meta": "Issued Dec 2019Credential ID CERT00780894-EMI ",
+            "subtitle": "eMarketing Institute",
+            "title": "Search Engine Optimization"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Health",
+            "duration": "Jan 2020 - Feb 2021 · 1 year 2 months",
+            "duration_short": "1 year 2 months",
+            "end_date": "Feb 2021",
+            "start_date": "Jan 2020",
+            "subtitle": "Chezuba",
+            "title": "Blogger"
+        },
+        {
+            "cause": "Health",
+            "duration": "Jan 2020 - Mar 2020 · 3 months",
+            "duration_short": "3 months",
+            "end_date": "Mar 2020",
+            "start_date": "Jan 2020",
+            "subtitle": "TareZameen Foundation",
+            "title": "Freelance Writer"
+        },
+        {
+            "cause": "Disaster and Humanitarian Relief",
+            "duration": "Mar 2020 - Jul 2020 · 5 months",
+            "duration_short": "5 months",
+            "end_date": "Jul 2020",
+            "start_date": "Mar 2020",
+            "subtitle": "SafeSlot",
+            "title": "Content Manager"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jul 2020 - Apr 2022 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2022",
+            "start_date": "Jul 2020",
+            "subtitle": "Indian Institute of Information Technology, Tiruchirappalli",
+            "title": "Training and Placement Representative"
+        }
+    ],
+    "followers": 10800.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "Great Learning",
+    "publications": "[{\"title\":\"Attentive fine-tuning of Transformers for Translation of low-resourced languages @LoResMT 2021\",\"subtitle\":\"ACL\",\"date\":\"August 4, 2021\",\"description\":\"This paper reports the Machine Translation (MT) systems submitted by the IIITT team for the English→Marathi and English⇔Irish language pairs LoResMT 2021 shared task. The task focuses on getting exceptional translations for rather low-resourced languages like Irish and Marathi. We fine-tune IndicTrans, a pretrained multilingual NMT model for English→Marathi, using external parallel corpus as input for additional training. We have used a pretrained Helsinki-NLP Opus MT English⇔Irish model for the latter language pair. Our approaches yield relatively promising results on the BLEU metrics. Under the team name IIITT, our systems ranked 1, 1, and 2 in English→Marathi, Irish→English, and English→Irish respectively. The codes for our systems are published1 .\"},{\"title\":\"Domain Identification of Scientific Articles Using Transfer Learning and Ensembles\",\"subtitle\":\"Springer\",\"date\":\"May 5, 2021\",\"description\":\"This paper describes our transfer learning-based approach for domain identification of scientific articles as a part of the SDPRA-2021 Shared Task. We experiment with transfer learning using pre-trained language models (BERT, RoBERTa, SciBERT), and these are then fine-tuned for this task. The result shows that the ensemble approach performs best as the weights are being taken into consideration. We propose improvements for future work. The codes for the best system are published here: https://github.com/SDPRA-2021/shared-task/tree/main/IIITT.\"},{\"title\":\"Analyzing Social Media Content for Detection of Offensive Text\",\"description\":\"To tackle the conundrum of detecting offensive comments/posts which are considerably informal, unstructured, miswritten and code-mixed, we introduce two inventive methods in this research paper. Offensive comments/posts on the social media platforms, can affect an individual, a group or underage alike. In order to classify comments/posts in two popular Dravidian languages, Tamil and Malayalam, as a part of the HASOC - DravidianCodeMix FIRE 2021 shared task, we employ two Transformer-based prototypes which successfully stood in the top 8 for all the tasks. The codes for our approach can be viewed and utilized.\"},{\"title\":\"Evaluating Pretrained Transformer-based Models for COVID-19 Fake News Detection\",\"subtitle\":\"IEEE Xplore\"},{\"title\":\"IIITT@DravidianLangTech-EACL2021: Transfer Learning for Offensive Language Detection in Dravidian Languages\",\"subtitle\":\"Association for Computational Linguistics\",\"description\":\"This paper demonstrates our work for the shared task on Offensive Language Identification in Dravidian Languages-EACL 2021. Offensive language detection in the various social media platforms was identified previously. But with the increase in diversity of users, there is a need to identify the offensive language in multilingual posts that are largely code-mixed or written in a non-native script. We approach this challenge with various transfer learning-based models to classify a given post or comment in Dravidian languages (Malayalam, Tamil, and Kannada) into 6 categories. The source codes for our systems are published.\"},{\"title\":\"IIITT@LT-EDI-EACL2021-Hope Speech Detection: There is always Hope in Transformers\",\"subtitle\":\"Association for Computational Linguistics\",\"description\":\"In a world with serious challenges like climate change, religious and political conflicts, global pandemics, terrorism, and racial discrimination, an internet full of hate speech, abusive and offensive content is the last thing we desire for. In this paper, we work to identify and promote positive and supportive content on these platforms. We work with several transformer-based models to classify social media comments as hope speech or not hope speech in English, Malayalam, and Tamil languages. This paper portrays our work for the Shared Task on Hope Speech Detection for Equality, Diversity, and Inclusion at LT-EDI 2021- EACL 2021. The codes for our best submission can be viewed.\"},{\"title\":\"Offensive Language Identification in Low-resourced Code-mixed Dravidian languages using Pseudo-labeling\",\"description\":\"Social media has effectively become the prime hub of communication and digital marketing. As these platforms enable the free manifestation of thoughts and facts in text, images and video, there is an extensive need to screen them to protect individuals and groups from offensive content targeted at them. Our work intends to classify codemixed social media comments/posts in the Dravidian languages of Tamil, Kannada, and Malayalam. We intend to improve offensive language identification by generating pseudo-labels on the dataset. A custom dataset is constructed by transliterating all the code-mixed texts into the respective Dravidian language, either Kannada, Malayalam, or Tamil and then generating pseudo-labels for the transliterated dataset. The two datasets are combined using the generated pseudo-labels to create a custom dataset called CMTRA. As Dravidian languages are under-resourced, our approach increases the amount of training data for the language models. We fine-tune several recent pretrained language models on the newly constructed dataset. We extract the pretrained language embeddings and pass them onto recurrent neural networks. We observe that fine-tuning ULMFiT on the custom dataset yields the best results on the code-mixed test sets of all three languages. Our approach yields the best results among the benchmarked models on Tamil-English, achieving a weighted F1-Score of 0.7934 while scoring competitive weighted F1-Scores of 0.9624 and 0.7306 on the code-mixed test sets of Malayalam-English and Kannada-English, respectively.\"},{\"title\":\"Semantics of Spatio-Directional Geometric Terms of Indian Languages\",\"description\":\"This paper examines widely prevalent yet little-studied expressions in Indian languages which are known as geometrical terms be-cause “they engage locations along the axes of the reference object”. These terms are andara (inside), b ̄ahara (outside), ̄age (in front of), s ̄amane (in front of), p ̄ıche (back), ̄upara (above/over), n ̄ıce (under/below), d ̄ayem. (right), b ̄ayem. (left), p ̄asa (near), d ̄ura (away/far) in Hindi. The way these terms have been interpreted by the scholars of the Hindi language and handled in the Hindi Dependency treebank is misleading. This paper proposes an alternative analysis of these terms focusing on their triple – nominal, modifier and relational - functions and presents abstract semantic representations of these terms following the proposed analysis. The semantic representation will be explicit, unambiguous abstract and therefore universal in nature. The correspondence of these terms in Bangla and Kannada are also identified. Disambiguation of geometric terms will facilitate parsing and machine translation especially from Indian Language to English because these geometric terms of Indian languages are variedly translated in English de-pending on context.\"},{\"title\":\"Transliterate or translate? Sentiment analysis of code-mixed text in Dravidian languages\",\"description\":\"Sentiment analysis of social media posts and comments for various marketing and emotional purposes is gaining recognition. With the increasing presence of code-mixed content in various native languages, there is a need for ardent research to produce promising results. This research paper bestows a tiny contribution to this research in the form of sentiment analysis of code-mixed social media comments in the popular Dravidian languages Kannada, Tamil and Malayalam. It describes the work for the shared task conducted by Dravidian-CodeMix at FIRE 2021 by employing pre-trained models like ULMFiT and multilingual BERT fine-tuned on the code-mixed dataset, transliteration (TRAI) of the same, English translations (TRAA) of the TRAI data and the combination of all the three. The results are recorded in this research paper where the best models stood 4th, 5th and 10th ranks in the Tamil, Kannada and Malayalam tasks respectively.\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Tiruchirappalli",
+    "linkedin_id": "karthikpuranik",
+    "activity": null,
+    "linkedin_num_id": 680390394.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

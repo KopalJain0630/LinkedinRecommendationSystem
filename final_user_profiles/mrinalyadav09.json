@@ -1,0 +1,123 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Product | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "APM (Tech)",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2023 - Present 1 year 8 months",
+            "start_date": "May 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 8 months",
+            "company": "Vyapar",
+            "company_id": "vyaparapp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analytics Consultant (Data)",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jun 2022 Nov 2022 6 months",
+            "start_date": "Jun 2022",
+            "end_date": "Nov 2022",
+            "duration_short": "6 months",
+            "company": "EXL",
+            "company_id": "exl-service",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research - ML Intern",
+            "location": "Trondheim, Trøndelag, Norway",
+            "description_html": null,
+            "duration": "May 2021 Aug 2021 4 months",
+            "start_date": "May 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "4 months",
+            "company": "Norwegian University of Science and Technology (NTNU)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "iC2C",
+            "company_id": "icampus2corporate",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Football Secretary",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Jul 2019 Jul 2020 1 year 1 month",
+            "start_date": "Jul 2019",
+            "end_date": "Jul 2020",
+            "duration_short": "1 year 1 month",
+            "company": "Radhakrishnan Hall of Residence , IIT Kharagpur",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Ocean engineering and Naval architecture",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: Inter IIT Sports (Football) , Football Captain at Radhakrishnan Hall of Residence, Athletics",
+            "description_html": "Activities and Societies: Inter IIT Sports (Football) , Football Captain at Radhakrishnan Hall of Residence, Athletics",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Ghaziabad",
+            "degree": "Class 12, 93.2%",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2018",
+            "description": "Activities and Societies: Interschool athletics and football",
+            "description_html": "Activities and Societies: Interschool athletics and football",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Engineering Mathematics \"},{\"subtitle\":\"-\",\"title\":\"Image processing\"},{\"subtitle\":\"-\",\"title\":\"Basic Electronics \"},{\"subtitle\":\"-\",\"title\":\"Big Data Processing\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning : Foundation and Applications\"},{\"subtitle\":\"-\",\"title\":\"Economics\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning for Earth Systems and Sciences\"},{\"subtitle\":\"-\",\"title\":\"Numerical solution of ordinary and partial differential equations\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"IM61020\",\"title\":\"Safety analytics\"},{\"subtitle\":\"-\",\"title\":\"Transform Calculus\"}]",
+    "certifications": null,
+    "current_company_name": "Vyapar",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Text clustering - Numo_Uno\",\"start_date\":\"May 2020\",\"end_date\":\"Jul 2020\",\"description\":\"Unsupervised Text Clustering and Topic Modeling • Applied feature engineering on the dataset of academic information of students in different fields. Preprocessed data using NLTK and Spacy • Used different word embeddings and different clustering algorithms for topic identification including (LDA) and (LSA) for topic modeling • Visualized clustered text data using word clouds for identification of different topics in text and their importance\"},{\"title\":\"Forecasting of Electrical Meter Readings of buildings in Delhi NCR\",\"start_date\":\"Feb 2020\",\"end_date\":\"Feb 2020\",\"description\":\"Solution included an ensemble of time series approach and a supervised learning approach.• Analyzed data to map trends and seasonality for peak hours, festivals, seasons with useful graphs and plots.• Time series models used included ARIMA, CNN-LSTM, Vector Auto-Regression (VAR) and FB Prophet.• For the supervised learning approach, feature extraction was done considering factors like holidays, business hours, time ofday, season, etc, and the models deployed included Regression models, Random forest, Light GBM, XGBoost, etc.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Captain Football - Radhakrishnan Hall of Residence",
+            "publication": "Technology Students Gymkhaana , IIT Kharagpur",
+            "date": "2022-03-01T00:00:00.000Z",
+            "description": "• Managed, coached, and led a team of 30 juniors and decided match tactics both before and during the match ultimately leading to runners-up position out of 19 teams."
+        },
+        {
+            "title": "Inter IIT Sports(Football)",
+            "publication": "IIT Kharagpur",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "Part of the gold winning team of football(Top 24) in inter IIT Sports and Games 2019 organised by Indian Institute of Technology, Kharagpur and Indian Institute of Technology , Bhubhneshwar in December 2019"
+        },
+        {
+            "title": "Bronze medalist in Open IIT 5k marathon",
+            "publication": "Technology Students Gymkhana , IIT Kharagpur",
+            "date": "2019-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Player of the month(Autumn semester 2019-2020) - Football",
+            "publication": "Technology Students Gymkhana , IIT Kharagpur",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

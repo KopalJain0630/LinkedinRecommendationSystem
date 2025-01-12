@@ -1,0 +1,506 @@
+{
+    "id": "fardeen-pettiwala",
+    "name": "Fardeen Pettiwala",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Data Scientist at Fractal | IIT Kharagpur",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Fractal",
+        "company_id": "fractal-analytics",
+        "title": "Data Scientist at Fractal | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Fractal",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "3 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Fractal",
+                    "meta": "Apr 2024 - Present 9 months",
+                    "description": "- Leveraging Large Language Models (LLMs) to innovate in code generation, achieving a 91.65 Pass@1 (GPT-4 Turbo) score on the HumanEval leaderboard by employing advanced techniques like Chain-of-Thought (CoT) reasoning, ReAct, multi-agent systems, self-correction, and reflection-based methods.- Optimized smaller, cost-effective models to match the performance of larger models using strategies such as self-consistency, tree and graph structures, temperature tuning, and seed variance analysis.- Extended expertise to Machine Learning (ML) tasks, focusing on building adaptive frameworks for solving real-world problems.- Designed iterative pipelines for Kaggle competitions, achieving gold-standard results and placing in the top 40% quantile for both tabular and vision tasks.- Developing a cutting-edge ML framework aimed at solving MLE benchmarks, supporting live Kaggle challenges, and addressing complex client projects with an emphasis on execution memory and reasoning for next-phase improvements.",
+                    "duration": "Apr 2024 - Present 9 months",
+                    "start_date": "Apr 2024",
+                    "end_date": "Present",
+                    "duration_short": "9 months",
+                    "title": "Data Scientist",
+                    "description_html": "- Leveraging Large Language Models (LLMs) to innovate in code generation, achieving a 91.65 Pass@1 (GPT-4 Turbo) score on the HumanEval leaderboard by employing advanced techniques like Chain-of-Thought (CoT) reasoning, ReAct, multi-agent systems, self-correction, and reflection-based methods.<br>- Optimized smaller, cost-effective models to match the performance of larger models using strategies such as self-consistency, tree and graph structures, temperature tuning, and seed variance analysis.<br>- Extended expertise to Machine Learning (ML) tasks, focusing on building adaptive frameworks for solving real-world problems.<br>- Designed iterative pipelines for Kaggle competitions, achieving gold-standard results and placing in the top 40% quantile for both tabular and vision tasks.<br>- Developing a cutting-edge ML framework aimed at solving MLE benchmarks, supporting live Kaggle challenges, and addressing complex client projects with an emphasis on execution memory and reasoning for next-phase improvements."
+                },
+                {
+                    "subtitle": "Fractal",
+                    "meta": "Jul 2021 - Apr 2024 2 years 10 months",
+                    "description": "- Engineered Face Anti-spoofing CNN based Kafka streaming platform to classify live & spoof RGB images to prevent unauthorised employee access with 98% accuracy, refer blog authored ”Face Anti-spoofing (FAS) 101 using RGB Images”- Authored a Medium blog post titled ”Accelerating Deep Learning Inference for Machine Vision” exploring ONNX and TensorRT frameworks enable efficient deployment compared to traditional Torch and Tensorflow methods for the edge.- Logged experimentation with lower precision models of ResNet50 and YOLOv5 like FP32, FP16 and INT8 in different frameworks monitoring the incremental results on inference time (FPS), model accuracy and footprint.- Packaged in-house model exporter pip install and docker image, to convert PyTorch models to ONNX and TensorRT.- Dockerised and deployed Machine Learning models to Fractal IVA platform serving FastAPI endpoints for inference.- Experimented with optimisations for Triton Server and clients to achieve coherent performance for model serving.",
+                    "duration": "Jul 2021 Apr 2024 2 years 10 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Apr 2024",
+                    "duration_short": "2 years 10 months",
+                    "title": "Imagineer",
+                    "description_html": "- Engineered Face Anti-spoofing CNN based Kafka streaming platform to classify live &amp; spoof RGB images to prevent unauthorised employee access with 98% accuracy, refer blog authored ”Face Anti-spoofing (FAS) 101 using RGB Images”<br>- Authored a Medium blog post titled ”Accelerating Deep Learning Inference for Machine Vision” exploring ONNX and TensorRT frameworks enable efficient deployment compared to traditional Torch and Tensorflow methods for the edge.<br>- Logged experimentation with lower precision models of ResNet50 and YOLOv5 like FP32, FP16 and INT8 in different frameworks monitoring the incremental results on inference time (FPS), model accuracy and footprint.<br>- Packaged in-house model exporter pip install and docker image, to convert PyTorch models to ONNX and TensorRT.<br>- Dockerised and deployed Machine Learning models to Fractal IVA platform serving FastAPI endpoints for inference.<br>- Experimented with optimisations for Triton Server and clients to achieve coherent performance for model serving."
+                }
+            ],
+            "company": "Fractal",
+            "company_id": "fractal-analytics",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Developer",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "• Worked in a team to develop a GUI based application in Python for auto-testing of USB module for Android where test results are stored in a file locally.• Innovatively implemented various Android Debug Bridge (ADB) commands to interact with an Android device by using USB debugging developer mode.• Our team established a secure serial port connection to the device via which ATention (AT) commands are sent and information retrieved at the terminal.",
+            "description_html": "• Worked in a team to develop a GUI based application in Python for auto-testing of USB module for Android where test results are stored in a file locally.• Innovatively implemented various Android Debug Bridge (ADB) commands to interact with an Android device by using USB debugging developer mode.• Our team established a secure serial port connection to the device via which ATention (AT) commands are sent and information retrieved at the terminal. <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Samsung R&D Institute Noida",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary Students' Welfare",
+            "location": "Kharagpur Area, India",
+            "description": "• Responsible for the well-being and welfare of student community which included enhancing student happiness quotient (HQ) and overall student experience by acting as a SPOC (single point of contact) to various groups - Counselling Center, Student Welfare Group (SWG) and the RP Hall Council.• Managed a budget of INR 1,00,000 which included maintenance of the students' activity room, in addition conducted events like Aavhan, an annual social and cultural night, aimed not only to increase the bonding among the residents of the hall but also to exhibit their latent talents on stage.",
+            "description_html": "• Responsible for the well-being and welfare of student community which included enhancing student happiness quotient (HQ) and overall student experience by acting as a SPOC (single point of contact) to various groups - Counselling Center, Student Welfare Group (SWG) and the RP Hall Council.• Managed a budget of INR 1,00,000 which included maintenance of the students' activity room, in addition conducted events like Aavhan, an annual social and cultural night, aimed not only to increase the bonding among the residents of the hall but also to exhibit their latent talents on stage.",
+            "duration": "Jul 2019 Jun 2020 1 year",
+            "start_date": "Jul 2019",
+            "end_date": "Jun 2020",
+            "duration_short": "1 year",
+            "company": "Rajendra Prasad Hall of Residence",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Information Technology Intern",
+            "location": "Mumbai Area, India",
+            "description": "• Identified major bottlenecks resulting in poor performance of their commercial website using Yslow and PageSpeed tools offered by GTmetrix.• Performed a comparative study of e-groceries by examining site performance, shopping experience and compiled essential improvements.• Optimized stored procedures by reducing redirects and extracting valid results improving the efficiency of SQL database queries called in operation.",
+            "description_html": "• Identified major bottlenecks resulting in poor performance of their commercial website using Yslow and PageSpeed tools offered by GTmetrix.• Performed a comparative study of e-groceries by examining site performance, shopping experience and compiled essential improvements.• Optimized stored procedures by reducing redirects and extracting valid results improving the efficiency of SQL database queries called in operation. <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Nature's Basket Limited",
+            "company_id": "natures-basket-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary Indoor Games",
+            "location": "Kharagpur Area, India",
+            "description": "• Strategically planned and single-handedly managed 6 sporting events while ensuring the 100% regular practice, fitness of players, and equipment lifecycle management, thereby securing an overall third place in General Championship Sports 2019, within a meagre budget of INR 1,39,000.• Collaboratively organized the annual 3-day box-cricket tournament, Cric-Mania, witnessing an increase of 50% in participation with 300+ participants.",
+            "description_html": "• Strategically planned and single-handedly managed 6 sporting events while ensuring the 100% regular practice, fitness of players, and equipment lifecycle management, thereby securing an overall third place in General Championship Sports 2019, within a meagre budget of INR 1,39,000.• Collaboratively organized the annual 3-day box-cricket tournament, Cric-Mania, witnessing an increase of 50% in participation with 300+ participants. <!---->",
+            "duration": "Sep 2018 Apr 2019 8 months",
+            "start_date": "Sep 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "8 months",
+            "company": "Rajendra Prasad Hall of Residence",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Volunteer",
+            "location": "Kharagpur Area, India",
+            "description": "The National Service Scheme (NSS)  is a Central Sector Scheme of Government of India, Ministry of Youth Affairs & Sports. It provides opportunity to the student youth of Technical Institution, Graduate and Post-graduate at colleges and university level of India to take part in various government led community service activities & programmes. The sole aim of NSS is to provide hands on experience to young students in delivering community service.",
+            "description_html": "The National Service Scheme (NSS) is a Central Sector Scheme of Government of India, Ministry of Youth Affairs &amp; Sports. It provides opportunity to the student youth of Technical Institution, Graduate and Post-graduate at colleges and university level of India to take part in various government led community service activities &amp; programmes. The sole aim of NSS is to provide hands on experience to young students in delivering community service. <!---->",
+            "duration": "Aug 2017 Apr 2019 1 year 9 months",
+            "start_date": "Aug 2017",
+            "end_date": "Apr 2019",
+            "duration_short": "1 year 9 months",
+            "company": "National Service Scheme",
+            "company_id": "national-service-scheme",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Mumbai Area, India",
+            "description": "Worked in Prof. Soumyo Mukherji's lab of Biosensors and Bioinstrumentation under a research scholar to make micro-lenses using PDMS (polydimethylsiloxane) using nature interface between immiscible liquids.",
+            "description_html": "Worked in Prof. Soumyo Mukherji's lab of Biosensors and Bioinstrumentation under a research scholar to make micro-lenses using PDMS (polydimethylsiloxane) using nature interface between immiscible liquids. <!---->",
+            "duration": "Dec 2018 Dec 2018 1 month",
+            "start_date": "Dec 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "1 month",
+            "company": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Kaaviya B",
+            "about": "Public Speaker | Silver Medalist at SVCE",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumesh Karad",
+            "about": "UX Designer | Innovating B2B/B2C Digital Products",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Diksha Sharma",
+            "about": "Kearney | IIM Bangalore'24 | EXL | NIT Bhopal'20",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jay Mundra",
+            "about": null,
+            "location": "Chittorgarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaishnavi Nandakumar",
+            "about": "Senior Data Engineer at Visa Inc.",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Narendra Mall",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shavya Jain",
+            "about": "Quality Engineering Analyst || SDET Certified || Devops Professional at Infosys",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Ekta Dwivedy",
+            "about": "Product at Microsoft",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aayush Sharma",
+            "about": "SDE2 - Navi | MIT | IIT Delhi",
+            "location": "Ludhiana"
+        },
+        {
+            "profile_link": "",
+            "name": "Srishti Jaiswal",
+            "about": "Strategy&Planning Analyst at AmEx||Ex-Assistant Manager at EXL || LSR || Statistics || SQL || MLS",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Medha Mansi",
+            "about": "MIM student at Warwick Business School | Ex-Software Engineer @ Dell Technologies | DevOps, Python, Microsoft Excel",
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Pushkar Agnihotri",
+            "about": "JP Morgan Chase & Co | Ex-Fractal | IIT Kharagpur | Data Science",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsha Santhosh Warrier",
+            "about": "Senior Information Systems Analyst at NHS | Data Science and Analytics | Ex-TCS | GHCI'18 Scholar",
+            "location": "Leeds"
+        },
+        {
+            "profile_link": "",
+            "name": "Pradyum Soni",
+            "about": null,
+            "location": "Vacaville, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Munish Daroch",
+            "about": "Research Scholar (Intelligent Systems)@ IIT Mandi",
+            "location": "Mandi"
+        },
+        {
+            "profile_link": "",
+            "name": "Suyash Agrawal",
+            "about": "Associate @ Deutsche Bank | DevOps | CI/CD & Deployment Automation",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarthak Goswami",
+            "about": "Deloitte | VIT Vellore",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shatakshi Sinha",
+            "about": "Senior Business Analyst at Temenos | VIT'20 | Learner Forever",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Simran garg",
+            "about": "SPM @ Zeotap | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Namrata Ghosh",
+            "about": "Platform Developer at Barclays | Experian PowerCurve | Strategy management | Credit Risk",
+            "location": "Pune"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Instrumentation Technology/Technician",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Bachelor of Technology (Honours) in Instrumentation Engineering (CGPA: 9.13/10.0) - Department rank 3. Minor in Computer Science and Engineering - Data Analytics, Artificial Intelligence, Natural Language Processing, Programming and Data Structures, Algorithms, Information Retrieval, Social Computing, Image Processing, Probability and Stochastic Process, Computer Architecture and Operating System, Embedded Systems, Data Communication.",
+            "description_html": "Bachelor of Technology (Honours) in Instrumentation Engineering (CGPA: 9.13/10.0) - Department rank 3.Minor in Computer Science and Engineering - Data Analytics, Artificial Intelligence, Natural Language Processing, Programming and Data Structures, Algorithms, Information Retrieval, Social Computing, Image Processing, Probability and Stochastic Process, Computer Architecture and Operating System, Embedded Systems, Data Communication. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Smt. Shanti Devi Shukla Junior College Of Science",
+            "degree": "Science",
+            "field": "92.15%",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SVKM JV Parekh International School",
+            "degree": "Science",
+            "field": "89.5%",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ryan Global School",
+            "degree": "Science",
+            "start_year": "2009",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Singapore International School, Mumbai",
+            "degree": "Science",
+            "start_year": "2008",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Hansraj Morarji Public School",
+            "degree": "Science",
+            "start_year": "2005",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms \"},{\"subtitle\":\"CS60045\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Image Processing\"},{\"subtitle\":\"CS60075\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data structure \"},{\"subtitle\":\"CS60017\",\"title\":\"Social Computing\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2022Credential ID 64489876See credential",
+            "subtitle": "Fractal Analytics",
+            "title": "Mlops Engineer Associate"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID 56614987See credential",
+            "subtitle": "Analytics Vidhya",
+            "title": "1729 Certificates"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID 8153D8BF41-814DD43845-814DA5AE99See credential",
+            "subtitle": "KodeKloud",
+            "title": "Docker <span>Training Course</span> for the Absolute Beginner"
+        },
+        {
+            "meta": "Issued Jun 2022Credential ID FGV9G2D5GHFDSee credential",
+            "subtitle": "Coursera",
+            "title": "Google Cloud Fundamentals: Core Infrastructure"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID UC-6df56fd6-2634-4179-a852-4c2dc34197bcSee credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science"
+        },
+        {
+            "meta": "Issued Dec 2022Expires Dec 2024Credential ID FDA101-2022-0002See credential",
+            "subtitle": "Fractal",
+            "title": "Data Analyst (Tableau) Associate"
+        },
+        {
+            "meta": "Issued Jul 2022Expires Jul 2024Credential ID MLOps101-2022-0005See credential",
+            "subtitle": "Fractal",
+            "title": "Fractal Certified Mlops Engineer- Beginner"
+        },
+        {
+            "meta": "Issued Aug 2021Expires Aug 2023Credential ID FDS100-2021-0005See credential",
+            "subtitle": "Fractal",
+            "title": "Fractal Certified Data Scientist"
+        },
+        {
+            "meta": "Issued Aug 2021Expires Aug 2023See credential",
+            "subtitle": "Fractal",
+            "title": "Program in DATA SCIENCE, ANALYTICS AND DATA ENGINEERING"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1605.0,
+    "connections": 500.0,
+    "current_company_company_id": "fractal-analytics",
+    "current_company_name": "Fractal",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Lexical Complexity Prediction (LCP), IIT Kharagpur - Dr. Pawan Goyal\",\"start_date\":\"Jan 2021\",\"end_date\":\"Apr 2021\",\"description\":\"- Modelled Attention-based Bi-LSTM approach for token features and sentence context to produce final embedding.- Team model with feature select achieved first on leaderboard with Pearson correlation of 0.832 among 30 groups\"},{\"title\":\"Battery Management System (BMS), IIT Kharagpur - Dr. Siddhartha Mukhopadyay\",\"start_date\":\"Aug 2020\",\"end_date\":\"Dec 2020\",\"description\":\"- Debugging BMS statecharts in Simulink to incorporate algorithms of state-of-charge (SOC) and state-of-health (SOH) and abuse detection.- Extracting C code for developed flow using an Embedded coder to deploy on demo-test bed in various environments.\"},{\"title\":\"Holistic Regularisation Variational Autoencoder, IIT Kharagpur - Dr. Pawan Goyal\",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\",\"description\":\"- Implemented - A Stable Variational Autoencoder for Text Modelling, to find the similarity among 500 question pairs.- Achieved accuracy 0.67, specificity 0.592, and AUC score 0.722 using model with base tf-idf and doc2vec models.\"}]",
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "fardeen-pettiwala",
+    "activity": [
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Contribute to Open Source using AI IDE 🚀 AIDE is an open-source AI-native IDE that leverages proactive Agentic workflows and external tools to…",
+            "img": "",
+            "id": "7274626880291377153"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "CodeStory agent is now SOTA on swebench-verified with 62.2% resolution rate. We did this by scaling our agent on test time inference and re-learning…",
+            "img": "",
+            "id": "7273330495256420352"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "I calculated a poster-size Transformer model by hand ✍️ Q: How long did it take? A: A long time. Q: Why? A: It was never done before. Q: Any…",
+            "img": "",
+            "id": "7274516157640904704"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Welcome to day 2 of Slidely launch week! Today, we are releasing Advanced Format Painter (AFP). Using Advanced Format Painter, you can paste…",
+            "img": "",
+            "id": "7272229724184039424"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Welcome to Slidely launch week! Every day of the week, we'll be launching new features and updates. Today is day 1 and we are starting with…",
+            "img": "",
+            "id": "7271822038233726977"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "I'll be in Vancouver, Canada, next month to present our paper at CALM@NeurIPS 2024 with Noopur Bhatt and Prof. Suman Jana. Our work introduces…",
+            "img": "",
+            "id": "7267238735287611393"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "𝗪𝗵𝗮𝘁 𝗱𝗼𝗲𝘀 𝗶𝘁 𝘁𝗮𝗸𝗲 𝘁𝗼 𝗽𝘂𝘀𝗵 𝘁𝗵𝗲 𝗹𝗶𝗺𝗶𝘁𝘀 𝗼𝗳 𝘄𝗵𝗮𝘁 𝗔𝗜 𝗰𝗮𝗻 𝗱𝗼? Suraj Amonkar knows. He began his journey in A.I.…",
+            "img": "",
+            "id": "7266704603440631810"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Note to self: please return calls .. lol #SwiggyIPO",
+            "img": "",
+            "id": "7262680429726511104"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "An exciting initiative to boost the on-campus Startup ecosystem, was announced last week at Indian Institute of Technology, Kharagpur: A Startup…",
+            "img": "",
+            "id": "7261044748906291200"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Hey everyone! Just wanted to share some exciting news from our campus hiring season 👋 After what felt like forever doing everything virtually…",
+            "img": "",
+            "id": "7255558610749902848"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Missing home this Diwali? Same here. 🎆💔 But then I got a sweet surprise with my morning chai from Swish! Just when I thought my day couldn’t get…",
+            "img": "",
+            "id": "7257376005118427137"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "After ICLR, AIAI, and AIMO, our journey continues with 2 papers accepted at NeurIPS 2024! 1️⃣ Effective Text-to-Image Alignment with Quality-Aware…",
+            "img": "",
+            "id": "7253018927461490689"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Excited to share that two of our papers have been accepted to the Natural Legal Language Processing (NLLP) workshop, co-located with EMNLP 2024! (i)…",
+            "img": "",
+            "id": "7249687715879780352"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Dr. Saima Hassan teaches AI by Hand in Urdu. 200+ million people speak Urdu. Many of them are in Pakistan. To address the lack of AI educational…",
+            "img": "",
+            "id": "7253751024396443648"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "🔥𝗘𝘅𝗰𝗶𝘁𝗶𝗻𝗴 𝗡𝗲𝘄𝘀!🔥 Fractal AI research team is presenting not one but two breakthrough #AI papers at #NeurIPS2024, pushing the limits in…",
+            "img": "",
+            "id": "7253005963744464897"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Evolution of Deep Learning by Hand ✍️ As my tribute to Geoff Hinton's Nobel Prize, I drew this animation to illustrate the key idea behind Hinton's…",
+            "img": "",
+            "id": "7249879162880983040"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Fractal 𝗘𝘅𝗲𝗰𝘂𝘁𝗶𝘃𝗲 𝗦𝘂𝗺𝗺𝗶𝘁 𝟮𝟬𝟮𝟰 - 𝗗𝗮𝗹𝗹𝗮𝘀 Our Dallas Executive Summit brought together AI practitioners and industry leaders…",
+            "img": "",
+            "id": "7249816587174563840"
+        },
+        {
+            "interaction": "Liked by Fardeen Pettiwala",
+            "link": "",
+            "title": "Many of us wake up today to the news that Geoff Hinton is awarded the Nobel Prize! 🏆 I often explain to people what a Turing Award is as follows:…",
+            "img": "",
+            "id": "7249450597962129408"
+        }
+    ],
+    "linkedin_num_id": 632231960.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

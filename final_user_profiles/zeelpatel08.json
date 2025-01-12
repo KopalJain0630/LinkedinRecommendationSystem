@@ -1,0 +1,94 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Business Analysis Foundations"
+        },
+        {
+            "meta": "Issued May 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "PostgreSQL Essential Training"
+        },
+        {
+            "meta": "Issued May 2022Credential ID 2d54614b72147c3b3cc355c2068462f215b50e7bSee credential",
+            "subtitle": "DataCamp",
+            "title": "Web Scraping in Python"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID 162642775810See credential",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID DAH8SSQXA23RSee credential",
+            "subtitle": "Coursera",
+            "title": "Financial Markets (with Honors)"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID UC-18df45b0-6853-43d8-8c08-1b8fd1cdb98c",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID 686BT9G7NA58See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Programming with MATLAB"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID ZK6VK9NZNH5JSee credential",
+            "subtitle": "Coursera",
+            "title": "Python for Everybody Specialization"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID QWPJESMA3RE4See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Financial Markets"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 64UFQB83PQ3WSee credential",
+            "subtitle": "Coursera",
+            "title": "Trading Basics"
+        }
+    ],
+    "current_company_name": "Axis Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "National Winner | Smart India Hackathon 2022",
+            "publication": "Ministry of Education, India",
+            "date": "2022-08-01T00:00:00.000Z",
+            "description": "• Created Sanskrit voice-to-text chrome extension as a software division Winner in Smart India Hackathon 2022, representing IIT Kharagpur • Conducted a survey among Sanskrit researchers to understand their viewpoint on existing challenges in Sanskrit literature accessibility • Achieved Word-Error-Rate of 17.9 by fine-tuning a PyTorch model that uses CNN & Wav2Vec2 transformers with CTC loss on our dataset • Added features to find word instances on the page and synsets of the searched… Show more"
+        },
+        {
+            "title": "International Youth Summit Delegate",
+            "publication": "Boston GreenFest",
+            "date": null,
+            "description": "• Presented a Green Talk on \"Energy saving by minimizing Incense Stick usage\" under the guidance of Dr. Bhavesh Sidana • Surveyed 50 houses and shops to evaluate the incense stick usage per day and generalized the data for Mehsana city • Estimated wood needed to prepare incense stick & found that 1000+ trees are cut/year for Mehsana city incense stick usage"
+        }
+    ]
+}

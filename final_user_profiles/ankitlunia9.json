@@ -1,0 +1,150 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "SDE-2 at Navi | NIT Durgapur",
+    "experience": [
+        {
+            "title": "Navi",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 9 months",
+            "positions": [
+                {
+                    "subtitle": "Navi",
+                    "meta": "Jan 2023 - Present 2 years",
+                    "duration": "Jan 2023 - Present 2 years",
+                    "start_date": "Jan 2023",
+                    "end_date": "Present",
+                    "duration_short": "2 years",
+                    "title": "Software Development Engineer - II",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Navi",
+                    "meta": "Apr 2022 - Dec 2022 9 months",
+                    "duration": "Apr 2022 Dec 2022 9 months",
+                    "start_date": "Apr 2022",
+                    "end_date": "Dec 2022",
+                    "duration_short": "9 months",
+                    "title": "Software Development Engineer - I",
+                    "description_html": null
+                }
+            ],
+            "company": "Navi",
+            "company_id": "go-navi",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Dec 2021 Mar 2022 4 months",
+            "start_date": "Dec 2021",
+            "end_date": "Mar 2022",
+            "duration_short": "4 months",
+            "company": "FrontRow",
+            "company_id": "frontrow-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Manastik",
+            "company_id": "manastik",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Content Writer",
+            "description_html": null,
+            "duration": "Oct 2020 Mar 2021 6 months",
+            "start_date": "Oct 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "6 months",
+            "company": "GeeksforGeeks",
+            "company_id": "geeksforgeeks",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "National Institute of Technology Durgapur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Don Bosco School, Liluah",
+            "degree": "High School - ISC",
+            "field": "Computer Science",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Helen's School",
+            "degree": "ICSE",
+            "field": "Science",
+            "start_year": "2004",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2022Credential ID SqvoIfkHBmSee credential",
+            "subtitle": "Scaler",
+            "title": "Scaler Edge Course"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Intermediate)"
+        },
+        {
+            "meta": "Issued Sep 2019Credential ID 2302723See credential",
+            "subtitle": "CodeChef",
+            "title": "CodeChef Certified Data Structures and Algorithms Programme"
+        }
+    ],
+    "current_company_name": "Navi",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Finalist at HackwithInfy 2021 (Among top 99 out of 200k+ participants)",
+            "publication": "Infosys",
+            "date": "2021-08-01T00:00:00.000Z",
+            "description": "Invited to participate in the 4 days Hackathon being part of the Grand Finale of HackwithInfy 2021"
+        },
+        {
+            "title": "Finalist at Jumpstart 2021 by Publicis Sapient",
+            "publication": "Publicis Sapient",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": "Among the top finalists who were given the opportunity to attend the event Jumpstart 2021"
+        },
+        {
+            "title": "Ranked 551 in Google Kickstart 2020 Round F",
+            "publication": "Google",
+            "date": null,
+            "description": null
+        }
+    ]
+}

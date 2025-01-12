@@ -1,0 +1,25 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"INTELLECTUAL PROPERTY RIGHTS \"},{\"subtitle\":\"-\",\"title\":\"Post graduate program in data science \"}]",
+    "certifications": [
+        {
+            "subtitle": "Imarticus Learning",
+            "title": "PGP in AI and DS"
+        }
+    ],
+    "current_company_name": "SymphonyAI",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Fraud Claim detection in Health insurance\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jun 2021\",\"description\":\"All of the above process could be time taking and might require lots of resources and expenses but here our objective will be using Data Science and Machine Learning to detect Frauds which will apply Statistical Inferences to the Data and will lead us detect pattern for the fraud claims made and also providing an easy user interface for making it accessible to every person and it won’t require technical knowledge and with a simple form entry, our app would be able to tell that the provided case is fraud or no. Also while studying the project we will we rectifying the loopholes and diving deep as much as we can to diminish the losses and no. of fraud cases.\"},{\"title\":\"Career Crafter.AI\",\"description\":\"Developed an AI-based mobile app for personalized career counseling, utilizing machine learning and data analysis.Making career choices and AI-based counseling accessible secondary level students .\"},{\"title\":\"Loan Prediction\"}]",
+    "honors_and_awards": [
+        {
+            "title": "INSPIRE Scholarship for Higher Education",
+            "publication": "Department of Science and Technology (DST), Government of India",
+            "date": "2015-07-01T00:00:00.000Z",
+            "description": "The scheme offers 12,000 scholarships every year to students undertaking Bachelor's and Master's courses in Basic Sciences and Natural Sciences based on their merit."
+        }
+    ]
+}

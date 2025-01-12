@@ -1,0 +1,69 @@
+{
+    "city": "London, England, United Kingdom",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of Durham",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2003",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2002",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Frontier Academy",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Winner - Lean Startup Machine London 2012",
+            "publication": "Lean Startup Machine",
+            "date": "2012-01-01T00:00:00.000Z",
+            "description": "Team leader of winning team: Photovino at Lean Startup Machine London 2012"
+        },
+        {
+            "title": "Winner Bolton-Trust Entrepreneurship Award",
+            "publication": "-",
+            "date": "2010-05-01T00:00:00.000Z",
+            "description": "Winner for Irish Ancestral Holidays"
+        },
+        {
+            "title": "Blueprint Entrepreneurship Award",
+            "publication": "Durham University",
+            "date": "2009-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Winner Student Startup Award",
+            "publication": "London Metropolitan University",
+            "date": "2008-03-01T00:00:00.000Z",
+            "description": "Winner for Irish Ancestral Holidays"
+        }
+    ]
+}

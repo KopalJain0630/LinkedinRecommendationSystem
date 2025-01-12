@@ -1,0 +1,406 @@
+{
+    "id": "anik-mondal-9860541b3",
+    "name": "Anik Mondal",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "Data Scientist @ABInBev | AAC '21 Finalist | IIT KGP '23",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "AB InBev India",
+        "company_id": "ab-inbev-india",
+        "title": "Data Scientist @ABInBev | AAC '21 Finalist | IIT KGP '23"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "AB InBev India",
+            "company_id": "ab-inbev-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winner - Citi CIC Hackathon 4.0",
+            "description": "National winner of Citi Campus Innovation Challenge Hackathon 4.0. Competed in the Machine Learning track of the competition spanning over 3 rounds. Awarded with a cash prize of 3 lacs.",
+            "description_html": "National winner of Citi Campus Innovation Challenge Hackathon 4.0. Competed in the Machine Learning track of the competition spanning over 3 rounds. Awarded with a cash prize of 3 lacs. <!---->",
+            "duration": "Jan 2023 Apr 2023 4 months",
+            "start_date": "Jan 2023",
+            "end_date": "Apr 2023",
+            "duration_short": "4 months",
+            "company": "Citi",
+            "company_id": "citi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Literary Society, IIT Kharagpur",
+            "description_html": null,
+            "duration": "3 years 9 months",
+            "positions": [
+                {
+                    "subtitle": "Technology Literary Society, IIT Kharagpur",
+                    "meta": "Jul 2022 - Apr 2023 10 months",
+                    "duration": "Jul 2022 Apr 2023 10 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "10 months",
+                    "title": "Executive Editor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Literary Society, IIT Kharagpur",
+                    "meta": "Jul 2021 - Jun 2022 1 year",
+                    "duration": "Jul 2021 Jun 2022 1 year",
+                    "start_date": "Jul 2021",
+                    "end_date": "Jun 2022",
+                    "duration_short": "1 year",
+                    "title": "Senior Editor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Literary Society, IIT Kharagpur",
+                    "meta": "Aug 2019 - Jun 2021 1 year 11 months",
+                    "duration": "Aug 2019 Jun 2021 1 year 11 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jun 2021",
+                    "duration_short": "1 year 11 months",
+                    "title": "Graphic Designer | Committee Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Technology Literary Society, IIT Kharagpur",
+            "company_id": "technology-literary-society",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Runners-up - KIRIT 3.0",
+            "location": "Pune, Maharashtra, India",
+            "description": "• National Runners-up in the inter-collegiate case analysis competition organised by KIAMS, out of 1200+ teams from all over India, including Engineering and B-schools. Awarded with a cash prize of INR 75k.",
+            "description_html": "• National Runners-up in the inter-collegiate case analysis competition organised by KIAMS, out of 1200+ teams from all over India, including Engineering and B-schools. Awarded with a cash prize of INR 75k. <!---->",
+            "duration": "Feb 2023 Feb 2023 1 month",
+            "start_date": "Feb 2023",
+            "end_date": "Feb 2023",
+            "duration_short": "1 month",
+            "company": "Kirloskar Institute of Advanced Management Studies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "B.R.E.W.-Data Scientist Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Duplicate GR Detection: Aligned with the business model to scope out the areas of payment leakages in the procurement process w.r.t. Goods Receipt (GR) creation.• Developed a multi-layer (NLP + Record Linkage) solution to identify the duplicate GRs in the system and followed up with a Machine Learning layer to reduce the False Positives.• Benefitted the organisation with a substantial annual EBITDA through my model to proactively capture duplicate GRs and avoid overpayments and repeat payments.",
+            "description_html": "• Duplicate GR Detection: Aligned with the business model to scope out the areas of payment leakages in the procurement process w.r.t. Goods Receipt (GR) creation.• Developed a multi-layer (NLP + Record Linkage) solution to identify the duplicate GRs in the system and followed up with a Machine Learning layer to reduce the False Positives.• Benefitted the organisation with a substantial annual EBITDA through my model to proactively capture duplicate GRs and avoid overpayments and repeat payments.",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "AB InBev India",
+            "company_id": "ab-inbev-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Finalist - Adobe Analytics Challenge 2021",
+            "description": "• Secured the 4th place in the Global Intercollegiate Finals of the Adobe Analytics Challenge out of 4000+ teams from 22 countries. The only Indian team to make it to the grand finale. Awarded with 3000 USD.• Analyzed The Walt Disney Company’s business data across 2 platforms: Disney Web and Disney App on Adobe Analytics Workspace to answer the key business questions of the challenge.• Business solutions included redesigning the website, executing separate business strategies for different customer bases and introducing new features to increase Disney’s annual revenue.• Engineered customer segmentation based on several characteristics to understand the needs of different people and connect with Disney’s customer base.",
+            "description_html": "• Secured the 4th place in the Global Intercollegiate Finals of the Adobe Analytics Challenge out of 4000+ teams from 22 countries. The only Indian team to make it to the grand finale. Awarded with 3000 USD.• Analyzed The Walt Disney Company’s business data across 2 platforms: Disney Web and Disney App on Adobe Analytics Workspace to answer the key business questions of the challenge.• Business solutions included redesigning the website, executing separate business strategies for different customer bases and introducing new features to increase Disney’s annual revenue.• Engineered customer segmentation based on several characteristics to understand the needs of different people and connect with Disney’s customer base.",
+            "duration": "Oct 2021 Nov 2021 2 months",
+            "start_date": "Oct 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "2 months",
+            "company": "Adobe",
+            "company_id": "adobe",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mentee | Jumpstart",
+            "description_html": null,
+            "duration": "Jul 2021 Jul 2021 1 month",
+            "start_date": "Jul 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "1 month",
+            "company": "Publicis Sapient",
+            "company_id": "publicissapient",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "description": "• Green Book Project: Analyzed travel pattern of black people all across the globe through their social media posts• Collected about 50k tweets containing one or more of 16 hashtags in total, analyzed individual and non-individual accounts separately, using M3 multimodal deep neural architecture for identification of individuals/organizations• Hierarchical topic modelling of tweets year wise, both unsupervised and supervised by various algorithms to understand the motivation and purpose of tweets. Final result used Correlation Explanation for topic modelling",
+            "description_html": "• Green Book Project: Analyzed travel pattern of black people all across the globe through their social media posts• Collected about 50k tweets containing one or more of 16 hashtags in total, analyzed individual and non-individual accounts separately, using M3 multimodal deep neural architecture for identification of individuals/organizations• Hierarchical topic modelling of tweets year wise, both unsupervised and supervised by various algorithms to understand the motivation and purpose of tweets. Final result used Correlation Explanation for topic modelling",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Penn State University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "National Winner - Maverick 2.0 Hackathon",
+            "description": "• National Winner of ABInBev’s Maverick 2.0 Hack-a-thon among 750+ teams all across India. The only team of sophomores to make it to the final. Awarded with a cash prize of INR 1 lac.• Built a recommendation system for cross sell and upsell of ABInBev’s products. Used Neural Collaborative Filtering for building the recommendation system. LSTM model was used to recommend quantities for the same.• Separate strategies were implemented for cross sell and upsell which aim to increase the net generation revenue.• Built a Graphical User Interface using Flask to showcase and present our model.• GitHub link: ",
+            "description_html": "• National Winner of ABInBev’s Maverick 2.0 Hack-a-thon among 750+ teams all across India. The only team of sophomores to make it to the final. Awarded with a cash prize of INR 1 lac.• Built a recommendation system for cross sell and upsell of ABInBev’s products. Used Neural Collaborative Filtering for building the recommendation system. LSTM model was used to recommend quantities for the same.• Separate strategies were implemented for cross sell and upsell which aim to increase the net generation revenue.• Built a Graphical User Interface using Flask to showcase and present our model.• GitHub link: ",
+            "duration": "Mar 2021 May 2021 3 months",
+            "start_date": "Mar 2021",
+            "end_date": "May 2021",
+            "duration_short": "3 months",
+            "company": "Anheuser-Busch InBev",
+            "company_id": "ab-inbev",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Researcher",
+            "description": "SemEval 2021 Task 7: Humor and Offense Detection and Rating. Used bi-LSTM layers on top of BERT features for humor detection and rating. Paper published at ACL-IJCNLP 2021 conference, Thailand.",
+            "description_html": "SemEval 2021 Task 7: Humor and Offense Detection and Rating. Used bi-LSTM layers on top of BERT features for humor detection and rating. Paper published at ACL-IJCNLP 2021 conference, Thailand. <!---->",
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Roorkee",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Akash Gautam",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Raghav Bagri",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gunagya Singh Mamak",
+            "about": "MS CS @GaTech | Ex-SWE @Google | 6* @Codechef | DTU '22",
+            "location": "Atlanta, GA"
+        },
+        {
+            "profile_link": "",
+            "name": "Farhad Sajid Barbhuiya",
+            "about": "AppSec Researcher (iOS & Android, Web), Cloud & Container Security, Reverse Engineering, Machine Learning | Business Strategy | Mentor (Stanford Advanced Cyber Security Program,Post Graduate program University of Austin)",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Durgesh Kumar",
+            "about": "SDE-2 at Atlassian",
+            "location": "Muzaffarnagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Krishna Singh",
+            "about": "Data Engineer @AtkinsRealis | Ex-LTIMindtree | 8xMicrosoft Certified | DP-203 | AZ-900 | DP-600 | DP-900",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kushagra Shree",
+            "about": "Aspiring Technical Product Manager | Senior Business Analyst | Insurtech-Health | AI-ML",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Viren Jindal",
+            "about": "Convivialité Ventures | Columbia MBA (deferred admit)",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Jahnvi Sharma",
+            "about": "McKinsey & Company | Ex - EY | IIT (ISM)'21 | Energy Transition",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Kumar",
+            "about": null,
+            "location": "New Delhi"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Salt Lake School",
+            "degree": "Indian School Certificate",
+            "field": "97.5%",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID JUKUM4J5E4AGSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID WEQW5NDJGERYSee credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID WDUTVQSJL5Y4See credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID HT6VYGXEQV45See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 5RR9U22BYHJ7See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 7RRRZ5KA9XG6See credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2633.0,
+    "connections": 500.0,
+    "current_company_company_id": "ab-inbev-india",
+    "current_company_name": "AB InBev India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "anik-mondal-9860541b3",
+    "activity": [
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "It was an incredible experience presenting our research paper, \"The Growth and Challenges of BGMI Esports in India: An Analysis of Player Experiences…",
+            "img": null,
+            "id": "7275538597477294080"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "Checkmate against the odds and the tears of joy ❤️ Breaking Kasparov's Record, Gukesh becomes youngest Chess champion at 18 The championship began…",
+            "img": null,
+            "id": "7272980221748736001"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "From nostalgic beats and retro attire to shared laughter and timeless memories, check out the magic of ✨Annual Brew 2024!✨ Hit play to relive the…",
+            "img": "",
+            "id": "7267155666908176385"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "#InfosysPrize2024 in Mathematical Sciences is awarded to Prof. Neena Gupta of Indian Statistical Institute, Kolkata for her work on the Zariski…",
+            "img": "",
+            "id": "7262709547612479489"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "Life takes a full circle ! I have joined Indian Institute of Technology, Bombay as Assistant Professor 🙂 At 17 years of age I left home for Kota to…",
+            "img": "",
+            "id": "7260884946745995265"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "Hi Everyone, I’m incredibly excited to share that I’ve joined Dream11 as a Software Development Engineer - I ! It’s been a couple of weeks since I…",
+            "img": "",
+            "id": "7259950376479526913"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "Life update: I’m glad to share that I’ve embarked on my MBA journey at IIM Ahmedabad. Thanks to my family and friends for their constant…",
+            "img": "",
+            "id": "7210288763057369089"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "I am thrilled to announce that I have successfully completed my internship at the prestigious Tata Institute of Social Sciences. During my time at…",
+            "img": "",
+            "id": "7209598681526722560"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "Happy Father's Day to all our Penn State Dads out there 💙🤍 #WeAre",
+            "img": "",
+            "id": "7208136896546287616"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "\"It's about the journey. Not the destination\" Yesterday, we had a reunion of Indian Institute of Technology, Kharagpur class of 2016 in Bengaluru…",
+            "img": "",
+            "id": "7207988577933172738"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "Kal, 13 june- Hon. Supreme Court me humare case Alakh Pandey Vs National Testing Agency (NTA) ki hearing hai. We thank Hon. Supreme Court ki unhone…",
+            "img": "",
+            "id": "13"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "It is an immense pleasure and delight to welcome Prof. Rintu Banerjee as the new Deputy Director of Indian Institute of Technology, Kharagpur. Prof…",
+            "img": "",
+            "id": "7206690552422043648"
+        },
+        {
+            "interaction": "Liked by Anik Mondal",
+            "link": "",
+            "title": "Hello, connections! I am thrilled to share that I have joined RoshAi as a Research Intern! This opportunity aligns perfectly with my passion for…",
+            "img": "",
+            "id": "7206289844778528768"
+        }
+    ],
+    "linkedin_num_id": 833201526.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

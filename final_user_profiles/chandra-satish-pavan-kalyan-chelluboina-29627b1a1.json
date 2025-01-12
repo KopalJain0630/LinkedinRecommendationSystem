@@ -1,0 +1,70 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Imagineer at Fractal Analytics",
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Fractal",
+            "company_id": "fractal-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "description_html": null,
+            "duration": "Aug 2019 - Present 5 years 5 months",
+            "start_date": "Aug 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 5 months",
+            "company": "Electrical Engineering Society",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree(B.Tech + M.tech) on Instrumentation and signal processing",
+            "field": "Instrumentation Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Chaitanya College of Education",
+            "degree": "Intermediate",
+            "field": "Maths, Physics and Chemistry",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Analog Electronic Circuits\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture and Operating System\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronic Circuits\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Medical Image Analysis\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Transform Calculus\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID 4597BD6B8B18See credential",
+            "subtitle": "HackerRank",
+            "title": "problem solving"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning by Andrew NG"
+        }
+    ],
+    "current_company_name": "Fractal",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Handwriting Recognition\",\"start_date\":\"Dec 2020\",\"end_date\":\"Dec 2020\",\"description\":\"•Trained and Tested Handwritten Digits on Google Colab using dataset provided by MNIST•Created and trained a model based on Convolutional Neural Network(CNN) which is imported from Tensorflow library.•Created Visualizations and Intrepretation using NumPy, Pandas and Matplotlib libraries.•The MNIST Dataset is imported form Keras Datasets and performed the Neural Network with Rectified Linear Unit(ReLU) as an activation function.\"}]",
+    "honors_and_awards": null
+}

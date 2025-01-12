@@ -1,0 +1,589 @@
+{
+    "id": "animesh-awasthi",
+    "name": "Animesh Awasthi",
+    "city": "Vienna, Vienna, Austria",
+    "country_code": "AT",
+    "position": "PhD Student at CeMM | AI Institute at the Medical University of Vienna | ELLIS PhD Student | IIT Kharagpur'23",
+    "about": "I am a PhD student at the CeMM Research Center for Molecular Medicine of the Austrian Academy of Sciences and an ELLIS PhD at the Bock Lab (https://www.bocklab.org/). My research focuses on developing deep learning methods to understand the fundamental underpinnings of biology.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "CeMM",
+        "company_id": "cemm",
+        "title": "PhD Student at CeMM | AI Institute at the Medical University of Vienna | ELLIS PhD Student | IIT Kharagpur'23"
+    },
+    "experience": [
+        {
+            "title": "Pre Doctoral Fellow",
+            "description": "Christoph Bock Lab - Medical Epigenomics Lab",
+            "description_html": "Christoph Bock Lab - Medical Epigenomics Lab <!---->",
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "CeMM",
+            "company_id": "cemm",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "PHD Student",
+            "location": "Vienna, Austria",
+            "description": "Center for Medical Data Science - Institute of Artificial Intelligence - Bock Group",
+            "description_html": "Center for Medical Data Science - Institute of Artificial Intelligence - Bock Group <!---->",
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Medizinische Universität Wien",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Doctoral Student",
+            "location": "Vienna, Austria",
+            "description": "• Pursuing a PhD in ML applied to Biomedicine• Primary supervisor: Prof. Christoph Bock (CeMM & Medical University of Vienna)• Co-supervisor: Prof. Erik Bekkers (University of Amsterdam)",
+            "description_html": "• Pursuing a PhD in ML applied to Biomedicine• Primary supervisor: Prof. Christoph Bock (CeMM &amp; Medical University of Vienna)• Co-supervisor: Prof. Erik Bekkers (University of Amsterdam) <!---->",
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "ELLIS - European Laboratory for Learning and Intelligent Systems",
+            "company_id": "ellisforeurope",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Master Thesis",
+            "description": "Title: A deep learning approach to predict drug-target interactions for kinase inhibitors• Supervisor: Prof. Riddhiman Dhar (IIT Kharagpur) & Dr Matthew The (TU Munich)• Identified several kinases as drug targets for cancer treatment and prepared a drug-protein interaction database• Deploying graph-based methods to extract drug features and sequence-based approaches to extract protein features• Developing a deep learning method to predict drug-protein interaction using multi-head attention mechanism",
+            "description_html": "Title: A deep learning approach to predict drug-target interactions for kinase inhibitors• Supervisor: Prof. Riddhiman Dhar (IIT Kharagpur) &amp; Dr Matthew The (TU Munich)• Identified several kinases as drug targets for cancer treatment and prepared a drug-protein interaction database• Deploying graph-based methods to extract drug features and sequence-based approaches to extract protein features• Developing a deep learning method to predict drug-protein interaction using multi-head attention mechanism",
+            "duration": "Aug 2022 May 2023 10 months",
+            "start_date": "Aug 2022",
+            "end_date": "May 2023",
+            "duration_short": "10 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Welfare Group, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "4 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Apr 2021 - May 2023 2 years 2 months",
+                    "description": "• Governing a team of 50+ heads, student members, and associates addressing prominent issues related to students of IIT Kharagpur• Supervised several student welfare initiatives like the Student Mentorship Programme, Foresight etc., involving more than 10,000 students",
+                    "duration": "Apr 2021 May 2023 2 years 2 months",
+                    "start_date": "Apr 2021",
+                    "end_date": "May 2023",
+                    "duration_short": "2 years 2 months",
+                    "title": "Governor",
+                    "description_html": "• Governing a team of 50+ heads, student members, and associates addressing prominent issues related to students of IIT Kharagpur<br>• Supervised several student welfare initiatives like the Student Mentorship Programme, Foresight etc., involving more than 10,000 students <!---->"
+                },
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Oct 2020 - Apr 2021 7 months",
+                    "description": "A Student Body working under Gymkhana, IIT Kharagpur• Administered Student Mentor Programme 2020-21 covering about 1800 UG freshmen• Managed an online portal actively used by 2000+ students facilitating them academically• Leading a team of 30 student members and 35 Associates addressing prominent student-related issues",
+                    "duration": "Oct 2020 Apr 2021 7 months",
+                    "start_date": "Oct 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "7 months",
+                    "title": "Head Team Memeber",
+                    "description_html": "A Student Body working under Gymkhana, IIT Kharagpur<br>• Administered Student Mentor Programme 2020-21 covering about 1800 UG freshmen<br>• Managed an online portal actively used by 2000+ students facilitating them academically<br>• Leading a team of 30 student members and 35 Associates addressing prominent student-related issues <!---->"
+                },
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Jan 2020 - Sep 2020 9 months",
+                    "description": "• Conducted Student Mentor-Mentee Meeting program, Examania, and Foresight• Conducted Campus tour which saw a participation of 1400+ freshers• Lead a team of 32 Associates conducting activities for the welfare of students in the campus of IIT Kharagpur",
+                    "duration": "Jan 2020 Sep 2020 9 months",
+                    "start_date": "Jan 2020",
+                    "end_date": "Sep 2020",
+                    "duration_short": "9 months",
+                    "title": "Student Member",
+                    "description_html": "• Conducted Student Mentor-Mentee Meeting program, Examania, and Foresight<br>• Conducted Campus tour which saw a participation of 1400+ freshers<br>• Lead a team of 32 Associates conducting activities for the welfare of students in the campus of IIT Kharagpur <!---->"
+                },
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Mar 2019 - Dec 2019 10 months",
+                    "description": "A Student Body under The Office of Dean of Students’ Affairs. Conducts Student Mentor-Mentee Meeting programme, Placement Drive, Examania, Placement Talk, Bhamini & Programming and Data Structures Doubt Sessions, Virtual Mentor-Mentee Meeting, Early Mentor Selection. Also conducted python workshop for 1st and 2nd-year students and KGP Blood Connect (KBC) programme in respective Halls.",
+                    "duration": "Mar 2019 Dec 2019 10 months",
+                    "start_date": "Mar 2019",
+                    "end_date": "Dec 2019",
+                    "duration_short": "10 months",
+                    "title": "Associate",
+                    "description_html": "A Student Body under The Office of Dean of Students’ Affairs. Conducts Student Mentor-Mentee Meeting programme, Placement Drive, Examania, Placement Talk, Bhamini &amp; Programming and Data Structures Doubt Sessions, Virtual Mentor-Mentee Meeting, Early Mentor Selection. Also conducted python workshop for 1st and 2nd-year students and KGP Blood Connect (KBC) programme in respective Halls. <!---->"
+                }
+            ],
+            "company": "Student Welfare Group, IIT Kharagpur",
+            "company_id": "student-welfare-group-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Project",
+            "description": "Title: Discovering potential drugs for inhibiting the interaction of hACE2 receptor and spike protein across multiple SARS-CoV-2 variants of concern • Supervisor: Prof. Riddhiman Dhar (Department of Biotechnology)• Developed a computational method to screen drugs against protein targets across several variants of a pathogen• Automated the MD simulation pipeline and discovered two effective drugs by simulating drug-protein complexes• Presented research in the 9th IWBBIO Conference 2022, Spain on computationally discovering drugs against SARS-CoV-2 and its variants",
+            "description_html": "Title: Discovering potential drugs for inhibiting the interaction of hACE2 receptor and spike protein across multiple SARS-CoV-2 variants of concern • Supervisor: Prof. Riddhiman Dhar (Department of Biotechnology)• Developed a computational method to screen drugs against protein targets across several variants of a pathogen• Automated the MD simulation pipeline and discovered two effective drugs by simulating drug-protein complexes• Presented research in the 9th IWBBIO Conference 2022, Spain on computationally discovering drugs against SARS-CoV-2 and its variants",
+            "duration": "Mar 2021 May 2023 2 years 3 months",
+            "start_date": "Mar 2021",
+            "end_date": "May 2023",
+            "duration_short": "2 years 3 months",
+            "company": "Systems Biology Lab, IIT Kharagpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Undergraduate Research (SUR) Scholar",
+            "location": "Lausanne, Vaud, Switzerland",
+            "description": "Deciphering protein-protein interactions to build a computational vaccine construct using machine learning.",
+            "description_html": "Deciphering protein-protein interactions to build a computational vaccine construct using machine learning. <!---->",
+            "duration": "Jul 2022 Aug 2022 2 months",
+            "start_date": "Jul 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "2 months",
+            "company": "University of Lausanne - UNIL",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Management and Research",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "To develop the quantitative research pipeline and predict future trade movements using machine learning.",
+            "description_html": "To develop the quantitative research pipeline and predict future trade movements using machine learning. <!---->",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "APT Portfolio Private Limited",
+            "company_id": "a.p.t.-portfolio-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Singapore",
+            "description": "To build the AI and analytics pipelines of Neurobit for predictive health and personalized medicine• Assisted researchers from Columbia University and NUS in evaluating the performance of AI models built by Neurobit• Designed and deployed a 34-layer Convolutional Neural Network to predict Arrhythmia events from physiological data• Developed a scalable recommendation system to generate a personalized health report using physiological sleep data",
+            "description_html": "To build the AI and analytics pipelines of Neurobit for predictive health and personalized medicine• Assisted researchers from Columbia University and NUS in evaluating the performance of AI models built by Neurobit• Designed and deployed a 34-layer Convolutional Neural Network to predict Arrhythmia events from physiological data• Developed a scalable recommendation system to generate a personalized health report using physiological sleep data <!---->",
+            "duration": "Apr 2021 May 2022 1 year 2 months",
+            "start_date": "Apr 2021",
+            "end_date": "May 2022",
+            "duration_short": "1 year 2 months",
+            "company": "Neurobit Technologies",
+            "company_id": "neurobit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Bachelor Thesis",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Title: To discover potential drug inhibitors against Glioblastoma using in silico and in vitro study (Bachelor’s Thesis)• Supervisor: Prof. Mahitosh Mandal (School of Medical Science) & Prof. Pralay Mitra (Department of Computer Science)• Virtually screened approved drugs inhibiting Glioblastoma progression using molecular docking and MD simulations• Validated the top hits in vitro, using cell proliferation MTT assay and western blotting on cultured glioma cell lines",
+            "description_html": "Title: To discover potential drug inhibitors against Glioblastoma using in silico and in vitro study (Bachelor’s Thesis)• Supervisor: Prof. Mahitosh Mandal (School of Medical Science) &amp; Prof. Pralay Mitra (Department of Computer Science)• Virtually screened approved drugs inhibiting Glioblastoma progression using molecular docking and MD simulations• Validated the top hits in vitro, using cell proliferation MTT assay and western blotting on cultured glioma cell lines <!---->",
+            "duration": "Apr 2021 Apr 2022 1 year 1 month",
+            "start_date": "Apr 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "1 year 1 month",
+            "company": "CoSMoS lab, Department of Computer Science and Engineering, IIT Kharagpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "UTSIP Scholar - Summer Intern",
+            "location": "Tokyo, Japan",
+            "description": "Among the 15 students selected worldwide for the University of Tokyo Summer Internship Program Online Intensive (UTSIP Kashiwa).Performed research under the guidance of Prof. Martin Frith, Department of Computational Biology and Medical Sciences, GSFS, UTokyo (Kashiwa Campus). My project revolved around understanding, analyzing and comparing sparse-seeding algorithms such as Minimizers, Syncmers and Minimally overlapping words.",
+            "description_html": "Among the 15 students selected worldwide for the University of Tokyo Summer Internship Program Online Intensive (UTSIP Kashiwa).Performed research under the guidance of Prof. Martin Frith, Department of Computational Biology and Medical Sciences, GSFS, UTokyo (Kashiwa Campus). My project revolved around understanding, analyzing and comparing sparse-seeding algorithms such as Minimizers, Syncmers and Minimally overlapping words. <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "The University of Tokyo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Worked on three projects during the internship at SharmaG_omics lab.• Project 1: To understand phage-host interaction among tailed phages. | Supervisor: Dr. Gaurav Sharma• Project 2: To develop a tool to analyze general genomic features for a given sequence. | Supervisor: Dr. Gaurav Sharma• Project 3: Written a book chapter titled “Computational approach for Vaccine Designing” for the book “Bioinformatics: Methods and Application” (Elsevier) | Supervisor: Dr. Gaurav Sharma.",
+            "description_html": "• Worked on three projects during the internship at SharmaG_omics lab.• Project 1: To understand phage-host interaction among tailed phages. | Supervisor: Dr. Gaurav Sharma• Project 2: To develop a tool to analyze general genomic features for a given sequence. | Supervisor: Dr. Gaurav Sharma• Project 3: Written a book chapter titled “Computational approach for Vaccine Designing” for the book “Bioinformatics: Methods and Application” (Elsevier) | Supervisor: Dr. Gaurav Sharma. <!---->",
+            "duration": "Jul 2020 Dec 2020 6 months",
+            "start_date": "Jul 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "6 months",
+            "company": "Institute of Bioinformatics and Applied Biotechnology (IBAB)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "description": "•Generated INR 3.55 Million through Sponsorship from 34 companies (200% YOY Increase) for the 54th edition of Inter IIT Sports Meet•Organized 548 sporting events, 2 Pronites and 2 Guest lectures which saw a participation of 3000+ students and coaches from all the 23 IITs.•Part of a team of 12 Core Team Members responsible for catering the branding & publicity requirements of all the 34 companies during the 54th Inter IIT Sports Meet",
+            "description_html": "•Generated INR 3.55 Million through Sponsorship from 34 companies (200% YOY Increase) for the 54th edition of Inter IIT Sports Meet•Organized 548 sporting events, 2 Pronites and 2 Guest lectures which saw a participation of 3000+ students and coaches from all the 23 IITs.•Part of a team of 12 Core Team Members responsible for catering the branding &amp; publicity requirements of all the 34 companies during the 54th Inter IIT Sports Meet <!---->",
+            "duration": "Sep 2019 Feb 2020 6 months",
+            "start_date": "Sep 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "6 months",
+            "company": "Inter IIT Sports Meet",
+            "company_id": "inter-iit-sports-meet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate",
+            "location": "Kharagpur Area, India",
+            "description": "As an Associate Member, I assisted the team working primarily on three fronts: Networking, Corporate Media Bannering, and Event Management with an objective to keep the alumni connected to their Alma Mater and to keep them updated about the latest happenings in the Institute. We organized the 16th Annual Alumni Meet to reconnect the alumni.",
+            "description_html": "As an Associate Member, I assisted the team working primarily on three fronts: Networking, Corporate Media Bannering, and Event Management with an objective to keep the alumni connected to their Alma Mater and to keep them updated about the latest happenings in the Institute. We organized the 16th Annual Alumni Meet to reconnect the alumni. <!---->",
+            "duration": "Oct 2018 Apr 2019 7 months",
+            "start_date": "Oct 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "7 months",
+            "company": "Students'​ Alumni Cell, Office of Alumni Affairs, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ritish Dutt",
+            "about": "Program Manager at Multiplier | IIT KGP '23",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajat Bhandari",
+            "about": "Building GenAI SAAS for eCommerce @ MySellerCentral | IIT Madras | ex. Pepperfry | ex. Sutherland Global",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumit Raj",
+            "about": "Quant Dev @ANZ | IIT KHARAGPUR",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Suraj Karingala",
+            "about": "Applications Engineer@Oracle | ECE IITG'22",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Gayathri Natarajan",
+            "about": "Supply Chain @ Unilever | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Yashwant Saini",
+            "about": "Machine Learning Engineer @ AmEx | IIT Madras",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bikash Kumar Sahoo",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Samarth Hunchalgi",
+            "about": "Team Member at EVG IIT Kharagpur",
+            "location": null
+        },
+        {
+            "profile_link": "",
+            "name": "Priyesh Verma",
+            "about": "Software Design Consultant @ HighRadius | Technology Management | Business Data Analytics | Ex- AT&T | Ex- EY | IIT Bombay | UIUC",
+            "location": "Houston, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Jain",
+            "about": "PM @ Licious | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Princy Asawa",
+            "about": "Senior Analyst at Goldman Sachs | IIT Guwahati",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Raj Ranjan Shrivastava",
+            "about": "Incoming Global Markets Analyst intern @ JP Morgan Chase & Co. | FRM-1 | IIT Kharagpur",
+            "location": "Jabalpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Manav Singh Raghav",
+            "about": "SDE 2 @ Zomato | IIT Kharagpur Graduate",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Piyush B Prince",
+            "about": "SDE @Amazon | IIT Guwahati '22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Agnihotri",
+            "about": "Assistant Manager - Data Scientist @EXL Digital || IIT Kharagpur'23",
+            "location": "Gondia"
+        },
+        {
+            "profile_link": "",
+            "name": "Prahar Jamnik",
+            "about": "Engineer | Learner | Public Policy",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Divyansh Gupta",
+            "about": "Product Developer | TCG Digital | IIT Kharagpur | Full Stack | MERN",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Nihit Kalyanpad",
+            "about": "Product at Ace Turtle",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Beniwal",
+            "about": null,
+            "location": "Hanumangarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhankar Banerjee",
+            "about": "MTS @Oracle | SDE Intern '21 @Oracle | IIT KHARAGPUR'22 | E&EC - Major | CSE-Minor|",
+            "location": "Midnapore Sadar"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (Btech+Mtech)",
+            "field": "Biotechnology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020Credential ID P5SV99TT8YEXSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "AI for Medicine Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID RXTT866BDESHSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID VV337Y6R7Z74See credential",
+            "subtitle": "Icahn School of Medicine at Mount Sinai",
+            "title": "Dynamical Modeling Methods for Systems Biology"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID ZV2XZTFS6WYFSee credential",
+            "subtitle": "The Johns Hopkins University",
+            "title": "Genomic Data Science Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID PQ9DL7GBL675See credential",
+            "subtitle": "Duke University",
+            "title": "Introduction to Probability and Data with R"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID S3K58GHWTQN8See credential",
+            "subtitle": "The Linux Foundation",
+            "title": "Open Source Software Development Methods"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 2KV4988QCQNTSee credential",
+            "subtitle": "University of Michigan",
+            "title": "Time Value of Money"
+        },
+        {
+            "meta": "Issued May 2020Credential ID E7XTSFNTYT94See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "AI For Everyone"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 158809238243See credential",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts - Core Concepts"
+        },
+        {
+            "meta": "Issued May 2020Credential ID KTWM98HHWDC8See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "Getting Started with AWS Machine Learning"
+        },
+        {
+            "meta": "Issued May 2020Credential ID X7P85KETZ22VSee credential",
+            "subtitle": "Icahn School of Medicine at Mount Sinai",
+            "title": "Introduction to Systems Biology"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 2N28DV8DGBY6See credential",
+            "subtitle": "The Johns Hopkins University",
+            "title": "R Programming"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID UK9AVLL56VG4See credential",
+            "subtitle": "University of California San Diego",
+            "title": "Biology Meets Programming: Bioinformatics for Beginners "
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID S529YFHXJYCUSee credential",
+            "subtitle": "The Johns Hopkins University",
+            "title": "The Data Scientist’s Toolbox "
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Jul 2023 · 5 years 1 month",
+            "duration_short": "5 years 1 month",
+            "end_date": "Jul 2023",
+            "info": "Working for the selfless service of the people in the villages in and around Kharagpur, West Bengal. Successfully conducting activities like literary, road-constructions, awareness rallies, blood donation camps, medical camps,cloth distribution, tree plantations, cleaning, etc",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 3043.0,
+    "connections": 500.0,
+    "current_company_company_id": "cemm",
+    "current_company_name": "CeMM",
+    "publications": "[{\"title\":\"Benchmarking performance of an automatic polysomnography scoring system in a population with suspected sleep disorders\",\"subtitle\":\"Frontiers in Neurology\",\"date\":\"February 17, 2023\",\"description\":\"Aim: The current gold standard for measuring sleep disorders is polysomnography (PSG), which is manually scored by a sleep technologist. Scoring a PSG is time-consuming and tedious, with substantial inter-rater variability. A deep-learning-based sleep analysis software module can perform autoscoring of PSG. The primary objective of the study is to validate the accuracy and reliability of the autoscoring software. The secondary objective is to measure workflow improvements in terms of time and cost via a time motion study.Methodology: The performance of an automatic PSG scoring software was benchmarked against the performance of two independent sleep technologists on PSG data collected from patients with suspected sleep disorders. The technologists at the hospital clinic and a third-party scoring company scored the PSG records independently. The scores were then compared between the technologists and the automatic scoring system. An observational study was also performed where the time taken for sleep technologists at the hospital clinic to manually score PSGs was tracked.Results: Pearson's correlation between the manually scored apnea–hypopnea index (AHI) and the automatically scored AHI was 0.962, demonstrating a near-perfect agreement. The autoscoring system demonstrated similar results in sleep staging. The agreement between automatic staging and manual scoring was higher in terms of accuracy and Cohen's kappa than the agreement between experts. The autoscoring system took an average of 42.7 s to score each record compared with 4,243 s for manual scoring. Following a manual review of the auto scores, an average time savings of 38.6 min per PSG was observed, amounting to 0.25 full-time equivalent (FTE) savings per year.Conclusion: The findings indicate a potential for a reduction in the burden of manual scoring of PSGs by sleep technologists and may be of operational significance for sleep laboratories in the healthcare setting.\"},{\"title\":\"An automated heart rate-based algorithm for sleep stage classification: Validation using conventional polysomnography and an innovative wearable electrocardiogram device\",\"subtitle\":\"Frontiers in Neuroscience\",\"date\":\"October 6, 2022\",\"description\":\"The rapid advancement in wearable solutions to monitor and score sleep staging has enabled monitoring outside of the conventional clinical settings. However, most of the devices and algorithms lack extensive and independent validation, a fundamental step to ensure robustness, stability, and replicability of the results beyond the training and testing phases. These systems are thought not to be feasible and reliable alternatives to the gold standard, polysomnography (PSG).\"},{\"title\":\"Chapter 20 - Computational approaches for vaccine designing\",\"subtitle\":\"Elsevier\",\"date\":\"October 1, 2021\",\"description\":\"Traditional approaches to design a vaccine have failed in providing broad spectrum and long-term protection against various bacterial and viral infections. In the postgenomic era, identification of a specific antigenic region for activating a specific arm of an immune system has been the greatest challenge. To address this critical issue, in the last two decades vaccine designing has become a significant field of interest for researchers. Numerous web-based resources have been developed, which have proved extremely helpful in in silico vaccine designing. In this chapter, we discussed computational tools designed for the antigen selection and related immunological databases, in silico tools developed for linear and conformational B-cell epitope prediction, resources developed for T-cell epitopes or MHC class I and II binders, and tools developed for other miscellaneous properties of vaccines, such as toxicity, half-life, and delivery. In the end, we also discussed the role of next-generation sequencing technologies in vaccine development.\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Vienna",
+    "linkedin_id": "animesh-awasthi",
+    "activity": [
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Yesterday, we started an end of year series showing you the top 5 news our readers were most interested in this year. 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐧𝐮𝐦𝐛𝐞𝐫 𝟒:…",
+            "img": null,
+            "id": "7278747471315447808"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Join Marvin Schmitt, a PhD student in the ELLIS program at University of Stuttgart, as he shares his experiences from his research visit at Aalto…",
+            "img": null,
+            "id": "7277957576707719169"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Our team received the Best Paper Award at the Workshop on Advancements In Medical Foundation Models at #NeurIPS2024! 🎉 In \"Towards Foundation…",
+            "img": null,
+            "id": "7278083280308981760"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "CeMM wishes you a joyful holiday season and a wonderful start into the New Year! #Christmas2024 #NewYear2025🎄✨ Read our season greetings:…",
+            "img": "",
+            "id": "7276871788792340481"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Last week, I graduated in Human Robot Interactions from EIT Manufacturing Master & Doctoral School at a vibrant ceremony held in Porto…",
+            "img": "",
+            "id": "7273843782553337856"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Exciting news! It's great to see that there is a growing interest in human organoids in the pharmaceutical industry and from companies like Merck…",
+            "img": "",
+            "id": "7274806276641984512"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "We accelerate our journey from scientific discoveries to breakthrough therapies at Boehringer Ingelheim by investing into the power of Computational…",
+            "img": "",
+            "id": "7275838434554847234"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Many thanks to Keith for writing this article. Hopefully, I can evacuate Gaza as soon as possible to take on my role and continue pursuing my…",
+            "img": "",
+            "id": "7275951868093059072"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "After nearly 5 years of hard work, countless challenges, and endless dedication, I’m proud to share that I’ve successfully defended my PhD just in…",
+            "img": "",
+            "id": "5"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Was great to collaborate with Marshall Van Alstyne, Chiara Farronato and Paolo Cervinion this Harvard Business Review article that outlines steps for…",
+            "img": "",
+            "id": "7275890067242369026"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Prospective PhD students in Cheminformatics / computational chemistry!",
+            "img": "",
+            "id": "7270047748492529665"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Looking for a fully funded PhD position in wonderful Vienna? The CeMM PhD program is now open for applications! 🎓 🥼 🧫 We are seeking passionate…",
+            "img": "",
+            "id": "7275521261143740417"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "Nice article about CellWhisperer – our new multimodal AI that turns single-cell RNA-seq analysis into a conversation. No coding needed, just chat in…",
+            "img": "",
+            "id": "7275536013018484737"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "We are proud to share that HeartBeat.bio AG has been awarded a €587k HealthCare grant by the City of Vienna! This grant highlights the uniqueness…",
+            "img": "",
+            "id": "7275275962043224064"
+        },
+        {
+            "interaction": "Liked by Animesh Awasthi",
+            "link": "",
+            "title": "🚨 MrBiomics Module Alert: Introducing our scCRISPR-seq Perturbation Analysis Workflow 🚀 🔍 Why this matters: Single-cell CRISPR screens…",
+            "img": "",
+            "id": "7275449857253781505"
+        }
+    ],
+    "linkedin_num_id": 709385079.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "city": "Andorra la Vella, Andorra",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Bangalore",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2010",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2004",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2023",
+            "subtitle": "ClickUp",
+            "title": "ClickUp Power User"
+        },
+        {
+            "meta": "Issued Dec 2014",
+            "subtitle": "Threon - Leadership in Organizational Project Management",
+            "title": "Project Portfolio Management"
+        }
+    ],
+    "current_company_name": "Stere",
+    "publications": null,
+    "patents": "[{\"title\":\"System and method for obtaining information relating to an item of commerce via a network of virtual assistants\",\"patents_id\":\"US 62659134\",\"description\":\"The present disclosure relates generally to the field of information related to an item of commerce. More specifically, the present disclosure provides system and method for communicating and obtaining information related to products and services via network of virtual assistants.\"}]",
+    "projects": null,
+    "honors_and_awards": null
+}

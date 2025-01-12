@@ -1,0 +1,185 @@
+{
+    "city": "Stockholm, Stockholm County, Sweden",
+    "position": "Junior Machine Learning Engineer, Tracab",
+    "experience": [
+        {
+            "title": "Junior Machine Learning Engineer",
+            "location": "Stockholm, Stockholm County, Sweden",
+            "description_html": null,
+            "duration": "Sep 2022 - Present 2 years 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 4 months",
+            "company": "TRACAB",
+            "company_id": "tracab",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern R&D",
+            "location": "Stockholm, Stockholm County, Sweden",
+            "description_html": null,
+            "duration": "Jun 2022 Aug 2022 3 months",
+            "start_date": "Jun 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "3 months",
+            "company": "Ericsson",
+            "company_id": "ericsson",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "Nov 2021 Jun 2022 8 months",
+            "start_date": "Nov 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "8 months",
+            "company": "Snappet",
+            "company_id": "snappet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern R&D",
+            "location": "Stockholm, Stockholm County, Sweden",
+            "description": "Project: Network Dimensioning using Bayesian Machine Learning Model• Conducted exploratory data analysis, modeling, and operationalization of a trained predictor for resourceconsumption for one of the network elements.• Operationalized the ML training pipeline using Dataiku’s Data Science Studio (DSS) for integration to webapplication.",
+            "description_html": "Project: Network Dimensioning using Bayesian Machine Learning Model• Conducted exploratory data analysis, modeling, and operationalization of a trained predictor for resourceconsumption for one of the network elements.• Operationalized the ML training pipeline using Dataiku’s Data Science Studio (DSS) for integration to webapplication. <!---->",
+            "duration": "Jun 2021 Aug 2021 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "3 months",
+            "company": "Ericsson",
+            "company_id": "ericsson",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant at Department of Agricultural and Food Engineering, IIT Kharagpur",
+            "description": "Project: Deep Reinforcement Learning for Motion Generation of a Hexapod Robot• Conducted literature review on the state-of-the-art deep reinforcement learning methods for motiongeneration of a multi-legged robot and to gain knowledge on deep reinforcement learning.Project: Modelling the Clay Content using DRS Spectral Data• Developed models for clay content prediction using PLS regression, BPNN and Ensemble Learning Model.• Pre-processed the spectral data using Savitzky-Golay derivatives, Log(1/Ri), multiplicative scatter correction(MSC) and standard normal variate (SNV).• Designed the models combining PLS regression with pre-processing techniques, combining variable selectionalgorithms with BPNN and ensemble learning model by using PLS regression models as base learners.• Analysed the error in prediction models using RMSE, RPD and R2.",
+            "description_html": "Project: Deep Reinforcement Learning for Motion Generation of a Hexapod Robot• Conducted literature review on the state-of-the-art deep reinforcement learning methods for motiongeneration of a multi-legged robot and to gain knowledge on deep reinforcement learning.Project: Modelling the Clay Content using DRS Spectral Data• Developed models for clay content prediction using PLS regression, BPNN and Ensemble Learning Model.• Pre-processed the spectral data using Savitzky-Golay derivatives, Log(1/Ri), multiplicative scatter correction(MSC) and standard normal variate (SNV).• Designed the models combining PLS regression with pre-processing techniques, combining variable selectionalgorithms with BPNN and ensemble learning model by using PLS regression models as base learners.• Analysed the error in prediction models using RMSE, RPD and R2.",
+            "duration": "Jul 2019 Jun 2020 1 year",
+            "start_date": "Jul 2019",
+            "end_date": "Jun 2020",
+            "duration_short": "1 year",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Intern",
+            "description": "Project: Arrow, Bracket and Callout detection Model and Description generation of Balance Sheets • Worked in developing an Arrow, Bracket and Callout detection model (ABC Model) for Accounting Tables, using SSD (single Shot Detection) architecture. • Generated artificial data for ABC model using OpenCV • Developed a module to calculate the performance metrics of the model • Worked in automating the description generation of Balance sheets.Developed the modules for grouping and mapping of table contents using OCR, LSD and self designed module to group contents based on spacing.",
+            "description_html": "Project: Arrow, Bracket and Callout detection Model and Description generation of Balance Sheets • Worked in developing an Arrow, Bracket and Callout detection model (ABC Model) for Accounting Tables, using SSD (single Shot Detection) architecture. • Generated artificial data for ABC model using OpenCV • Developed a module to calculate the performance metrics of the model • Worked in automating the description generation of Balance sheets.Developed the modules for grouping and mapping of table contents using OCR, LSD and self designed module to group contents based on spacing.",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Continual Engine Pvt Ltd",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant at Vinod Gupta School of Management, IIT Kharagpur",
+            "location": "Kharagpur Area, India",
+            "description": "Project II : Stock Market Forecasting using Evolutionary Prediction Model • Developed a Stock Market Prediction Model using Mamdani Fuzzy rule based system (FRBS) in R. • Developed the rule base with RIPPER by converting a regression problem into classification problem using modified Chi-merge discretization. • Tuned the data base using genetic algorithm. • Designed triangular, trapezoidal and Guassian membership functions for FRBS using intervals from discretization. • Studied the effect of membership function on prediction error by monitoring the MAPE for stock price data sets.Project I : Portfolio Optimization Using Multi Objective Genetic Algorithms • Developed a model in python for Optimization of portfolio using multi objective genetic algorithms. • Designed the objective function using risk and return of the portfolio to obtain the pareto optimal front for risk-return trade off • Developed modules for multi objective genetic algorithms Vector Evaluated Genetic algorithm (VEGA), Fuzzy VEGA, Multi Objective Genetic Algorithm (MOGA) and Non-Dominated Sorting Genetic Algorithm (NSGA) by including unity constraint, cardinality constraint, floor constraint and round-a-lot constraint.",
+            "description_html": "Project II : Stock Market Forecasting using Evolutionary Prediction Model • Developed a Stock Market Prediction Model using Mamdani Fuzzy rule based system (FRBS) in R. • Developed the rule base with RIPPER by converting a regression problem into classification problem using modified Chi-merge discretization. • Tuned the data base using genetic algorithm. • Designed triangular, trapezoidal and Guassian membership functions for FRBS using intervals from discretization. • Studied the effect of membership function on prediction error by monitoring the MAPE for stock price data sets.Project I : Portfolio Optimization Using Multi Objective Genetic Algorithms • Developed a model in python for Optimization of portfolio using multi objective genetic algorithms. • Designed the objective function using risk and return of the portfolio to obtain the pareto optimal front for risk-return trade off • Developed modules for multi objective genetic algorithms Vector Evaluated Genetic algorithm (VEGA), Fuzzy VEGA, Multi Objective Genetic Algorithm (MOGA) and Non-Dominated Sorting Genetic Algorithm (NSGA) by including unity constraint, cardinality constraint, floor constraint and round-a-lot constraint.",
+            "duration": "Apr 2018 May 2019 1 year 2 months",
+            "start_date": "Apr 2018",
+            "end_date": "May 2019",
+            "duration_short": "1 year 2 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Cochin Area, India",
+            "description": "Project: Generating Rank of Celebreties and Representing the Causation using Wordcloud • Worked in developing a product to rank celebrities, based on the data collected from various articles in online news. • Designed an algorithm to alert the aberrations in data collections using central limit theorem. • Developed python code to generate bigrams and trigrams from article contents imported using Solr and ranked them using likelihood ratio. Used wordclouds to visualize the data based on the ranking. • Learned and used basic Git commands to integrate the developed modules to work flow.",
+            "description_html": "Project: Generating Rank of Celebreties and Representing the Causation using Wordcloud • Worked in developing a product to rank celebrities, based on the data collected from various articles in online news. • Designed an algorithm to alert the aberrations in data collections using central limit theorem. • Developed python code to generate bigrams and trigrams from article contents imported using Solr and ranked them using likelihood ratio. Used wordclouds to visualize the data based on the ranking. • Learned and used basic Git commands to integrate the developed modules to work flow.",
+            "duration": "Jun 2018 Jul 2018 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "2 months",
+            "company": "Turbolab Technologies",
+            "company_id": "turbolab-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Intern",
+            "location": "Thrissur, Kerala",
+            "description": "Cognitio is an educational start-up. I worked as a part of marketing and content development team and also conducted AISAT 2015 in Thrissur (Kerala) region.",
+            "description_html": "Cognitio is an educational start-up. I worked as a part of marketing and content development team and also conducted AISAT 2015 in Thrissur (Kerala) region. <!---->",
+            "duration": "Dec 2015 Jan 2016 2 months",
+            "start_date": "Dec 2015",
+            "end_date": "Jan 2016",
+            "duration_short": "2 months",
+            "company": "Cognitio Education",
+            "company_id": "cognitio-education",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "KTH Royal Institute of Technology",
+            "degree": "Master's degree",
+            "field": "Machine Learning",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Agricultural and Food Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Agri Systems and Management",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advanced Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Algorithms-I\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Computational Statistics\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"Mathematics I & II\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Partial Differential Equation \"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Regression and Time Series Model\"},{\"subtitle\":\"-\",\"title\":\"Stochastic Processes in Finance\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Jun 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Apr 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "TRACAB",
+    "publications": "[{\"title\":\"A Study on the Effect of Fuzzy Membership Function on Fuzzified RIPPER for Stock Market Prediction\",\"subtitle\":\"International Conference of Machine Learning and Soft Computing 2020\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Deep Reinforcement Learning for Coordinated Motion Planning of a Hexapod Mobile Manipulator\",\"start_date\":\"Jul 2019\",\"end_date\":\"Present\"},{\"title\":\"Stock Market Prediction Model\",\"start_date\":\"Dec 2018\",\"end_date\":\"May 2019\"},{\"title\":\"Optimization of Portfolio using Multi Objective Genetic Algorithms\",\"start_date\":\"Apr 2018\",\"end_date\":\"Nov 2018\"}]",
+    "honors_and_awards": null
+}

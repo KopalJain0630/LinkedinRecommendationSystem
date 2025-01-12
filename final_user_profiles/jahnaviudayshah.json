@@ -1,0 +1,154 @@
+{
+    "city": "San Francisco Bay Area",
+    "position": "Product Manager @ Ingram Micro | Berkeley Haas MBA | ex. Amazon | Data Monetization",
+    "experience": [
+        {
+            "title": "Technical Product Manager",
+            "description": "Marketing, supply chain and growth insights across the platform for sellers and buyers",
+            "description_html": "Marketing, supply chain and growth insights across the platform for sellers and buyers <!---->",
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Ingram Micro",
+            "company_id": "ingram-micro",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Manager MBA Intern",
+            "location": "San Francisco Bay Area",
+            "description": "Set product vision and strategy for an autonomous vehicle fleet remote servicing product by organizing a team of engineers,  program managers and operators achieving an anticipated $64M in hardware cost savings and enhancing operational efficiency by 20%Defined the roadmap, requirements & product success metrics to build new features and improve the adoption of existing features for Fleet Tool enhancements, aiming to boost technician productivity; enabling a 40% user effort reduction",
+            "description_html": "Set product vision and strategy for an autonomous vehicle fleet remote servicing product by organizing a team of engineers, program managers and operators achieving an anticipated $64M in hardware cost savings and enhancing operational efficiency by 20%Defined the roadmap, requirements &amp; product success metrics to build new features and improve the adoption of existing features for Fleet Tool enhancements, aiming to boost technician productivity; enabling a 40% user effort reduction <!---->",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "Cruise",
+            "company_id": "getcruise",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Product Manager - Delivery Experience",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Crafted and executed a vision to build a speed loss attribution tool that enhanced our speed delivery program in Australia, Mexico, Singapore and Brazil. I closely collaborated with data engineering, finance, and CX product teams. By leveraging advanced analytics and thinking backward from the customer's POV, I ensured our platform delivered optimal selection and speed, contributing significantly to Amazon’s market leadership in rapid delivery solutions.",
+            "description_html": "Crafted and executed a vision to build a speed loss attribution tool that enhanced our speed delivery program in Australia, Mexico, Singapore and Brazil. I closely collaborated with data engineering, finance, and CX product teams. By leveraging advanced analytics and thinking backward from the customer's POV, I ensured our platform delivered optimal selection and speed, contributing significantly to Amazon’s market leadership in rapid delivery solutions. <!---->",
+            "duration": "Jun 2021 Jun 2022 1 year 1 month",
+            "start_date": "Jun 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "1 year 1 month",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Product Manager",
+            "location": "Pune, Maharashtra, India",
+            "description": "Led the development of a comprehensive big data analytics product focused on patient journey analysis. This tool was instrumental in generating actionable insights for marketing and sales strategies, enabling directors to effectively evaluate market dynamics, track drug performance, and understand patient transitions. My leadership in this project supported the successful launch of two novel immunology drugs, contributing to a portfolio value of $18 billion. This platform provided critical data on market share, sources of business, and patient migration patterns, thereby driving informed decision-making and significant market growth.",
+            "description_html": "Led the development of a comprehensive big data analytics product focused on patient journey analysis. This tool was instrumental in generating actionable insights for marketing and sales strategies, enabling directors to effectively evaluate market dynamics, track drug performance, and understand patient transitions. My leadership in this project supported the successful launch of two novel immunology drugs, contributing to a portfolio value of $18 billion. This platform provided critical data on market share, sources of business, and patient migration patterns, thereby driving informed decision-making and significant market growth.",
+            "duration": "Jun 2019 Jun 2021 2 years 1 month",
+            "start_date": "Jun 2019",
+            "end_date": "Jun 2021",
+            "duration_short": "2 years 1 month",
+            "company": "ZS",
+            "company_id": "zs-associates",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Bangalore",
+            "description": "Infrastructure automation solutions for Enterprise B2B software.",
+            "description_html": "Infrastructure automation solutions for Enterprise B2B software. <!---->",
+            "duration": "Jan 2019 Jun 2019 6 months",
+            "start_date": "Jan 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "6 months",
+            "company": "Societe Generale Global Solution Centre",
+            "company_id": "societe_generale_global_solution_centre",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Calcutta",
+            "description": "Hybrid Cloud Computing and OpenStack basics",
+            "description_html": "Hybrid Cloud Computing and OpenStack basics <!---->",
+            "duration": "Dec 2016 Jan 2017 2 months",
+            "start_date": "Dec 2016",
+            "end_date": "Jan 2017",
+            "duration_short": "2 months",
+            "company": "Ericsson",
+            "company_id": "ericsson",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Kolkata, West Bengal, India",
+            "description": "4G basics from an IT perspective",
+            "description_html": "4G basics from an IT perspective <!---->",
+            "duration": "May 2016 Jul 2016 3 months",
+            "start_date": "May 2016",
+            "end_date": "Jul 2016",
+            "duration_short": "3 months",
+            "company": "Vodafone Idea Limited",
+            "company_id": "vodafone-idea-limited",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "University of California, Berkeley, Haas School of Business",
+            "degree": "Master of Business Administration - MBA",
+            "field": "Certificate in Sustainability",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vellore Institute of Technology",
+            "degree": "Engineer’s Degree",
+            "field": "Computer Science",
+            "url": "",
+            "description": "Activities and Societies: Google Developers Group, Bulls and Bears- Finance Club, Uddeshya",
+            "description_html": "Activities and Societies: Google Developers Group, Bulls and Bears- Finance Club, Uddeshya",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Apeejay School",
+            "degree": "class 10 + 12",
+            "field": "science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Understanding and Visualizing Data with Python by University of Michigan on Coursera. Certificate earned at 04/19/2020\"}]",
+    "certifications": null,
+    "current_company_name": "Ingram Micro",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Letter of Appreciation by Education Minister of India",
+            "publication": "-",
+            "date": null,
+            "description": "Received Letter of Appreciation from the Health and Education Minister of India for commendable performance in class 12."
+        },
+        {
+            "title": "Pratibha Scholarship",
+            "publication": "Aditya Birla Group",
+            "date": null,
+            "description": null
+        }
+    ]
+}

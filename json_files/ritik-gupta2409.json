@@ -1,0 +1,381 @@
+{
+    "id": "ritik-gupta2409",
+    "name": "Ritik Gupta",
+    "city": "Delhi, India",
+    "country_code": "IN",
+    "position": "Software Engineer III at Cisco | IIT Roorkee'21",
+    "about": "Completed my B.Tech in Chemical Engineering from IIT Roorkee. With an inquisitive mind I am exploring my interest in different areas and gaining immense exposure.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Cisco",
+        "company_id": "cisco",
+        "title": "Software Engineer III at Cisco | IIT Roorkee'21"
+    },
+    "experience": [
+        {
+            "title": "Cisco",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Cisco",
+                    "meta": "Oct 2024 - Present 3 months",
+                    "description": "Working on the infra features/bugs/triages for the upcoming sillicon one PIDs",
+                    "duration": "Oct 2024 - Present 3 months",
+                    "start_date": "Oct 2024",
+                    "end_date": "Present",
+                    "duration_short": "3 months",
+                    "title": "Software Engineer III",
+                    "description_html": "Working on the infra features/bugs/triages for the upcoming sillicon one PIDs <!---->"
+                },
+                {
+                    "subtitle": "Cisco",
+                    "meta": "Aug 2021 - Oct 2024 3 years 3 months",
+                    "description": "Actively working on optical modules (diff form factors : SFP/QSFP/QDD) for the access and pre agg products in the Service Provider Routing platformsHelped in creating simulation frameworks",
+                    "duration": "Aug 2021 Oct 2024 3 years 3 months",
+                    "start_date": "Aug 2021",
+                    "end_date": "Oct 2024",
+                    "duration_short": "3 years 3 months",
+                    "title": "Software Engineer II",
+                    "description_html": "Actively working on optical modules (diff form factors : SFP/QSFP/QDD) for the access and pre agg products in the Service Provider Routing platforms<br>Helped in creating simulation frameworks <!---->"
+                }
+            ],
+            "company": "Cisco",
+            "company_id": "cisco",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "President",
+            "location": "Roorkee, Uttaranchal, India",
+            "description": "Aahar is inspired from the Robinhood Army which is an international organisation aimed at serving the poor and needy through unconsumed food distributionInspired and accompanied with 100 volunteers utilizing more than 20 kgs of surplus food of IIT Roorkee messes each week on an average feeding 100-200 people per driveCurrently distributing in 2 nearby slums around the IIT Roorkee campus facilitating  2 drives per weekWorked upon the \"Neki ki Peti\" campaign 2019 & 2020 wherein boxes are kept in hostels to collect clothes to be distributed in slums",
+            "description_html": "Aahar is inspired from the Robinhood Army which is an international organisation aimed at serving the poor and needy through unconsumed food distributionInspired and accompanied with 100 volunteers utilizing more than 20 kgs of surplus food of IIT Roorkee messes each week on an average feeding 100-200 people per driveCurrently distributing in 2 nearby slums around the IIT Roorkee campus facilitating 2 drives per weekWorked upon the \"Neki ki Peti\" campaign 2019 &amp; 2020 wherein boxes are kept in hostels to collect clothes to be distributed in slums",
+            "duration": "Jan 2019 Jun 2021 2 years 6 months",
+            "start_date": "Jan 2019",
+            "end_date": "Jun 2021",
+            "duration_short": "2 years 6 months",
+            "company": "AAHAR: Fighting hunger",
+            "company_id": "aahar-fighting-hunger",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Head Finance",
+            "location": "Uttaranchal, India",
+            "description": "Cognizance is the annual technical fest of IIT ROORKEE. It is one of the largest tech fest which has a footfall of more than 30,000. Advanced the association of varied corporates and startups engendering to a budget of 13 million INR for Cognizance '19.Managed the the total budget to meet the expenses as regards to logistics and event conduction during the festival.Organised first ever regional level India Skills competition of Uttarakhand State in coordination of UKSDM.Conducted first ever Uttarakhand Talent Search Examination coordinating with many schools witnessing 3500+ students.",
+            "description_html": "Cognizance is the annual technical fest of IIT ROORKEE. It is one of the largest tech fest which has a footfall of more than 30,000. Advanced the association of varied corporates and startups engendering to a budget of 13 million INR for Cognizance '19.Managed the the total budget to meet the expenses as regards to logistics and event conduction during the festival.Organised first ever regional level India Skills competition of Uttarakhand State in coordination of UKSDM.Conducted first ever Uttarakhand Talent Search Examination coordinating with many schools witnessing 3500+ students.",
+            "duration": "Nov 2017 Jun 2021 3 years 8 months",
+            "start_date": "Nov 2017",
+            "end_date": "Jun 2021",
+            "duration_short": "3 years 8 months",
+            "company": "Cognizance, IIT Roorkee",
+            "company_id": "cognizance-iit-roorkee",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer Intern",
+            "location": "Bangalore",
+            "description": "Created various chart & widget extensions for customized data visualization using D3.js.",
+            "description_html": "Created various chart &amp; widget extensions for customized data visualization using D3.js. <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "GE Digital",
+            "company_id": "ge-digital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer Internship",
+            "location": "Bangalore",
+            "description": "Worked on creating a fully functioning CRUD API in GoLang using GIN Framework attaching JWT Auth, GORM and other functionalitiesDeveloped and dockerized a Flask API in Python for customer's whatsapp queries clustering so that they could be bucketized for bot developmentWorked on attaching signup functionality which includes PAN, AADHAR, customer's profile and other customer's documents in the current company's android app with implementation of MVVM Architecture, Retrofit and other libraries",
+            "description_html": "Worked on creating a fully functioning CRUD API in GoLang using GIN Framework attaching JWT Auth, GORM and other functionalitiesDeveloped and dockerized a Flask API in Python for customer's whatsapp queries clustering so that they could be bucketized for bot developmentWorked on attaching signup functionality which includes PAN, AADHAR, customer's profile and other customer's documents in the current company's android app with implementation of MVVM Architecture, Retrofit and other libraries",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "ZestMoney",
+            "company_id": "zestmoney",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative Researcher",
+            "description": "Using Quantitative approach and developing Trading Algorithms (alphas) to deploy systematic investments strategies focused on market inefficiencies across the US, Asia, and Europe equities.Researching financial literature to seek out sources of alpha and aggregating these signals into robust models, with the objective of achieving high Sharpe ratios and significant returns.",
+            "description_html": "Using Quantitative approach and developing Trading Algorithms (alphas) to deploy systematic investments strategies focused on market inefficiencies across the US, Asia, and Europe equities.Researching financial literature to seek out sources of alpha and aggregating these signals into robust models, with the objective of achieving high Sharpe ratios and significant returns. <!---->",
+            "duration": "Feb 2019 Jul 2019 6 months",
+            "start_date": "Feb 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "6 months",
+            "company": "WorldQuant",
+            "company_id": "worldquant",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Ahemdabad",
+            "description": "Android Developer Intern at Moodcafe.Made a role playing mobile game where you engage in a story which keeps building up based on your choices. In the end you get an analysis of your personality type based on your choices.",
+            "description_html": "Android Developer Intern at Moodcafe.Made a role playing mobile game where you engage in a story which keeps building up based on your choices. In the end you get an analysis of your personality type based on your choices. <!---->",
+            "duration": "May 2018 Aug 2018 4 months",
+            "start_date": "May 2018",
+            "end_date": "Aug 2018",
+            "duration_short": "4 months",
+            "company": "MoodCafe",
+            "company_id": "moodcafe",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Mohd Shadab Siddiqui",
+            "about": "Fixed Income Trader @ Futures First | IIT Roorkee",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Aashish Kumar",
+            "about": null,
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Tilwar",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "G.S Suri",
+            "about": "Data Science | Machine Learning | Deep Learning | Computer Vision | Backend Development | Cloud Computing",
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Kanishka Pratap Singh",
+            "about": "Zepto | ex-Rippling | ex-Goldman Sachs",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Prithvi Rajaram",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Varun Roy",
+            "about": "CEO",
+            "location": "Vaishali"
+        },
+        {
+            "profile_link": "",
+            "name": "Akanksha Dharkar",
+            "about": null,
+            "location": "Frankfurt"
+        },
+        {
+            "profile_link": "",
+            "name": "Nandini Agarwal",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Siva Venkataraman",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Raj",
+            "about": "MS CS @ UMass Amherst | Prev. Atlassian | Seeking Full-time Software Engineer/ Data Science roles",
+            "location": "Amherst, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Garg",
+            "about": null,
+            "location": "Raleigh, NC"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddhant Khandelwal",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohit Kishore",
+            "about": null,
+            "location": "Patna"
+        },
+        {
+            "profile_link": "",
+            "name": "Jap Leen Kaur Jolly",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Adarsh Nahata",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehul Kaushik",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Kumar",
+            "about": "MS CS @ NEU | Full Stack Developer | Ex-Dell Technologies",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Vinay K.",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sachin Singla",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Roorkee",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Roorkee",
+            "degree": "Bachelor of Technology",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sahoday Senior Secondary School",
+            "start_year": "2005",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "JPMorgan Chase & Co.",
+            "title": "Visualizing Financial Data through Web Development"
+        }
+    ],
+    "recommendations": [
+        "Abhishek Kundalia “Ritik was one of my direct mentees during the 2019 summer internship at ZestMoney. Ritik had been very collaborative, an enthusiastic team member who worked with his partner intern to present deliverables in a timely, organized fashion. Ritik showed humility in accepting suggestions for changes, improvements and worked to provide a high-quality presentation and a working proof-of-concept on Go-lang. Ritik had been proactive and self-driven to solve problems and achieve results. Additionally, Ritik had worked on Android and ML projects and had picked up in no time. I have no hesitation in recommending Ritik for any software development engineer role. +1 for a positive and never giving up attitude.”",
+        "Nidhi Chincholikar “Ritik worked as a software development intern at Zestmoney. He did projects in different technologies like Go Lang, Python, Android and Java, while proving that technology is no barrier to him. In a short span he also picked up projects on Machine Learning and created an impact. He is a self driven individual and a very quick learner. I would like to recommend Ritik Gupta for his exceptional technical skills and learning potential.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Aug 2017 - May 2018 · 10 months",
+            "duration_short": "10 months",
+            "end_date": "May 2018",
+            "info": "Conduting surveys in nearby villages of campus and collecting data about the demographic and economic status of the villages.Awaring villagers about the various beneficiary government schemes.Organising cleanliness drives and blood donation camps both in and outside the campus for our fellow human beings and to make society worth living.",
+            "start_date": "Aug 2017",
+            "subtitle": "National Service Scheme",
+            "title": "Member"
+        },
+        {
+            "cause": "Social Services",
+            "duration": "Jan 2018 - Jan 2019 · 1 year 1 month",
+            "duration_short": "1 year 1 month",
+            "end_date": "Jan 2019",
+            "info": "The Robin Hood Army is a volunteer based organisation that works to get surplus food from restaurants to the less fortunate sections of society in cities across India and 11 other countries.Located 4 slums within 10 Km of the campus area.Co-ordinated with the mess managers, mess secys to get the surplus food.Facilitated at least 2 drives per week.",
+            "start_date": "Jan 2018",
+            "subtitle": "Robin Hood Army",
+            "title": "Head Of Operations"
+        }
+    ],
+    "followers": 1667.0,
+    "connections": 500.0,
+    "current_company_company_id": "cisco",
+    "current_company_name": "Cisco",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Delhi",
+    "linkedin_id": "ritik-gupta2409",
+    "activity": [
+        {
+            "interaction": "Liked by Ritik Gupta",
+            "link": "",
+            "title": "Grateful to receive the Ashoka Award 2024 from Gen. Deepak Kapoor, Former Chief of Army Staff, in the presence of Sh. Shekhar Dutt, Governor of…",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Ritik Gupta",
+            "link": "",
+            "title": "🌟 Exciting Update! 🌟 I'm thrilled to share that I've completed the #StrategicThinking course from #HarvardManageMentor! 🎓 This experience has…",
+            "img": "",
+            "id": "7244064068825731075"
+        },
+        {
+            "interaction": "Liked by Ritik Gupta",
+            "link": "",
+            "title": "🌟 Had an insightful experience at the #BridgeCampusLearningSeries organized by #Deloitte! 🌟 The topic, \"Power of Narrative in Crafting Business…",
+            "img": "",
+            "id": "7244325330281222145"
+        },
+        {
+            "interaction": "Liked by Ritik Gupta",
+            "link": "",
+            "title": "Dear connections, I am delighted to share that I have officially joined McKinsey & Company as a Junior Associate. 🎉 Having interned with…",
+            "img": "",
+            "id": "7239485651178389504"
+        },
+        {
+            "interaction": "Liked by Ritik Gupta",
+            "link": "",
+            "title": "🌿🌍 Exciting Highlights: #KPMG India Workshop on Sustainability! 🌍🌿 Date: 26 - 27 July 2024 Place: Welingkar Executive Education, Mumbai…",
+            "img": "",
+            "id": "7226224520192266240"
+        },
+        {
+            "interaction": "Liked by Ritik Gupta",
+            "link": "",
+            "title": "Delighted to share that I've accomplished the #ESG certificate program with #Bloomberg! It's been an enriching journey exploring Environmental…",
+            "img": "",
+            "id": "7170415346976186370"
+        },
+        {
+            "interaction": "Liked by Ritik Gupta",
+            "link": "",
+            "title": "🎓 Excited to announce that I've completed the #BloombergFinanceFundamentals Certificate! 💼📈 Equipped with a deeper understanding of finance…",
+            "img": "",
+            "id": "7175142508304228352"
+        }
+    ],
+    "linkedin_num_id": 614345601.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

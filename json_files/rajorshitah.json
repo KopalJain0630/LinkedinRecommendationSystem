@@ -1,0 +1,328 @@
+{
+    "id": "rajorshitah",
+    "name": "Rajorshi Tah",
+    "city": "West Bengal, India",
+    "country_code": "IN",
+    "position": "Business Architecture Senior Analyst @ Accenture Japan | IIT Kharagpur",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Accenture Japan",
+        "company_id": "accenture-japan",
+        "title": "Business Architecture Senior Analyst @ Accenture Japan | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Accenture Japan",
+            "location": "Tokyo, Japan",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Accenture Japan",
+                    "meta": "Jun 2023 - Present 1 year 7 months",
+                    "duration": "Jun 2023 - Present 1 year 7 months",
+                    "start_date": "Jun 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 7 months",
+                    "title": "Business Architecture Senior Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Accenture Japan",
+                    "meta": "Mar 2022 - Jun 2023 1 year 4 months",
+                    "duration": "Mar 2022 Jun 2023 1 year 4 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "1 year 4 months",
+                    "title": "Business Architecture Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Accenture Japan",
+            "company_id": "accenture-japan",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Title: Prediction of EPS for different firms* Worked on developing a time series model for predicting a firm’s future Earning per Share(EPS) for over 5000 US-based companies by working on macroeconomic data spanning over 35 years.* Implemented Random Forest Regressor, RNN and ARIMA on this data and the model performed better than 33.8% of Equity Analysts.* Implemented these models on a Transition window basis which increased the percentage of Equity analysts beaten to 34.9%.* Worked on algorithmic trading models for the Indian equity market by replicating research papers like Mohanram’s G-Score and Complicated Firms.",
+            "description_html": "Title: Prediction of EPS for different firms* Worked on developing a time series model for predicting a firm’s future Earning per Share(EPS) for over 5000 US-based companies by working on macroeconomic data spanning over 35 years.* Implemented Random Forest Regressor, RNN and ARIMA on this data and the model performed better than 33.8% of Equity Analysts.* Implemented these models on a Transition window basis which increased the percentage of Equity analysts beaten to 34.9%.* Worked on algorithmic trading models for the Indian equity market by replicating research papers like Mohanram’s G-Score and Complicated Firms.",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Kyoto, Japan",
+            "description": "Title: Open-Domain Question Answering* Worked on developing a Question-Answering model using Wikipedia as the unique knowledge source.* Used Neural Ranking model to retrieve Top 100 documents based on the query and document similarity scores from Wikipedia dump.* Trained BERT on SQuAD (Question-Answering dataset) as the Reader Model which improved the accuracy by 4% over the DrQA model.* Generated more Negative Samples(Questions with no answers) by using the SQuAD 2.0 dataset and then trained the Reader Model and improved the accuracy of the model by 2.9%.",
+            "description_html": "Title: Open-Domain Question Answering* Worked on developing a Question-Answering model using Wikipedia as the unique knowledge source.* Used Neural Ranking model to retrieve Top 100 documents based on the query and document similarity scores from Wikipedia dump.* Trained BERT on SQuAD (Question-Answering dataset) as the Reader Model which improved the accuracy by 4% over the DrQA model.* Generated more Negative Samples(Questions with no answers) by using the SQuAD 2.0 dataset and then trained the Reader Model and improved the accuracy of the model by 2.9%.",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Kyoto University",
+            "company_id": "kyoto-university",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Intern",
+            "location": "Kharagpur Area, India",
+            "description": "Title: Using social media for classifying actionable insights in a disaster scenario.* Classifying microblogging in twitter into categories of Need Tweets and Availability Tweets during the Nepal Earthquake disaster.* Built a TF-IDF based model using NLTK and Lucene for classification and achieved an accuracy of 86%.* Built a model using LSTM and achieved an accuracy of 92%.",
+            "description_html": "Title: Using social media for classifying actionable insights in a disaster scenario.* Classifying microblogging in twitter into categories of Need Tweets and Availability Tweets during the Nepal Earthquake disaster.* Built a TF-IDF based model using NLTK and Lucene for classification and achieved an accuracy of 86%.* Built a model using LSTM and achieved an accuracy of 92%. <!---->",
+            "duration": "May 2018 Sep 2018 5 months",
+            "start_date": "May 2018",
+            "end_date": "Sep 2018",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sports Secretary",
+            "description": "Under my secretaryship B.R. Ambedkar Hall participated in various Sports event in General Championship and secured a Gold Medal in Inter Hall Football for the first time since it’s inauguration and achieved praiseworthy results in Cricket and Badminton.",
+            "description_html": "Under my secretaryship B.R. Ambedkar Hall participated in various Sports event in General Championship and secured a Gold Medal in Inter Hall Football for the first time since it’s inauguration and achieved praiseworthy results in Cricket and Badminton. <!---->",
+            "duration": "Jul 2017 Jun 2018 1 year",
+            "start_date": "Jul 2017",
+            "end_date": "Jun 2018",
+            "duration_short": "1 year",
+            "company": "B. R. Ambedkar Hall of Residence, IIT Kharagpur",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ruthu S Sanketh",
+            "about": "Associate @BCG | Chicago Booth Scholar",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Romeo Kilo Yankee",
+            "about": "unemployed",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddhant Jadhav",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Taransh Sindhwani",
+            "about": "VC @ Campus Fund | IIM Ahmedabad '25 | IIT Delhi '21 | McKinsey and Co. | Ex-Product @ UC",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sudip Walter Thomas",
+            "about": "ML Engineer || LLM, ML, DS || Transformers, Tensorflow, PyTorch || M.Tech || IIT Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Panchal",
+            "about": null,
+            "location": "Normal, IL"
+        },
+        {
+            "profile_link": "",
+            "name": "Purva Chiniya",
+            "about": "MSCS @UMD | Applied Science intern@ Amazon | Ex-Software Engineer at Cisco",
+            "location": "College Park, MD"
+        },
+        {
+            "profile_link": "",
+            "name": "Ramya Narayanasamy",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanmay Agarwal",
+            "about": "Senior Data Scientist | UBC '23 | Machine Learning | Generative AI",
+            "location": "Vancouver, BC"
+        },
+        {
+            "profile_link": "",
+            "name": "Apoorva Vashisth",
+            "about": "Robotics and RL PhD Student @ Purdue University, WL",
+            "location": "West Lafayette, IN"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Poverty Alleviation",
+            "duration": "Jul 2016 - Jun 2018 · 2 years",
+            "duration_short": "2 years",
+            "end_date": "Jun 2018",
+            "start_date": "Jul 2016",
+            "subtitle": "National Service Scheme",
+            "title": "Social Worker"
+        }
+    ],
+    "followers": 1278.0,
+    "connections": 500.0,
+    "current_company_company_id": "accenture-japan",
+    "current_company_name": "Accenture Japan",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Natural Language Processing and Complex Networks\",\"start_date\":\"Jun 2018\",\"end_date\":\"Present\",\"description\":\"* Professor- Pawan Goyal* Determining hypernym-hyponym relations among word pairs embedded in a network.* Finding Manual feature vectors in a word pair to determine the more general word like:- Average Degree of Context- Number of neighbors of context- Context of specific word should be a subset of the general word- Degree Entropy Of the Network* Using different Classifiers to get the best results\"},{},{},{\"title\":\"Natural Language Processing and Information Retrieval\",\"start_date\":\"May 2018\",\"end_date\":\"Sep 2018\",\"description\":\"Prof- Pabitra Mitra* Using social media for classifying actionable insights in disaster scenario.* Classifying micro blogging in twitter into categories of needs and availability tweets using NLTK and Lucene.* Use of SVM, MNB and Naive Bayes algorithm to further improve the classification task.\"},{}]",
+    "organizations": null,
+    "location": "West Bengal",
+    "linkedin_id": "rajorshitah",
+    "activity": [
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "[MY LAST FORM GOT DELETED, PLEASE FILL UP AGAIN] The holiday season is a time for giving, and I'm excited to once again help talented individuals…",
+            "img": "",
+            "id": "7278684586191036416"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "Our lab offers summer research internships to undergraduate students enrolled in German University. If you are interested in electric vehicle…",
+            "img": "",
+            "id": "7255462527751331840"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "Super excited to announce that Iterate AI is now SOC2 compliant 🎉🎉 ⠀⠀⠀ A couple of days back, I posted about how we’re now setting up analytics…",
+            "img": "",
+            "id": "7252196632467775488"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "Art of the Project Kick-off: More Than Just a Meet and Greet! 🤝 I recently had the pleasure of being part of a kick-off where everything just…",
+            "img": "",
+            "id": "7248078684119543811"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "People who are close to me, know that since founding Iterate, I've been living on a bare-minimum, survivable budget. ⠀⠀⠀ Have often resorted to…",
+            "img": "",
+            "id": "7247092949946118144"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "I am Anant, IIT Guwahati Dropout. Since 18 months, I was postponing this post. How an IIT ROORKEE professor ate my career. In 2021, I invested a lot…",
+            "img": "",
+            "id": "18"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "These Companies are aggressively hiring 100% remote: . Automattic:  Buffer:  Basecamp:…",
+            "img": "",
+            "id": "100"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "**A Journey of Resilience: My Farewell to Swiggy** A few months ago, life took an unexpected turn when I was laid off from my job. With rejections…",
+            "img": "",
+            "id": "7240641442883235840"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "Last week, I was scrolling through my social media feed when a perfectly timed ad caught my eye. It was for a coffee shop, offering a discount on…",
+            "img": "",
+            "id": "7226808916674822144"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "Today we are proud to release two new research models: MathΣtral and Codestral Mamba.  ",
+            "img": "",
+            "id": "7218989323478560769"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "I have completed the Multi-Agent Systems course on DeepLearning.AI by crewAI. This course provided a gentle introduction to the world of multi-agent…",
+            "img": "",
+            "id": "7214094878530494464"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "#revoked #sprinklr Sprinklr Offer Revoked \"Every setback is a setup for a comeback.\" Hello LinkedIn Community, I hope this message finds you…",
+            "img": "",
+            "id": "7211407416255500288"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "I am excited to share that I have joined Nykaa as ML Scientist 3. Thanks to Phani, Doney and Pramod for the engaging interviews and smooth onboarding…",
+            "img": "",
+            "id": "7205207226565730304"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "Machine learning creates static models from historical data. But, once deployed in production, ML models become unreliable and obsolete and degrade…",
+            "img": "",
+            "id": "7206626315091808256"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "We are announcing €600M in Series B funding for our first anniversary. We are grateful to our new and existing investors for their continued…",
+            "img": "",
+            "id": "7206357511539408896"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "Hello everyone, I am thrilled to share that I'll be joining the Post Graduate Program in Business Analytics at the prestigious Indian Institute of…",
+            "img": "",
+            "id": "7205620421201682432"
+        },
+        {
+            "interaction": "Liked by Rajorshi Tah",
+            "link": "",
+            "title": "Huge respect for those leaving high-paying jobs in the US, Singapore, and Indonesian companies to join early-stage startups in India. You are…",
+            "img": "",
+            "id": "7205838091327082496"
+        }
+    ],
+    "linkedin_num_id": 681503009.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

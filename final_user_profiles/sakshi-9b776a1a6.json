@@ -1,0 +1,85 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Consultant at Deloitte | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Consultant",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Deloitte",
+            "company_id": "deloitte",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Automatic Speech Recognition",
+            "description": "Objective: To implement methods and enhance precision for Automatic Speech Recognition post-processing• Implemented Inverse text normalization pipeline for converting the raw spoken output of the ASR model into its written form• Decoded result for the Hindi Language using Pynini, a Python toolkit and Indic-Punct Library to Post-Process ASR• Worked on improving the accuracy and system development of Automatic speech recognition in banking domains",
+            "description_html": "Objective: To implement methods and enhance precision for Automatic Speech Recognition post-processing• Implemented Inverse text normalization pipeline for converting the raw spoken output of the ASR model into its written form• Decoded result for the Hindi Language using Pynini, a Python toolkit and Indic-Punct Library to Post-Process ASR• Worked on improving the accuracy and system development of Automatic speech recognition in banking domains <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree",
+            "field": "MANUF. SCI & ENGG. IND. ENGG.MAN. (M.TECH Dual 5Y)",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Holy mission secondary school",
+            "degree": "12th",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Lohia nagar mount carmel high school",
+            "degree": "10th",
+            "start_year": "2010",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Educational Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Production Planning and Inventory control\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Systems Modeling and Analysis\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Apr 2022",
+            "subtitle": "Udemy",
+            "title": "Automatic Speech Recognition"
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "University of Michigan | Coursera",
+            "title": "Introduction of Data Science in Python"
+        },
+        {
+            "meta": "Issued Jun 2019",
+            "subtitle": "University of Michigan | Coursera",
+            "title": "Python for Everybody Specialization "
+        }
+    ],
+    "current_company_name": "Deloitte",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Extracting and analyzing mobility patterns using Twitter data\",\"start_date\":\"Jan 2021\",\"end_date\":\"Apr 2021\",\"description\":\"• Used Twitters REST API to extract most recent 3200 tweets of a list of user with geo-locations services active on Twitter• Developed Heuristic classifier to classify users as tourists and residents based on tweets between 12 a.m. to 6 a.m• Compared its results using ML techniques such as SVM, KNN and Ensemble Classifiers like AdaBoost, Bagging• Collected, clustered all combined tweets of tourists & residents to get Point of Interest & compared K-Means, DBSCAN & Metrics\"},{\"title\":\"House Price Prediction\",\"start_date\":\"Jan 2019\",\"end_date\":\"Mar 2019\",\"description\":\"• Worked on regression problem with 79 explanatory variables to predict sales price for each house using regression techniques• Performed feature engineering by drawing inferences from visualisations, followed by application of Lasso and Ridge regression• Concluded the features like total basement, garage & living area as some of the most important features related to response• Achieved a RMSE score of 0.13178 on the obtained Lasso model between the logarithm of predicted value & actual sales price\"}]",
+    "honors_and_awards": null
+}

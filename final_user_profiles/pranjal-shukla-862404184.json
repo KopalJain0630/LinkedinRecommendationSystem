@@ -1,0 +1,117 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": "IIM Indore PGP '23-'25 | American Express | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Management Consulting Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Apr 2024 May 2024 2 months",
+            "start_date": "Apr 2024",
+            "end_date": "May 2024",
+            "duration_short": "2 months",
+            "company": "Accenture Strategy & Consulting",
+            "company_id": "accenture-strategy-and-consulting",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Decision Science Analyst - Banking Portfolio",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2022 Jun 2023 1 year 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "1 year 2 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Credit Risk Management Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Citi",
+            "company_id": "citi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Branding and Relations Cell IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "2 years 4 months",
+            "positions": [
+                {
+                    "subtitle": "Branding and Relations Cell IIT Kharagpur",
+                    "meta": "Jul 2020 - Jun 2021 1 year",
+                    "duration": "Jul 2020 Jun 2021 1 year",
+                    "start_date": "Jul 2020",
+                    "end_date": "Jun 2021",
+                    "duration_short": "1 year",
+                    "title": "General Secretary",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Branding and Relations Cell IIT Kharagpur",
+                    "meta": "Aug 2019 - Jul 2020 1 year",
+                    "duration": "Aug 2019 Jul 2020 1 year",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year",
+                    "title": "Student Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Branding and Relations Cell IIT Kharagpur",
+                    "meta": "Mar 2019 - Aug 2019 6 months",
+                    "duration": "Mar 2019 Aug 2019 6 months",
+                    "start_date": "Mar 2019",
+                    "end_date": "Aug 2019",
+                    "duration_short": "6 months",
+                    "title": "Affliate Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Branding and Relations Cell IIT Kharagpur",
+            "company_id": "brandingandrelationscell",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Management, Indore",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Accenture Strategy & Consulting",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

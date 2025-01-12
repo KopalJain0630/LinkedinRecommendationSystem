@@ -1,0 +1,53 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "start_year": "2006",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Gravity iLabs",
+    "publications": "[{\"title\":\"Synthesis and Characterization of SrRuO3 thin films for buffer layer applications\",\"subtitle\":\"The Minerals, Metals and Materials Society (Annual Meeting 2011 at San Diego, California)\",\"date\":\"March 5, 2011\",\"description\":\"Awarded best graduate poster at the Minerals, Metals and Materials Society Annual Meeting in San Diego, California\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Director's Special Recognition",
+            "publication": "Director",
+            "date": null,
+            "description": "For delivering innovative process with new equipment design to enable low cost (40%reduction) migration of products"
+        },
+        {
+            "title": "Power of You Gold",
+            "publication": "Associate Director",
+            "date": null,
+            "description": "For designing and implementing new supply chain models to enable vertical start-up in manufacturing across India, Hungary and Turkey"
+        },
+        {
+            "title": "Power of You Gold",
+            "publication": "Associate Director",
+            "date": null,
+            "description": "For devising capital management strategies by re-structuring business initiatives and spending plans, implementation led to zero financial hurt due to rupee devaluation and compliance with share-holder commitments"
+        },
+        {
+            "title": "Power of You Gold",
+            "publication": "Associate Director",
+            "date": null,
+            "description": "For leading cost reduction programs through collaboration across sites and external vendors to deliver savings of $468,000 by redesigning the product portfolio"
+        },
+        {
+            "title": "Power of You Pearl",
+            "publication": "Director",
+            "date": null,
+            "description": "For agility & risk-taking tactics with breakthrough innovation in implementing strategies to identify and develop India as an export hub for the region"
+        }
+    ]
+}

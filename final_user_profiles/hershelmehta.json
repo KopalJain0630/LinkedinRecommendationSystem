@@ -1,0 +1,35 @@
+{
+    "city": "Los Angeles, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "The Wharton School",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2016Expires May 2022Credential ID Y128987",
+            "subtitle": "California Board of Accountancy",
+            "title": "CPA Inactive"
+        }
+    ],
+    "current_company_name": "2am VC",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,279 @@
+{
+    "id": "ruturaj-mohanty-59104a106",
+    "name": "RUTURAJ MOHANTY",
+    "city": "South Delhi, Delhi, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "Skilled in Artificial Intelligence (AI), Digital Marketing, Search Engine Optimisation…",
+    "posts": [
+        {
+            "title": "A Startup Opportunity Waiting to Be Solved Most people know *what* they want but struggle with *how* to ask for it when using ChatGPT. This isn't…",
+            "attribution": "Posted by RUTURAJ MOHANTY",
+            "img": "",
+            "link": "",
+            "interaction": "Posted by RUTURAJ MOHANTY",
+            "id": "5Yx4"
+        }
+    ],
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Alpha Trade Ai",
+        "company_id": "alphatradeai"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sankalp Kotewar",
+            "about": null,
+            "location": "Nagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Palak Gupta",
+            "about": "MSc Big Data & Business Analytics @ ESCP | ex-Goldman Sachs | TU Munich | IIT Mandi",
+            "location": "Berlin"
+        },
+        {
+            "profile_link": "",
+            "name": "Bharat Reddy",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Devansh Manu",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepanjan Kowar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehak Mittal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Piyush Khushlani",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Khanna",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kunal Goyal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Lavish Kothari",
+            "about": "Lead, Tech (Project Leader) at D. E. Shaw India Private Limited",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Delhi",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2003",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Network Management\"}]",
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": "-",
+            "title": " Sanskrit "
+        },
+        {
+            "subtitle": "-",
+            "title": " Odiya "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Dec 2024See credential",
+            "subtitle": "CrewAI",
+            "title": "Multi AI Agent System with CrewAI"
+        },
+        {
+            "meta": "Issued Dec 2024See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Practical Multi AI Agents and Advanced Use Cases with crewAI"
+        },
+        {
+            "meta": "Issued Jun 2024",
+            "subtitle": "Udemy",
+            "title": "LLM Finetuning on OpenAI"
+        },
+        {
+            "subtitle": "Central Tool Room & Training Centre",
+            "title": "Advance Java"
+        },
+        {
+            "subtitle": "IIT DELHI",
+            "title": "Analysis and Design of Algorithms"
+        },
+        {
+            "subtitle": "CyberCure Solutions",
+            "title": "Certified Information Security Specialist"
+        },
+        {
+            "subtitle": "College of engineering and technology bhubaneswar",
+            "title": "Codebuster Winner"
+        },
+        {
+            "subtitle": "ROBOSAPIENS TECHNOLOGIES Pvt. Ltd.",
+            "title": "Core Java"
+        },
+        {
+            "subtitle": "Computer Society of India",
+            "title": "CSI National Thinking Programming Contest 2016 Winner"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "edX",
+            "title": "edX Honor Code Certificate for Introduction to Programming with Java - Part 1: Starting to Code with Java"
+        },
+        {
+            "subtitle": "IIT KHARAGPUR",
+            "title": "Network Management"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 11720.0,
+    "connections": 500.0,
+    "current_company_company_id": "alphatradeai",
+    "current_company_name": "Alpha Trade Ai",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Individualistic Opinion Mining (Advanced Natural Language Processing, Masters Thesis Work, Guide - Prof. Parag Singla, Prof. Maya Ramanath)\",\"start_date\":\"Mar 2019\",\"end_date\":\"Jul 2020\",\"description\":\"Predicting individualistic opinion of different people on some given news articles using just 100 labelled articles. FIne tuned Google's BERT to extract features and used transfer learning to train a classifier on top of those extracted features. Used NB-SVM as baseline model. Further working on explainability of the model and predicting things around a given context using sliding window techiniques. Trained a new language model from scratch (Multiplicative LSTM). Used brat as annotation tool for collecting training data.\"},{\"title\":\"Automatic Scheduler (Artificial Intelligence)\",\"description\":\"Scheduled different conference talks and audits timings minimizing the clash between different events as far as possible using best first search technique of artificial intelligence.\"},{\"title\":\"Cloud Computing ( Module design for live migration using a migration plan and virsh commands)\",\"description\":\"Proposed a migration plan that takes into account 3 parameters namely network traffic, memory usage and CPU usage. Based on the above proposed migration plan, Live migrated Virtual machines to a different server, thereby showing the load balancing. The whole thing was done on IIT Delhi own cloud setup, BAADAL.\"},{\"title\":\"DCG Handler and Parser (Prolog NLP Techniques)\",\"description\":\"Formulated DCG grammar to generate parse trees, output logical forms of sentences & answer queries based on them.\"},{\"title\":\"Game of Yinsh Bot (AI techniques)\",\"description\":\"Used adversarial search algorithm to build an optimally playing bot for the game of Yinsh\"},{\"title\":\"Latex To Html Converter\",\"description\":\"Parsed the entire latex document and converted it into an equivalent html document using FLEX & BISON parser\"},{\"title\":\"Parallelization of Deterministic Algorithm (Edit Distance)\",\"description\":\"Parallelized the edit distance problem using 3 languages, namely OpenMP, MPI and CUDA. Ran and showed scalability on a 40 core cpu cluster. Further analyzed the performance on different operating systems.\"},{\"title\":\"Paratroopers Game (Unity 3D)\",\"description\":\"Developed & revamped the game of paratroopers using UNITY 3D framework, Language used - C#\"},{\"title\":\"SAT solver (Modelled a problem as SAT problem)\",\"description\":\"Formulated the discovery of drug agencies problem as a CNF SAT formula and then solved it using a given SATsolver (miniSAT)\"},{\"title\":\"Sentiment Analysis (Machine Learning)\",\"description\":\"Predicting generalised opinion of people on new articles using RNTN, Recursive Neural Tensor Network.\"},{\"title\":\"The Game of Blackjack (Markov Decision Process)\",\"description\":\"Modelled the optimal game play of black jack using ideas from sequential decision making under uncertainity(Markov Decision Processes)\"},{\"title\":\"Web Scrapping (Using Mozilla Firefox)\",\"description\":\"Modified mozilla source repository to filter significant information while visiting any news website\"}]",
+    "organizations": null,
+    "location": "South Delhi",
+    "linkedin_id": "ruturaj-mohanty-59104a106",
+    "activity": [
+        {
+            "interaction": "Liked by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "A Startup Opportunity Waiting to Be Solved Most people know *what* they want but struggle with *how* to ask for it when using ChatGPT. This isn't…",
+            "img": "",
+            "id": "7277739483075067904"
+        },
+        {
+            "interaction": "Posted by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "A Startup Opportunity Waiting to Be Solved Most people know *what* they want but struggle with *how* to ask for it when using ChatGPT. This isn't…",
+            "img": "",
+            "id": "7277739483075067904"
+        },
+        {
+            "interaction": "Liked by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "Prompt - You know that currently transformer models are just performing so brilliantly. But they take so much of memory gpus to run which is neither…",
+            "img": "",
+            "id": "7276350906944630784"
+        },
+        {
+            "interaction": "Shared by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "Prompt - You know that currently transformer models are just performing so brilliantly. But they take so much of memory gpus to run which is neither…",
+            "img": "",
+            "id": "7276350906944630784"
+        },
+        {
+            "interaction": "Liked by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "The truth about obesity no one is talking about: its hidden causes, shocking effects, and real solutions. Are you ready to uncover the facts? Read…",
+            "img": "",
+            "id": "7276106693531287552"
+        },
+        {
+            "interaction": "Liked by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "अयोध्या के राम मंदिर के प्राचीन अवशेषों को पूरी दुनिया के सामने लाने वाले के के मोहम्मद जी सनातन धर्म के पुरजोर प्रवक्ता एवं हिमायती है। केके…",
+            "img": "",
+            "id": "7275728654398013440"
+        },
+        {
+            "interaction": "Liked by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "Think 10,000 steps a day is just a trend?🚶‍♀️ Discover how it can transform your health and boost your energy! ✨ Read more at:…",
+            "img": "",
+            "id": "7275025748527058944"
+        },
+        {
+            "interaction": "Liked by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "Hard work and dedication always pay off! In a peak #Bengaluru movement, a rider with Uber and Rapido was recorded claiming that he makes ₹80,000+…",
+            "img": "",
+            "id": "7272505463856877568"
+        },
+        {
+            "interaction": "Liked by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "Token Raise vs. VC Raise: Exploring the Future of Fundraising Fundraising is one of the most critical decisions for any founder. The choice between…",
+            "img": "",
+            "id": "7273847010854633473"
+        },
+        {
+            "interaction": "Liked by RUTURAJ MOHANTY",
+            "link": "",
+            "title": "#AtulSubhash must have needed a judge like her… The HC judge said if the lady needs 616,300 per month for her #survival, then she must earn it…",
+            "img": "",
+            "id": "7273577056431423488"
+        }
+    ],
+    "linkedin_num_id": 447998653.0,
+    "honors_and_awards": [
+        {
+            "title": "ACM ICPC",
+            "publication": "Amritapuri",
+            "date": "2017-11-01T00:00:00.000Z",
+            "description": "ACM International Collegiate Programming Contest Regionalist"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

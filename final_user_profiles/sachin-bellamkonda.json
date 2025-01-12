@@ -1,0 +1,63 @@
+{
+    "city": "Tempe, Arizona, United States",
+    "position": "MSCS @ ASU  |  SDE @ OLA | IIT Kharagpur'22",
+    "experience": [
+        {
+            "title": "SDE",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2022 Oct 2023 1 year 4 months",
+            "start_date": "Jul 2022",
+            "end_date": "Oct 2023",
+            "duration_short": "1 year 4 months",
+            "company": "Ola",
+            "company_id": "olacabs-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Legato Health Technologies",
+            "company_id": "carelonglobalsolutions",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Arizona State University",
+            "degree": "Master of Science - MS",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Science",
+            "field": "Mathematics and Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Ola",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

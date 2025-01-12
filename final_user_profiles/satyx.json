@@ -1,0 +1,203 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Associate - Trading Systems at Alphagrep Securities | ex-Mastercard | IIT KGP | Maths and Computing",
+    "experience": [
+        {
+            "title": "AlphaGrep",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "AlphaGrep",
+                    "meta": "Jul 2024 - Present 6 months",
+                    "duration": "Jul 2024 - Present 6 months",
+                    "start_date": "Jul 2024",
+                    "end_date": "Present",
+                    "duration_short": "6 months",
+                    "title": "Associate - Trading Systems",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "AlphaGrep",
+                    "meta": "Jul 2023 - Jun 2024 1 year",
+                    "duration": "Jul 2023 Jun 2024 1 year",
+                    "start_date": "Jul 2023",
+                    "end_date": "Jun 2024",
+                    "duration_short": "1 year",
+                    "title": "Senior Analyst, Trading Systems",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "AlphaGrep",
+                    "meta": "Jul 2022 - Jun 2023 1 year",
+                    "duration": "Jul 2022 Jun 2023 1 year",
+                    "start_date": "Jul 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "1 year",
+                    "title": "Analyst, Trading Systems",
+                    "description_html": null
+                }
+            ],
+            "company": "AlphaGrep",
+            "company_id": "alpha-grep",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Mastercard",
+            "company_id": "mastercard",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "description": "- Developed MVP that uses AI based solution for recruitment. - Developed chatbot framework, capable of developing most of the chatbots within 10 minutes. Developed an entire library from scratch to control conversation flow and used it along with Rasa to make it super scalable.- Developed Whatsapp and Voice Bot to validate the data user's scrapped data on a real time basis and scheduling interviews based upon their job interests and vacancies.- Dockerised entire codebase to prevent the hazzle of environment and external dependencies.- Auto Correction feature to rectify incorrect spelling of user details to facilitate user profile classification.",
+            "description_html": "- Developed MVP that uses AI based solution for recruitment. - Developed chatbot framework, capable of developing most of the chatbots within 10 minutes. Developed an entire library from scratch to control conversation flow and used it along with Rasa to make it super scalable.- Developed Whatsapp and Voice Bot to validate the data user's scrapped data on a real time basis and scheduling interviews based upon their job interests and vacancies.- Dockerised entire codebase to prevent the hazzle of environment and external dependencies.- Auto Correction feature to rectify incorrect spelling of user details to facilitate user profile classification.",
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Opus Quaint",
+            "company_logo_url": ""
+        },
+        {
+            "title": "OpenSoft, Patel Hall of Residence",
+            "location": "Indian Institute of Technology, Kharagpur",
+            "description_html": null,
+            "duration": "2 years 11 months",
+            "positions": [
+                {
+                    "subtitle": "OpenSoft, Patel Hall of Residence",
+                    "meta": "Jul 2019 - Jul 2020 1 year 1 month",
+                    "description": "One of the Team that annually participates in the Event: OpenSoft, General Championship, Technology, IIT Kharagpur, which is a kind of hackathon with a Given PS where participants are allowed to use only Open Sourced Software/Libraries- Mentoring and Grooming more than 25 junior members of the team. - Conduct knowledge meetings for the team- Strategy planning for the event with senior members",
+                    "duration": "Jul 2019 Jul 2020 1 year 1 month",
+                    "start_date": "Jul 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Vice Captain",
+                    "description_html": "One of the Team that annually participates in the Event: OpenSoft, General Championship, Technology, IIT Kharagpur, which is a kind of hackathon with a Given PS where participants are allowed to use only Open Sourced Software/Libraries<br><br>- Mentoring and Grooming more than 25 junior members of the team. <br>- Conduct knowledge meetings for the team<br>- Strategy planning for the event with senior members <!---->"
+                },
+                {
+                    "subtitle": "OpenSoft, Patel Hall of Residence",
+                    "meta": "Sep 2017 - Jul 2019 1 year 11 months",
+                    "description": "OpenSoft, 2019: Secured 4th PositionProblem Statement: Search Engine for Law Practioners and Common People- Part of the Natural Language Processing TeamGoal:  Based upon the search query, it should return similar cases and their meta-data- Extraction of Meta-Data from an unprocessed set of 65,000 law suit raw files using Fuzzy Pattern Matching and Named Entity Recognition for various fields- Automated uni-gram and bi-gram Keywords Extraction corresponding to each file after basic text preprocessing: stop-words removal, lemmatizing and refining word count using TF-IDF which helped in classification of the case into its type - Developed Text classifier using fastText Word embedding for file classificationOpenSoft, 2018: Bagged Silver Medal securing 2nd PositionProblem Statement: Digitize Handwritten Doctor’s medical Prescription- Determination of Algorithm to improve the accuracy of medicine’s name prediction and reduction in time overheads- Proposed Confidence based Character Recognition Technique and heuristics to overcome the problem in predicting the non-legible handwriting.- Filtering the matching list of medicines with Doctor’s Specialisation (printed in the Prescription)Resulted in a higher level of accuracy along with reduction in prediction time.- Created Medical Dictionary with more than 25,000 entries",
+                    "duration": "Sep 2017 Jul 2019 1 year 11 months",
+                    "start_date": "Sep 2017",
+                    "end_date": "Jul 2019",
+                    "duration_short": "1 year 11 months",
+                    "title": "Team Member",
+                    "description_html": "OpenSoft, 2019: Secured 4th Position<br>Problem Statement: Search Engine for Law Practioners and Common People<br>- Part of the Natural Language Processing Team<br>Goal: Based upon the search query, it should return similar cases and their meta-data<br>- Extraction of Meta-Data from an unprocessed set of 65,000 law suit raw files using Fuzzy Pattern Matching and Named Entity Recognition for various fields<br>- Automated uni-gram and bi-gram Keywords Extraction corresponding to each file after basic text preprocessing: stop-words removal, lemmatizing and refining word count using TF-IDF which helped in classification of the case into its type <br>- Developed Text classifier using fastText Word embedding for file classification<br><br><br>OpenSoft, 2018: Bagged Silver Medal securing 2nd Position<br>Problem Statement: Digitize Handwritten Doctor’s medical Prescription<br>- Determination of Algorithm to improve the accuracy of medicine’s name prediction and reduction in time overheads<br>- Proposed Confidence based Character Recognition Technique and heuristics to overcome the problem in predicting the non-legible handwriting.<br>- Filtering the matching list of medicines with Doctor’s Specialisation (printed in the Prescription)<br>Resulted in a higher level of accuracy along with reduction in prediction time.<br>- Created Medical Dictionary with more than 25,000 entries"
+                }
+            ],
+            "company": "OpenSoft, Patel Hall of Residence",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research and Developement Intern",
+            "location": "Bengaluru, India",
+            "description": "- Re-engineering of Nipuna, An Expert System Shell (started in 2002). - Debugged the legacy code which resulted in a significant increase in the processing capability from 5 variables to 20 variables.- Introduced the functional paradigm of programming.- Created and extensively tested Satisfiability of multiple knowledgebases involving Relational Riddles with Horn and Non-Horn Clauses",
+            "description_html": "- Re-engineering of Nipuna, An Expert System Shell (started in 2002). - Debugged the legacy code which resulted in a significant increase in the processing capability from 5 variables to 20 variables.- Introduced the functional paradigm of programming.- Created and extensively tested Satisfiability of multiple knowledgebases involving Relational Riddles with Horn and Non-Horn Clauses <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Centre for Artificial Intelligence and Robotics, DRDO",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Communiqué, IIT Kharagpur",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 9 months",
+            "positions": [
+                {
+                    "subtitle": "Communiqué, IIT Kharagpur",
+                    "meta": "Jul 2018 - Apr 2019 10 months",
+                    "description": "This is a official soft skill society where we collectively conduct both internal and external events to develop soft skills of members as well other students of IIT Kharagpur. Apart from it, being the secretary I am mentoring around 20 freshers.",
+                    "duration": "Jul 2018 Apr 2019 10 months",
+                    "start_date": "Jul 2018",
+                    "end_date": "Apr 2019",
+                    "duration_short": "10 months",
+                    "title": "Secretary",
+                    "description_html": "This is a official soft skill society where we collectively conduct both internal and external events to develop soft skills of members as well other students of IIT Kharagpur. Apart from it, being the secretary I am mentoring around 20 freshers. <!---->"
+                },
+                {
+                    "subtitle": "Communiqué, IIT Kharagpur",
+                    "meta": "Aug 2017 - Jul 2018 1 year",
+                    "description": "Attended various internal sessions on soft skill development. Conducted various external events including Mock Group Discussion and Personal Interviews for prefinal and final year students, CAT seminar, Placement Drive etc.",
+                    "duration": "Aug 2017 Jul 2018 1 year",
+                    "start_date": "Aug 2017",
+                    "end_date": "Jul 2018",
+                    "duration_short": "1 year",
+                    "title": "Student Member",
+                    "description_html": "Attended various internal sessions on soft skill development. Conducted various external events including Mock Group Discussion and Personal Interviews for prefinal and final year students, CAT seminar, Placement Drive etc. <!---->"
+                }
+            ],
+            "company": "Communiqué, IIT Kharagpur",
+            "company_id": "communiqu-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Associate Member",
+            "location": "Indian Institute of Technology Kharagpur",
+            "description": "Conducted Indian Case Challenge, in association with Kshitij, IIT Kharagpur which witnessed a registration of more than 500 teamsConducted workshops on Data Analytics in association with IBM which witnessed a footfall of 200 studentsConducted Various other events including Case Studies, Open House Sessions etc.",
+            "description_html": "Conducted Indian Case Challenge, in association with Kshitij, IIT Kharagpur which witnessed a registration of more than 500 teamsConducted workshops on Data Analytics in association with IBM which witnessed a footfall of 200 studentsConducted Various other events including Case Studies, Open House Sessions etc. <!---->",
+            "duration": "Aug 2017 Jun 2018 11 months",
+            "start_date": "Aug 2017",
+            "end_date": "Jun 2018",
+            "duration_short": "11 months",
+            "company": "Business Club, IIT Kharagpur",
+            "company_id": "bclubiitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated M.Sc.",
+            "field": "Mathematics and Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Computer Organisation and Architecture\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Computer Networking\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented System Design\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Soft Computing Tools in Engineering\"}]",
+    "certifications": null,
+    "current_company_name": "AlphaGrep",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Mitra: A Desktop Chat Application \",\"start_date\":\"Nov 2019\",\"end_date\":\"Present\",\"description\":\"• Cryptographically secured Login/Signup portal with SHA-256 hashing• Text padding to Differentiate between System and User Messages among Server Side and Clients Side with the side effect of increase in Server’• File Transfer between Server and Client with Hoffman’s Compression Algorithm• Clients’ activity is monitored and recorded in the auto generated log file at theserver end which also forbids attempts posing threat to user’s security includingmultiple login by a user at a time/consecutive invalid login attempts etc• Wide range of exception handling for improving user’s experience with the app.• Multiple Chat Window and Interaction Terminal using Multi-Threading, which is still missing in many leading Chat Messengers including WhatsApp,Snapchat etc.• Using Queue Data Structure to process(and warn) MULTIPLE USER REQUEST\"},{\"title\":\"DigiCon- Digital Convergence: Digitization of doctor prescription\",\"start_date\":\"Mar 2018\",\"description\":\"Part of OpenSoft 2018, Technology General Championship, IIT Kharagpur where we secured 2nd Position.-Digitizes the doctor’s prescription.-Processing the input image to get the top view using four point transform from pyimagesearch library.-Data extraction using ocropy(built on the idea of LSTM for handwriting recognition)after training on the handwriting of the doctor, using an image of annotated text written by the doctor. -Finally, fuzzy pattern matching for medicine name with the entire corpus after noise removal from text output of OCR\"},{\"title\":\"GraphDev : Python Library for Graph Data Structure and Algorithms\",\"start_date\":\"Aug 2019\",\"end_date\":\"Sep 2019\",\"description\":\"• Classes for Directional/Non-Directional Graphs for single line implementation.• Standard implementation of algorithms including NP-Complete problems.• Using CUSTOM ERROR HANDLING CLASSES to make it robust and user friendly\"},{\"title\":\"NLP based Legal Search Engine for Law Experts and Commoners\",\"start_date\":\"Mar 2019\",\"end_date\":\"Apr 2019\",\"description\":\"- Based upon the query it returns the similar cases' information. - Judge Name extraction using Fuzzy Matching. - Extracts the cited cases and laws by the judge using Name Entity Recognition from a given law file.- Automated uni-gram and bi-gram Keywords Extraction from the unprocessed law files after removing stopwords and lemmatizing and refining word count using TF-IDF.- Text classifier using fastText Word embedding\"},{\"title\":\"Vaidya\",\"start_date\":\"Jan 2019\",\"end_date\":\"Apr 2019\",\"description\":\"(Term Project for Soft Computing Tools in Engineering)A Fuzzy-based system for human disease diagnosis. - Predict the disease based upon the symptoms and the intensity i.e. mimic a general physician- Knowledge Base creation with the help of a certified medical practitioner : To improve the accuracy and credibility of the work- Developed correlation function to find the extent of matching of user input with the membership function of a certain disease - Mechanism for handling ambiguity during prediction\"}]",
+    "honors_and_awards": [
+        {
+            "title": "NSEC(National Standard Examination in Chemistry)",
+            "publication": "Indian Institute of Physics Teacher",
+            "date": "2016-11-01T00:00:00.000Z",
+            "description": "Ranked among top 1% at State Level(Rajasthan, India)"
+        },
+        {
+            "title": "KVPY Fellowship",
+            "publication": "IISc Bangalore",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "NSEJS ( National Standard Examination in Junior Science)",
+            "publication": "Indian Association of Physics Teacher",
+            "date": null,
+            "description": "Qualified"
+        }
+    ]
+}

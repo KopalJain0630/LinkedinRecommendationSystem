@@ -1,0 +1,310 @@
+{
+    "id": "anvay-varerkar",
+    "name": "Anvay Varerkar",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Meesho | IIT Bombay",
+    "about": "Interested in Software Development, Data Science, Algorithmic Trading and Quantitative Finance. Passionate about using technology to expand work capabilities.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Meesho",
+        "company_id": "meesho",
+        "title": "Meesho | IIT Bombay"
+    },
+    "experience": [
+        {
+            "title": "SDE 2 | Pricing",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jan 2024 - Present 1 year",
+            "start_date": "Jan 2024",
+            "end_date": "Present",
+            "duration_short": "1 year",
+            "company": "Meesho",
+            "company_id": "meesho",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer | AppAutomate",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Feb 2022 Jan 2024 2 years",
+            "start_date": "Feb 2022",
+            "end_date": "Jan 2024",
+            "duration_short": "2 years",
+            "company": "BrowserStack",
+            "company_id": "browserstack",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst - Product Development",
+            "description_html": null,
+            "duration": "Jul 2021 Feb 2022 8 months",
+            "start_date": "Jul 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "8 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "•\tWorked on Django's REST APIs for feature development, authentication, throttling; end focus on unit testing of services•\tBuilt containerised applications using Docker Compose and Networks, ensuring a uniform environment in development•\tEngineered a 90% reduction in the processing time of tasks using asynchronous handling with Celery and RabbitMQ•\tIntegrated Firebase Remote Config, RSA, AES encryption for MPIN transfer; implemented TOTP for admin authentication•\tDeveloped an AWS Lambda function to create a webhook; configured Jenkins for one – click deployment to AWS EC2",
+            "description_html": "• Worked on Django's REST APIs for feature development, authentication, throttling; end focus on unit testing of services• Built containerised applications using Docker Compose and Networks, ensuring a uniform environment in development• Engineered a 90% reduction in the processing time of tasks using asynchronous handling with Celery and RabbitMQ• Integrated Firebase Remote Config, RSA, AES encryption for MPIN transfer; implemented TOTP for admin authentication• Developed an AWS Lambda function to create a webhook; configured Jenkins for one – click deployment to AWS EC2",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "SBNRI",
+            "company_id": "sbnri-nribanking",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Worked on Sales Forecasting and Time Series Analysis to predict future sales to Piramal Pharmaceuticals customers to help with inventory management and production.Used Python, Keras and other libraries.",
+            "description_html": "Worked on Sales Forecasting and Time Series Analysis to predict future sales to Piramal Pharmaceuticals customers to help with inventory management and production.Used Python, Keras and other libraries. <!---->",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Piramal Enterprises Limited",
+            "company_id": "piramal-enterprises-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Alumni Relations Cell",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "2 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Student Alumni Relations Cell",
+                    "meta": "Apr 2019 - May 2020 1 year 2 months",
+                    "duration": "Apr 2019 May 2020 1 year 2 months",
+                    "start_date": "Apr 2019",
+                    "end_date": "May 2020",
+                    "duration_short": "1 year 2 months",
+                    "title": "ASMP Core Team Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Student Alumni Relations Cell",
+                    "meta": "Apr 2018 - Apr 2019 1 year 1 month",
+                    "description": "Worked in a 6 member team to implement the ASMP Programme for students of the institute. Managed a pool of 450+ Alumni mentors and 600+ students.The Alumni Student Mentorship Programme is an initiative to provide guidance from the alumni to the students of IIT Bombay.",
+                    "duration": "Apr 2018 Apr 2019 1 year 1 month",
+                    "start_date": "Apr 2018",
+                    "end_date": "Apr 2019",
+                    "duration_short": "1 year 1 month",
+                    "title": "ASMP Team Member",
+                    "description_html": "Worked in a 6 member team to implement the ASMP Programme for students of the institute. Managed a pool of 450+ Alumni mentors and 600+ students.<br>The Alumni Student Mentorship Programme is an initiative to provide guidance from the alumni to the students of IIT Bombay. <!---->"
+                }
+            ],
+            "company": "Student Alumni Relations Cell",
+            "company_id": "sarc-iitbombay",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Big Data Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Worked in the Data Analytics Warehouse of the Bombay Stock Exchange with Hadoop implementations to manage large amounts of data. Worked with PySpark, Hive, Impala-shell and HDFS to implement a K-Means clustering algorithm on customer data.",
+            "description_html": "Worked in the Data Analytics Warehouse of the Bombay Stock Exchange with Hadoop implementations to manage large amounts of data. Worked with PySpark, Hive, Impala-shell and HDFS to implement a K-Means clustering algorithm on customer data. <!---->",
+            "duration": "Jun 2019 Jul 2019 2 months",
+            "start_date": "Jun 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "2 months",
+            "company": "BSEIndia",
+            "company_id": "bseindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Coordinator",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Worked with HTML, CSS, Bootstrap and JavaScript on the front-end aspects of multiple websites of E-Cell.Worked on the E-Summit Mobile App using React Native.",
+            "description_html": "Worked with HTML, CSS, Bootstrap and JavaScript on the front-end aspects of multiple websites of E-Cell.Worked on the E-Summit Mobile App using React Native. <!---->",
+            "duration": "Apr 2018 Apr 2019 1 year 1 month",
+            "start_date": "Apr 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "1 year 1 month",
+            "company": "E-Cell, IIT Bombay",
+            "company_id": "ecell_iitb",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Horizons Coordinator",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Apr 2018 Apr 2019 1 year 1 month",
+            "start_date": "Apr 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "1 year 1 month",
+            "company": "Mood Indigo IIT Bombay",
+            "company_id": "mood-indigo",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rohit Bhatia",
+            "about": "Web Developer || Django || Technology Enthusiast",
+            "location": "Hamilton, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayur Shinde",
+            "about": null,
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh Sinha",
+            "about": "SDE 2 @ Flipkart | ex-Rakuten,Amazon | IIT BHU'20",
+            "location": "Varanasi"
+        },
+        {
+            "profile_link": "",
+            "name": "Modabbir Tarique",
+            "about": null,
+            "location": "Bihar, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Kathuria",
+            "about": "GenAI Consultant | LLM and Google Cloud Expert | Vertex AI, Gemini, MLOps, NLP",
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikhil Musale",
+            "about": "Associate, Strategy Consulting at IQVIA | IIT Bombay'22",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Sethi",
+            "about": null,
+            "location": "Amsterdam-Zuidoost"
+        },
+        {
+            "profile_link": "",
+            "name": "DAMODHAR NARAYANAVARAM",
+            "about": "Software Engineer - Scraping/Web Crawling Platform @Project44",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Avani Haritima",
+            "about": "Economics | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Agarwal",
+            "about": "Mesa Co '25 | Ex - Citi | COEP CE '22 | Passionate about Building Impactful Businesses",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhilekh Sharma",
+            "about": "SAP Analytics Cloud | Technical Lead, HCL Tech | IIT Bombay",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Aniket .",
+            "about": "Ex- Flipkart,Myntra | IIT (BHU)",
+            "location": "Varanasi"
+        },
+        {
+            "profile_link": "",
+            "name": "Tamoghno Pramanik",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayantika Saha",
+            "about": "Deutsche Bank | IIT KGP",
+            "location": null
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Chauhan",
+            "about": "Data Engineer @ Dun & Bradstreet | Ex-Oracle | MCA from NIT Jamshedpur",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Yadav",
+            "about": "Data Scientist at Naukri.com(Infoedge) || Ex @ZS || IIT Roorkee",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Pulkit Khanna",
+            "about": "Senior Data Scientist at Nference",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Nandankar",
+            "about": "MathWorks | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kirtee Jamdade",
+            "about": "Software Engineer at Siemens DISW",
+            "location": "Pune"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Bombay",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "degree": "Bachelor of Technology",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Analysis and Interpretation\"},{\"subtitle\":\"CS213\",\"title\":\"Data Structures and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Finance and Accounting\"},{\"subtitle\":\"-\",\"title\":\"Numerical Analysis\"},{\"subtitle\":\"-\",\"title\":\"Python for Data Analysis and Machine Learning\"}]",
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1944.0,
+    "connections": 500.0,
+    "current_company_company_id": "meesho",
+    "current_company_name": "Meesho",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "anvay-varerkar",
+    "activity": null,
+    "linkedin_num_id": 662952650.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "city": "Noida, Uttar Pradesh, India",
+    "position": "SDE-1@Amazon | SDE Intern at Amazon'22 | GLBITM CSE'23",
+    "experience": [
+        {
+            "title": "Software Development Engineer",
+            "description_html": null,
+            "duration": "Jan 2024 - Present 1 year",
+            "start_date": "Jan 2024",
+            "end_date": "Present",
+            "duration_short": "1 year",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tripjack",
+            "description_html": null,
+            "duration": "1 year",
+            "positions": [
+                {
+                    "subtitle": "Tripjack",
+                    "meta": "Jul 2023 - Dec 2023 6 months",
+                    "duration": "Jul 2023 Dec 2023 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Dec 2023",
+                    "duration_short": "6 months",
+                    "title": "Software Development Engineer -1",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Tripjack",
+                    "meta": "Jan 2023 - Jul 2023 7 months",
+                    "duration": "Jan 2023 Jul 2023 7 months",
+                    "start_date": "Jan 2023",
+                    "end_date": "Jul 2023",
+                    "duration_short": "7 months",
+                    "title": "Software Development Engineer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Tripjack",
+            "company_id": "tripjack-official",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Engineer Intern",
+            "description_html": null,
+            "duration": "Jun 2022 Sep 2022 4 months",
+            "start_date": "Jun 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "4 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "GL Bajaj Institute of Technology and Management",
+            "degree": "B.Tech",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ryan International School, Greater Noida",
+            "degree": "Higher Secondary (CBSE)",
+            "field": "PCM",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": "All India CBSE Topper of English and Physical Education by scoring 99 and 100 marks respectively",
+            "description_html": "All India CBSE Topper of English and Physical Education by scoring 99 and 100 marks respectively <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ryan International School, Greater Noida",
+            "degree": "High School",
+            "field": "10 CGPA",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID 9ZWMMEFW3PGBSee credential",
+            "subtitle": "Coursera",
+            "title": "Object-Oriented Programming with Java"
+        },
+        {
+            "meta": "Issued Mar 2020See credential",
+            "subtitle": "Cisco Networking Academy",
+            "title": "Introduction to IoT"
+        }
+    ],
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "CBSE Merit Certificate",
+            "publication": "Central Board of Secondary Education",
+            "date": "2019-05-01T00:00:00.000Z",
+            "description": "All India CBSE Topper of English and Physical Education"
+        }
+    ]
+}

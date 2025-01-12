@@ -1,0 +1,160 @@
+{
+    "city": "Latur, Maharashtra, India",
+    "position": "MITACS GRI'23 | IIT KGP'25 | Virginia Tech | University of Florida",
+    "experience": [
+        {
+            "title": "Data Science Intern",
+            "location": "Mohali, India",
+            "description_html": null,
+            "duration": "Jun 2024 Aug 2024 3 months",
+            "start_date": "Jun 2024",
+            "end_date": "Aug 2024",
+            "duration_short": "3 months",
+            "company": "AGNEXT",
+            "company_id": "agnextworld",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "MITACS GRI",
+            "location": "Guelph, Ontario, Canada",
+            "description": "Guide: Dr. Asim Biswas Project Title: Digital soil science: Use of machine learning algorithms for soil characterization",
+            "description_html": "Guide: Dr. Asim Biswas Project Title: Digital soil science: Use of machine learning algorithms for soil characterization <!---->",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "University of Guelph",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Prakriti, IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 8 months",
+            "positions": [
+                {
+                    "subtitle": "Prakriti, IIT Kharagpur",
+                    "meta": "Aug 2022 - Jun 2023 11 months",
+                    "duration": "Aug 2022 Jun 2023 11 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "11 months",
+                    "title": "Head - Public Relations and Marketing",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Prakriti, IIT Kharagpur",
+                    "meta": "Nov 2021 - Jul 2022 9 months",
+                    "duration": "Nov 2021 Jul 2022 9 months",
+                    "start_date": "Nov 2021",
+                    "end_date": "Jul 2022",
+                    "duration_short": "9 months",
+                    "title": "Secretary",
+                    "description_html": null
+                }
+            ],
+            "company": "Prakriti, IIT Kharagpur",
+            "company_id": "prkrt-iitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Student Mentor | UG Student's Council",
+            "description": "Mentoring the First-year students of the Department of Agricultural and Food Engineering by helping them in their academics as well as non-academics.",
+            "description_html": "Mentoring the First-year students of the Department of Agricultural and Food Engineering by helping them in their academics as well as non-academics. <!---->",
+            "duration": "Jan 2022 Jun 2023 1 year 6 months",
+            "start_date": "Jan 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "1 year 6 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary Students' Welfare",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Aug 2022 Apr 2023 9 months",
+            "start_date": "Aug 2022",
+            "end_date": "Apr 2023",
+            "duration_short": "9 months",
+            "company": "Patel Hall of Residence",
+            "company_id": "patel-hall-of-residence",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "description_html": null,
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "University of Florida",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "description_html": null,
+            "duration": "Apr 2022 Aug 2022 5 months",
+            "start_date": "Apr 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "5 months",
+            "company": "Virginia Tech",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "Agricultural and Food Engineering",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2025",
+            "description": "Activities and Societies: Inter Hall GC:- Team member of the Case Study team of the Patel Hall",
+            "description_html": "Activities and Societies: Inter Hall GC:- Team member of the Case Study team of the Patel Hall",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Nalanda Academy",
+            "degree": "Senior Secondary",
+            "field": "Grade 12 : 93.6%",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Podar International School, Latur",
+            "degree": "Class 10: 95.2%",
+            "start_year": "2011",
+            "end_year": "2018",
+            "description": "Activities and Societies: - Students Council Member.",
+            "description_html": "Activities and Societies: - Students Council Member.",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+        }
+    ],
+    "current_company_name": "AGNEXT",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

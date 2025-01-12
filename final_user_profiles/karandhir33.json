@@ -1,0 +1,81 @@
+{
+    "city": "India",
+    "position": "Accenture Strategy | Ex- Bain, Indian Oil | ISB, YIF",
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian School of Business",
+            "degree": "PGP",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "Panjab University",
+            "degree": "Bachelor of Engineering - BE",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ashoka University",
+            "degree": "Young India Fellowship",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2024",
+            "subtitle": "Tableau",
+            "title": "Tableau Certified"
+        },
+        {
+            "meta": "Issued Nov 2023Credential ID 86709657See credential",
+            "subtitle": "Coupa Software",
+            "title": "Supply Chain Design Foundations"
+        },
+        {
+            "meta": "Issued Jun 2022",
+            "subtitle": "KPMG",
+            "title": "Lean Six Sigma Green Belt"
+        },
+        {
+            "meta": "Issued Nov 2023Expires Nov 2025Credential ID 86781404See credential",
+            "subtitle": "Coupa Software",
+            "title": "Supply Chain Network Optimization"
+        },
+        {
+            "meta": "Issued Aug 2024Expires Nov 2024",
+            "subtitle": "Power BI",
+            "title": "Analyzing and Visualizing Data with Microsoft Power BI"
+        },
+        {
+            "subtitle": "Alteryx",
+            "title": "Alteryx Designer Certifications"
+        }
+    ],
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Notadesk- Remote Innovation Project\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"Customer research and profiling was done for a Belgium based startup Notadesk's flagship product Notadesk by interviewing 250+ people spread across age, work experience, gender and Industry to find suitable a positioning strategy and thereby devising a digital marketing solution for the company right from customer awareness to website retention and customer service\"},{},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Global Ambassador",
+            "publication": "The Harvard Project for Asian and International Relations",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "Selected as a global ambassador by HPAIR (4/1200+ Delegates)"
+        },
+        {
+            "title": "National Runner up",
+            "publication": "-",
+            "date": "2020-11-01T00:00:00.000Z",
+            "description": "We won the First runner-up in a national level hack on \"Climate Resilient Livelihood\" organized by UNLEASH"
+        }
+    ]
+}

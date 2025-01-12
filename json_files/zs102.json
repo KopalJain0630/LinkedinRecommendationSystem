@@ -1,0 +1,347 @@
+{
+    "id": "zs102",
+    "name": "Zishan Sami",
+    "city": "Bangalore Urban district, India",
+    "country_code": "IN",
+    "position": "IIT Kgp '20 | Oracle | IBM Research",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Makeweb.ai",
+        "company_id": "makeweb-ai",
+        "title": "IIT Kgp '20 | Oracle | IBM Research"
+    },
+    "experience": [
+        {
+            "title": "Founder",
+            "location": "India",
+            "description": "A tool to create & host websites using AI & NoCode.30+ paying users in 50 days of Launch.Got acquired.",
+            "description_html": "A tool to create &amp; host websites using AI &amp; NoCode.30+ paying users in 50 days of Launch.Got acquired. <!---->",
+            "duration": "Mar 2024 Sep 2024 7 months",
+            "start_date": "Mar 2024",
+            "end_date": "Sep 2024",
+            "duration_short": "7 months",
+            "company": "Makeweb.ai",
+            "company_id": "makeweb-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "NiftyApes",
+            "location": "Remote",
+            "description_html": null,
+            "duration": "1 year",
+            "positions": [
+                {
+                    "subtitle": "NiftyApes",
+                    "meta": "May 2023 - Sep 2023 5 months",
+                    "duration": "May 2023 Sep 2023 5 months",
+                    "start_date": "May 2023",
+                    "end_date": "Sep 2023",
+                    "duration_short": "5 months",
+                    "title": "Senior Smart Contract Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "NiftyApes",
+                    "meta": "Oct 2022 - May 2023 8 months",
+                    "description": "Building the smart contract suites for the NiftyApes protocol, such as permissionless leveraged trading of NFTs using funds from active lenders in the NiftyApes protocol",
+                    "duration": "Oct 2022 May 2023 8 months",
+                    "start_date": "Oct 2022",
+                    "end_date": "May 2023",
+                    "duration_short": "8 months",
+                    "title": "Smart Contract Engineer",
+                    "description_html": "Building the smart contract suites for the NiftyApes protocol, such as permissionless leveraged trading of NFTs using funds from active lenders in the NiftyApes protocol <!---->"
+                }
+            ],
+            "company": "NiftyApes",
+            "company_id": "niftyapes",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Smart Contract Engineer",
+            "location": "Singapore",
+            "description": "Building decentralized trading platform allowing anyone, anywhere to gain exposure to any pre-public asset",
+            "description_html": "Building decentralized trading platform allowing anyone, anywhere to gain exposure to any pre-public asset <!---->",
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "prePO",
+            "company_id": "prepo-io",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Coach",
+            "location": "Remote",
+            "description": "• Mentored and guided 4 teams from cohort-2 in their bootcamp projects who were new to the Ethereum development.• Contributed in their project ideation, designing system architecture and resolving any technical roadblocks.",
+            "description_html": "• Mentored and guided 4 teams from cohort-2 in their bootcamp projects who were new to the Ethereum development.• Contributed in their project ideation, designing system architecture and resolving any technical roadblocks. <!---->",
+            "duration": "Jan 2022 May 2022 5 months",
+            "start_date": "Jan 2022",
+            "end_date": "May 2022",
+            "duration_short": "5 months",
+            "company": "Dappcamp by Preethi Kasireddy",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Applications Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Sep 2020 May 2022 1 year 9 months",
+            "start_date": "Sep 2020",
+            "end_date": "May 2022",
+            "duration_short": "1 year 9 months",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "India",
+            "description": "• Worked on developing deep learning models for field boundary segmentation using multi-spectral and multi-temporal satellite images.• This Work is now a US Patent --> ",
+            "description_html": "• Worked on developing deep learning models for field boundary segmentation using multi-spectral and multi-temporal satellite images.• This Work is now a US Patent --&gt;  <!---->",
+            "duration": "May 2019 Aug 2019 4 months",
+            "start_date": "May 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "4 months",
+            "company": "IBM",
+            "company_id": "ibm",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern | InStore Vision",
+            "location": "Bengaluru Area, India",
+            "description": "• Worked on Person Re-identification problem to identify / re-identify people in real time and tag them with unique labels.• Proposed a new loss function called cluster loss for deep CNN architectures motivated from triplet-loss.• Cluster Loss learns feature representations of people in a class independent way, forming round and separated clusters of all the classes.• Improved the Rank-1 accuracy by 3% and mAP by 6% compared to the existing methods on two popular accessible datasets.",
+            "description_html": "• Worked on Person Re-identification problem to identify / re-identify people in real time and tag them with unique labels.• Proposed a new loss function called cluster loss for deep CNN architectures motivated from triplet-loss.• Cluster Loss learns feature representations of people in a class independent way, forming round and separated clusters of all the classes.• Improved the Rank-1 accuracy by 3% and mAP by 6% compared to the existing methods on two popular accessible datasets. <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Capillary Technologies",
+            "company_id": "capillary-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Team Member",
+            "location": "Kharagpur Area, India",
+            "description": "-- Built a dashboard to manage Campus Ambassador Program across 23 cities in India-- Integrated the Graph API to connect Campus Ambassadors to the portal and to quantify their social media efforts-- PHP and MySQL at back-end &HTML, CSS, JS and Bootstrap at the front-end were used",
+            "description_html": "-- Built a dashboard to manage Campus Ambassador Program across 23 cities in India-- Integrated the Graph API to connect Campus Ambassadors to the portal and to quantify their social media efforts-- PHP and MySQL at back-end &amp;HTML, CSS, JS and Bootstrap at the front-end were used <!---->",
+            "duration": "Mar 2016 Oct 2016 8 months",
+            "start_date": "Mar 2016",
+            "end_date": "Oct 2016",
+            "duration_short": "8 months",
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Abhishikth Aleti",
+            "about": "Senior Software Engineer at ServiceNow",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilay Arora",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Arvind Panicker",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Yogesh Kumar",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Himani Grover",
+            "about": "Lead Engineer @SRIN",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Manideep Kolla",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Jyothish",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumeet Shirgure",
+            "about": "USC | IITKGP | ex-Googler",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dishant Nirov Sheth",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Megha Garg",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech. + M.Tech.)",
+            "field": "Mining and Mineral Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms 6.006 | MIT OpenCourseWare\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning | Coursera\"},{\"subtitle\":\"-\",\"title\":\"cs231n: Convolutional Neural Networks for Visual Recognition | Stanford University\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2019.0,
+    "connections": 500.0,
+    "current_company_company_id": "makeweb-ai",
+    "current_company_name": "Makeweb.ai",
+    "publications": "[{\"title\":\"Cluster Loss for Person Re-Identification\",\"subtitle\":\"ACM International Conference Proceedings Series (ICVGIP 2018)\",\"date\":\"December 19, 2018\",\"description\":\"Person re-identification (ReID) is an important problem in com-puter vision, especially for video surveillance applications. Theproblem focuses on identifying people across different cameras oracross different frames of same camera. The main challenge lies inidentifying similarity of the same person against large appearanceand structure variations, while differentiating between individuals.Recently, deep learning networks with triplet loss has become acommon framework for person ReID. However, triplet loss focuseson obtaining correct orders on the training set. We demonstrate thatit performs inferior in a clustering task. In this paper, we design acluster loss, which can lead to the model output with a larger inter-class variation and a smaller intra-class variation compared to thetriplet loss. As a result, our model has a better generalisation abilityand can achieve a higher accuracy on the test set especially for aclustering task. We also introduce a batch hard training mechanismfor improving the results and faster convergence of training.\"}]",
+    "patents": "[{\"title\":\"Selective Analysis For Field Boundary Detection\",\"date_issued\":\"July 19, 2022\",\"patents_id\":\"US11393194B2\",\"description\":\"A method for selective boundary detection includes identifying a plurality of boundariesfor a plurality of subregions in a region of interest utilizing one or more multispectral images forthe region of interest. The method further includes analyzing a plurality of adjacent fields to afirst field in a first subregion out of the plurality of subregions utilizing a region identificationcriterion based on a plurality of attributes for the first field and the plurality of adjacent fields.The method further includes determining, based on the analyzing, the first region with the firstfield requires further analysis of multitemporal remote sensed data over a defined period of time.\"}]",
+    "projects": "[{\"title\":\"An Online Opinion Poll Portal\",\"start_date\":\"Apr 2016\",\"description\":\"-- Built an online opinion poll portal for the candidates running for the general elections of Technology Students Gymkhana, IIT Kharagpur with their profile and proposals to compare with-- Received a huge response from the students in the campus and site got 10k+ hits in just 3 days\"},{\"title\":\"Continual Learning | Bachelor Thesis | Guide : Prof. Pabitra Mitra \",\"start_date\":\"Aug 2018\",\"end_date\":\"Apr 2019\",\"description\":\"• Built a multi-task learning python framework which can learn new tasks without forgetting the earlier ones, replicating humans.• Implemented and fused several existing works to find the one having the least catastrophic forgetting over the full learning timeline.• Methods were based on cutting edge works like distillation loss, generative networks, and weight consolidation.• Formulated experiments by splitting CIFAR-100 dataset into 5 independent tasks having 20 classes each.\"},{\"title\":\"Human Personality Detection | Guide : Prof. Pabitra Mitra\",\"start_date\":\"Dec 2017\",\"end_date\":\"Mar 2018\",\"description\":\"• Implemented a paper proposing Deep Bi-modal Regression Network to predict ’big five personality traits’ of people from their short introductory videos using TensorFlow (well known standardized personality profiling used for hiring).\"},{\"title\":\"CNN-from-scratch\",\"start_date\":\"Jun 2017\",\"end_date\":\"Jul 2017\",\"description\":\"• Implemented a simple CNN architecture from scratch using only Numpy.• Most popular repository for the ground up implementation of CNNs.\"},{\"title\":\"CNN-from-Scratch\",\"start_date\":\"May 2017\",\"end_date\":\"Jul 2017\",\"description\":\"A scratch implementation of Convolutional Neural Network in Python using only numpy and validated over CIFAR-10 & MNIST Dataset\"}]",
+    "organizations": null,
+    "location": "Bangalore Urban district",
+    "linkedin_id": "zs102",
+    "activity": [
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "Don’t Sell Your Youth to Buy Your Old Age \"I will sacrifice now to enjoy life later.\" I have heard many smart people say this. But later isn’t…",
+            "img": "",
+            "id": "7271380694600159233"
+        },
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "These days I’m frequently wondering.. What would the world look like when the economic value of most humans get driven to zero because of AGI and…",
+            "img": "",
+            "id": "7265576767988342785"
+        },
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "We at Swish have raised $2M from Accel and leading industry operators to deliver delight in 10 minutes! Swish began with a bold goal - to deliver…",
+            "img": "",
+            "id": "7264504770810253312"
+        },
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "I recently went to a fine dining restaurant with my wife. We prefer Chef's tasting menu. The amount mentioned for that was Rs. 2,900 + taxes per…",
+            "img": "",
+            "id": "7263907854913323019"
+        },
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "Have Life Rules! Else you will just live, would not able to control life! Whatever experience you get or you see start creating life rules and stick…",
+            "img": "",
+            "id": "7253619706278932481"
+        },
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "It was exciting and energizing to meet the #WiproAPMEA teams across Australia, India, Singapore, Japan, the Middle East, and Africa over the last…",
+            "img": "",
+            "id": "7219341578216116224"
+        },
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "As I’m getting deep into AI research, I’m realising there’s zero incentive to publish negative results. Nobody online is interested in it, no…",
+            "img": "",
+            "id": "7247832801335496705"
+        },
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "My wife and I will soon have been married a quarter of a century. With careers, homeschooled kids, and active social lives, we’re both bloody busy.…",
+            "img": "",
+            "id": "7244332356386324481"
+        },
+        {
+            "interaction": "Liked by Zishan Sami",
+            "link": "",
+            "title": "Free Coldplay tickets up for grabs! 🎶 I managed to get 4 tickets for Coldplay’s Jan 19th concert before they sold out, and one of our Matiks…",
+            "img": "",
+            "id": "7243567578093133825"
+        }
+    ],
+    "linkedin_num_id": 438902769.0,
+    "honors_and_awards": [
+        {
+            "title": "GOLD in OpenSoft, Technology General Championship 2018-19",
+            "publication": "Technology Students Gymkhana, IIT Kharagpur",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "• Led a team of 15+ members as a Captain and secured GOLD in the OpenSoft, Technology General Championship 2018-19, a prestigious annual technology competition organised among halls of residences of IIT Kharagpur. • Designed a natural language search engine for lawyers and ordinary people where they can search for legal acts and previous court cases. • Integrated sub-modules like case summarizer, search domain reduction, semantic sentence embedding model, query type detector, etc"
+        },
+        {
+            "title": "WINNER of Safety Data Analytics Challenge, Great Step IIT Kharagpur",
+            "publication": "Great Step IIT Kharagpur",
+            "date": "2017-10-01T00:00:00.000Z",
+            "description": "Won the challenge by successfully minimising the cost of customer retention & acquisition of a telecom company by accurately predicting its probable customer churning."
+        },
+        {
+            "title": "RUNNER UP in Capillary Data Science Challenge",
+            "publication": "Capillary Technologies",
+            "date": "2017-09-01T00:00:00.000Z",
+            "description": "• Successfully modelled a movie recommendation system with Biased Matrix Factorization method using Tensorflow. • Achieved state-of-the-art result on 1-M Movielens dataset securing 2nd position on the challenge leaderboard."
+        },
+        {
+            "title": "Gold in OpenSoft, Technology General Championship, IIT Kharagpur",
+            "publication": "Indian Institute of Technology Kharagpur",
+            "date": "2017-03-01T00:00:00.000Z",
+            "description": "-- Contributed in developing an Ethereum based decentralized photo sharing application using EmbarkJS framework and decentralised storage IPFS -- Integrated the backend API for the app using Javascript along with Google Maps API for location based tagging"
+        },
+        {
+            "title": "2nd Runner Up in Microsoft Code.fun.do Hackathon 2017",
+            "publication": "Microsoft India",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "• Secured 2nd Runner Up position out of 200+ teams in the overnight hackathon organised by Microsoft. • Developed a messenger bot which can respond to people on railway queries like the status of trains, their routes, PNR status, etc. • Integrated Microsoft APIs for language understanding capabilities and built a data scraper for real-time railway information."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

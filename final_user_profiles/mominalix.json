@@ -1,0 +1,59 @@
+{
+    "city": "Riyadh, Saudi Arabia",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"General-purpose computing on GPU\"},{\"subtitle\":\"-\",\"title\":\"Parallel Processing\"},{\"subtitle\":\"-\",\"title\":\"Project Management\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"}]",
+    "certifications": [
+        {
+            "meta": "Credential ID 5ZUNWZSK54YJSee credential",
+            "subtitle": "NVIDIA",
+            "title": "AI Infrastructure and Operations"
+        },
+        {
+            "meta": "Credential ID Z8PYYJ8MFVT7See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Machine Learning in Production"
+        },
+        {
+            "meta": "Credential ID 8M3QJZMWM8NZSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Machine Learning Specialization"
+        },
+        {
+            "meta": "Credential ID ZJK6YZC2XF4JSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Credential ID FR7PKCYGV3VQSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Credential ID KB45NWUM636TSee credential",
+            "subtitle": "NVIDIA",
+            "title": "RDMA Programming "
+        },
+        {
+            "meta": "Credential ID PPY6FZJ4CXNBSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Structuring Machine Learning Projects"
+        }
+    ],
+    "current_company_name": "QSS AI & ROBOTICS",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"AI Locater\",\"start_date\":\"Jul 2023\",\"description\":\"• Developed a groundbreaking search engine for AI tools, facilitating the discovery of the most relevant AI solutions based on user queries, resulting in a 30% increase in productivity and efficiency.• Engineered a powerful NLP (Natural Language Processing) algorithm that accurately matches user queries with the most relevant AI tools, achieving a 95% accuracy rate and reducing search time by 50%.• Led the data collection effort, utilizing web scraping techniques with Selenium and Beautiful Soup, to gather and curate a comprehensive database of over 3500 AI tools.\"},{},{\"title\":\"AI Quadruped Robot\",\"description\":\"Cerberus, a pioneering robotics project, focuses on autonomous locomotion using Deep Reinforcement Learning (DRL). The primary goal is to enable the quadruped robot, Cerberus, to autonomously learn and execute locomotion with minimal engineering intervention, achieved by mapping sensory inputs to low-level actions through DRL.Designed as a quadruped with 12 Degrees of Freedom (DOF), Cerberus features four legs, each with three joints and servo motors. The computational core, Jetson Nano, runs multiple neural networks. Proximal Policy Optimization (PPO) from OpenAI Gym trains the AI agent in a 3D simulation with Pybullet. The learned policy transitions seamlessly to the physical Cerberus.The gyroscope sensor, positioned at the base, calibrates the robot. An accelerometer detects disturbances, feeding into a balancing algorithm that adjusts joint values for stability. A secure web app serves as the user interface, allowing remote control and commanding Cerberus to initiate motion, adjust speed, and stop.Key Functions:User Interaction: Web app enables user registration, login, and remote control of Cerberus.Robot Locomotion: Cerberus walks forward on command, with adjustable speed.Balancing Capability: The robot autonomously recovers from external forces, maintaining stability.Web-Based Control: Users initiate motion, adjust speed, and halt robot movement through a secure portal.\"},{},{\"title\":\"Particle Physics Simulator\",\"description\":\"Developed a Particle Physics Simulation leveraging CUDA, OpenCL and PyOpenGL, demonstrating gravitational interactions among particles. Explored particle behavior, gravitational effects, and interactions, showcasing physics principles in a visually engaging manner.\"},{\"title\":\"Resource Sharing Warehouse Simulation\",\"description\":\"A python GUI based simulator that showcases smart resource sharing among robots, resilient to module failures, and enhancing productivity. Demonstrated the power of collaboration, path planning and parallel processing in warehouse applications.\"}]",
+    "honors_and_awards": null
+}

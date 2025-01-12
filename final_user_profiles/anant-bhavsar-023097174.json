@@ -1,0 +1,94 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": "Ex- Program Associate at Wells Fargo | IIT Kharagpur'22",
+    "experience": [
+        {
+            "title": "Program Associate",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Managing vendor fraud models, including models from FICO, Mastercard, VISA• Types of Fraud included credit and debit card transaction fraud, cyber fraud.• Performed Sensitivity Analysis to identify important variables for the vendor fraud models• Explored Shapley Values to explain the outputs of black-box model• Assisted team members of new fraud modeling team in onboarding",
+            "description_html": "• Managing vendor fraud models, including models from FICO, Mastercard, VISA• Types of Fraud included credit and debit card transaction fraud, cyber fraud.• Performed Sensitivity Analysis to identify important variables for the vendor fraud models• Explored Shapley Values to explain the outputs of black-box model• Assisted team members of new fraud modeling team in onboarding <!---->",
+            "duration": "Jun 2022 Sep 2023 1 year 4 months",
+            "start_date": "Jun 2022",
+            "end_date": "Sep 2023",
+            "duration_short": "1 year 4 months",
+            "company": "Wells Fargo",
+            "company_id": "wellsfargo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Philips",
+            "company_id": "philips",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Bhopal, Madhya Pradesh, India",
+            "description": "Classification of text into Fiction and Non-fiction ◦ Developed a model that can assess the style of writing and classify it as fictional or non-fictional◦ Trained Logistic Regression model on Brown Corpus using characteristics such as parts of speech   ratios◦ Website fictometer.com was developed to deploy the model using Django framework for backend",
+            "description_html": "Classification of text into Fiction and Non-fiction ◦ Developed a model that can assess the style of writing and classify it as fictional or non-fictional◦ Trained Logistic Regression model on Brown Corpus using characteristics such as parts of speech ratios◦ Website fictometer.com was developed to deploy the model using Django framework for backend <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "IISER Bhopal",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated MSc.",
+            "field": "Mathematics and Computing",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Mother Teresa Sr. Sec. School, Bhopal",
+            "degree": "12th",
+            "field": "88.6%",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Mother Teresa Sr. Sec. School, Bhopal",
+            "degree": "10th",
+            "field": "CGPA: 10",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Systems Design\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Soft Computing Tools in Engineering\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Mar 2019Credential ID NKUZWSM4FGFGSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Dec 2018Credential ID QAYKE22TNN4JSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning Foundations: A Case Study Approach"
+        }
+    ],
+    "current_company_name": "Wells Fargo",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Named Entity Recognition in Biomedical Corpus\",\"start_date\":\"Sep 2019\",\"end_date\":\"Nov 2019\",\"description\":\"◦ Created a model that can identify named entities, which is important part of information extraction inclinical documentation◦ Trained Bidirectional LSTM-CRF model for Sequence Tagging on Biomedical Corpus using keras fordisease and chemical entity identification◦ Performed error analysis by calculating precision,recall and f1-score in case of exact and partial match\"},{\"title\":\"GraphEd - Graph Application\",\"start_date\":\"Aug 2019\",\"end_date\":\"Nov 2019\",\"description\":\"◦ Created a graphical user interface for creating,editing and saving graphs using Qt Designer◦ Implemented Maximum Independent Set,Maximum Matching,Minimum Vertex Cover,MaximumClique algorithms along with various options for nodes and edges using Python\"},{\"title\":\"Smart Shopping\",\"start_date\":\"Feb 2019\",\"end_date\":\"Apr 2019\",\"description\":\"◦ Created an e-billing system using which bill can be generated directly by the customer by takingphotos of items to be purchased◦ Object Classification is done by Transfer Learning using pre-trained convolutional neural networkAlexNet and a Graphical User Interface is developed using MATLAB\"}]",
+    "honors_and_awards": null
+}

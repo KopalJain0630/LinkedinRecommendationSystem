@@ -1,0 +1,91 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Data Scientist | IIT KGP'23 | Driving Decisions with Data, Turning Complexity into Clarity with AI.",
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Developed an LMS RAG system using JavaScript injection, Selenium, and hierarchical RAG to extract and search data from Articulate 360 modules.Developed a multimedia translation app supporting text, audio, video, and images, reducing processing time by 75% with multiprocessing.Created a \"Video-to-Question\" system for team meetings, automating MoM, summaries, and answering custom queriesEngineered a document retrieval system for engineers, delivering results in 0.015 seconds by mapping queries to SOPs and assigning tasks.Built a video subtitle translation system with multilingual support, preserving context and linking seamlessly to the audio transcription pipeline.Enabled high-accuracy audio transcription using Whisper, integrating silence detection for optimized chunking and real-time transcription capabilitiesDeveloped APIs and interactive demos for client applications, enabling seamless integration with FastAPI and showcasing features via Streamlit.Designed a PPT and image translation pipeline using boundary detection to replace text while maintaining layout integrity and visual consistency.Led a team to 3rd place in AWS AI JAM, delivering an education product pitch and demo within 2 days using AWS tools and AI services.Created an email generation app for client updates and automated meeting notes and scrum updates, enhancing team communication and efficiency.",
+            "description_html": "Developed an LMS RAG system using JavaScript injection, Selenium, and hierarchical RAG to extract and search data from Articulate 360 modules.Developed a multimedia translation app supporting text, audio, video, and images, reducing processing time by 75% with multiprocessing.Created a \"Video-to-Question\" system for team meetings, automating MoM, summaries, and answering custom queriesEngineered a document retrieval system for engineers, delivering results in 0.015 seconds by mapping queries to SOPs and assigning tasks.Built a video subtitle translation system with multilingual support, preserving context and linking seamlessly to the audio transcription pipeline.Enabled high-accuracy audio transcription using Whisper, integrating silence detection for optimized chunking and real-time transcription capabilitiesDeveloped APIs and interactive demos for client applications, enabling seamless integration with FastAPI and showcasing features via Streamlit.Designed a PPT and image translation pipeline using boundary detection to replace text while maintaining layout integrity and visual consistency.Led a team to 3rd place in AWS AI JAM, delivering an education product pitch and demo within 2 days using AWS tools and AI services.Created an email generation app for client updates and automated meeting notes and scrum updates, enhancing team communication and efficiency.",
+            "duration": "Sep 2023 - Present 1 year 4 months",
+            "start_date": "Sep 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 4 months",
+            "company": "Centilytics | Intelligent Cloud Management",
+            "company_id": "centilytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analytics Consultant intern",
+            "location": "Remote",
+            "description": "• Created real-time data extraction tool from more than 25 different applications utilising the REST APIs with Python and SQL• Developed an ETL process for transforming the data into a suitable format and importing it into Azure SQL database tables• Built a dashboard as per the client's specification Using DAX and Power BI GUI, Also automated the process of report refresh",
+            "description_html": "• Created real-time data extraction tool from more than 25 different applications utilising the REST APIs with Python and SQL• Developed an ETL process for transforming the data into a suitable format and importing it into Azure SQL database tables• Built a dashboard as per the client's specification Using DAX and Power BI GUI, Also automated the process of report refresh <!---->",
+            "duration": "Sep 2022 Dec 2022 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "4 months",
+            "company": "CyberNxt Solutions LLP",
+            "company_id": "cybernxt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern - Information Security",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Created an automation tool for modified data transfer to Azure from various inputs, which reduced 8-hour manual tasks by 97%• Developed Bulk IOC lookup solution for threat intelligence website, which saved clients 35 man-days every 3 months• Constructed tools for a SIEM application for automatic reports, server Health monitoring and offence check monitoring• Built a method for verifying source code using static application security testing for security considerations",
+            "description_html": "• Created an automation tool for modified data transfer to Azure from various inputs, which reduced 8-hour manual tasks by 97%• Developed Bulk IOC lookup solution for threat intelligence website, which saved clients 35 man-days every 3 months• Constructed tools for a SIEM application for automatic reports, server Health monitoring and offence check monitoring• Built a method for verifying source code using static application security testing for security considerations <!---->",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "LTI - Larsen & Toubro Infotech",
+            "company_id": "l&t-infotech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Backend Development Intern",
+            "location": "Remote",
+            "description": "• Built a microservice for customer engagement notifications, which returned 30% customer re-engagement on average• Developed a scheduler microservice using Flask and Cronjob to optimise the database based on package validity• Created the REST API backend for the client CRM portal for services like authentication and dashboard statistics",
+            "description_html": "• Built a microservice for customer engagement notifications, which returned 30% customer re-engagement on average• Developed a scheduler microservice using Flask and Cronjob to optimise the database based on package validity• Created the REST API backend for the client CRM portal for services like authentication and dashboard statistics <!---->",
+            "duration": "Nov 2021 Feb 2022 4 months",
+            "start_date": "Nov 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "4 months",
+            "company": "Param Webeek Limited",
+            "company_id": "param-webeek",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech",
+            "field": "Biotechnology and biochemical engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya (JNV)",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Centilytics | Intelligent Cloud Management",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

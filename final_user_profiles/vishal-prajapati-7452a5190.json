@@ -1,0 +1,50 @@
+{
+    "city": "Delhi, India",
+    "position": "Programmer at Webnfoz technologies",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Feb 2023 - Present 1 year 11 months",
+            "start_date": "Feb 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 11 months",
+            "company": "Webnfoz Technologies",
+            "company_id": "webnfoztechnologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Programmer",
+            "description_html": null,
+            "duration": "Apr 2018 - Present 6 years 9 months",
+            "start_date": "Apr 2018",
+            "end_date": "Present",
+            "duration_short": "6 years 9 months",
+            "company": "Sagenext Infotech LLC",
+            "company_id": "sagenext-infotech-llc",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Integral University, Lucknow",
+            "degree": "Master's degree",
+            "field": "COMPUTER AND INFORMATION SCIENCES AND SUPPORT SERVICES",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Webnfoz Technologies",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

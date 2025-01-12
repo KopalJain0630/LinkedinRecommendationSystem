@@ -1,0 +1,128 @@
+{
+    "city": "Vancouver, British Columbia, Canada",
+    "position": "Walmart | MBA | University of Delhi",
+    "experience": [
+        {
+            "title": "Walmart",
+            "location": "New Westminster, British Columbia, Canada",
+            "description_html": null,
+            "duration": "2 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "Walmart",
+                    "meta": "Aug 2024 - Present 5 months",
+                    "duration": "Aug 2024 - Present 5 months",
+                    "start_date": "Aug 2024",
+                    "end_date": "Present",
+                    "duration_short": "5 months",
+                    "title": "OMNI Assistant Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Walmart",
+                    "meta": "Jul 2023 - Jul 2024 1 year 1 month",
+                    "duration": "Jul 2023 Jul 2024 1 year 1 month",
+                    "start_date": "Jul 2023",
+                    "end_date": "Jul 2024",
+                    "duration_short": "1 year 1 month",
+                    "title": "OMNI Department Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Walmart",
+                    "meta": "Oct 2022 - Jun 2023 9 months",
+                    "duration": "Oct 2022 Jun 2023 9 months",
+                    "start_date": "Oct 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "9 months",
+                    "title": "Customer Fulfillment Associate",
+                    "description_html": null
+                }
+            ],
+            "company": "Walmart",
+            "company_id": "walmart",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Member",
+            "description_html": null,
+            "duration": "Sep 2018 Apr 2021 2 years 8 months",
+            "start_date": "Sep 2018",
+            "end_date": "Apr 2021",
+            "duration_short": "2 years 8 months",
+            "company": "The Commerce Society, Ramjas College",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Finance Management Intern",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Vardhan Consulting Engineers",
+            "company_id": "techvardhan",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Ramjas College",
+            "degree": "B.com (Hons.)",
+            "field": "Accounting and Finance",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University Canada West",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2020Credential ID 1535-16291404See credential",
+            "subtitle": "Alison",
+            "title": "Diploma in Python Programming "
+        },
+        {
+            "meta": "Issued May 2020Credential ID AbaUrF0tJ7AO5JRBRz3NxAYcDO57See credential",
+            "subtitle": "LinkedIn",
+            "title": "Excel: Power Pivot for Beginners"
+        },
+        {
+            "meta": "Issued May 2020Credential ID ATpUURv1j799SbkPNBgOsymdQEqcSee credential",
+            "subtitle": "LinkedIn",
+            "title": "Financial Modeling Foundations"
+        },
+        {
+            "meta": "Issued May 2020Credential ID AcJoRaBU5wzcVpvhSKOuBIjLViE7See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning Python"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID 2GR Q73 U2CSee credential",
+            "subtitle": "Google Digital Garage",
+            "title": "Digital Marketing"
+        },
+        {
+            "meta": "Issued Apr 2020",
+            "subtitle": "Boston Consulting Group (BCG)",
+            "title": "Strategy Consulting Virtual Experience Program"
+        }
+    ],
+    "current_company_name": "Walmart",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

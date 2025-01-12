@@ -1,0 +1,110 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Analyst @ Citi • IIT Kgp ‘23 • Data Scientist Intern @ Terumo, Japan (PPO) • SDE • 4 ⭐️ CodeChef • Machine Learning",
+    "experience": [
+        {
+            "title": "Data Analyst",
+            "location": "India",
+            "description": "• Leveraged MicroStrategy cubes for financial data analysis, delivering insights to stakeholders at Citi Commercial Bank (CCB).• Transitioned scripts for data manipulation from R to Python, enhancing efficiency in data processing and mainitainability.• Applied sophisticated metrics for clear business analysis, translating insights into actionable data-driven strategies.",
+            "description_html": "• Leveraged MicroStrategy cubes for financial data analysis, delivering insights to stakeholders at Citi Commercial Bank (CCB).• Transitioned scripts for data manipulation from R to Python, enhancing efficiency in data processing and mainitainability.• Applied sophisticated metrics for clear business analysis, translating insights into actionable data-driven strategies. <!---->",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Citi India",
+            "company_id": "citi-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Shinjuku-ku, Tokyo, Japan",
+            "description": "Objective : Analysis of time series PPG data to predict rehospitalisation due to acute Heart Failure worsening• Successfully worked with the DX Promotion Dept. of Terumo at its global headquarters in Tokyo, Japan• Extracted 10+ features including pulse rate and respiratory rate after filtering the PPG sensor data • Collaborated with the R&D team to develop a model to predict the Pulse Transit Time of a person• Fabricated the PPG pulse categorization with an accuracy of 85% using k-means clustering algorithm• Recieved Pre-Placement Offers at Terumo Corp., Japan and Terumo Medical Innovations, USA",
+            "description_html": "Objective : Analysis of time series PPG data to predict rehospitalisation due to acute Heart Failure worsening• Successfully worked with the DX Promotion Dept. of Terumo at its global headquarters in Tokyo, Japan• Extracted 10+ features including pulse rate and respiratory rate after filtering the PPG sensor data • Collaborated with the R&amp;D team to develop a model to predict the Pulse Transit Time of a person• Fabricated the PPG pulse categorization with an accuracy of 85% using k-means clustering algorithm• Recieved Pre-Placement Offers at Terumo Corp., Japan and Terumo Medical Innovations, USA",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Terumo Medical Corporation",
+            "company_id": "terumo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Objective : Evaluation of large infrastructure projects involving capital expansion to predict their completion• Investigated the proprietary dataset of CapEx containing a list of capital expansion projects of 7+ years• Contributed extensively in data wrangling cleaning retaining 86% of data points and deduced 6+ variables• Achieved an accuracy of 73% in predicting the project status using classification models such as Random forest and XGBoost• Produced exhaustive and result-oriented insights using the visualisation tools from matplotlib and tableau",
+            "description_html": "Objective : Evaluation of large infrastructure projects involving capital expansion to predict their completion• Investigated the proprietary dataset of CapEx containing a list of capital expansion projects of 7+ years• Contributed extensively in data wrangling cleaning retaining 86% of data points and deduced 6+ variables• Achieved an accuracy of 73% in predicting the project status using classification models such as Random forest and XGBoost• Produced exhaustive and result-oriented insights using the visualisation tools from matplotlib and tableau",
+            "duration": "Jun 2021 Aug 2021 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Department Representative",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "• Served as the official PoC between CDC and the dept. as part of a dynamic student placements body• Coordinated with the senior executives of 40+ Fortune 500 companies and managed 20+ seminars• Collaborated with dept. officials to compile an exhaustive list of the companies to be approached for core engg. placements• Conducted the 12-day placement process, bringing 1000+ offers in under 8 days during the pandemic-induced recession",
+            "description_html": "• Served as the official PoC between CDC and the dept. as part of a dynamic student placements body• Coordinated with the senior executives of 40+ Fortune 500 companies and managed 20+ seminars• Collaborated with dept. officials to compile an exhaustive list of the companies to be approached for core engg. placements• Conducted the 12-day placement process, bringing 1000+ offers in under 8 days during the pandemic-induced recession <!---->",
+            "duration": "Sep 2020 Jun 2021 10 months",
+            "start_date": "Sep 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "10 months",
+            "company": "Career Development Centre, IIT Kharagpur",
+            "company_id": "cdciitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech & M.Tech)",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Minor in Mathematics and Computing (MnC)",
+            "description_html": "Minor in Mathematics and Computing (MnC) <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Michael's High School - India",
+            "degree": "High School Diploma",
+            "field": "Science",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Loyola High School, Patna",
+            "degree": "Matriculation",
+            "field": "10/10 CGPA",
+            "url": "",
+            "start_year": "2005",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Citi India",
+    "publications": "[{\"title\":\"My Mobile Knows that I am Driving! In-Vehicle (Relative) Blind Localization of a Smartphone\",\"subtitle\":\"MUST 2022 in conjunction with IEEE MDM 2022\",\"date\":\"April 15, 2022\",\"description\":\"Severe road accidents are reported regularly across the globe due to drivers getting distracted while using their smartphones. To prevent such fatalities, one possible approach is to make the smartphone intelligent enough to detect whether it is being used by the driver, thus providing restricted access to the applications while driving. However, this problem is challenging as the driver can behave like an adversary to fool the system; therefore, additional devices or forward communication cannot be used. This paper proposes a novel approach of smartphone localization within a car by exploiting the ambient mechanical noise within the vehicle. We utilize the periodic nature of such mechanical noises to develop a simple yet satisfactorily accurate approach, called Blah, that can utilize the acoustic properties from the ambient mechanical noise within the car to detect whether the driver or the passenger is using the smartphone while the car is on the road.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Ritesh Ranjan Memorial Scholarship '19",
+            "publication": "IIT, Kharagpur",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "Sole recipient of the prestigious Ritesh Ranjan Memorial Scholarship-2019 among 140+ Mechanical Engineering students. Shri Ritesh Ranjan (ME, BTech 1997), in whose loving memory the scholarship has been instituted by his batch mates, was an enthusiastic student of the Institute. He passed away in 2009. The scholarship honours his memory and hopes to encourage students of the Mechanical Engineering Department to excel academically and uphold the cherished traditions of this Institute."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "city": "Ames, Iowa, United States",
+    "position": "PhD student at Iowa State University | IITKGP 23",
+    "experience": [
+        {
+            "title": "Graduate Student",
+            "location": "Ames, Iowa, United States",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Iowa State University - College of Engineering",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Jul 2018 May 2023 4 years 11 months",
+            "start_date": "Jul 2018",
+            "end_date": "May 2023",
+            "duration_short": "4 years 11 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij Campus Affiliate",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Sep 2018 Jan 2019 5 months",
+            "start_date": "Sep 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "5 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "M.P.Birla Foundation H.S.School",
+            "degree": "10+2",
+            "field": "PCM",
+            "start_year": "2012",
+            "end_year": "2018",
+            "description": "School",
+            "description_html": "School <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Iowa State University - College of Engineering",
+            "degree": "Doctor of Philosophy - PhD",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Iowa State University - College of Engineering",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"AIRAVAT - The future of transportation\",\"start_date\":\"Oct 2020\",\"end_date\":\"Present\",\"description\":\"AIRAVAT is a student research group, funded by SRIC IIT Kharagpur, that aims to build an electric aerial vehicle capable of vertical take-off and landing, which can also run on land.\"},{\"title\":\"Analysis of steel structures\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jul 2020\",\"description\":\"•Analysed the cause of failure of AMTA shed due to the Amphan cyclone using Ansys (fluid-structure interaction).•Was provided with the drawings of the failed shed as well as the proposed new one, from the company.•Analysed the old structure in Ansys software and prepared reports of the results that it failed due to excess stress in the structure.•Also analysed that the new structure provided was strong enough to not exceed the tensile yield strength in 180kmph wind speed.\"},{\"title\":\"Developing a multipurpose car \",\"start_date\":\"Dec 2019\",\"end_date\":\"Mar 2020\",\"description\":\"• Planned and designed a framework of a car, influenced by a buggy type chassis, using Solidworks software.• Did Finite Element Analysis of the framework in Ansys; did any required changes where high stresses and deformations were observed.• Built a 3D printed 1:10 sized Remote Controlled prototype of the car, which gave an idea about the dimensions and other plans of attaching a centrifugal pump, etc. in the car, serving various purposes in farming sector.\"},{\"title\":\"Internal Combustion engines\",\"start_date\":\"Aug 2019\",\"end_date\":\"Nov 2019\",\"description\":\"•Completed literature review referenced to design topology and working analysis of Internal Combustion Engines.•Opened up an old 2-stroke petrol engine, cleaned and analysed its various parts and then put it back together to restart it.•In the end, a report was prepared comprising the findings and analysis of the anatomy and functioning of the engine.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "KVPY",
+            "publication": "Indian Institute of Science",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": "Kishore Vaigyanik Protsahan Yojana (SA stream) - Class 11"
+        },
+        {
+            "title": "B.Arts",
+            "publication": "Nikhil Bharat Sangeet Samiti, Kolkata",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "Bachelor of Arts in Fine Arts"
+        }
+    ]
+}

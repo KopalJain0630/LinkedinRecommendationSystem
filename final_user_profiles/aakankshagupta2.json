@@ -1,0 +1,56 @@
+{
+    "city": "Jammu & Kashmir, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Sirmaur",
+            "url": "",
+            "start_year": "2021-07",
+            "end_year": "2023-07",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2021Credential ID 7021/IND/1335",
+            "subtitle": "Henry Harvin",
+            "title": "Tableau Desktop Qualified Associate Certification"
+        },
+        {
+            "meta": "Issued Oct 2021Credential ID 6202/IND/3066",
+            "subtitle": "Henry Harvin",
+            "title": "Certified Python Business Analyst"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Google",
+            "title": "Technical Support Fundamentals"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "University of Michigan",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "University of Michigan",
+            "title": "Python Data Structures"
+        }
+    ],
+    "current_company_name": "Air India Limited",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

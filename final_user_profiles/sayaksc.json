@@ -1,0 +1,92 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "Computer Science and Engineering, IIT Kanpur",
+    "experience": [
+        {
+            "title": "Undergraduate Research Fellow",
+            "description": "Remotely worked on the continuous Skolem Problem for higher dimensions in the research group of Prof. Joel Ouaknine",
+            "description_html": "Remotely worked on the continuous Skolem Problem for higher dimensions in the research group of Prof. Joel Ouaknine <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Max Planck Institute for Software Systems",
+            "company_id": "max-planck-institute-for-software-systems",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Orientation cum Selection Camp (OCSC) 2017, Physics",
+            "location": "Mumbai Area, India",
+            "description": "Orientation cum Selection Camp, Physics, was organised by HBCSE to train 34 students from all over India who had qualified Indian National Physics Olympiad, 2017. Rigorous training was provided to train them for the International Physics Olympiad, 2017.",
+            "description_html": "Orientation cum Selection Camp, Physics, was organised by HBCSE to train 34 students from all over India who had qualified Indian National Physics Olympiad, 2017. Rigorous training was provided to train them for the International Physics Olympiad, 2017. <!---->",
+            "duration": "May 2017 Jun 2017 2 months",
+            "start_date": "May 2017",
+            "end_date": "Jun 2017",
+            "duration_short": "2 months",
+            "company": "Homi Bhabha Centre for Science Education (HBCSE), TIFR",
+            "company_id": "hbcse-tifr",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Columbia University",
+            "degree": "Doctor of Philosophy - PhD",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2027",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "Integrated B. Tech-M. Tech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "South Point High School, Kolkata",
+            "url": "",
+            "start_year": "2002",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Max Planck Institute for Software Systems",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Indian National Physics Olympiad (2017)",
+            "publication": "Homi Bhabha Centre for Science Education (HBCSE)",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Indian National Mathematical Olympiad (2016)",
+            "publication": "National Board of Higher Mathematics (NBHM)",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "National Talent Search Exam (NTSE)",
+            "publication": "National Council of Educational Research and Training (NCERT)",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

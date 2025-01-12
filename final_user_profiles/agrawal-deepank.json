@@ -1,0 +1,182 @@
+{
+    "id": "agrawal-deepank",
+    "name": "Deepank A.",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Quadeye",
+        "company_id": "quadeye"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Manjunath Bhat",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishtha Gupta",
+            "about": "Associate Consultant at Informatica | Data Governance & Integration Professional | Python Automation Enthusiast",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Priya Garg",
+            "about": "SDE at Google | Ex-MTS at Adobe| SDE Intern at Microsoft'20 |Ami-Hacks'20 Winner |DTU'21",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshuman Choudhary",
+            "about": "Software Engineer III at Google",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anu Agarwal",
+            "about": null,
+            "location": "Cuttack"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanmay Goel",
+            "about": "Software Engineer @ Qualcomm | Software Infrastructure, Software Design | 20k+ | Open for collabs",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Sharma",
+            "about": "Senior Golang Developer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anjali Rani",
+            "about": null,
+            "location": "Haryana, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohan Reddy Pallavula",
+            "about": "AI Engineer at Matdun Labs",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhuvanjeet Singh Gandhi",
+            "about": "Data Scientist at Visa",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advances in OS\"},{\"subtitle\":\"-\",\"title\":\"Algorithms and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Compilers\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Computer Organization and Architecture\"},{\"subtitle\":\"CS231n\",\"title\":\"Deep Learning\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning Specialization by Andrew Ng\"},{\"subtitle\":\"-\",\"title\":\"Discrete Structures\"},{\"subtitle\":\"-\",\"title\":\"Distributed Systems\"},{\"subtitle\":\"-\",\"title\":\"Formal Language and Automata theory\"},{\"subtitle\":\"-\",\"title\":\"Information Retrieval\"},{\"subtitle\":\"-\",\"title\":\"Intro to Computer Vision\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning by Andrew Ng (CS229)\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Reinforcement Learning by David Silver\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"},{\"subtitle\":\"-\",\"title\":\"Switching Circuits\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Google IT Automation Professional Certificate"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1929.0,
+    "connections": 500.0,
+    "current_company_company_id": "quadeye",
+    "current_company_name": "Quadeye",
+    "publications": "[{\"title\":\"Traffic Sign Classification using hybrid HOG-SURF features and CNN\",\"subtitle\":\"ICPRAM\",\"date\":\"February 21, 2019\",\"description\":\"Traffic signs play an important role in safety of drivers and regulation of traffic. Traffic sign classification is thus an important problem to solve for the advent of autonomous vehicles. There have been several works that focus on traffic sign classification using various machine learning techniques. While works involving the use of convolutional neural networks with RGB images have shown remarkable results, they require a large amount of training time, and some of these models occupy a huge chunk of memory. Earlier works like HOG-SVM make use of local feature descriptors for classification problem but at the expense of reduced performance. This paper explores the use of hybrid features by combining HOG features and SURF with CNN classifier for traffic sign classification. We propose a unique branching based CNN classifier which achieves an accuracy of 98.48% on GTSRB test set using just 1.5M trainable parameters.\"}]",
+    "patents": null,
+    "projects": [
+        {
+            "title": "Lane Detection and Segmentation",
+            "start_date": "Jun 2019",
+            "end_date": "Present",
+            "description": "Currently working to solve the problem of lane detection in urban environment using Generative Adverserial Networks(GANs) implemented in Pytorch."
+        },
+        {
+            "title": "Fortress, Kshitij 2018",
+            "start_date": "Jan 2018",
+            "description": "The project was related to basic image processing, path planning and movement control. I mainly worked on the IP and path planning aspect. The task was to process an arena to detect objects lying on it and given a template match the objects with their priority order. Further, plan an optimal path to visit each object as per the priority assigned to them avoiding the obstacles."
+        },
+        {
+            "title": "Traffic Sign detection and classification.",
+            "start_date": "Apr 2019",
+            "end_date": "May 2019",
+            "description": "This project attempts to solve the problem of traffic sign and light classification using deep learning architectures like ResNet, Mobilenet-SSD. Kernelised coorelational filter tracker is also used to boost the robustness and ensure real-time detection as well as classification."
+        },
+        {
+            "title": "JARVIC",
+            "start_date": "Jan 2019",
+            "end_date": "Apr 2019",
+            "description": "Developed emotional chat bot android application. The chat bot efficiently detects emotions of the user through on-going chat session and chat accordingly uplifting the mood of the user through dynamic chat theme and quotes.This project was developed using Deep learning frameworks for emotion detection and classification, Android Studio for app development and Java for socket programming."
+        }
+    ],
+    "organizations": [
+        {
+            "title": "National Service Society ",
+            "membership_type": "Volunteer",
+            "start_date": "Aug 2017",
+            "end_date": "Apr 2019",
+            "membership_number": null
+        }
+    ],
+    "location": "Gurugram",
+    "linkedin_id": "agrawal-deepank",
+    "activity": [
+        {
+            "interaction": "Liked by Deepank A.",
+            "link": "",
+            "title": "\u00f0\u0178\u0152\u00bf\u00e2\u0153\u00a8 Excited to share my latest project\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7256348592066486272"
+        },
+        {
+            "interaction": "Liked by Deepank A.",
+            "link": "",
+            "title": "\u00f0\u0178\u0161\u20ac Join Our Team! Are you passionate\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7219664204671197184"
+        }
+    ],
+    "linkedin_num_id": 651082038.0,
+    "honors_and_awards": [
+        {
+            "title": "Intelligent Ground Vehicle Competition(IGVC) 2018",
+            "publication": "Oakland University",
+            "date": "2019-06-01T00:00:00.000Z",
+            "description": "Secured 2nd position among participants from all over the world."
+        },
+        {
+            "title": "Intelligent Ground Vehicle Competition(IGVC) 2019",
+            "publication": "Oakland University",
+            "date": "2019-06-01T00:00:00.000Z",
+            "description": "First to qualify the early qualification round and overall secured 2nd position in the AutoNav challenge of IGVC 2019."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

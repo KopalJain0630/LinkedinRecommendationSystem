@@ -1,0 +1,93 @@
+{
+    "city": "South Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2003",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Network Management\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Dec 2024See credential",
+            "subtitle": "CrewAI",
+            "title": "Multi AI Agent System with CrewAI"
+        },
+        {
+            "meta": "Issued Dec 2024See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Practical Multi AI Agents and Advanced Use Cases with crewAI"
+        },
+        {
+            "meta": "Issued Jun 2024",
+            "subtitle": "Udemy",
+            "title": "LLM Finetuning on OpenAI"
+        },
+        {
+            "subtitle": "Central Tool Room & Training Centre",
+            "title": "Advance Java"
+        },
+        {
+            "subtitle": "IIT DELHI",
+            "title": "Analysis and Design of Algorithms"
+        },
+        {
+            "subtitle": "CyberCure Solutions",
+            "title": "Certified Information Security Specialist"
+        },
+        {
+            "subtitle": "College of engineering and technology bhubaneswar",
+            "title": "Codebuster Winner"
+        },
+        {
+            "subtitle": "ROBOSAPIENS TECHNOLOGIES Pvt. Ltd.",
+            "title": "Core Java"
+        },
+        {
+            "subtitle": "Computer Society of India",
+            "title": "CSI National Thinking Programming Contest 2016 Winner"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "edX",
+            "title": "edX Honor Code Certificate for Introduction to Programming with Java - Part 1: Starting to Code with Java"
+        },
+        {
+            "subtitle": "IIT KHARAGPUR",
+            "title": "Network Management"
+        }
+    ],
+    "current_company_name": "Alpha Trade Ai",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Individualistic Opinion Mining (Advanced Natural Language Processing, Masters Thesis Work, Guide - Prof. Parag Singla, Prof. Maya Ramanath)\",\"start_date\":\"Mar 2019\",\"end_date\":\"Jul 2020\",\"description\":\"Predicting individualistic opinion of different people on some given news articles using just 100 labelled articles. FIne tuned Google's BERT to extract features and used transfer learning to train a classifier on top of those extracted features. Used NB-SVM as baseline model. Further working on explainability of the model and predicting things around a given context using sliding window techiniques. Trained a new language model from scratch (Multiplicative LSTM). Used brat as annotation tool for collecting training data.\"},{\"title\":\"Automatic Scheduler (Artificial Intelligence)\",\"description\":\"Scheduled different conference talks and audits timings minimizing the clash between different events as far as possible using best first search technique of artificial intelligence.\"},{\"title\":\"Cloud Computing ( Module design for live migration using a migration plan and virsh commands)\",\"description\":\"Proposed a migration plan that takes into account 3 parameters namely network traffic, memory usage and CPU usage. Based on the above proposed migration plan, Live migrated Virtual machines to a different server, thereby showing the load balancing. The whole thing was done on IIT Delhi own cloud setup, BAADAL.\"},{\"title\":\"DCG Handler and Parser (Prolog NLP Techniques)\",\"description\":\"Formulated DCG grammar to generate parse trees, output logical forms of sentences & answer queries based on them.\"},{\"title\":\"Game of Yinsh Bot (AI techniques)\",\"description\":\"Used adversarial search algorithm to build an optimally playing bot for the game of Yinsh\"},{\"title\":\"Latex To Html Converter\",\"description\":\"Parsed the entire latex document and converted it into an equivalent html document using FLEX & BISON parser\"},{\"title\":\"Parallelization of Deterministic Algorithm (Edit Distance)\",\"description\":\"Parallelized the edit distance problem using 3 languages, namely OpenMP, MPI and CUDA. Ran and showed scalability on a 40 core cpu cluster. Further analyzed the performance on different operating systems.\"},{\"title\":\"Paratroopers Game (Unity 3D)\",\"description\":\"Developed & revamped the game of paratroopers using UNITY 3D framework, Language used - C#\"},{\"title\":\"SAT solver (Modelled a problem as SAT problem)\",\"description\":\"Formulated the discovery of drug agencies problem as a CNF SAT formula and then solved it using a given SATsolver (miniSAT)\"},{\"title\":\"Sentiment Analysis (Machine Learning)\",\"description\":\"Predicting generalised opinion of people on new articles using RNTN, Recursive Neural Tensor Network.\"},{\"title\":\"The Game of Blackjack (Markov Decision Process)\",\"description\":\"Modelled the optimal game play of black jack using ideas from sequential decision making under uncertainity(Markov Decision Processes)\"},{\"title\":\"Web Scrapping (Using Mozilla Firefox)\",\"description\":\"Modified mozilla source repository to filter significant information while visiting any news website\"}]",
+    "honors_and_awards": [
+        {
+            "title": "ACM ICPC",
+            "publication": "Amritapuri",
+            "date": "2017-11-01T00:00:00.000Z",
+            "description": "ACM International Collegiate Programming Contest Regionalist"
+        }
+    ]
+}

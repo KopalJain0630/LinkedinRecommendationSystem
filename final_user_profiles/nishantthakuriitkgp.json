@@ -1,0 +1,44 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2016-07",
+            "end_year": "2021-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Deep Learning\"},{\"subtitle\":\"-\",\"title\":\"Design and analysis of algorithms (with lab)\"},{\"subtitle\":\"-\",\"title\":\"Engineering Mathematics \"},{\"subtitle\":\"-\",\"title\":\"Genetics\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning (MOOC) \"},{\"subtitle\":\"-\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"-\",\"title\":\"Non Linear Programming \"},{\"subtitle\":\"-\",\"title\":\"Operation Research (with lab)\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics \"},{\"subtitle\":\"-\",\"title\":\"Programming and data structures \"},{\"subtitle\":\"-\",\"title\":\"Regression and Time series modelling \"},{\"subtitle\":\"-\",\"title\":\"Stochastic Processes\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Mar 2021Credential ID FREE82RWYS6USee credential",
+            "subtitle": "University of Alberta",
+            "title": "Reinforcement Learning Specialization"
+        },
+        {
+            "meta": "Issued Mar 2019Credential ID ff8b37bSee credential",
+            "subtitle": "CodeChef",
+            "title": "SnackDown 2019"
+        },
+        {
+            "meta": "Issued Jul 2018",
+            "subtitle": "National Cadet Corps",
+            "title": "NCC 'B' Certificate "
+        },
+        {
+            "meta": "Issued Mar 2018See credential",
+            "subtitle": "Microsoft",
+            "title": "code.fun.do Hackathon"
+        }
+    ],
+    "current_company_name": "Coinbase",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Robosoccer bot\",\"start_date\":\"Oct 2016\",\"description\":\"Remote controlled bot for Robosoccer Tournament.\"},{},{},{\"title\":\"Named Entity Recognition in Biomedical Corpus\",\"start_date\":\"Oct 2019\",\"end_date\":\"Dec 2019\",\"description\":\"Term project for the course of Natural Language Processing.Used bilstm crf with contextual embedding using different models - bioELMO, bioBERT, bioFLAIR.\"},{\"title\":\"Main Website - Spring Fest 2019 \",\"start_date\":\"Oct 2018\",\"end_date\":\"Jan 2019\",\"description\":\"The main website for Spring Fest 2019\"},{},{},{\"title\":\"Clikart - Microsoft code.fun.do\",\"start_date\":\"Feb 2018\",\"end_date\":\"Apr 2018\",\"description\":\"Smart Shopping : This app takes images of objects one wants to buy online and searches the results on Amazon using image detection API. It has an additional feature where a user can also upload picture from the device.\"},{}]",
+    "honors_and_awards": null
+}

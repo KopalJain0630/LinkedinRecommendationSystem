@@ -1,0 +1,136 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Senior at EY",
+    "experience": [
+        {
+            "title": "Consultant",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2024 - Present 8 months",
+            "start_date": "May 2024",
+            "end_date": "Present",
+            "duration_short": "8 months",
+            "company": "EY",
+            "company_id": "ernstandyoung",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Aug 2022 May 2024 1 year 10 months",
+            "start_date": "Aug 2022",
+            "end_date": "May 2024",
+            "duration_short": "1 year 10 months",
+            "company": "KPMG",
+            "company_id": "kpmg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Aug 2021 Jul 2022 1 year",
+            "start_date": "Aug 2021",
+            "end_date": "Jul 2022",
+            "duration_short": "1 year",
+            "company": "HighRadius",
+            "company_id": "highradius",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "CHANDIGARH UNIVERSITY",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SD Public Sr. Sec. School",
+            "degree": "Intermediate",
+            "field": "Science",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SD Public Sr. Sec. School",
+            "degree": "High School",
+            "field": "Science",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2024",
+            "subtitle": "Team Everest NGO",
+            "title": "Decision Making Mentor"
+        },
+        {
+            "meta": "Issued Dec 2023See credential",
+            "subtitle": "KPMG",
+            "title": "Digital and Data Foundations - Artificial intelligence and automation"
+        },
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "IBM",
+            "title": "IBM Data Science Professional Certificate"
+        },
+        {
+            "meta": "Issued Apr 2021See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "AI For Everyone"
+        },
+        {
+            "meta": "Issued Oct 2020See credential",
+            "subtitle": "IBM",
+            "title": "What is Data Science?"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "University of Michigan",
+            "title": "Python Functions, Files, and Dictionaries"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "University of Michigan",
+            "title": "Python Basics"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "University of Michigan",
+            "title": "Python Data Structures"
+        },
+        {
+            "meta": "Issued Mar 2020See credential",
+            "subtitle": "University of Michigan",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        },
+        {
+            "meta": "Issued Apr 2019See credential",
+            "subtitle": "Microsoft",
+            "title": "Introduction to C++"
+        }
+    ],
+    "current_company_name": "EY",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

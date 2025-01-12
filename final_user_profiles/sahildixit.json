@@ -1,0 +1,292 @@
+{
+    "id": "sahildixit",
+    "name": "Sahil Dixit",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Bain | IIMA |  IITB | University of St. Gallen",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Bain & Company",
+        "company_id": "bain-and-company",
+        "title": "Bain | IIMA |  IITB | University of St. Gallen"
+    },
+    "experience": [
+        {
+            "title": "Bain & Company",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "1 year 3 months",
+            "positions": [
+                {
+                    "subtitle": "Bain & Company",
+                    "meta": "Oct 2024 - Present 3 months",
+                    "duration": "Oct 2024 - Present 3 months",
+                    "start_date": "Oct 2024",
+                    "end_date": "Present",
+                    "duration_short": "3 months",
+                    "title": "Senior Associate Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Bain & Company",
+                    "meta": "Oct 2023 - Sep 2024 1 year",
+                    "duration": "Oct 2023 Sep 2024 1 year",
+                    "start_date": "Oct 2023",
+                    "end_date": "Sep 2024",
+                    "duration_short": "1 year",
+                    "title": "Associate Consultant",
+                    "description_html": null
+                }
+            ],
+            "company": "Bain & Company",
+            "company_id": "bain-and-company",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Brand Strategy & Growth Intern",
+            "location": "Panaji, Goa, India",
+            "description_html": null,
+            "duration": "Jun 2023 Aug 2023 3 months",
+            "start_date": "Jun 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "3 months",
+            "company": "mCaffeine",
+            "company_id": "mcaffeine",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Associate",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "Bain & Company",
+            "company_id": "bain-and-company",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Strategy Associate",
+            "location": "Amsterdam, North Holland, Netherlands",
+            "description_html": null,
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "Arboreum",
+            "company_id": "arboreum-finance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Associate",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Strategy&",
+            "company_id": "strategyand",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sponsorship and Media Head",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Mar 2019 Apr 2020 1 year 2 months",
+            "start_date": "Mar 2019",
+            "end_date": "Apr 2020",
+            "duration_short": "1 year 2 months",
+            "company": "Techfest, IIT Bombay",
+            "company_id": "techfest",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Kevin Mehta",
+            "about": "Growth Manager - Founder's Office Vyapar | IIT Bombay '21",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Parag Mundhada",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Arvind Manimurugan",
+            "about": "Decarbonising Concrete | IIT Bombay",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aadish Sogani",
+            "about": "Consultant at Mastercard | IIT Bombay '21",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Ameya Mittal",
+            "about": "Wharton MBA Candidate | IIT Bombay | NRI | Mentor and Mom | LitAdmit",
+            "location": "Philadelphia, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Shailee Suryawanshi",
+            "about": "Physical Design Engineer @Google",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Prasann Jaiswal",
+            "about": "Business Analyst at YCP Auctus | IIT Bombay",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Archiki Prasad",
+            "about": "PhD student in Computer Science at the University of North Carolina Chapel Hill",
+            "location": "Raleigh-Durham-Chapel Hill Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Amartya Mishra",
+            "about": "IIM Lucknow \u00e2\u20ac\u212226 || IIT Bombay '21 || Ex Product @ Axis Bank, Credilio",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Apoorv Srivastava",
+            "about": "PhD @ Stanford | Inverse Problems | Machine Learning | Uncertainty Quantification",
+            "location": "Stanford, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Himank Jain",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Aashay Biyani",
+            "about": "Reserve Bank of India | IIT Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Akhil Deshmukh",
+            "about": "Senior Manager | Strategy and Innovation | ICICI Lombard",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravi Gupta",
+            "about": null,
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Kshitij Jain",
+            "about": "slice | BCG | IIM A (I-Schol) | IIT D | CFA L3 (Cleared)",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Srija Chakraborty",
+            "about": "Graduate Student, University of Wisconsin Madison",
+            "location": "Madison, WI"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditi Kadam",
+            "about": "AmEx | IIT Bombay | CFA Level 1 candidate",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Anjali Katake",
+            "about": "Deputy General Secretary, Aerospace department",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kriti Chaturvedi",
+            "about": "Strategy Consultant - FSG | PwC | Pfizer",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Eeshaan Sharma",
+            "about": null,
+            "location": "Delhi, India"
+        }
+    ],
+    "educations_details": "Indian Institute of Management Ahmedabad",
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of St.Gallen",
+            "degree": "International Study Program (ISP), MBA",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "degree": "Bachelor of Technology",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 10606.0,
+    "connections": 500.0,
+    "current_company_company_id": "bain-and-company",
+    "current_company_name": "Bain & Company",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "sahildixit",
+    "activity": null,
+    "linkedin_num_id": 632130422.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

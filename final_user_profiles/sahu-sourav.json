@@ -1,0 +1,94 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Engineer II @ Amex | Microservices, REST APIs | B.Tech + M. Tech @ IIT Kharagpur | Ex - Barclays, CME Group",
+    "experience": [
+        {
+            "title": "Engineer II",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Java Software Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description": "Project 1: Application Gateway Service• Streamlined the security infrastructure by whitelisting the gateway application in the organization’s firewall, enabling seamless andsecure communication between external e-channels and specific back-end services without the need for individual whitelisting• Implemented pre-processing and post-processing filters for dynamic request and response validation, enhancing security measures• Slashed migration time of back-end services by 41% through the central secure gateway, ensuring a more agile infrastructureProject 2: Service Version Manager• Designed the Spring Boot application facilitating the efficient controlled deployment of backend application versions based on user ID• Enabled the selective exposure of new releases to 2% of users initially, with gradual expansion to 100%,resulting in a systematic rollout• Achieved 31% increase in the efficiency of introducing new functional changes across applications and ensured a seamless transitionfor end-users during the application evolution process, showcasing a strategic approach to software updatesMiscellaneous• Developed an AES-based encryption plugin with Cipher block chaining (CBC) algorithm and PKCS5Padding technique for ROLB Security• Implemented a dynamic property refresh event listener in the gateway application, facilitating real-time configuration and availability• Enabled logging of audit events in the library consumed by 100+ of multi-channel applications in FullServe with SLF4J using IOL Schema• Increased test coverage of a legacy Java library from 79.3% to 86.5% with integration tests and unit tests using Junit and Mockito",
+            "description_html": "Project 1: Application Gateway Service• Streamlined the security infrastructure by whitelisting the gateway application in the organization’s firewall, enabling seamless andsecure communication between external e-channels and specific back-end services without the need for individual whitelisting• Implemented pre-processing and post-processing filters for dynamic request and response validation, enhancing security measures• Slashed migration time of back-end services by 41% through the central secure gateway, ensuring a more agile infrastructureProject 2: Service Version Manager• Designed the Spring Boot application facilitating the efficient controlled deployment of backend application versions based on user ID• Enabled the selective exposure of new releases to 2% of users initially, with gradual expansion to 100%,resulting in a systematic rollout• Achieved 31% increase in the efficiency of introducing new functional changes across applications and ensured a seamless transitionfor end-users during the application evolution process, showcasing a strategic approach to software updatesMiscellaneous• Developed an AES-based encryption plugin with Cipher block chaining (CBC) algorithm and PKCS5Padding technique for ROLB Security• Implemented a dynamic property refresh event listener in the gateway application, facilitating real-time configuration and availability• Enabled logging of audit events in the library consumed by 100+ of multi-channel applications in FullServe with SLF4J using IOL Schema• Increased test coverage of a legacy Java library from 79.3% to 86.5% with integration tests and unit tests using Junit and Mockito",
+            "duration": "Aug 2022 Sep 2024 2 years 2 months",
+            "start_date": "Aug 2022",
+            "end_date": "Sep 2024",
+            "duration_short": "2 years 2 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full-stack Developer",
+            "location": "Pune, Maharashtra, India",
+            "description": "• Developed an end-to-end solution for automated analysis of test automation results with machine learning with 92.4% accuracy• Trained an SVM model with training data using scikit-learn and predicted multiple labels for newly fetched test automation results• Developed an REST API in python with Flask library and an interactive User Interface with ReactJS and CSS to display prediction results",
+            "description_html": "• Developed an end-to-end solution for automated analysis of test automation results with machine learning with 92.4% accuracy• Trained an SVM model with training data using scikit-learn and predicted multiple labels for newly fetched test automation results• Developed an REST API in python with Flask library and an interactive User Interface with ReactJS and CSS to display prediction results <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Java Software Engineer in QuantQA Team",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Developed tools in Java to process information from CSV files and logged those to prescribed output formats• Developed a tool to process 21 GiB of raw data in CSV files with rows containing up to 70,000 entries within 6 mins• Improved run time by 27.3% and reduced RAM usage of a pre-existing tool in Java repository• Converted some pre-existing tools in Python to JAVA and integrated with Git Java repository of the QuantQA team",
+            "description_html": "• Developed tools in Java to process information from CSV files and logged those to prescribed output formats• Developed a tool to process 21 GiB of raw data in CSV files with rows containing up to 70,000 entries within 6 mins• Improved run time by 27.3% and reduced RAM usage of a pre-existing tool in Java repository• Converted some pre-existing tools in Python to JAVA and integrated with Git Java repository of the QuantQA team <!---->",
+            "duration": "May 2020 Nov 2020 7 months",
+            "start_date": "May 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "7 months",
+            "company": "CME Group",
+            "company_id": "cme-group",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree ( B. Tech + M. Tech) 5Y",
+            "field": "Instrumentation Engineering And Signal Processing (Electrical Engineering Department)",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Analog Electronic Circuits\"},{\"subtitle\":\"-\",\"title\":\"Analog Signal Processing\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture And Operating System\"},{\"subtitle\":\"-\",\"title\":\"Control System Engineering\"},{\"subtitle\":\"-\",\"title\":\"Data Communication\"},{\"subtitle\":\"-\",\"title\":\"Data Structure and Algorithm\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronic Circuits\"},{\"subtitle\":\"-\",\"title\":\"Electrical Technology\"},{\"subtitle\":\"-\",\"title\":\"Embedded System\"},{\"subtitle\":\"-\",\"title\":\"Instrumentation System Design\"},{\"subtitle\":\"-\",\"title\":\"Measurement and Electronic Instruments\"},{\"subtitle\":\"-\",\"title\":\"Probability and Stochastic Process\"},{\"subtitle\":\"-\",\"title\":\"Programable and Embedded System\"},{\"subtitle\":\"-\",\"title\":\"Programmable and Embedded System\"},{\"subtitle\":\"-\",\"title\":\"Programming And Data Structure\"},{\"subtitle\":\"-\",\"title\":\"Signals and Networks and Lab\"},{\"subtitle\":\"-\",\"title\":\"Transform Calculus\"}]",
+    "certifications": null,
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Fault Diagnosis in Air Conditioner\",\"start_date\":\"Jul 2021\",\"end_date\":\"Apr 2022\",\"description\":\"Mentor: Prof. Aurobinda Routray, Dept of Electrical Engineering• Automated fault detection in an air conditioner through an embedded system device using microservices and machine learning• Obtained steady state and transient current signature of faulty air conditioners for different types of faults to train the ML model• Designed an edge computing device to detect anomalies with 80.2% accuracy in the current signature and report to the cloud server• Implemented RESTful API in SpringBoot to fetch the type of the fault in AC and displayed the result in UI built with ReactJS\"},{\"title\":\"Development of Sensorless BLDC Motor Driver\",\"start_date\":\"Apr 2019\",\"end_date\":\"Jun 2019\",\"description\":\"Mentor: Prof. Santanu Kapat, Dept of Electrical Engineering• Developed and tested an electronic driver for driving a brushless DC motor and minimized its torque ripple• Used GaN MOSFET, FPGA to make and drive inverter circuit, and designed the board using Altium software\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Uranium Talent Search Examination(UTSE)",
+            "publication": "The Uranium trust",
+            "date": "2013-01-01T00:00:00.000Z",
+            "description": "Held 1st position in Uranium Talent Search Examination(UTSE) 2013, organized by The Uranium trust"
+        },
+        {
+            "title": "National Rural Talent Search (NRTS)",
+            "publication": "Board of Secondary Education, Odisha",
+            "date": "2011-01-01T00:00:00.000Z",
+            "description": "• Held 1st position in National Rural Talent Search(NRTS) Exam 2011, organized by BSE, Odisha"
+        }
+    ]
+}

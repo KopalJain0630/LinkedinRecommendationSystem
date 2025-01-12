@@ -1,0 +1,119 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Product | Analytics | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "I'mbesideyou Inc.",
+            "description_html": null,
+            "duration": "2 years 8 months",
+            "positions": [
+                {
+                    "subtitle": "I'mbesideyou Inc.",
+                    "meta": "Aug 2023 - Present 1 year 5 months",
+                    "duration": "Aug 2023 - Present 1 year 5 months",
+                    "start_date": "Aug 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 5 months",
+                    "title": "SDR",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "I'mbesideyou Inc.",
+                    "meta": "May 2022 - Present 2 years 8 months",
+                    "duration": "May 2022 - Present 2 years 8 months",
+                    "start_date": "May 2022",
+                    "end_date": "Present",
+                    "duration_short": "2 years 8 months",
+                    "title": "Business Developer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "I'mbesideyou Inc.",
+            "company_id": "imbesideyou",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description_html": null,
+            "duration": "Jan 2022 Dec 2022 1 year",
+            "start_date": "Jan 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "1 year",
+            "company": "Astren",
+            "company_id": "astren",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "May 2020 Feb 2022 1 year 10 months",
+            "start_date": "May 2020",
+            "end_date": "Feb 2022",
+            "duration_short": "1 year 10 months",
+            "company": "Communiqué IIT Kharagpur",
+            "company_id": "communiqu%C3%A9-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science and Business Analytics Intern",
+            "description_html": null,
+            "duration": "Apr 2021 Apr 2021 1 month",
+            "start_date": "Apr 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "1 month",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Design Sub-Head",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Sep 2020 Apr 2021 8 months",
+            "start_date": "Sep 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "8 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate",
+            "description_html": null,
+            "duration": "Aug 2019 May 2020 10 months",
+            "start_date": "Aug 2019",
+            "end_date": "May 2020",
+            "duration_short": "10 months",
+            "company": "Communiqué, IIT Kharagpur",
+            "company_id": "communiqu-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Mining and Mineral Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "I'mbesideyou Inc.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,130 @@
+{
+    "city": "Patna, Bihar, India",
+    "position": "Principal Investments, Deutsche Bank | IIT Kharagpur | CFA L1 Cleared | Financial Engineering",
+    "experience": [
+        {
+            "title": "Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "part of Portfolio’s group, Principal Investment franchise of Deutsche Bank investing in Secured and Unsecured Non performing loan portfolios across Europe and EMEA",
+            "description_html": "part of Portfolio’s group, Principal Investment franchise of Deutsche Bank investing in Secured and Unsecured Non performing loan portfolios across Europe and EMEA <!---->",
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Credit Risk Analyst",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "CRED",
+            "company_id": "credapp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "I back-tested 2 trading strategies(Namely F-score and Betting against Beta) and studied their impact in Indian markets. Learned various valuation techniques like DCF, APV etc and applied them to solve case studies based on M&A, dividend payout decision, taking up of new projects. I also helped Research Associates with the ongoing research projects at ISB. Performed univariate and multivariate analysis. used machine learning models to test the robustness of the results. Scrapped data from many websites and organised it as panelled data for analysis.",
+            "description_html": "I back-tested 2 trading strategies(Namely F-score and Betting against Beta) and studied their impact in Indian markets. Learned various valuation techniques like DCF, APV etc and applied them to solve case studies based on M&amp;A, dividend payout decision, taking up of new projects. I also helped Research Associates with the ongoing research projects at ISB. Performed univariate and multivariate analysis. used machine learning models to test the robustness of the results. Scrapped data from many websites and organised it as panelled data for analysis.",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Media Coordinator branding and relations cell, IIT Kharagpur",
+            "location": "IIT kharagpur",
+            "description": "During my tenure of associate member at Branding and relations cell,IIT kharagpur. I mostly contributed by bringing in new fresh ideas to uplift the brand value of IIT Kharagpur. Now as a student member I am responsible for solely conducting mega events like YIP(YOUNG INNOVATORS PROGRAM)etc, to gather sponsorship and to make the event a success.",
+            "description_html": "During my tenure of associate member at Branding and relations cell,IIT kharagpur. I mostly contributed by bringing in new fresh ideas to uplift the brand value of IIT Kharagpur. Now as a student member I am responsible for solely conducting mega events like YIP(YOUNG INNOVATORS PROGRAM)etc, to gather sponsorship and to make the event a success. <!---->",
+            "duration": "Jul 2018 Jul 2019 1 year 1 month",
+            "start_date": "Jul 2018",
+            "end_date": "Jul 2019",
+            "duration_short": "1 year 1 month",
+            "company": "Branding and Relations Cell IIT Kharagpur",
+            "company_id": "brandingandrelationscell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Image Processing Workshop",
+            "location": "IIT Kharagpur",
+            "description": "Successfully completed the seven-day workshop IEEE certified workshop in Image processing conducted by Technology Robotix Society, IIT Kharagpur. OpenCV library was applied to perform various image modifications like increasing its brightness, detecting blobs and Hough transform. A robot was made to traverse a path detected from an image. A face recognition algorithm was implemented to detect human faces from a video.",
+            "description_html": "Successfully completed the seven-day workshop IEEE certified workshop in Image processing conducted by Technology Robotix Society, IIT Kharagpur. OpenCV library was applied to perform various image modifications like increasing its brightness, detecting blobs and Hough transform. A robot was made to traverse a path detected from an image. A face recognition algorithm was implemented to detect human faces from a video. <!---->",
+            "duration": "Dec 2018 Dec 2018 1 month",
+            "start_date": "Dec 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "1 month",
+            "company": "Technology Robotix Society",
+            "company_id": "technology-robotix-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.tech-Industrial and systems engineering M.tech-Financial Engineering",
+            "field": "CGPA - 9.02",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "FIITJEE",
+            "degree": "CLASS 12th-95.2%",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "ST. Xavier's high school,patna",
+            "degree": "Class 10th-97%",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Deutsche Bank",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Identification and Prediction of Sleeping Beauties in nature \",\"start_date\":\"Sep 2019\",\"end_date\":\"Present\",\"description\":\"Mentor: Prof. Animesh Mukherjee , Associate Professor, Department of Computer Science and Engineering IIT Kharagpur.A paper is termed as sleeping beauty if it remains dormant for many years but suddenly starts receiving a large no. of incitations, I am predicting the probability of a paper to be a sleeping beauty and it’s “sleep time”, Scraped data from various APIs to gather 46947044 data points, important columns of incitations, outcitation, year of publication, etc were recognized using feature selection techniques, further mapped the data columns with primary Ids allotted, Graphically analyzed the data using matplotlib and seaborn to get the avg. Incitation per paper of 3.778 and made the matrix of author id and years of publication\"},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Xavier Medalist-Received from Honorable President of India Shri Ram Nath Kovind",
+            "publication": "ST. Xavier's high school",
+            "date": "2015-07-01T00:00:00.000Z",
+            "description": "Received from Honorable President of India Shri Ram Nath Kovind. Topped in ICSE 10th board in my school and stood at 3rd position in the entire state."
+        }
+    ]
+}

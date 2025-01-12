@@ -1,0 +1,123 @@
+{
+    "city": "Noida, Uttar Pradesh, India",
+    "position": "SDE Intern @Lambdatest | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "SDE",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "May 2024 - Present 8 months",
+            "start_date": "May 2024",
+            "end_date": "Present",
+            "duration_short": "8 months",
+            "company": "LambdaTest",
+            "company_id": "lambdatest",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE Intern",
+            "description_html": null,
+            "duration": "Apr 2024 Apr 2024 1 month",
+            "start_date": "Apr 2024",
+            "end_date": "Apr 2024",
+            "duration_short": "1 month",
+            "company": "AI Planet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Engineering Intern",
+            "location": "Kolkata, West Bengal, India",
+            "description": "( Received a Pre-Placement Offer )• Built a Web App that generates source code and Dockerfile for the CRUD Web App from app specs provided by the user• Developed a JSON Editor which handled JSON parsing and JSON validating for generating Web Apps with NPM• Integrated CSV file upload to populate generated Web app with CSV data and built frontend using ReactJS, MaterialUI• Built execution coordinator and critical logic to generate source code, zip it in a downloadable file, and store it in the database• Built backend in NodeJs and MongoDB which handled user system and stored previously generated apps of users",
+            "description_html": "( Received a Pre-Placement Offer )• Built a Web App that generates source code and Dockerfile for the CRUD Web App from app specs provided by the user• Developed a JSON Editor which handled JSON parsing and JSON validating for generating Web Apps with NPM• Integrated CSV file upload to populate generated Web app with CSV data and built frontend using ReactJS, MaterialUI• Built execution coordinator and critical logic to generate source code, zip it in a downloadable file, and store it in the database• Built backend in NodeJs and MongoDB which handled user system and stored previously generated apps of users",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "TCG Digital",
+            "company_id": "tcgdigital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Remote",
+            "description": "• Developed various features for the website to improve the user experience using React, NodeJS, and PostgreSQL• Designed and Built the Admin Panel frontend with ReactJS in order to improve the user experience of the Ops Team• Delivered successfully RESTful APIs using NodeJS and PostgreSQL and integrated them with the frontend in React• Implemented a Video Calling feature to increase patient-doctor engagement by using Twilio Javascript SDK• Integrated Payments feature with Razorpay API and also facilitated Google Analytics to help the research of Ops Team",
+            "description_html": "• Developed various features for the website to improve the user experience using React, NodeJS, and PostgreSQL• Designed and Built the Admin Panel frontend with ReactJS in order to improve the user experience of the Ops Team• Delivered successfully RESTful APIs using NodeJS and PostgreSQL and integrated them with the frontend in React• Implemented a Video Calling feature to increase patient-doctor engagement by using Twilio Javascript SDK• Integrated Payments feature with Razorpay API and also facilitated Google Analytics to help the research of Ops Team",
+            "duration": "Jan 2022 Mar 2022 3 months",
+            "start_date": "Jan 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "3 months",
+            "company": "AYVA Medical Care",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Manager",
+            "location": "IIT Kharagpur",
+            "description": "• Coordinated with the Web and Operations Team and developed the website for Inter IIT Tech Meet with React and updated it timely",
+            "description_html": "• Coordinated with the Web and Operations Team and developed the website for Inter IIT Tech Meet with React and updated it timely <!---->",
+            "duration": "Dec 2021 Feb 2022 3 months",
+            "start_date": "Dec 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "3 months",
+            "company": "Inter IIT Tech Meet 12.0",
+            "company_id": "13th-inter-iit-tech-meet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tech Team Head",
+            "location": "IIT Kharagpur",
+            "description": "• Conducted a web-development summer workshop for juniors which saw a participation of 600+ 1st year students• Implemented the Google Sign-in functionality and integrated web pages of Relic Hunter Website in Reac",
+            "description_html": "• Conducted a web-development summer workshop for juniors which saw a participation of 600+ 1st year students• Implemented the Google Sign-in functionality and integrated web pages of Relic Hunter Website in Reac <!---->",
+            "duration": "Jun 2020 Apr 2021 11 months",
+            "start_date": "Jun 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "11 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech + M.Tech)",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "LambdaTest",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Meta HackerCup 2023",
+            "publication": "Meta",
+            "date": "2023-11-01T00:00:00.000Z",
+            "description": "Recieved global rank of 1531st in Meta HackerCup Round 2 2023"
+        },
+        {
+            "title": "InterIIT Tech Meet 10.0 | Mercari - Large Scale System Design Hackathon",
+            "publication": "InterIIT Tech Meet 10.0",
+            "date": "2022-04-01T00:00:00.000Z",
+            "description": "• Secured the Gold position among 20+ IITs by presenting an innovative, scalable cloud solution for a Healthcare Management System • Developed REST APIs for the patient microservice, deployed it on Docker and managing container orchestration through Kubernetes"
+        },
+        {
+            "title": "TSG Website Hackathon",
+            "publication": "Technology Students GymKhana, IIT Kharagpur",
+            "date": "2022-01-01T00:00:00.000Z",
+            "description": "• Achieved recognition for winning the Best Feature Prize for integrating realtime notifications with MERN stack, among 30+ teams"
+        }
+    ]
+}

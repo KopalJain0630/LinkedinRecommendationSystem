@@ -1,0 +1,199 @@
+{
+    "id": "iq-sayed",
+    "name": "I.Q. Sayed",
+    "city": "United States",
+    "country_code": "US",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {},
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Carlos Arteaga",
+            "about": null,
+            "location": "Ponte Vedra Beach, FL"
+        },
+        {
+            "profile_link": "",
+            "name": "Sri Satish Ambati",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Dave Krupinski",
+            "about": null,
+            "location": "Greater Boston"
+        },
+        {
+            "profile_link": "",
+            "name": "Yony F.",
+            "about": null,
+            "location": "New York City Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Ranjith Sivaraman",
+            "about": null,
+            "location": "Greater Philadelphia"
+        },
+        {
+            "profile_link": "",
+            "name": "Devin Finzer",
+            "about": null,
+            "location": "Miami Beach, FL"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Raghunathan",
+            "about": null,
+            "location": "Palo Alto, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Pavan Verma",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "samy kamkar",
+            "about": null,
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Andrew Lau",
+            "about": null,
+            "location": "Greater Boston"
+        }
+    ],
+    "educations_details": null,
+    "education": null,
+    "recommendations_count": 3.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Urdu "
+        }
+    ],
+    "certifications": null,
+    "recommendations": [
+        "“Imran is a top notch and one of the most talented engineers I have worked with. I have known Imran the past 9 years and can attest to his exceptional design and coding skills. He has a unique talent to propose elegant solutions for complex problems and always takes the holistic approach. A few years ago Imran took (rightfully) the architect role where he was instrumental in designing an extensible platform for vSphere and Cloud infrastructure suite. His experience in designing a scalable and modular architecture has positioned VMware's flagship product for years of success. I would definitely work with Imran in the future.” Show less"
+    ],
+    "volunteer_experience": [
+        {
+            "duration": "Jun 2021 - Present · 3 years 7 months",
+            "duration_short": "3 years 7 months",
+            "end_date": "Present",
+            "info": "Munich, Germany",
+            "start_date": "Jun 2021",
+            "subtitle": "Intel Ignite",
+            "title": "Startup Mentor"
+        },
+        {
+            "duration": "Jun 2022 - Present · 2 years 7 months",
+            "duration_short": "2 years 7 months",
+            "end_date": "Present",
+            "start_date": "Jun 2022",
+            "subtitle": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology",
+            "title": "Startup Mentor @ The Catalyst Incubator"
+        },
+        {
+            "duration": "Jul 2022 - Present · 2 years 6 months",
+            "duration_short": "2 years 6 months",
+            "end_date": "Present",
+            "start_date": "Jul 2022",
+            "subtitle": "Flat6Labs",
+            "title": "Startup Mentor"
+        }
+    ],
+    "followers": 9801.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": null,
+    "publications": null,
+    "patents": "[{\"title\":\"Event Based Object Ranking In A Dynamic System\",\"date_issued\":\"November 24, 2020\",\"patents_id\":\"US 20140280083\",\"description\":\"A method of event based object ranking is described. An object query is computed based upon a user action. The results of the query are ranked based on one or more events associated with objects in the results to create ranked results. The ranked results are provided to the user in response to the query.[Filed: Mar 2013]\"},{\"title\":\"Providing Batch Operations with an Auxiliary User Interface\",\"date_issued\":\"September 18, 2018\",\"patents_id\":\"US 20140282141\",\"description\":\"A method for presenting an auxiliary user interface is described. A primary user interface comprising a plurality of objects is presented. In response to selecting a portion of the plurality of objects, access is granted to an auxiliary user interface. An auxiliary user interface is presented that allows for batch modification of the portion of the plurality of objects.[Filed: Mar 2013]\"},{\"title\":\"Automated Document Replication In A Distributed Computing System\",\"date_issued\":\"April 11, 2017\",\"patents_id\":\"US 20140095435\",\"description\":\"In a method of automated document replication in a distributed computing system, a document at a first node of a distributed computing system is analyzed. Based on the analysis, it is determined whether the document has a multi-node affinity. In response to determining that the document has a multi-node affinity, at least one document is automatically replicated between nodes of the distributed computing system. The indicated nodes are indicated based on context of the multi-node affinity of the analyzed document.[Filed: Sep 2012]\"},{\"title\":\"Extensible Tree Views for Managing Datacenter Resources\",\"date_issued\":\"April 1, 2014\",\"patents_id\":\"US 8,700,611\",\"description\":\"A method for a GUI for client software that is a part of an application program for managing datacenter resources includes receiving as input one or more specifications, where each specification includes a hierarchy of queries. The method also includes determining one or more target data sources for each query in each hierarchy. Additionally, the method includes issuing the query to each target data source determined for the query, after adapting the query to a format that is acceptable to the target data source. The method further includes receiving the results of each query from the target data source, integrates the results into a hierarchy, and submitting the hierarchy to the client software for display in a tree view in the GUI.\"},{\"title\":\"Web Application Record-Replay System And Method\",\"date_issued\":\"April 1, 2013\",\"patents_id\":\"US 8,433,733\",\"description\":\"A web application includes a record-replay library component to record sessions into a log file and subsequently replay the recorded session based upon the log file. The record-replay library interacts with the runtime environment of the web application to intercept events that correspond to data inputs received by the web application, such as user inputs, remote server inputs and inputs from the computer system on which the runtime environment is executing. On replay, the log file is read by the record-replay library and events are programmatically dispatched to the runtime environment by the record-replay library based on the log entries in order to simulate the various data input events that occurred during the recorded session.\"},{\"title\":\"Component Navigation In An Extensible Application\",\"date_issued\":\"June 1, 2011\",\"patents_id\":\"US 20120331488\",\"description\":\"In one embodiment, a method receives configuration information for a set of components of an extensible application. A component in the set of components includes extending information if the component is an extension of another component and hosting information if the component is hosting a set of extension points. A computing device dynamically generates an extension structure at runtime of the application from the configuration information. The extension structure is generated by connecting components together based on the extending information and the hosting information of the set of components. A navigation request to a target component is received and a path of components to the target component is determined using the extension structure. The path of components is traversed until the target component is loaded and the target component is displayed.\"}]",
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "iq-sayed",
+    "activity": [
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "Honored and grateful! This is…",
+            "img": "",
+            "id": "7270655848631132160"
+        },
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "Happy UAE National Day from all of us…",
+            "img": "",
+            "id": "7269255255211610112"
+        },
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "When I arrived in #Dubai in October…",
+            "img": "",
+            "id": "7269233276559523840"
+        },
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "#المستقبل_فين؟ غياب المحتوى العربي:…",
+            "img": "",
+            "id": "7268551683893338113"
+        },
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "Looking for talented software engineers…",
+            "img": "",
+            "id": "7264645137614467073"
+        },
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "4 days of continuous interaction with…",
+            "img": "",
+            "id": "7263586068090798080"
+        },
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "The proposed amendments to the State…",
+            "img": "",
+            "id": "7258795104981696512"
+        },
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "Zyp’s very first public demo for B2C…",
+            "img": "",
+            "id": "7262407704260792320"
+        },
+        {
+            "interaction": "Liked by I.Q. Sayed",
+            "link": "",
+            "title": "They say, \"Don’t meet your heroes,\"…",
+            "img": "",
+            "id": "7257251231419531265"
+        }
+    ],
+    "linkedin_num_id": 1494909.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

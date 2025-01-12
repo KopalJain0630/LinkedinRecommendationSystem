@@ -1,0 +1,88 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": "Software Developer @ Edfora",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Delhi, India",
+            "description": "• Developed and maintained modules using React Native with Redux for application features, posts listing, modules for liking, sharing, & commenting, with smooth animations with gesture handlers• Spearheaded the development of critical component, streamlining integration across multiple modules reducing integration time (75%) and enhanced performance (15%), boosting team efficiency• Maintained and Improvised React Native modules with MobX for efficient state management, resulting in a 30% increase in user interaction across multiple platforms.• Collaborated with team to optimize performance (70%) and elevate code quality standards, implementing efficient coding practices",
+            "description_html": "• Developed and maintained modules using React Native with Redux for application features, posts listing, modules for liking, sharing, &amp; commenting, with smooth animations with gesture handlers• Spearheaded the development of critical component, streamlining integration across multiple modules reducing integration time (75%) and enhanced performance (15%), boosting team efficiency• Maintained and Improvised React Native modules with MobX for efficient state management, resulting in a 30% increase in user interaction across multiple platforms.• Collaborated with team to optimize performance (70%) and elevate code quality standards, implementing efficient coding practices",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Edfora",
+            "company_id": "edfora",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Revamped a horizontally scalable and maintainable server using Elastic-beanstalk and CI/CD pipeline    using CircleCI and AWS Code Deploy decreasing deployment & server downtime by 30%•  Developed the cross-platform application using React Native and Redux / Redux Toolkit for central    state management and API Layer.•  Engineered backend with GraphQL, Sequelize, & Cloud services•  Enhanced website performance by 100% through strategic implementation of Dynamic Import for    efficient resource loading, Next/Image , and Pagination to streamline content navigation.•  Built FE & BE for the internal CRM Portal, building services like order, product and user management,     customer support, sales dashboard, and engagement notification with RBAC for operations.",
+            "description_html": "• Revamped a horizontally scalable and maintainable server using Elastic-beanstalk and CI/CD pipeline  using CircleCI and AWS Code Deploy decreasing deployment &amp; server downtime by 30%• Developed the cross-platform application using React Native and Redux / Redux Toolkit for central  state management and API Layer.• Engineered backend with GraphQL, Sequelize, &amp; Cloud services• Enhanced website performance by 100% through strategic implementation of Dynamic Import for  efficient resource loading, Next/Image , and Pagination to streamline content navigation.• Built FE &amp; BE for the internal CRM Portal, building services like order, product and user management,  customer support, sales dashboard, and engagement notification with RBAC for operations.",
+            "duration": "Feb 2022 Jun 2023 1 year 5 months",
+            "start_date": "Feb 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "1 year 5 months",
+            "company": "Kuddle",
+            "company_id": "kuddle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij, IIT Kharagpur",
+            "location": "kharagpur",
+            "description_html": null,
+            "duration": "1 year 6 months",
+            "positions": [
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Aug 2019 - Feb 2020 7 months",
+                    "description": "Part of the 23 Member Core Team of the symposium which is responsible for Publicity and Sponsorship•Solely garnered INR 2.25 lakhs worth net corporate sponsorship and alumni contribution from regions of Mumbai•Approached Messaging Companies and Media Platforms to have them as Messaging and Online Media Partners•Led a team of 42 Campus Affiliates &12 Campus Ambassadors responsible for the publicity of Kshitij 2020•As Web Sub-coordinator managed Kshitij's official website and ensured the update about the fest",
+                    "duration": "Aug 2019 Feb 2020 7 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Feb 2020",
+                    "duration_short": "7 months",
+                    "title": "Core Organising Team Member",
+                    "description_html": "Part of the 23 Member Core Team of the symposium which is responsible for Publicity and Sponsorship<br>•Solely garnered INR 2.25 lakhs worth net corporate sponsorship and alumni contribution from regions of Mumbai<br>•Approached Messaging Companies and Media Platforms to have them as Messaging and Online Media Partners<br>•Led a team of 42 Campus Affiliates &amp;12 Campus Ambassadors responsible for the publicity of Kshitij 2020<br>•As Web Sub-coordinator managed Kshitij's official website and ensured the update about the fest"
+                },
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Sep 2018 - Aug 2019 1 year",
+                    "description": "• Worked with a team of 33 members for the publicity and for the execution of 33 events, 13 workshops, 4 exhibitions, 6 guest lectures, and mega shows• Publicized the symposium across colleges of Kolkata & Nagpur and published 3 media articles in newspapers in Maharashtra• Assisted the members in the Guest Reception team and successfully accommodated all the guests of Kshitij at IIT Kharagpur during 3 days of the fest",
+                    "duration": "Sep 2018 Aug 2019 1 year",
+                    "start_date": "Sep 2018",
+                    "end_date": "Aug 2019",
+                    "duration_short": "1 year",
+                    "title": "Kshitij Campus Affiliate",
+                    "description_html": "• Worked with a team of 33 members for the publicity and for the execution of 33 events, 13 workshops, 4 exhibitions, 6 guest lectures, and mega shows<br>• Publicized the symposium across colleges of Kolkata &amp; Nagpur and published 3 media articles in newspapers in Maharashtra<br>• Assisted the members in the Guest Reception team and successfully accommodated all the guests of Kshitij at IIT Kharagpur during 3 days of the fest <!---->"
+                }
+            ],
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Edfora",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

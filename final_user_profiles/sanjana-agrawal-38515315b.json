@@ -1,0 +1,66 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Corporate Lawyer",
+    "experience": [
+        {
+            "title": "Legal Associate",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "S&R Associates",
+            "company_id": "s&r-associates",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Shri Vile Parle Kelvani Mandals Pravin Gandhi College of Law Vile Parle (W) Mumbai 400 056",
+            "degree": "Bachelor of Laws - LLB",
+            "field": "Law",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Centre Point School, Nagpur",
+            "degree": "HSC",
+            "field": "91.8%",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": "Commerce",
+            "description_html": "Commerce <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Centre Point School, Nagpur",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2019",
+            "subtitle": "Asian School of Cyber Laws",
+            "title": "Diploma Course in Cyber Laws"
+        },
+        {
+            "meta": "Issued Apr 2019",
+            "subtitle": "Bombay Stock Exchange Limited",
+            "title": "Certificate Course in Securities and Corporate Laws"
+        }
+    ],
+    "current_company_name": "S&R Associates",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Global Volunteer Poland AIESEC\",\"start_date\":\"Jun 2018\",\"end_date\":\"Aug 2018\"}]",
+    "honors_and_awards": null
+}

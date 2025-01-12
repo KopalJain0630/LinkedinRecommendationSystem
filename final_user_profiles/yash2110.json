@@ -1,0 +1,87 @@
+{
+    "city": "Vadodara, Gujarat, India",
+    "position": "Software Engineer",
+    "experience": [
+        {
+            "title": "Access Computech Pvt Ltd",
+            "location": "Vadodara, Gujarat, India",
+            "description_html": null,
+            "duration": "1 year 6 months",
+            "positions": [
+                {
+                    "subtitle": "Access Computech Pvt Ltd",
+                    "meta": "Nov 2023 - Present 1 year 2 months",
+                    "duration": "Nov 2023 - Present 1 year 2 months",
+                    "start_date": "Nov 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 2 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Access Computech Pvt Ltd",
+                    "meta": "Jul 2023 - Oct 2023 4 months",
+                    "duration": "Jul 2023 Oct 2023 4 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Oct 2023",
+                    "duration_short": "4 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Access Computech Pvt Ltd",
+            "company_id": "access-computech-pvt-ltd",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Web Development Intern",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Jun 2022 Jul 2022 2 months",
+            "start_date": "Jun 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "2 months",
+            "company": "Consilio Intelligence Research Lab",
+            "company_id": "consiliolab",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Jaypee University of Engineering and Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021Credential ID a798Z31D356962Aeq2See credential",
+            "subtitle": "GUVI Geek Networks, IITM Research Park",
+            "title": "Build a Face Recognition Application using Python"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID 2SM7EFNF6QPKSee credential",
+            "subtitle": "Coursera | Google",
+            "title": "Introduction to Git and GitHub"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID FGD8EQ2NLQV9See credential",
+            "subtitle": "Coursera",
+            "title": "Simple Retrieval Queries in MySQL Workbench"
+        }
+    ],
+    "current_company_name": "Access Computech Pvt Ltd",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

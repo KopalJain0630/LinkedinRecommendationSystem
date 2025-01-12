@@ -1,0 +1,103 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Delhi University",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "Startup Wise Guys",
+            "title": "Angels Up Academy Bootcamp"
+        },
+        {
+            "meta": "Issued Nov 2019Credential ID UC-DKGM1H0ZSee credential",
+            "subtitle": "Udemy",
+            "title": "Business Development and B2B Sales "
+        },
+        {
+            "meta": "Issued Feb 2019Credential ID UC-0L8CGFGUSee credential",
+            "subtitle": "Udemy",
+            "title": "Growth Hacking"
+        },
+        {
+            "meta": "Issued Sep 2023Expires Sep 2024Credential ID 198787475See credential",
+            "subtitle": "Google Digital Academy (Skillshop)",
+            "title": "Google Ads Display Certification"
+        },
+        {
+            "meta": "Issued Sep 2022Expires Sep 2023See credential",
+            "subtitle": "Google Digital Academy (Skillshop)",
+            "title": "Google Ads Apps Certification"
+        },
+        {
+            "meta": "Issued Sep 2022Expires Sep 2023See credential",
+            "subtitle": "Google Digital Academy (Skillshop)",
+            "title": "Google Ads Search Certification"
+        },
+        {
+            "meta": "Issued Sep 2021Expires Sep 2022Credential ID 90308061See credential",
+            "subtitle": "Google Digital Academy (Skillshop)",
+            "title": "Google Ads Apps Certification"
+        },
+        {
+            "meta": "Issued Sep 2021Expires Sep 2022Credential ID 90282502See credential",
+            "subtitle": "Google Digital Academy (Skillshop)",
+            "title": "Google Ads Search Certification"
+        },
+        {
+            "meta": "Issued Sep 2021Expires Sep 2022Credential ID 90292765See credential",
+            "subtitle": "Google Digital Academy (Skillshop)",
+            "title": "Google Shopping Ads Certification"
+        },
+        {
+            "meta": "Issued Nov 2018Expires Dec 2020Credential ID 11-6511462-1541153309705See credential",
+            "subtitle": "HubSpot Academy",
+            "title": "Email Marketing"
+        },
+        {
+            "meta": "Issued Nov 2018Expires Dec 2020Credential ID 23-6511462-1541860606629See credential",
+            "subtitle": "HubSpot Academy",
+            "title": "Inbound Marketing"
+        },
+        {
+            "meta": "Issued Oct 2018Expires Nov 2020Credential ID 15-6511462-1540206757457See credential",
+            "subtitle": "HubSpot Academy",
+            "title": "Content Marketing "
+        }
+    ],
+    "current_company_name": "Nymiz",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Top Mentors of 2023",
+            "publication": "Startup Wise Guys",
+            "date": "2024-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Millennial Marketing Tech Professional Of The Year 2023",
+            "publication": "Marketing Mind",
+            "date": "2023-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Google Partner",
+            "publication": "Google",
+            "date": "2021-09-01T00:00:00.000Z",
+            "description": "My Company PPC Specialist India was able to meet all the requirements of Google Partners Programme (Google Ads) and earn the badge in September 2021."
+        }
+    ]
+}

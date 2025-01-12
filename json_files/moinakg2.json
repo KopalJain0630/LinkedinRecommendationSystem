@@ -1,0 +1,650 @@
+{
+    "id": "moinakg2",
+    "name": "Moinak Ghosh",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "ASIC Engineer @ Nvidia | IIT Kharagpur | Maker | ASIC/FPGA Design/Verification | Open Source Chip Design Enthusiast | Will take your hardware project from idea to product",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "NVIDIA",
+        "company_id": "nvidia",
+        "title": "ASIC Engineer @ Nvidia | IIT Kharagpur | Maker | ASIC/FPGA Design/Verification | Open Source Chip Design Enthusiast | Will take your hardware project from idea to product"
+    },
+    "experience": [
+        {
+            "title": "ASIC Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "NVIDIA",
+            "company_id": "nvidia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "ASIC Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Worked on the MSS Safety Verification team to improve verification coverage of data integrity mechanisms using a hybrid simulation and formal verification approach.Decreased verification effort by 90% by scripting testbench creation automation frameworkImproved verification coverage by 60% by implementing novel hybrid verification approach",
+            "description_html": "Worked on the MSS Safety Verification team to improve verification coverage of data integrity mechanisms using a hybrid simulation and formal verification approach.Decreased verification effort by 90% by scripting testbench creation automation frameworkImproved verification coverage by 60% by implementing novel hybrid verification approach <!---->",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "NVIDIA",
+            "company_id": "nvidia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Visiting Student Researcher",
+            "location": "Austin, Texas Metropolitan Area",
+            "description": "Designed and verified a Tensor Processing unit, proposed as hard IP on ML-focussed FPGAs, as a better alternative to FPGAs with just LUTs and DSPs. Compared performance with commercial competitors - Intel Tensor Block and Xilinx AI engine.",
+            "description_html": "Designed and verified a Tensor Processing unit, proposed as hard IP on ML-focussed FPGAs, as a better alternative to FPGAs with just LUTs and DSPs. Compared performance with commercial competitors - Intel Tensor Block and Xilinx AI engine. <!---->",
+            "duration": "Apr 2021 Oct 2021 7 months",
+            "start_date": "Apr 2021",
+            "end_date": "Oct 2021",
+            "duration_short": "7 months",
+            "company": "The University of Texas at Austin",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Jun 2021 Sep 2021 4 months",
+            "start_date": "Jun 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "4 months",
+            "company": "ISRO - Indian Space Research Organization",
+            "company_id": "officialisro",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Electronics and Embedded Systems Head",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Led a team of eight enthusiastic technocrats to solve challenging problems in control and embedded systems in a soccer playing robot.Part of the only Indian team to qualify for Robocup 2021 SSL to be held at Bordeaux, France in May, 2021",
+            "description_html": "Led a team of eight enthusiastic technocrats to solve challenging problems in control and embedded systems in a soccer playing robot.Part of the only Indian team to qualify for Robocup 2021 SSL to be held at Bordeaux, France in May, 2021 <!---->",
+            "duration": "Jan 2019 Apr 2021 2 years 4 months",
+            "start_date": "Jan 2019",
+            "end_date": "Apr 2021",
+            "duration_short": "2 years 4 months",
+            "company": "Kharagpur Robosoccer Students Group",
+            "company_id": "kharagpur-robosoccer-students-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Electronics Systems Head",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Led an electronics and embedded systems team of six members to execute various projects involved in the development of a 'smart' Formula Student racecar.Worked on gear shifting, telemetry, datalogging, HMI and signal processing",
+            "description_html": "Led an electronics and embedded systems team of six members to execute various projects involved in the development of a 'smart' Formula Student racecar.Worked on gear shifting, telemetry, datalogging, HMI and signal processing <!---->",
+            "duration": "Sep 2018 Mar 2021 2 years 7 months",
+            "start_date": "Sep 2018",
+            "end_date": "Mar 2021",
+            "duration_short": "2 years 7 months",
+            "company": "Team KART",
+            "company_id": "team-kart",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Test and Validation Engineer",
+            "location": "United States",
+            "description": "Extensively roadtested several electrical and electronic products like sensors, development boards, SBCs etc for companies like Microchip, Omron, STMicroelectronics, Avnet etc.",
+            "description_html": "Extensively roadtested several electrical and electronic products like sensors, development boards, SBCs etc for companies like Microchip, Omron, STMicroelectronics, Avnet etc. <!---->",
+            "duration": "Apr 2020 Dec 2020 9 months",
+            "start_date": "Apr 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "9 months",
+            "company": "element14 Electronics",
+            "company_id": "element14-electronics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research And Development Intern",
+            "location": "Pune, Maharashtra",
+            "description": "Working on the developement of next generation rovers and drones to revolutionise agriculture in India by data driven autonomous farming",
+            "description_html": "Working on the developement of next generation rovers and drones to revolutionise agriculture in India by data driven autonomous farming <!---->",
+            "duration": "Mar 2020 Jul 2020 5 months",
+            "start_date": "Mar 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "5 months",
+            "company": "Kanan Park",
+            "company_id": "kananpark",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Vice President",
+            "location": "Jamshedpur Area, India",
+            "description": "Responsible for coordinating with the student council for the efficient and peaceful execution of various programmes in school. Organised various events like the intra-school fest Odyssey, celebration of festivals and other inter-school events.",
+            "description_html": "Responsible for coordinating with the student council for the efficient and peaceful execution of various programmes in school. Organised various events like the intra-school fest Odyssey, celebration of festivals and other inter-school events. <!---->",
+            "duration": "Nov 2015 Nov 2016 1 year 1 month",
+            "start_date": "Nov 2015",
+            "end_date": "Nov 2016",
+            "duration_short": "1 year 1 month",
+            "company": "Little Flower School, Jamshedpur",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ayan Chakraborty",
+            "about": "CS PhD Student @ EPFL | IIT KGP'22",
+            "location": "Écublens"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Kala",
+            "about": "Research Associate - Quant & Alt",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Gopi Reddy Chilukuri",
+            "about": "Research Scholar | Electrical Engineering | IIT Kharagpur",
+            "location": "West Bengal, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Gauri Wadhwa",
+            "about": "Mech Eng. PhD student at Princeton University | BTech+MTech AE IIT Kharagpur",
+            "location": "Princeton, NJ"
+        },
+        {
+            "profile_link": "",
+            "name": "Kshitij Bithel",
+            "about": "DFT Engineer @ Qualcomm | IITR EE'22",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Suraj Mahangade",
+            "about": "Senior DevOps Engineer at SharpData Analytics",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Prabhat Kumar",
+            "about": "Data Engineer @ EY | Python | Pyspark | Snowflake | Databricks | Azure",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Dishank yadav",
+            "about": "Electronics and embedded team member at Autonomous Ground Vehicle Research Group",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudh Roy",
+            "about": "Mixed Signal SOC Designer | Masters in Signal Processing | Bachelor's in Electrical Engineering",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manthan Patel",
+            "about": "Research Engineer @ RSL ETH Zürich | NASA JPL | IIT KGP",
+            "location": "Zurich"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree(BTech+MTech)",
+            "field": "Electrical Major/Electronics Minor/Embedded Systems Microspecialisation",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Kharagpur Robosoccer Students Group(KRSSG) TeamKART, Formula SAE team of IIT Kharagpur, Debating Society, Business Club, Hall Activities(Hardware Modelling, Product Design, Instrumentals, Volleyball)",
+            "description_html": "Activities and Societies: Kharagpur Robosoccer Students Group(KRSSG) TeamKART, Formula SAE team of IIT Kharagpur, Debating Society, Business Club, Hall Activities(Hardware Modelling, Product Design, Instrumentals, Volleyball)",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Little Flower School - Jamshedpur",
+            "degree": "ISC",
+            "field": "Mathematics and Computer Science - 96%",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": "Activities and Societies: Debate Club, Science Club, Dramatics",
+            "description_html": "Activities and Societies: Debate Club, Science Club, Dramatics",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Little Flower School - India",
+            "degree": "ICSE",
+            "field": "Mathematics and Computer Science - 96%",
+            "start_year": "2004",
+            "end_year": "2016",
+            "description": "Activities and Societies: Debating Society, Science Club, Dramatics, Volleyball, Guitar",
+            "description_html": "Activities and Societies: Debating Society, Science Club, Dramatics, Volleyball, Guitar",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"EE69001\",\"title\":\"Advanced Machine Drives\"},{\"subtitle\":\"EE69003\",\"title\":\"Advanced Power Electronic Converters\"},{\"subtitle\":\"CS21003\",\"title\":\"Algorithms I\"},{\"subtitle\":\"EC21004\",\"title\":\"Analog Electronic Circuits\"},{\"subtitle\":\"EC31011\",\"title\":\"Communication Systems\"},{\"subtitle\":\"CS31002\",\"title\":\"Computer Architecture\"},{\"subtitle\":\"EE31009\",\"title\":\"Control Systems\"},{\"subtitle\":\"EC31003\",\"title\":\"Digital Electronics\"},{\"subtitle\":\"MOOC\",\"title\":\"Digital Signal Processing\"},{\"subtitle\":\"EE61001\",\"title\":\"Electric Drives\"},{\"subtitle\":\"EE21008\",\"title\":\"Electrical Machines\"},{\"subtitle\":\"EE30012\",\"title\":\"Electromagnetic Theory\"},{\"subtitle\":\"AT60003\",\"title\":\"Embedded Control, Software and Modelling\"},{\"subtitle\":\"EE30004\",\"title\":\"Embedded Systems\"},{\"subtitle\":\"AT60008\",\"title\":\"Fault Tolerant Computer Networks\"},{\"subtitle\":\"1\",\"title\":\"Introduction to FPGA Design - UCLA\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Matrix Algebra\"},{\"subtitle\":\"EE21004\",\"title\":\"Measurements and Electronic Circuits\"},{\"subtitle\":\"UC3456\",\"title\":\"Motors and motor Control Systems\"},{\"subtitle\":\"EE31011\",\"title\":\"Power Electronics\"},{\"subtitle\":\"MA21006\",\"title\":\"Probability and Stochastic Processes\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Reconfigurable FPGA Systems\"},{\"subtitle\":\"-\",\"title\":\"Robotics - UPenn\"},{\"subtitle\":\"-\",\"title\":\"Self-Driving Cars Specialisation\"},{\"subtitle\":\"EC21007\",\"title\":\"Semiconductor devices\"},{\"subtitle\":\"EE21001\",\"title\":\"Signals and Networks\"},{\"subtitle\":\"EE61009\",\"title\":\"Switched Mode Power Conversion\"},{\"subtitle\":\"EC39004\",\"title\":\"VLSI\"},{\"subtitle\":\"EC31004\",\"title\":\"VLSI Engineering\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Bengali "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " French "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued May 2020Credential ID G8YECZQ3XPV4See credential",
+            "subtitle": "Intel Corporation",
+            "title": "Intel OpenVINO Toolkit"
+        },
+        {
+            "meta": "Issued May 2020Credential ID YQ9H448G3LPKSee credential",
+            "subtitle": "Politecnico di Milano",
+            "title": "Reconfigurable FPGA Systems"
+        },
+        {
+            "meta": "Issued May 2018",
+            "subtitle": "Indian Institute of Science (IISc)",
+            "title": "KVPY Scholar"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Aug 2018 - Mar 2020 · 1 year 8 months",
+            "duration_short": "1 year 8 months",
+            "end_date": "Mar 2020",
+            "info": "Taught basic English and Computer Science to students at the Premananda Ashram, a missionary school in the village Porapara, some 10km from the IIT KGP campus. Carried out various surveys related to public health, sanitation, education, population control and brought out the problems faced by villagers to competent authorities through our website and Facebook posts. At the annual camp, for a week we constructed roads and toilets in the village. Conferred with the honour of Best Student…\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          Taught basic English and Computer Science to students at the Premananda Ashram, a missionary school in the village Porapara, some 10km from the IIT KGP campus. Carried out various surveys related to public health, sanitation, education, population control and brought out the problems faced by villagers to competent authorities through our website and Facebook posts. At the annual camp, for a week we constructed roads and toilets in the village. Conferred with the honour of Best Student Volunteer for my efforts\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Aug 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Field Coordinator"
+        },
+        {
+            "cause": "Education",
+            "duration": "Dec 2019 - Jan 2020 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Jan 2020",
+            "info": "Mentored a two week long workshop training robotics enthusiasts about embedded systems developement from scratch to a point where they could successfully apply control systems, ROS and basic embedded coding to autonomous robots capable of path planning. Successful in making the students implement a PID based algorithm in Arduino that was capable of obstacle detection and path planning.",
+            "start_date": "Dec 2019",
+            "subtitle": "IEEE",
+            "title": "Embedded Design Mentor"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Dec 2018 - Present · 6 years 1 month",
+            "duration_short": "6 years 1 month",
+            "end_date": "Present",
+            "start_date": "Dec 2018",
+            "subtitle": "Hackster.io",
+            "title": "Open Source Hardware Contributor"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Dec 2019 - Present · 5 years 1 month",
+            "duration_short": "5 years 1 month",
+            "end_date": "Present",
+            "start_date": "Dec 2019",
+            "subtitle": "Hackaday",
+            "title": "Open Source Contributor"
+        },
+        {
+            "cause": "Education",
+            "duration": "Sep 2020 - Present · 4 years 4 months",
+            "duration_short": "4 years 4 months",
+            "end_date": "Present",
+            "start_date": "Sep 2020",
+            "subtitle": "Student Welfare Group, IIT Kharagpur",
+            "title": "Academic Mentor"
+        },
+        {
+            "cause": "Education",
+            "duration": "May 2021 - Present · 3 years 8 months",
+            "duration_short": "3 years 8 months",
+            "end_date": "Present",
+            "start_date": "May 2021",
+            "subtitle": "Chegg India",
+            "title": "Electrical Engineering Expert"
+        }
+    ],
+    "followers": 7541.0,
+    "connections": 500.0,
+    "current_company_company_id": "nvidia",
+    "current_company_name": "NVIDIA",
+    "publications": "[{\"title\":\"Tensor Slices: FPGA Building Blocks For The Deep Learning Era\",\"subtitle\":\"ACM Transactions on Reconfigurable Technology and Systems\",\"date\":\"April 13, 2022\"},{\"title\":\"KgpKubs 2020 Team Description Paper for Robocup SSL\",\"subtitle\":\"Robocup\",\"date\":\"January 19, 2020\",\"description\":\"Part of the team that drafted an overview of all the improvements to the current generation of a team of autonomous soccer playing robots. The paper includes all work done on the AI, the electrical, embedded and mechanical aspects. I, as part of the embedded team was involved in work on the kicker circuitry rework to achieve variable kicking and developed the protection circuits for the BLDC motor driver boards and redesigned the circuits for the main controller board for better reliability and performance.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Hardware/Software Co-design for novel Synchronous Reluctance and Switched Reluctance motors\",\"start_date\":\"Aug 2022\"},{\"title\":\"Safety Verification Coverage Improvement by using hybrid simulation-based and Formal Verification Approach\",\"start_date\":\"May 2022\",\"end_date\":\"Aug 2022\",\"description\":\"Worked in the Memory Subsystems Safety Verification team Reduced verification time for data integrity mechanisms by nearly 90% by automating testbench creation\"},{\"title\":\"Design and implementation of hysteritic control multiphase converter IC for 5G NR power amplifier\",\"start_date\":\"Jan 2022\",\"end_date\":\"Aug 2022\"},{\"title\":\"Trukdoc : an in-transit vehicle predictive maintenance system\",\"start_date\":\"Feb 2022\",\"end_date\":\"Mar 2022\",\"description\":\"Developed a LoRaWAN satellite connnectivity based wireless sensor network for predictive and prescriptive maintenance of trucks.\"},{\"title\":\"Development of Radiation-tolerant Clock and Data Recovery unit for SerDes for IC deployed in space on 180nm node\",\"start_date\":\"Mar 2021\",\"end_date\":\"Jan 2022\"},{\"title\":\"Tensor Slice ++ Processor Core Design and Implementation on Intel Agilex-like FPGA for ML-heavy workloads\",\"start_date\":\"Apr 2021\",\"end_date\":\"Sep 2021\",\"description\":\"Assisted in development of the matrix multiplier unit of a novel processor architecture - the Tensor Slice ++, sought of as an enhancement over Google's TPU-v2 Design- Did Formal Verification to enhance the matrix multiplier core- Implemented the design on a virtual testbench derived from an Intel Agilex FPGA- Used VTR for routing and placement- Analysed the performance by running standard ML benchmarks on the proposed unit- Demonstrated the superiority of the developed architecture over stock DSP slices embedded on the FPGA\"},{\"title\":\"Design of four-wheeled FWD passenger EV and its practical validation on Matlab\",\"start_date\":\"Feb 2021\",\"end_date\":\"Mar 2021\",\"description\":\"Designed an accurate electric vehicle simulation model to validate the design of a 4-wheeled passenger EV, designing all the subsystems like the motor, the inverter, the battery pack and the control algorithms from scratch. The developed concept vehicle gave comparable specifications with contemporary EV rivals like the Tata Nexon EV, the Mini E and the Nissan Leaf.\"},{\"title\":\"Kharagpur Robosoccer Student`s Group\",\"start_date\":\"Mar 2019\",\"end_date\":\"Jan 2021\",\"description\":\"The group involves the development of a team of autonomous soccer playing robot for RoboCup Small Sized League.- Conceptualised and designed the circuits based on AVR, ARM microcontrollers and FPGA architecture, applied fuzzy logic tuned PIDController for effective speed control of BLDC motors used for robot locomotion.- Designed and implemented a proprietary BLDC motor controller for the robots.Devised Verilog HDL modules for Trapezoidal controlof the BLDC motor,Presently working on the FPGA based BLDC PID controller.- Worked on different RF modules and successfully optimised the communication system for least data loss and maximum datatransfer rate of 2 Mbps between the main server and the robots using Nordic nrf24l01+ and ARM microcontroller.- Designed and fabricated the kicker circuit based on flyback converters achieving a kicking speed of 10 m/s.\"},{\"title\":\"BLDC Motor Controller and Vehicle Control Unit design for e-rickshaw\",\"start_date\":\"Jul 2020\",\"end_date\":\"Dec 2020\"},{\"title\":\"Design and Implementation of the electrical and electronic systems in a Formula Student racecar\",\"start_date\":\"Oct 2018\",\"end_date\":\"Dec 2020\",\"description\":\"Part of the design team that has successfully designed the electical and electronic systems for two cars - the K5 and the K6. Key design features include a custom made Datalogger, wireless telemetry with realtime signal processing and transmission to a remote host, semi-automatic gear shifting, protection circuitry, PCB design for the afore-mentioned circuits, sensor development for vehicle dynamics and design of wiring harness for weight reduction. Key skills I developed include PCB design, analog circuit design, embedded software design, signal processing on Matlab, system modelling and circuit simulation, RF communication and sensor design.Softwares used : LTSpice, Proteus, Eagle, Matlab(and Simulink), Solidworks\"},{\"title\":\"Autonomous Robot for attending to COVID patients\",\"start_date\":\"Mar 2020\",\"end_date\":\"Oct 2020\",\"description\":\"Developed autonomous robot for performing various tasks in a COVID ward thus minimising doctor-patient contact.Secured significant seed funding and research grants for the venfure\"},{\"title\":\"MenoPLAY\",\"start_date\":\"Apr 2020\",\"end_date\":\"Aug 2020\",\"description\":\"Developed a low-cost wearable device that helps treat Menopausal symptoms non-invasively\"},{\"title\":\"Design and modelling of EV powertrain and auxiliary electronic systems for a Formula Student Electric racecar\",\"start_date\":\"Feb 2020\",\"end_date\":\"Aug 2020\",\"description\":\"Led FSEV team to design its first electrical package that won us a prestigious 5th place overall at the FSEV Concept Challenge 2020Worked on EV powertrain design, modelling and simulationDesigned a Passive Battery Management System inspired from open source architecturesDesigned and implemented Datalogger-cum-Telemetry units and Fault Diagnosis circuitsManaged the project using industry standard practices and drafted Management, Procurement and FMEA reports\"},{\"title\":\"Optimisation of camera orientation for mapping of agricultural land\",\"start_date\":\"Feb 2020\",\"end_date\":\"Mar 2020\",\"description\":\"Used an MPU-6050 based setup on which was mounted a camera module for visual mapping of the farm land. PID Control was applied on a servo motor which controlled the orientation of the module taking the accelerometer and gyroscope data as input. Softwares used : SolidWorks, Arduino IDE\"},{\"title\":\"Autonomous bot for transfer of construction material in an area affected by natural calamity\",\"start_date\":\"Nov 2019\",\"end_date\":\"Mar 2020\",\"description\":\"Designed and successfully implemented an autonomous robot capable of path planning with the goal to transport supplies to disaster struck areas. Used V-Rep Robotics Simulation environment and developed the code using embedded C in Visual Studio. For path-planning, djikstra algorithm was used and for controlling traversal, feedback taken from IR distance sensors was fed to a PID controlled differential drive.\"}]",
+    "organizations": [
+        {
+            "title": "TeamKart",
+            "membership_type": "Trainee",
+            "start_date": "Oct 2018",
+            "end_date": "Present",
+            "membership_number": null
+        },
+        {
+            "title": "National Service Scheme, India",
+            "membership_type": "Field volunteer",
+            "start_date": "Aug 2018",
+            "end_date": "May 2021",
+            "description": "Taught underprivigileged students at the Premananda Ashram @ Porapara, a remote village south-west of Kharagpur. Selected as the Best Volunteer of my unit for my efforts",
+            "membership_number": null
+        },
+        {
+            "title": "Debating Society, IIT Kharagpur",
+            "membership_type": "Debater",
+            "start_date": "Aug 2018",
+            "end_date": "Dec 2018",
+            "membership_number": null
+        },
+        {
+            "title": "Business Club ",
+            "membership_type": "Associate Member",
+            "start_date": "Sep 2018",
+            "end_date": "Oct 2018",
+            "description": "Had a passing interest in Tech Startup Development in my 1st year in college, the time when you want to try everything. Interests divulged as I matured.",
+            "membership_number": null
+        }
+    ],
+    "location": "Bengaluru",
+    "linkedin_id": "moinakg2",
+    "activity": [
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "Hey everyone! Reflolabs is hiring Founding Engineers and Interns (Fullstack, AI)! We’re on a mission to transform global supply chains by…",
+            "img": "",
+            "id": "7263131441155190784"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "Awesome to see our chips being used in the field !!",
+            "img": "",
+            "id": "7254113367160729600"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "It’s a common belief among embedded developers (myself included at times) that modern compilers, like GCC, generate code that's “good enough”. But…",
+            "img": "",
+            "id": "7249403398742024194"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "How often do you have the chance to buy wisdom? As rumors swirl about a potential Intel takeover, Qualcomm could be in the rare position to fill its…",
+            "img": "",
+            "id": "7244376025667698689"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "The future of legacy C code might be a C -> Rust LLM named TRACTOR: Darpa has announced that it is seeking proposals to eliminate memory…",
+            "img": "",
+            "id": "7228369680254525440"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "🚗✨ Did you know the incredible car from \"Kalki 2898 AD\" isn’t CGI but a real marvel? Here’s why this is groundbreaking! 🎥 About \"Kalki 2898…",
+            "img": "",
+            "id": "7214529144552865792"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "This summer, I had the opportunity to Road-Test the NXP S32K324 Triple PMSM Control Reference Design Board. This board features an S32K324 MCU and…",
+            "img": "",
+            "id": "7213062299970940928"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "Glass Core substrates: the new race for advanced packaging giants 💡 #Intel set up the race, #Samsung joined in, and #TSMC waited for the ideal…",
+            "img": "",
+            "id": "7211631802967302144"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "SIMD-accelerated computer vision on a $2 microcontroller. There is another project that shows you how underrated cheap MCUs are for hard-performance…",
+            "img": "",
+            "id": "7211604415273693185"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "After a period of growth and learning at EXL, I’m super excited to share that I’ll be joining Quantacus as a full-time AI Engineer! A heartfelt…",
+            "img": "",
+            "id": "7208762010442887168"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "I am happy to share that I have completed my masters in Electrical and computer engineering from Georgia Institute of Technology",
+            "img": "",
+            "id": "7199807668109066240"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "Once you start attending Computer Architecture & Organization conferences and reading ML/DL Hw/Sw research papers, there's no going back! Cheers to…",
+            "img": "",
+            "id": "7194734803152166912"
+        },
+        {
+            "interaction": "Liked by Moinak Ghosh",
+            "link": "",
+            "title": "As I bid farewell to the revered corridors of the Indian Institute of Technology, Kharagpur, I am profoundly moved and honored to have been bestowed…",
+            "img": "",
+            "id": "7193135733962903552"
+        }
+    ],
+    "linkedin_num_id": 689275387.0,
+    "honors_and_awards": [
+        {
+            "title": "National Winner @ Namtech Maker's Challenge",
+            "publication": "Namtech Institute and Technical University of Munich",
+            "date": "2023-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Global Winner @ ElectronicWings Project Challenge 2022",
+            "publication": "Mouser Electronics",
+            "date": "2022-11-01T00:00:00.000Z",
+            "description": "Developed an IoT solution to reduce the carbon footprint of the automotive industry."
+        },
+        {
+            "title": "International Runner-up at China-US Young Maker Contest",
+            "publication": "Hackster.io",
+            "date": "2022-08-01T00:00:00.000Z",
+            "description": "Created a cellular IoT prescriptive maintenance system for fleet vehicles"
+        },
+        {
+            "title": "Winner at Silicon Labs IoT-based Social Entrepreneurship Challenge",
+            "publication": "Inter IIT Tech Meet 10.0",
+            "date": "2022-04-01T00:00:00.000Z",
+            "description": "Developed predictive maintenance system for truck component monitoring"
+        },
+        {
+            "title": "Winner, Samsung Innovation Challenge in the Campus round",
+            "publication": "Samsung",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Global Winner @ Make with Analog Devices & Mouser IoT Design Contest",
+            "publication": "Analog Devices, Mouser Electronics and All About Circuits",
+            "date": "2021-06-01T00:00:00.000Z",
+            "description": "Developed a biomedical wearable device for effective prescriptive healthcare support, making it to the top 5 finalists worldwide in my genre"
+        },
+        {
+            "title": "Finalist @ Nordic Semiconductor Advanced Wearables Design Contest",
+            "publication": "Nordic Semiconductor & Hackster.io",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "One of the few embedded developers worldwide selected to develop a wearable device around the NRF5340 DK in conjunction with the NRF52840 module exploiting the BLE, Zigbee, Thread, and other proprietary connectivity options available"
+        },
+        {
+            "title": "Gold Medal @ Bosch`s EV Design and Simulation Challenge, Inter-IIT Tech Meet 2021",
+            "publication": "Inter-IIT Tech Meet 9.0, IIT Guwahati",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "Designed an accurate electric vehicle simulation model to validate the design of a 4-wheeled passenger EV, designing all the subsystems like the motor, the inverter, the battery pack and the control algorithms from scratch. The developed concept vehicle gave comparable specifications with contemporary EV rivals like the Tata Nexon EV, the Mini E and the Nissan Leaf."
+        },
+        {
+            "title": "Int'l Finalist at Kemet Experimenting with Vibration Sensors Challenge",
+            "publication": "Kemet",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "Developed an IoT device for predictive maintenance of a window AC based on vibration data analysis"
+        },
+        {
+            "title": "International Finalist @ Quicklogic Inc. Challenge Climate Change Hackathon",
+            "publication": "Quicklogic & Hackster.io",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "Awarded the Quicklogic Open Reconfigurable Computing(QORC) Quickfeather development kit, the world`s first FPGA-enabled Cortex M4 processor to develop an innovative Signal Processing application. Link to project here"
+        },
+        {
+            "title": "Runner up at Johnson n Johnson Industry 4.0 Hackathon",
+            "publication": "Johnson n Johnson",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "Designed a predictive maintenance system for monitoring mechanical and electrical faults in an Autopack Sollas Overwrapping machine based on AWS IoT, DSP and ML"
+        },
+        {
+            "title": "Finalist @ 1 Metre of Pi Design Challenge",
+            "publication": "Raspberry Pi Foundation & element14",
+            "date": "2020-12-01T00:00:00.000Z",
+            "description": "Deisgned a mechansim to create an autonomously maintained indoor garden using image processing and IoT based around the Raspberry Pi 4 and the Husky Lens AI camera"
+        },
+        {
+            "title": "Int`l Finalist @ Eaton Ultracool Supercapacitor Design Challenge",
+            "publication": "Eaton & Mouser Electronics",
+            "date": "2020-12-01T00:00:00.000Z",
+            "description": "One among 15 analog design engineers worldwide Awarded a Mouser voucher worth 100$ and a kit of Eaton Supercapacitors(TV range) to create novel EV powertrain architecture. Designed a capacitor bank with associated charge/discharge circuit to attach in parallel to a 12V battery to minimise damage due to current spikes and to develop a means to run supplied DC motor above rated power"
+        },
+        {
+            "title": "National Champions at Unleash Hacks India",
+            "publication": "Unleash",
+            "date": "2020-11-01T00:00:00.000Z",
+            "description": "Developed a business model centered around autonomous indigenous drones for disaster relief in cyclone-affected parts of coastal Odisha. Received funding of 500USD for a PoC from Unleash International"
+        },
+        {
+            "title": "Int`l Finalist @ Xilinx Adaptive Compute Challenge",
+            "publication": "Xilinx",
+            "date": "2020-11-01T00:00:00.000Z",
+            "description": "Proposed a novel project to implement image processing on a heterogenous FPGA-based Multi-SoC platform(Zynq-7000). Used the Ultra96V2 development board and built an application using Vivado HLS and Vitis AI which was widely lauded by the opensource community. Project is still in development stage. Once, developed I plan to commercialise it."
+        },
+        {
+            "title": "National Semi-Finalists at Flipkart Grid Robotics Challenge 2.0",
+            "publication": "Flipkart",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "Developed a virtual model of an autonomous drone capable of indoor navigation in a warehouse"
+        },
+        {
+            "title": "Runner Up in Electric Vehicle Design at FSEV Concept Challenge 2020",
+            "publication": "Formula Bharat",
+            "date": "2020-07-01T00:00:00.000Z",
+            "description": "Competed against various electric vehicle teams across the globe to bag the runner up position in electric vehicle design"
+        },
+        {
+            "title": "Finalist @ Cypress Change the World with PSoC IoT Design Challenge",
+            "publication": "Cypress Semiconductor(now part of Infineon)",
+            "date": "2020-06-01T00:00:00.000Z",
+            "description": "One among few IoT engineers worldwide selected to develop novel projects around the PSoC 6 Wifi-BT Pioneer development kit from Cypress."
+        },
+        {
+            "title": "International Runner-up at AARP Labs Hackathon",
+            "publication": "Hackster.io and AARP Innovation Labs",
+            "date": "2020-06-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Winner @ Intel DL Superheroes Challenge",
+            "publication": "Intel",
+            "date": "2020-06-01T00:00:00.000Z",
+            "description": "One among just 5 embedded engineers worldwide to receive the Intel Neural Compute Stick 2 for developing an embedded AI application. Underwent intensive training during the lockdown to get familar with the OpenVINO toolkit. Developed a mask detection project to control the gates to an office complex to prevent COVID outbreak in campus and maintain social distancing. Project code here"
+        },
+        {
+            "title": "Finalist @ Helium IoT for Good Hackathon",
+            "publication": "Helium & Hackster.io",
+            "date": "2020-05-01T00:00:00.000Z",
+            "description": "Used the Helium IoT development for creating a low-cost wearable device for tracking stranded hikers using LoraWAN beacons for transmitting SOS messages"
+        },
+        {
+            "title": "Int`l Finalist @ COVID 19 Detect and Protect Challenge",
+            "publication": "Arduino",
+            "date": "2020-05-01T00:00:00.000Z",
+            "description": "Used the Arduino MKR1010 Wifi development board to create a mechanism for automatically alarming the inmates of a campus if an intruder without a mask entered premises. The open source design was widely lauded. Unfortunately, I could not commercialise it due to academic commitments"
+        },
+        {
+            "title": "National Winner @ Covid 19 Innovation Challenge",
+            "publication": "Gujarat Innovation Council and FISS, India",
+            "date": "2020-04-01T00:00:00.000Z",
+            "description": "Developed an autonomous robot to aid in the treatment of COVID patients when the pandemic was at its peak in India. Design lauded by governmental panel comprising IITB and IITD professors. Secured seed funding in excess of Rs 1 lakh for the venture. unfortunately, due to lack of resources, the venture failed"
+        },
+        {
+            "title": "Robocup 2020 SSL Qualification",
+            "publication": "Robocup Federation",
+            "date": "2020-03-01T00:00:00.000Z",
+            "description": "Part of the only team from India and only UG team to qualify for the Robocup 2020 Small Size League"
+        },
+        {
+            "title": "National Semi-Finalists at e-Yantra Robotics Competition",
+            "publication": "MHRD/ IIT Bombay",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "Participated in the theme Construct-O-Bot where we designed and implemented an autonomous bot capable of traversing through various terrains and path-planning"
+        },
+        {
+            "title": "2nd position at the Business Presentation Event, Formula Bharat 2020",
+            "publication": "Formula Bharat",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "Formulated a business plan for using an FSAE vehicle as a source of revenue and presented it to a panel of esteemed judges from the Indian startup scene"
+        },
+        {
+            "title": "6th position in Design Event, Formula Bharat 2020",
+            "publication": "Formula Bharat",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "Part of the electronics design team that was one of the best at the competition"
+        },
+        {
+            "title": "4th Position at FSEV Design Challenge 2019",
+            "publication": "Ather Energy and Formula Bharat",
+            "date": "2019-07-01T00:00:00.000Z",
+            "description": "Worked in a team of ten to design various subsystems in a Formula Student racecar. Prepared extensive technical documentation of the design and prepared FMEA and project management reports"
+        },
+        {
+            "title": "Best Freshers Award @ Autonomous Robotics Event Cubiscan",
+            "publication": "Kshitij- the Annual Techno-Management Fest of IIT Kharagpur",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "Designed an autonomous line-following bot capable of path-planning. Used PID control for smooth traversal and for determining the dimensions of cubical boxes using distance sensors"
+        },
+        {
+            "title": "KVPY Fellowship Awardee",
+            "publication": "IISc, Bengaluru",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "Received the prestigious Kishore Vaigyanik Protsahan Yojana Fellowship, the Highest Academic Honour in Pure Science in India at the Higher Secondary level. Selected from a pool of over 1million candidates from across India"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

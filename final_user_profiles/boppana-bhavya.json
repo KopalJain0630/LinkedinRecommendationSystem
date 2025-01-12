@@ -1,0 +1,73 @@
+{
+    "city": "Kharagpur, West Bengal, India",
+    "position": "SDE @ Apple | IIT KGP'22 | Former intern at Brillio | Industrial and systems engineering",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Apple",
+            "company_id": "apple",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Brillio",
+            "company_id": "brillio",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Industrial and systems engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Narayana Junior College - India",
+            "degree": "higher secondary",
+            "field": "97.6%",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Credential ID WK6HACXM2GE5See credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Credential ID PJ887L7ZH3R4See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "Apple",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,109 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Software Engineer",
+    "experience": [
+        {
+            "title": "Associate Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description": "Working on a web application( Java, React, SpringBooot)which enables Employees in organisation to evaluate their priorities on various parameters using trained ML model. It is also used by HRs and managers to manage priorities of assigned employees and view reports during a performance cycle.",
+            "description_html": "Working on a web application( Java, React, SpringBooot)which enables Employees in organisation to evaluate their priorities on various parameters using trained ML model. It is also used by HRs and managers to manage priorities of assigned employees and view reports during a performance cycle. <!---->",
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Credit Suisse",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "2 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "Credit Suisse",
+                    "meta": "Jul 2023 - Sep 2023 3 months",
+                    "duration": "Jul 2023 Sep 2023 3 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Sep 2023",
+                    "duration_short": "3 months",
+                    "title": "Exempt Non Officer( ENO II)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Credit Suisse",
+                    "meta": "Jul 2021 - Jun 2023 2 years",
+                    "description": "• Designed and Developed a full stack application(React, Java, Spring Boot) to manage authorizations of user identities for APIs which reduced 100% manual effort of Database Team.• Designed and Developed Java REST APIs and clients for data consumption from Data Warehouse Team.• Implemented Bash scripts for automating API checkouts to flag and raise inaccuracies in data prior to batch processing by downstream systems.• Contributed to the development of various feature enhancements and improvements in existing Applications.",
+                    "duration": "Jul 2021 Jun 2023 2 years",
+                    "start_date": "Jul 2021",
+                    "end_date": "Jun 2023",
+                    "duration_short": "2 years",
+                    "title": "Analyst,Technology",
+                    "description_html": "• Designed and Developed a full stack application(React, Java, Spring Boot) to manage authorizations of user identities for APIs which reduced 100% manual effort of Database Team.<br><br>• Designed and Developed Java REST APIs and clients for data consumption from Data Warehouse Team.<br><br>• Implemented Bash scripts for automating API checkouts to flag and raise inaccuracies in data prior to batch processing by downstream systems.<br><br>• Contributed to the development of various feature enhancements and improvements in existing Applications."
+                }
+            ],
+            "company": "Credit Suisse",
+            "company_id": "credit-suisse",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Technology Summer Intern",
+            "location": "Pune, Maharashtra, India",
+            "description": "• Designed and Developed an API Validation framework which facilitated automated testing to validate API functionality after making changes, implemented using Java, Spring Boot, Impala.• Established connections with Credit Suisse’s top-level executives, including MDRs, DIRs, and VPs, through organising events and effective networking efforts being a Technology Analyst Program Participant.",
+            "description_html": "• Designed and Developed an API Validation framework which facilitated automated testing to validate API functionality after making changes, implemented using Java, Spring Boot, Impala.• Established connections with Credit Suisse’s top-level executives, including MDRs, DIRs, and VPs, through organising events and effective networking efforts being a Technology Analyst Program Participant. <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Credit Suisse",
+            "company_id": "credit-suisse",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Army Institute of Technology (AIT), Pune",
+            "degree": "Bachelor of Engineering - BE",
+            "field": "Computer Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: Secretary of Math club, Joint Secretary of NSS club, Club Editor of Rotaract Club. Relevant Coursework: Data Structures and Algorithms, Principles of programming languages, Object Oriented Programming, Computer Graphics, Database Management Systems, Computer Networks, Systems Programming and operating systems, Design and Analysis of Algorithms, Web Technologies,Data Analytics, High Performance Computing, Data Mining and Warehousing, Artificial Intelligence and robotics, Software Testing and Quality Assurance, Machine Learning, Information and Cyber Security, Human… Show more",
+            "description_html": "Activities and Societies: Secretary of Math club, Joint Secretary of NSS club, Club Editor of Rotaract Club.",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Narayana Junior College , Nallakunta",
+            "degree": "12",
+            "field": "Science",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya Vidyalaya",
+            "degree": "10",
+            "field": "10 CGPA",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Deutsche Bank",
+    "publications": "[{\"title\":\"Load Balancing in Specific IOT Systems\",\"subtitle\":\"IEEE\",\"date\":\"August 4, 2021\",\"description\":\"We proposed a new hybrid approach for balancing the load on IOT Applications where we are already aware of the incoming traffic to our system from a specific device in a specified interval. We have found that static algorithms work better than dynamic algorithms for certain applications, so we have tried to combine features of dynamic load balancing with static to achieve optimum performance on various parameters. We propose this approach because it is easy to implement and its performance is very comparable to dynamic algorithms considering desirable features of both have been used to create the algorithm and minimize the drawbacks.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Image Steganography\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"• Wrote a java application to embed files into images using JavaIO and exploiting RGB Model.• Achieved file embedding with 8.3% image color data loss.\"},{\"title\":\"Snake Game\",\"start_date\":\"Aug 2019\",\"end_date\":\"Aug 2019\",\"description\":\"Built Classic Snake Game, a GUI based project in Java with Swing library.\"},{\"title\":\"Auto Wallpaper Setter\",\"start_date\":\"Sep 2018\",\"end_date\":\"Sep 2018\",\"description\":\"Java application to set and refresh wallpapers of your system with a configurable interval and configurable topics of interests.\"}]",
+    "honors_and_awards": null
+}

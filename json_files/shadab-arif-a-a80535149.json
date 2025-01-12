@@ -1,0 +1,284 @@
+{
+    "id": "shadab-arif-a-a80535149",
+    "name": "Shadab Arif A.",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "I am a dedicated and results-oriented Senior Data Scientist with a strong enthusiasm for…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Turing",
+        "company_id": "turingcom"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ramesh Vellanki",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohammad Ejazuddin",
+            "about": "Data Scientist at Daimler Financial Services",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshu Kumar",
+            "about": "Automated Driving (AI & ML) @ Mercedes Benz | Ex-Citi | IIT Delhi",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Reethima R",
+            "about": "Data Scientist at PayPal",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Goutham Venkatesh Karunakaran",
+            "about": "NLP Engineer | ML",
+            "location": "Trento"
+        },
+        {
+            "profile_link": "",
+            "name": "Saikat Bhowmick",
+            "about": "Senior Manager - Data Science at Fibe",
+            "location": "West Bengal, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikhil Kumar Mishra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Riya Roy",
+            "about": "Data Scientist (Senior Associate)",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shruti Agrawal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shiva Katepally",
+            "about": "Associate Vice President | Data Science | Gen AI",
+            "location": "India"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011-08",
+            "end_year": "2015-08",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"1\",\"title\":\"Advance Machine learning with Azure ML\"},{\"subtitle\":\"4\",\"title\":\"Data structure and algorithm in python\"},{\"subtitle\":\"1\",\"title\":\"Deep learning from udemy\"},{\"subtitle\":\"1\",\"title\":\"Improving hyper parameters in deep neural network\"},{\"subtitle\":\"1\",\"title\":\"Machine learning course sponsored by Stanford university\"},{\"subtitle\":\"1\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"1\",\"title\":\"Natural Language Processing from coursera\"},{\"subtitle\":\"1\",\"title\":\"Project management\"},{\"subtitle\":\"1\",\"title\":\"Python for data science\"},{\"subtitle\":\"1\",\"title\":\"R programming from coursera online platform\"},{\"subtitle\":\"1\",\"title\":\"Regression models from Coursera\"},{\"subtitle\":\"1\",\"title\":\"Risk management\"},{\"subtitle\":\"1\",\"title\":\"SQL\"},{\"subtitle\":\"1\",\"title\":\"Six Sigma \"},{\"subtitle\":\"1\",\"title\":\"Six sigma in quality control\"},{\"subtitle\":\"1\",\"title\":\"Statistics and probability\"},{\"subtitle\":\"-\",\"title\":\"Time series analysis with R programming \"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Arabic "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2023Credential ID 25179000See credential",
+            "subtitle": "Paytm",
+            "title": "Options Masterclass"
+        },
+        {
+            "meta": "Issued Jul 2021",
+            "subtitle": "Hacker",
+            "title": "Basics SQL"
+        },
+        {
+            "meta": "Issued Nov 2019Credential ID UC-63OUXO3ZSee credential",
+            "subtitle": "Udemy",
+            "title": "Data structure and algorithm in python"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Pyhton programming course from Udemy"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID WKHYZA4HKVDESee credential",
+            "subtitle": "Coursera",
+            "title": "Practical Time Series Analysis"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID 9QC2SQURBQB8See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID R27SDJ23WKGSSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2892.0,
+    "connections": 500.0,
+    "current_company_company_id": "turingcom",
+    "current_company_name": "Turing",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Twitter sentiment analysis\",\"start_date\":\"Jul 2019\",\"end_date\":\"Present\",\"description\":\"This is a project where natural language processing algorithm is used to divide the twitter statements about demonetization policy in good,positive,anger and different reviews. This is a very interesting project and I am doing it using python and scikit-learn inbuilt library.\"},{\"title\":\"Recommendation engine for movie ratings.\",\"start_date\":\"Jun 2019\",\"description\":\"A recommendation engine is a powerful tool to predict customer demand and business growth. In this project recommendation engine for movies has been built using user history data and movie ratings given by users. Collaborative based filtering for the item to item and user to user similarity has been used as well as matrix factorization method has been used.\"},{\"title\":\"Club Mahindra Challenge\",\"start_date\":\"May 2019\",\"description\":\"This was a data science challenge conducted by Club Mahindra through Analytics Vidhya. In this competition, the total amount spent on food for different resorts had to be predicted. I used the random forest to predict the response and I got a position on the leaderboard with RMSE of 111.\"},{\"title\":\"Prediction of number of upvotes\",\"start_date\":\"Jan 2019\",\"end_date\":\"Present\",\"description\":\"This is a machine learning challenge conducted by Analytics Vidhya in which the number of upvotes had to be predicted from queries asked in a website through a number of views, total answers are given and reputation score of the author giving an answer. I am able to get 14th rank among 950 participants\"},{\"title\":\"Time series analysis of daily female birth in California.\",\"start_date\":\"Oct 2018\",\"description\":\"Daily female birth of California has been forcasted and ARIMA model has been built.This was a part of exercise from practical time series analysis course of coursera.\"},{\"title\":\"ZS associate competition\",\"start_date\":\"Oct 2018\",\"description\":\"This project was a challenge organised by ZS associate. Best soldier rank has to be predicted with respect to various features.\"},{\"title\":\"Loan default prediction\",\"start_date\":\"Jan 2018\",\"description\":\"It was a loan default prediction problem organised by Analytics Vidhya. It was a binary classification problem. Logistic regression and other advanced machine learning algorithm such as random forest, XGboost, Navier's classifier etc are used for modelling and accuracy are compared.\"},{\"title\":\"MNIST Fashion Image Classification of 10 classes with Convolution Neural Network with Keras framework (Deep Learning)\",\"start_date\":\"Nov 2019\",\"end_date\":\"Dec 2019\",\"description\":\"Objective: To classify images of different pieces of clothing.Client & Data-Set: Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.Data-set is publicly available on kaggle and Zalando Fashion MNIST repository on Github.Fashion-MNIST is intended as direct drop-in replacement for the original MNIST dataset. It shares the same image size and structure of training and testing splits.Business Impact: E-commerce companies have lots of items for sale online which requires lots of images to be displayed on their websites, applications and on social media. And it takes lot of human power and time to separate these images into respective groups. This classifier which we are going to build helps businesses to categorize images into respective groups.Labels: Each training and test example is assigned to one of the following labels:• 0 - T-shirt/top • 1 - Trouser • 2 - Pullover • 3 - Dress • 4 - Coat • 5 - Sandal • 6 - Shirt • 7 - Sneaker • 8 - Bag • 9 - Ankle boot\"},{\"title\":\"Spam and Ham Classification\",\"start_date\":\"Oct 2019\",\"end_date\":\"Nov 2019\",\"description\":\"This is a ham-spam classification problem in which ham and spam email texts are classified using Natural Language Processing. Random Forest is used for predictive modelling. Confusion matrix is used as an evaluation metric for accuracy assessment.The steps involved in NLP are:1. Data Cleaning and preprocessing 1.1. Case Normalization: Required some information that if upper case and lower case words are in same category or different. 1.2. Removing Stopwords: Stopwords are words that can be excluded from texts without loosing information such as I, Be, Because, Being,etc. 1.3. Removing Punctuation: Punctuations such as ',.,!,etc, has to be removed from texts. 1.4. Tokenization: It is done to seperate each words. 1.5. Stemming/Lemmatising: Both of these techniques reduce inflection forms to normalise words with the same lemma.he difference between lemmatising and stemming is that lemmatising performs this reduction by considering the context of the word while stemming does not.2. Vectorizing Data: Frequency of a particular word in the total document. TF-IDF is used for vectorizing. TF-IDF is term frequency is (no. of times term i is used in document)/(total number of terms in documents) and IDF is logarithm of TF and TF-IDF is TF*IDF. 2.1. Vectorizing data n-gram: combination of n alternate terms is called n grams.3. Feature Engineering New features are created such as length of text after removing white space and percentage of punctuation in total texts. Final predictive model is built with random forest.\"},{\"title\":\"Time series analaysis of PM10\",\"start_date\":\"May 2018\",\"end_date\":\"May 2019\",\"description\":\"This is my master's thesis in which I have built a time series model and predictive models to predict PM10 for Anand Vihar, New Delhi area. The autoregressive integrated moving average model was finalised as the best time series model and feed forward artificial neural network model was selected as the best predictive model.\"}]",
+    "organizations": [
+        {
+            "title": "Snapqa",
+            "membership_type": "Tutor",
+            "start_date": "Jan 2017",
+            "end_date": "Present",
+            "description": "Online tutor for mechanical engineering and machine learning problems. Our students are from different countries and from different backgrounds.Subjects taught:ThermodynamicsFluid MechanicsSolid MechanicsStatisticsDifferential equationsLinear AlgebraCalculusSoftware and Languages:CC++Python'MatlabR",
+            "membership_number": null
+        },
+        {
+            "title": "L&T Construction",
+            "membership_type": "Post Graduate Engineer Trainee",
+            "start_date": "Jul 2019",
+            "end_date": "Dec 2019",
+            "description": "Project SchedulingCost AnalysisDigitalisationData Analysis",
+            "membership_number": null
+        }
+    ],
+    "location": "Bengaluru",
+    "linkedin_id": "shadab-arif-a-a80535149",
+    "activity": [
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "If Nitish Reddy completes 100 runs I will give 30% off in all my live bootcamp :)",
+            "img": "",
+            "id": "100"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "The ongoing trend in 2025 in the field of Generative AI will be Agentic AI and better or Low cost compute inferences. Excited to set my goals for…",
+            "img": "",
+            "id": "2025"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "It's the time to debug your stress and deploy joy and happiness! ❄️✨ Happy Holidays from Team Turing! 🎉 #HappyHolidays",
+            "img": "",
+            "id": "7276959745058463745"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "My friend is looking for interns skilled in Generative AI. 📩 If you're interested, DM me, and I'll connect you!",
+            "img": "",
+            "id": "7276556176304037888"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "This is the best feedback that I have got from my teachings. These kinds of transitions is my fuel to work harder and provide the best thing for…",
+            "img": "",
+            "id": "7276096983667236865"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "🎅🏼 DATA MODELLERS 🎅🏼 I'm still looking for a couple of contract Data Modellers to join our client from the 2nd January 2025! 🎄 erWin, Kimball,…",
+            "img": "",
+            "id": "7275554566501265408"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "Excited to share that we are expanding our internal hackathon (focused on Agentic AI) to our partners and the broader GenAI/Agentic AI…",
+            "img": "",
+            "id": "7275380374606651392"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "🚀 Director of Credit Risk Analytics & Decision Science - up to £185k - London 🚀 I am currently partnered with a consumer lending FinTech on a…",
+            "img": "",
+            "id": "7275156287812775936"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "Job opportunity: AI/ML Engineer at 29 LPA, for a consumer finance intelligence company. Be part of a company that: ➝ Has trained its advanced genAI…",
+            "img": "",
+            "id": "29"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "This Bangalore startup is disrupting Ola and Uber And their own customers helped them raise a million dollars to do it. I’m talking about Shoffr…",
+            "img": "",
+            "id": "7274819060402384896"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "Main H likhun HR ka hath uthe... I likhun HR appriasal type kare... Main K likhun HR boss se baat kare... Main E likhun boss 200% pe agree ho…",
+            "img": "",
+            "id": "7274474827560706048"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "#Bengaluru Police arrested Nikita, the wife of deceased #BengaluruTechie Subhash Atul, along with her mother and brother, in an abetment to suicide…",
+            "img": "",
+            "id": "7273917246169640960"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Shadab Arif A.",
+            "img": "",
+            "id": "7273352470590824448"
+        },
+        {
+            "interaction": "Liked by Shadab Arif A.",
+            "link": "",
+            "title": "🚨 Hiring Alert: Data Scientists in the UAE! 🚨 I am looking to connect with Data Scientists based in the UAE for an exciting opportunity in the…",
+            "img": "",
+            "id": "7272507034363719680"
+        }
+    ],
+    "linkedin_num_id": 601499328.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

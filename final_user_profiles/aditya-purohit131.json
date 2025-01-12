@@ -1,0 +1,124 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "SSE at Iksha Labs | Previously @Pramata",
+    "experience": [
+        {
+            "title": "Senior Software Engineer",
+            "description_html": null,
+            "duration": "Nov 2023 - Present 1 year 2 months",
+            "start_date": "Nov 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 2 months",
+            "company": "Iksha Labs",
+            "company_id": "iksha-labs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer (Full Stack)",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2021 Oct 2023 2 years 5 months",
+            "start_date": "Jun 2021",
+            "end_date": "Oct 2023",
+            "duration_short": "2 years 5 months",
+            "company": "Pramata",
+            "company_id": "pramata-corporation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer (Product)",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Nov 2020 Jun 2021 8 months",
+            "start_date": "Nov 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "8 months",
+            "company": "Ken Interactive",
+            "company_id": "ken-interactivepvtltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Engineering Intern",
+            "location": "Jaipur, Rajasthan, India",
+            "description_html": null,
+            "duration": "May 2019 Aug 2020 1 year 4 months",
+            "start_date": "May 2019",
+            "end_date": "Aug 2020",
+            "duration_short": "1 year 4 months",
+            "company": "Auriga IT Consulting Pvt Ltd",
+            "company_id": "aurigait",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Jaipur Area, India",
+            "description": "• Learned about the Software Development Life Cycle.• Learned about REST APIs• Worked on wireframes for a Cross-Platform Application.",
+            "description_html": "• Learned about the Software Development Life Cycle.• Learned about REST APIs• Worked on wireframes for a Cross-Platform Application. <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Memorres Digital Private Limited",
+            "company_id": "memorres",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Rajasthan Technical University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020Credential ID EBEC13D1A4BASee credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Intermediate)"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Google",
+            "title": "Crash Course on Python by Google"
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Government of India",
+            "title": "Smart India Hackathon Finalist 2020"
+        },
+        {
+            "meta": "Issued Feb 2019Credential ID 9CDQV4S6336NSee credential",
+            "subtitle": "Coursera",
+            "title": "Data Structures In Python"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID DTZR2J572XZ6See credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody(Python)"
+        }
+    ],
+    "current_company_name": "Iksha Labs",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Smart India Hackathon - Chat filtration system\",\"start_date\":\"Mar 2020\",\"end_date\":\"Aug 2020\",\"description\":\"Our concept involves implementing a machine learning solution to filter out inappropriate and irrelevant comments posted on various government and government-related organization websites and media platforms. This system utilizes machine learning techniques to analyze the tone of the messages and comments, coupled with Natural Language Processing (NLP) to enable our algorithm to comprehend the potential meaning of the text. Moreover, our goal is to provide language support for all languages spoken in India, ensuring comprehensive coverage.\"},{\"title\":\"Chatter(AI chat bot)\",\"start_date\":\"Jan 2020\",\"end_date\":\"Mar 2020\",\"description\":\"\\\"Chatter\\\" is a chatbot implementation that leverages Neural Machine Translation (NMT) with a sequence-to-sequence (seq2seq) architecture. It incorporates a tokenization mechanism similar to BPE (Byte-Pair Encoding) or WPM (WordPiece Model), which has been developed in-house. While the primary objective of this project is to create a robust NMT chatbot, it remains fully compatible with NMT and can be employed for sentence translations between two languages as well.\"},{\"title\":\"Mood Player\",\"start_date\":\"Jan 2020\",\"end_date\":\"Mar 2020\"},{\"title\":\"SEO calculator \",\"start_date\":\"Apr 2018\",\"end_date\":\"Apr 2018\",\"description\":\"This project is all about web crawling and basic python GUI with local search for static web pages.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Best Coder Award",
+            "publication": "Poornima Institute of Engineering & Technology",
+            "date": "2018-09-01T00:00:00.000Z",
+            "description": "Best coder award for securing 1st position with a cash prize of 2.1K at a sports programming contest conducted among 4 colleges with 200+ participants from all the years."
+        }
+    ]
+}

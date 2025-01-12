@@ -1,0 +1,399 @@
+{
+    "id": "prachibindal",
+    "name": "Prachi Bindal",
+    "city": "Faridabad, Haryana, India",
+    "country_code": "IN",
+    "position": "Software Engineer at CarePay",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "CarePay",
+        "company_id": "carepayin",
+        "title": "Software Engineer at CarePay"
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "CarePay",
+            "company_id": "carepayin",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Delhi, India",
+            "description": "Phocket is a fintech platform. I have worked on the credit analysis part which includes optimizing the already working code. Creating APIS for finding more entities like overdue messages, salary of a person, EMIs.",
+            "description_html": "Phocket is a fintech platform. I have worked on the credit analysis part which includes optimizing the already working code. Creating APIS for finding more entities like overdue messages, salary of a person, EMIs. <!---->",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Phocket - Instant Access to Cash",
+            "company_id": "phocket-instant-access-to-cash",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Remote",
+            "description": "This is a Machine Learning Web Application that can predict if a person has a Thyroid diseases or not.The datasets have been taken from ineuron. And overall analysis and model building for the diseases have been done in respective Jupyter Notebooks.",
+            "description_html": "This is a Machine Learning Web Application that can predict if a person has a Thyroid diseases or not.The datasets have been taken from ineuron. And overall analysis and model building for the diseases have been done in respective Jupyter Notebooks. <!---->",
+            "duration": "Jan 2023 Mar 2023 3 months",
+            "start_date": "Jan 2023",
+            "end_date": "Mar 2023",
+            "duration_short": "3 months",
+            "company": "iNeuron.ai",
+            "company_id": "ineuron-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core team Member",
+            "description_html": null,
+            "duration": "Aug 2021 Jul 2022 1 year",
+            "start_date": "Aug 2021",
+            "end_date": "Jul 2022",
+            "duration_short": "1 year",
+            "company": "GirlScript Foundation",
+            "company_id": "girlscript-foundation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Faridabad, Haryana, India",
+            "description": "My work revolves around NLP, data analysis, extracting important information from the data and using it to make  machine learning models.",
+            "description_html": "My work revolves around NLP, data analysis, extracting important information from the data and using it to make machine learning models. <!---->",
+            "duration": "Aug 2021 Jul 2022 1 year",
+            "start_date": "Aug 2021",
+            "end_date": "Jul 2022",
+            "duration_short": "1 year",
+            "company": "SwarYantra Technologies",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Content Writer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Nov 2020 Oct 2021 1 year",
+            "start_date": "Nov 2020",
+            "end_date": "Oct 2021",
+            "duration_short": "1 year",
+            "company": "GeeksforGeeks",
+            "company_id": "geeksforgeeks",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "DSC Core Team Member",
+            "location": "India",
+            "description_html": null,
+            "duration": "Sep 2020 Jul 2021 11 months",
+            "start_date": "Sep 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "11 months",
+            "company": "DSC UIET",
+            "company_id": "dsc-uiet",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Dinesh Kundu",
+            "about": "SDE-1 @Coding Ninjas || Ex SDE Intern @Coding Ninjas || Ex Intern @GeeksforGeeks || KGEC CSE",
+            "location": "Tamluk"
+        },
+        {
+            "profile_link": "",
+            "name": "Udit Garg",
+            "about": "SDE Samsung R&D | ACM ICPC Regionalist '20 '22 | Expert @ Codeforces | NITJ ECE'23",
+            "location": "Ludhiana"
+        },
+        {
+            "profile_link": "",
+            "name": "Shailja Priya",
+            "about": "Associate (SDE-2) @ Goldman Sachs",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Samyak Jain",
+            "about": "Associate software Engineer @Zscaler || NITRR'23 Information Technology",
+            "location": "Bilaspur"
+        },
+        {
+            "profile_link": "",
+            "name": "Adarsh Verma",
+            "about": "Software Engineer at Soroco",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanya Srivastava",
+            "about": "Software Engineer at Xperi Corporation (TiVo)",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansi Bhardwaj",
+            "about": "AI Prompt Intern- PocketFM | IIT Guwahati | TopFellow @NextLeap",
+            "location": "Bhiwani"
+        },
+        {
+            "profile_link": "",
+            "name": "Srijan De",
+            "about": "Building Products || Engineer@JusPay || Software Developer || Problem Solver || JGEC'22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anni Kumari",
+            "about": "SWE @Microsoft | SWE Intern Amex'22 | DSC Web Dept Lead'20 | CSE @NITP'22",
+            "location": "Patna"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranav Kotak",
+            "about": null,
+            "location": "Atlanta Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Riti Kumari",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayan Ghosal",
+            "about": "Senior Engineer at Samsung R&D, Bangalore | Innovator | Codeforces ~ Expert",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Jain",
+            "about": "SDE @Amazon | AWS, Spring, Hibernate, Docker and EKS | Empowering digital transformation through code",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hare Krishna",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Roshan Kumar",
+            "about": "Software Engineer 💻 @LeadSquared | Full-Stack Developer",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishal Maurya",
+            "about": "SDE - 2 @HashedIn By Deloitte | Ex - SDE Intern @HashedIn By Deloitte | Backend Developer | Java | Spring Boot | 3x GCP | 1x Azure",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Prantik Mukherjee",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rimjhim gupta",
+            "about": "Azure Data Engineer || Azure Certified",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Aanchal Tiwari",
+            "about": null,
+            "location": "Uttar Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rounak Neogy",
+            "about": "Software Developer - 1 @RMGX Technology LLP | Ex-Backend Intern @RMGX Technologies LLP| Ex-Senior Analyst Intern @Capgemini | Ex-SDE Intern @Lexmark | Ex-Backend Developer Extern @Crio | CDP Mentee @Expedia Groups",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Maharshi Dayanand University",
+    "education": [
+        {
+            "title": "Maharshi Dayanand University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Aggarwal Public School - India",
+            "degree": "CBSE",
+            "field": "non medical",
+            "description": "Activities and Societies: love playing badminton and reading book is my hobby. problem solver#coder",
+            "description_html": "Activities and Societies: love playing badminton and reading book is my hobby. problem solver#coder",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Linkedin Learning App",
+            "title": "Data Analytics Foundations"
+        },
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Linkedin Learning App",
+            "title": "Data Fluency Exploring and Describing Data "
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "Linkedin Learning App",
+            "title": "Applied Machine Learning"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "GirlScript Foundation",
+            "title": "Core Team Member"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "Linkedin Learning App",
+            "title": "Deep Learning"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "Swar Yantra Technologies",
+            "title": "Software Engineer Intern"
+        }
+    ],
+    "recommendations": [
+        "Vishal Dhiman. “Prachi is a highly committed professional and has demonstrated managing and teamwork skills. She is willing to put that extra help whenever you need it. Her expertise as a developer is considerable and I believe her work to be of high quality, and she would be a vital contributor to any team she works with.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 1318.0,
+    "connections": 500.0,
+    "current_company_company_id": "carepayin",
+    "current_company_name": "CarePay",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Faridabad",
+    "linkedin_id": "prachibindal",
+    "activity": [
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "This is the best feedback that I have got from my teachings. These kinds of transitions is my fuel to work harder and provide the best thing for…",
+            "img": null,
+            "id": "7276096983667236865"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "I was about to shutdown TUF (takeUforward) website early this year! Running TUF costed me somewhere around 5-8L (tech + salaries) every month…",
+            "img": null,
+            "id": "7277661874727321601"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "It's been a year since my dad passed away. On this occasion, my mom, Nikhil Kamath, Seema, and all of us at Zerodha are proud to help set up the…",
+            "img": null,
+            "id": "7278024255353602048"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "\"My boss takes meetings at 2 AM 😭!\" No, it’s not my boss but a recent Reddit, Inc. post claimed that Zepto CEO Aadit Palicha starts his work at 2…",
+            "img": "",
+            "id": "7270352453122875392"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "Taking a moment to appreciate this cute collab between Zepto & Shaadi.com 😎 Who would have expected a crossover between love and 10-minute delivery…",
+            "img": "",
+            "id": "7267056882744258560"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "I'm a non-technical co-founder, but I've made over one thousand contributions to our codebase in the past year. With AI tools, the gap between…",
+            "img": "",
+            "id": "7266141965493108736"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "Would you pay 20L to work for one of the best founders in the country?",
+            "img": "",
+            "id": "7265231121330651137"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "Here’s an update guys, Many people have been asking this to me that where I have been working currently 🤌🏻. I was not disclosing it because i was…",
+            "img": "",
+            "id": "7265013412361838594"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "(Position closed) 🌟 We’re Hiring Interns for Generative AI Development ! At The Machine Learning Company, we’re building cutting-edge AI solutions…",
+            "img": "",
+            "id": "7264538108937793538"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "At some point we were starting batches of +400 every week, it was getting impossible to manage. . We started a fellowship program mentoring students…",
+            "img": "",
+            "id": "7263471392522711040"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "Clear Your next System Design interview. Here are 25 system design interview questions commonly asked at top tech companies like Google, Meta…",
+            "img": "",
+            "id": "7263777537745436673"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "Recently got a chance to give interview in Google. And based on different companies interview experience, i can tell, their HR’s are best, few points…",
+            "img": "",
+            "id": "7262800243803500544"
+        },
+        {
+            "interaction": "Liked by Prachi Bindal",
+            "link": "",
+            "title": "We're Hiring! UI Designer Our team is growing, and we’re excited to bring on a talented UI Designer! If you’re passionate about designing engaging,…",
+            "img": "",
+            "id": "7262852709312004096"
+        }
+    ],
+    "linkedin_num_id": 764847997.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,248 @@
+{
+    "id": "rajat-roy-bba2a6199",
+    "name": "Rajat Roy",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "SDE-I @ Societe Generale | Specialized in Full Stack and Backend Solutions | IIT Kharagpur",
+    "about": "I am a dedicated and results-oriented professional with a passion for leveraging my expertise in full-stack software development to deliver high-impact solutions. With over a year of hands-on experience in developing and deploying code for production environments, I am adept at utilizing my analytical acumen and technical proficiency to craft innovative software solutions that effectively address real-world challenges. My commitment to creating high-quality, efficient, and user-friendly applications drives my pursuit of excellence in every project I undertake. I am eagerly seeking opportunities to contribute my skills and expertise to dynamic teams and projects within the software development industry.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Societe Generale Global Solution Centre",
+        "company_id": "societe_generale_global_solution_centre",
+        "title": "SDE-I @ Societe Generale | Specialized in Full Stack and Backend Solutions | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Engineered a data extraction tool with a React frontend and Spring Boot backend, reducing processing time by 80% for 200,000 entries, significantly boosting operational efficiency.- Developed scalable REST APIs with NestJS and Spring Boot, ensuring seamless data exchange and enhancing system resilience for high-volume transactions.- Implemented Excel upload and bulk delete functions in NestJS, reducing data entry time by 90% and processing 10,000 entries in under 60 seconds.- Achieved 90% storage efficiency by converting Trino query results to CSV and compressing into ZIP files for S3 upload.- Enhanced system stability by 25% through role-based access, audit trails, and thorough Jest and JUnit testing, reducing post-release bugs by 40%.- Orchestrated Kubernetes and Jenkins deployment for production, maintaining 99.99% uptime and reducing release time by 40%.",
+            "description_html": "- Engineered a data extraction tool with a React frontend and Spring Boot backend, reducing processing time by 80% for 200,000 entries, significantly boosting operational efficiency.- Developed scalable REST APIs with NestJS and Spring Boot, ensuring seamless data exchange and enhancing system resilience for high-volume transactions.- Implemented Excel upload and bulk delete functions in NestJS, reducing data entry time by 90% and processing 10,000 entries in under 60 seconds.- Achieved 90% storage efficiency by converting Trino query results to CSV and compressing into ZIP files for S3 upload.- Enhanced system stability by 25% through role-based access, audit trails, and thorough Jest and JUnit testing, reducing post-release bugs by 40%.- Orchestrated Kubernetes and Jenkins deployment for production, maintaining 99.99% uptime and reducing release time by 40%.",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Societe Generale Global Solution Centre",
+            "company_id": "societe_generale_global_solution_centre",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Societe Generale Global Solution Centre",
+            "company_id": "societe_generale_global_solution_centre",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Design Team Member",
+            "description_html": null,
+            "duration": "Aug 2018 Jan 2019 6 months",
+            "start_date": "Aug 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "6 months",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rahul .",
+            "about": "Ex-SWE @ Google | DTU '22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ujjwal Chakraborty",
+            "about": "Ex-Amazon SDE Intern | Software Developer @ TCS Digital for Apple Inc | 4 ⭐️ CodeChef | Strong in Problem Solving & DSA | Likes Competitive Programming",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Soumik Nandi",
+            "about": "SDE-2 at Amazon",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishab Pan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Mittal",
+            "about": "Software Engineer at Google",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Swapnil Narayan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Jaynish Prajapati",
+            "about": "SDE 2 at Amazon | Former SDE Intern at Amazon | Student at Nirma University, Ahmedabad, Gujarat, India",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Kumar Gour",
+            "about": null,
+            "location": "Dabra"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanskar Jethi",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehar Kaur",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Savitoj Singh",
+            "about": "SDE-2 at Amazon | Ex-Google",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishant Chahar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Monica Guduru",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sidharth Bansal",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditi Srivastava",
+            "about": "QA Engineer | SDET",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Arushi Garg",
+            "about": "SWE-III at Google | COE, NSIT'21",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Kajla",
+            "about": "SDE-2 @Atlassian • xIntuit • xAmazon || DTU (2016-2020) COE",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Bothra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Samidha Verma",
+            "about": "Google PhD Fellow'24 || PhD Scholar | ScAI IIT Delhi || Research interest : Graph Neural Networks, Adversarial Attacks, Explainable AI, LLMs for Graphs",
+            "location": "Agra"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree(Btech+Mtech)",
+            "field": "Electronics and Electrical Communication Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": [
+        "Amik Sen “I had the pleasure of working with Rajat Roy during our internship, and I can confidently say that he is an exceptional software engineer. Rajat consistently demonstrated outstanding work ethics and a deep technical knowledge that significantly contributed to our team's success. Rajat's dedication to his work is evident in every task he undertakes. He approaches each project with a positive attitude and a determination to deliver high-quality results. His ability to understand complex technical concepts and apply them effectively has been a tremendous asset to our team. Whether it's debugging a tricky issue or adding new features to various applications, Rajat always finds efficient and innovative solutions. We frequently collaborated on feature additions, and I was always impressed by Rajat's ability to quickly grasp the requirements and implement them flawlessly. His proficiency in multiple programming languages and frameworks, coupled with his eagerness to stay updated with the latest industry trends, sets him apart as a top-tier software engineer. Beyond his technical skills, Rajat is a great team player. He communicates clearly, provides constructive feedback, and is always willing to lend a hand to help others. His collaborative spirit and willingness to go the extra mile make him a valuable colleague and a pleasure to work with. I wholeheartedly recommend Rajat Roy for any software engineering role. His exceptional skills, strong work ethic, and positive attitude make him a fantastic addition to any team.”",
+        "Satyam Kumar “I had the pleasure of working alongside Rajat and mentoring him during his internship, and I wholeheartedly recommend him for any future endeavors. Rajat's dedication and enthusiasm were evident from day one, and it was a joy to see him grow and excel throughout our time working together. Rajat possesses a remarkable ability to quickly grasp complex concepts and apply them effectively in practical scenarios. His problem-solving skills were truly impressive, and he consistently delivered high-quality work on every project we collaborated on. Whether it was analysing data, developing strategies, or troubleshooting issues, Rajat approached each task with diligence and a positive attitude. Beyond his technical abilities, Rajat's professionalism and reliability set him apart. He demonstrated a strong work ethic and took ownership of his responsibilities, earning the trust and respect of both peers and seniors alike.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 1689.0,
+    "connections": 500.0,
+    "current_company_company_id": "societe_generale_global_solution_centre",
+    "current_company_name": "Societe Generale Global Solution Centre",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "rajat-roy-bba2a6199",
+    "activity": [
+        {
+            "interaction": "Liked by Rajat Roy",
+            "link": "",
+            "title": "I participated in #𝐜𝐨𝐝𝐞𝐟𝐨𝐫𝐜𝐞𝐬 Round 988 and managed to solve all the problems. It was an nice contest with a reasonable level of…",
+            "img": "",
+            "id": "7263965522612895744"
+        },
+        {
+            "interaction": "Liked by Rajat Roy",
+            "link": "",
+            "title": "#FreshersFamilia2024 is live in action with our Bangalore Young Grads raising the roof. An evening of music, fashion, food and cultural extravagance…",
+            "img": "",
+            "id": "7264605034661703680"
+        },
+        {
+            "interaction": "Liked by Rajat Roy",
+            "link": "",
+            "title": "Hey Folks! I took part in a Codeforces Round after a long time! It was super fun. The round was a div 4 contest. I was able to solve all the problems…",
+            "img": "",
+            "id": "7226639065952006144"
+        },
+        {
+            "interaction": "Liked by Rajat Roy",
+            "link": "",
+            "title": "JPMorgan Chase & Co. is hiring for fresher/Experienced analyst Experience :0-5 Years Do share in your network! Refer Candidates in your…",
+            "img": "",
+            "id": "7184429805012955137"
+        },
+        {
+            "interaction": "Liked by Rajat Roy",
+            "link": "",
+            "title": "ICPC has been a game changer for me. Every time I say I am an ICPC World Finalist, either during an interview or while talking to any person in tech,…",
+            "img": "",
+            "id": "7173609836725620736"
+        }
+    ],
+    "linkedin_num_id": 780058942.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

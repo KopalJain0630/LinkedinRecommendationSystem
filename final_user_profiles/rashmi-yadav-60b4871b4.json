@@ -1,0 +1,155 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Serving Notice Period|Software Engineer at Tekion Corp|| Ex ASDE-2 at Publicis-Sapient | Ex-SDE Intern at Amdocs| 3* Leetcode | Microsoft Engage'21 Mentee| AWS certified|Google cloud certified",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Tekion Corp",
+            "company_id": "tekion",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Publicis Sapient",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Publicis Sapient",
+                    "meta": "Jan 2024 - Aug 2024 8 months",
+                    "duration": "Jan 2024 Aug 2024 8 months",
+                    "start_date": "Jan 2024",
+                    "end_date": "Aug 2024",
+                    "duration_short": "8 months",
+                    "title": "Associate software development Engineer -2",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Publicis Sapient",
+                    "meta": "Feb 2023 - Jan 2024 1 year",
+                    "duration": "Feb 2023 Jan 2024 1 year",
+                    "start_date": "Feb 2023",
+                    "end_date": "Jan 2024",
+                    "duration_short": "1 year",
+                    "title": "Associate software Development Engineer -1",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Publicis Sapient",
+                    "meta": "Jul 2022 - Feb 2023 8 months",
+                    "duration": "Jul 2022 Feb 2023 8 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Feb 2023",
+                    "duration_short": "8 months",
+                    "title": "Trainee Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "Publicis Sapient",
+            "company_id": "publicissapient",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software developer intern",
+            "location": "India",
+            "description_html": null,
+            "duration": "Feb 2022 Jul 2022 6 months",
+            "start_date": "Feb 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "6 months",
+            "company": "Amdocs",
+            "company_id": "amdocs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Content Developer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Oct 2021 Feb 2022 5 months",
+            "start_date": "Oct 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "5 months",
+            "company": "Dare2Compete",
+            "company_id": "unstop",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "MicrosoftEngage",
+            "description_html": null,
+            "duration": "Nov 2021 Dec 2021 2 months",
+            "start_date": "Nov 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "2 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern at Oasis tech",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "OASIS TECH",
+            "company_id": "oasistech-innovations",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Traning",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Oct 2020 Dec 2020 3 months",
+            "start_date": "Oct 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "3 months",
+            "company": "Zensar Technologies",
+            "company_id": "zensar",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Savitri Bai Phule Pune University",
+            "degree": "Bachelor of Engineering - BE",
+            "field": "Computer Science",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023Expires Apr 2026Credential ID 71374830See credential",
+            "subtitle": "Google cloud ",
+            "title": "Cloud Digital Leader"
+        },
+        {
+            "meta": "Issued Dec 2022Expires Dec 2025See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Cloud Practitioner"
+        }
+    ],
+    "current_company_name": "Tekion Corp",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

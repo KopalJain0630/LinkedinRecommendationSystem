@@ -1,0 +1,408 @@
+{
+    "id": "abhiprai-misra",
+    "name": "Abhiprai Misra",
+    "city": "Dubai, United Arab Emirates",
+    "country_code": "AE",
+    "position": "Schonfeld",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Schonfeld",
+        "company_id": "schonfeld-group",
+        "title": "Schonfeld"
+    },
+    "experience": [
+        {
+            "title": "Discretionary Macro and Fixed Income",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "Jul 2021 - Present 3 years 6 months",
+            "start_date": "Jul 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 6 months",
+            "company": "Schonfeld",
+            "company_id": "schonfeld-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "Sep 2019 Jun 2021 1 year 10 months",
+            "start_date": "Sep 2019",
+            "end_date": "Jun 2021",
+            "duration_short": "1 year 10 months",
+            "company": "Matador Investment Management Limited",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Mumbai Area, India",
+            "description": "Cross Asset PnL Attribution- Analyzed various factors impacting daily MTM prices of Interest Rate Swaps, Bonds, Equity Vanilla Options, Swaptions- Successfully implemented and coded the PnL attribution system; Presented and pitched the project to client banksGPU computing for CVA calculation- Developed GPU computation engine for Monte Carlo CVA calculation using OpenCL, APARAPI, JLWGL librariesReceived Pre-Placement Offer for exemplary performance during the internship",
+            "description_html": "Cross Asset PnL Attribution- Analyzed various factors impacting daily MTM prices of Interest Rate Swaps, Bonds, Equity Vanilla Options, Swaptions- Successfully implemented and coded the PnL attribution system; Presented and pitched the project to client banksGPU computing for CVA calculation- Developed GPU computation engine for Monte Carlo CVA calculation using OpenCL, APARAPI, JLWGL librariesReceived Pre-Placement Offer for exemplary performance during the internship",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "FinMechanics",
+            "company_id": "finmechanics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative Analyst Intern",
+            "location": "London, United Kingdom",
+            "description": "- Analyzed and studied the effect of various macro-economic factors on returns of S&P 500 index, quantified their impacts- Developed models to predict index returns by performing regression and statistical analysis in various market scenarios- Successfully implemented the models, achieved an accurate prediction rate of 71% in out of sample testing period",
+            "description_html": "- Analyzed and studied the effect of various macro-economic factors on returns of S&amp;P 500 index, quantified their impacts- Developed models to predict index returns by performing regression and statistical analysis in various market scenarios- Successfully implemented the models, achieved an accurate prediction rate of 71% in out of sample testing period <!---->",
+            "duration": "Dec 2017 Jan 2018 2 months",
+            "start_date": "Dec 2017",
+            "end_date": "Jan 2018",
+            "duration_short": "2 months",
+            "company": "GNY Capital",
+            "company_id": "gny-capital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Global Alpha Researcher",
+            "description": "- Developed profitable medium-frequency, market neutral trading signals for various global equity markets- Analyzed the technical and fundamental data of firms for trading statistical arbitrage opportunities in global equities- Investigated and implemented recent academic research to identify potentially profitable market inefficiencies",
+            "description_html": "- Developed profitable medium-frequency, market neutral trading signals for various global equity markets- Analyzed the technical and fundamental data of firms for trading statistical arbitrage opportunities in global equities- Investigated and implemented recent academic research to identify potentially profitable market inefficiencies <!---->",
+            "duration": "Aug 2016 Sep 2017 1 year 2 months",
+            "start_date": "Aug 2016",
+            "end_date": "Sep 2017",
+            "duration_short": "1 year 2 months",
+            "company": "Trexquant Investment LP",
+            "company_id": "trexquant-investment-lp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shames AlShamsi, CFA",
+            "about": null,
+            "location": "Abu Dhabi Emirate, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanat Sachar, CFA",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Jad Tamim El Jarkass, CFA",
+            "about": null,
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Hussein Elshaarawy",
+            "about": "Investment Banking Associate at EFG Hermes",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Majed Alghfeli",
+            "about": "Post Award Grant Specialist at AUS",
+            "location": "Sharjah Emirate, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Darwish AlNeyadi",
+            "about": "Chemical Engineer with experiences in chemical related projects and interests in economical analysis and programing.",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "CA Prateek Ohri",
+            "about": "Finance Manager || Qualified CA || MSc. in Accounting & Finance || Diploma in IFRS from ACCA || AI Enthusiast ||",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Hamda Al Qubaisi",
+            "about": "Talent Acquisition Senior Associate at Abu Dhabi Investment Authority (ADIA)",
+            "location": "Abu Dhabi Emirate, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranay Laungani",
+            "about": "Investment Management | Real Estate Development | Financial Modelling Expert",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Nasser Alefari",
+            "about": null,
+            "location": "Abu Dhabi Emirate, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Rizwan Ahmed",
+            "about": "Business Analyst",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Ramzi Kattouf",
+            "about": "Associate | Debt Capital Markets at J.P. Morgan",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Wissam Hassan, CMA",
+            "about": "Associate - MENA & Turkey for Non-Japanese Corporates, FIG, & SWF",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Athira Mallissery",
+            "about": "Finance & Risk Management Graduate, University of Bath | ex-JP Morgan Chase & Co",
+            "location": "London Area, United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Ansh Kapadia",
+            "about": "Associate at Wahed",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Yaseen Habib - ACCA, UAECA",
+            "about": null,
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Megha Majo",
+            "about": "Investment Operations Officer -Aditum - DIFC Dubai",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Wanjiku K.",
+            "about": "Follower of Jesus Christ | Banker | Actuarial Analyst | Medical Underwriter | Education Enthusiast",
+            "location": "Nairobi County, Kenya"
+        },
+        {
+            "profile_link": "",
+            "name": "Gladson Joseph",
+            "about": "Analyst",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Abdulla Khoory",
+            "about": "General Manager - National Store",
+            "location": "Dubai, United Arab Emirates"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Delhi",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "degree": "Bachelor’s Degree",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": "Activities and Societies: General Secretary - Chemical Engineering Society, Overall Coordinator - Economics Club, Overall Coordinator - Industry Day",
+            "description_html": "Activities and Societies: General Secretary - Chemical Engineering Society, Overall Coordinator - Economics Club, Overall Coordinator - Industry Day",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Hiroshima University",
+            "degree": "International Linkage Degree Program",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"CFA Exam Level III Candidate.\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2021",
+            "subtitle": "CFA Institute",
+            "title": "Passed CFA Level 3"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "CFA Institute",
+            "title": "Passed CFA Level 2"
+        },
+        {
+            "meta": "Issued Jun 2018See credential",
+            "subtitle": "CFA Institute",
+            "title": "Passed CFA Level 1"
+        },
+        {
+            "meta": "Issued Jul 2016",
+            "subtitle": "National Stock Exchange of India",
+            "title": "NSE Certified Investment Analyst Pro"
+        },
+        {
+            "meta": "Issued Jul 2016",
+            "subtitle": "National Stock Exchange of India",
+            "title": "NSE Certified Market Professional- Level 2"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Nov 2018 - Dec 2018 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Dec 2018",
+            "start_date": "Nov 2018",
+            "subtitle": "National Association For the Blind (NAB)",
+            "title": "Teaching Volunteer"
+        }
+    ],
+    "followers": 1352.0,
+    "connections": 500.0,
+    "current_company_company_id": "schonfeld-group",
+    "current_company_name": "Schonfeld",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Artificial Neural Network Modelling\",\"start_date\":\"Jul 2018\",\"end_date\":\"Dec 2018\",\"description\":\"Programmed a dual hidden layer feed-forward neural network model to predict the optimal operating conditions for a desalination sweeping gas membrane distillation membrane\"},{\"title\":\"Efficient Route in a Road Network\",\"start_date\":\"Mar 2018\",\"end_date\":\"Apr 2018\",\"description\":\"- Represented a traffic network model(with roads and junctions) via Graphs in C++ with options to add or demolish road/road-junction- Implemented 'Dijsktra's Algorithm' and 'Minimum Spanning Tree' using Priority Queue to find spanning & quickest travel route\"},{\"title\":\"Market Data Publisher via AVL Tree\",\"start_date\":\"Feb 2018\",\"end_date\":\"Mar 2018\",\"description\":\"- Implemented AVL tree structure in C++ with a parameter maintaining data operations like insertion and deletion- Published and updated price associated with the Company ID if minimum threshold regarding price change is met\"},{\"title\":\"Web page connectivity info via Sparse matrices\",\"start_date\":\"Feb 2018\",\"end_date\":\"Mar 2018\",\"description\":\"- Implemented part of the PageRank algorithm used in Google Search Engine handling large-order web connectivity- Performed multiple operations on billions of web pages’ data stored in the sparse matrix via Multiple Circular Linked list in C++\"},{\"title\":\"Numerical Solution of Vintage Capital Growth Models\",\"start_date\":\"Sep 2016\",\"end_date\":\"Nov 2016\",\"description\":\"-Examined techniques for the analytical and numerical solutions of the Solow's Vintage Capital Growth Model.-Solved and analyzed the differential - difference type equations formulated in the mathematical models on MATLAB.-Predicted the production outcome by extending the Solow's Model by including the labor function and time function.\"}]",
+    "organizations": null,
+    "location": "Dubai",
+    "linkedin_id": "abhiprai-misra",
+    "activity": [
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "Yesterday, we celebrated our daughter's first birthday, marking a year of incredible growth and learning for both of us. I am deeply grateful to…",
+            "img": null,
+            "id": "7221200053506387969"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "Hurray! The Big Blue & The Magical Blue coming together for the first time #IBM, known as The Big Blue & TechCurators, a TC Group Company known as…",
+            "img": null,
+            "id": "7211971539196424192"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": " We look forward to providing Risk, Pricing, world-class data capabilities to a wider section of the financial markets with…",
+            "img": "",
+            "id": "7012029047287222272"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "I’m delighted to share that I'll be joining Meta as a SWE in February 2023 in the Menlo Park office, CA. This summer I interned at Meta working on…",
+            "img": "",
+            "id": "6970817487089078272"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "Spot Arbitrage. Owen Minde, CFA Peter Plester, ACI I found a copy. Filmed by Edward Howorka Circa 2005, US trade data. This recording was post an…",
+            "img": "",
+            "id": "6964136377009508354"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "I’m incredibly honored and thrilled to share that I’ll be pursuing my MBA at the Cornell Johnson Graduate School of Management this fall as a Forte…",
+            "img": "",
+            "id": "6954865529572483072"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "Dear network, I'm thrilled to announce that I will be joining Morgan Stanley's Fixed Income division as an Associate for a Fall Internship in New…",
+            "img": "",
+            "id": "6940872159451918336"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "There were challenges and complications at every turn, but I am thrilled at what we created at 78 St James's Street. The end result is spectacular…",
+            "img": "",
+            "id": "6935223110564532224"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "Today we announced to the team that we are moving all full time salaried employees to a 4 day week! We already measure our teams based on output not…",
+            "img": "",
+            "id": "6922867319782174720"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "Finmechanics delivers Risk-Free Rate conversion SaaS Libor transition in most currencies require swap participants to move from forward looking rate…",
+            "img": "",
+            "id": "6890571121578647552"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "IIT Delhi Alumnus Pledges Rs. 11 Cr (~ USD 1.5 Million) to IIT Delhi Endowment Fund We are pleased to share that our Alumnus Mr. Mohit Mittal…",
+            "img": "",
+            "id": "6887414176881360896"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "Is the market driven by fundamentals or by emotions ? A fun and interesting analysis in this paper by Professor Alex Edmans",
+            "img": "",
+            "id": "6880102220323536896"
+        },
+        {
+            "interaction": "Liked by Abhiprai Misra",
+            "link": "",
+            "title": "With what is going on in markets we do have a fun FED anniversary to celebrate today. December 5, 1996 was when GREENSPAN gave the famous…",
+            "img": "",
+            "id": "6873262650898423808"
+        }
+    ],
+    "linkedin_num_id": 449621407.0,
+    "honors_and_awards": [
+        {
+            "title": "Semester Merit Award",
+            "publication": "IIT Delhi",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Summer Undergraduate Research Award",
+            "publication": "Institute Research and Development Unit, IIT Delhi",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Undergraduate Teaching Assistanat",
+            "publication": "IIT Delhi",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "KVPY Fellowship",
+            "publication": "Department of Science and Technology, Govt. of India",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Scholar's Gold Medal",
+            "publication": "Delhi Public School, Faridabad",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

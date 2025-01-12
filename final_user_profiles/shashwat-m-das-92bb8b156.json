@@ -1,0 +1,183 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer | Software and AI | IIT Kharagpur '22",
+    "experience": [
+        {
+            "title": "SDE 2(Founding Engineer)",
+            "description_html": null,
+            "duration": "Feb 2024 Sep 2024 8 months",
+            "start_date": "Feb 2024",
+            "end_date": "Sep 2024",
+            "duration_short": "8 months",
+            "company": "Unsuit Legal Technologies",
+            "company_id": "unsuit-legal-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jun 2022 Jan 2024 1 year 8 months",
+            "start_date": "Jun 2022",
+            "end_date": "Jan 2024",
+            "duration_short": "1 year 8 months",
+            "company": "Coda Payments",
+            "company_id": "coda",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Developed the cross-platform childcare application using React Native• Built the backend using GraphQL and AWS services like SES, S3, etc., imple-mented ElastiCache, reducing fetching time by upto 60% for various APIs• Integrated Twilio WebRTC for video calling feature and Firebase for chat• Revamped and built a horizontally scalable server architecture using ElasticBeanstalk and a CI/CD pipeline using CircleCI and CodeDeploy decreasingdeploy time by 80% and server down time by 90%",
+            "description_html": "• Developed the cross-platform childcare application using React Native• Built the backend using GraphQL and AWS services like SES, S3, etc., imple-mented ElastiCache, reducing fetching time by upto 60% for various APIs• Integrated Twilio WebRTC for video calling feature and Firebase for chat• Revamped and built a horizontally scalable server architecture using ElasticBeanstalk and a CI/CD pipeline using CircleCI and CodeDeploy decreasingdeploy time by 80% and server down time by 90%",
+            "duration": "Oct 2021 May 2022 8 months",
+            "start_date": "Oct 2021",
+            "end_date": "May 2022",
+            "duration_short": "8 months",
+            "company": "Krate",
+            "company_id": "krate-fashion",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneurship Cell, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "3 years 9 months",
+            "positions": [
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Jun 2021 - Apr 2022 11 months",
+                    "duration": "Jun 2021 Apr 2022 11 months",
+                    "start_date": "Jun 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "11 months",
+                    "title": "Student Coordinator",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "May 2020 - May 2021 1 year 1 month",
+                    "duration": "May 2020 May 2021 1 year 1 month",
+                    "start_date": "May 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "1 year 1 month",
+                    "title": "Senior Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Nov 2019 - May 2020 7 months",
+                    "duration": "Nov 2019 May 2020 7 months",
+                    "start_date": "Nov 2019",
+                    "end_date": "May 2020",
+                    "duration_short": "7 months",
+                    "title": "Associate Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Mar 2019 - Nov 2019 9 months",
+                    "duration": "Mar 2019 Nov 2019 9 months",
+                    "start_date": "Mar 2019",
+                    "end_date": "Nov 2019",
+                    "duration_short": "9 months",
+                    "title": "Associate Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Aug 2018 - Nov 2019 1 year 4 months",
+                    "description": "As a GES Intern, publicized Global Entrepreneurship Summit 2019 in Patna and managed the STR of registration desk in Global Entrepreneurship Summit 2019. I also contributed to the GES 2019 and Startin 9.0 websites.",
+                    "duration": "Aug 2018 Nov 2019 1 year 4 months",
+                    "start_date": "Aug 2018",
+                    "end_date": "Nov 2019",
+                    "duration_short": "1 year 4 months",
+                    "title": "GES Intern",
+                    "description_html": "As a GES Intern, publicized Global Entrepreneurship Summit 2019 in Patna and managed the STR of registration desk in Global Entrepreneurship Summit 2019. I also contributed to the GES 2019 and Startin 9.0 websites. <!---->"
+                }
+            ],
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "SDE Intern",
+            "description": "• Built a Slack Bot and slack notification service using Spring Boot, Kafka andMongoDB with automated messaging system decreasing response time ofsupport team by 40% and engagement by around 20%• Built an listener-processor architecture to process heavy API calls asyn-chronously using Spring Boot and Kafka",
+            "description_html": "• Built a Slack Bot and slack notification service using Spring Boot, Kafka andMongoDB with automated messaging system decreasing response time ofsupport team by 40% and engagement by around 20%• Built an listener-processor architecture to process heavy API calls asyn-chronously using Spring Boot and Kafka <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "MTX Group",
+            "company_id": "mtx-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Engineering Intern",
+            "location": "New Delhi, Delhi, India",
+            "description": "• Developed an npm package for Reactjs and a Gatsby Plugin for Gatsby web apps respectively, to integrate VWO(vwo.com) smartcode directly into the application.• Handled the backend for Event Architecture deployment from VWO editor.• Created a cron job to constantly optimize production MySQL table, keeping data size in check.• Changed the system to save heavy data in compressed format (GZIP encoding) and decoding data when needed.• Wrote backend APIs for a search engine called Kroomsa.",
+            "description_html": "• Developed an npm package for Reactjs and a Gatsby Plugin for Gatsby web apps respectively, to integrate VWO(vwo.com) smartcode directly into the application.• Handled the backend for Event Architecture deployment from VWO editor.• Created a cron job to constantly optimize production MySQL table, keeping data size in check.• Changed the system to save heavy data in compressed format (GZIP encoding) and decoding data when needed.• Wrote backend APIs for a search engine called Kroomsa.",
+            "duration": "Jan 2021 Mar 2021 3 months",
+            "start_date": "Jan 2021",
+            "end_date": "Mar 2021",
+            "duration_short": "3 months",
+            "company": "Wingify",
+            "company_id": "wingify",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "•Developed a cross-platform mobile application, for customer use integrating services like package tracking, philately, etc. using React Native .•Developed another cross-platform mobile application for delivery of packages and bags from one location to another. Developed functionalities for keeping track of packages at various stages, scanning barcodes using phone camera or bluetooth scanner,  etc.",
+            "description_html": "•Developed a cross-platform mobile application, for customer use integrating services like package tracking, philately, etc. using React Native .•Developed another cross-platform mobile application for delivery of packages and bags from one location to another. Developed functionalities for keeping track of packages at various stages, scanning barcodes using phone camera or bluetooth scanner, etc. <!---->",
+            "duration": "Jun 2020 Dec 2020 7 months",
+            "start_date": "Jun 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "7 months",
+            "company": "Reason Solutions",
+            "company_id": "reason-solutions",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "D.A.V. Public School, B.S.E.B. ,Patna",
+            "degree": "+2",
+            "field": "Mathematics",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Homi Bhabha Centre for Science Education (HBCSE), TIFR",
+            "title": "Regional Mathematics Olympiad(RMO)"
+        }
+    ],
+    "current_company_name": "Unsuit Legal Technologies",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

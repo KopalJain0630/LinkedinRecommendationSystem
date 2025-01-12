@@ -1,0 +1,568 @@
+{
+    "id": "habibur-rahaman-00a37117a",
+    "name": "Habibur Rahaman",
+    "city": "Gainesville, Florida, United States",
+    "country_code": "US",
+    "position": "Research Assistant in ECE Department at University of Florida",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Intel Corporation",
+        "company_id": "intel-corporation",
+        "title": "Research Assistant in ECE Department at University of Florida"
+    },
+    "experience": [
+        {
+            "title": "Graduate Research Intern",
+            "location": "Santa Clara County, California, United States",
+            "description": "Working on SoC based Security",
+            "description_html": "Working on SoC based Security <!---->",
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Intel Corporation",
+            "company_id": "intel-corporation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Florida, United States",
+            "description": "PhD in Electrical and Computer EngineeringAdvisor: Prof. Swarup BhuniaResearch Focus: Hardware Security\t•\tImplementation and verification of Gate-Level, RTL-Level, and FPGA-based hardware Trojans.\t•\tInvestigating State Space Obfuscation techniques for protecting hardware IP in practical applications.\t•\tPrimary research area: Developing adversarial defense mechanisms at the hardware level, specifically for AI hardware systems.",
+            "description_html": "PhD in Electrical and Computer EngineeringAdvisor: Prof. Swarup BhuniaResearch Focus: Hardware Security • Implementation and verification of Gate-Level, RTL-Level, and FPGA-based hardware Trojans. • Investigating State Space Obfuscation techniques for protecting hardware IP in practical applications. • Primary research area: Developing adversarial defense mechanisms at the hardware level, specifically for AI hardware systems. <!---->",
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "University of Florida",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "NPTEL",
+            "description_html": null,
+            "duration": "4 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "NPTEL",
+                    "meta": "Apr 2022 - Present 2 years 9 months",
+                    "description": "Teaching Assistant for the Course of Operating System under Prof. Santanu Chattopadhyay",
+                    "duration": "Apr 2022 - Present 2 years 9 months",
+                    "start_date": "Apr 2022",
+                    "end_date": "Present",
+                    "duration_short": "2 years 9 months",
+                    "title": "Teaching Assistant",
+                    "description_html": "Teaching Assistant for the Course of Operating System under Prof. Santanu Chattopadhyay <!---->"
+                },
+                {
+                    "subtitle": "NPTEL",
+                    "meta": "Nov 2021 - Apr 2022 6 months",
+                    "description": "Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay",
+                    "duration": "Nov 2021 Apr 2022 6 months",
+                    "start_date": "Nov 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "6 months",
+                    "title": "Teaching Assistant",
+                    "description_html": "Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay <!---->"
+                },
+                {
+                    "subtitle": "NPTEL",
+                    "meta": "May 2021 - Nov 2021 7 months",
+                    "description": "Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay",
+                    "duration": "May 2021 Nov 2021 7 months",
+                    "start_date": "May 2021",
+                    "end_date": "Nov 2021",
+                    "duration_short": "7 months",
+                    "title": "Teaching Assistant",
+                    "description_html": "Teaching Assistant for the course of Operating System under Prof. Santanu Chattopadhyay <!---->"
+                },
+                {
+                    "subtitle": "NPTEL",
+                    "meta": "Jan 2021 - May 2021 5 months",
+                    "description": "Teaching Assistant for the course of Compiler Design under  Prof. Santanu Chattopadhyay",
+                    "duration": "Jan 2021 May 2021 5 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "May 2021",
+                    "duration_short": "5 months",
+                    "title": "Teaching Assistant",
+                    "description_html": "Teaching Assistant for the course of Compiler Design under Prof. Santanu Chattopadhyay <!---->"
+                },
+                {
+                    "subtitle": "NPTEL",
+                    "meta": "Jul 2020 - Dec 2020 6 months",
+                    "description": "Teaching Assistant for the course of Digital Circuits under  Prof. Santanu Chattopadhyay",
+                    "duration": "Jul 2020 Dec 2020 6 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Dec 2020",
+                    "duration_short": "6 months",
+                    "title": "Teaching Assistant",
+                    "description_html": "Teaching Assistant for the course of Digital Circuits under Prof. Santanu Chattopadhyay <!---->"
+                }
+            ],
+            "company": "NPTEL",
+            "company_id": "nptel",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "DFT Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "DFT Intern At Intel Corporation",
+            "description_html": "DFT Intern At Intel Corporation <!---->",
+            "duration": "Jun 2021 Aug 2022 1 year 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2022",
+            "duration_short": "1 year 3 months",
+            "company": "Intel Corporation",
+            "company_id": "intel-corporation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Researcher",
+            "location": "Banaras, India",
+            "description": "Emergency Evacuation System for Shortest-Safe Path Navigation in Dynamic Fire Regions Using IoT-enabled WSNs Using Prof. Prasenjit Chanak",
+            "description_html": "Emergency Evacuation System for Shortest-Safe Path Navigation in Dynamic Fire Regions Using IoT-enabled WSNs Using Prof. Prasenjit Chanak <!---->",
+            "duration": "Jan 2022 Jun 2022 6 months",
+            "start_date": "Jan 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "6 months",
+            "company": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "description_html": null,
+            "duration": "1 year 3 months",
+            "positions": [
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Jan 2020 - May 2022 2 years 5 months",
+                    "description": "Masters in Department of Computer Science and Engineering. Cgpa 9.71",
+                    "duration": "Jan 2020 May 2022 2 years 5 months",
+                    "start_date": "Jan 2020",
+                    "end_date": "May 2022",
+                    "duration_short": "2 years 5 months",
+                    "title": "Masters in Department of Computer Science and Engineering",
+                    "description_html": "Masters in Department of Computer Science and Engineering. Cgpa 9.71 <!---->"
+                },
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Aug 2021 - Jan 2022 6 months",
+                    "description": "Teaching Assistant in CS60013:  SMST Programming And Data Structure Theory",
+                    "duration": "Aug 2021 Jan 2022 6 months",
+                    "start_date": "Aug 2021",
+                    "end_date": "Jan 2022",
+                    "duration_short": "6 months",
+                    "title": "Teaching Assistant",
+                    "description_html": "Teaching Assistant in CS60013: SMST Programming And Data Structure Theory <!---->"
+                },
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Mar 2021 - Jul 2021 5 months",
+                    "description": "Teaching Assistant in CS19001:  Programming And Data Structure Lab",
+                    "duration": "Mar 2021 Jul 2021 5 months",
+                    "start_date": "Mar 2021",
+                    "end_date": "Jul 2021",
+                    "duration_short": "5 months",
+                    "title": "Teaching Assistant",
+                    "description_html": "Teaching Assistant in CS19001: Programming And Data Structure Lab <!---->"
+                }
+            ],
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur",
+            "description_html": "Development of a Distributed Security Application using Blockchain Technology under the supervision of Prof. Indranil Sengupta , Department of Computer Science and Engineering, IIT Kharagpur <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur , Department of Computer Science and Engineering",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sukriti Gupta",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Sankalpa Venkatraghavan",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Riya Baviskar",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreya Sharma",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansi Varshney",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Darshan Mehta",
+            "about": "Machine Learning Engineer | Proficient Python Developer | SAFe Agile Practitioner",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Neharika Jali",
+            "about": "PhD Candidate @ CMU | IIT Bombay",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Janhavi Prabhu",
+            "about": "Associate AI Scientist @ Qure.ai",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dheeraj Reddy Pailla",
+            "about": "Senior Software Engineer at Walmart",
+            "location": "San Jose, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Konark Verma",
+            "about": "SDE-3@Denso | CSE@IIT-Delhi",
+            "location": "Tokyo, Japan"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master's degree",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": "Thesis Entitled: “Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits” Advisor: Prof. Indranil Sengupta & Prof. Santanu Chattopadhyay",
+            "description_html": "Thesis Entitled: “Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”Advisor: Prof. Indranil Sengupta &amp; Prof. Santanu Chattopadhyay <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "RCC Institute of Information Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of Florida",
+            "degree": "Doctor of Philosophy - PhD",
+            "field": "ECE",
+            "url": "",
+            "description": "Advisor: Prof. Swarup Bhunia",
+            "description_html": "Advisor: Prof. Swarup Bhunia <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": "[{\"subtitle\":\"CS60045(IIT KGP)\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"CS60010(IIT KGP)\",\"title\":\"Deep Learning\"},{\"subtitle\":\"EC60074(IIT KGP)\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"EC6024(IIT KGP)\",\"title\":\"Digital VLSI Circuits\"},{\"subtitle\":\"CS60045(IIT KGP)\",\"title\":\"Machine Learning\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2022Credential ID YNSCKBU8J92ESee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "AI For Everyone"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID 4f9c277488466c82eaeedce7d86cad82See credential",
+            "subtitle": "IBM",
+            "title": "Build & Deploy AI Messenger Chatbot using IBM Watson"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID 233ea246f7f3cfa54d2578d7ac6c92a1See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Build Basic Generative Adversarial Networks (GANs)"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID 97ce1b3cda9c9a741264df6ebdaf88c7See credential",
+            "subtitle": "Coursera",
+            "title": "Compose and Program Music in Python using Earsketch"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID Q9CG4LG8WJKZSee credential",
+            "subtitle": "Coursera",
+            "title": "Creating Multi Task Models With Keras"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID 6GS2X945E44SSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning with PyTorch : Neural Style Transfer"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID W87TSN2E9NFHSee credential",
+            "subtitle": "Coursera",
+            "title": "Fine Tune BERT for Text Classification with TensorFlow"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID 15E5DBE5DD2ESee credential",
+            "subtitle": "HackerRank",
+            "title": "JavaScript (Basic) Certificate"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID 44bf943031e897e82c54088a8c979de6See credential",
+            "subtitle": "Coursera",
+            "title": "Statistical Data Visualization with Seaborn From UST"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID d02cabb4daa9b68e4012ec62ee3b17efSee credential",
+            "subtitle": "Coursera",
+            "title": "Transfer Learning for NLP with TensorFlow Hub"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID BMQETCK9CTJHSee credential",
+            "subtitle": "Coursera",
+            "title": "Tweet Emotion Recognition with TensorFlow"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID YZYF6TT4WVYNSee credential",
+            "subtitle": "Coursera",
+            "title": "Visualizing Filters of a CNN using TensorFlow"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID bd554879e53f4e86a2bca7910b783759See credential",
+            "subtitle": "IBM",
+            "title": "Apply end to end security to a cloud application"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID d3f97b2036fe4df185f8db44d66eb914See credential",
+            "subtitle": "IBM",
+            "title": "Deep Learning Fundamentals"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID 389V9M9Q68LPSee credential",
+            "subtitle": "Coursera",
+            "title": "Getting Started with AWS Machine Learning"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID GHTV4952932TSee credential",
+            "subtitle": "Coursera",
+            "title": "Hardware Security"
+        },
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "Cadence Design Systems",
+            "title": "High Level Synthesis Tutorial - DAC 2021"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID 37b12cb7a2fb47de81d0f3209005a97cSee credential",
+            "subtitle": "IBM",
+            "title": "Introduction to Machine Learning with Sound"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID 6586AFD6CF6DSee credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Intermediate) "
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID 2B7D250BC534See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving(Basics)"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID F7EF350CDDC9See credential",
+            "subtitle": "HackerRank",
+            "title": "Python(Basics)"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID 5C07CD2710C6See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL (Intermediate)"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID F79728685C9ESee credential",
+            "subtitle": "HackerRank",
+            "title": "SQL(Basic)"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 81e43030a0104d169b2ff16b63205bccSee credential",
+            "subtitle": "IBM",
+            "title": "Python 101 for Data Science"
+        },
+        {
+            "meta": "Issued Jan 2020See credential",
+            "subtitle": "IBM",
+            "title": "Python for Data Science"
+        },
+        {
+            "meta": "Credential ID bf5ee18e420617156ab078c68435c6c7See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning Pipelines with Azure ML Studio"
+        }
+    ],
+    "recommendations": [
+        "HILLOL MAITY “I have known Habibur for over 4 years and have closely worked with him on various projects. He is diligent and sincere with the tasks assigned to him. He is keen, energetic, and curious in the workplace. His comprehension and observational skills make him a natural fit for challenging objectives and scenarios. Would definitely recommend him.”",
+        "Sandeep Bal “Habibur is an excellent researcher with an insatiable obsession towards applying cutting-edge solutions such as Machine Learning to real world problems in the areas of VLSI design and testing methodologies. His skills in the area of VLSI would be a valuable asset to any organization.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 12159.0,
+    "connections": 500.0,
+    "current_company_company_id": "intel-corporation",
+    "current_company_name": "Intel Corporation",
+    "publications": "[{\"title\":\"Easy Verifiable Design of Non-Scan Sequential Machines for Conformance Checking \",\"subtitle\":\"2022 35th International Conference on VLSI Design and 2022 21st International Conference on Embedded Systems (VLSID)\",\"date\":\"July 27, 2022\",\"description\":\"We investigate the classical problem of conformance checking (CC) for non-scan synchronous sequential machines from a new perspective of “design-for-verifiability” utilizing a machine-learning framework. Given the specifications of a finite-state machine A and its circuit implementation B, the goal of CC is to verify the correctness of B. Conformance checking is a hard problem; typically, various formal methods, simulation techniques, and meta-heuristics are employed to resolve it. However, even for moderate-size FSMs, these approaches either become computationally unmanageable or are unable to provide adequate error coverage. In this work, we train a deep neural network (DNN) with a fraction of the I/O transitions of machine A. Following the training phase, the DNN is validated with the remaining I/O pairs. Next, given an input, its predicted output is compared with the one that is observed from its circuit.\"},{\"title\":\"Conformance Testing for Finite State Machines Guided by Deep Neural Network\",\"subtitle\":\"Journal of Circuits, Systems and Computers\",\"date\":\"February 17, 2022\",\"description\":\"This paper proposes a Finite State Machine (FSM) testing technique based on deep neural network (DNN). This technique verifies the correctness of an implementation FSM-B of a specification FSM-A. Using the back-propagation algorithm, a deep neural network is trained with the input–output patterns for a given set of transition functions that specify an FSM. Initially, for FSM-A, the input patterns and the corresponding output patterns (I/O pairs) are generated. Then most of the patterns are used to train the DNN. Once the training is over, the DNN is validated with the remaining I/O pairs (around 20%). The model can be used for verifying the correctness of FSM-B after training and validation of the DNN. Some inputs are applied to FSM-B and the generated output patterns are compared with the predicted values of the proposed DNN. The difference of accuracy percentages between FSM-A and FSM-B is recorded and zero difference between them indicates the fault-free condition of the implementation FSM-B. To check the effectiveness of the scheme, the output- and state-type faults are injected to derive mutant FSMs. Experimental results performed on the MCNC FSM benchmarks prove the efficacy of the proposed method. Only a few numbers of tests are needed to detect the presence of anomaly, if any. Hence, the test time reduces significantly — resulting in an average test time reduction of 85.67% compared to the conventional techniques. To the best of our knowledge, for the first time a DNN-driven testing scheme is being proposed.\"},{\"title\":\"1)Transfer Fault Detection in Finite State Machines using Deep Neural Networks\",\"subtitle\":\"Artificial Intelligence Driven Circuits and Systems(ISED) [International Symposium on Embedded Computing and System Design ]\",\"date\":\"December 15, 2021\",\"description\":\"This work presents a testing scheme for Finite State Machines (FSM) based on Deep Neural Network (DNN). This technique determines whether a given implementation FSM-B is equivalent to its specification FSM-A. The input/output sequences (I/O pairs) for a given FSM train the proposed DNN. First, I/O pairs of FSM-A are generated using an adaptive distinguishing algorithm, and most of these sequences (around 80%) are used for training the DNN. After training, the remaining 20% I/O pairs are used for validating the derived DNN. After training and validation, the correctness of FSM-B is checked. A small number of vectors is applied to FSM-B and the generated outputs are compared with the DNN predicted outputs. Based on the similarity percentage between them, FSM-B is declared either as correct or faulty implementation of FSM-A. To check the effectiveness of the scheme, transfer-type faults are injected to construct mutant FSMs. The results of experimentation performed on the MCNC FSM benchmark prove the efficacy of this scheme. As only a subset of tests is needed to check the presence of fault if any, the testing time is remarkably less—resulting in an average reduction of 87.68% compared to the conventional technique. To the best of our knowledge, this DNN based testing scheme is being presented for the first time.\"},{\"title\":\"4)Clifford+T-based Implementation of Fault-tolerant Quantum Circuits over XOR-Majority Graph\",\"subtitle\":\"Microelectronics Journal\",\"date\":\"August 23, 2021\",\"description\":\"To build a scalable quantum computer that is sufficiently large to solve classically intractable problems is one of the biggest engineering quests of current times. But, the fragility of quantum states with short coherence time and vulnerability of quantum components towards external noise becomes an immense challenge to the physical implementation. Thus, the fault-tolerant architecture over the quantum error-correcting code (qecc) such as Surface code in optimal logical level are most desirable and can be achieved transversely using Clifford+-group. However, the -gate has high latency. In this paper, we introduce a template matching scheme over the Xor-Majority Graphs to realize a high scalable fault-tolerant quantum circuit. The proposed methodology is validated with multiple quantum benchmarks achieving an improvement of 71.98%, and 78.33% on average , and respectively over state-of-art, and at the same time completely avoiding any ancillary input. When ancillary inputs are permitted, an improvement of 92.77% on is obtained.\"},{\"title\":\"2)A Deep Neural Network Guided Testing Approach for Finite State Machines\",\"subtitle\":\"ISDCS 2021\",\"date\":\"March 3, 2021\",\"description\":\"Finite-State Machines (FSMs) lie at the heart of every digital system and verifying whether a given circuit implementation (B) of an FSM (A) conforms to its specification is an important task in the design cycle. In this work, a deep neural network (DNN) based technique for testing FSMs is developed. Given a set of transition functions that specify an FSM, a DNN is trained with the input-output sequences using the back-propagation algorithm. First, the input sequences and the corresponding output sequences (I/O-pairs) for A are constructed, and some of them are utilized to train the DNN. After training, the proposed DNN is validated with the rest of the I/O-pairs. Once the training and validation of the DNN is completed, it can be used for checking the correctness of its implementation (B) very quickly. Some inputs are applied to B and the observed output sequences are compared with those predicted by the proposed DNN. Based on the similarities between them, B is either declared as correct implementation of A, else it is declared as faulty implementation. The experiments are performed on the MCNC FSM benchmarks and certain faults are injected to form mutant FSMs. Experimental results reveal the efficacy of the proposed technique. Only a few tests are required to detect the presence of anomaly, if any. Hence, the test time is very less resulting in an average test time reduction of 85.66% compared to existing method. It is observed from the earlier works that this type of DNN based FSM testing method is presented first time.\"},{\"title\":\"7)Defect Tolerant Approaches for Function Mapping in Nano-Crossbar Circuits\",\"subtitle\":\"ICRCICN\",\"date\":\"November 22, 2018\",\"description\":\"Nanoscale designs are inherently with higher defect densities than traditional lithography based VLSI designs. So defect tolerant designs are required at this scale. Mapping different functions in a very large nanoscale crossbar containing defective cross-points is a hard searching problem. In this work, we use traditional sorting based methods followed by two other approaches based on Genetic Algorithm (GA) and Particle Swarm optimization (PSO) to find a proper assignment of different functions in the nanoscale crossbar circuit having defective cross-points. Our proposed methods based on GA and PSO work more efficiently with the increase of number of functions and crossbar area in comparison with the traditional sorting based methods. Experimental results show that our meta-heuristic based approaches outperform the sorting based approaches in terms of mapping success percentage.\"},{\"title\":\"5)Bioassay—Protocol to layout: A DMFB based implementation\",\"date\":\"March 29, 2018\",\"description\":\"In recent years application of digital microfluidic biochips has largely enhanced biomedical diagnostics procedures with provision for an alternative platform for traditional laboratory methods with miniaturized devices. Such device ensures better precision, higher scalability and integration as well as reconfigurability. In this paper we demonstrated a prespecified bioassay implementation using DMFBs with higher levels of complexity involving simultaneous sample preparation followed by targeted mixing operations. Here we developed efficient methods for architectural level synthesis to obtain optimal scheduling followed by resource binding that formulates effective front end design automation leading to layout in 2D array for bioassay implementation using DMFBs.\"},{\"title\":\"6)Defect Tolerant Approach For Function Mapping in Nano Crossbar Using Evolutionary Algorithms\",\"subtitle\":\"ICMCS\",\"date\":\"August 24, 2016\"},{\"title\":\"3)Bio-Inspired Methods for Defect-Tolerant Function-Mapping in Nano-Crossbar Arrays\"},{\"title\":\"Google Scholar Links\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"“Machine Learning Approaches for Test and Diagnosis of Digital VLSI Circuits”\",\"description\":\"Sponsored by Synopsys Inc.(690 East Middlefield Road, Mountain View, CA 94043, USA)\"}]",
+    "organizations": [
+        {
+            "title": "IIT Kharagpur",
+            "membership_type": "-",
+            "membership_number": null
+        },
+        {
+            "title": "Intel Corporation",
+            "membership_type": "-",
+            "membership_number": null
+        }
+    ],
+    "location": "Gainesville",
+    "linkedin_id": "habibur-rahaman-00a37117a",
+    "activity": [
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "This year IndoML was held at BITS Pilani Goa campus. CNeRG members participated in various important roles. Niloy Ganguly was the General…",
+            "img": "",
+            "id": "7277603173257609216"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "#ATS2024 - The 33rd IEEE Asian Test Symposium ATS-2024 starts with Inauguration Session  Universität Bremen Data Science…",
+            "img": "",
+            "id": "7275039601386307584"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "🎉 Exciting Work Alert at NeurIPS! 🎉 If you’re attending NeurIPS, don’t miss the chance to explore efficiency research at our poster session! We're…",
+            "img": "",
+            "id": "7273366254877360130"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "🎉 Congratulations! To my PhD student Mandar Kale for successfully defending his thesis on \"Content-based image retrieval using fuzzy class…",
+            "img": "",
+            "id": "7271875622556057601"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "Bremer Symposium AI in Health - presentation of our work  Universität Bremen Data Science Center (DSC) der Universität…",
+            "img": "",
+            "id": "7269338080984109057"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "Had the privilege of attending the IP & Technology Transfer (TT) Workshop organized by the Ministry of Education's Innovation Cell, Government of…",
+            "img": "",
+            "id": "7268596506935353344"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "Last week, we(Rekha Sathian, Pallavi Surana, and I), the members of the Davuluri Lab( ) attended the Biological Data Science…",
+            "img": "",
+            "id": "7264433695917326336"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "🚀 Excited to share our latest work on M3DOCRAG (multimodal RAG for question answering on Multi-Modal & Multi-Page & Multi-Documents (+ a new…",
+            "img": "",
+            "id": "7260759982239895552"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "My prediction? Influencer-driven marketing and branding is on its way out. 🙃 Athletes are the future 👇 You’ve probably seen this happening over…",
+            "img": "",
+            "id": "7259217900119502849"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "Celebrating Exceptional Performers: Energized by the Young Alumni Achievers Award! Pawan Kumar Chandana :- Founder & CEO - Skyroot Aerospace…",
+            "img": "",
+            "id": "7256243268865171456"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "Ever struggled to plug in a USB only to be frustrated when it doesn’t go in and you had to flip it? Believe it or not, that tiny frustration was a…",
+            "img": "",
+            "id": "7252515708280971264"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "I'm thrilled to announce that our team (Precardiv) secured 2nd place in the Summer AI Student Showcase hosted by the Hewlett Packard Enterprise Data…",
+            "img": "",
+            "id": "7253943762760945664"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "Level-up your skills at Micron!",
+            "img": "",
+            "id": "7239392387565850624"
+        },
+        {
+            "interaction": "Liked by Habibur Rahaman",
+            "link": "",
+            "title": "It was a great experience to Chair the Quantum Computing Special Session at the IEEE SOCC along with my co-chair Dr Amit Saha. Our invited talk…",
+            "img": "",
+            "id": "7242825463054663680"
+        }
+    ],
+    "linkedin_num_id": 711557578.0,
+    "honors_and_awards": [
+        {
+            "title": "DAC Young Fellow",
+            "publication": "-",
+            "date": "2021-11-01T00:00:00.000Z",
+            "description": "Design Automation Conference"
+        },
+        {
+            "title": "“RFID BASED AUTOMATED LIBRARY MANAGEMENT SYSTEM”",
+            "publication": "RCC Institute of Information Technology",
+            "date": "2017-07-01T00:00:00.000Z",
+            "description": "Won First Prize for “RFID BASED AUTOMATED LIBRARY MANAGEMENT SYSTEM” in Communication Engineering & Coding Theory Lab(CS 491), RCC Institute of Information Technology"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

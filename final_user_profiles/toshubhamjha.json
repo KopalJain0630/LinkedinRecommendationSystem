@@ -1,0 +1,56 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Govt. Engineering College Bikaner",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2001",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2018Credential ID DWPHSHR4AVGWSee credential",
+            "subtitle": "Coursera",
+            "title": "Exploring ​and ​Preparing ​your ​Data with BigQuery"
+        },
+        {
+            "meta": "Issued Sep 2017Credential ID XEGJMHXKNEP4See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Sep 2017Credential ID PT5E8LKWJTRDSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Sep 2017Credential ID KGXL8KBUCSLFSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Nov 2016Credential ID WJT4XM9CUG6ASee credential",
+            "subtitle": "Coursera",
+            "title": "R Programming"
+        }
+    ],
+    "current_company_name": "Huru",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,37 @@
+{
+    "city": "Greater Delhi Area",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indira Gandhi National Open University",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2018",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016-04",
+            "end_year": "2017-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"digital marketing \"}]",
+    "certifications": null,
+    "current_company_name": "AY Ventures",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"JJ Tax\",\"start_date\":\"May 2021\",\"description\":\"Fund Raising\"},{\"title\":\"Facebook page\",\"start_date\":\"2019\",\"end_date\":\"Present\"},{\"title\":\"E - shop\"}]",
+    "honors_and_awards": null
+}

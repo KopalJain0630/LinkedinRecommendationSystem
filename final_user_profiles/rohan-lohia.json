@@ -1,0 +1,155 @@
+{
+    "city": "Hanover, New Hampshire, United States",
+    "position": "MBA Candidate at The Tuck School of Business at Dartmouth",
+    "experience": [
+        {
+            "title": "Summer Associate",
+            "location": "Chicago, Illinois, United States",
+            "description_html": null,
+            "duration": "Jun 2024 Aug 2024 3 months",
+            "start_date": "Jun 2024",
+            "end_date": "Aug 2024",
+            "duration_short": "3 months",
+            "company": "Bain & Company",
+            "company_id": "bain-and-company",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Clinton Health Access Initiative, Inc.",
+            "location": "New Delhi, Delhi, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Clinton Health Access Initiative, Inc.",
+                    "meta": "Jul 2022 - Apr 2023 10 months",
+                    "duration": "Jul 2022 Apr 2023 10 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "10 months",
+                    "title": "Associate",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Clinton Health Access Initiative, Inc.",
+                    "meta": "Nov 2020 - Jun 2022 1 year 8 months",
+                    "duration": "Nov 2020 Jun 2022 1 year 8 months",
+                    "start_date": "Nov 2020",
+                    "end_date": "Jun 2022",
+                    "duration_short": "1 year 8 months",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Clinton Health Access Initiative, Inc.",
+            "company_id": "clinton-health-access-initiative",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Deutsche Bank",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Deutsche Bank",
+                    "meta": "Mar 2020 - Nov 2020 9 months",
+                    "description": "Worked with the European Portfolios Group, a principal investing desk at Deutsche Bank, which encompasses the underwriting and trading of Distressed Assets and Commercial Real Estate (CRE). As part of the team, I invested in performing/non-performing loan portfolios and CRE portfolios across Europe and EM. My work involves end-to-end deal life cycle management  including underwriting, due diligence, asset management, and sale of portfolios of financial and real estate backed loans and CRE.",
+                    "duration": "Mar 2020 Nov 2020 9 months",
+                    "start_date": "Mar 2020",
+                    "end_date": "Nov 2020",
+                    "duration_short": "9 months",
+                    "title": "Senior Analyst",
+                    "description_html": "Worked with the European Portfolios Group, a principal investing desk at Deutsche Bank, which encompasses the underwriting and trading of Distressed Assets and Commercial Real Estate (CRE). As part of the team, I invested in performing/non-performing loan portfolios and CRE portfolios across Europe and EM. My work involves end-to-end deal life cycle management including underwriting, due diligence, asset management, and sale of portfolios of financial and real estate backed loans and CRE. <!---->"
+                },
+                {
+                    "subtitle": "Deutsche Bank",
+                    "meta": "Jun 2018 - Mar 2020 1 year 10 months",
+                    "description": "Worked with the European Portfolios Group, a principal investing desk at Deutsche Bank, which encompasses the underwriting and trading of Distressed Assets and Commercial Real Estate (CRE).",
+                    "duration": "Jun 2018 Mar 2020 1 year 10 months",
+                    "start_date": "Jun 2018",
+                    "end_date": "Mar 2020",
+                    "duration_short": "1 year 10 months",
+                    "title": "Analyst",
+                    "description_html": "Worked with the European Portfolios Group, a principal investing desk at Deutsche Bank, which encompasses the underwriting and trading of Distressed Assets and Commercial Real Estate (CRE). <!---->"
+                }
+            ],
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "Mumbai Area, India",
+            "description": "Worked with the Distressed Products Group (DPG), a principal investment desk that invests in performing and non-performing loan portfolios",
+            "description_html": "Worked with the Distressed Products Group (DPG), a principal investment desk that invests in performing and non-performing loan portfolios <!---->",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Saharanpur",
+            "description": "Worked with HVAC team (mechanical division) in the ITC Saharanpur factory. Successfully reduced the energy requirement from 0.81 to 0.73 kW/TR (better than industry standard). Eliminated the persistent issue of fluctuating relative humidity levels in the production area by introducing demand control ventilation.",
+            "description_html": "Worked with HVAC team (mechanical division) in the ITC Saharanpur factory. Successfully reduced the energy requirement from 0.81 to 0.73 kW/TR (better than industry standard). Eliminated the persistent issue of fluctuating relative humidity levels in the production area by introducing demand control ventilation. <!---->",
+            "duration": "May 2015 Jul 2015 3 months",
+            "start_date": "May 2015",
+            "end_date": "Jul 2015",
+            "duration_short": "3 months",
+            "company": "ITC Limited",
+            "company_id": "itc-limited",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "The Tuck School of Business at Dartmouth",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology and Bachelor of Technology",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2018",
+            "description": "Activities and Societies: Technology Robotics Society, TeamKART (Formula SAE of IIT Kharagpur)",
+            "description_html": "Activities and Societies: Technology Robotics Society, TeamKART (Formula SAE of IIT Kharagpur)",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Corporate Finance\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Finance\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Macro-Economics\"},{\"subtitle\":\"-\",\"title\":\"Micro-Economics\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Regression Analysis\"},{\"subtitle\":\"-\",\"title\":\"Soft Computing Tools in Engineering\"}]",
+    "certifications": [
+        {
+            "meta": "Issued May 2020Credential ID RN97EMF9TBVUSee credential",
+            "subtitle": "Coursera",
+            "title": "Startup Valuation Methods"
+        }
+    ],
+    "current_company_name": "Bain & Company",
+    "publications": "[{\"title\":\"Development of the India COVID-19 vaccine tracker\",\"subtitle\":\"Indian Journal of Medical Research\",\"date\":\"October 28, 2022\",\"description\":\"For a country like India, it was important to collect and interpret the programmatic data meaningfully to get useful insights about vaccine effectiveness (VE). To realize this goal, the India COVID-19 Vaccination Tracker was developed and launched. Three major national databases were harmonized to elicit reliable information related to the proportion of post-vaccination breakthrough infections and their association with the number of doses received and age-specific mortality trends. Here, we describe the efforts of establishing data synergies to develop the India COVID-19 Vaccination Tracker for the public and policymakers.\"},{\"title\":\"COVID-19 in India: Epidemiological reflections from initial 170 million consecutive test results\",\"subtitle\":\"Frontiers\",\"date\":\"October 18, 2022\",\"description\":\"The report is a retrospective analysis of the testing data generated by the Indian Council of Medical Research. The study's main objectives are to understand the probability of a person testing negative based on their age after an initial positive test and to assess the varied impact and duration of the disease in people of different age groups and genders.\"},{\"title\":\"A Neural Network Based Video Playback System\",\"subtitle\":\"IEEE Xplore\",\"date\":\"July 13, 2017\",\"description\":\"Co-authored a paper titled 'A Neural Network-Based Video Playback System' under the guidance of Prof. S.K Barai (IT Kharagpur)The system uses Self Organising Feature Maps in Artificial Neural Networks to summarise videos by varying the video playback frame rate without removing any frames from the video.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Application of Shannon Entropy on Portfolio Optimization\",\"start_date\":\"Feb 2016\",\"end_date\":\"Present\",\"description\":\"- Using the principles of Shannon entropy on portfolio optimization and creating a new entropy based portfolio selection model.- Currently working on creating a Neural Network in order to select the least risky portfolio and also studying its differences with the traditionally used techniques.\"},{\"title\":\"Pneumatic Gear Shifter - Formula SAE\",\"start_date\":\"Nov 2015\",\"description\":\"Successfully conceptualized, designed and manufactured a Pneumatic Gear Shifter for K-3, the 3rd Formula students racing car built by TeamKART.\"},{\"title\":\"Neural Network Based Video Playback System\",\"start_date\":\"Apr 2015\",\"description\":\"- Conceptualized the idea of Summarizing videos without losing any data frames while focusing on key parts of the video.- Designed a video player which plays only the important parts of a lengthy video by self learning after playing it to many different test users.-Successfully implemented Self Organizing Feature Maps (SOFM) to determine optimized video playback speeds.\"},{},{},{},{\"title\":\"Grid Follower Robot\",\"start_date\":\"Dec 2013\",\"description\":\"- Took part in the Robotics Winter Workshop 2013 organised by Technology Robotix Society to successfully make a grid follower robot using a micro controller.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "National Talent Search Scholarship",
+            "publication": "-",
+            "date": "2008-09-01T00:00:00.000Z",
+            "description": "Cleared the second level of the Nation Talent Search Examination."
+        }
+    ]
+}

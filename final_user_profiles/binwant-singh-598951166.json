@@ -1,0 +1,29 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2024See credential",
+            "subtitle": "McKinsey & Company",
+            "title": "McKinsey Forward Program"
+        },
+        {
+            "meta": "Issued Aug 2024Credential ID KJFA0SDP7LRHSee credential",
+            "subtitle": "Google",
+            "title": "Foundations of Project Management"
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Google Digital Unlocked",
+            "title": "Fundamentals of Digital Marketing"
+        }
+    ],
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Novel Three Port DC-DC Converter for Renewable Energy Applications\",\"start_date\":\"Jan 2018\",\"end_date\":\"Apr 2018\",\"description\":\"Developed a new topology for a three port DC-DC converter using minimal inductors, capacitors and switches, viable for solar energy applications.\"}]",
+    "honors_and_awards": null
+}

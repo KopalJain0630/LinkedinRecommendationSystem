@@ -1,0 +1,328 @@
+{
+    "id": "vidit-gupta624",
+    "name": "Vidit Gupta",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Engineer 2@ Intuit | Ex - AWS | IIT KGP'22",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Intuit",
+        "company_id": "intuit",
+        "title": "Software Engineer 2@ Intuit | Ex - AWS | IIT KGP'22"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer 2",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Intuit",
+            "company_id": "intuit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Working collaboratively in AWS OpenSearch and AWS CloudSearch , my efforts are centered on pioneering innovation and delivering advanced features to elevate the customer experience to its fullest potential.",
+            "description_html": "Working collaboratively in AWS OpenSearch and AWS CloudSearch , my efforts are centered on pioneering innovation and delivering advanced features to elevate the customer experience to its fullest potential. <!---->",
+            "duration": "Jul 2022 Sep 2024 2 years 3 months",
+            "start_date": "Jul 2022",
+            "end_date": "Sep 2024",
+            "duration_short": "2 years 3 months",
+            "company": "Amazon Web Services (AWS)",
+            "company_id": "amazon-web-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Establish a comprehensive canary monitoring system for over 20 APIs on AWS CloudSearch 2011 version to proactively detect any issues well in advance of customer impact. This initiative aims to enhance customer satisfaction and bolster service reliability by identifying and addressing potential problems before they affect end-users.",
+            "description_html": "Establish a comprehensive canary monitoring system for over 20 APIs on AWS CloudSearch 2011 version to proactively detect any issues well in advance of customer impact. This initiative aims to enhance customer satisfaction and bolster service reliability by identifying and addressing potential problems before they affect end-users. <!---->",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Amazon Web Services (AWS)",
+            "company_id": "amazon-web-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Blockchain Research & Development",
+            "location": "New Delhi, Delhi, India",
+            "description": "Successfully implemented a robust Web Socket Connection system in Golang, connecting mobile nodes to a centralized server and ensuring continuous maintenance. Additionally, I developed an innovative Authenticator Program that seamlessly integrated with the blockchain's consensus mechanism, enhancing security with Scribble Hashing using SHA-256. I also designed an algorithm for generating Anna's and Sarahna's cryptocurrency, based on the network's changing node count, ensuring scalability and stability as the network grew.",
+            "description_html": "Successfully implemented a robust Web Socket Connection system in Golang, connecting mobile nodes to a centralized server and ensuring continuous maintenance. Additionally, I developed an innovative Authenticator Program that seamlessly integrated with the blockchain's consensus mechanism, enhancing security with Scribble Hashing using SHA-256. I also designed an algorithm for generating Anna's and Sarahna's cryptocurrency, based on the network's changing node count, ensuring scalability and stability as the network grew.",
+            "duration": "Aug 2020 Dec 2020 5 months",
+            "start_date": "Aug 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "5 months",
+            "company": "Pink Sarahna Foundation",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary",
+            "description": "Throughout my professional journey, I have taken the initiative to organize and conduct a series of impactful career-boosting workshops and soft-skills training sessions.  Additionally, I played a pivotal role in spearheading the development of two career assistance books, namely 'Playing it Soft' and 'The Guessing Game,'. In a mentoring capacity, I have had the privilege of guiding and supporting over 15 associate students, providing them with invaluable insights and advice to help them achieve their professional goals.",
+            "description_html": "Throughout my professional journey, I have taken the initiative to organize and conduct a series of impactful career-boosting workshops and soft-skills training sessions. Additionally, I played a pivotal role in spearheading the development of two career assistance books, namely 'Playing it Soft' and 'The Guessing Game,'. In a mentoring capacity, I have had the privilege of guiding and supporting over 15 associate students, providing them with invaluable insights and advice to help them achieve their professional goals.",
+            "duration": "Jul 2019 Jun 2020 1 year",
+            "start_date": "Jul 2019",
+            "end_date": "Jun 2020",
+            "duration_short": "1 year",
+            "company": "Communiqué IIT Kharagpur",
+            "company_id": "communiqu%C3%A9-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IT intern",
+            "location": "Surat, Gujarat",
+            "description": "Designed and developed a comprehensive Dechcept website, leveraging a variety of advanced web technologies to achieve full-fledged functionality",
+            "description_html": "Designed and developed a comprehensive Dechcept website, leveraging a variety of advanced web technologies to achieve full-fledged functionality <!---->",
+            "duration": "Apr 2020 May 2020 2 months",
+            "start_date": "Apr 2020",
+            "end_date": "May 2020",
+            "duration_short": "2 months",
+            "company": "Dechcept",
+            "company_id": "dechcept",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Samarendra Dash",
+            "about": "PhD student @ University of Toronto | Aspiring NLP engineer | Math Aficionado",
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Nutan Sinku",
+            "about": "Analyst at Deloitte USI",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "Thota Sri Ranga Vineel",
+            "about": "Associate 2 @ Accordion | IIM | IIT",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Harichandan Mohanty",
+            "about": "Flutter Developer @Boon | Mobile App Development",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Priydarshi Singh",
+            "about": "Software Engineer @ IMC Trading · Director's Gold Medal '22, IIT Kanpur",
+            "location": "Amsterdam"
+        },
+        {
+            "profile_link": "",
+            "name": "Saumya Shikhar Mishra",
+            "about": "SWE @ Google | ex-Microsoft | ex-Nutanix | BITS Pilani",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ananya Shukla",
+            "about": "Embedded Systems Graduate Student at University of Freiburg | Ex Data Analyst | Electronics |",
+            "location": "Freiburg"
+        },
+        {
+            "profile_link": "",
+            "name": "Devesh Vijaywargiya",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Harika Jayanthi",
+            "about": "Aspiring product manager | Technology | Cloud Computing | MBA(STEM) candidate at UW Foster School of Business('26) | Dean’s Merit Scholar | Forte Fellow | Ex-Oracle | Ex-Honeywell",
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Padmanabhan Murli",
+            "about": "Senior Engineer at Eightfold AI | BITS Pilani",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nidhi Khanna",
+            "about": "Deloitte USI | IIM Kozhikode '23",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kedar Chaudhari",
+            "about": "VMware",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehul Bhatia",
+            "about": null,
+            "location": "Kanpur Nagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanshu Gupta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilanjan Chatterjee",
+            "about": "Deputy Engineer at Bharat Electronics Limited | CSE AEC'22",
+            "location": "Guwahati"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanshu Chandra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ria Gohel",
+            "about": "Cloud Engineering | Data Science",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Isha Sawant",
+            "about": "Business Analyst at SLB",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanya Sikarwar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Swapnil Katti",
+            "about": "Senior software engineer@ Cloudera",
+            "location": "Pune"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Industrial and Systems Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Subodh public school",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"AI and Ethics\"},{\"subtitle\":\"-\",\"title\":\"Algorithms Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Financial Engineering\"},{\"subtitle\":\"-\",\"title\":\"Genetic Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Information Systems\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Mar 2020Credential ID db0e376afa827a78386b24ffb0f3ca9dd0aecb0af6942c97df586dd5275f09a2",
+            "subtitle": "Hyperledger India Chapter",
+            "title": "HyperHack"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4855.0,
+    "connections": 500.0,
+    "current_company_company_id": "intuit",
+    "current_company_name": "Intuit",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Detection of Language Bias in Wikipedia\",\"start_date\":\"Jan 2021\",\"end_date\":\"Apr 2021\",\"description\":\"Developed an innovative NN-GA model, combining neural networks and genetic algorithms, to enforce Wikipedia's Neutral Point of View (NPOV) policy. By encoding article statements with advanced Language Models like BERT and RoBERTa and applying Ensemble Learning with Differential Evolution and Deep Neural Networks, achieved top F1 scores of 87% on the training dataset and 83% on the test dataset, which consisted of trending Wikipedia articles.\"},{\"title\":\"Car Tracking System using BlockChain\",\"start_date\":\"Dec 2019\",\"end_date\":\"Sep 2020\",\"description\":\"Created three Docker nodes across multiple PCs to simulate car transport between organizations. Using Hyperledger Fabric, designed a blockchain-based network channel for secure car detail communication. Also implemented a Golang Smart Contract to facilitate car data management like create, update, query car details in the network. Lastly, deployed the car tracking blockchain network, integrating it with a user-friendly Web Application via Swagger API's and Swagger UI for enhanced usability.\"},{\"title\":\"Operational scheduling of freight trains on the Complex network\",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Formulated selection, crossover, and mutation genetic operators tailored for transforming train paths into actionable nodes and segments, enabling efficient optimization. My work extended to developing a Python simulator capable of visualizing and assessing near-optimal routes for multiple freight trains operating within intricate train networks. Notably, my algorithm outperformed existing heuristics by completing the task in 5% less time, surpassing the search capabilities of the entire feasible space\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "vidit-gupta624",
+    "activity": [
+        {
+            "interaction": "Liked by Vidit Gupta",
+            "link": "",
+            "title": "Honored to share that I’ve received the Spot Award at Société Générale! This journey so far has been challenging yet rewarding, and I’m truly…",
+            "img": "",
+            "id": "7275028303122505728"
+        },
+        {
+            "interaction": "Liked by Vidit Gupta",
+            "link": "",
+            "title": "Managing your payables is now smoother than ever with Mercoa ! 🎉 Here’s a glimpse of Mercoa's revamped Payables Table, packed with powerful…",
+            "img": "",
+            "id": "7275212906303012866"
+        },
+        {
+            "interaction": "Liked by Vidit Gupta",
+            "link": "",
+            "title": "Yes, graduated! ✅ I'm now officially an alumnus of McGill University and Mila - Quebec Artificial Intelligence Institute! Some people see - Us…",
+            "img": "",
+            "id": "7270617968848343042"
+        },
+        {
+            "interaction": "Liked by Vidit Gupta",
+            "link": "",
+            "title": "After 8.5 incredible years with AWS, it's time for me to say goodbye and embark on a new adventure. I am extremely grateful for the opportunity to…",
+            "img": "",
+            "id": "85"
+        },
+        {
+            "interaction": "Liked by Vidit Gupta",
+            "link": "",
+            "title": "Is there a greater joy than being recognized by your alma mater? 🙂 Thank you, Institute of Management Technology, Nagpur, Dr. Bigyan Verma, and all…",
+            "img": "",
+            "id": "7267730172777299968"
+        },
+        {
+            "interaction": "Liked by Vidit Gupta",
+            "link": "",
+            "title": "🚀 Big news, OpenSearch users! We've just supercharged Amazon OpenSearch Service! 🎉 📈 Scale like never before: • Single cluster now supports up to…",
+            "img": "",
+            "id": "1000"
+        },
+        {
+            "interaction": "Liked by Vidit Gupta",
+            "link": "",
+            "title": "Hey everyone! Reflolabs is hiring Founding Engineers and Interns (Fullstack, AI)! We’re on a mission to transform global supply chains by…",
+            "img": "",
+            "id": "7263131441155190784"
+        }
+    ],
+    "linkedin_num_id": 590814869.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "city": "Seattle, Washington, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Yale School of Management",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "McKinsey & Company",
+    "publications": "[{\"title\":\"The Road Not Taken\",\"subtitle\":\"NSRCEL, IIM Bangalore\",\"date\":\"August 1, 2013\",\"description\":\"Inspiring stories of 9 women entrepreneurs and an insight into the various aspects of starting an entrepreneurial venture\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Social Business Champ by Nobel Laureate Prof. Muhammad Yunus",
+            "publication": "SBYA Global & Nobel Laureate Prof. Muhammad Yunus",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Young Alumni Achiever Award",
+            "publication": "IIT Kharagpur",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": "The Young Alumni Achiever Awards by IIT Kharagpur recognizes alumni age 40 or younger who have demonstrated emerging and unique innovation, creativity and success in his or her chosen career. It serves as an opportunity for current and future students to be inspired by their seniors who have achieved notable success following graduation."
+        },
+        {
+            "title": "Social Business Plan, Eximius- IIM Bangalore",
+            "publication": "IIM Bangalore and Villgro",
+            "date": "2016-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Winner of Creative Design Competition",
+            "publication": "Shamsher Prakash Foundation USA & IIT Roorkee",
+            "date": "2013-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "National Mathematics Olympiad",
+            "publication": "HBCSE",
+            "date": "2007-09-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "city": "Paris, Île-de-France, France",
+    "position": "Equity Exotics at Morgan Stanley Paris",
+    "experience": [
+        {
+            "title": "Morgan Stanley",
+            "location": "Paris, Île-de-France, France",
+            "description_html": null,
+            "duration": "5 years 11 months",
+            "positions": [
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Apr 2023 - Present 1 year 9 months",
+                    "duration": "Apr 2023 - Present 1 year 9 months",
+                    "start_date": "Apr 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 9 months",
+                    "title": "Associate : Secondary Market Exotics Trader",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Feb 2019 - Mar 2023 4 years 2 months",
+                    "description": "Institutional Equity DivisionEquity Exotics Structuring : Thematic Indices Research, Exotic Products Pricing.Exotic Derivative Trading : Derivatives, Structured Notes.",
+                    "duration": "Feb 2019 Mar 2023 4 years 2 months",
+                    "start_date": "Feb 2019",
+                    "end_date": "Mar 2023",
+                    "duration_short": "4 years 2 months",
+                    "title": "Equity Exotics : Trading Assistant",
+                    "description_html": "Institutional Equity Division<br><br>Equity Exotics Structuring : Thematic Indices Research, Exotic Products Pricing.<br>Exotic Derivative Trading : Derivatives, Structured Notes. <!---->"
+                }
+            ],
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Quantitative Analyst (Index Quants)",
+            "location": "Gurgaon, India",
+            "description": "Index ResearchWorked on backtesting of Index methodologies and trading strategies",
+            "description_html": "Index ResearchWorked on backtesting of Index methodologies and trading strategies <!---->",
+            "duration": "Jul 2016 Jan 2019 2 years 7 months",
+            "start_date": "Jul 2016",
+            "end_date": "Jan 2019",
+            "duration_short": "2 years 7 months",
+            "company": "Evalueserve",
+            "company_id": "evalueserve",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Industrial Engineering",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": "Part of the Product Development Team which was successful in designing and developing an innovative product, Bicycle Cargador. Actively participated in various sports activities representing hostel in Cricket, Athletics and Volleyball. SILVER medal, Part of Silver-Winning Inter-Hall Cricket Team from LBS Hall -2014 Volunteer of Guest Reception Team in Asia Level fest “KSHITIJ” 2013",
+            "description_html": "Part of the Product Development Team which was successful in designing and developing an innovative product, Bicycle Cargador.Actively participated in various sports activities representing hostel in Cricket, Athletics and Volleyball.SILVER medal, Part of Silver-Winning Inter-Hall Cricket Team from LBS Hall -2014Volunteer of Guest Reception Team in Asia Level fest “KSHITIJ” 2013 <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Chaitanya Junior College",
+            "degree": "10+2",
+            "start_year": "2010",
+            "end_year": "2012",
+            "description": "Awarded Dr.A.P.J Abdul Kalam award from our school for Achieving IIT-JEE and Scoring 90+ % in my 12th Class",
+            "description_html": "Awarded Dr.A.P.J Abdul Kalam award from our school for Achieving IIT-JEE and Scoring 90+ % in my 12th Class <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Stella Maris School",
+            "start_year": "2000",
+            "end_year": "2010",
+            "description": "Activities and Societies: Cricket, Kho-Kho, Volleyball, Chess School Sports Prefect, Responsible for organizing Vizag Zonal Sports Meet in our school during my Tenure which involved KHO-KHO and VOLLEYBALL. Awarded Individual Championship in school for achieving highest individual points in sports which includes Athletics, Caroms and Chess in the year 2009 Captain of Gold Winning KHO-KHO team and Silver Winning VOLLEYBALL Team in Vizag Zonal Meet Competitions in 2009 and was Awarded Best Player of the Tournament in KHO-KHO",
+            "description_html": "Activities and Societies: Cricket, Kho-Kho, Volleyball, Chess",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Analytics edge, edX\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Financial Markets\"},{\"subtitle\":\"-\",\"title\":\"R\"}]",
+    "certifications": [
+        {
+            "meta": "Issued May 2015Expires Jun 2015",
+            "subtitle": "JANATICS INDIA PRIVATE LTD.",
+            "title": "SUMMER INTERNSHIP"
+        },
+        {
+            "meta": "Issued Jun 2014Expires Jun 2014",
+            "subtitle": "VISAKHAPATNAM STEEL PLANT",
+            "title": "Internship"
+        }
+    ],
+    "current_company_name": "Morgan Stanley",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Analysis of Cost of Quality\",\"description\":\"Calculated Cost of Quality (COQ) of DS2 Solenoid Valves, which is a runner product and compared COQ with the Sigma levels w.r.to Defects per Million and Sales.Developed a standard method for the firm to calculate Cost of Quality on a regular basis which helped them to identify the problems and reduce an unnecessary cost of about 1 Million Rs. per year.\"},{},{\"title\":\"Statistical Analysis of Hardening data of Grain Sizes at different levels\",\"description\":\"-Performed Single Factor Analysis to explore whether machines are producing differentYield rates or same yield rates.-Scrutinized which levels are linearly related by using Linear Regression and was successfulin obtaining the appropriate solution.(Tools used: R, SAS, Excel)\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Best Shastrian",
+            "publication": "LBS Hall, IIT KGP",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": "Awarded best shastrian from the hall for taking LBS Hall to new heights in Sports, IIT Kharagpur"
+        }
+    ]
+}

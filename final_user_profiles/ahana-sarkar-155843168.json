@@ -1,0 +1,83 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "T.A.PAI MANAGEMENT INSTITUTE",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2023",
+            "subtitle": "B4Q Management Ltd.",
+            "title": "ISO 27001 Lead Auditor - Information Security Certification"
+        },
+        {
+            "meta": "Issued Sep 2022",
+            "subtitle": "OneTrust",
+            "title": "One Trust Data Mapping Expert Certification "
+        },
+        {
+            "meta": "Issued Sep 2022",
+            "subtitle": "OneTrust",
+            "title": "One Trust Privacy Professional "
+        },
+        {
+            "meta": "Issued Jul 2022",
+            "subtitle": "OneTrust",
+            "title": "OneTrust - Incident Response Expert"
+        },
+        {
+            "meta": "Issued Jun 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Migrating to Azure"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Instructional Design: Storyboarding"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Problem Solving Techniques"
+        },
+        {
+            "meta": "Issued Dec 2020Expires Dec 2022",
+            "subtitle": "Microsoft",
+            "title": "AZ-900 Microsoft Azure Fundamentals"
+        },
+        {
+            "subtitle": "ISACA",
+            "title": "Certified Information Systems Auditor (CISA)"
+        }
+    ],
+    "current_company_name": "ANZ",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

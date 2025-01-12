@@ -1,0 +1,73 @@
+{
+    "city": "Singapore",
+    "position": "Professor of Strategy and Sustainable Development at INSEAD",
+    "experience": [
+        {
+            "title": "Professor of Strategy, The Paul Dubrule Chaired Professor of Sustainable Development",
+            "location": "Singapore",
+            "description": "",
+            "description_html": " <!---->",
+            "duration": "Aug 2004 - Present 20 years 5 months",
+            "start_date": "Aug 2004",
+            "end_date": "Present",
+            "duration_short": "20 years 5 months",
+            "company": "INSEAD",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Consultant",
+            "description_html": null,
+            "duration": "Jul 1995 Jun 1998 3 years",
+            "start_date": "Jul 1995",
+            "end_date": "Jun 1998",
+            "duration_short": "3 years",
+            "company": "Accenture",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Harvard University",
+            "degree": "PhD",
+            "field": "Business Economics (Jointly Awarded by HBS and Harvard Economics Dept)",
+            "url": "",
+            "start_year": "1998",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Georgia Institute of Technology",
+            "degree": "Double Masters",
+            "field": "Computer Science (MS) and Management (MBA)",
+            "url": "",
+            "start_year": "1991",
+            "end_year": "1995",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "degree": "B.Tech.",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "1987",
+            "end_year": "1991",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "INSEAD",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

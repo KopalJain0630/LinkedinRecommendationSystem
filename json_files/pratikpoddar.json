@@ -1,0 +1,175 @@
+{
+    "id": "pratikpoddar",
+    "name": "Pratik Poddar",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "I am a venture capitalist looking to work with passionate entrepreneurs trying to build…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Nexus Venture Partners",
+        "company_id": "nexusvp"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Aditya Misra",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Sovani",
+            "about": "Equity Investor",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Manasi Shah",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nayan Bader",
+            "about": "VP at Warburg Pincus | Wharton | IIT-Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Swati Murarka",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajesh Mane",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh Singh",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Jaishankar",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Prasanna Rengarajan",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Vatsal Kanakiya",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilesh Balakrishnan",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ruchin Kulkarni",
+            "about": "Something new ✨",
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranav Marwah",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nanika Kakkar",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Randev",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sandeep Prasad",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddarth Pai",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudh Singh",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Syed Faiz Hasan",
+            "about": null,
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Goyal",
+            "about": null,
+            "location": "Pune"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Bombay",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": 4.0,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": [
+        "“Pratik is unarguably one of the best people that I have ever worked with. Anyone who has worked with him (or has read his blogs), probably already knows that he is an excellent problem solver with awesome quantitative aptitude. But what makes him extraordinary are his two rare super-powers: 1.> He is always, ALWAYS learning. Whenever he is talking to anyone, irrespective of his relationship with that person, he is always looking to learn more. This means that he is scaling his skill set (and by extension himself), faster than almost anyone else that I know. 2.> He has an uncanny ability of making people feel good about themselves. This has dual affect; one that the person himself / herself does better because of the extra motivation and second that they are a lot more likely to trust and help Pratik, thus helping him build a large and valuable network. If he can hold on to his super-powers, I believe we have a superman to look out for in whatever field he chooses to work in.” Show less",
+        "“Pratik is a rare talent among all the people I have hired and led. It would be silly to talk about Pratik's prowess in Math and CS - those are obvious from his credentials and from the quality of his technical work. What makes him special is his versatility - strong communication skills, professionalism and discipline in his work (rare among the people I have led), sound social and emotional intelligence, and most importantly, a keen desire to always learn, broaden and improve. A special quality about Pratik is that he can instantly light up a gathering of people (and I am talking work) with his gregarious personality and genuine affection. Given all that he possesses, I think he would make a great entrepreneur.” Show less"
+    ],
+    "volunteer_experience": null,
+    "followers": 34786.0,
+    "connections": 500.0,
+    "current_company_company_id": "nexusvp",
+    "current_company_name": "Nexus Venture Partners",
+    "publications": "[{\"title\":\"Optimizing Elliptic Curve Scalar Multiplication with Near-Factorization\",\"subtitle\":\"International Conference on Security and Cryptography - SECRYPT\",\"date\":\"Aug 2014\",\"description\":\"Elliptic curve scalar multiplication (kP where is an integer and P is a point on the elliptic curve) is widely used in encryption and signature generation. In this paper, we explore a factorization-based approach called Near-Factorization that can be used in conjunction with existing optimization techniques such as Window NAF (Non Adjacent Form). We present a performance model of Near-Factorization and validate model results with those from a simulation. We compare Near-Factorization with w-NAF for a range of scalar sizes, window sizes, divisor lengths and Hamming weights of divisor. The use of Near-Factorization with w-NAF results in a considerable reduction in the effective Hamming weight of the scalar and a reduction in overall computation cost for Koblitz curves.\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "pratikpoddar",
+    "activity": null,
+    "linkedin_num_id": 21236694.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

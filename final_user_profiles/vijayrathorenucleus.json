@@ -1,0 +1,64 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "The Institute of Chartered Accountants of India",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "1999",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"DISA- ICAI\"},{\"subtitle\":\"UC-JYFCJJSD\",\"title\":\"Master Microsoft Excel Macros and Excel VBA\"},{\"subtitle\":\"UC-FQTVXG4J\",\"title\":\"Visually Effective Excel Dashboards\"}]",
+    "certifications": null,
+    "current_company_name": "Soonicorn Ventures",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Mr. DPS",
+            "publication": "Defence Public School",
+            "date": "2009-02-01T00:00:00.000Z",
+            "description": "Was selected as Mr. DPS on farewell from school. Criteria were on basis of appearance, Walk, Q&A."
+        },
+        {
+            "title": "Best All Rounder",
+            "publication": "Defence Public School",
+            "date": "2008-12-01T00:00:00.000Z",
+            "description": "This award was given to him on the basis of his active participation in every field of co-curricular activities. He loved to be on stage. He participated in quizzes, debates, singing competitions, dancing competitions, plays, sports, etc. Literally anything which was conducted in school, he was a participant in that event. He earned various awards and recognition in school time due to his dedication towards versatility and competitiveness."
+        },
+        {
+            "title": "Head Boy",
+            "publication": "Defence Public School",
+            "date": "2008-04-01T00:00:00.000Z",
+            "description": "During 11th, he was selected as Head Boy of school. Leaded a team of 4 House Captains and 36 Prefects."
+        }
+    ]
+}

@@ -1,0 +1,443 @@
+{
+    "id": "vibhuagarwal",
+    "name": "Vibhu Agarwal",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "IIT B | IIFT D | JPMC | CFA L1 | EXL | Speaker | 15k+ followers | Published Author",
+    "about": "Vibhu has completed his undergraduation from IIT Bombay in 2019. Post that he has worked for 2.5 years in Consulting. He has also cleared level 1 of CFA. He completed his MBA from IIFT Delhi in 2024. He has also authored IIFT Entrepreneurs - https://amzn.in/d/8urjzNc",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "JPMorgan Chase & Co.",
+        "company_id": "jpmorganchase",
+        "title": "IIT B | IIFT D | JPMC | CFA L1 | EXL | Speaker | 15k+ followers | Published Author"
+    },
+    "experience": [
+        {
+            "title": "WM Risk Analyst",
+            "description": "- Analysing individual financial statements and other information to calculate cash flow and balance sheet ratios- Determining client's default risk and identifying risk and mitigating factors and recommending course of action- Participating in the testing of new AI/ML products and providing active feedback regarding the gaps",
+            "description_html": "- Analysing individual financial statements and other information to calculate cash flow and balance sheet ratios- Determining client's default risk and identifying risk and mitigating factors and recommending course of action- Participating in the testing of new AI/ML products and providing active feedback regarding the gaps <!---->",
+            "duration": "Apr 2024 - Present 9 months",
+            "start_date": "Apr 2024",
+            "end_date": "Present",
+            "duration_short": "9 months",
+            "company": "JPMorgan Chase & Co.",
+            "company_id": "jpmorganchase",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Delhi, India",
+            "description": "- Assisted a client in transitioning $80Mn loan from LIBOR to SOFR by reviewing the head of terms and swap agreement- Identified and discussed negtiation points in the SWAP agreement to make the transaction cost neutral to the client- Researched for best practices to write Excel macros to improve the speed of execution of financial models- Assisted in drafting a proposal for a potential client by attending the call and understanding their requirements- Utilized Bloomberg terminal to determine the suitable Credit Adjustment Spread for the transition",
+            "description_html": "- Assisted a client in transitioning $80Mn loan from LIBOR to SOFR by reviewing the head of terms and swap agreement- Identified and discussed negtiation points in the SWAP agreement to make the transaction cost neutral to the client- Researched for best practices to write Excel macros to improve the speed of execution of financial models- Assisted in drafting a proposal for a potential client by attending the call and understanding their requirements- Utilized Bloomberg terminal to determine the suitable Credit Adjustment Spread for the transition",
+            "duration": "Apr 2023 May 2023 2 months",
+            "start_date": "Apr 2023",
+            "end_date": "May 2023",
+            "duration_short": "2 months",
+            "company": "Synergy Consulting, Inc.",
+            "company_id": "synergy-consulting-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "- Prepared credit risk analysis reports of clients and made recommendations on credit facilities and internal credit ratings- Developed working knowledge of allocated sectors and had ongoing interaction with bankers and credit executives",
+            "description_html": "- Prepared credit risk analysis reports of clients and made recommendations on credit facilities and internal credit ratings- Developed working knowledge of allocated sectors and had ongoing interaction with bankers and credit executives <!---->",
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "JPMorgan Chase & Co.",
+            "company_id": "jpmorganchase",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Mumbai Area, India",
+            "description": "- Collaborated with the data science team to improve the underwriting process for a US based fintech company- Assisted the sales and marketing team to identify opportunities to increase revenue using analytics- Examined end to end underwriting process to identify opportunities to reduce charge-offs (bad loans)- Developed a performance tracking framework for sales brokers to take steps to increase performance- Developed a valuation model using underwriting costs to categorize sales brokers based on their performance",
+            "description_html": "- Collaborated with the data science team to improve the underwriting process for a US based fintech company- Assisted the sales and marketing team to identify opportunities to increase revenue using analytics- Examined end to end underwriting process to identify opportunities to reduce charge-offs (bad loans)- Developed a performance tracking framework for sales brokers to take steps to increase performance- Developed a valuation model using underwriting costs to categorize sales brokers based on their performance",
+            "duration": "Jan 2020 Dec 2021 2 years",
+            "start_date": "Jan 2020",
+            "end_date": "Dec 2021",
+            "duration_short": "2 years",
+            "company": "FischerJordan",
+            "company_id": "fischerjordan",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "External Consultant",
+            "description_html": null,
+            "duration": "Jan 2020 Dec 2021 2 years",
+            "start_date": "Jan 2020",
+            "end_date": "Dec 2021",
+            "duration_short": "2 years",
+            "company": "Credibly",
+            "company_id": "credibly",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Assistant Manager",
+            "location": "Gurgaon, India",
+            "description": "- Worked in the decision analytics team and developed python-based capabilities for a US based bank- Developed ready to use packages in python for exploratory data analysis and model evaluation metrics",
+            "description_html": "- Worked in the decision analytics team and developed python-based capabilities for a US based bank- Developed ready to use packages in python for exploratory data analysis and model evaluation metrics <!---->",
+            "duration": "Jul 2019 Jan 2020 7 months",
+            "start_date": "Jul 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "7 months",
+            "company": "EXL",
+            "company_id": "exl-service",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst Intern",
+            "location": "Mumbai",
+            "description": "- Compared Fraud and Anomaly detection techniques for consumer durable loans using Python- Achieved a 9% increase in capture rate for predicting fraud through weights of evidence and neural networks",
+            "description_html": "- Compared Fraud and Anomaly detection techniques for consumer durable loans using Python- Achieved a 9% increase in capture rate for predicting fraud through weights of evidence and neural networks <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Experian",
+            "company_id": "experian",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Manager",
+            "location": "Mumbai Area, India",
+            "description": "Represented India at Solar Decathlon organised by US Dept. of Energy; built a prefabricated and net-zero energy house1. Headed a team of 6 coordinators to raise INR 18 Million through cash and kind2. Negotiated with 50+ companies; roped in Reliance for the first time as the Title Sponsor",
+            "description_html": "Represented India at Solar Decathlon organised by US Dept. of Energy; built a prefabricated and net-zero energy house1. Headed a team of 6 coordinators to raise INR 18 Million through cash and kind2. Negotiated with 50+ companies; roped in Reliance for the first time as the Title Sponsor <!---->",
+            "duration": "Jul 2017 Jul 2018 1 year 1 month",
+            "start_date": "Jul 2017",
+            "end_date": "Jul 2018",
+            "duration_short": "1 year 1 month",
+            "company": "Team Shunya, IIT Bombay",
+            "company_id": "teamshunya-iitb",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Risk Management Intern",
+            "location": "Mumbai Area, India",
+            "description": "•\tAutomated the analysis of Term Deposits in R to verify stability of its pattern •\tPredicted behaviour and pattern of future cash flows of Term Deposit using seasonality and regression•\tCompared Interest Rate Risk of YES Bank with 10 of its peer banks",
+            "description_html": "• Automated the analysis of Term Deposits in R to verify stability of its pattern • Predicted behaviour and pattern of future cash flows of Term Deposit using seasonality and regression• Compared Interest Rate Risk of YES Bank with 10 of its peer banks <!---->",
+            "duration": "May 2017 May 2017 1 month",
+            "start_date": "May 2017",
+            "end_date": "May 2017",
+            "duration_short": "1 month",
+            "company": "YES BANK",
+            "company_id": "yes-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Newsletter Editor",
+            "location": "Mumbai Area, India",
+            "description": "•\tAwarded Department Special Mention for exemplary performance as Editor•\tIdeated and designed the magazine to be distributed to 600+ students and entire faculty of the department•\tIntroduced Know Your Prof videos and Freshmen Edition to increase awareness about the department •\tIncreased the allotted budget by 50% for the magazine and utilized it optimally to maximize readership",
+            "description_html": "• Awarded Department Special Mention for exemplary performance as Editor• Ideated and designed the magazine to be distributed to 600+ students and entire faculty of the department• Introduced Know Your Prof videos and Freshmen Edition to increase awareness about the department • Increased the allotted budget by 50% for the magazine and utilized it optimally to maximize readership <!---->",
+            "duration": "Apr 2016 Mar 2017 1 year",
+            "start_date": "Apr 2016",
+            "end_date": "Mar 2017",
+            "duration_short": "1 year",
+            "company": "Department of Chemical Engineering, IIT Bombay",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Coordinator",
+            "location": "Mumbai Area, India",
+            "description": "•\tLed a team of 20 organisers to ensure media coverage of the events of Techfest •\tFinalised 3 media partners for Techfest contributing to a worth of INR 2 lakhs•\tCoordinated with 40+ media people for the media coverage of the fest",
+            "description_html": "• Led a team of 20 organisers to ensure media coverage of the events of Techfest • Finalised 3 media partners for Techfest contributing to a worth of INR 2 lakhs• Coordinated with 40+ media people for the media coverage of the fest <!---->",
+            "duration": "Apr 2016 Dec 2016 9 months",
+            "start_date": "Apr 2016",
+            "end_date": "Dec 2016",
+            "duration_short": "9 months",
+            "company": "Techfest, IIT Bombay",
+            "company_id": "techfest",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Intern",
+            "location": "Mumbai Area, India",
+            "description": "Trell is a location based network which helps you in exploring amazing things and places around you•\tFormulated and implemented marketing strategies by designing campaigns for various social media platforms•\tUsed Crowdfire to target potential online customers fulfilling various criteria•\tExtensively studied growth for multiple social media platforms by analysing their business models",
+            "description_html": "Trell is a location based network which helps you in exploring amazing things and places around you• Formulated and implemented marketing strategies by designing campaigns for various social media platforms• Used Crowdfire to target potential online customers fulfilling various criteria• Extensively studied growth for multiple social media platforms by analysing their business models <!---->",
+            "duration": "May 2016 May 2016 1 month",
+            "start_date": "May 2016",
+            "end_date": "May 2016",
+            "duration_short": "1 month",
+            "company": "Trell",
+            "company_id": "trell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Competitions Organiser",
+            "location": "Mumbai Area, India",
+            "description": "- Ensured that smooth flow of the event was going on.- Handled the registrations, Coordinated with the judges and ensured they arrived on time.",
+            "description_html": "- Ensured that smooth flow of the event was going on.- Handled the registrations, Coordinated with the judges and ensured they arrived on time. <!---->",
+            "duration": "Nov 2015 Dec 2015 2 months",
+            "start_date": "Nov 2015",
+            "end_date": "Dec 2015",
+            "duration_short": "2 months",
+            "company": "Mood Indigo IIT Bombay",
+            "company_id": "mood-indigo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Media and Marketing Organiser",
+            "location": "Mumbai Area, India",
+            "description": "- Managed the reporters of \"The Hindu\" and guided them throughout the fest - Developed a database and invited potential news channels for event coverage",
+            "description_html": "- Managed the reporters of \"The Hindu\" and guided them throughout the fest - Developed a database and invited potential news channels for event coverage <!---->",
+            "duration": "Sep 2015 Dec 2015 4 months",
+            "start_date": "Sep 2015",
+            "end_date": "Dec 2015",
+            "duration_short": "4 months",
+            "company": "Techfest, IIT Bombay",
+            "company_id": "techfest",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Gaurav Choudhary",
+            "about": "Sr. Consultant | Team Lead | Data Engineer | Pingahla | IIT Bombay",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shilpi Sharma",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitish Dayal",
+            "about": "SUN Mobility | ex-McKinsey | NSIT",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aarushee Kapoor",
+            "about": "Risk Management | Project Management | Project and Commercial Services | Conflicts Management",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Mihir Datta",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Ojasvi Jain",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashima Nayyar",
+            "about": "Private Equity, Bain | MBA - NMIMS, Mumbai | SaT, EY India",
+            "location": "North Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakriti R.",
+            "about": "LBS MBA 2026 | VC Investor at Picus | EIR at ConsumerTech | Bain & Co. | BITS Pilani",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankita Sarna",
+            "about": "Equity Research Associate at Goldman Sachs",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anmol Thakkar",
+            "about": "Credit Trading & Financing - Deutsche Bank | IIT Kharagpur",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Bombay",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "degree": "Bachelor of Technology (BTech)",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": "The Indian Institute of Technology Bombay is a public engineering and research institution located in Powai, Mumbai, India. In the QS World University Rankings 2014, IIT Bombay was ranked as India’s top university.",
+            "description_html": "The Indian Institute of Technology Bombay is a public engineering and research institution located in Powai, Mumbai, India. In the QS World University Rankings 2014, IIT Bombay was ranked as India’s top university. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Foreign Trade",
+            "degree": "Master of Business Administration - MBA",
+            "field": "International Business",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": "Corporate Competitions: 1. Campus Finalists Reckitt Career Kompass 2022 2. Campus Finalists Amazon ACE Challenge 2022 3. National Semi-Finalist Kotak Explore 2023 4. National Semi-Finalist VoIS 2023 5. Campus Finalist HSBC IB League 2023",
+            "description_html": "Corporate Competitions:1. Campus Finalists Reckitt Career Kompass 20222. Campus Finalists Amazon ACE Challenge 20223. National Semi-Finalist Kotak Explore 20234. National Semi-Finalist VoIS 20235. Campus Finalist HSBC IB League 2023 <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " German "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 16100.0,
+    "connections": 500.0,
+    "current_company_company_id": "jpmorganchase",
+    "current_company_name": "JPMorgan Chase & Co.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "vibhuagarwal",
+    "activity": [
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "“I was on my way to work, when I saw this little boy on crutches trying to cross the road. It was raining heavily and there was construction going on…",
+            "img": "",
+            "id": "7278644352535400448"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "I had tears in my eyes after seeing a picture today and that pic had the answer to why a good education matters? Younger brother of my childhood…",
+            "img": "",
+            "id": "7278657354580041728"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "Rich people think \"Both\" Poor people think \"either\" Do you want a successful career or close relationship with your family? Both! Do you want to…",
+            "img": "",
+            "id": "7278259492897640448"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "Taking to LinkedIn to share this customer grievance because it seems that Zomato India District By Zomato Deepinder Goyal only addresses issues when…",
+            "img": "",
+            "id": "7278379583974854656"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "Just opened the waitlist to join my Fitness Challenge! 4-Week Fitness Challenge, starting Jan 13. If interested, drop your contact in the form…",
+            "img": "",
+            "id": "7278253264729489409"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "पानी की तरह बहना सीखो, हर चट्टान के बीच से रास्ता अपने आप निकलेगा !!! ये सब बोलते हैं लेकिन महत्वपूर्ण बात नीचे हैं !!! परन्तु समुन्धर के जैसा…",
+            "img": "",
+            "id": "7277889682938441728"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "So excited to be a part of this journey! Thank you for the trust shown to us - Akash Gupta, Rashi Agarwal and Tushar Mehta! Upwards and onwards…",
+            "img": "",
+            "id": "7278034262493159425"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "In an extremely early stage startup where you are looking to get into the trenches and solve problems, you should hire people who are are not just…",
+            "img": "",
+            "id": "7275761448931225600"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "Only a few are fortunate to align their passion with their profession and, I count myself among them 🙂 With over 13 years in academia, teaching has…",
+            "img": "",
+            "id": "7277911034273673217"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "Why Baniyas Are the Best at Building Businesses....? When it comes to building businesses, India has seen success stories from all walks of life.…",
+            "img": "",
+            "id": "7276844833179099136"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "I hated money. I hated what the lack of it did to our family. May 2003 At the age of 50, my parents had decided to buy a house. They had moved to…",
+            "img": "",
+            "id": "7277888440136826881"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "If you’re an early-stage founder, do this, or leave your startup to die: 1. Speed matters more than perfection. 2. Iteration beats overthinking. 3.…",
+            "img": "",
+            "id": "7276864642365186048"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "We are living in a dating recession in 2024. Relationships have become so fragile and unworthy. I guess, the more tools we have at our disposal, the…",
+            "img": "",
+            "id": "7277686823412203520"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "Beyond the numbers, one of Zepto's achievements in 2024 that I'm incredibly proud of is the brand love we've built with our customers. The best…",
+            "img": "",
+            "id": "7277699998299901952"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "If the main reason for your decision to stay back in India for education or career was to be with or around family, in times good and bad, you will…",
+            "img": "",
+            "id": "7277572651710078977"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "Swiggy team - ordered lunch today using Swiggy for Rs.1033 and paid using swiggy hdfc card and there was some spillage, so I went to help center and…",
+            "img": "",
+            "id": "7277389060766146560"
+        },
+        {
+            "interaction": "Liked by Vibhu Agarwal",
+            "link": "",
+            "title": "IS ADDING HONEY TO WARM WATER A WEIGHT LOSS SECRET?🫣 Myth: Honey in warm water melts fat and guarantees weight loss. Truth Bomb: Heating honey…",
+            "img": "",
+            "id": "7277559944424378368"
+        }
+    ],
+    "linkedin_num_id": 446471845.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

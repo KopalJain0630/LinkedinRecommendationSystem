@@ -1,0 +1,236 @@
+{
+    "id": "shikhardayal24",
+    "name": "Shikhar Dayal",
+    "city": "Patna, Bihar, India",
+    "country_code": "IN",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {},
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sachin Narang",
+            "about": null,
+            "location": "Halifax, NS"
+        },
+        {
+            "profile_link": "",
+            "name": "Dharmesh Rathore",
+            "about": "Android | Kotlin | Java | MVVM | Flutter | Dart",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshu Mittal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Joshi",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Vijay Saini",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Srivastava",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sheikh Aijaz",
+            "about": "Associate Principal Engineer | Python | Django | LLMs | OpenAI | AWS | Azure | Frontend Technologies | Innovator in AI and Cloud Solutions | Building Scalable Web Applications | Bridging AI with Real-World Applications",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mahendra Sharma",
+            "about": "Senior software engineer | React Native(android/iOS) | Re.Pack | Web pack | RsPack | Module Federation | ReactJs | Flutter | Android | Firebase | NodeJs",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Geeta Bhagat",
+            "about": null,
+            "location": "Ottawa, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreya Banerjee",
+            "about": "Full Stack Developer",
+            "location": "Pune"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kanpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "Bachelor of Technology",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Nov 2017 - Nov 2018 · 1 year 1 month",
+            "duration_short": "1 year 1 month",
+            "end_date": "Nov 2018",
+            "info": "Mentored a group of 5 participants from NIT Allahabad, to make a RC (Remote Control) flying plane model in BOEING National Aeromodelling Festival, conducted at IIT Kanpur in Nov’17.",
+            "start_date": "Nov 2017",
+            "subtitle": "Aeromodelling club IITK",
+            "title": "Student Mentor"
+        },
+        {
+            "duration": "Nov 2018 - Mar 2019 · 5 months",
+            "duration_short": "5 months",
+            "end_date": "Mar 2019",
+            "info": "Led a 3- tier team, formulated the problem statements and point system for the events and designed the arenas for them.Coordinated with Hospitality and Show Management teams for successful conduction and execution of all the events, taking care of the logistics and hospitality of the judges and around 200 participating teams from across the nation.",
+            "start_date": "Nov 2018",
+            "subtitle": "Techkriti, Indian Institute of Technology Kanpur",
+            "title": "Manager, Robogames"
+        },
+        {
+            "duration": "Mar 2019 - Jun 2020 · 1 year 4 months",
+            "duration_short": "1 year 4 months",
+            "end_date": "Jun 2020",
+            "info": "Coordinating with stakeholders of major core firms to facilitate the recruitment process for internships and placements.Organised placement preparation sessions and alumni talks to provide the students with placement insights",
+            "start_date": "Mar 2019",
+            "subtitle": "Students' Placement Office, IIT Kanpur",
+            "title": "Departmental Placement Coordinator"
+        }
+    ],
+    "followers": 908.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": null,
+    "publications": "[{\"title\":\"Comprehensive Airborne Laser Scanning (ALS) Simulation\",\"subtitle\":\"Journal of the Indian Society of Remote Sensing\",\"date\":\"March 17, 2021\",\"description\":\"The 3D topographic data generated by airborne laser scanning (ALS) has numerous applications such as urban planning, transportation planning, flood modeling and mapping. Various types of LiDAR (light detection and ranging) datasets are needed for testing and development of algorithms for these applications. Such datasets are not readily available as the LiDAR data capturing process is complex, time-consuming and expensive. Simulated ALS data can be a low-cost alternative to the expensive LiDAR datasets. This paper presents the development of a simulator (called Limulator 4.0) for ALS data. Limulator includes four components, namely 3D model component, camera component, laser component and LiDAR data generation. The first component provides a user, the facility to input user-defined 3D models of various objects. The laser component mathematically models the scanner movement and flight trajectory to generate simulated ALS parameters. The camera component takes user-defined parameters to generate images captured by a virtual camera. The effects of external and internal forces on flight movement and various errors are also modeled mathematically. Software for this simulation is developed in C +  + , and its user-friendly GUI is developed using QT Creator 5.6. Limulator can serve as the ideal testbed for developing, testing and validation of various algorithms.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Development of Camera Simulator for Autonomous Vehicles \",\"start_date\":\"Dec 2018\",\"end_date\":\"Dec 2019\",\"description\":\"Developed the code to extract the texture features of the 3D models (OBJ file format) in the form of meshes.Developed simulation to capture images from a moving vehicle using the collinearity equation, including radial lensdistortions at user-defined FPS, camera orientation, and distortion parameters, along with the simulation of LiDAR data.\"},{\"title\":\"Development of Low Cost GPS\",\"start_date\":\"Dec 2018\",\"end_date\":\"Dec 2019\",\"description\":\"Developing low cost GPS using single frequency receivers.\"},{\"title\":\"Development of Airborne LiDAR Simulator - Limulator 4.0\",\"start_date\":\"Aug 2017\",\"end_date\":\"Jul 2018\",\"description\":\"Studied the basics of laser scanning and LiDAR data capturing process. Developed the code to extract coordinates of vertices and their orientation from .obj file format for Limulator 4.0 and further analysed the code for flight trajectory generation and method to calculate intersection points using octrees. Analysed the effect of changing parameters (i.e. Pulse Repetition Frequency, Scanning Frequency, Flying height, Field of view (both along and across), Flight Velocity, Scanner movement type, Overlapping between two consecutive flights) on LiDAR data. Studied about the errors (Systematic, Random, Range, Overall) associated with LiDAR data, developed code to induce them in ideal data and analysed about their effects on the data. Improved the GUI of Limulator 4.0 with hints and tips at every step in generating LiDAR data.\"},{\"title\":\"Ornithopter\",\"start_date\":\"May 2017\",\"end_date\":\"Jul 2017\",\"description\":\"Designed on Autodesk Fusion360 and crafted a flying, lightweight, remotely piloted Ornithopter, with flapping wing mechanism, containing motor, gears and servos in a project under Aeromodelling Club, IIT Kanpur.\"}]",
+    "organizations": [
+        {
+            "title": "Indian Concrete Institution, Student Chapter",
+            "membership_type": "Member",
+            "start_date": "Aug 2017",
+            "end_date": "Aug 2018",
+            "membership_number": null
+        },
+        {
+            "title": "Techkriti, Indian Institute of Technology Kanpur",
+            "membership_type": "Principal Security Officer",
+            "start_date": "Feb 2018",
+            "end_date": "Mar 2018",
+            "description": "Lead a 3-tier team of 50 members, devised entry and exit point, crowd congestion areas for smooth and timely conduction of events. Assisted Head Security in formulation of security plan for movement of celebrities and guests.",
+            "membership_number": null
+        },
+        {
+            "title": "Techkriti, Indian Institute of Technology Kanpur",
+            "membership_type": "Senior Executive at Techkriti Open School Championship",
+            "start_date": "Jul 2017",
+            "end_date": "Jan 2018",
+            "description": "Lead a team of 10 volunteers and assisted in making necessary arrangements for smooth conduction of events in two cities – Kanpur and Patna. Assisted in formation of question paper and brought up innovative ideas for its conduction.",
+            "membership_number": null
+        }
+    ],
+    "location": "Patna",
+    "linkedin_id": "shikhardayal24",
+    "activity": [
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "This paper was written with blood, sweat, and latex (mostly latex). Happy to share that my first research paper has been published in the Journal of…",
+            "img": "",
+            "id": "7184230682934624256"
+        },
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "** Labeled LiDAR Data** - LiDAVerse For training deep learning models, you need labeled data. The benchmark data from Western countries fail to…",
+            "img": "",
+            "id": "7181264371665235968"
+        },
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "Thank you Geospatial World Rising Stars for the recognition!",
+            "img": "",
+            "id": "7156281874045173760"
+        },
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "**Seeking Comments on Standards for Aerial LiDAR Mapping** I am pleased to inform you that our team has developed Indian Standards for Aerial LiDAR…",
+            "img": "",
+            "id": "7149041477019480064"
+        },
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "👨‍💻 Introducing WhisperS2T (An Optimized Speech-to-Text Pipeline for the Whisper Model) ⚡ Despite not usually posting on LinkedIn, I couldn't keep…",
+            "img": "",
+            "id": "7141959836228796416"
+        },
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "Last week I was in Melbourne, Australia to attend #MIPAC2023 (MIPA Conference 2023). MIPA (Melbourne India Postgraduate Academy) is the flagship…",
+            "img": "",
+            "id": "7132621980805005312"
+        },
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "LiDAR sensors are the unsung heroes of autonomous systems, the very eyes that empower driverless cars to navigate and understand their surroundings…",
+            "img": "",
+            "id": "7115236146393022465"
+        },
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "Prof. Abhay Karandikar took over charge as the new India DST Secretary from Dr. Rajesh Gokhale on 3rd October 2023. DST family welcomes Abhay…",
+            "img": "",
+            "id": "7114858503873150977"
+        },
+        {
+            "interaction": "Liked by Shikhar Dayal",
+            "link": "",
+            "title": "Hi Everyone, It gives me immense pleasure to announce that I have been selected for the Post Graduate Programme in Management at Indian Institute of…",
+            "img": "",
+            "id": "6808262704562798592"
+        }
+    ],
+    "linkedin_num_id": 624317242.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

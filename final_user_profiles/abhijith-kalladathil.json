@@ -1,0 +1,82 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Kotak Mahindra Bank | IIT Madras",
+    "experience": [
+        {
+            "title": "Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Kotak Mahindra Bank",
+            "company_id": "kotak-mahindra-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "description_html": null,
+            "duration": "Nov 2020 Feb 2021 4 months",
+            "start_date": "Nov 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "4 months",
+            "company": "9stacks",
+            "company_id": "9stacks",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Naval Architecture and Marine Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: 1. Attained 2nd place representing IIT Madras in Team Abhiyaan in IGVC competition 2019, Oakland University, USA which focused on building autonomous vehicles. Received commendation from Dr. Bhaskar Ramamurthy (Director of IITM) for the achievement 2. As Head of I&AR student council, Spearheaded a team of 18 members to organize Alumni related events. Supported the office of I&AR in garnering record funding of more than INR 50+ crores through fundraising events Academic Projects: Worked on Research Paper \"Combinatorial cascading bandits\" with Prof Arjun Rajkumar (Dept. of Computer Science) Worked on differential private learning on sensitive datasets for large-scale recommendation systems  Created a high-performing modified version of cascading bandit algorithm which gave an improvement in model performance by ~29% and better time complexity Club activities: 1. Sponsorship & PR coordinator, Saarang 2019 Manage both… Show more",
+            "description_html": "Activities and Societies: 1. Attained 2nd place representing IIT Madras in Team Abhiyaan in IGVC competition 2019, Oakland University, USA which focused on building autonomous vehicles. Received commendation from Dr. Bhaskar Ramamurthy (Director of IITM) for the achievement 2. As Head of I&amp;AR student council, Spearheaded a team of 18 members to organize Alumni related events. Supported the office of I&amp;AR in garnering record funding of more than INR 50+ crores through fundraising events",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2024Credential ID UC-116e6b8c-3b7d-4069-9dce-5973b2868e1dSee credential",
+            "subtitle": "Udemy",
+            "title": "Deployment of Machine learning models"
+        },
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Kaggle",
+            "title": "Advanced SQL"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID UC-ef623772-1b8b-44ef-9abd-447c5e4f0a58See credential",
+            "subtitle": "Udemy",
+            "title": "Investment Analysis and Portfolio Management"
+        },
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "Henry Harvin Education",
+            "title": "Lean Six Sigma Green Belt (ICGB)"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID RNZ26T53MH9DSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Sep 2023Expires Sep 2026",
+            "subtitle": "Coursera",
+            "title": "Generative AI with Large Language Models"
+        }
+    ],
+    "current_company_name": "Kotak Mahindra Bank",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"NLP - ChatGPT Prompt Engineering Analysis\",\"start_date\":\"Jul 2023\",\"end_date\":\"Aug 2023\",\"description\":\"An NLP project in which ChatGPT prompts were analyzed and performed EDA (Exploratory Data Analysis).Refer to Notebook in Github for more information\"},{\"title\":\"BERT LLM Chatbot Intent Prediction\",\"start_date\":\"Jun 2023\",\"end_date\":\"Aug 2023\",\"description\":\"A project which uses Large Language Model (LLM) for predicting the intent of a customer in a chat and thus helping to arrive actionable decision based on it.\"}]",
+    "honors_and_awards": null
+}

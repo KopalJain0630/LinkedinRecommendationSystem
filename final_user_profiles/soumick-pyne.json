@@ -1,0 +1,383 @@
+{
+    "id": "soumick-pyne",
+    "name": "Soumick Pyne",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "DS @Microsoft AI | Aero + AI @IIT Kgp '23",
+    "about": "Intrigued by anything with beautiful mathematics or aesthetics, but seldom are they different. ",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Microsoft",
+        "company_id": "microsoft",
+        "title": "DS @Microsoft AI | Aero + AI @IIT Kgp '23"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Building search experiences @STCI",
+            "description_html": "Building search experiences @STCI <!---->",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Controls Team Member",
+            "location": "Kharagpur Area, India",
+            "description": "Work involves creating and implementing path planning algorithms on UAVs, developing controllers for in house mobile robot designs and multi-agent systems.",
+            "description_html": "Work involves creating and implementing path planning algorithms on UAVs, developing controllers for in house mobile robot designs and multi-agent systems. <!---->",
+            "duration": "Mar 2019 May 2023 4 years 3 months",
+            "start_date": "Mar 2019",
+            "end_date": "May 2023",
+            "duration_short": "4 years 3 months",
+            "company": "Aerial Robotics Kharagpur",
+            "company_id": "aerial-robotics-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data & Applied Scientist Intern",
+            "description": "Worked on the foundations of data visualization and analytics on an internal platform of Bing as a member of the WebXT/STCI team.",
+            "description_html": "Worked on the foundations of data visualization and analytics on an internal platform of Bing as a member of the WebXT/STCI team. <!---->",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Worked in the AI Development Group on color and shape specific object detection.",
+            "description_html": "Worked in the AI Development Group on color and shape specific object detection. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Tata Elxsi",
+            "company_id": "tataelxsi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative Research Intern",
+            "location": "Hazira, Gujarat, India",
+            "description": "Developed prediction models and risk hedging strategies for indexed contracts used by the company to buy zinc for its operations.",
+            "description_html": "Developed prediction models and risk hedging strategies for indexed contracts used by the company to buy zinc for its operations. <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "ArcelorMittal Nippon Steel India",
+            "company_id": "amnsindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Designer",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Involved in designing and hardware modelling of products like footwear based taser device, Maisotsenko cycle based cooler and automatic ceiling painter.",
+            "description_html": "Involved in designing and hardware modelling of products like footwear based taser device, Maisotsenko cycle based cooler and automatic ceiling painter. <!---->",
+            "duration": "Jul 2018 Aug 2019 1 year 2 months",
+            "start_date": "Jul 2018",
+            "end_date": "Aug 2019",
+            "duration_short": "1 year 2 months",
+            "company": "ProDex IIT Kharagpur",
+            "company_id": "prodex-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shobhit Mishra",
+            "about": "Quant Researcher at JP Morgan Chase & Co. | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Duhita Wani",
+            "about": "Building CareDale | IIT Kharagpur '23",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Taritri Bhattacharjee",
+            "about": "Graduate Research Assistant at Penn State , ARGoPS |Penn State'25 |IIT Kharagpur '23| Aerospace engineering| Space Dynamics, Astrodynamics || Penguins!",
+            "location": "State College, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Vardhan Mishra",
+            "about": "HSBC, financial engineering, IIT Kgp 24",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudh Gupta",
+            "about": "Analyst at Goldman Sachs",
+            "location": "Jammu & Kashmir, India"
+        },
+        {
+            "profile_link": "",
+            "name": "William Retnaraj",
+            "about": "Automatic Control @ UC San Diego | IIT Kharagpur",
+            "location": "San Diego, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashfaq H",
+            "about": "Data Scientist at Allstate | Ex-Accenture || NLP | Neural Network | Deep Learning",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shriram Krishna",
+            "about": "Adani Group AALP'24 | Summer Intern @ Philips | IIFT Delhi MBA(IB)' 24",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Praneet Jain",
+            "about": "Research and Development Engineer @ Sony | R&D",
+            "location": "Ota-ku"
+        },
+        {
+            "profile_link": "",
+            "name": "Advait Parameswaran",
+            "about": "MSc graduate | Aerospace Engineering | Spaceflight | Actively seeking job opportunities",
+            "location": "Delft"
+        },
+        {
+            "profile_link": "",
+            "name": "Rachel Reuben",
+            "about": null,
+            "location": "Virginia, United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Prasenjit Dey",
+            "about": "System engineer | Bogie brakes | Alstom",
+            "location": "Meghalaya, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Vemula",
+            "about": "Graduate Research Assistant @ GWU | MSCS @ GWU | Ex SWE Intern @ Bosch",
+            "location": "Washington, DC"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish JBPR",
+            "about": "employee @sedin technologies",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Jaiswal",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Calvin Lobo",
+            "about": "Cybersecurity Consultant at Palo Alto Networks",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Tripatdeep Singh",
+            "about": "Product Success - Sprinklr",
+            "location": "Amritsar"
+        },
+        {
+            "profile_link": "",
+            "name": "Aryaman Jain",
+            "about": "SDE @Microsoft | IIT Kharagpur | Computer Science",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Modassir Ali",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Agastya Kantharia",
+            "about": "Production Planning Coordinator at Dematic",
+            "location": "Sydney, NSW"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech & MTech Interdisciplinary Dual Degree",
+            "field": "Aerospace Engineering and Artificial Intelligence",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Essar International School - India",
+            "degree": "High School",
+            "field": "Maths Physics Chemistry and Computer Science",
+            "url": "",
+            "description": "Activities and Societies: Debate Team, School band, Basketball team and Table Tennis team.",
+            "description_html": "Activities and Societies: Debate Team, School band, Basketball team and Table Tennis team.",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS21003\",\"title\":\"Algorithms - I\"},{\"subtitle\":\"CD61002\",\"title\":\"High Performance Scientific Computing\"},{\"subtitle\":\"AE21008\",\"title\":\"Introduction to Flight Vehicle Controls\"},{\"subtitle\":\"EC60004\",\"title\":\"Neural Coding of Sensory Information\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID GSKZTH5G5K5JSee credential",
+            "subtitle": "Indian School of Business",
+            "title": "Trading Strategies in Emerging Markets Specialization"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID UC-5c2b4937-8a02-4475-ba4a-b855666f6f7eSee credential",
+            "subtitle": "Udemy",
+            "title": "Algorithmic Trading & Quantitative Analysis Using Python"
+        },
+        {
+            "meta": "Issued May 2020Credential ID GJYQQ2TBXYG7See credential",
+            "subtitle": "Yale University",
+            "title": "Financial Markets (with Honors)"
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID TNAM8LHXHCFMSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Sep 2019Credential ID F3YCYHL8DLPSSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID 3QREG2ZCAW5CSee credential",
+            "subtitle": "Coursera",
+            "title": "Robotics: Aerial Robotics by University of Pennsylvania"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID KKHLQGDLNVLSSee credential",
+            "subtitle": "University Of Pennsyvania",
+            "title": "Robotics: Computational Motion Planning by University of Pennsylvania on Coursera"
+        },
+        {
+            "meta": "Issued May 2019See credential",
+            "subtitle": "Georgia Institute of Technology",
+            "title": "Control of Mobile Robots"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1043.0,
+    "connections": 500.0,
+    "current_company_company_id": "microsoft",
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Hyderabad",
+    "linkedin_id": "soumick-pyne",
+    "activity": [
+        {
+            "interaction": "Liked by Soumick Pyne",
+            "link": "",
+            "title": "Can generative image models be good world models? This work from @Meta FAIR shows that there is a tradeoff between realism and diversity. The more\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7209443871095672833"
+        },
+        {
+            "interaction": "Liked by Soumick Pyne",
+            "link": "",
+            "title": "Had a great time presenting our research done at #IISc in the #ECCOMAS 2024 in Lisbon, Portugal. I spoke about our research on \u00e2\u20ac\u0153Information-theory\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7206234819293290497"
+        },
+        {
+            "interaction": "Liked by Soumick Pyne",
+            "link": "",
+            "title": "Rob McElhenney, the 47-year-old actor and entrepreneur, has spent over two decades working in Hollywood. Not every workhorse can create the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "47"
+        },
+        {
+            "interaction": "Liked by Soumick Pyne",
+            "link": "",
+            "title": "As I stand at this pivotal moment in my life, I can't help but reflect on the journey that brought me here. In my first year, I failed in 6 out of 8\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7194991089324306432"
+        },
+        {
+            "interaction": "Liked by Soumick Pyne",
+            "link": "",
+            "title": "2023 we were having two major focus area's for DevOps, SRE & QA teams. 1. Centralize framework for day to day tasks and troubleshooting issues with a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7149817015174594560"
+        },
+        {
+            "interaction": "Liked by Soumick Pyne",
+            "link": "",
+            "title": "Plasma Regimes (\u00ce\u00baT vs n diagram) Degenerate Plasma - quantum effects dominate over thermal effects(Fermi energy \u00e2\u2030\u00a5 \u00ce\u00baTe) Strongly coupled Plasma -\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6976469863355596800"
+        }
+    ],
+    "linkedin_num_id": 702774049.0,
+    "honors_and_awards": [
+        {
+            "title": "National Finalist (Top 3) in Flipkart GRiD 2.0 Autonomous Indoor Drone Challenge",
+            "publication": "Flipkart",
+            "date": "2020-09-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "1st position in product designing, OpenIIT",
+            "publication": "IIT Kharagpur",
+            "date": "2018-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Best Project on Gravitational Waves",
+            "publication": "Physical Research Laboratory",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Shining Star Award",
+            "publication": "Times of India",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "International Rank 32 in Maths Olympiad",
+            "publication": "Eduheal Foundation",
+            "date": "2016-03-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

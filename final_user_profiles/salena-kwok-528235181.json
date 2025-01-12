@@ -1,0 +1,48 @@
+{
+    "city": "New York City Metropolitan Area",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "State University of New York College at Old Westbury",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"BU 3511\",\"title\":\"Accounting 2\"},{\"subtitle\":\"BU 3610\",\"title\":\"Advanced Business Law\"},{\"subtitle\":\"FY 1000\",\"title\":\"Ethics of Engagement\"},{\"subtitle\":\"BU4762\",\"title\":\"Financial Management\"},{\"subtitle\":\"VA 2320\",\"title\":\"Graphic Design 1\"},{\"subtitle\":\"BU 3010\",\"title\":\"Information Systems for Managers\"},{\"subtitle\":\"BU 3800\",\"title\":\"Marketing: Principles & Concepts\"},{\"subtitle\":\"BU5115\",\"title\":\"Operations Management\"},{\"subtitle\":\"PE 2430\",\"title\":\"Principles of Macroeconomics\"},{\"subtitle\":\"PE 2420\",\"title\":\"Principles of Microeconomics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Excel: VLOOKUP and XLOOKUP for Beginners"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "AT&T",
+            "title": "AT&T Summer Learning Academy"
+        }
+    ],
+    "current_company_name": "Outreach: Building Healthy Lives",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Dean’s List",
+            "publication": "SUNY College at Old Westbury",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "Awarded with the Dean’s List for achieving a 4.0 semester grade point average and earned 16 credit hours of course work."
+        }
+    ]
+}

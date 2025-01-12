@@ -1,0 +1,450 @@
+{
+    "id": "mahrukh-mir",
+    "name": "Mahrukh Mir",
+    "city": "United Arab Emirates",
+    "country_code": "AE",
+    "position": "-",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "The University of Auckland",
+        "title": "-"
+    },
+    "experience": [
+        {
+            "title": "The University of Auckland",
+            "location": "Auckland, New Zealand",
+            "description_html": null,
+            "duration": "1 year 8 months",
+            "positions": [
+                {
+                    "subtitle": "The University of Auckland",
+                    "meta": "Mar 2023 - Jul 2024 1 year 5 months",
+                    "duration": "Mar 2023 Jul 2024 1 year 5 months",
+                    "start_date": "Mar 2023",
+                    "end_date": "Jul 2024",
+                    "duration_short": "1 year 5 months",
+                    "title": "Graduate Teaching Assistant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "The University of Auckland",
+                    "meta": "Dec 2022 - Jul 2024 1 year 8 months",
+                    "duration": "Dec 2022 Jul 2024 1 year 8 months",
+                    "start_date": "Dec 2022",
+                    "end_date": "Jul 2024",
+                    "duration_short": "1 year 8 months",
+                    "title": "Research Assistant",
+                    "description_html": null
+                }
+            ],
+            "company": "The University of Auckland",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Chief Technology Officer",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "Jul 2022 Mar 2023 9 months",
+            "start_date": "Jul 2022",
+            "end_date": "Mar 2023",
+            "duration_short": "9 months",
+            "company": "Growdash",
+            "company_id": "growdash",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Manager - AdTech",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "Mar 2020 Jun 2021 1 year 4 months",
+            "start_date": "Mar 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "1 year 4 months",
+            "company": "talabat",
+            "company_id": "talabat-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Careem",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "3 years 4 months",
+            "positions": [
+                {
+                    "subtitle": "Careem",
+                    "meta": "Oct 2018 - Mar 2020 1 year 6 months",
+                    "duration": "Oct 2018 Mar 2020 1 year 6 months",
+                    "start_date": "Oct 2018",
+                    "end_date": "Mar 2020",
+                    "duration_short": "1 year 6 months",
+                    "title": "Performance & Strategy Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Careem",
+                    "meta": "Jul 2017 - Oct 2018 1 year 4 months",
+                    "duration": "Jul 2017 Oct 2018 1 year 4 months",
+                    "start_date": "Jul 2017",
+                    "end_date": "Oct 2018",
+                    "duration_short": "1 year 4 months",
+                    "title": "Experience Lead",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Careem",
+                    "meta": "Dec 2016 - Jun 2017 7 months",
+                    "duration": "Dec 2016 Jun 2017 7 months",
+                    "start_date": "Dec 2016",
+                    "end_date": "Jun 2017",
+                    "duration_short": "7 months",
+                    "title": "Performance Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Careem",
+            "company_id": "careem",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Regional Talent Manager",
+            "description_html": null,
+            "duration": "Apr 2015 Mar 2016 1 year",
+            "start_date": "Apr 2015",
+            "end_date": "Mar 2016",
+            "duration_short": "1 year",
+            "company": "AIESEC",
+            "company_id": "aiesec",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Research Intern",
+            "description_html": null,
+            "duration": "Jul 2015 Sep 2015 3 months",
+            "start_date": "Jul 2015",
+            "end_date": "Sep 2015",
+            "duration_short": "3 months",
+            "company": "Engro Corp",
+            "company_id": "engro-corp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Gillio Zahr",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Faran Ahmad",
+            "about": "Driving Enterprise Sales & Digital Transformation | 10+ Years of Leadership in AI, Blockchain & Automation Solutions | SaaS, PaaS | C-Level Engagement | Revenue Growth & Team Leadership",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Maged Zamzam",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Hala Keyrouz",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Tajdar Yousafzai",
+            "about": "Engagement Director International at ClassLink",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayman Wahid",
+            "about": "Senior Customer Success Manager at Deliveroo | SaaS | Customer Retention & Growth Expert",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Amir Tarek",
+            "about": "Sr. Technical Account Manager at AWS | The Cloud Computing Whisperer | B.Sc. | MBA | TOGAF® | AWS - SAA | AWS-DOP",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Pierre-Olivier Descoteaux",
+            "about": "Senior Cloud Solution Specialist Azure at Microsoft",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Kutlu Kaan Haliloğlu",
+            "about": "VP of Sales",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Sultan Moradi",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Ghassan El Rayah",
+            "about": null,
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Mahmoud Raef Haggag",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Mashaal Jamil",
+            "about": "Senior Sales Consultant, Meltwater | Break through the noise",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Andreas Kallen",
+            "about": "Senior Manager @ Excubate Corporate Startups",
+            "location": "Cologne"
+        },
+        {
+            "profile_link": "",
+            "name": "Mihail Kolev",
+            "about": "Regional Ops / IT PM / Delivery",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumit Kumar",
+            "about": "Senior Program Manager, ISM at Amazon | Nokia | IIM Indore | McCombs School of Business",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Engi Salah",
+            "about": "Director of Sales, IMEA @ TableCheck",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Parag Karkhanis",
+            "about": null,
+            "location": "Bad Vilbel"
+        },
+        {
+            "profile_link": "",
+            "name": "Rasha Mosleh",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Amira S.",
+            "about": "Client Relationship Manager",
+            "location": "United Arab Emirates"
+        }
+    ],
+    "educations_details": "The University of Auckland",
+    "education": [
+        {
+            "title": "The University of Auckland",
+            "degree": "Master's degree",
+            "field": "PSYCHOLOGY",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "The University of Auckland",
+            "degree": "Graduate Diploma",
+            "field": "PSYCHOLOGY",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "National University of Sciences and Technology (NUST)",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2022See credential",
+            "subtitle": "Waka Kotahi NZ Transport Agency",
+            "title": "University of Auckland Research Intern "
+        },
+        {
+            "meta": "Issued May 2022Credential ID 62995067e9d0bf741ee65e15See credential",
+            "subtitle": "Universitas 21",
+            "title": "Leading Change 2022 (Researcher)"
+        }
+    ],
+    "recommendations": [
+        "Enver Melih Sorkun “It’s really hard to find smartness and hard-working abilities in the same person like Mir. I had a pleasure of having Mir in the team for a year at Talabat. I was amazed how quick she can grasp business acumen and her analytical approach with strong planning capabilities made really though projects live. I always knew that I can count on her. She was definitely a unique person that makes our virtual office calls -a routine during pandemic- fun. As a team member or a leader, Mir is a person that everyone wants to work with!”"
+    ],
+    "volunteer_experience": null,
+    "followers": 1752.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "The University of Auckland",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "mahrukh-mir",
+    "activity": [
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "They said this was the key to success… they couldn’t have been more wrong 🙃",
+            "img": "",
+            "id": "7264619952723148802"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "Our 2nd BOXEO WOMEN'S SPARRING in Jakarta, Indonesia! My hope is to continue to grow Indonesia's first inclusive women's boxing community. I…",
+            "img": "",
+            "id": "7269901251172057088"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "Doularity’s new website is live! 💻 Built from the ground up, this bold design delivers a smooth user experience and top performance. Swipe through…",
+            "img": "",
+            "id": "7247831330636353537"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "We hear it all the time: “What do you specialise in?” The truth? It’s not about the industry or the label. Whether it’s a designer’s portfolio, a…",
+            "img": "",
+            "id": "7247893254698917888"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "🎉 I JUST TURNED 30! and I'm genuinely excited about it! Let’s take a quick trip down memory lane... My 20s were all over the place! I went from…",
+            "img": "",
+            "id": "30"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "Really excited to announce our $4M fundraise with top-tier investors like Y Combinator, Afore Capital, and COTU Ventures and angels from world-class…",
+            "img": "",
+            "id": "7236655127078604801"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "Comment on the post or DM me to be the first to test Mind/Me! 🧠 We’re excited to announce that Mind/Me is currently in its (second) testing phase…",
+            "img": "",
+            "id": "7236351345606176770"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "Ever feel like stress is taking over and don’t know where to start with? Well, let’s start with identifying your stressors. Stressors are those…",
+            "img": "",
+            "id": "7229787728542859264"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "I often get asked, \"Why web development when you’re studying economics?\" The answer lies in understanding how people think and what drives their…",
+            "img": "",
+            "id": "7228671721501818880"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "Most frequently asked question: why did you name it mind/me? Why did you use the slash? The name Mind/me is more than just a label; it’s a…",
+            "img": "",
+            "id": "7229011081560518657"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "I'll be writing a lot this week about the Dubai Health Authority's Mental Wealth Framework, but we need to know why wellbeing matters, how it…",
+            "img": "",
+            "id": "7223591121413668864"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "Striving to be perfect can wreak havoc on your mental health and well-being. To tackle the problem, Dubai has announced the launch of a $28.5 million…",
+            "img": "",
+            "id": "28"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "For over 100 years, this has been the dominant model of how curiosity operates. - moderate confidence leads to maximal curiosity - moderate prior…",
+            "img": "",
+            "id": "100"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "🔍How do humans spend the average day? I have often wondered what the average person does, and now I finally have more insight! \"Here, we estimate…",
+            "img": "",
+            "id": "7187958431775870976"
+        },
+        {
+            "interaction": "Liked by Mahrukh Mir",
+            "link": "",
+            "title": "Lots of academic interest is currently going into understanding the properties of synthetic data (i.e., Large Language Models imitating human…",
+            "img": "",
+            "id": "7151685511181463552"
+        }
+    ],
+    "linkedin_num_id": 393783646.0,
+    "honors_and_awards": [
+        {
+            "title": "Excellence Scholarship",
+            "publication": "The University of Auckland",
+            "date": "2023-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Careem Culture Champion",
+            "publication": "Careem",
+            "date": "2018-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Careem Excellence Award",
+            "publication": "Careem",
+            "date": "2017-06-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,235 @@
+{
+    "id": "vijay-uyyala",
+    "name": "Vijay Kumar Uyyala",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Software Engineer, Barclays | IIT KGP '22",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Barclays",
+        "company_id": "barclays-bank",
+        "title": "Software Engineer, Barclays | IIT KGP '22"
+    },
+    "experience": [
+        {
+            "title": "Barclays",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "2 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Barclays",
+                    "meta": "Feb 2024 - Present 11 months",
+                    "description": "Software Engineer at Trade Transaction Reporting Engineering Team. Building resilient Springboot Kafka Applications for seamless reporting of Trades.",
+                    "duration": "Feb 2024 - Present 11 months",
+                    "start_date": "Feb 2024",
+                    "end_date": "Present",
+                    "duration_short": "11 months",
+                    "title": "Software Engineer",
+                    "description_html": "Software Engineer at Trade Transaction Reporting Engineering Team. Building resilient Springboot Kafka Applications for seamless reporting of Trades. <!---->"
+                },
+                {
+                    "subtitle": "Barclays",
+                    "meta": "Apr 2023 - Feb 2024 11 months",
+                    "description": "API Developer in Barclays Mobile Banking Gateway team.",
+                    "duration": "Apr 2023 Feb 2024 11 months",
+                    "start_date": "Apr 2023",
+                    "end_date": "Feb 2024",
+                    "duration_short": "11 months",
+                    "title": "Java Software Developer",
+                    "description_html": "API Developer in Barclays Mobile Banking Gateway team. <!---->"
+                },
+                {
+                    "subtitle": "Barclays",
+                    "meta": "Aug 2022 - Apr 2023 9 months",
+                    "description": "Application Development and configuration using ELK stack and user-driven Kibana dashboards for enhanced visibility for application development teams across Barclays",
+                    "duration": "Aug 2022 Apr 2023 9 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "9 months",
+                    "title": "Observability SRE",
+                    "description_html": "Application Development and configuration using ELK stack and user-driven Kibana dashboards for enhanced visibility for application development teams across Barclays <!---->"
+                }
+            ],
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "UG Departmental Representative",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Sep 2021 May 2022 9 months",
+            "start_date": "Sep 2021",
+            "end_date": "May 2022",
+            "duration_short": "9 months",
+            "company": "EECE IIT Kharagpur",
+            "company_id": "eece-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Pune, Maharashtra, India",
+            "description": "Software Developer Intern",
+            "description_html": "Software Developer Intern <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Public Relations Trainee",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Sep 2018 Feb 2019 6 months",
+            "start_date": "Sep 2018",
+            "end_date": "Feb 2019",
+            "duration_short": "6 months",
+            "company": "TeamKART",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shweta Sood",
+            "about": "I lead high impact campaigns to end industrial animal agriculture with a focus on mobilisation, strategic planning and communications.",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Manisha Kumari",
+            "about": "Marketing & Communications Executive at Renishaw",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Martin Jose",
+            "about": "IIT Kharagpur 2024 | PhD Student at Laboratoire de m\u00c3\u00a9caniques des fluides Lille",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Pragati Jain",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Nisha Singh",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Narayana Jr college",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "NTR Model School",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1873.0,
+    "connections": 500.0,
+    "current_company_company_id": "barclays-bank",
+    "current_company_name": "Barclays",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Pune",
+    "linkedin_id": "vijay-uyyala",
+    "activity": [
+        {
+            "interaction": "Liked by Vijay Kumar Uyyala",
+            "link": "",
+            "title": "What an electrifying atmosphere at the Generative AI Hackathon! A perfect blend of creativity, innovation, and collaboration brought together\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7263664510492663809"
+        },
+        {
+            "interaction": "Liked by Vijay Kumar Uyyala",
+            "link": "",
+            "title": "I am thrilled to announce that I have joined American Express as a Senior Analyst - Data Science! I am excited to start this new journey and make a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7255148516371505152"
+        },
+        {
+            "interaction": "Liked by Vijay Kumar Uyyala",
+            "link": "",
+            "title": "Exactly six months back, I left my well-paying job to start something new. After Pillow shut down, Ujjwal, Saran and I went on our own separate\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7225837632268730368"
+        },
+        {
+            "interaction": "Liked by Vijay Kumar Uyyala",
+            "link": "",
+            "title": "Tryst with Transformation! At the stroke of midnight, when the combustion gave way to the electric, a new era dawned for TeamKART on this special\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7152008672989081601"
+        },
+        {
+            "interaction": "Liked by Vijay Kumar Uyyala",
+            "link": "",
+            "title": "Prof. T K Bhattacharyya along with his research scholars Mr. Avik Seth and Ms. Lisa Sarkar of Department of Electronics and Electrical Communication\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7146160693275209728"
+        },
+        {
+            "interaction": "Liked by Vijay Kumar Uyyala",
+            "link": "",
+            "title": "1000 families are not going to have a happy new year... is all over LinkedIn. Paytm lays off 1000 employees. But was this truly unforeseen ? Were\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7145101923145162752"
+        },
+        {
+            "interaction": "Liked by Vijay Kumar Uyyala",
+            "link": "",
+            "title": "I'm excited to kick-off my career at Buogra Limited, a sustainable energy firm in Hong Kong SAR developing cutting-edge solutions for the renewables\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7132955873970180096"
+        }
+    ],
+    "linkedin_num_id": 689709631.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

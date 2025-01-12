@@ -1,0 +1,387 @@
+{
+    "id": "nikitagautam03a",
+    "name": "Nikita Gautam",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "Product Manager |  IIT Kharagpur Graduate | SDE Intern at Microsoft",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Blinkit",
+        "company_id": "letsblinkit",
+        "title": "Product Manager |  IIT Kharagpur Graduate | SDE Intern at Microsoft"
+    },
+    "experience": [
+        {
+            "title": "Associate Product Manager",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Blinkit",
+            "company_id": "letsblinkit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Mar 2021 Jun 2021 4 months",
+            "start_date": "Mar 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "4 months",
+            "company": "Leap Finance",
+            "company_id": "leap-global-education",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "•The object of the project was to create a cmdlet utility allowing internal partners tovalidate their query and in turn create Search Folders with appropriate items in themailbox provided by them.• My utility took the mailbox ID and the criteria from the crawl settings provided by thepartners and returned the item count for partners to verify.• Once the query was validated through the utility, the mailbox and criteria wereon-boarded in the crawlers for crawling. This would save enormous time, resources, andefforts of partners and assistants.",
+            "description_html": "•The object of the project was to create a cmdlet utility allowing internal partners tovalidate their query and in turn create Search Folders with appropriate items in themailbox provided by them.• My utility took the mailbox ID and the criteria from the crawl settings provided by thepartners and returned the item count for partners to verify.• Once the query was validated through the utility, the mailbox and criteria wereon-boarded in the crawlers for crawling. This would save enormous time, resources, andefforts of partners and assistants.",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Hyderabad Area, India",
+            "description": "Surface Action-Oriented Individual Specific Notification on TeamsThe overall project consisted of sending automated notifications to Field sellers regarding the breach in the pipeline hygiene on teams. My work Included:1) Working on Azure Function which gets automatically triggered on receiving a message in bus topic/subscription and posting the message on BOT API endpoint.2) Working on Adaptive cards which can be surfaced on Microsoft Teams, Outlook, external mails, UWP App.3) working on simple dialog bot containing basic functionalities which was later integrated with the main bot .",
+            "description_html": "Surface Action-Oriented Individual Specific Notification on TeamsThe overall project consisted of sending automated notifications to Field sellers regarding the breach in the pipeline hygiene on teams. My work Included:1) Working on Azure Function which gets automatically triggered on receiving a message in bus topic/subscription and posting the message on BOT API endpoint.2) Working on Adaptive cards which can be surfaced on Microsoft Teams, Outlook, external mails, UWP App.3) working on simple dialog bot containing basic functionalities which was later integrated with the main bot .",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "location": "Kharagpur Area, India",
+            "description": "Formulated three events in the Techno- Management Fest, Kshitij 2018 with 600+ students from different colleges participating in Manual, Autonomous and Image Processing robot competition",
+            "description_html": "Formulated three events in the Techno- Management Fest, Kshitij 2018 with 600+ students from different colleges participating in Manual, Autonomous and Image Processing robot competition <!---->",
+            "duration": "Jul 2017 Jul 2018 1 year 1 month",
+            "start_date": "Jul 2017",
+            "end_date": "Jul 2018",
+            "duration_short": "1 year 1 month",
+            "company": "Technology Robotix Society",
+            "company_id": "technology-robotix-society",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Intern",
+            "location": "Bengaluru Area, India",
+            "description": "Proposed A/B testing mechanism and designed the KPI framework with the aid of Google Analytics. Contributed to building a knowledge tree which was the foundation of the K12 project aimed at revolutionising the way knowledge ﬂows from one standard to another. Developed a Naive Bayes + Fasttext ensemble model for subject classiﬁcation",
+            "description_html": "Proposed A/B testing mechanism and designed the KPI framework with the aid of Google Analytics. Contributed to building a knowledge tree which was the foundation of the K12 project aimed at revolutionising the way knowledge ﬂows from one standard to another. Developed a Naive Bayes + Fasttext ensemble model for subject classiﬁcation <!---->",
+            "duration": "May 2018 Jun 2018 2 months",
+            "start_date": "May 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "2 months",
+            "company": "Embibe",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shubham Lal",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Khyati Jain",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ujjawal ..",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhanshu Ranjan",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Khatri",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Venkatesh Babu AR",
+            "about": null,
+            "location": "Sunnyvale, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Tamilan Subramani",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Syesha Girdher",
+            "about": "SDE 2 at Amazon",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ram Choudhary",
+            "about": null,
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanka Jain",
+            "about": null,
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitesh Jain",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Ketan Chandak",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Arnab Bir",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Tarun Kumar Kodumuri",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikesh Singh",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankur Singla",
+            "about": "Computer Scientist-1 at Adobe",
+            "location": "Patiala"
+        },
+        {
+            "profile_link": "",
+            "name": "Kalpana Raniwal",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Tejesh Garvit",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Swetank Modi",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Priya Gupta",
+            "about": "Software Engineer III at Google | IGDTUW'20 | She/her",
+            "location": "Sunnyvale, CA"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Science - MS",
+            "field": "Chemistry",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Oak Grove School",
+            "start_year": "2006",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2021",
+            "subtitle": "Udemy",
+            "title": "Become a Product Manager "
+        },
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Flipkart",
+            "title": "Flipkart GRiD – Te[a]ch The Machines | 2019"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1184.0,
+    "connections": 500.0,
+    "current_company_company_id": "letsblinkit",
+    "current_company_name": "Blinkit",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "nikitagautam03a",
+    "activity": [
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Blinkit 🧡",
+            "img": null,
+            "id": "7240934375092015104"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Four back to back flights in ten days but guess who made it easier ;) As a founder who is always shuttling between Delhi, Bombay and Bangalore…",
+            "img": "",
+            "id": "7142715064297357314"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Zomato delivery partners are now India's Emergency Heroes. Over last 3 months, 5,000+ of our partners received professional first-responder training…",
+            "img": "",
+            "id": "7140355705110253569"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Now that's something I spent few minutes on. Simple relatable content, simple #storytelling , simple and effective visuals . Good work Blinkit…",
+            "img": "",
+            "id": "7101055290858455040"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "ISRO - Indian Space Research Organization is making the most important delivery of the year 🚀",
+            "img": "",
+            "id": "7100026755939282946"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "To my fellow Indians, Happy Independence day! 🇮🇳🇮🇳 There couldn't be a better day than today to announce that I've decided to bet on myself, and…",
+            "img": "",
+            "id": "7097240223473942528"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Honest PM - developer conversations be like 😂 P.S.: This never gets old this masterpiece. Credits: Team Workduck ❤️ P.P.S : Enough Monday…",
+            "img": "",
+            "id": "7089124315970879488"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "iPhone 14 in minutes! Available in Delhi NCR and Mumbai for now. Update to the latest app version on your iOS and Android phones to buy.",
+            "img": "",
+            "id": "14"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Most bad decisions are emotional. Most emotional decisions are done when ability to think second order effects is weak or hampered temporarily…",
+            "img": "",
+            "id": "6976026747741900800"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Being a non-smoker, I have always felt jealous of my colleagues who smoked because they could take a smoking break every couple of hours without any…",
+            "img": "",
+            "id": "6955076672576458752"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "A book about product strategy and product roadmap: STRATEGIZE by Roman Pichler. I hope you will enjoy it as much as I did!😍 Here are some…",
+            "img": "",
+            "id": "6954880208042688512"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "#FutureOfWork “Is Here“ “Is Here” = \"Jibhi\" for Nikunj “Is Here” = \"Rajgundha\" for Manudeep Choudhary Here’s a glimpse of the Product team at REA…",
+            "img": "",
+            "id": "6952133022980657152"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "From Ground to Fourth Floor: A month back, I joined Blinkit as an Associate Product Manager in Gurugram. Receiving it as a benediction at the…",
+            "img": "",
+            "id": "6951064482022322176"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Hello all! Really excited to share about my new journey as Associate Product Manager at Zomato. Thank you Nikita, Bhavya, Gaurav and Eden for a…",
+            "img": "",
+            "id": "6945832584023011330"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "Jungle Ventures is proud to back Leap Scholar and Leap Finance for the 3rd time in 2 years as they #BuildToLast. Vaibhav Singh, CFA and Arnav Kumar…",
+            "img": "",
+            "id": "75"
+        },
+        {
+            "interaction": "Liked by Nikita Gautam",
+            "link": "",
+            "title": "I have an announcement to make...",
+            "img": "",
+            "id": "6945313898006724608"
+        }
+    ],
+    "linkedin_num_id": 568108387.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

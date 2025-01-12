@@ -1,0 +1,61 @@
+{
+    "city": "Bangalore Urban, Karnataka, India",
+    "position": "Building",
+    "experience": [
+        {
+            "title": "Apollo - Fintech + Blockchain [YC-W22]",
+            "description": "Payments & Loyalty Infrastructure",
+            "description_html": "Payments &amp; Loyalty Infrastructure <!---->",
+            "duration": "Jan 2022 - Present 3 years",
+            "start_date": "Jan 2022",
+            "end_date": "Present",
+            "duration_short": "3 years",
+            "company": "Apollo First (B2B payments)",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product & Business",
+            "location": "Singapore",
+            "description": "Built B2B Expense Management & Payment Solution for SMBs in SEA.",
+            "description_html": "Built B2B Expense Management &amp; Payment Solution for SMBs in SEA. <!---->",
+            "duration": "Apr 2020 Dec 2021 1 year 9 months",
+            "start_date": "Apr 2020",
+            "end_date": "Dec 2021",
+            "duration_short": "1 year 9 months",
+            "company": "Atlantis",
+            "company_id": "atlantistechhq",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder (acq)",
+            "location": "Delhi, India",
+            "description": "Built Hyperlocal Logistictics Startup. Bootstrapped. Had a successful exit.",
+            "description_html": "Built Hyperlocal Logistictics Startup. Bootstrapped. Had a successful exit. <!---->",
+            "duration": "May 2018 Apr 2020 2 years",
+            "start_date": "May 2018",
+            "end_date": "Apr 2020",
+            "duration_short": "2 years",
+            "company": "Jhutpat Logistics",
+            "company_id": "jhutpat-logistics",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Y Combinator",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Apollo First (B2B payments)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,426 @@
+{
+    "id": "manoj-jhajharia",
+    "name": "Manoj J.",
+    "city": "Dubai, United Arab Emirates",
+    "country_code": "AE",
+    "position": "Associate Product Manager | GMG | OYO | IIT Kharagpur | Dubai",
+    "about": "E-commerce product management professional with 5+ years of experience in product management, conversion rate optimization (CRO), product analytics and A/B testing. Currently working as a Associate Product Manager at GMG Sports and primarily responsible for product discovery (Search, Recommendations and Merchandising) & checkout journey charters",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "GMG",
+        "company_id": "gmg-group",
+        "title": "Associate Product Manager | GMG | OYO | IIT Kharagpur | Dubai"
+    },
+    "experience": [
+        {
+            "title": "GMG",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "3 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "GMG",
+                    "meta": "Jul 2023 - Present 1 year 6 months",
+                    "description": "Drove the optimization of the checkout journey for Sun and Sand Sports, enhancing the cart, address, payment, order confirmation, and login/sign-up pages, resulting in a 16% increase in checkout-to-transaction conversion rate (CTT%)Implemented AI-driven product recommendations, conducted thorough audits of prerequisites and spearheaded enhancements to optimize performance and personalization; resulting into 11% increase in direct revenue recommendation Conducted multiple A/B tests to optimize the ranking relevancy of Product Listing Pages (PLPs), including the development of a new core size coverage attribute, resulting in an overall 12% increase in add-to-cart performanceIntroduced promotional tiles on the Product Details Page (PDP) to display active promotions, leading to a 3% increase in add-to-cart rates and enhancing pricing transparency for usersRedesigned the UI/UX of the search functionality including the no-result page by collaborating with the UI team, significantly improving speed and usability and user retention",
+                    "duration": "Jul 2023 - Present 1 year 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 6 months",
+                    "title": "Associate Product Manager",
+                    "description_html": "Drove the optimization of the checkout journey for Sun and Sand Sports, enhancing the cart, address, payment, order confirmation, and login/sign-up pages, resulting in a 16% increase in checkout-to-transaction conversion rate (CTT%)<br><br>Implemented AI-driven product recommendations, conducted thorough audits of prerequisites and spearheaded enhancements to optimize performance and personalization; resulting into 11% increase in direct revenue recommendation <br><br>Conducted multiple A/B tests to optimize the ranking relevancy of Product Listing Pages (PLPs), including the development of a new core size coverage attribute, resulting in an overall 12% increase in add-to-cart performance<br><br>Introduced promotional tiles on the Product Details Page (PDP) to display active promotions, leading to a 3% increase in add-to-cart rates and enhancing pricing transparency for users<br><br>Redesigned the UI/UX of the search functionality including the no-result page by collaborating with the UI team, significantly improving speed and usability and user retention"
+                },
+                {
+                    "subtitle": "GMG",
+                    "meta": "Nov 2021 - Aug 2023 1 year 10 months",
+                    "description": "Developed customer funnel level dashboards to provide real time visibility on user journey, dropoffs and managed product and customer level analyticsPerformed monthly CRO audits to identify user pain-points and enhancement opportunities toimprove conversion and user experience across multiple regions and platformsPlanned and executed 20 different A/B tests to improve sorting logic performance acrossdifferent e-commerce platform leading to 20% increase in average revenue per visitBuilt RFM model using python for customer segmentation to deliver personalised contentbased on user behaviour leading to 8% improvement in retention rate",
+                    "duration": "Nov 2021 Aug 2023 1 year 10 months",
+                    "start_date": "Nov 2021",
+                    "end_date": "Aug 2023",
+                    "duration_short": "1 year 10 months",
+                    "title": "Product Analyst",
+                    "description_html": "Developed customer funnel level dashboards to provide real time visibility on user journey, drop<br>offs and managed product and customer level analytics<br><br>Performed monthly CRO audits to identify user pain-points and enhancement opportunities to<br>improve conversion and user experience across multiple regions and platforms<br><br>Planned and executed 20 different A/B tests to improve sorting logic performance across<br>different e-commerce platform leading to 20% increase in average revenue per visit<br><br>Built RFM model using python for customer segmentation to deliver personalised content<br>based on user behaviour leading to 8% improvement in retention rate"
+                }
+            ],
+            "company": "GMG",
+            "company_id": "gmg-group",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "OYO",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "2 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "OYO",
+                    "meta": "Jan 2021 - Nov 2021 11 months",
+                    "description": "Designed and launched short term flexi stay for OYO Life during the COVID period, improvedlead to booking conversion by 20%Facilitated launch of the native app and drove feature enhancement for the consumer platformusing A/B test improving leads by 14%Improved lead distribution by 2.25x across PAN India portfolio by launching one click schedule,reducing user input and redesigning ranking algorithmLed the team for pricing and discounting, implemented inventory based, slash pricing, andredesigning of pricing section on App/Web",
+                    "duration": "Jan 2021 Nov 2021 11 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "Nov 2021",
+                    "duration_short": "11 months",
+                    "title": "Product Associate",
+                    "description_html": "Designed and launched short term flexi stay for OYO Life during the COVID period, improved<br>lead to booking conversion by 20%<br><br>Facilitated launch of the native app and drove feature enhancement for the consumer platform<br>using A/B test improving leads by 14%<br><br>Improved lead distribution by 2.25x across PAN India portfolio by launching one click schedule,<br>reducing user input and redesigning ranking algorithm<br><br>Led the team for pricing and discounting, implemented inventory based, slash pricing, and<br>redesigning of pricing section on App/Web"
+                },
+                {
+                    "subtitle": "OYO",
+                    "meta": "Jul 2019 - Jan 2021 1 year 7 months",
+                    "description": "Automated pricing by incorporating competition, cost and value based data into python model, reducing research time by 30% Led the pre-post signing pricing for 2000+ properties spanning across 5 major markets constituting for 65% of total revenue Pioneered creation of tool to divide areas into focus-non focus using python to ensure higher occupancy (~10% ) and higher AMR (~15%) Created Funnels and dashboard for tracking customer journey and identifying drop-off points using Google Analytics and Data Studio Designed automated tools to analyze property, cluster and portfolio level performance using SQL, Python, Data Studio and Google Sheets",
+                    "duration": "Jul 2019 Jan 2021 1 year 7 months",
+                    "start_date": "Jul 2019",
+                    "end_date": "Jan 2021",
+                    "duration_short": "1 year 7 months",
+                    "title": "Pricing Analyst",
+                    "description_html": "Automated pricing by incorporating competition, cost and value based data into python model, reducing research time by 30% <br><br>Led the pre-post signing pricing for 2000+ properties spanning across 5 major markets constituting for 65% of total revenue <br><br>Pioneered creation of tool to divide areas into focus-non focus using python to ensure higher occupancy (~10% ) and higher AMR (~15%) <br><br>Created Funnels and dashboard for tracking customer journey and identifying drop-off points using Google Analytics and Data Studio <br><br>Designed automated tools to analyze property, cluster and portfolio level performance using SQL, Python, Data Studio and Google Sheets"
+                }
+            ],
+            "company": "OYO",
+            "company_id": "oyo-rooms",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Internship - Software Development",
+            "location": "Pune Area, India",
+            "description": "Automated the processing of invoice by creating software to parse useful information from invoice PDFs and store them into CSV filesMade use of various tools like PDFminer, tabula, tesseract-OCR, regular expression and others to procure the required informationValidated various field using regular expression and used Gooey to create GUI for the application to provide input and output file paths",
+            "description_html": "Automated the processing of invoice by creating software to parse useful information from invoice PDFs and store them into CSV filesMade use of various tools like PDFminer, tabula, tesseract-OCR, regular expression and others to procure the required informationValidated various field using regular expression and used Gooey to create GUI for the application to provide input and output file paths <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Trinamix Inc",
+            "company_id": "trinamix",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Hockey Captain, Patel Hall",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Jul 2017 May 2018 11 months",
+            "start_date": "Jul 2017",
+            "end_date": "May 2018",
+            "duration_short": "11 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Internship",
+            "location": "greater noida",
+            "description_html": null,
+            "duration": "May 2016 Jun 2016 2 months",
+            "start_date": "May 2016",
+            "end_date": "Jun 2016",
+            "duration_short": "2 months",
+            "company": "Systemair",
+            "company_id": "systemair",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sponsorship Sub-Head",
+            "location": "IIT kharagpur",
+            "description_html": null,
+            "duration": "Jul 2015 Jan 2016 7 months",
+            "start_date": "Jul 2015",
+            "end_date": "Jan 2016",
+            "duration_short": "7 months",
+            "company": "National Students' Space Challenge",
+            "company_id": "nssc-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "T. Satyam",
+            "about": "Business Analyst at ODN Digital Services Pvt. Ltd.",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudh Sen",
+            "about": "Sr Associate Digital Product Analytics",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Garg",
+            "about": "Senior Associate @ Eversana | Healthcare & Life Science | Business Intelligence",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Niharika Kumar",
+            "about": "Key Account Manager - Ecommerce, ITC | IIM Kozhikode | SSCBS(DU)",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sujith Cheedella",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitesh Kumar",
+            "about": null,
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Arnav Bhardwaj",
+            "about": "Digital Analytics Strategist @ VERB | Business Analytics | Data Science",
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushar Anand",
+            "about": "Product Analyst | Zomato",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshul Sharma",
+            "about": "Assistant Manager at Clairvolex",
+            "location": "Dehradun"
+        },
+        {
+            "profile_link": "",
+            "name": "Haroon Rashid",
+            "about": "Senior Data Analyst-Fintech @Bajaj Finserv | Ex-Reddoorz",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Vamshidhar Reddy Ammana",
+            "about": "Building Jodaro | Ex OYO | Ex Teachmint",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Pharande",
+            "about": "Tech@Novillex | IIT Kharagpur",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "ABHISHEK YOGI",
+            "about": "Product || Fareportal || OYO || IIT Kanpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Saransh Chauhan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Farhaz Shaikh",
+            "about": "Cars24 || X OYO || X Vi || X IDEA",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Chauhan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishant Agrawal",
+            "about": "Moneyview | Ex Credit Suisse | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreshtha Mishra",
+            "about": "Data Scientist II at Expedia Group",
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Meghana Vajrapu",
+            "about": "Revenue and pricing manager - OYO | Expertise in strategic planning and data driven decision making",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Gurjar",
+            "about": "Analytics @ Noon || Zomato || OYO || IIT (ISM) Dhn",
+            "location": "India"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree (Mtech + Btech)",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "subtitle": "Google",
+            "title": "Google Tag Manager"
+        },
+        {
+            "subtitle": "LinkedIn",
+            "title": "Learning Program Management"
+        },
+        {
+            "subtitle": "LinkedIn",
+            "title": "Technology for Product Manager"
+        },
+        {
+            "subtitle": "LinkedIn",
+            "title": "UX Research : Lean Experimentation"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1445.0,
+    "connections": 500.0,
+    "current_company_company_id": "gmg-group",
+    "current_company_name": "GMG",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Dubai",
+    "linkedin_id": "manoj-jhajharia",
+    "activity": [
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "I was comparing Swiggy and Zomato on their key operating metrics and was surprised to see that Average Order Value of both for FY24 was exactly the…",
+            "img": "",
+            "id": "7268220152079376384"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "Great products are always built with great insights",
+            "img": "",
+            "id": "7258049532637175808"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "It's finally here! AHRI's first episode of the Keeping it Cool podcast is LIVE on Apple Podcasts and Spotify! Tune in today for an expert discussion…",
+            "img": "",
+            "id": "7265051320141721600"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "Thrilled to win the Trailblazer Award at #Growth Mixer 2024 Dubai 🚀 Huge thanks to Hitesh Malhotra Nupur Relekar for your guidance. Cheers to the…",
+            "img": "",
+            "id": "7264320119403663360"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "Who knew taking a #careerbreak could be this hectic? Seriously, I’ve never been busier in my entire life! 😅 The plan was to take a short break…",
+            "img": "",
+            "id": "7247839119664369664"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "As the leaves start to turn and \"Wake Me Up When September Ends\" plays on the radio, I find myself reflecting not on the end, but on a remarkable…",
+            "img": "",
+            "id": "7244656884819918848"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "I am honored to pilot the new GMG initiative, \"Behind the Title\". Leading large teams and running at 300 km/h daily to chase numbers and performance…",
+            "img": "",
+            "id": "7242466804818735105"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "Introducing Behind the Title! 🔔 Your chance to hear what makes our team members tick from morning rituals to superpowers and hidden talents to…",
+            "img": "",
+            "id": "7242445892279058432"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "I'm honored and humbled to be recognized as the 𝐄𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐋𝐞𝐚𝐝𝐞𝐫 𝐨𝐟 𝐭𝐡𝐞 𝐘𝐞𝐚𝐫 at BIGBOX 2024 - A Global Retail & e-Commerce…",
+            "img": "",
+            "id": "7239696975166664706"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "Copywriting vs. Content Writing: What’s the Difference? 🤔 Have you ever wondered why some words sell while others simply inform? It's all about the…",
+            "img": "",
+            "id": "7238757468627980288"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "I've been a writer ever since I realized that my speech impediment was going to keep me lagging in this fast-paced world. Once I picked up that pen…",
+            "img": "",
+            "id": "7231990282056024065"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "How do you save money running e-commerce campaigns? When you're operating on 50,000+ SKUs, delivering millions of impressions, utilizing AED 1Mn+…",
+            "img": "",
+            "id": "7221506354706833408"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "I’ve successfully completed the #AIforProductManagement course! Pendo, Google, and Mind the Product’s new course explored AI’s place in product…",
+            "img": "",
+            "id": "7218812118295334912"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "I'm honored to share that I have received the Credit and Fraud Risk Excellence Award at American Express. I am deeply grateful to my team, mentors…",
+            "img": "",
+            "id": "7213952346341400578"
+        },
+        {
+            "interaction": "Liked by Manoj J.",
+            "link": "",
+            "title": "Socialee 's 1st million!! 🌟🌟 This month while Dubai saw nearly a million years worth of rain, we crossed a million dollars in GMV. This is the 1st…",
+            "img": "",
+            "id": "7189329846357942272"
+        }
+    ],
+    "linkedin_num_id": 352394944.0,
+    "honors_and_awards": [
+        {
+            "title": "KVPY scholar",
+            "publication": "IISC Bangalore",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

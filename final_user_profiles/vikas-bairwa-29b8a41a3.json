@@ -1,0 +1,102 @@
+{
+    "city": "Kharagpur, West Bengal, India",
+    "position": "SDE at Nuvama (Edelweiss) | InfinityBox | IIT KGP '23",
+    "experience": [
+        {
+            "title": "Frontend Intern",
+            "description": "Managed dashboards, which were build using React.js and Minimal UIImproved the codebase, used Redux for the extensive state managementDeveloped a Feedback website for collecting user reviews with share to social media functionality",
+            "description_html": "Managed dashboards, which were build using React.js and Minimal UIImproved the codebase, used Redux for the extensive state managementDeveloped a Feedback website for collecting user reviews with share to social media functionality <!---->",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "InfinityBox",
+            "company_id": "infinitybox",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "React Native Intern",
+            "description": "Designed, developed (Frontend) and deployed an app on Play Store to assist drivers in their day to day deliveriesAdministered the optimised delivery routes by incorporating Bing Route APIIncorporated Redux Thunk and Context API for extensive state management",
+            "description_html": "Designed, developed (Frontend) and deployed an app on Play Store to assist drivers in their day to day deliveriesAdministered the optimised delivery routes by incorporating Bing Route APIIncorporated Redux Thunk and Context API for extensive state management <!---->",
+            "duration": "Feb 2022 Apr 2022 3 months",
+            "start_date": "Feb 2022",
+            "end_date": "Apr 2022",
+            "duration_short": "3 months",
+            "company": "BigGrocer",
+            "company_logo_url": ""
+        },
+        {
+            "title": "DESIGN AND MEDIA SUB HEAD",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Aug 2019 Apr 2020 9 months",
+            "start_date": "Aug 2019",
+            "end_date": "Apr 2020",
+            "duration_short": "9 months",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "MEMBER",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Aug 2019 Apr 2020 9 months",
+            "start_date": "Aug 2019",
+            "end_date": "Apr 2020",
+            "duration_short": "9 months",
+            "company": "Technology Adventure Society (TAdS) IIT Kharagpur",
+            "company_id": "technology-adventure-society-tads-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (BTech. + MTech.)",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2022Credential ID 81E7EA030CA8See credential",
+            "subtitle": "HackerRank",
+            "title": "HackerRank Skill Certificate for Javascript"
+        },
+        {
+            "meta": "Issued Apr 2022Credential ID 085FE8EC1258See credential",
+            "subtitle": "HackerRank",
+            "title": "HackerRank Skill certificate for React"
+        },
+        {
+            "meta": "Issued Nov 2020Credential ID U3SEY88VQEH9See credential",
+            "subtitle": "Coursera",
+            "title": "Databases and SQL for Data Science"
+        },
+        {
+            "meta": "Issued Nov 2020Credential ID 53QW2U4WDYBDSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Nov 2020Credential ID UEFSCGBCP5N5See credential",
+            "subtitle": "Coursera",
+            "title": "NLP: Twitter Sentiment Analysis"
+        }
+    ],
+    "current_company_name": "InfinityBox",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"House-Market\",\"start_date\":\"Jan 2022\",\"end_date\":\"Mar 2022\",\"description\":\"Created the project for learning firebase and all its utilities while honing my React skills even further.Description:A React website with mobile-centric but responsive and minimalistic UI, hosted on Vercel.Backend handled by Firebase, database by Firestore, authentication by Google OAuth, and error handling by React Toastify.Integrated with Radar API for fetching location of the listed properties.\"},{\"title\":\"Github-Miner\",\"start_date\":\"Jan 2022\",\"end_date\":\"Feb 2022\",\"description\":\"A React app to search Github profiles deployed on Vercel.This app uses the Context API along with the useContext and useReducer hooks for state management.Beautiful, clean, and responsive UI with the help of Daisy UI and Tailwind CSS.\"},{\"title\":\"Newsapp\",\"start_date\":\"Oct 2021\",\"end_date\":\"Oct 2021\",\"description\":\"It was my first React website that I created while learning from the youtube channel codewithharry.Description:Developed a news website using React and Bootstrap.Used NewsApi to fetch the news dynamically.Users can read trending news in India and also the latest news from various categories like sports, business, and technology.UI features like infinite scroll and loading bar for the time of data fetching.\"}]",
+    "honors_and_awards": null
+}

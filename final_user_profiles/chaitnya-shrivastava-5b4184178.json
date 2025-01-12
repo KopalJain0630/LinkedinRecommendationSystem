@@ -1,0 +1,61 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": null,
+    "experience": [
+        {
+            "title": "Product Manager",
+            "description": "Building query understanding for Flipkart Search",
+            "description_html": "Building query understanding for Flipkart Search <!---->",
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Flipkart",
+            "company_id": "flipkart",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical and Electronics Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Department of Management Studies, IIT Delhi",
+            "degree": "Minor degree",
+            "field": "Entrepreneurship/Entrepreneurial Studies",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Don Bosco Academy, Patna",
+            "degree": "High School Diploma",
+            "field": "ICSE 10th - 94.6% ; CBSE 12th - 93.2%",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Circuit Theory\"},{\"subtitle\":\"-\",\"title\":\"Control Engineering\"},{\"subtitle\":\"-\",\"title\":\"Data Structure and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronics\"},{\"subtitle\":\"-\",\"title\":\"Global Political Economy\"},{\"subtitle\":\"-\",\"title\":\"Probability and Stochastic Processes\"},{\"subtitle\":\"-\",\"title\":\"Signals and Systems\"},{\"subtitle\":\"-\",\"title\":\"Venture Financing and Team Management\"}]",
+    "certifications": null,
+    "current_company_name": "Flipkart",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

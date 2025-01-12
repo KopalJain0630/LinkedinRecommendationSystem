@@ -1,0 +1,97 @@
+{
+    "city": "Vishakhapatnam, Andhra Pradesh, India",
+    "position": "Zomato | Ex-McKinsey | IIT Kharagpur'23",
+    "experience": [
+        {
+            "title": "Program Manager",
+            "location": "Ahmedabad, Gujarat, India",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech",
+            "field": "Industrial and Systems Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: Associate Manager: Inter IIT Tech Meet 10.0 Executive Head: 180 Degrees Consulting Associate Manager: Entrepreneurship Cell Associate Researcher: Quant Club Debater: Debating Society Department Rank: 3",
+            "description_html": "Activities and Societies: Associate Manager: Inter IIT Tech Meet 10.0 Executive Head: 180 Degrees Consulting Associate Manager: Entrepreneurship Cell Associate Researcher: Quant Club Debater: Debating Society",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "FIITJEE",
+            "degree": "Class 11-12",
+            "field": "98.8%",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School - India",
+            "degree": "Class 1-10",
+            "field": "10/10",
+            "url": "",
+            "start_year": "2007",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Boston Consulting Group (BCG)",
+            "title": "BCG Strategy Consulting Virtual Experience Program"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "EDUONIX",
+            "title": "Live Training on Unsupervised Machine Learning"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Udemy",
+            "title": "The Complete SQL Bootcamp 2020"
+        },
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "Udemy",
+            "title": "Deep Learning A-Z"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "ALPINE TECHNOLOGIES",
+            "title": "Ethical Hacking and Network Security Workshop"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Finland Labs",
+            "title": "ML and AI Workshop"
+        }
+    ],
+    "current_company_name": "Zomato",
+    "publications": "[{\"title\":\"Delivery Optimized Discovery in Behavioral User Segmentation under Budget Constraint\",\"subtitle\":\"ACM International Conference on Information and Knowledge Management (CIKM)\",\"date\":\"October 21, 2023\"}]",
+    "patents": "[{\"title\":\"Delivery Aware Audience Segmentation\",\"patents_id\":\"US P11663\"},{\"title\":\"Joint Stochastic Optimization for Discovery & Delivery with Budget Target\",\"patents_id\":\"US P12529\"}]",
+    "projects": null,
+    "honors_and_awards": null
+}

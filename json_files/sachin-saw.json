@@ -1,0 +1,131 @@
+{
+    "id": "sachin-saw",
+    "name": "Sachin Saw",
+    "city": "Kalyan, Maharashtra, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "As a Software Dev Engineer at Amazon, I work on developing and deploying scalable and…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Amazon",
+        "company_id": "amazon"
+    },
+    "experience": null,
+    "people_also_viewed": null,
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Aug 2017 - Apr 2019 · 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Apr 2019",
+            "info": "● Volunteer at NSS UNIT-7 at IIT Kharagpur from 2017 till 2019 and worked for the upliftment of villagers and students near IIT Kharagpur● Organized surveys to collect data about education and cleanliness in Gangadharpur village and conducted rallies and street play to create awareness on the topics like education, cleanliness and alcohol abuse and also conducted a cloth collection drive for underprivileged people",
+            "start_date": "Aug 2017",
+            "subtitle": "National Service Scheme, IIT Kharagpur",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 2947.0,
+    "connections": 500.0,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Bodhan\",\"start_date\":\"Dec 2019\",\"end_date\":\"Present\",\"description\":\"● Building automated models for the evaluation of answer scripts of students through image detection and character recognition models and constructing the models for automatically answering the questions asked by students in live classes to decrease the dependency on teachers\"},{\"title\":\"Computational Geometry | C++ library\",\"start_date\":\"Dec 2019\",\"end_date\":\"Present\",\"description\":\"● A software library that contains several reliable geometric data structure and algorithms for operation in two-dimensional space● The library contains the number of operations on points, line, vector, circle, triangle, polygon and some functionality using two or more entities\"},{\"title\":\"AUTONOMOUS UNDERWATER VEHICLE \",\"start_date\":\"Dec 2017\",\"end_date\":\"Dec 2019\",\"description\":\"● Collaborated with thirty plus undergraduate students from multi-disciplines. The team is supposed to build and design a fully functional AUV which entails developing and manufacturing robust systems in the domain of mechanical, electrical and software engineering\"}]",
+    "organizations": null,
+    "location": "Kalyan",
+    "linkedin_id": "sachin-saw",
+    "activity": [
+        {
+            "interaction": "Liked by Sachin Saw",
+            "link": "",
+            "title": "Now is the time for the AI-ready…",
+            "img": "",
+            "id": "7221160412270985217"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Shared by Sachin Saw",
+            "img": "",
+            "id": "6980774986596696064"
+        },
+        {
+            "interaction": "Liked by Sachin Saw",
+            "link": "",
+            "title": "👉Post 37: Branding & Marketing Case…",
+            "img": "",
+            "id": "6974071034006126592"
+        },
+        {
+            "interaction": "Shared by Sachin Saw",
+            "link": "",
+            "title": "Junior engineer after solving his first…",
+            "img": "",
+            "id": "6974367145895833600"
+        },
+        {
+            "interaction": "Shared by Sachin Saw",
+            "link": "",
+            "title": "junior engineer trying to fix all the…",
+            "img": "",
+            "id": "6973866282869764096"
+        },
+        {
+            "interaction": "Liked by Sachin Saw",
+            "link": "",
+            "title": "🔅 𝐑𝐚𝐭𝐞 𝐋𝐢𝐦𝐢𝐭𝐢𝐧𝐠 🔅 Just…",
+            "img": "",
+            "id": "6934216707477499904"
+        }
+    ],
+    "linkedin_num_id": 658210326.0,
+    "honors_and_awards": [
+        {
+            "title": "AI Image Classification Hackathon",
+            "publication": "-",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "Ranked First in AI Image Classification Hackathon organized by KSHITIJ, IIT Kharagpur and Affine Analytics in January 2020"
+        },
+        {
+            "title": "Inter Hall Hardware Modelling (General Championship)",
+            "publication": "Technology student Gymkhana, IIT Kharagpur",
+            "date": "2019-04-01T00:00:00.000Z",
+            "description": "•Build a Robust bot having the ability to clean the unreachable drainage system and can be incorporated with minimum human interference • Bot can work in shallow as well as deep drainage, can connect with the internet and used for removing floating as well as non-floating matter"
+        },
+        {
+            "title": "Inter Hall Product Design (General Championship)",
+            "publication": "Technology student Gymkhana, IIT Kharagpur",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "● Designed a tool which eliminates all inaccuracies performed by a man while giving Cardio-Pulmonary Resuscitation (CPR) during cardiac arrest"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

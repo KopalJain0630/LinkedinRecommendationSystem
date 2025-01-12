@@ -1,0 +1,326 @@
+{
+    "id": "anuja-raj-verma",
+    "name": "Anuja Raj Verma",
+    "city": "Midnapore Sadar, India",
+    "country_code": "IN",
+    "position": "GSoC '22 @Wagtail | Full Stack Developer | IIT Kharagpur '23",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "NimbleWork, Inc. (formerly Digité)",
+        "company_id": "nimblework",
+        "title": "GSoC '22 @Wagtail | Full Stack Developer | IIT Kharagpur '23"
+    },
+    "experience": [
+        {
+            "title": "Associate Full stack developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2023 Dec 2023 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Dec 2023",
+            "duration_short": "7 months",
+            "company": "NimbleWork, Inc. (formerly Digité)",
+            "company_id": "nimblework",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Advisor",
+            "description_html": null,
+            "duration": "Jul 2021 Jun 2023 2 years",
+            "start_date": "Jul 2021",
+            "end_date": "Jun 2023",
+            "duration_short": "2 years",
+            "company": "Students'​ Alumni Cell, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Open Source Contributor",
+            "description": "Working under the organization named Wagtail as a part of GSoC 2022Improved the accissibility of Wagtail's admin panel for High Contrast users by adding the media query for all contrast themes. Conducted automated accessibility tests using Pa11y and JS over the wagtail's demo website to check for accessibility issues",
+            "description_html": "Working under the organization named Wagtail as a part of GSoC 2022Improved the accissibility of Wagtail's admin panel for High Contrast users by adding the media query for all contrast themes. Conducted automated accessibility tests using Pa11y and JS over the wagtail's demo website to check for accessibility issues <!---->",
+            "duration": "Jun 2022 Sep 2022 4 months",
+            "start_date": "Jun 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "4 months",
+            "company": "Google Summer of Code",
+            "company_id": "google-summer-of-code-2019",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "India",
+            "description": "Crafted a python code to extractthe data from PDF files and convert the data into JSON files using the Python-fitz library. Worked with AWS-Lambda and wrote a lambda function to trigger an event to upload/retrieve files to/from the S3 buckets",
+            "description_html": "Crafted a python code to extractthe data from PDF files and convert the data into JSON files using the Python-fitz library. Worked with AWS-Lambda and wrote a lambda function to trigger an event to upload/retrieve files to/from the S3 buckets <!---->",
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "Mobius Knowledge Services",
+            "company_id": "mobius-knowledge-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Head",
+            "description": "Designed, created and deployed the company's website, to build a fund raising platform to support the COVID affected families. Led a team of six and built the company's website from scratch using express js for backend and bootstrap for frontend",
+            "description_html": "Designed, created and deployed the company's website, to build a fund raising platform to support the COVID affected families. Led a team of six and built the company's website from scratch using express js for backend and bootstrap for frontend <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "eDOPT",
+            "company_id": "edopt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Developer",
+            "description": "Created and tested a new ecommerce website for the company using Django and SQLite as the database for the system. Incoporated register, store, users and home applications in the website for managing data at backend from the Django Admin",
+            "description_html": "Created and tested a new ecommerce website for the company using Django and SQLite as the database for the system. Incoporated register, store, users and home applications in the website for managing data at backend from the Django Admin <!---->",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Vasaas",
+            "company_id": "vasaas",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Head",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Aug 2020 Apr 2021 9 months",
+            "start_date": "Aug 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "9 months",
+            "company": "Students'​ Alumni Cell, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Back End Developer",
+            "description": "Improved the efficiency of content and data submission per day to the website by the operations team and content writing teams. Managed the Django admin panel over the website and introduced various editing options on the admin for Operational team",
+            "description_html": "Improved the efficiency of content and data submission per day to the website by the operations team and content writing teams. Managed the Django admin panel over the website and introduced various editing options on the admin for Operational team <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "The Tarzan Way",
+            "company_id": "thetarzanway",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web team member",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Aug 2019 Apr 2020 9 months",
+            "start_date": "Aug 2019",
+            "end_date": "Apr 2020",
+            "duration_short": "9 months",
+            "company": "Students'​ Alumni Cell, Office of Alumni Affairs, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Praveen Kumar",
+            "about": "Final Year Student | IIT Kharagpur",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhumita Paul",
+            "about": "Manager - Data Science at American Express | IIT Kharagpur'21",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Amina Begum",
+            "about": "Actively seeking Frontend Developer role",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratik Garai",
+            "about": "Software Engineer @Microsoft",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Swapnanil Halder",
+            "about": "SDE II @ Honeywell | Mathematics and Computing, IIT Kharagpur'23 | Students' Alumni Cell",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritish Dutt",
+            "about": "Program Manager at Multiplier | IIT KGP '23",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Yerni Jyotshna Sri Koilada",
+            "about": "Associate Software Engineer | ServiceNow",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Divyansh Gupta",
+            "about": "Product Developer | TCG Digital | IIT Kharagpur | Full Stack | MERN",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Beniwal",
+            "about": null,
+            "location": "Hanumangarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Mudhol",
+            "about": "Standard Chartered Bank | IIT KGP 23 | Citymall | NITI Aayog | Mazars | Educational Initiatives | Mindspark | ISB | RMSOEE",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Chaitanya Rai",
+            "about": null,
+            "location": "Jabalpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Komal Sharma",
+            "about": "IIM Kozhikode | Aditya Birla Scholar'24 | Goldman Sachs: WPSF'21 finalist | IIT Roorkee",
+            "location": "Kozhikode"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhankar Banerjee",
+            "about": "MTS @Oracle | SDE Intern '21 @Oracle | IIT KHARAGPUR'22 | E&EC - Major | CSE-Minor|",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Biswas",
+            "about": "Data Scientist at Microsoft",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinav Mishra",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Gadge",
+            "about": "SDE2 @ JLR India | IIT Kharagpur'22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Bhatia",
+            "about": "Web Developer || Django || Technology Enthusiast",
+            "location": "Hamilton, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushar Tyagi",
+            "about": "Software Engineer at zepto",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitish Kumar Jatwar",
+            "about": "SDE @Flexport | Ex - Intuit | Ex - Optum(UHG) | NITRR CSE '22",
+            "location": "Bilaspur"
+        },
+        {
+            "profile_link": "",
+            "name": "Prabhu Subramanian",
+            "about": "Software Engineer @ Microsoft | Graduated @ IIT Kharagpur | Mathematics & Computing",
+            "location": "Hyderabad"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integerated M.Sc Physics",
+            "field": "Physics",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "May 2018 - Jun 2018 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Jun 2018",
+            "info": "Volunteered to help the students at Government High School, Teraifatak Lalitpur (U.P.) to be educated about the advantages of computer science. Giving the students an insight into how the world of computer science has shrunken the world.",
+            "start_date": "May 2018",
+            "subtitle": "Government High School - India",
+            "title": "Computer Science Teaching Assistant"
+        }
+    ],
+    "followers": 1033.0,
+    "connections": 500.0,
+    "current_company_company_id": "nimblework",
+    "current_company_name": "NimbleWork, Inc. (formerly Digité)",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Junesun\",\"start_date\":\"Nov 2021\",\"end_date\":\"Dec 2021\",\"description\":\"Created and deployed websites for government schools using firebase\"}]",
+    "organizations": null,
+    "location": "Midnapore Sadar",
+    "linkedin_id": "anuja-raj-verma",
+    "activity": [
+        {
+            "interaction": "Liked by Anuja Raj Verma",
+            "link": "",
+            "title": "These are 2 pictures 5 years apart. The first one is my first day at Indian Institute of Technology, Kharagpur and the second one is my final day at…",
+            "img": "",
+            "id": "7143952655797608448"
+        },
+        {
+            "interaction": "Liked by Anuja Raj Verma",
+            "link": "",
+            "title": "I'm working on a blog series titled \"Test First Test Everything\". It covers topics like TDD, effective testing tips, making TDD easier, and non-logic…",
+            "img": "",
+            "id": "7094757392160092160"
+        },
+        {
+            "interaction": "Liked by Anuja Raj Verma",
+            "link": "",
+            "title": "I’m happy to share that I’m starting a new position as Assistant Manager - Operations at Mobius Knowledge Services! Thanks to Nigil, Vignesh and…",
+            "img": "",
+            "id": "6937462344054628352"
+        }
+    ],
+    "linkedin_num_id": 755442023.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

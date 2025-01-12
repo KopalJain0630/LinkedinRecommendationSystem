@@ -1,0 +1,72 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Crescent Enterprises",
+    "publications": "[{\"title\":\"Study of the coffee stain phenomenon of a polymer blend solution drop on an inert substrate\",\"subtitle\":\"SCHEMCON\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Honda Y-E-S Forum\",\"start_date\":\"Jul 2019\",\"end_date\":\"Dec 2020\",\"description\":\"Selected for the Honda Y-E-S Forum 2020 in Tokyo among 362 Awardees by the Honda Foundation, Japan.\"},{\"title\":\"Evaporation Induced Patterning\",\"start_date\":\"Oct 2016\",\"end_date\":\"Mar 2020\",\"description\":\"• Investigated self-organized patterns from the evaporation of an organic solvent from the solution of polymer blends characterizing coffee ring effect• Prepared blends of PMMA and PS in different solvents by varying proportions observing modulation of patterns with concentration and solubility• Analysed Rayleigh- Benard cells, differential evaporation; thermocapillary, Marangoni flow, and contact- line pinning- depinning\"}]",
+    "honors_and_awards": [
+        {
+            "title": "McKinsey Achievement Awards Mentorship Program",
+            "publication": "McKinsey & Company",
+            "date": "2021-09-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Institute Honorable Mention in Technology",
+            "publication": "Indian Institute of Technology Kharagpur",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "Awarded Institute Honorable Mention for contribution and excellence in technology related activities on & off-campus"
+        },
+        {
+            "title": "Winners",
+            "publication": "Niti Aayog",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "International Finalist at the Circular Economy Challenge",
+            "publication": "Ekonnect Knowledge Foundation",
+            "date": "2020-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Global Third at Global Business Challenge 2020",
+            "publication": "Global Business Challenge",
+            "date": "2020-10-01T00:00:00.000Z",
+            "description": "• Global Third in the Global Business Challenge 2020 among 153 teams across 23 nations, representing India in the October 2020 finals • Co-founded EcoDabba, a sustainable food-packaging startup with completely bio-degradable, leak-proof, and non-toxic product line"
+        },
+        {
+            "title": "Global Top 6 at the CharterQuest CFO Global Case Study Competition",
+            "publication": "CharterQuest",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "• Global Top 6 in The CFO Global Case Study Competition 2021 out of the 580 teams from 86 universities and 48 countries • Will be representing India in the Global Finals to be held in Johannesburg in October 2021."
+        },
+        {
+            "title": "University of Alberta Research Experience Fellowship",
+            "publication": "University of Alberta",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Honda Young Engineer and Scientist's Award",
+            "publication": "Honda Foundation, Japan",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "One of the 14 recipients of Honda Young Engineer and Scientist's Award across 6 IITs for excelling in the area of science and technology. The Honda Foundation executes various programs for young talented students in Asian countries to aim at the development of human resources to inherit and promote the dissemination of ecotechnology. The Honda Y-E-S award is awarded to 14 bright students from six IITs selected through the processes of application screening, essay writing and two rounds… Show more"
+        }
+    ]
+}

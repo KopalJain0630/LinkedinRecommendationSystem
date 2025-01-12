@@ -1,0 +1,535 @@
+{
+    "id": "yogeshyogendra-26bbb518a",
+    "name": "Yogesh Yogendra",
+    "city": "Haora, West Bengal, India",
+    "country_code": "IN",
+    "position": "SDE-1 @ Amazon | 50k+ Subs @ YT | Ex-Zeotap | Educator",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Amazon",
+        "company_id": "amazon",
+        "title": "SDE-1 @ Amazon | 50k+ Subs @ YT | Ex-Zeotap | Educator"
+    },
+    "experience": [
+        {
+            "title": "Software Development Engineer 1",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "YouTuber",
+            "description": "- Gained 5000+ Subscribers within 2 Months.- Teach DS & Algo.- Create Informative Videos for Engineering Students.",
+            "description_html": "- Gained 5000+ Subscribers within 2 Months.- Teach DS &amp; Algo.- Create Informative Videos for Engineering Students. <!---->",
+            "duration": "Oct 2020 - Present 4 years 3 months",
+            "start_date": "Oct 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 3 months",
+            "company": "YouTube",
+            "company_id": "youtube",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Worked on a Project named Source Analytics, where I implemented all the write and read APIs- Worked on a Project named Profile API (done LLD, HLD, DB design and end-to-end implementation for Delete API)",
+            "description_html": "- Worked on a Project named Source Analytics, where I implemented all the write and read APIs- Worked on a Project named Profile API (done LLD, HLD, DB design and end-to-end implementation for Delete API) <!---->",
+            "duration": "Sep 2021 Jun 2022 10 months",
+            "start_date": "Sep 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "10 months",
+            "company": "Zeotap",
+            "company_id": "zeotap",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Educator",
+            "location": "India",
+            "description": "Educator at CodeChef.Helping students prepare for their Tech Interviews and teaching Data Structures and Algorithms!",
+            "description_html": "Educator at CodeChef.Helping students prepare for their Tech Interviews and teaching Data Structures and Algorithms! <!---->",
+            "duration": "Sep 2021 Apr 2022 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "8 months",
+            "company": "CodeChef",
+            "company_id": "codechef",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "CP Coordinator",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "Dec 2020 Jan 2022 1 year 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2022",
+            "duration_short": "1 year 2 months",
+            "company": "CODECHEF AOT CHAPTER",
+            "company_id": "codechef-aot-chapter",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Educator",
+            "location": "India",
+            "description": "Taught DSA with C++ from basics to Advance in Newton School Youtube Channel",
+            "description_html": "Taught DSA with C++ from basics to Advance in Newton School Youtube Channel <!---->",
+            "duration": "Jun 2021 Dec 2021 7 months",
+            "start_date": "Jun 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "7 months",
+            "company": "Newton School",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Educator",
+            "description": "Taught Data Structures and Algorithms through Unacademy's Live Channel.Mentored 500+ students and helped them grab placements.",
+            "description_html": "Taught Data Structures and Algorithms through Unacademy's Live Channel.Mentored 500+ students and helped them grab placements. <!---->",
+            "duration": "Jun 2021 Sep 2021 4 months",
+            "start_date": "Jun 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "4 months",
+            "company": "Unacademy",
+            "company_id": "unacademy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Problem Setter",
+            "description_html": null,
+            "duration": "Mar 2021 Jun 2021 4 months",
+            "start_date": "Mar 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "4 months",
+            "company": "HackerEarth",
+            "company_id": "hackerearth",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Open Source Developer",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "Mar 2021 May 2021 3 months",
+            "start_date": "Mar 2021",
+            "end_date": "May 2021",
+            "duration_short": "3 months",
+            "company": "GirlScript Summer of Code",
+            "company_id": "girlscriptsoc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "CP Club @ AOT",
+            "description_html": null,
+            "duration": "10 months",
+            "positions": [
+                {
+                    "subtitle": "CP Club @ AOT",
+                    "meta": "Aug 2020 - May 2021 10 months",
+                    "duration": "Aug 2020 May 2021 10 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "10 months",
+                    "title": "Problem Setter",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "CP Club @ AOT",
+                    "meta": "Aug 2020 - May 2021 10 months",
+                    "description": "Cp club @aot is our effort to build a strong community in our college to spread awareness of competitive coding amoung us.",
+                    "duration": "Aug 2020 May 2021 10 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "10 months",
+                    "title": "Co-founder",
+                    "description_html": "Cp club @aot is our effort to build a strong community in our college to spread awareness of competitive coding amoung us. <!---->"
+                }
+            ],
+            "company": "CP Club @ AOT",
+            "company_id": "cp-club-aot",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description_html": null,
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "Prixled",
+            "company_id": "prixled",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Development Intern",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "Feb 2020 Mar 2020 2 months",
+            "start_date": "Feb 2020",
+            "end_date": "Mar 2020",
+            "duration_short": "2 months",
+            "company": "Digital Marketing Ventures",
+            "company_id": "thedmventures",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shailesh Yogendra",
+            "about": null,
+            "location": "Haora"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Jain",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashutosh Singla",
+            "about": "CTO, Co founder - Bik, Manifest AI",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Asawa",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Chandak",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Navdeesh Ahuja",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Singh",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Singh",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Utsav Tiwary",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajeev Ranjan",
+            "about": "Senior Security Analyst | Threat Hunting | Blue Team | incident response | Forensic Analysis | Threat Intelligence",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Academy of Technology",
+    "education": [
+        {
+            "title": "Academy of Technology",
+            "degree": "B.Tech(CSE)",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya vidyalaya",
+            "degree": "CBSE",
+            "field": "SCIENCE",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St.Helens School",
+            "degree": "ICSE",
+            "field": "SCIENCE",
+            "start_year": "2010",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020Credential ID GSF/WB/241220/A259See credential",
+            "subtitle": "GirlScript Foundation",
+            "title": "Winner of Breaking Code Contest"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "Prixled",
+            "title": "SWE Internship Certificate"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID UC-756a567a-ed25-4d88-b0a3-fa0fb108d484See credential",
+            "subtitle": "Udemy",
+            "title": "MERN Stack Master Course"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 54648",
+            "subtitle": "Coding Ninjas India",
+            "title": "Ninja Hire Certificate"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 238E231309ABSee credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Basics)"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID F6156CACE18ESee credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Intermediate)"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 13B78D5CDA88See credential",
+            "subtitle": "HackerRank",
+            "title": "Python Certificate"
+        },
+        {
+            "meta": "Issued Feb 2020Credential ID UC-8eff4e81-55be-4613-926d-c69d0f25cae5See credential",
+            "subtitle": "Udemy",
+            "title": "The Complete 2020 Web Development Bootcamp"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Qwiklabs",
+            "title": "Baseline: Infrastructure"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Qwiklabs",
+            "title": "Cloud Architecture"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID C4YFXTTE36E2See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Qwiklabs",
+            "title": "Kubernetes in the Google Cloud"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID TEASP8UGC4Y3See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID ARMCG6JAE65CSee credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structure"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID 7JVH75AMWQ5RSee credential",
+            "subtitle": "Coursera",
+            "title": "Using Python to Access Web Data"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID KXPM9NJSMYHXSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Apr 2019Credential ID NPTEL19CS09S51430095See credential",
+            "subtitle": "NPTEL",
+            "title": "Joy of Computing Using Python"
+        },
+        {
+            "meta": "Issued Mar 2019Credential ID 1014-12880566See credential",
+            "subtitle": "SoloLearn",
+            "title": "HTML"
+        },
+        {
+            "meta": "Issued Mar 2019Credential ID 1073-12880566See credential",
+            "subtitle": "SoloLearn",
+            "title": "Python 3"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID NPTEL18HS30S11370344See credential",
+            "subtitle": "NPTEL",
+            "title": "Developing Soft Skills and Personality"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 46607.0,
+    "connections": 500.0,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Algorithm Visualizer",
+            "start_date": "Aug 2020",
+            "end_date": "Sep 2020",
+            "description": "\u00e2\u20ac\u00a2 Developed a Web Application for visualizing Sorting algorithms.\u00e2\u20ac\u00a2 My application helped 100+ students to visualize all kind of Algorithms.\u00e2\u20ac\u00a2 Tech used are HTML , CSS , JavaScript , Reactjs"
+        },
+        {},
+        {
+            "title": "COVID19 Tracker",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "description": "\u00e2\u20ac\u00a2 Developed Frontend UI using React Framework.\u00e2\u20ac\u00a2 Fetching State wise covid19 details and it is updated in every hour.\u00e2\u20ac\u00a2 Added Search feature for searching States."
+        },
+        {},
+        {
+            "title": "Daily Journal Blog WebApp",
+            "start_date": "Jan 2020",
+            "end_date": "Feb 2020",
+            "description": "\u00e2\u20ac\u00a2 Developed Web Application for writing Blogs , Articles.\u00e2\u20ac\u00a2 User can perform all kind of CRUD operations.\u00e2\u20ac\u00a2 Built REST API using Nodejs and added the Authentication System."
+        },
+        {},
+        {
+            "title": "Todo List Prime WebApp",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "description": "This is our Todo List Webapp. Here you can add your daily routine which you have decided to do on a particulr day. And after complition of that work you can simply remove that post."
+        },
+        {
+            "title": "Weather Forecast WebApp",
+            "start_date": "Oct 2019",
+            "end_date": "Nov 2019",
+            "description": "This is the weather forecast webapp.With the help of this app you can get the weather forecast of different cities across India."
+        }
+    ],
+    "organizations": null,
+    "location": "Haora",
+    "linkedin_id": "yogeshyogendra-26bbb518a",
+    "activity": [
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "They say you've 50 problems to solve unless you're sick. Then you've only one problem to solve. \u00f0\u0178\u00ab\u00a0and I lived this in literal sense just last week.\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "50"
+        },
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "All of us are aware of the hype around tier-3 colleges and the lack of on-campus placements. \u00f0\u0178\u02dc\u2026 I secured: \u00e2\u0153\u2026 9.6 CGPA in Class 10 \u00e2\u0153\u2026 91% in Class\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7276116696103317505"
+        },
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "OMG!!! My Youtube Channel just crossed 1 Million+ views! \u00f0\u0178\u017d\u2030 Link :  I\u00e2\u20ac\u2122m so grateful for everyone who watched, liked\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7272929900708208642"
+        },
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "How to Get an Internship in 2025 \u00f0\u0178\u0161\u20ac Coming from a tier-3 college, securing an off-campus internship was a challenging journey for me. There were\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7271727690913607681"
+        },
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "Step by Step Guide to learn Full Stack Development for free. Sharing Roadmap along with resources to get started with the same. \u00e2\u017e\u00a1 Step 1: Start\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7268930076111441920"
+        },
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "Every late night, every challenge, and every sacrifice feels lighter when you see the pride in their eyes. \u00f0\u0178\u2019\u2122 Let\u00e2\u20ac\u2122s keep pushing forward\u00e2\u20ac\u201dnot just\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7267880879102783488"
+        },
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "\u00e2\u0153\u00a8 Academy of Technology Hosts Successful Med-Tech Workshop under VAANI Scheme \u00e2\u0153\u00a8 Department of Computer Science and Engineering of Academy of\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7264199977063587840"
+        },
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "A small tricky Python code \u00f0\u0178\u02dc\u2030 Did you get it right? #Python #programming #dev #softwareengineering #softwaredeveloper #coding",
+            "img": "",
+            "id": "7262348664721846273"
+        },
+        {
+            "interaction": "Liked by Yogesh Yogendra",
+            "link": "",
+            "title": "\u00f0\u0178\u0152\u0178 Excited to Share \u00f0\u0178\u0152\u0178 I\u00e2\u20ac\u2122m delighted to announce that I\u00e2\u20ac\u2122ve joined Cloudera as a Software Development Engineer 2! This new chapter is the culmination\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7264493076008570880"
+        }
+    ],
+    "linkedin_num_id": 749470259.0,
+    "honors_and_awards": [
+        {
+            "title": "TCS CodeVita Season 9",
+            "publication": "TCS",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "Secured 226th Rank in TCS CodeVta Season 9 Round 2."
+        },
+        {
+            "title": "Codechef Coding Contest",
+            "publication": "Codechef",
+            "date": "2020-12-01T00:00:00.000Z",
+            "description": "Secured 1st Rank in Coding Contest organised by Codechef College Chapter."
+        },
+        {
+            "title": "TCS CodeVita Season 9",
+            "publication": "TCS",
+            "date": "2020-11-01T00:00:00.000Z",
+            "description": "Secured 2000th Rank in TCS CodeVita Season 9 Round 1."
+        },
+        {
+            "title": "Competitive coding contest",
+            "publication": "UEM Jaipur",
+            "date": "2019-10-01T00:00:00.000Z",
+            "description": "Secured 2nd Rank in Codechef platform organised by UEM Jaipur"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

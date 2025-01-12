@@ -1,0 +1,218 @@
+{
+    "id": "rajesh-d",
+    "name": "Rajesh Darapureddy",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Senior Engineer at Mastercard | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Mastercard",
+        "company_id": "mastercard",
+        "title": "Senior Engineer at Mastercard | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Mastercard",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "4 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Mastercard",
+                    "meta": "Feb 2024 - Present 11 months",
+                    "duration": "Feb 2024 - Present 11 months",
+                    "start_date": "Feb 2024",
+                    "end_date": "Present",
+                    "duration_short": "11 months",
+                    "title": "Senior Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Mastercard",
+                    "meta": "Jun 2022 - Jan 2024 1 year 8 months",
+                    "duration": "Jun 2022 Jan 2024 1 year 8 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Jan 2024",
+                    "duration_short": "1 year 8 months",
+                    "title": "Software Engineer II",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Mastercard",
+                    "meta": "Aug 2020 - May 2022 1 year 10 months",
+                    "duration": "Aug 2020 May 2022 1 year 10 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "May 2022",
+                    "duration_short": "1 year 10 months",
+                    "title": "Software Development Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "Mastercard",
+            "company_id": "mastercard",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Tainoor Manyar",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Bandaru Harsha Vardhan",
+            "about": null,
+            "location": "Santa Clara, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Avinash Chandrakar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anurag A.",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Samyak Jain",
+            "about": "Software Engineer 2 @ Fivetran | Ex-Amazon | ACM-ICPC Regionalist",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Tej Singh",
+            "about": "Tech Lead | TypeScript Full Stack | React | Node",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Satyam Pathak",
+            "about": "SDE 3 @ OpenInvest | ex Postman | ex Dineout | Javascript (React | Vue | Node | Typescript)",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajay Chouhan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Chandna",
+            "about": null,
+            "location": "Nashville, TN"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Miglani",
+            "about": null,
+            "location": "Warsaw"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Talukder",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Suresh Arora",
+            "about": null,
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Vikram Singh Panwar",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ekta Mehla",
+            "about": "Full Stack Developer | ML Researcher",
+            "location": "Covina, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Swapnil Nigam",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Parth Patel",
+            "about": "Smart Contracts Developer | Solidity",
+            "location": "Rajkot"
+        },
+        {
+            "profile_link": "",
+            "name": "Sourav Choudhary",
+            "about": "Engineering @ Matter | IIT(ISM) Dhanbad",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nirav Pithadiya",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sahil Mani",
+            "about": "SDE-ll at Amazon",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Bala Vijaya Krishna Saladi",
+            "about": "Software Engineer @Amazon",
+            "location": "Hyderabad"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 3872.0,
+    "connections": 500.0,
+    "current_company_company_id": "mastercard",
+    "current_company_name": "Mastercard",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Pune",
+    "linkedin_id": "rajesh-d",
+    "activity": null,
+    "linkedin_num_id": 405531169.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

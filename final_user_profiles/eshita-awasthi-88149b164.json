@@ -1,0 +1,100 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Business Technology Analyst at Deloitte India (Offices of the US)",
+    "experience": [
+        {
+            "title": "Business Technology Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Sep 2021 - Present 3 years 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 4 months",
+            "company": "Deloitte Consulting",
+            "company_id": "deloitte",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Dec 2020 Jun 2021 7 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "7 months",
+            "company": "Centre for Railway Information Systems (CRIS)",
+            "company_id": "centre-for-railway-information-systems-cris",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Banasthali Vidyapith",
+            "degree": "Bachelor of Technology",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Mayoor School",
+            "degree": "Science",
+            "start_year": "2009",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2021Credential ID UC-0ff787d4-c067-4c6a-b4ae-c9084b630a70",
+            "subtitle": "Udemy",
+            "title": "Accounting & Financial Statement Analysis: Complete Training"
+        },
+        {
+            "meta": "Issued Sep 2021Credential ID UC-d1e39be6-26d9-4306-8493-3e39bca0673e",
+            "subtitle": "Udemy",
+            "title": "The Complete Financial Analyst Course "
+        },
+        {
+            "meta": "Issued Oct 2020See credential",
+            "subtitle": "Coursera",
+            "title": "SQL for Data Science"
+        },
+        {
+            "meta": "Issued Sep 2020",
+            "subtitle": "Google Digital Garage",
+            "title": "The Fundamentals of Digital Marketing"
+        },
+        {
+            "meta": "Issued Nov 2022Expires May 2024",
+            "subtitle": "Oracle",
+            "title": "Oracle Planning 2022 Implementation Professional"
+        }
+    ],
+    "current_company_name": "Deloitte Consulting",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Spot Award",
+            "publication": "Deloitte USI",
+            "date": "2022-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Spot Award",
+            "publication": "Deloitte USI",
+            "date": "2022-03-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

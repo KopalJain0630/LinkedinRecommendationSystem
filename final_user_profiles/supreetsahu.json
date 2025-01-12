@@ -1,0 +1,135 @@
+{
+    "city": "Bhubaneswar, Odisha, India",
+    "position": "Incoming Intern @ Samsung Research, Bengaluru | Intern @ Stanford | 4th Year UG @ ECE (Vision & Intelligent Systems), IIT Kharagpur'26 | AI/ML/DL | Computer Vision",
+    "experience": [
+        {
+            "title": "Undergraduate Researcher",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Working on Self-Supervised Learning, Representation Learning and Deep Learning in Computer Vision",
+            "description_html": "Working on Self-Supervised Learning, Representation Learning and Deep Learning in Computer Vision <!---->",
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Stanford, California, United States",
+            "description": "Received Letter of Recommendation for finishing in Top 5  (3rd position) Maternal and Child Health Monitoring in LMICs (Low- and Middle-Income Countries). Worked on Machine learning and Deep Learning in satellite imagery and other geotagged data sources to monitor health in low and middle-income countries.",
+            "description_html": "Received Letter of Recommendation for finishing in Top 5 (3rd position) Maternal and Child Health Monitoring in LMICs (Low- and Middle-Income Countries). Worked on Machine learning and Deep Learning in satellite imagery and other geotagged data sources to monitor health in low and middle-income countries. <!---->",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "Stanford University",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Electrical Communications Engineering",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2026",
+            "description": "Specializing in Vision & Intelligent Systems Micro-specialization in Artificial Intelligence and Applications",
+            "description_html": "Specializing in Vision &amp; Intelligent SystemsMicro-specialization in Artificial Intelligence and Applications <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Disha Delphi Public School",
+            "degree": "AISSCE (12th)",
+            "field": "95%",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "D.A.V. Public School, Chandrasekharpur",
+            "degree": "CGPA:10",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"MA11003\",\"title\":\"Advanced Calculus\"},{\"subtitle\":\"EC21207\",\"title\":\"Analog Electronic Circuits\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronic Circuits\"},{\"subtitle\":\"EE11003\",\"title\":\"Electrical Technology\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra and Optimization Models\"},{\"subtitle\":\"MA11004\",\"title\":\"Linear Algebra, Numerical and Complex Analysis\"},{\"subtitle\":\"AI42001\",\"title\":\"Machine Learning Foiundations and Applications\"},{\"subtitle\":\"EC21203\",\"title\":\"Network Theory\"},{\"subtitle\":\"MA20205\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"CS10003\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"EC21205\",\"title\":\"Semiconductor Devices\"},{\"subtitle\":\"-\",\"title\":\"Signals & Systems\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Nov 2024See credential",
+            "subtitle": "Indian Institute of Technology Hyderabad",
+            "title": "Deep Learning for Computer Vision NPTEL (Prof. Vineeth N Balasubramanian)"
+        },
+        {
+            "meta": "Issued Sep 2023See credential",
+            "subtitle": "Stanford University",
+            "title": "Letter of Recommendation"
+        },
+        {
+            "meta": "Issued Dec 2022Credential ID NRD9BCXQNAFRSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Advanced Learning Algorithms"
+        },
+        {
+            "meta": "Issued Dec 2022See credential",
+            "subtitle": "MathWorks",
+            "title": "MATLAB Onramp"
+        },
+        {
+            "meta": "Issued Dec 2022Credential ID YQALQR5RBHDGSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Supervised Machine Learning : Regression and Classification"
+        },
+        {
+            "meta": "Credential ID PAVD9NP62WE8See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Zero To Mastery Academy",
+            "title": "PyTorch for Deep Learning Bootcamp"
+        }
+    ],
+    "current_company_name": "Indian Institute of Technology, Kharagpur",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Maternal and Child Health Monitoring in LMICs (Low- and Middle-Income Countries)\",\"start_date\":\"May 2023\",\"end_date\":\"Aug 2023\",\"description\":\"Worked on Machine learning and Deep Learning in satellite imagery and other geotagged data sources to monitor health in low and middle-income countries.\"},{\"title\":\"DIY Team Project\",\"start_date\":\"Dec 2021\",\"end_date\":\"Apr 2022\",\"description\":\"Arduino-Based Detection of Driver's Drowsiness and Alerting System.This project was a part of my curriculum in 1st year.Developed an Arduino Nano-based Wireless Anti-Sleep Glasses for Drowsiness Detection of Drivers and Alerting System. Implemented an RF Module (Transmitter and Receiver) and an Infra-Red Sensor attached to the glass to detect eyeblinks. Designed an electronic circuit that detects the Infra-Red rays reflected from the eyeball of a driver and signals the vehicle wirelessly to stop.Skills: Arduino Nano · Analog Circuit Design · Digital Circuit Design · Radio Frequency (RF) · Sensors\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Letter of Recommendation",
+            "publication": "Prof. Pascal Geldsetzer",
+            "date": "2023-09-01T00:00:00.000Z",
+            "description": "Stood 3rd overall in the Research Program on Machine Learning on satellite imagery for health prediction in LMICs"
+        },
+        {
+            "title": "Attendee-OCSC of IJSO",
+            "publication": "Homi Bhabha Centre for Science Education (HBCSE), TIFR, Mumbai",
+            "date": null,
+            "description": "Orientation Cum Selection Camp for International Junior Science Olympiad. Among the 35 students in India invited to the training & selection camp for the International Junior Science Olympiad selected through INJSO exam conducted by HBCSE,TIFR,Mumbai"
+        },
+        {
+            "title": "KVPY Scholar (SA and SX)",
+            "publication": "Department of Science and Technology ( Govt. of India)",
+            "date": null,
+            "description": "The \"Kishore Vaigyanik Protsahan Yojana\" (KVPY) is a program started in 1999 by the Department of Science and Technology (DST), Government of India to encourage students who are studying Basic Sciences to take up research career in Science."
+        },
+        {
+            "title": "NSEA",
+            "publication": "The Indian Association of Physics Teachers(IAPT) and the Homi Bhabha Centre for Science Education(HBCSE), TIFR, Mumbai",
+            "date": null,
+            "description": "National Standard Examination in Astronomy(NSEA) is the first stage of the International Olympiad in Astronomy and Astrophysics (IOAA)."
+        },
+        {
+            "title": "NSEJS and INJSO",
+            "publication": "The Indian Association of Physics Teachers(IAPT) and the Homi Bhabha Centre for Science Education(HBCSE), TIFR, Mumbai",
+            "date": null,
+            "description": "NSEJS and INJSO are respectively the first and second stages of the International Olympiad in International Junior Science Olympiad (IJSO)."
+        }
+    ]
+}

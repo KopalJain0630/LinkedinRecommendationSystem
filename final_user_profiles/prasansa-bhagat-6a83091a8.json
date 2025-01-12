@@ -1,0 +1,58 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer @JPMorganChase&Co",
+    "experience": [
+        {
+            "title": "JPMorgan Chase & Co.",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "JPMorgan Chase & Co.",
+                    "meta": "Aug 2023 - Present 1 year 5 months",
+                    "duration": "Aug 2023 - Present 1 year 5 months",
+                    "start_date": "Aug 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 5 months",
+                    "title": "Software Engineer 1",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "JPMorgan Chase & Co.",
+                    "meta": "Jan 2023 - Aug 2023 8 months",
+                    "duration": "Jan 2023 Aug 2023 8 months",
+                    "start_date": "Jan 2023",
+                    "end_date": "Aug 2023",
+                    "duration_short": "8 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "JPMorgan Chase & Co.",
+            "company_id": "jpmorganchase",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "B. M. S. College of Engineering",
+            "degree": "UG",
+            "field": "Electronics and Telecommunications",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "JPMorgan Chase & Co.",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"React Music App\",\"start_date\":\"Jul 2021\",\"end_date\":\"Jul 2021\",\"description\":\"Artist image, total followers, and the top tracks are shown for the artist you search for, also one can play and pause the music.\"},{\"title\":\"New Year Countdown\",\"start_date\":\"Sep 2020\",\"end_date\":\"Sep 2020\",\"description\":\"New year countdown using Html, Css and Javascript.\"},{\"title\":\"Covid-19 resource page\",\"description\":\"Using Html, CSS, Javascript\"},{\"title\":\"Shipnest- An e-commerce page\",\"description\":\"Using HTML, CSS, Javascript\"}]",
+    "honors_and_awards": null
+}

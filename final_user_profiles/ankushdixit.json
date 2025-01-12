@@ -1,0 +1,50 @@
+{
+    "city": "Gurgaon, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2007",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2004",
+            "end_year": "2005",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Multiply",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Improving the Performance of Intelligent Lower Limb Prosthesis\",\"start_date\":\"Jul 2011\",\"end_date\":\"Apr 2012\",\"description\":\"Conceptualized an innovative idea to improve the performance of existing high-end intelligent prosthesis- Increased input sensitivity and improved weight balance in the prosthesis- Coordinated prosthesis and normal limb using the gait pattern- Achieved dynamic updating of the gait database according to individual’s gait cycle to customize prosthesis- Successfully used magnetic particle brakes for knee-locking to reduce weight and improve efficiency\"},{\"title\":\"Development of a Deep Drain Cleaning Mechanism\",\"start_date\":\"Jan 2010\",\"end_date\":\"Apr 2010\",\"description\":\"- Conceptualized a deep drain cleaner for the aid of workers of Municipal Corporation of Delhi- Designed and simulated a model of the product on Solidworks- Applied design practises such as DFM and DFA to realize budget, weight and reliability requirements- Product was displayed at I2 Tech Open House 2010 and received comments from visitors as being one of the most useful and application-oriented products\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Winners",
+            "publication": "EXL Service",
+            "date": "2011-11-01T00:00:00.000Z",
+            "description": "Participated in EXL Excellence Quotient 2011 (A PAN IIT Consulting Case Contest) - Helped retail banking division of a hypothetical bank in increasing the PPC (product per customer) ratio from 2 to 3 when the industry average was 2.5 - Designed a campaign for the small business division to increase market share annually by 10% - Won a smartphone and a placement offer from EXL Service"
+        },
+        {
+            "title": "Certificate of Merit- The Green Olympiad",
+            "publication": "Ministry of Environment and Forests, Government of India",
+            "date": null,
+            "description": "Awarded Certificate of Merit by the Ministry of Environment and Forests, Government of India for excellent performance in GREEN Olympiad 2004"
+        }
+    ]
+}

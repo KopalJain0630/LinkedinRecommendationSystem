@@ -1,0 +1,47 @@
+{
+    "city": "Hyderabad, Telangana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Birla Institute of Technology and Science, Pilani",
+            "url": "",
+            "start_year": "2005",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2013",
+            "subtitle": "Microsoft",
+            "title": "Bing Ads Certified Professional"
+        },
+        {
+            "subtitle": "Stratx Simulation – 2012",
+            "title": "Certified Blue Ocean Strategist"
+        }
+    ],
+    "current_company_name": "HighRadius",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Factors Affecting Customer Engagement in Shopping Mall when using SoLoMo applications (Singapore)\",\"start_date\":\"Apr 2012\",\"description\":\"Studied the drivers of customer engagement in a shopping mall using SoLoMo based applications through a systematic approach using interviews, observations, literary and quantitative research.\"},{},{},{},{\"title\":\"Strategic Analysis of Customer Satisfaction at UAE Exchange\",\"start_date\":\"Nov 2012\",\"end_date\":\"Mar 2013\",\"description\":\"Conduct a 'Customer Satisfaction Survey' of members of the loyalty program ‘Club Exclusive’ of Dubai based exchange house 'UAE Exchange' and undertake a analysis of the findings to recommend strategies to add value to the current ‘Club Exclusive’ membership proposition.\"},{},{},{},{\"title\":\"Factors affecting the customer engagement in a shopping mall through SoLoMo applications\",\"start_date\":\"May 2012\",\"end_date\":\"Sep 2012\",\"description\":\"SoLoMo refers to the next generation of mobile marketing. It is the convergence of Social , Local and Mobile platforms.With mobiles becoming more 'personal' than the 'personal computer', with 'social networking' becoming the buzz word of todays marketers and with 'location based services' gaining popularity worldwide -a research on the convergence of all the three mediums was essential. This research will provide better insights to marketers, brands and retailers to devise the right strategy for mobile engagement of customers and would definitely become a base for many future reseach in the till now scantly researched field of SoLoMo. I and my co-authors are very confident that our paper will be publishecd in one of the top 10 journals of the world.\"},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "CO Impact Award",
+            "publication": "Facebook",
+            "date": "2015-07-01T00:00:00.000Z",
+            "description": "Awarded the Community Operations Impact Award for Q2 2015 for creating a metrics pipeline for Escalations team."
+        }
+    ]
+}

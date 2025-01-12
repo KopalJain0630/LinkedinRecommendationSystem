@@ -1,0 +1,327 @@
+{
+    "id": "yaseen-lanka",
+    "name": "Yaseen Lanka",
+    "city": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "country_code": "AE",
+    "position": "IT Specialist",
+    "about": "An electronics engineer by choice, a system side programmer by love, entrepreneur by free will. Began my career by giving life to bare metal, worked in corporate world for 6+ years before jumping into entrepreneurship. Started my own company aimed at building products and solutions for home automation,  which failed – but it thought so much about the whole ecosystem of building business. Started a successful consumer brand '4Charge', which specialized in power banks and other mobile accessories. Was a consultant for start-ups, both tech and non-tech, including government projects towards achieving a smart city with automated street lighting and water meter solutions. Always up for writing code to get something done! Currently, building tech solutions at Hub71.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Abu Dhabi Investment Office",
+        "company_id": "investabudhabi",
+        "title": "IT Specialist"
+    },
+    "experience": [
+        {
+            "title": "IT Specialist",
+            "location": "Abu Dhabi Emirate, United Arab Emirates",
+            "description_html": null,
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Abu Dhabi Investment Office",
+            "company_id": "investabudhabi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Associate Technology",
+            "location": "Abu Dhabi, United Arab Emirates",
+            "description_html": null,
+            "duration": "Dec 2021 Dec 2023 2 years 1 month",
+            "start_date": "Dec 2021",
+            "end_date": "Dec 2023",
+            "duration_short": "2 years 1 month",
+            "company": "Hub71",
+            "company_id": "hub71ad",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Solutions Architect",
+            "location": "Dubai, United Arab Emirates",
+            "description": "Work closely with customers on deploying the InteliGate solution for automated vehicle access. Designed and developed client web applications using the latest technology (React.js, Golang, Node.js, MongoDB) – online platform for education and legal services. From a one liner client requirement, develop a roadmap and technical guide to achieve the desired outcome including the selection of appropriate tech stack and deployment options. Work with UI/UX team on getting a wireframe, daily stand-up meetings with front-end / back-end teams to deliver the solution on time.",
+            "description_html": "Work closely with customers on deploying the InteliGate solution for automated vehicle access. Designed and developed client web applications using the latest technology (React.js, Golang, Node.js, MongoDB) – online platform for education and legal services. From a one liner client requirement, develop a roadmap and technical guide to achieve the desired outcome including the selection of appropriate tech stack and deployment options. Work with UI/UX team on getting a wireframe, daily stand-up meetings with front-end / back-end teams to deliver the solution on time.",
+            "duration": "Jul 2019 Dec 2021 2 years 6 months",
+            "start_date": "Jul 2019",
+            "end_date": "Dec 2021",
+            "duration_short": "2 years 6 months",
+            "company": "Web55 Technologies",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Consultant",
+            "location": "Dubai, United Arab Emirates",
+            "description": "Worked as a consultant for the back-end development. Responsible for selecting a proper tech stack based on the requirement, design the architecture.",
+            "description_html": "Worked as a consultant for the back-end development. Responsible for selecting a proper tech stack based on the requirement, design the architecture. <!---->",
+            "duration": "Oct 2018 Jun 2019 9 months",
+            "start_date": "Oct 2018",
+            "end_date": "Jun 2019",
+            "duration_short": "9 months",
+            "company": "Self Employed",
+            "company_id": "fayehayes",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Freelance",
+            "location": "Bengaluru Area, India",
+            "description": "Contributed to the design and development of a consumer product involving Bluetooth and audio. Designed the software architecture and the selection of hardware components including MCU and Bluetooth chip. Contributed to firmware development and coding.",
+            "description_html": "Contributed to the design and development of a consumer product involving Bluetooth and audio. Designed the software architecture and the selection of hardware components including MCU and Bluetooth chip. Contributed to firmware development and coding. <!---->",
+            "duration": "Jan 2016 Oct 2018 2 years 10 months",
+            "start_date": "Jan 2016",
+            "end_date": "Oct 2018",
+            "duration_short": "2 years 10 months",
+            "company": "Self-employed",
+            "company_logo_url": ""
+        },
+        {
+            "title": "CEO & CoFounder",
+            "location": "Bengaluru Area, India",
+            "description": "Design and development of Home Automation based products.",
+            "description_html": "Design and development of Home Automation based products. <!---->",
+            "duration": "Jun 2011 Dec 2015 4 years 7 months",
+            "start_date": "Jun 2011",
+            "end_date": "Dec 2015",
+            "duration_short": "4 years 7 months",
+            "company": "In2Em Systems",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Giving life to set top boxes",
+            "description_html": "Giving life to set top boxes <!---->",
+            "duration": "Jan 2010 Jun 2011 1 year 6 months",
+            "start_date": "Jan 2010",
+            "end_date": "Jun 2011",
+            "duration_short": "1 year 6 months",
+            "company": "Nds Pay Tv Services Limited, Bangalore",
+            "company_id": "nds-pay-tv-services-limited-bangalore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Cisco",
+            "description_html": null,
+            "duration": "4 years",
+            "positions": [
+                {
+                    "subtitle": "Cisco",
+                    "meta": "Mar 2007 - May 2011 4 years 3 months",
+                    "description": "Software for set top boxes",
+                    "duration": "Mar 2007 May 2011 4 years 3 months",
+                    "start_date": "Mar 2007",
+                    "end_date": "May 2011",
+                    "duration_short": "4 years 3 months",
+                    "title": "Software Engineer",
+                    "description_html": "Software for set top boxes <!---->"
+                },
+                {
+                    "subtitle": "Cisco Systems",
+                    "meta": "2007 - 2010 3 years",
+                    "duration": "2007 2010 3 years",
+                    "start_date": "2007",
+                    "end_date": "2010",
+                    "duration_short": "3 years",
+                    "title": "Software Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "Cisco",
+            "company_id": "cisco",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Trainee",
+            "description": "Was fun here, ARM, Linux porting, Kernel code!",
+            "description_html": "Was fun here, ARM, Linux porting, Kernel code! <!---->",
+            "duration": "Jun 2006 Feb 2007 9 months",
+            "start_date": "Jun 2006",
+            "end_date": "Feb 2007",
+            "duration_short": "9 months",
+            "company": "Emertxe Information Technologies Pvt Ltd",
+            "company_id": "emertxeit",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "C V Pradeep Kumar",
+            "about": "Experienced General Manager with a demonstrated history of 24 Years in Consumer Electronics, Home Appliances, OA in GCC.",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Sudhir Rao",
+            "about": "CONSULTANT at EMCOP.DUBAI",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Magdy Hassan Mohamed",
+            "about": "Sr. Electrical Engineer Hill International",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "sandip kashyap",
+            "about": "Consultant",
+            "location": "United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Nour Chebaro",
+            "about": "Lead Engagement Manager at Sprinklr",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Jairam Jidgekar",
+            "about": "Tech Lead @ Tech Mahindra UAE",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "George Pudessery",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Fatimah Batool",
+            "about": "Administrative Coordinator|Customer Service",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Kainaz Antia",
+            "about": "Accountant (CPA) | Consultant | Investor | Family Office | Pvt Equity",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr. Sinan Alsheikh",
+            "about": "HealthCare Director @Cognizant, Ex-IBM",
+            "location": "United Arab Emirates"
+        }
+    ],
+    "educations_details": "Visvesvaraya Technological University",
+    "education": [
+        {
+            "title": "Visvesvaraya Technological University",
+            "degree": "BE",
+            "field": "Electronics",
+            "url": "",
+            "start_year": "2000",
+            "end_year": "2004",
+            "description": "BE (E&C)",
+            "description_html": "BE (E&amp;C) <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Brad Feld on Validating Your Startup Idea"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1218,
+    "connections": 500,
+    "current_company_company_id": "investabudhabi",
+    "current_company_name": "Abu Dhabi Investment Office",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Abu Dhabi",
+    "linkedin_id": "yaseen-lanka",
+    "activity": [
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "Reflecting on My Experience as a UAE Youth Delegate to the United Nations 🇦🇪🇺🇳🤍 The past three months as a UAE Youth Delegate to the UN have…",
+            "img": "",
+            "id": "7276834325558423552"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "27 —> 28: By far the best year of my life. Married my best friend which included our venue getting cancelled two weeks before and having to…",
+            "img": "",
+            "id": "28"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "On the left is a picture of a hostel from Carleton University. On the right is a picture of a hostel from IIT Bombay the most prestigious institute…",
+            "img": "",
+            "id": "7271414316891828225"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "Hub71+ AI has officially launched, supported by anchor partners Core42 and AI71, alongside a network of leading partners. ✨ This specialist…",
+            "img": "",
+            "id": "7273255617664819200"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "Exciting news for the future of transport! Following a recent agreement to accelerate air taxi commercialisation, @flyarcher has partnered with key…",
+            "img": "",
+            "id": "7270807359550074880"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "I was honored to join French President Emmanuel Macron and esteemed industry leaders for a business lunch at the Élysée Palace in Paris. Led by HE…",
+            "img": "",
+            "id": "7263611476500750336"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "Y Combinator published a new list of requests for startups to build. For anyone exploring what to build next, I summarized the full list for…",
+            "img": "",
+            "id": "7262124293814161408"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "1.5 years and hundreds of #mentorship hours later, here’s a look back at my very first lectures and mentorship sessions in Saudi Arabia. I was…",
+            "img": "",
+            "id": "7262033661703704576"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "We are pleased to announce that Amer Aïdi, our Director of Strategic Communications, has been featured in PRWeek's Middle East Power Book 2024. This…",
+            "img": "",
+            "id": "7261719273444675584"
+        },
+        {
+            "interaction": "Liked by Yaseen Lanka",
+            "link": "",
+            "title": "A single ChatGPT prompt needs 10x more energy than a google search. That’s why, Dr. Sultan Al Jaber explains, a range of lower-carbon energy sources…",
+            "img": "",
+            "id": "7259147254102441984"
+        }
+    ],
+    "linkedin_num_id": 40631120,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

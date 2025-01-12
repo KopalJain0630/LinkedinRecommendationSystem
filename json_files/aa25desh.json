@@ -1,0 +1,365 @@
+{
+    "id": "aa25desh",
+    "name": "Aadesh Deshmukh",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": "Deep Learning Compilers | High Performance Computing | Software Development",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "AMD",
+        "company_id": "amd",
+        "title": "Deep Learning Compilers | High Performance Computing | Software Development"
+    },
+    "experience": [
+        {
+            "title": "Sr. Deep Learning Compiler Engineer",
+            "location": "San Jose, California, United States",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "AMD",
+            "company_id": "amd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computational Scientist",
+            "location": "Idaho Falls, Idaho, United States",
+            "description": "• Optimized a deep learning model for neutronics using Torch Compiler/TVM for reduced memory usage and faster inference. Benchmark with torchprofiler across 200+ isotopes and integrated with Griffin for pebble-bed reactor simulations.• Implemented a software pipeline for fluidized bed reactors, launching 4000+ MFIX/Barracuda simulations. Implemented MPI/NCCL based parallel algorithm to process simulation data for Generative AI, enabling real-time validation.• Developed full research proposal as PI for Large Language Model for Computational Tools, optimizing combined training and interface using ZeRO-Infinity (FSDP) DeepSpeed Chat.",
+            "description_html": "• Optimized a deep learning model for neutronics using Torch Compiler/TVM for reduced memory usage and faster inference. Benchmark with torchprofiler across 200+ isotopes and integrated with Griffin for pebble-bed reactor simulations.• Implemented a software pipeline for fluidized bed reactors, launching 4000+ MFIX/Barracuda simulations. Implemented MPI/NCCL based parallel algorithm to process simulation data for Generative AI, enabling real-time validation.• Developed full research proposal as PI for Large Language Model for Computational Tools, optimizing combined training and interface using ZeRO-Infinity (FSDP) DeepSpeed Chat.",
+            "duration": "Sep 2023 Oct 2024 1 year 2 months",
+            "start_date": "Sep 2023",
+            "end_date": "Oct 2024",
+            "duration_short": "1 year 2 months",
+            "company": "Idaho National Laboratory",
+            "company_id": "idaho-national-laboratory",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Salt Lake City, Utah, United States",
+            "description": "• Developed GPU (CUDA/HIP) kernel optimizations for finite volume simulations, focusing on matrix assembly, SpMV and divergent code scheduler. Implemented operator fusion, loop flattening, and tiling. Achieved a 10x increase in performance on single GPU (Nsight) nodes and 20x on multi-GPU setups, leveraging system heterogeneity.• Co-developed a domain-specific language (DSL) and code generator for FE/FV scientific computing, enabling efficient code distribution across CPU/GPU platforms. Developed a proof of concept based on MLIR to optimize data movement, enhance tensor operations, integrate mixed precision, and automate design space optimization.",
+            "description_html": "• Developed GPU (CUDA/HIP) kernel optimizations for finite volume simulations, focusing on matrix assembly, SpMV and divergent code scheduler. Implemented operator fusion, loop flattening, and tiling. Achieved a 10x increase in performance on single GPU (Nsight) nodes and 20x on multi-GPU setups, leveraging system heterogeneity.• Co-developed a domain-specific language (DSL) and code generator for FE/FV scientific computing, enabling efficient code distribution across CPU/GPU platforms. Developed a proof of concept based on MLIR to optimize data movement, enhance tensor operations, integrate mixed precision, and automate design space optimization.",
+            "duration": "Aug 2021 Sep 2023 2 years 2 months",
+            "start_date": "Aug 2021",
+            "end_date": "Sep 2023",
+            "duration_short": "2 years 2 months",
+            "company": "University of Utah",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GRA, Software Engineering",
+            "location": "1 Cyclotron Rd, Berkeley, CA 94720",
+            "description": "• Developed a wrapper for superlu_dist subroutines to solve a sparse linear system on 3 targets Linux/Mac/Win supporting different versions of MPI; using Clang compiler, MPITrampoline and compiled a shared library of superlu_dist• Worked on integration between function calls and objects of two different languages C++ and Julia. Used Cmake for make file generation and compilation process and NERSC DDT tool for debugging the distributed code.",
+            "description_html": "• Developed a wrapper for superlu_dist subroutines to solve a sparse linear system on 3 targets Linux/Mac/Win supporting different versions of MPI; using Clang compiler, MPITrampoline and compiled a shared library of superlu_dist• Worked on integration between function calls and objects of two different languages C++ and Julia. Used Cmake for make file generation and compilation process and NERSC DDT tool for debugging the distributed code. <!---->",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "Berkeley Lab",
+            "company_id": "lawrence-berkeley-national-laboratory",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GSOC 2020, Software Engineering",
+            "description": "• Developed a Machine Learning library for time series classification with 2 ML algorithms, time series forest and KNN, with unified user APIs to fit, predict, and tune models using data randomization and classic tabular ML algorithms.• Achieved 6 times speedup for time series forest algorithm. Built pipeline for Time Series ML models and tested the models by performing benchmarking and validation using 104 dissimilar data sets.",
+            "description_html": "• Developed a Machine Learning library for time series classification with 2 ML algorithms, time series forest and KNN, with unified user APIs to fit, predict, and tune models using data randomization and classic tabular ML algorithms.• Achieved 6 times speedup for time series forest algorithm. Built pipeline for Time Series ML models and tested the models by performing benchmarking and validation using 104 dissimilar data sets. <!---->",
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Google Summer of Code",
+            "company_id": "google-summer-of-code-2019",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description": "- Implemented Range over-approximation algorithm; Improves bounds over a range of Taylor models by 70%.- Developed RangeEnclosures.jl a Julia package that bounds polynomials using four different algorithms.- Implemented branch and bound algorithm using low degree polynomial; This minimizes relative precision to 1e−5.",
+            "description_html": "- Implemented Range over-approximation algorithm; Improves bounds over a range of Taylor models by 70%.- Developed RangeEnclosures.jl a Julia package that bounds polynomials using four different algorithms.- Implemented branch and bound algorithm using low degree polynomial; This minimizes relative precision to 1e−5. <!---->",
+            "duration": "May 2019 Aug 2019 4 months",
+            "start_date": "May 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "4 months",
+            "company": "NumFOCUS",
+            "company_id": "numfocus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Tiruchirappalli",
+            "description": "- Trained Naive Bayes ML model using NLTK and scikit-learn for sentiment analysis with accuracy of 76%.- Collected 2 thousand data points using Twitter APIs; handled missing values and outliers using Pandas, NumPy.",
+            "description_html": "- Trained Naive Bayes ML model using NLTK and scikit-learn for sentiment analysis with accuracy of 76%.- Collected 2 thousand data points using Twitter APIs; handled missing values and outliers using Pandas, NumPy. <!---->",
+            "duration": "Nov 2018 Jan 2019 3 months",
+            "start_date": "Nov 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "3 months",
+            "company": "National Institute of Technology, Tiruchirappalli",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Vibhanshi Modi",
+            "about": "Member Of Technical Staff at Adobe",
+            "location": "Mysore"
+        },
+        {
+            "profile_link": "",
+            "name": "Shatadru Majumdar",
+            "about": "SDE 2 @ Rippling | ex-Goldman Sachs | Backend Engineering | Distributed Systems | Big Data",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshaydeep Banik",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Amisha Srivastava",
+            "about": "Product Specialist 2 at Dell | Pre-Sales Engineer | Tech-Driven",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanuja Malav",
+            "about": "Software Developer",
+            "location": "Jodhpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaishali Sharma",
+            "about": null,
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Vineet Kumar",
+            "about": "ML @ PayPal | IIM Calcutta | JU CSE",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Soni",
+            "about": null,
+            "location": "Gandhinagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumit Narwani",
+            "about": "Software Engineer - II @Cisco | Full Stack Developer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Osheen Sachdev",
+            "about": "Software Engineer @ Google",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Venkata Sai Reddy",
+            "about": "Back End | Golang | Ex-Thoughtworks",
+            "location": "Telangana, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Ahirrao",
+            "about": "GATE CS'24 Qualified | Ruby On Rails Developer | Leading Dev Team",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Megha Kumari",
+            "about": "Developer",
+            "location": "Bhagalpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashanka Hriday Saha",
+            "about": "American Express | NSIT | ex-Spinny",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilesh Yadav",
+            "about": null,
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Samuel Rowe",
+            "about": "Founding Engineer at House of X | GSoC '20 at LabLua",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajay Subramanian",
+            "about": "PhD student at NYU",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "SAKSHI D.",
+            "about": "Software Engineer at Technoidentity",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshit Jain",
+            "about": "Titan | TAS | XLRI | BITS Pilani (Hyd.)",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Meenal Agrawal",
+            "about": "Software Engineer 2 at Microsoft",
+            "location": "Hyderabad"
+        }
+    ],
+    "educations_details": "University of Utah",
+    "education": [
+        {
+            "title": "University of Utah",
+            "degree": "Master",
+            "field": "Computer Science",
+            "url": "",
+            "description": "HPC | DL/ML | SC",
+            "description_html": "HPC | DL/ML | SC <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Information Technology, Tiruchirappalli",
+            "degree": "B.TECH.",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "description": "Relevant Coursework: • Parallel Algorithms • Machine Learning • Database Management Systems • Computer Architecture • Internetworking Protocols • Discrete Mathematics • Software Engineering • Data Structure • Data Communications and Networking",
+            "description_html": "Relevant Coursework: • Parallel Algorithms• Machine Learning• Database Management Systems• Computer Architecture • Internetworking Protocols • Discrete Mathematics • Software Engineering • Data Structure • Data Communications and Networking <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Principles of Operational Research\"},{\"subtitle\":\"-\",\"title\":\"Probability Theory\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture\"},{\"subtitle\":\"-\",\"title\":\"Computer Graphics\"},{\"subtitle\":\"-\",\"title\":\"Computer Organization \"},{\"subtitle\":\"-\",\"title\":\"Data Communications and Networking\"},{\"subtitle\":\"-\",\"title\":\"Data structure\"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Parallel Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics\"},{\"subtitle\":\"CS 6150\",\"title\":\"Graduate Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Graph Theory \"},{\"subtitle\":\"-\",\"title\":\"Internetworking Protocols\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"CS 6230\",\"title\":\"Parallel Computing HPC\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Marathi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Telugu "
+        }
+    ],
+    "certifications": null,
+    "recommendations": [
+        "Liam Moynihan “Aadesh is a great person to work with. I first met him when he joined my research group at the University of Utah. Although we were working on different projects within the group, it was clear from the beginning that Aadesh was smart, motivated, and had a particular expertise with software engineering and distributed computing. He used these skills to benefit an important research project within the group. I got to know Aadesh even better when we took an advanced data visualization class together. In addition to the usual collaboration on coursework, we were partners for the final project in the class. We worked together to process data from the 2021 'IEEE SciVis Contest' and created some innovative and useful visualizations. Aadesh was quick to master and extend the skills we learned from the class, and he was a very reliable person to work with. Any company would be lucky to have him.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 20995.0,
+    "connections": 500.0,
+    "current_company_company_id": "amd",
+    "current_company_name": "AMD",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "aa25desh",
+    "activity": [
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "Incredible week at #SC24! Great insights and exciting discussions on HPC challenges and opportunities. Looking forward to #SC25!",
+            "img": "",
+            "id": "7266264279140429824"
+        },
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "Excited to be at the LLVM Foundation Developers Meeting 2024! A great opportunity to learn from the brightest minds in compiler technology, exchange…",
+            "img": "",
+            "id": "7254968647557734403"
+        },
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "Meditation is the best habit I have cultivated in the last few months. Spending 30-45 minutes awake, sitting in one place, without moving, and trying…",
+            "img": "",
+            "id": "7252158821026942976"
+        },
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "Ran into legendary Chris Lattner at the AMD Advancing AI event today. It's hard to overstate just how big of an inspiration LLVM and Clang were when…",
+            "img": "",
+            "id": "7250280516774477825"
+        },
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "Meet Sameeran Joshi, an ALCF summer student from the University of Utah. Sameeran is about to start his third year of his Ph.D. in Computer Science…",
+            "img": "",
+            "id": "7229199770311933952"
+        },
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "🚀 Exciting News! 🚀 Thrilled to announce that I've joined the prestigious Argonne Training Program on Extreme-Scale Computing (ATPESC) by Argonne…",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "Join the DOE national laboratories and DoD leadership for the second annual DICE conference focused on our nation’s digital future live online…",
+            "img": "",
+            "id": "7186693025262141441"
+        },
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "I'm excited to announce that this summer, I'll be starting an internship as a Deep Learning Library Performance Software Engineer at NVIDIA! I'm…",
+            "img": "",
+            "id": "7173757169434025984"
+        },
+        {
+            "interaction": "Liked by Aadesh Deshmukh",
+            "link": "",
+            "title": "I am looking forward to the talk on my work during Ph. D. on \"A Spatially Resolved Scale-bridging Model for Point-defect Clustering Under…",
+            "img": "",
+            "id": "7170506593363484672"
+        }
+    ],
+    "linkedin_num_id": 622614533.0,
+    "honors_and_awards": [
+        {
+            "title": "Microsoft Student Partner 2019-2020",
+            "publication": "-",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

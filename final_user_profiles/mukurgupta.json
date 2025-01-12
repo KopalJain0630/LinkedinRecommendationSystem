@@ -1,0 +1,58 @@
+{
+    "city": "New York, New York, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Columbia University",
+            "url": "",
+            "start_year": "2023-07",
+            "end_year": "2024-12",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2009",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Columbia University",
+    "publications": "[{\"title\":\"CodeSCM: Causal Analysis for Multi-Modal Code Generation\",\"subtitle\":\"CALM@ NeurIPS 2024\",\"date\":\"November 1, 2024\",\"description\":\"In this paper, we propose CodeSCM, a Structural Causal Model (SCM) for analyzing multi-modal code generation using large language models (LLMs). By applying interventions to CodeSCM, we define the causal effects of different prompt modalities, such as natural language, code, and input-output examples, on the model. CodeSCM introduces latent mediator variables to separate the code and natural language semantics of a multi-modal prompt. Using the principles of Causal Mediation Analysis on these mediators, we define direct effects through targeted interventions, quantitatively representing the model's spurious leanings. We find that, in addition to natural language instructions, input-output examples significantly influence model generation, and total causal effects evaluations from CodeSCM also reveal the memorization of code generation benchmarks.\"},{\"title\":\"Intent Detection and Entity Extraction from BioMedical Literature\",\"subtitle\":\"LREC-COLING 2024 - Joint International Conference on Computational Linguistics, Language Resources and Evaluation\",\"date\":\"May 22, 2024\"},{\"title\":\"Avenues in IoT with advances in Artificial Intelligence\",\"subtitle\":\"International Conference on Pervasive Computing and Communications (PerCom 2024)\",\"date\":\"March 11, 2024\"},{\"title\":\"TSO: Curriculum Generation using continuous optimization\",\"date\":\"June 14, 2021\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Department rank 1 (Highest CGPA holder in the stream)",
+            "publication": "IIT Kharagpur",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Bronze Medal, Inter IIT Tech Meet 2021",
+            "publication": "IIT Guwahati",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "National finalisit at AbInBev Maverick Hackathon-2020",
+            "publication": "-",
+            "date": "2020-06-01T00:00:00.000Z",
+            "description": ""
+        }
+    ]
+}

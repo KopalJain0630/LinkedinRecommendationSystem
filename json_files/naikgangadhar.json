@@ -1,0 +1,183 @@
+{
+    "id": "naikgangadhar",
+    "name": "Gangadhar Naik",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "3+ years experienced Software Engineer highly skilled in software development, testing…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "VerSe Innovation",
+        "company_id": "verse-innovation"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Humaid Kidwai",
+            "about": "Google Summer of Code '24 | University of Calgary | Samsung Research",
+            "location": "Calgary, AB"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajat Saxena",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Agrawal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Choudhary",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Vineet Kumar",
+            "about": null,
+            "location": "Zurich"
+        },
+        {
+            "profile_link": "",
+            "name": "Aniket Naugariya",
+            "about": "Software Developer at Taskhuman",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Sehwag",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashutosh Kumar Rai",
+            "about": "Sr software engineer at uber",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Lavesh Kaushik",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinandan Sharma",
+            "about": null,
+            "location": "Zurich"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS11001\",\"title\":\"PROGRAMMING AND DATA STRUCTURE\"},{\"subtitle\":\"EC21101\",\"title\":\"BASIC ELECTRONICS\"},{\"subtitle\":\"MA60024\",\"title\":\"COMPUTER NETWORK\"},{\"subtitle\":\"MA21007\",\"title\":\"Design and Analysis of Algorithms(DAA)\"},{\"subtitle\":\"PH60308\",\"title\":\"General Theory of Relativity\"}]",
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": "-",
+            "title": " Telugu "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Building a Website with Node.js and Express.js"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Building an Ubuntu Home Server (2017)"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Express Essential Training"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "JavaScript Essential Training"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning MongoDB"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Node.js Essential Training"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2988.0,
+    "connections": 500.0,
+    "current_company_company_id": "verse-innovation",
+    "current_company_name": "VerSe Innovation",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Designed A System Architecture to launch Velocity Test Drive service.\",\"start_date\":\"Aug 2020\",\"end_date\":\"Present\",\"description\":\"•Adding a Complex Structure to Modular architecture to design self actionable Screens in Android application.•Creating a dynamic and interactive screens in Android application with predefined events and actions like on-change, hide and shows on screen elements, created/managed from backend panels.•Just with the panel’s can make change in any screen or flow in Android Application with out launched a Play store build reducing workload andincreasing Re usability.\"},{\"title\":\"Modular architecture to create any serviceable products\",\"start_date\":\"Jul 2020\",\"end_date\":\"Oct 2020\",\"description\":\"•Created and developed a new System Deigned to launch any services as quick as possible.•Flexible to change any existing services from root level to leaf node with just panels in business logic to reduce70% of work load to developer.•Created an entire Droom velocity test drive product with this architecture in 2 weeks accounting the productivity gain to nearly 400 %.\"},{\"title\":\"Run-time Diagnostics of Vehicle using Socket Communication\",\"start_date\":\"Dec 2019\",\"end_date\":\"Apr 2020\",\"description\":\"•Launched a Product To track and maintain trips as well the vehicle health in run time for Fleet owners.•Created a TCP connection to the VEHICLE CAN BUS to accusation of vehicle Ecus sensor data in its raw form to diagnose.•Maintained a Enterprise panel to track vehicle as well the previous trips to reduce fraud in business of fleet owners increase productivity.\"},{\"title\":\"Certification for the health of the inspected vehicle \",\"start_date\":\"Aug 2019\",\"end_date\":\"Nov 2019\",\"description\":\"Decoded and Calculated the parameters of the vehicle such as fuel economy, power , torque, battery voltage and MAF etc to certify the health of the vehicle Where the data received by ECU sensors of the vehicle through teltonika OBD device with a 7 mints test drive.Used the networking techniques to decode buffer hex data and automated the entire process for multiple inspections with rabbitmq queuing in PHP laravel.\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "naikgangadhar",
+    "activity": null,
+    "linkedin_num_id": 417047086.0,
+    "honors_and_awards": [
+        {
+            "title": "Spot Award for Impressive Performance",
+            "publication": "Droom Technology",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "Received “Spot Award” from Companies CEO for the impressive performance on developing a new Product."
+        },
+        {
+            "title": "Giri Pragathi Puraskar",
+            "publication": "Honourable Chief Minister of Andhra Pradesh Shri Nara Chandra Babu Naidu",
+            "date": "2014-08-01T00:00:00.000Z",
+            "description": "Awarded for meritorious student for the year 2014 from the Honourable Chief Minister of Andhra Pradesh Shri Nara Chandra Babu Naidu on the eve of The International Day of the World's Indigenous People."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

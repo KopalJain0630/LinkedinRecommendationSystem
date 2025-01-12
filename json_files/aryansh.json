@@ -1,0 +1,367 @@
+{
+    "id": "aryansh",
+    "name": "Aryansh Singh",
+    "city": "New Delhi, Delhi, India",
+    "country_code": "IN",
+    "position": "BCG • Columbia Business School • IIT KGP",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Boston Consulting Group (BCG)",
+        "company_id": "boston-consulting-group",
+        "title": "BCG • Columbia Business School • IIT KGP"
+    },
+    "experience": [
+        {
+            "title": "Associate",
+            "location": "Mumbai Metropolitan Region",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Boston Consulting Group (BCG)",
+            "company_id": "boston-consulting-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Venture Partner",
+            "description": "Founders looking to raise pre-seed and seed rounds, please reach out to me on LinkedIn oraryansh[dot]iitkgp[at]gmail[dot]com",
+            "description_html": "Founders looking to raise pre-seed and seed rounds, please reach out to me on LinkedIn oraryansh[dot]iitkgp[at]gmail[dot]com <!---->",
+            "duration": "Oct 2022 Jun 2024 1 year 9 months",
+            "start_date": "Oct 2022",
+            "end_date": "Jun 2024",
+            "duration_short": "1 year 9 months",
+            "company": "Picus Capital",
+            "company_id": "picus-capital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Founded welfare and information dissemination application for students across multiple Indian universities, with over 5000 downloads.",
+            "description_html": "Founded welfare and information dissemination application for students across multiple Indian universities, with over 5000 downloads. <!---->",
+            "duration": "Sep 2021 Jun 2024 2 years 10 months",
+            "start_date": "Sep 2021",
+            "end_date": "Jun 2024",
+            "duration_short": "2 years 10 months",
+            "company": "Your Launchpad",
+            "company_id": "your-launchpad",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Building Mercor",
+            "description": "StratOps for General Catalyst backed seed startup. Valued at 250 Mn USD.",
+            "description_html": "StratOps for General Catalyst backed seed startup. Valued at 250 Mn USD. <!---->",
+            "duration": "Oct 2023 Mar 2024 6 months",
+            "start_date": "Oct 2023",
+            "end_date": "Mar 2024",
+            "duration_short": "6 months",
+            "company": "Mercor",
+            "company_id": "mercor-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Associate",
+            "location": "New Delhi, Delhi, India",
+            "description": "Consulted a large industrial goods player in their growth transformation strategies, with focus on sales & marketing modules",
+            "description_html": "Consulted a large industrial goods player in their growth transformation strategies, with focus on sales &amp; marketing modules <!---->",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Boston Consulting Group (BCG)",
+            "company_id": "boston-consulting-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Ambassador",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "1/25 students amongst 25000+ applications pan India to work on community campaigns.",
+            "description_html": "1/25 students amongst 25000+ applications pan India to work on community campaigns. <!---->",
+            "duration": "Dec 2022 Jun 2023 7 months",
+            "start_date": "Dec 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "7 months",
+            "company": "OnePlus",
+            "company_id": "oneplus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Strategy Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "Team: Feeding India",
+            "description_html": "Team: Feeding India <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Associate",
+            "description_html": null,
+            "duration": "Feb 2021 Dec 2021 11 months",
+            "start_date": "Feb 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "11 months",
+            "company": "Harvard Business School",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern, Government of India",
+            "location": "New Delhi, Delhi, India",
+            "description_html": null,
+            "duration": "Jan 2021 Mar 2021 3 months",
+            "start_date": "Jan 2021",
+            "end_date": "Mar 2021",
+            "duration_short": "3 months",
+            "company": "Invest India",
+            "company_id": "invest-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Faridabad, Haryana, India",
+            "description_html": null,
+            "duration": "Oct 2020 Jan 2021 4 months",
+            "start_date": "Oct 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "4 months",
+            "company": "Indian Institute of Management, Kozhikode",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Finance Intern",
+            "location": "Delhi NCR",
+            "description_html": null,
+            "duration": "Jul 2020 Sep 2020 3 months",
+            "start_date": "Jul 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "3 months",
+            "company": "Continental",
+            "company_id": "continental",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Vatsal Venkatkrishna",
+            "about": "PhD Student @ UKP Lab, INSAIT | IIT Kharagpur '24",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Hurkat",
+            "about": "IIT KGP | Machani Group | CFA L1 | Product | Strategy",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Neha Trehan",
+            "about": "Corporate Relations @ Shiv Nadar University | XLRI - PGCHRM | Always Curious | Looking to make a difference now and always",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhrubajyoti Ray",
+            "about": "MSBA’25 @ CMU Tepper | Micron | IIT KGP' 22 | Data Science | Business Analytics | Machine Learning",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Garg",
+            "about": "BCG | IIT Kharagpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Pragya Jha",
+            "about": "Senior Associate at PwC India • RPA Developer • Uipath Advanced Certified • Cummins College of Engineering for Women, Pune",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Jyoti Kumari",
+            "about": "HILS Validation Engineer || TCS || ADAS",
+            "location": "Sagamihara"
+        },
+        {
+            "profile_link": "",
+            "name": "Shailesh Soni",
+            "about": "Senior Risk Analyst at Auronova Consulting | FRM LEVEL 1 | IIT Kharagpur",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepika Gupta",
+            "about": "SAP CPQ Developer",
+            "location": "Nagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Jayasurya Karthikeyan",
+            "about": "Sales And Operations",
+            "location": "Dubai, United Arab Emirates"
+        }
+    ],
+    "educations_details": "Columbia Business School",
+    "education": [
+        {
+            "title": "Columbia Business School",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "description": "Accepted to the Columbia Business School via the Deferred Enrollment Program. Expected to join in 2027.",
+            "description_html": "Accepted to the Columbia Business School via the Deferred Enrollment Program. Expected to join in 2027. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated MSc.",
+            "field": "Economics",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "Activities and Societies: Patel Hall of Residence | Entrepreneurship Cell | The Scholars' Avenue | Business Club Best Outgoing Student: Patel Hall Institute Honourable Mention: Technology Inter IIT Tech & Cult Gold Medallist Love football & TT but no time",
+            "description_html": "Activities and Societies: Patel Hall of Residence | Entrepreneurship Cell | The Scholars' Avenue | Business Club",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "MVN School, Faridabad",
+            "degree": "95.2% in 12th & 10 CGPA in 10th",
+            "description": "Full Scholarship for Academic Excellence | Captain of Daffodil House | School football team | Quiz Team | Achievers Award",
+            "description_html": "Full Scholarship for Academic Excellence | Captain of Daffodil House | School football team | Quiz Team | Achievers Award <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 50459.0,
+    "connections": 500.0,
+    "current_company_company_id": "boston-consulting-group",
+    "current_company_name": "Boston Consulting Group (BCG)",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Hero Campus Challenge: National Winner\",\"start_date\":\"Dec 2022\",\"end_date\":\"Feb 2023\",\"description\":\"National Rank 1 amongst 75,000+ registrations in the Engineering Track of the innovation challenge.\"},{\"title\":\"Crown Jewel: International Case Competition, IIM Bangalore\",\"start_date\":\"Sep 2022\",\"end_date\":\"Sep 2022\",\"description\":\"Received an International Rank of 4 among 1000+ registrations. Developed a market entry case study for Unacademy for further expansion in the Indian EdTech ecosystem with an aim to generate 50 Million USD revenue by 2025.\"},{\"title\":\"Creative Shock: Global Business Case Challenge\",\"start_date\":\"Oct 2020\",\"end_date\":\"Nov 2020\",\"description\":\"Ranked 21st amongst 1756 Participants from 85 Countries in the prestigious Case-Study and Marketing competition. Developed an analysis report on a restaurant and created a marketing plan for a Lithuanian company to have a brand launch in the USA.\"},{\"title\":\"Shelter Helper: Community Driven Hackathon in Champaign-Urbana\",\"start_date\":\"Sep 2020\",\"end_date\":\"Sep 2020\",\"description\":\"Developed a model based on Computer Vision for Pyghack Hackathon, where we used convolution neural networks to classify the incoming photos & send them with authenticity probability and location tracks to our database which could further be used by NGOs to help the needy.\"}]",
+    "organizations": null,
+    "location": "New Delhi",
+    "linkedin_id": "aryansh",
+    "activity": [
+        {
+            "interaction": "Liked by Aryansh Singh",
+            "link": "",
+            "title": "🎉 Proud Moment! Congratulations to Mohd Amaan from Indian Institute of Technology, Kharagpur for landing a role at Amazon! 💼🚀 Amaan's placement…",
+            "img": "",
+            "id": "7278435960378261505"
+        },
+        {
+            "interaction": "Liked by Aryansh Singh",
+            "link": "",
+            "title": "Me: “Hey Amazon , how much for my Dell i9?” Amazon: “₹750.” Me: “₹750? For the charger, right?” Amazon: “No, the whole laptop.” Me: Cool, let me just…",
+            "img": "",
+            "id": "7274042410257502209"
+        },
+        {
+            "interaction": "Shared by Aryansh Singh",
+            "link": "",
+            "title": "“Instagram remove/uninstall kardeta hu yaar, bohot time waste hojata hai” Most of us have been through this phase or heard this from our…",
+            "img": "",
+            "id": "7277888384549756929"
+        },
+        {
+            "interaction": "Liked by Aryansh Singh",
+            "link": "",
+            "title": "Merry Christmas all! A request, create wonder in someone's life today. A huge tip for a delivery partner, blankets to those who need them, a few…",
+            "img": "",
+            "id": "7277589458412040193"
+        },
+        {
+            "interaction": "Liked by Aryansh Singh",
+            "link": "",
+            "title": "Across Mumbai, Bengaluru, and New Delhi - spanning decades of BCG talent, over 120 alumni came together for Worldwide Alumni Day (WWAD), to…",
+            "img": "",
+            "id": "7276926758002507776"
+        },
+        {
+            "interaction": "Liked by Aryansh Singh",
+            "link": "",
+            "title": "This prediction from Sam Altman cuts to the heart of how AI is reshaping labor economics. The value of work performed behind a screen—coding…",
+            "img": "",
+            "id": "7274707944540123136"
+        }
+    ],
+    "linkedin_num_id": 167567405.0,
+    "honors_and_awards": [
+        {
+            "title": "Best Outgoing Patelian: Ankik Dhar Memorial Trophy",
+            "publication": "Patel Hall of Residence",
+            "date": "2024-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "UnStop E-School Leader: All India Rank 9",
+            "publication": "Unstop & Forbes India",
+            "date": "2023-05-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Inter IIT Tech Meet: Gold Medallist",
+            "publication": "Inter IIT Tech Meet 11.0, IIT Kanpur",
+            "date": "2023-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "EY India Scholarship Early Bird Award",
+            "publication": "EY",
+            "date": "2023-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Inter IIT Cultural Meet: Gold Medallist",
+            "publication": "Inter IIT Cultural Meet 5.0, IIT Madras",
+            "date": "2023-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "KVPY Stage 1: Qualified",
+            "publication": "Government of India",
+            "date": "2018-11-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Times Spark Scholar",
+            "publication": "The Times of India",
+            "date": "2018-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Pi Quiz, IIM Indore: First Runner Up",
+            "publication": "Atharva, IIM Indore",
+            "date": "2016-09-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

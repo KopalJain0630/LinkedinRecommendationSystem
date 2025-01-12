@@ -1,0 +1,101 @@
+{
+    "city": "Bangalore Urban, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "-",
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "e6data",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"HealthNext\",\"start_date\":\"Oct 2019\",\"end_date\":\"Present\",\"description\":\"1. Worked on designing a digital assistant chatbot along the lines of ESI handbook to generate a medical resume to support EHR.2. Piloted in East UP’s largest hospital - IMS, BHU, HealthNext stood 4th at John Hopkins Healthcare Design Competition.3. Presently working on launching features such as- find the nearest medical official, make an appointment, personalized notifications.Exposure- Wireframes, Dashboards, SQL, REST API\"},{\"title\":\"TrashCash: Gamifying the waste throwing user experience\",\"start_date\":\"Feb 2019\",\"end_date\":\"Present\",\"description\":\"TrashCash provides a Smart Kit which is retrofittable in any existing dustbin to make it a Smart Dustbin. Whenever a user throws garbage into one such bin, she/he gets Swacchta points in our Swacchta app, which is integrated into the Smart kit. These Swacchta points boost her/him up the community leaderboard and can also be redeemed as discount coupons at our partner stores. We at TrashCash want to bring a change in culture where people think before littering, by providing them incentives.Also, when the dustbin fills above 85%, the concerned authorities get notified through our Garbage Collector app which can then be followed to get an optimized route for lesser fuel consumption and more productivity.\"},{\"title\":\"Modeling of Dust Generation in Mines\",\"start_date\":\"Aug 2019\",\"end_date\":\"Dec 2019\",\"description\":\"1. Identified the factors contributing to the generation of dust, and the different approaches and methods to estimate it.2. Predicted the amount of dust generated in a pre-defined situation by various mathematical models for materialistic studies.3. Compared the results on various sets of parameters like accuracy, friction, etc. for an overview analysis of applicability.Exposure- Materialistic analysis, parameter optimization\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Cisco ThingQbator",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "HULT",
+            "publication": "-",
+            "date": null,
+            "description": "Regional Finalists"
+        },
+        {
+            "title": "IIT Color",
+            "publication": "Gymkhana, IIT BHU",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Industry Remodelled",
+            "publication": "Technex\"19, IIT(BHU)",
+            "date": null,
+            "description": "Second Runner up at a case study, problem solving event based on healthcare, defence, transportation and energy sectors. The participants had to pick up any two sectors and draft innovative solutions on industry based problems."
+        },
+        {
+            "title": "Inter IIT Tech Meet'19",
+            "publication": "Ashoka's Tech for Change",
+            "date": null,
+            "description": "Gold Medalist"
+        },
+        {
+            "title": "Inter IIT Tech Meet'20",
+            "publication": "Product Case Challenge",
+            "date": null,
+            "description": "Gold medalist"
+        },
+        {
+            "title": "NASSCOM",
+            "publication": "-",
+            "date": null,
+            "description": "Felicitated for Innovation in TrashCash"
+        },
+        {
+            "title": "PM School's Product Case Challenge",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "SHE",
+            "publication": "Technex\"19, IIT(BHU)",
+            "date": null,
+            "description": "Runner up at an entrepreneurship event based on women safety, healthcare and education."
+        },
+        {
+            "title": "ShARE Asia Winner",
+            "publication": "ShARE",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Testbook's Product Case Challenge",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "UP Startup Conclave",
+            "publication": "Best Woman Entrepreneur",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Varanasi Wordfest",
+            "publication": "Lit Club, IIT(BHU)",
+            "date": null,
+            "description": "Runner up at English Poetry Slam."
+        }
+    ]
+}

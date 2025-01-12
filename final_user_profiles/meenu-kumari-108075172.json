@@ -1,0 +1,118 @@
+{
+    "city": "India",
+    "position": "SDE-II Honeywell | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Software Developer Engineer II",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description_html": null,
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "AI Development Intern",
+            "description_html": null,
+            "duration": "Mar 2021 May 2021 3 months",
+            "start_date": "Mar 2021",
+            "end_date": "May 2021",
+            "duration_short": "3 months",
+            "company": "DoubtConnect",
+            "company_id": "doubtconnect",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "Nov 2020 Nov 2020 1 month",
+            "start_date": "Nov 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "1 month",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Communiqué IIT Kharagpur",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Communiqué IIT Kharagpur",
+                    "meta": "Jul 2019 - Jul 2020 1 year 1 month",
+                    "description": "Conducted 6 open houses and numerous knowledge sessions impacting 2000+ students of IIT Kharagpur.Conducted 3 day-long workshop in association with Microsoft Technology Associate having a footfall    of 1000+ students.Spearheaded the drafting of career assistance literary endeavours: \"Playing it Soft\" and \"The Guessing Game\" attracting a viewership of 10000+ students.Designed several posters for the official Facebook page of Communiqué and mentored a group of freshmen in designing.",
+                    "duration": "Jul 2019 Jul 2020 1 year 1 month",
+                    "start_date": "Jul 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Secretary",
+                    "description_html": "Conducted 6 open houses and numerous knowledge sessions impacting 2000+ students of IIT Kharagpur.<br><br>Conducted 3 day-long workshop in association with Microsoft Technology Associate having a footfall of 1000+ students.<br><br>Spearheaded the drafting of career assistance literary endeavours: \"Playing it Soft\" and \"The Guessing Game\" attracting a viewership of 10000+ students.<br><br>Designed several posters for the official Facebook page of Communiqué and mentored a group of freshmen in designing."
+                },
+                {
+                    "subtitle": "Communiqué IIT Kharagpur",
+                    "meta": "Aug 2018 - Jul 2019 1 year",
+                    "description": "Received training in Speaking Skills such as Group Discussions, Debates, Elocution, Personal Interviews, Presentation Skills and Case Studies etc.",
+                    "duration": "Aug 2018 Jul 2019 1 year",
+                    "start_date": "Aug 2018",
+                    "end_date": "Jul 2019",
+                    "duration_short": "1 year",
+                    "title": "Student Member",
+                    "description_html": "Received training in Speaking Skills such as Group Discussions, Debates, Elocution, Personal Interviews, Presentation Skills and Case Studies etc. <!---->"
+                }
+            ],
+            "company": "Communiqué IIT Kharagpur",
+            "company_id": "communiqu%C3%A9-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech+M.Tech(Dual Degree)",
+            "field": "Industrial and systems engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya Vidyalaya",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Analytics Edge, edX Courses\"},{\"subtitle\":\"-\",\"title\":\"Economics\"},{\"subtitle\":\"-\",\"title\":\"Information Systems Lab\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Operation Research\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structure\"}]",
+    "certifications": null,
+    "current_company_name": "Honeywell",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Twitter Sentiment Analysis\",\"start_date\":\"Nov 2020\",\"end_date\":\"Jan 2021\"},{\"title\":\"Hand Gesture Recognition\",\"start_date\":\"Sep 2020\",\"end_date\":\"Nov 2020\"}]",
+    "honors_and_awards": null
+}

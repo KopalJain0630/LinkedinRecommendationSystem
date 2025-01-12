@@ -1,0 +1,46 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Entrepreneur",
+    "experience": [
+        {
+            "title": "CEO and Co-Founder",
+            "description_html": null,
+            "duration": "Aug 2007 Apr 2010 2 years 9 months",
+            "start_date": "Aug 2007",
+            "end_date": "Apr 2010",
+            "duration_short": "2 years 9 months",
+            "company": "www.tagg.in",
+            "company_logo_url": ""
+        },
+        {
+            "title": "systems engineer",
+            "description_html": null,
+            "duration": "Jan 2001 Dec 2004 4 years",
+            "start_date": "Jan 2001",
+            "end_date": "Dec 2004",
+            "duration_short": "4 years",
+            "company": "hp",
+            "company_id": "hewlett-packard-enterprise",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Penn State University",
+            "url": "",
+            "start_year": "1998",
+            "end_year": "2000",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "www.tagg.in",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

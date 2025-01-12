@@ -1,0 +1,154 @@
+{
+    "city": "Indore, Madhya Pradesh, India",
+    "position": "Senior Associate Data scientist @ Publicis Sapient | IIT Kharagpur'23",
+    "experience": [
+        {
+            "title": "Senior Associate Data scientist L1",
+            "location": "Gurugram, Haryana, India",
+            "description": "Building GenAI powered Engineering CoPilot that can be used by engineers to improve the Speed and Quality of Software development. This tool allows engineers to concentrate on their core responsibilities while creating an integrated ecosystem utilizing GenAI to amplify their capabilities. This not only results in consistent and superior quality engineering, but also adds value to the end customer.",
+            "description_html": "Building GenAI powered Engineering CoPilot that can be used by engineers to improve the Speed and Quality of Software development. This tool allows engineers to concentrate on their core responsibilities while creating an integrated ecosystem utilizing GenAI to amplify their capabilities. This not only results in consistent and superior quality engineering, but also adds value to the end customer. <!---->",
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Publicis Sapient",
+            "company_id": "publicissapient",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "President",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Jan 2019 Apr 2023 4 years 4 months",
+            "start_date": "Jan 2019",
+            "end_date": "Apr 2023",
+            "duration_short": "4 years 4 months",
+            "company": "Click KGP",
+            "company_id": "click-kgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "description": "- Developed a complimentary item recommendation system for fashion retail to complete the look based on location & trend - Designed a model using image background for location info. and different segmentation technique for outfit feature embedding - Applied facial Detection for person info. & Deployed the model using flask API through Docker and AWS on Bodhi platform",
+            "description_html": "- Developed a complimentary item recommendation system for fashion retail to complete the look based on location &amp; trend - Designed a model using image background for location info. and different segmentation technique for outfit feature embedding - Applied facial Detection for person info. &amp; Deployed the model using flask API through Docker and AWS on Bodhi platform <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Publicis Sapient",
+            "company_id": "publicissapient",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "International Relations Cell, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "2 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "International Relations Cell, IIT Kharagpur",
+                    "meta": "Jul 2020 - Oct 2021 1 year 4 months",
+                    "duration": "Jul 2020 Oct 2021 1 year 4 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Oct 2021",
+                    "duration_short": "1 year 4 months",
+                    "title": "Coordinator",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "International Relations Cell, IIT Kharagpur",
+                    "meta": "Aug 2019 - Jul 2020 1 year",
+                    "description": "Created a Foreign Training Portal which is used by the whole KGP community to apply for a foreign internship",
+                    "duration": "Aug 2019 Jul 2020 1 year",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year",
+                    "title": "Web Team Member",
+                    "description_html": "Created a Foreign Training Portal which is used by the whole KGP community to apply for a foreign internship <!---->"
+                }
+            ],
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integreted Msc",
+            "field": "Chemistry",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Smt. Kamala saklecha gyan Mandir Bhanpura",
+            "degree": "10th",
+            "start_year": "2004",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2022Credential ID UC-35447157-4603-4416-abc1-18f6fc9c5d3eSee credential",
+            "subtitle": "Udemy",
+            "title": "Artificial Intelligence A-Z™: Learn How To Build An AI"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID UC-26a1c880-4ab6-4457-b22f-32177def0197See credential",
+            "subtitle": "Udemy",
+            "title": "Blockchain A-Z™: Learn How To Build Your First Blockchain"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID UC-edc7208a-2da6-4bd9-b440-163d75842441See credential",
+            "subtitle": "Udemy",
+            "title": "Data Science A-Z™: Real-Life Data Science Exercises Included"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID UC-d25c0863-4201-4091-b369-27dfdf41549fSee credential",
+            "subtitle": "Udemy",
+            "title": "Deep Learning A-Z™: Hands-On Artificial Neural Networks"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID UC-e1d7f3f0-5d59-4b6b-9e47-b759476bb888See credential",
+            "subtitle": "Udemy",
+            "title": "Deep Learning and Computer Vision A-Z™: OpenCV, SSD & GANs"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID UC-069e9b40-9e98-40e1-9127-1406364e31e0See credential",
+            "subtitle": "Udemy",
+            "title": "Deep Learning and NLP A-Z™: How to create a ChatBot"
+        },
+        {
+            "meta": "Issued Jul 2022Credential ID UC-5fc2fee4-50d0-45cf-936c-e1be51d7fd11See credential",
+            "subtitle": "Udemy",
+            "title": "Python A-Z™: Python For Data Science With Real Exercises!"
+        },
+        {
+            "meta": "Issued Jun 2022Credential ID UC-aa44cc40-15c4-4f2d-8393-adc52082c309See credential",
+            "subtitle": "Udemy",
+            "title": "Docker and Kubernetes: The Complete Guide"
+        },
+        {
+            "meta": "Issued Jun 2022Credential ID UC-1057a05e-c48b-4d92-8892-7e71ac6e683bSee credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z™: Hands-On Python In Data Science"
+        }
+    ],
+    "current_company_name": "Publicis Sapient",
+    "publications": "[{\"title\":\"QSPR models for n-octanol/water partition coefficient and enthalpy of vaporization using CDFT and information theory-based descriptors\",\"subtitle\":\"Journal of Chemical Sciences\",\"date\":\"March 15, 2024\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

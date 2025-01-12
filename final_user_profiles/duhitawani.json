@@ -1,0 +1,180 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Building CareDale | IIT Kharagpur '23",
+    "experience": [
+        {
+            "title": "Building CareDale",
+            "description": "One stop solution to all Hard Water Problems",
+            "description_html": "One stop solution to all Hard Water Problems <!---->",
+            "duration": "Nov 2023 - Present 1 year 2 months",
+            "start_date": "Nov 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 2 months",
+            "company": "CareDale",
+            "company_id": "caredale",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Accenture",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investment Analyst",
+            "description_html": null,
+            "duration": "Feb 2023 May 2023 4 months",
+            "start_date": "Feb 2023",
+            "end_date": "May 2023",
+            "duration_short": "4 months",
+            "company": "Peak Sustainability Ventures",
+            "company_id": "peak-sustainability-ventures",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kharagpur Data Analytics Group",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "Kharagpur Data Analytics Group",
+                    "meta": "Jun 2022 - Apr 2023 11 months",
+                    "duration": "Jun 2022 Apr 2023 11 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "11 months",
+                    "title": "Advisor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Kharagpur Data Analytics Group",
+                    "meta": "Jun 2021 - Jun 2022 1 year 1 month",
+                    "duration": "Jun 2021 Jun 2022 1 year 1 month",
+                    "start_date": "Jun 2021",
+                    "end_date": "Jun 2022",
+                    "duration_short": "1 year 1 month",
+                    "title": "Governor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Kharagpur Data Analytics Group",
+                    "meta": "Oct 2020 - Jun 2021 9 months",
+                    "duration": "Oct 2020 Jun 2021 9 months",
+                    "start_date": "Oct 2020",
+                    "end_date": "Jun 2021",
+                    "duration_short": "9 months",
+                    "title": "Core Team Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "MITACS GRI",
+            "location": "Victoria, British Columbia, Canada",
+            "description": "Supply Chain Analytics: Employing Reinforcement Learning Algorithms to Human Resource Planning (HRP) for Blueberry Farms in Canada.",
+            "description_html": "Supply Chain Analytics: Employing Reinforcement Learning Algorithms to Human Resource Planning (HRP) for Blueberry Farms in Canada. <!---->",
+            "duration": "Jun 2022 Oct 2022 5 months",
+            "start_date": "Jun 2022",
+            "end_date": "Oct 2022",
+            "duration_short": "5 months",
+            "company": "University of Victoria",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description_html": null,
+            "duration": "Sep 2021 May 2022 9 months",
+            "start_date": "Sep 2021",
+            "end_date": "May 2022",
+            "duration_short": "9 months",
+            "company": "National Institute of Industrial Engineering",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "description_html": null,
+            "duration": "May 2021 Aug 2021 4 months",
+            "start_date": "May 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "4 months",
+            "company": "University of Nottingham Malaysia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneurship Cell, IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 3 months",
+            "positions": [
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Aug 2020 - Oct 2020 3 months",
+                    "duration": "Aug 2020 Oct 2020 3 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "Oct 2020",
+                    "duration_short": "3 months",
+                    "title": "Associate Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Jul 2020 - Aug 2020 2 months",
+                    "duration": "Jul 2020 Aug 2020 2 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Aug 2020",
+                    "duration_short": "2 months",
+                    "title": "Associate Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Aug 2019 - Jul 2020 1 year",
+                    "duration": "Aug 2019 Jul 2020 1 year",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year",
+                    "title": "GES Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: Kharagpur Data Analytics Group Entrepreneurship Cell Technology Film-making and Photography society",
+            "description_html": "Activities and Societies: Kharagpur Data Analytics Group Entrepreneurship Cell Technology Film-making and Photography society",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "CareDale",
+    "publications": "[{\"title\":\"Delay Prediction to Mitigate E-commerce Supplier Disruptions using Voting Mechanism\",\"subtitle\":\"10th IFAC Conference on Manufacturing Modelling, Management and Control MIM 2022\",\"date\":\"October 27, 2022\"},{\"title\":\"Image Super-Resolution for Arthropod Identification\",\"subtitle\":\"CSSE 2021: 2021 4th International Conference on Computer Science and Software Engineering (CSSE 2021)\",\"date\":\"October 12, 2021\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

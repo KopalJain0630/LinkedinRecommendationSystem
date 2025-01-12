@@ -1,0 +1,108 @@
+{
+    "city": "Jakarta, Indonesia",
+    "position": "IIM Ahmedabad '23 | ESCP '23 | IIT Kharagpur '21",
+    "experience": [
+        {
+            "title": "Manager Corporate Strategy",
+            "location": "Jakarta, Indonesia",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Essar",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Strategy Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "Energy Markets",
+            "description_html": "Energy Markets <!---->",
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "ReNew Power",
+            "company_id": "renew",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Strategy and Operations",
+            "location": "Kalmeshwar",
+            "description": "Proposed a transformative operational strategy for a Continuous Pickling Line, identifying critical bottlenecks to significantly enhance process efficiency and avoid a capital-intensive replacement. Delivered data-driven recommendations to optimize resource utilization and maximize ROI.",
+            "description_html": "Proposed a transformative operational strategy for a Continuous Pickling Line, identifying critical bottlenecks to significantly enhance process efficiency and avoid a capital-intensive replacement. Delivered data-driven recommendations to optimize resource utilization and maximize ROI. <!---->",
+            "duration": "May 2018 Jun 2018 2 months",
+            "start_date": "May 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "2 months",
+            "company": "JSW Steel",
+            "company_id": "jswsteel",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "ESCP Business School",
+            "degree": "Master's degree",
+            "field": "Business Administration and Management, General",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology",
+            "field": "Metallurgical and Materials Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Udemy",
+            "title": "Machine Learning in Python"
+        },
+        {
+            "subtitle": "edX",
+            "title": "Python Basics (IBM)"
+        }
+    ],
+    "current_company_name": "Essar",
+    "publications": "[{\"title\":\"2D Hexagonal Boron Nitride-Coated Cotton Fabric with Self-Extinguishing Property\",\"subtitle\":\"ACS Applied Materials and Interfaces (published by the American Chemical Society)\",\"date\":\"September 8, 2020\",\"description\":\"60% rise in wetting angle making significant increase in water repulsion properties33% reduction in weight loss post burning due to improvement in structural integrity of material\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Machine learning\",\"start_date\":\"Aug 2019\",\"end_date\":\"Apr 2020\",\"description\":\"Stock VolatilityNews Virality\"}]",
+    "honors_and_awards": [
+        {
+            "title": "GATE Scholar",
+            "publication": "AICTE",
+            "date": "2020-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "NTSE Scholar",
+            "publication": "NCERT",
+            "date": null,
+            "description": null
+        }
+    ]
+}

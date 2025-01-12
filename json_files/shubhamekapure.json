@@ -1,0 +1,487 @@
+{
+    "id": "shubhamekapure",
+    "name": "Shubham Ekapure",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": "Urban Company| AmEx | IIT KGP",
+    "about": "No man ever steps into the same river twice, for it is not the same river and he is not the same man.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Urban Company",
+        "company_id": "urbancompany",
+        "title": "Urban Company| AmEx | IIT KGP"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Urban Company",
+            "company_id": "urbancompany",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "American Express",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "2 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "American Express",
+                    "meta": "Feb 2024 - Jun 2024 5 months",
+                    "description": "Consumer Decision Science - Credit & Fraud Risk",
+                    "duration": "Feb 2024 Jun 2024 5 months",
+                    "start_date": "Feb 2024",
+                    "end_date": "Jun 2024",
+                    "duration_short": "5 months",
+                    "title": "Assistant Manager",
+                    "description_html": "Consumer Decision Science - Credit &amp; Fraud Risk <!---->"
+                },
+                {
+                    "subtitle": "American Express",
+                    "meta": "May 2022 - Jan 2024 1 year 9 months",
+                    "description": "Decision Science Analyst - Credit & Fraud Risk",
+                    "duration": "May 2022 Jan 2024 1 year 9 months",
+                    "start_date": "May 2022",
+                    "end_date": "Jan 2024",
+                    "duration_short": "1 year 9 months",
+                    "title": "Analyst",
+                    "description_html": "Decision Science Analyst - Credit &amp; Fraud Risk <!---->"
+                }
+            ],
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product Management Intern",
+            "description_html": null,
+            "duration": "Jan 2022 Mar 2022 3 months",
+            "start_date": "Jan 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "3 months",
+            "company": "Apollo 24|7",
+            "company_id": "apollo247",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Research Assistant",
+            "description": "Project on Stocashtic Improvement in AI model for stock predictionsMentor: Prof. Indranil SenGupta, Department of Mathematics, NDSU, North Dakota",
+            "description_html": "Project on Stocashtic Improvement in AI model for stock predictionsMentor: Prof. Indranil SenGupta, Department of Mathematics, NDSU, North Dakota <!---->",
+            "duration": "Apr 2021 Aug 2021 5 months",
+            "start_date": "Apr 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "5 months",
+            "company": "North Dakota State University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Optum",
+            "company_id": "optum",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "description_html": null,
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Comviva",
+            "company_id": "comviva",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "Mar 2020 Jun 2020 4 months",
+            "start_date": "Mar 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "4 months",
+            "company": "InCity Communications & Technologies Private Limited",
+            "company_id": "incitytech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Controls and Mechanical team member",
+            "location": "IIT Kharagpur",
+            "description": "Secured second position in 27th International Ground Vehicle Competition (IGVC) held at Michigan, USA from 7th- 10th June 2019.",
+            "description_html": "Secured second position in 27th International Ground Vehicle Competition (IGVC) held at Michigan, USA from 7th- 10th June 2019. <!---->",
+            "duration": "Feb 2019 May 2019 4 months",
+            "start_date": "Feb 2019",
+            "end_date": "May 2019",
+            "duration_short": "4 months",
+            "company": "Autonomous Ground Vehicle Research Group",
+            "company_id": "autonomous-ground-vehicle-research-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Membership Associate",
+            "location": "Kharagpur Area, India",
+            "description": "Conducted Indian Case Challenge (ICC)one of the biggest case challenges in India, open house sessions on finance, analytics and business strategy.",
+            "description_html": "Conducted Indian Case Challenge (ICC)one of the biggest case challenges in India, open house sessions on finance, analytics and business strategy. <!---->",
+            "duration": "Sep 2018 May 2019 9 months",
+            "start_date": "Sep 2018",
+            "end_date": "May 2019",
+            "duration_short": "9 months",
+            "company": "Business Club, IIT Kharagpur",
+            "company_id": "bclubiitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shubham Harde",
+            "about": "Business Analyst at Flightcase | Data Analyst |",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Aniket Agarwal",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Neeraj Sharma",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansi Sharma",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarfaraz Alam",
+            "about": "AI and ML Engineer at Indiamart",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Kashika Yadav Joshi",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Suddalwar",
+            "about": "[Python_Developer, Analyst, ML, AI]",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaishnav Chandak",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bharati Yadav",
+            "about": "AI",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajat Khandelwal",
+            "about": "Software Engineer @Wells Fargo | Gold medalist @IIT (BHU) Varanasi",
+            "location": "Varanasi"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Dr. Ambedkar College, Deekshabhoomi",
+            "degree": "High School Diploma",
+            "field": "Science",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": "Extra: Vocational training in electronics",
+            "description_html": "Extra: Vocational training in electronics <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Peter's School, Bhandara",
+            "degree": "Secondary school certification",
+            "field": "CBSE",
+            "start_year": "2003",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Blockchain Theory 101\"},{\"subtitle\":\"-\",\"title\":\"Programming and data structure in C\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Marathi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "GANs and Diffusion Models in Machine Learning"
+        },
+        {
+            "meta": "Issued Jun 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Blockchain: Learning Solidity"
+        },
+        {
+            "meta": "Issued Jun 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "SAS® 9.4 Cert Prep: Part 01 SAS Programming Essentials"
+        },
+        {
+            "meta": "Issued Apr 2021Credential ID UC-6b88a0e5-c0a5-468b-980d-eaeb9a131d6aSee credential",
+            "subtitle": "Udemy",
+            "title": "Applying Scrum: Mastering Agile Project Management with Scrum"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID 6GGGJE63V5UKSee credential",
+            "subtitle": "University of Alberta",
+            "title": "Introduction to Software Product Management"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID BNHPGLT7VZXZSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID 39N55HLAQ8NNSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID 5PGWQ4KADXVWSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID FS7N7DBUS8X4See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID UN3W9EWFAWTSSee credential",
+            "subtitle": "University of California San Diego",
+            "title": "Algorithmic Toolbox"
+        },
+        {
+            "meta": "Issued Sep 2019Credential ID 2GNQLD4VHXC4See credential",
+            "subtitle": "Coursera",
+            "title": "Open Source tools for Data Science"
+        },
+        {
+            "meta": "Issued Sep 2019Credential ID 9JZSR3S6BLVLSee credential",
+            "subtitle": "Coursera",
+            "title": "Python for Data Science and AI"
+        },
+        {
+            "meta": "Issued Jan 2019Credential ID 3M2AJK42RWAZSee credential",
+            "subtitle": "Coursera",
+            "title": "What is Data Science?"
+        },
+        {
+            "meta": "Issued Jul 2018",
+            "subtitle": "Maharashtra State Board of Secondary and Higher Secondary Education",
+            "title": "Higher Secondary Certificate"
+        }
+    ],
+    "recommendations": [
+        "Himanshu Mate “Shubham is passionate about various machine learning and deep learning technologies and its integration with software engineering. It was my pleasure to work with him.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Jun 2020 · 2 years",
+            "duration_short": "2 years",
+            "end_date": "Jun 2020",
+            "start_date": "Jul 2018",
+            "subtitle": "National Social Service Scheme",
+            "title": "Team leader"
+        }
+    ],
+    "followers": 3828.0,
+    "connections": 500.0,
+    "current_company_company_id": "urbancompany",
+    "current_company_name": "Urban Company",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Gurugram",
+    "linkedin_id": "shubhamekapure",
+    "activity": [
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "This is the first real-world AI hedge fund, fully open source. The hedge fund has 6 agents: 1 • market data agent 2 • quant agent 3 • fundamentals…",
+            "img": null,
+            "id": "7278771923629551617"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "As 2024 comes to a close, I am reflecting on a year filled with growth, challenges, changes and valuable lessons. Immersing myself in the new…",
+            "img": null,
+            "id": "7276768725033201664"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "As we continue to explore new post-training techniques, today we're releasing Llama 3.3 — a new open source model that delivers leading performance…",
+            "img": null,
+            "id": "7270844454133997570"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "Deepinder Goyal, the founder of Zomato, is now using the classic billionaire trick to hide the BAD NEWS according to me. Zomato is doing a QIP of…",
+            "img": "",
+            "id": "7269214390535499776"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "After completing my graduate degree at Columbia University, I will be starting a new role as a Software Engineer at Citadel! Excited for this next…",
+            "img": "",
+            "id": "7268100881982590976"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "“At Urban Company, we firmly believe in the transformative power of entrepreneurship, especially when it comes to empowering women in the beauty and…",
+            "img": "",
+            "id": "7263139490980864000"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "The PM who wrote this is awesome ❤️",
+            "img": "",
+            "id": "7261704670992031744"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "We're thrilled to celebrate 10 incredible years of delivering delightful services to our valued customers 🎉 Your unwavering support and love have…",
+            "img": "",
+            "id": "7260866450620338176"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "Unless we 1. Use public transport at least 25% of times 2. Carpool at least 25% of times 3. Plant trees regularly 4. Use <half a bucket of water…",
+            "img": "",
+            "id": "1"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "🚀 Big News! Anthropic launched 'Computer Use' Think of it as Siri, but on steroids, taking immersive actions for you! We’ve seen similar launches…",
+            "img": "",
+            "id": "7255201455895158785"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "My friend Ujjwal runs Swish. It’s a 10 minute food delivery app. He’s been asking me to try it out but I kinda procrastinated. Today one of my…",
+            "img": "",
+            "id": "10"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "🗺️ Launching - AI for Experiential Tourism! Sounds Counterintuitive? Hear me out first! Problem: When people visit historical places, they crave…",
+            "img": "",
+            "id": "7253745490318528512"
+        },
+        {
+            "interaction": "Liked by Shubham Ekapure",
+            "link": "",
+            "title": "My father broke his Fixed deposit of ₹60000 to get me a laptop when I joined NSIT I got scholarship in every semester. I got the best internship out…",
+            "img": "",
+            "id": "60000"
+        }
+    ],
+    "linkedin_num_id": 575401759.0,
+    "honors_and_awards": [
+        {
+            "title": "Chess Rating",
+            "publication": "-",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": "Rapid : 1450(chesscom)"
+        },
+        {
+            "title": "Finalist at Confluencia Annual Business Summit of IITR",
+            "publication": "-",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "Cleared the online quiz on data analysis and stasistics which was given by nearly 5K students, cleared the second hands-on data round of Data Wars, and qualified for the campus round for presentation"
+        },
+        {
+            "title": "Silver medalist at Open IIT Data Analytics",
+            "publication": "IIT Kharagpur",
+            "date": "2019-10-01T00:00:00.000Z",
+            "description": "Predicted Customer Lifetime Value (CLV) for an insurance company by using regressive machine learning algorithms."
+        },
+        {
+            "title": "Awardee at CBSE National Science Exhibition",
+            "publication": "CBSE",
+            "date": "2016-02-01T00:00:00.000Z",
+            "description": "Fuel Efficient Vehicle Engineering (FEVER) was the project build to run gasoline engines on water to protect environment, the prototype was appreciated by scientists from DRDO."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

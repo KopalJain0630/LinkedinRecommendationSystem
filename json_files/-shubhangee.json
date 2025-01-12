@@ -1,0 +1,403 @@
+{
+    "id": "-shubhangee",
+    "name": "Shubhangee .",
+    "city": "Bokaro, Jharkhand, India",
+    "country_code": "IN",
+    "position": "IIM K PGP Top 10%ile | National Finalist Samsung Edge S9 | NIT Durgapur'22 | IIM Kozhikode'25",
+    "about": "Shubhangee is currently pursuing her MBA at IIM Kozhikode. She holds a bachelor's  degree in Mechanical Engineering from NIT Durgapur.With her experience as a Management Trainee Technical at TATA Steel, she has successfully managed teams, spearheaded technical projects, and achieved operational excellence. Alongside her professional pursuits, Shubhangee has a passion for Hindustani vocal music and finds joy in singing. Additionally, she indulges in her culinary skills by cooking and loves exploring new destinations through travel.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Ola Electric",
+        "company_id": "olaelectric",
+        "title": "IIM K PGP Top 10%ile | National Finalist Samsung Edge S9 | NIT Durgapur'22 | IIM Kozhikode'25"
+    },
+    "experience": [
+        {
+            "title": "Operations Intern- Strategic Sourcing",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Apr 2024 May 2024 2 months",
+            "start_date": "Apr 2024",
+            "end_date": "May 2024",
+            "duration_short": "2 months",
+            "company": "Ola Electric",
+            "company_id": "olaelectric",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Management Trainee Technical",
+            "description_html": null,
+            "duration": "Jul 2022 Jun 2023 1 year",
+            "start_date": "Jul 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "1 year",
+            "company": "Tata Steel",
+            "company_id": "tatasteelltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IEEE Student Branch NIT Durgapur",
+            "description_html": null,
+            "duration": "3 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "IEEE Student Branch NIT Durgapur",
+                    "meta": "May 2021 - Apr 2022 1 year",
+                    "duration": "May 2021 Apr 2022 1 year",
+                    "start_date": "May 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "1 year",
+                    "title": "Webmaster",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "IEEE Student Branch NIT Durgapur",
+                    "meta": "Oct 2018 - May 2021 2 years 8 months",
+                    "duration": "Oct 2018 May 2021 2 years 8 months",
+                    "start_date": "Oct 2018",
+                    "end_date": "May 2021",
+                    "duration_short": "2 years 8 months",
+                    "title": "Executive Member",
+                    "description_html": null
+                }
+            ],
+            "company": "IEEE Student Branch NIT Durgapur",
+            "company_id": "ieeesbnitdgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "SAE-INDIA NIT Durgapur Collegiate Chapter",
+            "description_html": null,
+            "duration": "3 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "SAE-INDIA NIT Durgapur Collegiate Chapter",
+                    "meta": "May 2021 - Apr 2022 1 year",
+                    "duration": "May 2021 Apr 2022 1 year",
+                    "start_date": "May 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "1 year",
+                    "title": "Vice President",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "SAE-INDIA NIT Durgapur Collegiate Chapter",
+                    "meta": "Feb 2019 - May 2021 2 years 4 months",
+                    "duration": "Feb 2019 May 2021 2 years 4 months",
+                    "start_date": "Feb 2019",
+                    "end_date": "May 2021",
+                    "duration_short": "2 years 4 months",
+                    "title": "Technical Team Member",
+                    "description_html": null
+                }
+            ],
+            "company": "SAE-INDIA NIT Durgapur Collegiate Chapter",
+            "company_id": "sae-nitdgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "INSPIRE'21",
+            "description": "Reduction in premature failure of mould, segment 1 & segment 2.",
+            "description_html": "Reduction in premature failure of mould, segment 1 &amp; segment 2. <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Tata Steel",
+            "company_id": "tatasteelltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Indian Academy of Sciences",
+            "description": "Human Lower Limb Exoskeleton Design having 10 Degrees of Freedom ,for Walking Assistance.",
+            "description_html": "Human Lower Limb Exoskeleton Design having 10 Degrees of Freedom ,for Walking Assistance. <!---->",
+            "duration": "Jun 2020 Oct 2020 5 months",
+            "start_date": "Jun 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Engineering Science and Technology (IIEST), Shibpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "description": "Multi Layer flow of Alternate Newtonian and Non-Newtonian Fluid under the application of uniform Pressure Gradient",
+            "description_html": "Multi Layer flow of Alternate Newtonian and Non-Newtonian Fluid under the application of uniform Pressure Gradient <!---->",
+            "duration": "May 2020 Sep 2020 5 months",
+            "start_date": "May 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Guwahati",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Vocational Training",
+            "description_html": null,
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "Central Tool Room & Training Centre (MSME) Government of India",
+            "company_id": "central-tool-room-training-centre-msme-government-of-india",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ritu Giri",
+            "about": "Assistant Manager (D&E) Tata Steel Limited",
+            "location": "Uttar Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhijeet Singh",
+            "about": "SDE-2 | JAVA | React | AWS | DevOps | MMMUT'21 |",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Samarth Chidananda Swamy",
+            "about": "Master student @ TU Dortmund | Specializing in Manufacturing Technology | Mechanical Engineering Graduate NITK '23 |",
+            "location": "Dortmund"
+        },
+        {
+            "profile_link": "",
+            "name": "Risha Khound",
+            "about": "Tech Strategy - KPMG | IIM - Nagpur | Ex- Accenture | Ex- Amazon",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyas Bhat",
+            "about": "IIMC 24 | NITK 22",
+            "location": "Nasik"
+        },
+        {
+            "profile_link": "",
+            "name": "Lakshmi Mani",
+            "about": "Adobe Campaign Operations | Global Business Service | Omni-channel Marketing | Digital Marketing",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Manoj Kumar",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Ria Mishra",
+            "about": "SDE at Jio Platforms | NITK Surathkal",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohit Kumar Singh",
+            "about": "Applications Engineer at Oracle",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumit Kumar",
+            "about": "Intern at NIELIT",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr Preeti Maurya",
+            "about": "Lead Academic Program",
+            "location": "Greater Delhi Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Johan Cheriyan",
+            "about": "Graduate Research Assistant @ Purdue | Ex-Synopsys, Senior DFT Engineer | NIT Calicut’21 | Design for Test",
+            "location": "West Lafayette, IN"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashwat Patel",
+            "about": "Roboticist l eYRC23 Winner | FRC Mentor",
+            "location": "Gorakhpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayan Kaushik",
+            "about": "SBSC'22 | KPMG India | Inquisitive | Creative mind | Risk Consulting |",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Krishna Chaitanya",
+            "about": "Customer Success Manager at Loyalty Juggernaut || MBA, IIM Kashipur'21",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Atreya Majumdar",
+            "about": "Software Engineer @ Wells Fargo",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Maheshwari",
+            "about": "SDE-1 @ Urban Company",
+            "location": "Rajasthan, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Amit Kumar Yadav",
+            "about": "2xAWS Certified | ProServe @AWS India | NITW'23",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sourav Kumar",
+            "about": "Manager - Corporate Strategy & Planning - Muthoot Fincorp Ltd || IIM Kashipur",
+            "location": "Kochi"
+        },
+        {
+            "profile_link": "",
+            "name": "Jahnavi Billa",
+            "about": "Data Scientist with an MBA || Alumni - UTD, IIM, NIT",
+            "location": "Dallas, TX"
+        }
+    ],
+    "educations_details": "Indian Institute of Management, Kozhikode",
+    "education": [
+        {
+            "title": "Indian Institute of Management, Kozhikode",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "National Institute of Technology Durgapur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Bokaro Steel City.",
+            "url": "",
+            "start_year": "2002",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "subtitle": "KPMG",
+            "title": "Lean Six Sigma Green Belt"
+        }
+    ],
+    "recommendations": [
+        "Shubham Singh “Shubhangee was working as my colleague at Tata Steel.I had the pleasure of collaborating with her during our participation in the TechX,tech exhibition organized by SNTI, Tata Steel.Throughout the project, Shubhangee displayed an exceptional level of dedication and worked tirelessly to ensure its success. Her remarkable leadership skills were evident as she efficiently coordinated among team members. Her calm demeanor and composed approach allowed her to navigate difficult circumstances with ease, always striving to find optimal solutions to the problems at hand. She exhibited an innate talent for problem-solving, effectively analyzing complex issues and devising innovative strategies to overcome them. I wholeheartedly recommend her for any future endeavors where her leadership skills, ability to handle pressure, and exceptional problem-solving aptitude will undoubtedly contribute to outstanding outcomes.”",
+        "Gaurav Kumar “I am pleased to write this recommendation for Shubhangee based on our collaborative work during a research paper and her internship at IIT Guwahati. During our time working together on the research paper, Shubhangee demonstrated great skills and dedication. She exhibited a profound understanding of fluid mechanics, and her contributions significantly enriched the project. Her ability to grasp complex concepts and her analytical thinking was truly commendable. Moreover, Shubhangee's attention to detail and rigorous approach to her work ensured the accuracy and reliability of the results we obtained. Beyond her professional abilities, Shubhangee is a pleasure to work with. She is a team player who listens attentively to others' perspectives and actively contributes to discussions. Her positive attitude and willingness to collaborate make her a valuable asset to any team. Based on my experience working with Shubhangee, I have no doubt that she possesses the skills and knowledge necessary to excel in technical writing and research. I wholeheartedly recommend her for any position or project that requires a meticulous and talented individual. If you have any further questions about Shubhangee's qualifications or experience, please feel free to reach out to me. I am confident that she will continue to make significant contributions in her future endeavors.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 3852.0,
+    "connections": 500.0,
+    "current_company_company_id": "olaelectric",
+    "current_company_name": "Ola Electric",
+    "publications": "[{\"title\":\"Application of Artificial Neural Network for Understanding Multi-Layer Microscale Transport Comprising of Alternate Newtonian and non-Newtonian fluids\",\"subtitle\":\"Colloids and Surfaces A: Physicochemical and Engineering Aspects (Elsevier)\",\"date\":\"February 25, 2022\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Mahindra SAE BAJA 2020\",\"description\":\"Team Member of Team NDORS, NIT Durgapur participating in SAE BAJA an intercollegiate All Terrain Vehicle design competition run by Society of Automotive Engineers.\"}]",
+    "organizations": null,
+    "location": "Bokaro",
+    "linkedin_id": "-shubhangee",
+    "activity": [
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "Exciting Opportunity! We are thrilled to invite MBA campuses to participate in OYO’s recruitment process for dynamic and ambitious talent. If your…",
+            "img": "",
+            "id": "7270791557044142080"
+        },
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "Greetings from Airtel.. we are exited to announce that placements for our MBA Batch - 2025 are officially open. we are inviting Colleges /…",
+            "img": "",
+            "id": "7270664625292009472"
+        },
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "Unlock Talent with IIM Kozhikode’s Batch of 2023–25! Dear Recruiters and Alumni, As we gear up for the Final Placements Drive for the remarkable…",
+            "img": "",
+            "id": "7259546184451547136"
+        },
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "Excited to join the Solace team! Looking forward to contributing to the platform’s growth",
+            "img": "",
+            "id": "7261389770667286529"
+        },
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "Excited to share that I have joined Google NYC as a Software Engineer. Grateful for all the experiences and the incredible support along the way…",
+            "img": "",
+            "id": "7261762860739870721"
+        },
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "Unlock Talent with IIM Kozhikode’s Batch of 2023–25! Dear Recruiters and Alumni, As we gear up for the Final Placements Drive for the remarkable…",
+            "img": "",
+            "id": "7260141675212070912"
+        },
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "Unlock Talent with IIM Kozhikode’s Batch of 2023–25! Dear Recruiters and Alumni, As we gear up for the Final Placements Drive for the remarkable…",
+            "img": "",
+            "id": "7259445016807292929"
+        },
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "Introducing Ola Hyper Service ⚡ ✅ 1,000 Service Centres by December 2024. ✅ 1 Lakh Mechanics EV-Ready by 2025. ✅ 1-Day Service Guarantee…",
+            "img": "",
+            "id": "7245374462521450496"
+        },
+        {
+            "interaction": "Liked by Shubhangee .",
+            "link": "",
+            "title": "I recently started using Solace, and it has transformed my approach to working with documents. The platform is incredibly intuitive and has made…",
+            "img": "",
+            "id": "7245068984436318208"
+        }
+    ],
+    "linkedin_num_id": 848191790.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

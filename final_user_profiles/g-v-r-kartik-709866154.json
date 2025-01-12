@@ -1,0 +1,133 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Graduate Analyst BA4 at Barclays | Placement Coordinator at NIT Rourkela | ECE Grad",
+    "experience": [
+        {
+            "title": "Graduate Analyst BA4",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "Barclays UK",
+            "company_id": "barclays-uk",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Placement Coordinator",
+            "location": "Sundargarh, Orissa, India",
+            "description_html": null,
+            "duration": "May 2021 May 2022 1 year 1 month",
+            "start_date": "May 2021",
+            "end_date": "May 2022",
+            "duration_short": "1 year 1 month",
+            "company": "Training and Placement Centre, NIT Rourkela",
+            "company_id": "training-and-placement-centre-nit-rourkela",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Hindustan Aeronautics Limited",
+            "company_id": "hindustanaeronauticslimited",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "National Institute of Technology Rourkela",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: Coding,BasketBall,Cyborg,Electrical Vehicle(SAE), Opencode, TRR , Code-Red",
+            "description_html": "Activities and Societies: Coding,BasketBall,Cyborg,Electrical Vehicle(SAE), Opencode, TRR , Code-Red",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV public school unit-8",
+            "degree": "12th Class",
+            "field": "Science(Bio+Maths)",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Mary's School, Jajpur",
+            "degree": "10th class",
+            "field": "General Studies",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Introducing Robotic Process Automation"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Microsoft",
+            "title": "MTA: Introduction to Programming Using Python - Certified 2020"
+        },
+        {
+            "meta": "Issued May 2020Credential ID JV69PYRAB54MSee credential",
+            "subtitle": "Coursera",
+            "title": "Python for Data Science and AI"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID R87KBFKCJBAXSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Jun 2024Expires Jun 2027See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Cloud Practitioner "
+        },
+        {
+            "meta": "Issued Jul 2024Expires Jul 2026Credential ID 108395859See credential",
+            "subtitle": "Elastic",
+            "title": "Elastic Certified Analyst"
+        }
+    ],
+    "current_company_name": "Barclays UK",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"“COVID-19 Data Analysis and Predicting Future Behavior\",\"start_date\":\"Apr 2020\",\"end_date\":\"May 2020\"}]",
+    "honors_and_awards": [
+        {
+            "title": "KVPY SCHOLARSHIP",
+            "publication": "Indian government",
+            "date": "2017-12-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

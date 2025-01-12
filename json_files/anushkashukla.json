@@ -1,0 +1,357 @@
+{
+    "id": "anushkashukla",
+    "name": "Anushka Shukla",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "QR Analyst @ JPMC | IIT Kgp | AmEx | HBS",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "JPMorgan Chase & Co.",
+        "company_id": "jpmorganchase",
+        "title": "QR Analyst @ JPMC | IIT Kgp | AmEx | HBS"
+    },
+    "experience": [
+        {
+            "title": "Quantitative Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "JPMorgan Chase & Co.",
+            "company_id": "jpmorganchase",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jan 2021 Apr 2021 4 months",
+            "start_date": "Jan 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "4 months",
+            "company": "Kaleyra",
+            "company_id": "kaleyra",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Researcher",
+            "description_html": null,
+            "duration": "Jan 2021 Apr 2021 4 months",
+            "start_date": "Jan 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "4 months",
+            "company": "Harvard Business School",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Business Analyst",
+            "description": "Project 1: To improve the confidence score of income estimation by designing a cumulative model out of the 4 existing models • Designed various machine learning models including Decision Tree and Linear Regression to combine the income estimation models • Improved the confidence score by 10% as compared to the original model by engineering a self-designed decision tree modelProject 2: To achieve a higher confidence score in income prediction by relabeling the self-employed and salaried users • Generated new features from an existing dataset of banking features by formulating SQL queries on Google BigQuery API• Refined the area under the ROC curve by 50% (0.67 to 0.97) by designing a Weight of Evidence Logistic Regression model",
+            "description_html": "Project 1: To improve the confidence score of income estimation by designing a cumulative model out of the 4 existing models • Designed various machine learning models including Decision Tree and Linear Regression to combine the income estimation models • Improved the confidence score by 10% as compared to the original model by engineering a self-designed decision tree modelProject 2: To achieve a higher confidence score in income prediction by relabeling the self-employed and salaried users • Generated new features from an existing dataset of banking features by formulating SQL queries on Google BigQuery API• Refined the area under the ROC curve by 50% (0.67 to 0.97) by designing a Weight of Evidence Logistic Regression model",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Capital Float",
+            "company_id": "capital-float",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst Intern",
+            "location": "India",
+            "description": "Worked on sentiment analysis of news articles of unlisted/listed companies to find their credibility.Used NLTK, machine Learning models for classification. I am also working on Google Cloud Natural Language Processing API to make a domain-specific custom model using Auto ML API.",
+            "description_html": "Worked on sentiment analysis of news articles of unlisted/listed companies to find their credibility.Used NLTK, machine Learning models for classification. I am also working on Google Cloud Natural Language Processing API to make a domain-specific custom model using Auto ML API. <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "InstaFinancials",
+            "company_id": "instafinancials",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Czech Republic",
+            "description": "Worked on the research paper on Business Value Generators identification using an artificial neural network. Prepared the Literature Review and applied Deep learning models on the financial statements of various industries of the Czech Republic to predict the EVA value.",
+            "description_html": "Worked on the research paper on Business Value Generators identification using an artificial neural network. Prepared the Literature Review and applied Deep learning models on the financial statements of various industries of the Czech Republic to predict the EVA value. <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "Institute of Technology and Business, České Budějovice",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "location": "IIT Kharagpur",
+            "description": "We are a team which manages International Affairs and Relation of IIT Kharagpur. We work under the Dean of Alumni Affairs and International Relations.•Taken Several Initiatives to boost IIT Kharagpur's International Ranking and to make its presence strong on the Global Platform. Improving and reviving many MOUs that IIT Kharagpur has with reputed universities dotted all over the globe.",
+            "description_html": "We are a team which manages International Affairs and Relation of IIT Kharagpur. We work under the Dean of Alumni Affairs and International Relations.•Taken Several Initiatives to boost IIT Kharagpur's International Ranking and to make its presence strong on the Global Platform. Improving and reviving many MOUs that IIT Kharagpur has with reputed universities dotted all over the globe. <!---->",
+            "duration": "Aug 2018 Mar 2019 8 months",
+            "start_date": "Aug 2018",
+            "end_date": "Mar 2019",
+            "duration_short": "8 months",
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GES Intern",
+            "location": "IIT Kharagpur",
+            "description": "During my tenure, I did publicity of Global Entrepreneurship Summit 2016 in different colleges of Jabalpur. During Global Entrepreneurship Summit 2017.Entrepreneurship Cell, IIT Kharagpur, is the largest entrepreneurship promoting student body in India and one of the largest in the world.Its aim is to foster the spirit of entrepreneurship among people and to educate,support and incubate people ready to start their own venture. It invites various eminent entrepreneurs to deliver lectures to educate students about the joys and hardships of entrepreneurship. Guest Lectures, Workshops, Case Study, Workshops, Knowledge Camps, Patent Workshops are conducted throughout the year to involve students in activities that are essential to an entrepreneur. E-Cell also actively incubates startup ideas by linking the right investors with the right entrepreneurs.",
+            "description_html": "During my tenure, I did publicity of Global Entrepreneurship Summit 2016 in different colleges of Jabalpur. During Global Entrepreneurship Summit 2017.Entrepreneurship Cell, IIT Kharagpur, is the largest entrepreneurship promoting student body in India and one of the largest in the world.Its aim is to foster the spirit of entrepreneurship among people and to educate,support and incubate people ready to start their own venture. It invites various eminent entrepreneurs to deliver lectures to educate students about the joys and hardships of entrepreneurship. Guest Lectures, Workshops, Case Study, Workshops, Knowledge Camps, Patent Workshops are conducted throughout the year to involve students in activities that are essential to an entrepreneur. E-Cell also actively incubates startup ideas by linking the right investors with the right entrepreneurs.",
+            "duration": "Dec 2017 Mar 2018 4 months",
+            "start_date": "Dec 2017",
+            "end_date": "Mar 2018",
+            "duration_short": "4 months",
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shruti Jain",
+            "about": "Planning Analyst to Global Projects President, ExxonMobil",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Amrita Suharsini",
+            "about": "Assistant Manager at Hindustan Zinc",
+            "location": "Bhubaneswar"
+        },
+        {
+            "profile_link": "",
+            "name": "Kamal N.",
+            "about": null,
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Prity kumari",
+            "about": "Data Analyst at Sunstone Eduversity",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sikha Kaushik",
+            "about": "Sr. Data Scientist - Technical Specialist at Bahwan Cybertek",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Satyam Agrawalla",
+            "about": "METALLURGIST",
+            "location": "Angul"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishal Chauhan",
+            "about": "Data Engineer at Koantek | 5x Databricks Certified | Big Data | Spark | Databricks",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "priya kataria",
+            "about": "Data Scientist @ Tata Play Ltd | Msc in Statistics",
+            "location": "Punjab, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Mandal",
+            "about": "Member of Technical Staff II @Adobe | Maths and Computing '21, IIT Kharagpur",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankita Sareen",
+            "about": "Graduate Developer @ Barclays |Amazon ML Summer School'22| Organizer @HackNITR| ElE @ NITR'23 | Crework",
+            "location": "Odisha, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Neelay Choudhury",
+            "about": "AI & DS Enthusiast",
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "SONALI KUMARI",
+            "about": "Girlscript scholar||Machine learning enthusiast || CPP|| JAVA",
+            "location": "Bhagalpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishan Jain",
+            "about": "Ex- ADC @SAP || Former Research Intern @BITS, Pilani || JIIT CSE'21 || ML and Blockchain enthusiast",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishita Singh",
+            "about": "Application Development Analyst at Accenture",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Verma",
+            "about": "QR at JPM",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Pallavee Vyas",
+            "about": "Control Tower at Swiggy || Ex-Cuemath || XLRI - BM || SRM",
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreyash Shirbhate",
+            "about": "Senior Executive - Data Scientist at Tata AIA",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshuman Ranjan",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Kajal Shah",
+            "about": "Senior Analytics Consultant at Wells Fargo",
+            "location": "North Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Arnab Kumar Patra",
+            "about": "Fincrime Analyst at Revolut",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "9.07/10",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 3681.0,
+    "connections": 500.0,
+    "current_company_company_id": "jpmorganchase",
+    "current_company_name": "JPMorgan Chase & Co.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "anushkashukla",
+    "activity": [
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "[Career Update 🚀] Exactly one month ago, I made the leap and left my role at MSD to embark on an exciting new journey. The past month has been a…",
+            "img": "",
+            "id": "7247643379369467904"
+        },
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "Seven months and 107 bookings later, we've realized our primary audience is not what we assumed it to be. Maybe it's non-genZ folks with a genZ vibe.…",
+            "img": "",
+            "id": "107"
+        },
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "After spending two incredible years at Glean Bangalore, I am now starting my next chapter with Glean in Palo Alto. It's been amazing to witness the…",
+            "img": "",
+            "id": "7210334648508301313"
+        },
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "Hello LinkedIn community, I am thrilled to share that I have joined the Indian Institute of Management Ahmedabad for their prestigious two-year PGP…",
+            "img": "",
+            "id": "7209004484352503810"
+        },
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "Hi Linkedin family! Major career update: I’ve joined Indian Institute of Management Ahmedabad (IIM Ahmedabad) for their flagship PGP programme…",
+            "img": "",
+            "id": "7208846314535555074"
+        },
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "For 225 years, we’ve proudly led with courage and heart, driven by our purpose to do the right thing for our clients, customers, employees, and…",
+            "img": "",
+            "id": "225"
+        },
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "🌟 Lessons Learned During My Job Search Journey 🌟 Hello Everyone As I navigate through a job switch, I’ve gathered some valuable insights that I’d…",
+            "img": "",
+            "id": "7200340317542178816"
+        },
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "Excited and nervous for presenting in Tech-Talk Medline India. Looking forward to this event!! 🎉😊",
+            "img": "",
+            "id": "7186292740257681408"
+        },
+        {
+            "interaction": "Liked by Anushka Shukla",
+            "link": "",
+            "title": "Absolutely delighted to announce that our team, 'In it to win it,' not only emerged victorious but also secured a podium position among 65 teams at…",
+            "img": "",
+            "id": "7182615507500437504"
+        }
+    ],
+    "linkedin_num_id": 635442328.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

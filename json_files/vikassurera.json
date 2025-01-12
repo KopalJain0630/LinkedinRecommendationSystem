@@ -1,0 +1,390 @@
+{
+    "id": "vikassurera",
+    "name": "Vikas Surera",
+    "city": "Kharagpur, West Bengal, India",
+    "country_code": "IN",
+    "position": "Software Engineer | IIT KGP'23 | Athlete",
+    "posts": [
+        {
+            "title": "9 Books To Read If You Are Not A Reader",
+            "img": "",
+            "link": "",
+            "created_at": "2020-05-20T00:00:00.000Z",
+            "interaction": null,
+            "id": "surera"
+        }
+    ],
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Verisian",
+        "company_id": "verisian",
+        "title": "Software Engineer | IIT KGP'23 | Athlete"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "description_html": null,
+            "duration": "May 2024 - Present 8 months",
+            "start_date": "May 2024",
+            "end_date": "Present",
+            "duration_short": "8 months",
+            "company": "Verisian",
+            "company_id": "verisian",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Fullstack Developer",
+            "location": "United States",
+            "description": "Product Planning, understanding customers, Fullstack development (MERN), App Development (React Native)",
+            "description_html": "Product Planning, understanding customers, Fullstack development (MERN), App Development (React Native) <!---->",
+            "duration": "Apr 2021 May 2024 3 years 2 months",
+            "start_date": "Apr 2021",
+            "end_date": "May 2024",
+            "duration_short": "3 years 2 months",
+            "company": "OneTap",
+            "company_id": "one-tap-check-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder",
+            "description": "BloggerBoy is a blogging site that publishes informatics blogs on Tech, Education, and Self Improvement.",
+            "description_html": "BloggerBoy is a blogging site that publishes informatics blogs on Tech, Education, and Self Improvement. <!---->",
+            "duration": "Apr 2017 May 2023 6 years 2 months",
+            "start_date": "Apr 2017",
+            "end_date": "May 2023",
+            "duration_short": "6 years 2 months",
+            "company": "BloggerBoy",
+            "company_id": "bloggerboy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Fullstack Developer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Feb 2022 Jul 2022 6 months",
+            "start_date": "Feb 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "6 months",
+            "company": "bitpack.me",
+            "company_id": "meroku",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "National Students' Space Challenge",
+            "description_html": null,
+            "duration": "2 years 9 months",
+            "positions": [
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Jul 2021 - Apr 2022 10 months",
+                    "duration": "Jul 2021 Apr 2022 10 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "10 months",
+                    "title": "Design & Web Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Aug 2020 - Jul 2021 1 year",
+                    "description": "• Responsible for management of the spAts and NSSC website (design, development and maintenance)• Successfully designed and developed a quiz platform for Space Quiz event with participants over 350+• Designed and developed NSSC 20, a space themed, user-friendly website",
+                    "duration": "Aug 2020 Jul 2021 1 year",
+                    "start_date": "Aug 2020",
+                    "end_date": "Jul 2021",
+                    "duration_short": "1 year",
+                    "title": "Subhead",
+                    "description_html": "• Responsible for management of the spAts and NSSC website (design, development and maintenance)<br>• Successfully designed and developed a quiz platform for Space Quiz event with participants over 350+<br>• Designed and developed NSSC 20, a space themed, user-friendly website <!---->"
+                },
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Aug 2019 - Aug 2020 1 year 1 month",
+                    "duration": "Aug 2019 Aug 2020 1 year 1 month",
+                    "start_date": "Aug 2019",
+                    "end_date": "Aug 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Junior Coordinator",
+                    "description_html": null
+                }
+            ],
+            "company": "National Students' Space Challenge",
+            "company_id": "nssc-iitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Frontend React Developer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Aug 2021 Sep 2021 2 months",
+            "start_date": "Aug 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "2 months",
+            "company": "Asset Acquire.",
+            "company_id": "asset-acquire",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Developer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Assurance Tech",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Flutter App Developer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Dec 2020 Jun 2021 7 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "7 months",
+            "company": "Vishist Business Solution Pvt Ltd",
+            "company_id": "vishist-business-solution-pvt",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shivam Kumar",
+            "about": "Full Stack Software Engineer • ReactJS, NextJS, Golang, Postgres",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Premkumar Ramakrishnan",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "JUNAID KHATEEB",
+            "about": "Corporate trainer, Founder at Khateeb Study Abroad, junkminds.com , Klobe-York , The Bonding BOulevard (TBB) & Khateeb group of Classes",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Yaspal Singh",
+            "about": "Software Engineer at PERSISTENT SYSTEMS",
+            "location": "Kosli"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Nigam",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Riti Agarwal",
+            "about": "CS @ Caltech | SWE Intern @ Juniper Networks",
+            "location": "Fremont, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh Soni",
+            "about": null,
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sunil Kumar",
+            "about": "Founder at Edukit",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanvi Shah",
+            "about": "CSR| Education",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Santosh Barnwal",
+            "about": "A researcher cum entrepreneur.",
+            "location": "Prayagraj"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Behera",
+            "about": "Industrial Engineering Student at IIT Kharagpur ||Data Analysis, Machine Learning",
+            "location": "West Godavari"
+        },
+        {
+            "profile_link": "",
+            "name": "Khyati Thapliyal",
+            "about": "NYU'26 | Product Engineer @ PublishPub | Biomedical Engineer, Computational Biologist | Founder @ Happy Kids",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Chiraag Garg",
+            "about": "Software Engineer-1 @HashedIn by Deloitte | Backend & Data Engineer | Gen AI | Certified GCP Associate | Lifelong Learner",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Davneet Singh",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Murshid K N",
+            "about": "Product Management | Product Development | Pre Final Year at IIT KGP",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Satyam Rajput",
+            "about": null,
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakhar Parashar",
+            "about": "Founder & CEO at Margdarshan || Data Analyst at Adani Airports|| PGDM- Big Data Analytics || Goa Institute of Management",
+            "location": "Madhya Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhijeet Nikam",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Prem Kumar",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: Athletics, Space Technology Students' Society",
+            "description_html": "Activities and Societies: Athletics, Space Technology Students' Society",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Structure and Algorithm\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Financial Management\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1381.0,
+    "connections": 500.0,
+    "current_company_company_id": "verisian",
+    "current_company_name": "Verisian",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kharagpur",
+    "linkedin_id": "vikassurera",
+    "activity": [
+        {
+            "interaction": "Liked by Vikas Surera",
+            "link": "",
+            "title": "Exciting Career Update (1) 🌟 I’m thrilled to share a major milestone in my academic journey! This year marked the completion of my master’s thesis…",
+            "img": "",
+            "id": "7275128040697802752"
+        },
+        {
+            "interaction": "Liked by Vikas Surera",
+            "link": "",
+            "title": "Note to self: please return calls .. lol #SwiggyIPO",
+            "img": "",
+            "id": "7262680429726511104"
+        },
+        {
+            "interaction": "Shared by Vikas Surera",
+            "link": "",
+            "title": "Broken Promises and Poor Support: Croma's After-Sales I wanted to share an incredibly frustrating experience with Croma and their customer support…",
+            "img": "",
+            "id": "7260265475043942401"
+        },
+        {
+            "interaction": "Liked by Vikas Surera",
+            "link": "",
+            "title": "Whenever someone says, \"You're lucky\", just show them your IPO allotment history 🥲. #IPO #Humor #Luck #Funny #FAANG #Waree #StockMarket #Market",
+            "img": "",
+            "id": "7256881185933438977"
+        }
+    ],
+    "linkedin_num_id": 633407741.0,
+    "honors_and_awards": [
+        {
+            "title": "National Cyber Olympiad (NCO) 2019",
+            "publication": "SOF(Science Olympiad Foundation)",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "International Rank: 112 Zonal Rank:15 in (Gujarat, Daman and Diu, Dadra Nagar Haveli Zone)"
+        },
+        {
+            "title": "NSTSE 2019",
+            "publication": "Unified Council India",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": "Secured rank 79 of the top 100 National Achievers of class 12-PCM in NSTSE-2019"
+        },
+        {
+            "title": "Regional Mathematics Olympiad (RMO)",
+            "publication": "Mathematics Teachers' Association (MTA)",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": "Cleared the PRMO Round(Pre-Regional Mathematics Olympiad) Qualified for RMO (Regional Mathematics Olympiad)."
+        },
+        {
+            "title": "Best Performance in XI Science",
+            "publication": "Kendriya Vidyalaya No 1 Sector 30 Gandhinagar Gujarat",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "Secured 1st Rank in academic performance in XI Science"
+        },
+        {
+            "title": "Athletics Regional Sports Meet",
+            "publication": "Kendriya Vidyalaya Sangathan (KVS)",
+            "date": "2016-09-01T00:00:00.000Z",
+            "description": "Secured 3rd position in Long Jump Athletics Regional Sports Meet (Gujarat Region)"
+        },
+        {
+            "title": "National Cyber Olympiad (NCO) 2016",
+            "publication": "Science Olympiad Foundation (SOF)",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": "International rank: 102 Zonal rank: 7 in (West Bengal)"
+        },
+        {
+            "title": "Football Regional Sports Meet",
+            "publication": "Kendriya Vidyalaya Sangathan (KVS)",
+            "date": "2013-10-01T00:00:00.000Z",
+            "description": "Secured 2nd position in Football Tournament at KVS Sports Regional Meet(2013) held at Nasirabad Rajasthan. Declared as one of the best 6 players of the tournament."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,308 @@
+{
+    "id": "amardeepk906",
+    "name": "Amardeep Kumar",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "John Deere | Data Scientist | IIT Kharagpur | Super30",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "John Deere",
+        "company_id": "john-deere",
+        "title": "John Deere | Data Scientist | IIT Kharagpur | Super30"
+    },
+    "experience": [
+        {
+            "title": "Data Analyst II - Analytics Development Program (ADP)",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Nov 2023 - Present 1 year 2 months",
+            "start_date": "Nov 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 2 months",
+            "company": "John Deere",
+            "company_id": "john-deere",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Pune, Maharashtra, India",
+            "description": "- Applied BERT, RoBERTa, GPT based training and translated natural language text to SQL query- Solved deduplication problem over millions of record using RecordLinkage approach- Worked on Attribution model with rule based approach, Markov chain and neural network architecture.- Successfully deployed ML model and created several API using Flaskapp and docker service",
+            "description_html": "- Applied BERT, RoBERTa, GPT based training and translated natural language text to SQL query- Solved deduplication problem over millions of record using RecordLinkage approach- Worked on Attribution model with rule based approach, Markov chain and neural network architecture.- Successfully deployed ML model and created several API using Flaskapp and docker service <!---->",
+            "duration": "Jun 2021 Nov 2023 2 years 6 months",
+            "start_date": "Jun 2021",
+            "end_date": "Nov 2023",
+            "duration_short": "2 years 6 months",
+            "company": "Express Analytics",
+            "company_id": "express-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Built a Custom trained NER Model to correctly identify the key entities like Name, property address, in the land records for the Karnataka state- Scraped the Data from the PDS portal, annotated the data to optimize the performance of the NER Model, used this data as input to the NER Model - Worked on image processing, extracted text data from images using OCR, OpenCV and analyzed using NLP - Worked on document classification to classify different type of document such as PAN, Aadhar Card",
+            "description_html": "- Built a Custom trained NER Model to correctly identify the key entities like Name, property address, in the land records for the Karnataka state- Scraped the Data from the PDS portal, annotated the data to optimize the performance of the NER Model, used this data as input to the NER Model - Worked on image processing, extracted text data from images using OCR, OpenCV and analyzed using NLP - Worked on document classification to classify different type of document such as PAN, Aadhar Card",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Landryt",
+            "company_id": "landryt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst Intern",
+            "location": "Gurgaon, India",
+            "description": "- Automation of the whole Marketing costing report of Fabhotels in python, earlier it is done manually.- Web Scraping of five different booking source of FabHotels using Selenium in Python language.- Preprocess raw data from various sources into a structured format and updating the same in the database.- Also, implemented a live update system on a PostgreSQL Server to report daily changes in the data using a python backend.",
+            "description_html": "- Automation of the whole Marketing costing report of Fabhotels in python, earlier it is done manually.- Web Scraping of five different booking source of FabHotels using Selenium in Python language.- Preprocess raw data from various sources into a structured format and updating the same in the database.- Also, implemented a live update system on a PostgreSQL Server to report daily changes in the data using a python backend. <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "FabHotels",
+            "company_id": "fabhotels-com",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sammed Bhandari",
+            "about": "Software Engineer at LinkedIn | Ex-Amazon | Ex-Honeywell | IIT Bombay",
+            "location": "Bengaluru South"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravish Ranjan",
+            "about": "Specialist - Data Sciences @ LTIMindtree | Ex-Mobilewalla | Ex-Quantiphi | IIT Kharagpur",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Zenith Bhatt",
+            "about": "Supply Chain @ J&J MedTech | MS IE Student at Northeastern University",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Swati Singh",
+            "about": "Analytics @ Dominos'| Google Analytics, Looker, Statistical Analysis | IIT Roorkee",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Paras Goyal",
+            "about": "Data Scientist @Mahindra Group | Ex- Android Developer @Mahindra Electric | M.Sc. in Data Science from Liverpool John Moores University",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Gutta Sairam",
+            "about": "Product at Apollo 24|7",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Kanak Kumar Jain",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Malini Jayaraman",
+            "about": null,
+            "location": "Amsterdam Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Hermish Gandhi",
+            "about": null,
+            "location": "San Jose, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhananjay Sharma",
+            "about": "Data Science Manager at UnitedHealth Group",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohamed Jassim",
+            "about": "Mechanical Engineer at Al Rawdah | Emirates National Food Company",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilesh Jayswal",
+            "about": "Data Scientist Insights at Booking.com",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Garg",
+            "about": "Circle Officer, Bihar Government | i3 Consulting Private Ltd. | IIT Kanpur",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Kumar",
+            "about": "IISc Bangalore || Ex-Boeing, Halliburton",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Jatav",
+            "about": "Senior Business Analyst",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshu Vashisht",
+            "about": null,
+            "location": "Greater Delhi Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Srilakshmi Sai Phanidhara Boina",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Subhransu Satpathy",
+            "about": "Senior Principal - Advanced Analytics and Data Science || Intl. FIDE Rated Chess Player",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Patil",
+            "about": "Research Assistant Manager | RAAPID",
+            "location": "Kharagpur I"
+        },
+        {
+            "profile_link": "",
+            "name": "Vidyadhar Patil",
+            "about": "Product Manager",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated B.Tech & M.Tech (Dual Degree)",
+            "field": "Industrial Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SUPER30 BY ANAND KUMAR",
+            "degree": "JEE Mains + JEE Advance",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SATYAM INTERNATIONAL, GAURICHAK, BIHAR",
+            "degree": "Class XII",
+            "field": "Physics, Chemistry, Science",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "B.D PUBLIC SCHOOL",
+            "degree": "Class X",
+            "field": "Central Board Of Secondary Education",
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2023Credential ID LKWNN4U8HK6RSee credential",
+            "subtitle": "Coursera",
+            "title": "Apache Spark (TM) SQL for Data Analysts"
+        },
+        {
+            "meta": "Issued Dec 2023Credential ID 6VQMKJVWZ6YVSee credential",
+            "subtitle": "Coursera",
+            "title": "Data Analysis Using Pyspark"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID ANMQVWYUHUQKSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Credential ID 3219ABDC3985See credential",
+            "subtitle": "HackerRank",
+            "title": "C++ (Basic) Certificate"
+        },
+        {
+            "meta": "Credential ID 70D92FAF4312See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL (Basic) Certificate"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 3607.0,
+    "connections": 500.0,
+    "current_company_company_id": "john-deere",
+    "current_company_name": "John Deere",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "B.Tech Project | Development of IOT Based Smart Personal Protective Equipment (Safety Jacket)",
+            "start_date": "Jul 2019",
+            "end_date": "Present",
+            "description": "\u00e2\u20ac\u00a2 Made a prototype of IoT(Internet Of Things) based Smart Safety Jacket for the safety of Industrial workers.\u00e2\u20ac\u00a2 Embedded following Sensors/Module: \u00e2\u20ac\u00a2GPS module: To know the exact location of workers. \u00e2\u20ac\u00a2MQ9 Gas sensor: For the detection of harmful gases like CO, CH4. \u00e2\u20ac\u00a2DHT22: For measurement of body temperature as well as Surrounding temperature. \u00e2\u20ac\u00a2Pulse sensor: To measure the Pulse Rate in BPM to know the fatigue level. \u00e2\u20ac\u00a2Arduino UNO and NodeMCU(ESP8266).\u00e2\u20ac\u00a2 Set the proper threshold value for each parameter. Thus Alarm will buzz whenever this threshold value will cross. Thus accidents can be stopped beforehand.\u00e2\u20ac\u00a2 Written the code in Arduino IDE."
+        },
+        {
+            "title": "Classification on Audiology Dataset",
+            "start_date": "Jul 2019",
+            "end_date": "Dec 2019",
+            "description": "\u00e2\u20ac\u00a2 Built decision tree classifier model based on the C4.5 algorithm.\u00e2\u20ac\u00a2 Reported performance measure in terms of Confusion Matrix, Predictive Accuracy, F-1 score.\u00e2\u20ac\u00a2 Used K-Fold Cross Validation with a different value of K.\u00e2\u20ac\u00a2 Obtained ROC Curve with the different values of K."
+        },
+        {
+            "title": "Demand Forecasting of Tea Price",
+            "start_date": "Aug 2018",
+            "end_date": "Oct 2018",
+            "description": "\u00e2\u20ac\u00a2Time Series data collected of tea price.\u00e2\u20ac\u00a2Data Cleaned and Manipulated in python to extract only for 2013 to the 2016 year.\u00e2\u20ac\u00a2Forecasting is done for the next 6 months using ARIMA Model."
+        },
+        {
+            "title": "Simulation and analysis of RRI(Route Relay Interlocking) system",
+            "start_date": "Jan 2018",
+            "end_date": "Apr 2018",
+            "description": "\u00e2\u20ac\u00a2Simulation and analysis of the RRI system of Kharagpur Junction aimed at the reduction of total wait time of trains."
+        }
+    ],
+    "organizations": null,
+    "location": "Pune",
+    "linkedin_id": "amardeepk906",
+    "activity": null,
+    "linkedin_num_id": 530308237.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

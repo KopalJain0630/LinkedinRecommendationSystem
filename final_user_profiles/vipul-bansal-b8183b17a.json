@@ -1,0 +1,127 @@
+{
+    "city": "Madison, Wisconsin, United States",
+    "position": null,
+    "experience": [
+        {
+            "title": "Research Assistant",
+            "description_html": null,
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "University of Wisconsin-Madison",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "IIT Roorkee",
+            "description_html": null,
+            "duration": "Feb 2019 May 2022 3 years 4 months",
+            "start_date": "Feb 2019",
+            "end_date": "May 2022",
+            "duration_short": "3 years 4 months",
+            "company": "Data Science Group, IIT Roorkee",
+            "company_id": "dsg-iitr",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern remote",
+            "description_html": null,
+            "duration": "Aug 2021 Mar 2022 8 months",
+            "start_date": "Aug 2021",
+            "end_date": "Mar 2022",
+            "duration_short": "8 months",
+            "company": "Purdue University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst Intern",
+            "description_html": null,
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Roorkee",
+            "description_html": null,
+            "duration": "1 year 9 months",
+            "positions": [
+                {
+                    "subtitle": "Indian Institute of Technology, Roorkee",
+                    "meta": "Apr 2020 - Mar 2021 1 year",
+                    "description": "Working under Dr. Balasubramanian, IIT Roorkee",
+                    "duration": "Apr 2020 Mar 2021 1 year",
+                    "start_date": "Apr 2020",
+                    "end_date": "Mar 2021",
+                    "duration_short": "1 year",
+                    "title": "Undergraduate Research Assistant",
+                    "description_html": "Working under Dr. Balasubramanian, IIT Roorkee <!---->"
+                },
+                {
+                    "subtitle": "Indian Institute of Technology, Roorkee",
+                    "meta": "Jul 2019 - Jul 2020 1 year 1 month",
+                    "description": "MIED, IIT Roorkee",
+                    "duration": "Jul 2019 Jul 2020 1 year 1 month",
+                    "start_date": "Jul 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Undergraduate Research Assistant",
+                    "description_html": "MIED, IIT Roorkee <!---->"
+                }
+            ],
+            "company": "Indian Institute of Technology, Roorkee",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Teaching Assistant under ARP",
+            "description_html": null,
+            "duration": "Jul 2019 Nov 2019 5 months",
+            "start_date": "Jul 2019",
+            "end_date": "Nov 2019",
+            "duration_short": "5 months",
+            "company": "Academic Reinforcement Program - IIT Roorkee",
+            "company_id": "aacademic-reinforcement-programme",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "University of Wisconsin-Madison",
+            "degree": "Doctor of Philosophy - PhD",
+            "field": "Industrial Engineering",
+            "url": "",
+            "start_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Roorkee",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Industrial and production engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "University of Wisconsin-Madison",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

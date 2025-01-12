@@ -1,0 +1,443 @@
+{
+    "id": "ojaswa-garg",
+    "name": "Ojaswa Garg",
+    "city": "Chicago, Illinois, United States",
+    "country_code": "US",
+    "position": "SWE @Google | Former SWE Intern @Google | Masters in Analytics at The University of Chicago | Bank of America | Citibank | CFA L3 Candidate | AWS Certified Solutions Architect \u00e2\u20ac\u201c Associate",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Google",
+        "company_id": "google",
+        "title": "SWE @Google | Former SWE Intern @Google | Masters in Analytics at The University of Chicago | Bank of America | Citibank | CFA L3 Candidate | AWS Certified Solutions Architect \u00e2\u20ac\u201c Associate"
+    },
+    "experience": [
+        {
+            "title": "SWE III",
+            "location": "Greater Seattle Area",
+            "description": "Enhanced Google's Converter API, increasing processing speed by 90% and integrating Differential Privacy AI to securely manage over one billion daily reports. Developed an innovative OLAP system with integrated Large Language Model, enhancing data querying efficiency and enabling complex analyses across multiple databases using simple language. Pioneered the development of advanced in-browser AI models to address privacy challenges posed by third-party cookie deprecation, utilizing JavaScript, C++, and distributed computing for enhanced, privacy-compliant digital experiences.",
+            "description_html": "Enhanced Google's Converter API, increasing processing speed by 90% and integrating Differential Privacy AI to securely manage over one billion daily reports. Developed an innovative OLAP system with integrated Large Language Model, enhancing data querying efficiency and enabling complex analyses across multiple databases using simple language. Pioneered the development of advanced in-browser AI models to address privacy challenges posed by third-party cookie deprecation, utilizing JavaScript, C++, and distributed computing for enhanced, privacy-compliant digital experiences.",
+            "duration": "Feb 2023 - Present 1 year 11 months",
+            "start_date": "Feb 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 11 months",
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Capstone Project",
+            "location": "United States",
+            "description": "Creating a record Linkage model for data encrypted by boom filters using Deterministic and Probabilistic linkage methodsCreated a streamlit application- ",
+            "description_html": "Creating a record Linkage model for data encrypted by boom filters using Deterministic and Probabilistic linkage methodsCreated a streamlit application-  <!---->",
+            "duration": "Apr 2022 Dec 2022 9 months",
+            "start_date": "Apr 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "9 months",
+            "company": "UST",
+            "company_id": "ustglobal",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Computing Intern",
+            "location": "Chicago, Illinois, United States",
+            "description_html": null,
+            "duration": "Oct 2021 Dec 2022 1 year 3 months",
+            "start_date": "Oct 2021",
+            "end_date": "Dec 2022",
+            "duration_short": "1 year 3 months",
+            "company": "University of Chicago, Research Computing Center",
+            "company_id": "the-university-of-chicago-research-computing-center",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Research Assistant",
+            "location": "Chicago, Illinois, United States",
+            "description": "Weak supervision to build large amounts of training data using snorkel.",
+            "description_html": "Weak supervision to build large amounts of training data using snorkel. <!---->",
+            "duration": "Sep 2021 Dec 2022 1 year 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Dec 2022",
+            "duration_short": "1 year 4 months",
+            "company": "TMW Center for Early Learning + Public Health",
+            "company_id": "thirty-million-words-center",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Masters Student",
+            "location": "Chicago, Illinois, United States",
+            "description_html": null,
+            "duration": "Aug 2021 Dec 2022 1 year 5 months",
+            "start_date": "Aug 2021",
+            "end_date": "Dec 2022",
+            "duration_short": "1 year 5 months",
+            "company": "University of Chicago",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Greater Seattle Area",
+            "description": "\u00e2\u20ac\u00a2 Demonstrated Unique Reach for advertisements across 10+ demographic buckets using labelling models\u00e2\u20ac\u00a2 Deployed automated pipeline which takes demographic metrics as inputs and updates dashboard with new panels information",
+            "description_html": "\u00e2\u20ac\u00a2 Demonstrated Unique Reach for advertisements across 10+ demographic buckets using labelling models\u00e2\u20ac\u00a2 Deployed automated pipeline which takes demographic metrics as inputs and updates dashboard with new panels information <!---->",
+            "duration": "Jun 2022 Sep 2022 4 months",
+            "start_date": "Jun 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "4 months",
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Fraud Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "(US MARKETS FRAUD TEAM)Received constant recognition from co-workers for providing strong support and guidance in formulating strategies\u00e2\u20ac\u00a2 Implemented new strategies to identify fraudulent activities related to non-monetary transactions of US customers\u00e2\u20ac\u00a2 Designed an automated diagnostic dashboard for account take over portfolio considering 50+parameters, using Excel VBA\u00e2\u20ac\u00a2 Developed control charts for various products and provided insights based on constant tracking of multiple parameters",
+            "description_html": "(US MARKETS FRAUD TEAM)Received constant recognition from co-workers for providing strong support and guidance in formulating strategies\u00e2\u20ac\u00a2 Implemented new strategies to identify fraudulent activities related to non-monetary transactions of US customers\u00e2\u20ac\u00a2 Designed an automated diagnostic dashboard for account take over portfolio considering 50+parameters, using Excel VBA\u00e2\u20ac\u00a2 Developed control charts for various products and provided insights based on constant tracking of multiple parameters",
+            "duration": "Jul 2020 Aug 2021 1 year 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2021",
+            "duration_short": "1 year 2 months",
+            "company": "Bank of America",
+            "company_id": "bank-of-america",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Risk Analyst",
+            "location": "Gurgaon, Haryana, India",
+            "description": "(INDIAN MARKETS RISK TEAM)Received a Silver Award from CITI India Unsecured Risk Head and an award from CITI Risk Head for exemplary performance in formulating Cards Acquisition Policies within one year of joining\u00e2\u20ac\u00a2\tImplemented policies leading to 10% increase in credit cards booked based on performance analysis using SAS EMiner \u00e2\u20ac\u00a2\tFormulated and proposed ideas to distinguish among customers based upon their bureau tradelines, enquires, etc \u00e2\u20ac\u201c so as to prevent fraud related cases and better performance of cards portfolio\u00e2\u20ac\u00a2\tDesigned an automated dashboard for the entire card portfolio considering 50+ parameters, received training in Excel and SAS\u00e2\u20ac\u00a2\tComposed a benchmarking deck setting up guidelines for cards acquisition 2020 based upon proformas of various segments\u00e2\u20ac\u00a2\tContributed and implemented the income estimation model for the non-validated income segments for cards acquisition",
+            "description_html": "(INDIAN MARKETS RISK TEAM)Received a Silver Award from CITI India Unsecured Risk Head and an award from CITI Risk Head for exemplary performance in formulating Cards Acquisition Policies within one year of joining\u00e2\u20ac\u00a2 Implemented policies leading to 10% increase in credit cards booked based on performance analysis using SAS EMiner \u00e2\u20ac\u00a2 Formulated and proposed ideas to distinguish among customers based upon their bureau tradelines, enquires, etc \u00e2\u20ac\u201c so as to prevent fraud related cases and better performance of cards portfolio\u00e2\u20ac\u00a2 Designed an automated dashboard for the entire card portfolio considering 50+ parameters, received training in Excel and SAS\u00e2\u20ac\u00a2 Composed a benchmarking deck setting up guidelines for cards acquisition 2020 based upon proformas of various segments\u00e2\u20ac\u00a2 Contributed and implemented the income estimation model for the non-validated income segments for cards acquisition",
+            "duration": "Jun 2018 Jul 2020 2 years 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2020",
+            "duration_short": "2 years 2 months",
+            "company": "Citi",
+            "company_id": "citi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst",
+            "location": "Bangalore",
+            "description": "Received Letter of Recommendation from CEO and awarded best intern for exemplary performance on two live projects\u00ef\u201a\u00b7 Implemented a new product, Private Equity, for oil and gas firms in US; backed by eminent sponsors like Encap, Kayne and NGP\u00ef\u20ac\u00ad Proposed schemes to track deals, strategies and operations of 25+ companies having average funding of USD 350+ million\u00ef\u20ac\u00ad Articulated portfolio and modelled operated and non-operated acreage map using QGIS software for each company\u00ef\u201a\u00b7 Performed valuation and sensitivity analysis of offshore & onshore oil & gas assets, proposed break even PO Share% and IRR\u00ef\u20ac\u00ad Designed an automated dashboard valid for 3 tax models, considering 10+ parameters; received training in oil and gas finance",
+            "description_html": "Received Letter of Recommendation from CEO and awarded best intern for exemplary performance on two live projects\u00ef\u201a\u00b7 Implemented a new product, Private Equity, for oil and gas firms in US; backed by eminent sponsors like Encap, Kayne and NGP\u00ef\u20ac\u00ad Proposed schemes to track deals, strategies and operations of 25+ companies having average funding of USD 350+ million\u00ef\u20ac\u00ad Articulated portfolio and modelled operated and non-operated acreage map using QGIS software for each company\u00ef\u201a\u00b7 Performed valuation and sensitivity analysis of offshore &amp; onshore oil &amp; gas assets, proposed break even PO Share% and IRR\u00ef\u20ac\u00ad Designed an automated dashboard valid for 3 tax models, considering 10+ parameters; received training in oil and gas finance",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "Derrick Petroleum Services",
+            "company_id": "derrick-petroleum-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Public Relations Head",
+            "location": "Mumbai Area, India",
+            "description": "The Entrepreneurship Cell is a non-profit organization run by the students of IIT Bombay that aims at manifesting the latent entrepreneurial spirit of the young students. We at E-Cell host various workshops, speaker sessions, innovative games, competitions for aspiring entrepreneurs and support them by providing necessary resources such as seed funding, mentoring, consultancy and networking.Initiatives\u00e2\u20ac\u00a2E-Summit: The annual flagship event, a networking hub for corporates, professionals and budding entrepreneurs from all across the nation.\u00e2\u20ac\u00a2Eureka!: Asia's largest B-Plan Competition as recognized by Thomson Reuters.\u00e2\u20ac\u00a2National Entrepreneurship Challenge(NEC) - Created with the vision to promote entrepreneurship amidst all the campuses in India, National Entrepreneurship Challenge is the first of its kind pan-India competition undertaken by The Entrepreneurship Cell , IIT Bombay.\u00e2\u20ac\u00a2EnB-Club: This new initiative aims to create an ecosystem for the budding entrepreneurs in the institute.\u00e2\u20ac\u00a2 Being the Public Relations Head,leading a 2-tier team consisting of 160 volunteers to design and execute impeccably, publicity campaigns targeted at varied categories of students across India",
+            "description_html": "The Entrepreneurship Cell is a non-profit organization run by the students of IIT Bombay that aims at manifesting the latent entrepreneurial spirit of the young students. We at E-Cell host various workshops, speaker sessions, innovative games, competitions for aspiring entrepreneurs and support them by providing necessary resources such as seed funding, mentoring, consultancy and networking.Initiatives\u00e2\u20ac\u00a2E-Summit: The annual flagship event, a networking hub for corporates, professionals and budding entrepreneurs from all across the nation.\u00e2\u20ac\u00a2Eureka!: Asia's largest B-Plan Competition as recognized by Thomson Reuters.\u00e2\u20ac\u00a2National Entrepreneurship Challenge(NEC) - Created with the vision to promote entrepreneurship amidst all the campuses in India, National Entrepreneurship Challenge is the first of its kind pan-India competition undertaken by The Entrepreneurship Cell , IIT Bombay.\u00e2\u20ac\u00a2EnB-Club: This new initiative aims to create an ecosystem for the budding entrepreneurs in the institute.\u00e2\u20ac\u00a2 Being the Public Relations Head,leading a 2-tier team consisting of 160 volunteers to design and execute impeccably, publicity campaigns targeted at varied categories of students across India",
+            "duration": "Mar 2016 Mar 2017 1 year 1 month",
+            "start_date": "Mar 2016",
+            "end_date": "Mar 2017",
+            "duration_short": "1 year 1 month",
+            "company": "The Entrepreneurship Cell, IIT Bombay",
+            "company_id": "ecell_iitb",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Hostel Alumni Secretary",
+            "location": "Hostel-3,IIT Bombay",
+            "description": "Part of a three-tier student's council as well as SARC. Main duties include :-1) Connecting to Alumni of IIT Bombay.2) Co-ordinating with the entire council to organize various hostel events.3) Being the center point for bringing funds for the hostel.",
+            "description_html": "Part of a three-tier student's council as well as SARC. Main duties include :-1) Connecting to Alumni of IIT Bombay.2) Co-ordinating with the entire council to organize various hostel events.3) Being the center point for bringing funds for the hostel. <!---->",
+            "duration": "Apr 2015 Mar 2016 1 year",
+            "start_date": "Apr 2015",
+            "end_date": "Mar 2016",
+            "duration_short": "1 year",
+            "company": "Student Alumni Relations Cell",
+            "company_id": "sarc-iitbombay",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sales Manager",
+            "location": "Ahmedabad Area, India",
+            "description": "Extensive interaction ,communication, coordination and promotion with institutions,colleges ,medical associations ,public eatery outlets like Dominos ,KFC and the like.Digital Marketing,Publicity",
+            "description_html": "Extensive interaction ,communication, coordination and promotion with institutions,colleges ,medical associations ,public eatery outlets like Dominos ,KFC and the like.Digital Marketing,Publicity <!---->",
+            "duration": "Dec 2015 Jan 2016 2 months",
+            "start_date": "Dec 2015",
+            "end_date": "Jan 2016",
+            "duration_short": "2 months",
+            "company": "MEDBOX",
+            "company_id": "medbox",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Manager",
+            "description": "\u00ef\u201a\u00b7 Off campus internship programme that involved technical correction and debugging of apps along withthe creation of innovative marketing strategies and publicity\u00c2\u00a0\u00ef\u201a\u00b7 ideas to discover and retain potential customers.\u00ef\u201a\u00b7 Creating brand awareness for EduisFun both online and offline..",
+            "description_html": "\u00ef\u201a\u00b7 Off campus internship programme that involved technical correction and debugging of apps along withthe creation of innovative marketing strategies and publicity&nbsp;\u00ef\u201a\u00b7 ideas to discover and retain potential customers.\u00ef\u201a\u00b7 Creating brand awareness for EduisFun both online and offline.. <!---->",
+            "duration": "May 2015 Jul 2015 3 months",
+            "start_date": "May 2015",
+            "end_date": "Jul 2015",
+            "duration_short": "3 months",
+            "company": "Eduisfun Technologies Pvt Ltd",
+            "company_id": "eduisfun-technologies-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Devraj Singh Chauhan",
+            "about": "Manager at Union Bank of India",
+            "location": "Dehradun"
+        },
+        {
+            "profile_link": "",
+            "name": "Chandrashekhar Mahajan",
+            "about": "Manager@CBoI",
+            "location": "Seoni"
+        },
+        {
+            "profile_link": "",
+            "name": "shoaib khan",
+            "about": "Manager at Kotak Mahindra Bank",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Yograjsinh Z.",
+            "about": "|| Relationship Manager || HDFC BANK LTD || || MBA Finance & HR Dual || BBA || LL.B || Dip.in Mech Engineering ||",
+            "location": "Bhuj"
+        },
+        {
+            "profile_link": "",
+            "name": "Neha Sharma",
+            "about": "Manager @ THE WHITELAND | MBA in Business Analytics",
+            "location": "Shimla"
+        },
+        {
+            "profile_link": "",
+            "name": "Pankaj Sharma",
+            "about": "Deputy Manager at IndusInd Bank",
+            "location": "Mohali district"
+        },
+        {
+            "profile_link": "",
+            "name": "Kundan Kumar",
+            "about": "Currently working with Axis Bank limited as a PBRM in manager grade .",
+            "location": "Patna"
+        },
+        {
+            "profile_link": "",
+            "name": "Gautam Sehgal",
+            "about": "Digital Lending | New Initiatives | Fintech Professional.",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Angad Singh Cheema",
+            "about": "MD at Cheema Hospital & Maternity Home",
+            "location": "Nawanshahr"
+        },
+        {
+            "profile_link": "",
+            "name": "TAIEF AMIN",
+            "about": "Manager at Axis Bank",
+            "location": "Greater Srinagar Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Payal Jaiswal",
+            "about": "Senior Wealth Manager @ Nuvama Wealth",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikita Srivastava",
+            "about": "Consultant at PwC",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Banga",
+            "about": "M&A Strategy, Deloitte Consulting | Ex- Bank of America | IIM Indore | YES Bank Scholar | Voyage Capital",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "jaskaran singh Nagra",
+            "about": "Relationship manager",
+            "location": "Nawanshahr"
+        },
+        {
+            "profile_link": "",
+            "name": "Pawan Kumar",
+            "about": "Assistant Manager (RL) Kotak Mahindra Bank",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Gurpreet Singh",
+            "about": "Assistant Manager at Sundaram Finance Limited(Vehicle Finance /Tractor finance)",
+            "location": "Sangrur"
+        },
+        {
+            "profile_link": "",
+            "name": "ANKIT LALIT",
+            "about": null,
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Unnati Gupta",
+            "about": "PwC AC || Content Writing",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aishwarya surag",
+            "about": null,
+            "location": "Ahmednagar"
+        }
+    ],
+    "educations_details": "University of Chicago",
+    "education": [
+        {
+            "title": "University of Chicago",
+            "degree": "Master of Science - MS",
+            "field": "Analytics (Data Science)",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2022",
+            "description": "Coursework: Data Engineering Platforms for Analytics Data Science for Consulting Data Mining Principles, Statistical Analysis Big Data Platforms Advanced Linear Algebra for ML Linear and Non-linear Models Machine Learning & Predictive Analytics Natural Language Processing and Cognitive Computing",
+            "description_html": "Coursework: Data Engineering Platforms for AnalyticsData Science for ConsultingData Mining Principles, Statistical AnalysisBig Data PlatformsAdvanced Linear Algebra for MLLinear and Non-linear ModelsMachine Learning &amp; Predictive AnalyticsNatural Language Processing and Cognitive Computing <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Stanford University",
+            "degree": "Algorithms Specialization, Algorithms",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2021",
+            "description": "Certificate:  Courses: - Divide and Conquer, Sorting and Searching, Randomized Algorithms - Graph Search, Shortest Paths, Data Structures - Greedy Algorithms, Minimum Spanning Trees, Dynamic Programming - Shortest Paths Revisited, NP-Complete Problems",
+            "description_html": "Certificate:  Divide and Conquer, Sorting and Searching, Randomized Algorithms- Graph Search, Shortest Paths, Data Structures- Greedy Algorithms, Minimum Spanning Trees, Dynamic Programming- Shortest Paths Revisited, NP-Complete Problems <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "City Montessori School,Gomti Nagar,Lucknow",
+            "description": "Activities and Societies: Debate team,Tech team",
+            "description_html": "Activities and Societies: Debate team,Tech team",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "degree": "Bachelor of Technology (BTech)",
+            "url": "",
+            "description": "Activities and Societies: E-Cell, NSO, Sarc,IITB-Debsoc(Debating Society of IIT Bombay)",
+            "description_html": "Activities and Societies: E-Cell, NSO, Sarc,IITB-Debsoc(Debating Society of IIT Bombay)",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jun 2015 - Present \u00c2\u00b7 9 years 7 months",
+            "duration_short": "9 years 7 months",
+            "end_date": "Present",
+            "info": "Taught students how to debate and to communicate their views in an orderly and convincing way.",
+            "start_date": "Jun 2015",
+            "subtitle": "Teach For India",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 14666.0,
+    "connections": 500.0,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Introduction to Marketing",
+            "start_date": "Mar 2016",
+            "description": "Course from Wharton University of Pennsylvania"
+        },
+        {
+            "title": "Chain Reaction Game",
+            "start_date": "Oct 2014",
+            "description": "Created the desktop version of the popular Android game Chain Reaction in C++ and using simplecpp graphics library. We also added AI to play a single player game."
+        },
+        {},
+        {},
+        {},
+        {
+            "title": "Chicago Negative Population Growth - NLP",
+            "start_date": "Apr 2022",
+            "end_date": "May 2022",
+            "description": "Illinois is famous for being one of the very few states in the country with negative population growth. Through the articles in this project, we were able to gather the below mentioned insights-The key reasons for declining population are closely related to the negative sentiment articles which point towards- Law, Police cases, stock market and season.On the positive side Chicago is cherished for its- Food, people, teamwork environment, music, game season and high turnover companies.We observed that there was an evident spike in the average positive sentiment across the articles during the month of March."
+        },
+        {
+            "title": "Yellow New York Taxi Fare Prediction- Big Data",
+            "start_date": "Feb 2022",
+            "end_date": "Mar 2022"
+        },
+        {
+            "title": "Analysis of Covid Cases Across Countries- Machine Learning",
+            "start_date": "Nov 2021",
+            "end_date": "Dec 2021",
+            "description": "Used- Neo4j, OpenRefine, Google Cloud, etc.Our project focuses on leveraging publicly available data sources and build status quoprojections. We will be utilizing various economic and demographic indicators acrosscountries along with their reported COVID-19 statistics."
+        },
+        {
+            "title": "NLP Implementation - Predict Airbnb price",
+            "start_date": "Oct 2020",
+            "end_date": "Oct 2020",
+            "description": "Kaggle notebook"
+        },
+        {
+            "title": "Regression Project - Gender Prediction via student performance in exam",
+            "start_date": "Oct 2020",
+            "end_date": "Oct 2020",
+            "description": "Kaggle Notebook"
+        },
+        {
+            "title": "Biosynth",
+            "start_date": "May 2015",
+            "end_date": "Dec 2015",
+            "description": "\u00ef\u201a\u00b7 Achieved 30% reduction in methanol cost by devising a recovery protocol from process waste\u00ef\u201a\u00b7 Building a Protocol for Biodiesel production from Mess Oil as a cost effective alternative to waste vegetable oil using Taguchi methods"
+        },
+        {
+            "title": "NIIT",
+            "start_date": "May 2015",
+            "end_date": "Jul 2015",
+            "description": "Learnt C++ and Asp.net (Certified by Oracle)"
+        }
+    ],
+    "organizations": null,
+    "location": "Chicago",
+    "linkedin_id": "ojaswa-garg",
+    "activity": null,
+    "linkedin_num_id": 380148247.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

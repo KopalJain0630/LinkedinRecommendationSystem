@@ -1,0 +1,54 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ".   ,",
+            "start_year": "2003",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2024Credential ID afdc0605825537757a8eSee credential",
+            "subtitle": "getAbstract",
+            "title": "Craft Effective AI Prompts"
+        },
+        {
+            "meta": "Issued Dec 2021Credential ID RCXCRR57K86YSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning GraphQL"
+        }
+    ],
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "KVPY scholar",
+            "publication": "Department of Science and Technology, Government of India",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": "All India Rank: 48"
+        }
+    ]
+}

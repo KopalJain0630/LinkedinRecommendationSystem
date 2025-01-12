@@ -1,0 +1,128 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2020Credential ID BYLCKEXKZDZYSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID 2AX53LYFC5NASee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID SSBW8WHVDMHYSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID U4EGFUDYQZ6BSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID GVSYFJWS5R7WSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID BUYDG536D745See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID 8482HVF527NKSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued May 2019Credential ID 7YA35J5GCWK5See credential",
+            "subtitle": "Coursera",
+            "title": "Data Science Methodology"
+        },
+        {
+            "meta": "Issued May 2019Credential ID Z3FXFR79D6RASee credential",
+            "subtitle": "Coursera",
+            "title": "Data Visualization with Python"
+        },
+        {
+            "meta": "Issued May 2019Credential ID UC-RCCRRNPUSee credential",
+            "subtitle": "Udemy for Business",
+            "title": "Machine Learning A-Z"
+        },
+        {
+            "meta": "Issued May 2019Credential ID 7G9HMBLLGZ9ZSee credential",
+            "subtitle": "Coursera",
+            "title": "Open Source tools for Data Science"
+        },
+        {
+            "meta": "Issued May 2019Credential ID DHBXFTXER2VUSee credential",
+            "subtitle": "Coursera",
+            "title": "What is Data Science?"
+        },
+        {
+            "meta": "Issued Dec 2018See credential",
+            "subtitle": "Unicorn India Ventures",
+            "title": "Internship Certificate "
+        },
+        {
+            "meta": "Issued Oct 2017See credential",
+            "subtitle": "Udemy",
+            "title": "Basics Of WordPress"
+        },
+        {
+            "meta": "Issued Jul 2017See credential",
+            "subtitle": "AICTE",
+            "title": "TechTop Innovation Workshop"
+        },
+        {
+            "meta": "Issued May 2017See credential",
+            "subtitle": "Nikon",
+            "title": "Basics Of DSLR"
+        },
+        {
+            "meta": "Issued May 2017Credential ID LRX4D3UEGQTTSee credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Introduction to Search Engine Optimization"
+        },
+        {
+            "meta": "Issued Dec 2018Expires Mar 2020See credential",
+            "subtitle": "Google Analytics Academy",
+            "title": "Google Analytics for Beginners "
+        }
+    ],
+    "current_company_name": "JPMorganChase",
+    "publications": "[{\"title\":\"CAMTA: Causal Attention Model for Multi-touch Attribution\",\"subtitle\":\"20th IEEE International Conference on Data Mining Workshops ICDMW 2020\",\"date\":\"December 15, 2020\",\"description\":\"Advertising channels have evolved from conventional print media, billboards and radio advertising to online digital advertising (ad), where the users are exposed to a sequence of ad campaigns via social networks, display ads, search etc. While advertisers revisit the design of ad campaigns to concurrently serve the requirements emerging out of new ad channels, it is also critical for advertisers to estimate the contribution from touch-points (view, clicks, converts) on different channels, based on the sequence of customer actions. This process of contribution measurement is often referred to as multi-touch attribution (MTA). In this work, we propose CAMTA, a novel deep recurrent neural network architecture which is a causal attribution mechanism for user-personalised MTA in the context of observational data. CAMTA minimizes the selection bias in channel assignment across time-steps and touchpoints. Furthermore, it utilizes the users' pre-conversion actions in a principled way in order to predict per-channel attribution. To quantitatively benchmark the proposed MTA model, we employ the real-world Criteo dataset and demonstrate the superior performance of CAMTA with respect to prediction accuracy as compared to several baselines. In addition, we provide results for budget allocation and user-behaviour modeling on the predicted channel attribution.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

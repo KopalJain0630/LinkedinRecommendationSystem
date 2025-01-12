@@ -1,0 +1,30 @@
+{
+    "city": "Detroit, Michigan, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Cornell University",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2004",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Immersion in Sustainable Global Enterprise @ Samuel Curtis Johnson Graduate School of Management, Cornell University\"}]",
+    "certifications": null,
+    "current_company_name": "Dresma",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

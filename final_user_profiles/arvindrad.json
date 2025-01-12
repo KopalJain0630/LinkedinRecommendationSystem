@@ -1,0 +1,35 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "start_year": "2011",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"BEAM049\",\"title\":\"Behavioural Finance (Merit)\"},{\"subtitle\":\"BEAM035\",\"title\":\"Derivative Pricing (Distinction)\"},{\"subtitle\":\"BEAM036\",\"title\":\"Domestic and International Portfolio management (Distinction)\"},{\"subtitle\":\"BEAM029\",\"title\":\"Financial Economics (Distinction)\"},{\"subtitle\":\"BEAM046\",\"title\":\"Financial Modeling (Distinction)\"},{\"subtitle\":\"BEAM032\",\"title\":\"Investment Analysis 1 (Distinction)\"},{\"subtitle\":\"BEAM038\",\"title\":\"Investment Analysis 2 (Distinction)\"},{\"subtitle\":\"BEAM010\",\"title\":\"Investment Research Methods (Distinction)\"}]",
+    "certifications": null,
+    "current_company_name": "WeWork India",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Domestic and International Portfolio Management\",\"start_date\":\"Jan 2012\",\"end_date\":\"Jun 2012\",\"description\":\"A 7-member group project requiring the formation of an internationally diversified portfolio of equities and fixed income instruments based on a reference investment objective (Global Growth and Income) and in accordance with specific client objectives and constraints relating to return requirements, forecasted annual expenditures, time horizons and strategic asset allocations (Currency movements were also considered). The corpus was a notional $100 million, and the ultimate aim was to execute the entire portfolio management process from the IPS to portfolio construction (using a top-down or bottom-up approach) and stock selection to performance appraisal and re-balancing if necessary so that a cohesive 1500 word investment report could be put together.This was a Masters level module for which a Distinction was obtained.\"},{},{},{},{\"title\":\"Equity Research Project\",\"start_date\":\"Dec 2011\",\"end_date\":\"May 2012\",\"description\":\"In-depth investment analysis of Oil and Gas Sector company \\\"The Royal Dutch Shell PLC\\\" which included a complete Sector Review, an assessment of the main value drivers of the oil and gas industry, the forecasting of these value drivers for Shell, a company strength assessment and financial ratio analysis relative to a constructed peer group, and finally a valuation using the Dividend Discount Model (DDM), the Discounted Cash Flow Model (DCF) and a relative valuation using P/E, P/S, P/CF measures. Reconciliation of Valuation Methodologies was also performed.This was a Masters level mini-dissertation for which a Distinction was obtained.\"},{\"title\":\"Financial Modeling\",\"start_date\":\"Sep 2011\",\"end_date\":\"Jan 2012\",\"description\":\"Application of a range of financial modeling techniques including present and future value, matrix calculations, optimisation, regression analysis, simulation and the event study methodology using Microsoft Excel, with the ultimate aim of producing a cohesive 7500 word report on 6 different optimized portfolios (with and without short selling constraints) so that performance appraisals of the portfolios could be performed to produce a final recommendation.This was a Masters level team project for which a Distinction was obtained.\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Dean's Commendation for Academic Excellence",
+            "publication": "University of Exeter",
+            "date": "2012-07-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "city": "San Francisco, California, United States",
+    "position": "Founder in Stealth | IIT Jammu",
+    "experience": [
+        {
+            "title": "Founder",
+            "location": "San Francisco Bay Area",
+            "description_html": null,
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "Stealth",
+            "company_id": "warmstealth",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tech Lead, AI & Machine Learning",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "At Healthify, I led a team of ML engineers focused on advancing AI-driven solutions. Collaborated closely with OpenAI and Anthropic to develop systems like ‘Snap,’ an AI-powered photo tagging feature leveraging computer vision and visual language models (VLMs) for food tracking. Additionally, I contributed to building recommendation systems and developing predictive models for continuous glucose monitoring (CGM) using time-series analysis.",
+            "description_html": "At Healthify, I led a team of ML engineers focused on advancing AI-driven solutions. Collaborated closely with OpenAI and Anthropic to develop systems like ‘Snap,’ an AI-powered photo tagging feature leveraging computer vision and visual language models (VLMs) for food tracking. Additionally, I contributed to building recommendation systems and developing predictive models for continuous glucose monitoring (CGM) using time-series analysis. <!---->",
+            "duration": "Jun 2020 Sep 2024 4 years 4 months",
+            "start_date": "Jun 2020",
+            "end_date": "Sep 2024",
+            "duration_short": "4 years 4 months",
+            "company": "Healthify",
+            "company_id": "healthifyme",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Intern",
+            "location": "Saarbrücken Area, Germany",
+            "description": "Worked on model quantization using tensorRT. Also built tools to do camera calibration.",
+            "description_html": "Worked on model quantization using tensorRT. Also built tools to do camera calibration. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "The Captury",
+            "company_id": "the-captury",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bordeaux Area, France",
+            "description": "Worked on DockNet, a tool that divides the big neural network into smaller components that can run on docker individually. Also implemented several protocols on VANET and SUMO.",
+            "description_html": "Worked on DockNet, a tool that divides the big neural network into smaller components that can run on docker individually. Also implemented several protocols on VANET and SUMO. <!---->",
+            "duration": "Jun 2018 Jul 2018 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "2 months",
+            "company": "University of Bordeaux",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Jammu",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": "Director Gold Medalist, Silver Medalist, Prof. Sudhir Kumar Jain award winner",
+            "description_html": "Director Gold Medalist, Silver Medalist, Prof. Sudhir Kumar Jain award winner <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Stealth",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

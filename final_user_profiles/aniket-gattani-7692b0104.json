@@ -1,0 +1,13 @@
+{
+    "city": "Houston, Texas, United States",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Advanced Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Cloud Computing\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Information Retrieval\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Parallel Computing\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"},{\"subtitle\":\"-\",\"title\":\"Speech and Natural Language Processing\"}]",
+    "certifications": null,
+    "current_company_name": "Google",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Website Fingerprinting Defenses\",\"start_date\":\"Nov 2021\",\"description\":\"• Created Quic proxy tunnels to encapsulate unencrypted TCP and UDP traffic into simultaneous encrypted streams• Constructed a forward-proxy model which pumps covert data by aggregating different stream packets at line rate withminimal packet loss and retransmissions• Evaluated the degree of covert data to be added while remaining undetected against modern fingerprinting attacks\"},{\"title\":\"Fault Tolerant Structured P2P Web Crawler (Term Project)\",\"start_date\":\"Aug 2021\",\"end_date\":\"Nov 2021\",\"description\":\"• Created a hybrid crawler between Peer to Peer and master-slave communication models incorporating benefits from both andwas proven to be cheaper in communications by an order of magnitude• Added fault-tolerant features such as master peer reelection, distribution of tasks on peer addition or removal from network\"},{\"title\":\"AIChatter\",\"start_date\":\"Mar 2018\",\"end_date\":\"Mar 2018\",\"description\":\"• Developed an interface in Django which suggests emojis according to the user’s conversations with realtime notifications• Constructed a ML model based on Sentiment Analysis trained on about a million Tweets and used Keras for backend\"}]",
+    "honors_and_awards": null
+}

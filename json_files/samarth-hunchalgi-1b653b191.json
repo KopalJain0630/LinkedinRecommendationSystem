@@ -1,0 +1,306 @@
+{
+    "id": "samarth-hunchalgi-1b653b191",
+    "name": "Samarth Hunchalgi",
+    "city": "Contact Info",
+    "country_code": null,
+    "position": "Team Member at EVG IIT Kharagpur",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "name": "Freelance",
+        "title": "Team Member at EVG IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Web Scraper",
+            "description": "Web Scraper | Python | Beautifulsoup• Built a web scraper and implemented it to retrieve data from the online website Amazon with just the URL of the page• Implemented the model using python libraries Beautifulsoup, RegEx, sqlite3, and Request modules to retrieve data• Stored the data in SQLite DataBase (using DB Browser), to help visualize and process the data more efficiently• Currently working on expanding the model on other shopping sites, to provide an efficient way to compare andanalyse the data",
+            "description_html": "Web Scraper | Python | Beautifulsoup• Built a web scraper and implemented it to retrieve data from the online website Amazon with just the URL of the page• Implemented the model using python libraries Beautifulsoup, RegEx, sqlite3, and Request modules to retrieve data• Stored the data in SQLite DataBase (using DB Browser), to help visualize and process the data more efficiently• Currently working on expanding the model on other shopping sites, to provide an efficient way to compare andanalyse the data",
+            "duration": "Jul 2020 - Present 4 years 6 months",
+            "start_date": "Jul 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 6 months",
+            "company": "Freelance",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Team Member",
+            "location": "IIT Kharagpur",
+            "description": "Embedded Systems | Electric Vehicle Group | IIT Kharagpur• Explored the usage of S32K144 microcontroller using Kinetis Design Studio, an integrated developmentenvironment for microcontrollers, worked under Professor Vikranth Racheria and the founding members of the EVG• Currently working with the hardware team to design and stimulate flyback switch mode power converter for DC toDC Voltage conversion and also test and stimulate the flyback power converter in PCB designing software",
+            "description_html": "Embedded Systems | Electric Vehicle Group | IIT Kharagpur• Explored the usage of S32K144 microcontroller using Kinetis Design Studio, an integrated developmentenvironment for microcontrollers, worked under Professor Vikranth Racheria and the founding members of the EVG• Currently working with the hardware team to design and stimulate flyback switch mode power converter for DC toDC Voltage conversion and also test and stimulate the flyback power converter in PCB designing software <!---->",
+            "duration": "Nov 2019 - Present 5 years 2 months",
+            "start_date": "Nov 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 2 months",
+            "company": "EVG IIT Kharagpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "location": "India",
+            "description": "• Worked under the Technology Students Gymkhana on 3 fronts-Sponsorship, Accommodation and Event Management• Organized 548 events, Cultural Nights, and Guest lectures which saw a participation of 3000+ students from 23 IITs• Generated INR 3.5 Million through Sponsorship from 45 companies (200% YOY Increase) for the 54th edition of Meet• Introduced Live Streaming, Live Score Update, adventure, and recreational Activities from the Sponsorship raised• Led a team of 12 Team Members for the planning, execution, and operation of the 9-day long sporting extravaganza• Responsible for catering the branding &publicity requirements of all the 45 companies during the 54th Sports Meet",
+            "description_html": "• Worked under the Technology Students Gymkhana on 3 fronts-Sponsorship, Accommodation and Event Management• Organized 548 events, Cultural Nights, and Guest lectures which saw a participation of 3000+ students from 23 IITs• Generated INR 3.5 Million through Sponsorship from 45 companies (200% YOY Increase) for the 54th edition of Meet• Introduced Live Streaming, Live Score Update, adventure, and recreational Activities from the Sponsorship raised• Led a team of 12 Team Members for the planning, execution, and operation of the 9-day long sporting extravaganza• Responsible for catering the branding &amp;publicity requirements of all the 45 companies during the 54th Sports Meet",
+            "duration": "Aug 2019 Feb 2020 7 months",
+            "start_date": "Aug 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "7 months",
+            "company": "Inter IIT Sports Meet",
+            "company_id": "inter-iit-sports-meet",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shubhankar Banerjee",
+            "about": "MTS @Oracle | SDE Intern '21 @Oracle | IIT KHARAGPUR'22 | E&EC - Major | CSE-Minor|",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Santorup Bhattacharyya",
+            "about": "On-site lead",
+            "location": "Osaka, Japan"
+        },
+        {
+            "profile_link": "",
+            "name": "Govindh Krishnan",
+            "about": "Junior Manager Trainee",
+            "location": "Ernakulam"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Agrawal",
+            "about": "Edelweiss | OSTC | Intel | EE IIT Kanpur'21",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Febin Mathew",
+            "about": "Analog Design Engineer @ Texas Instruments | Electronics & Electrical | IIT Kharagpur",
+            "location": "Kasaragod"
+        },
+        {
+            "profile_link": "",
+            "name": "SANTANU GHOSH",
+            "about": "Backend Web Developer at Infosys",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranjal Singh",
+            "about": null,
+            "location": "Patna"
+        },
+        {
+            "profile_link": "",
+            "name": "Sneha Maheshwari",
+            "about": "Senior Process Associate at Siemens|| RunMyFinance || RPA Consultant || Robotics Process Automation || RunMyJobs",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aaryan R.",
+            "about": null,
+            "location": "Amsterdam"
+        },
+        {
+            "profile_link": "",
+            "name": "Shourya Sharma",
+            "about": "Tech Lead at Refier Information Platform",
+            "location": "Hyderabad"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B-tech",
+            "field": "Electrical and Electronics Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Lal Bahadur Shastri College, Mahaveer Nagar Extension, Kota",
+            "degree": "Higher Secondary education",
+            "field": "CBSE | 93 %",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Resonance Eduventures Limited",
+            "degree": "JEE Mains and JEE Advanced Course | Kota",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Symbiosis School - India",
+            "degree": "Secondary School certificate | 10 C.G.P.A",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Marathi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Kannada "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Coursera",
+            "title": "University of Michigan"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Coursera",
+            "title": "University of MIchigan"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Coursera",
+            "title": "University of Michigan"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1220.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "Freelance",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "samarth-hunchalgi-1b653b191",
+    "activity": [
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "#sharepost Foreign Research Internship Opportunity 3: Caltech SURF About: One of the most prestigious summer internships for an engineering…",
+            "img": "",
+            "id": "7126538762074947584"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "Humbled and proud to share that I have filed my first patent. Thanks, Wells Fargo for providing research- oriented culture and platform. Special…",
+            "img": "",
+            "id": "6981166098872229888"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "Thanks Intuit for such amazing goodies. These things does cheers you up, especially when you are a beginner. ✌️ #goodies #intuit #beginner",
+            "img": "",
+            "id": "6977630778516008960"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "If you can be like anyone, be like number 50. ❤️ (via fb/Christina Weaver)",
+            "img": "",
+            "id": "6816620383601483776"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "One of the most important yet most neglected Nutrition we don't tend to include in our diet is Protein. As per the RDA, a 70Kg Male/Female should…",
+            "img": "",
+            "id": "6810551398695088128"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "Hello everyone! I am thrilled to share that I have joined Goldman Sachs as a summer analyst in the Global Markets Division. I want to thank…",
+            "img": "",
+            "id": "6810581122913714176"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "Are you a GRE or GMAT aspirant? Do you want to pursue an MBA from reputed foreign universities but don’t know where to start or the preparation…",
+            "img": "",
+            "id": "6808779931523411968"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "A long wait is over finally 🙂 I'm very happy to inform you that my research paper titled, \"Tail risk optimised portfolio across states in…",
+            "img": "",
+            "id": "6798915954094026752"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "The Final Showdown!! Good Bye Indian Institute of Technology, Kharagpur until next time. 🙂 Didn't expected to get my most precious document 🎓 from…",
+            "img": "",
+            "id": "6795556310579580928"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "Technology Students' Gymkhana concluded the 'How to Open IIT KGP' Case Study Competition on 1st May 2021 with the presentation round. The efforts of…",
+            "img": "",
+            "id": "6795652330374221824"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "I still vividly remember, how much I was nervous on my first day(24th July, 2015) at IIT Kharagpur. Mostly due to a lot of self doubts. Looking fast…",
+            "img": null,
+            "id": "6770200666028806144"
+        },
+        {
+            "interaction": "Liked by Samarth Hunchalgi",
+            "link": "",
+            "title": "One of my fitness goal this year! To track your fitness goals, join here.  Keep rocking! . . . . #Lifeissuperawesome #newyear…",
+            "img": null,
+            "id": "6754257700022026240"
+        }
+    ],
+    "linkedin_num_id": 756779610.0,
+    "honors_and_awards": [
+        {
+            "title": "KVPY",
+            "publication": "-",
+            "date": "2017-03-01T00:00:00.000Z",
+            "description": "• Among the top 1% of appearing candidates to be shortlisted for KVPY fellowship award under SX-2017"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

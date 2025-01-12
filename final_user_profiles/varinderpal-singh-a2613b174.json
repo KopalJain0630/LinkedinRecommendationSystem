@@ -1,0 +1,49 @@
+{
+    "city": "Noida, Uttar Pradesh, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Indore",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2022Credential ID nlcert92i7cwbx10gk4uxvSee credential",
+            "subtitle": "NextLeap",
+            "title": "Associate Product Manager Fellowship"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID 2bed30d1-be2c-4e4f-82ae-2808361d8688See credential",
+            "subtitle": "The Product Folks",
+            "title": "Product Analytics 101"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 6HCDN3NK97L6",
+            "subtitle": "Coursera",
+            "title": "Introduction to big data"
+        },
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "Internshala",
+            "title": "Machine Learning "
+        },
+        {
+            "meta": "Issued May 2020Credential ID CWT42F8T6554",
+            "subtitle": "Coursera",
+            "title": "SQL"
+        }
+    ],
+    "current_company_name": "FanTV",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Control of laser based Additive Manufacturing \",\"start_date\":\"Aug 2020\",\"end_date\":\"Present\"},{\"title\":\"Design a Bipedal Robot using Theo Jansen Mechansim\",\"start_date\":\"Aug 2020\",\"end_date\":\"Nov 2020\",\"description\":\"Project was design a bipedal robot using Theo Jansen mechanism. I designed cad model and then done the dynamic analysis of the Theo Jansen Mechanism.\"}]",
+    "honors_and_awards": null
+}

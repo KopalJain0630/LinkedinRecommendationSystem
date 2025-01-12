@@ -1,0 +1,340 @@
+{
+    "id": "-nikhil-kumar",
+    "name": "Nikhil Kumar",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Investment Banking Analyst at Arpwood Capital | IIT KGP | FRM Part 1",
+    "about": "Nikhil Kumar is a finance professional with a background in investment banking and a keen interest in finance and politics. Graduating from IIT Kharagpur in 2022, Nikhil currently serves as an Investment Banking Analyst at Arpwood Capital, specializing in Mergers and Acquisitions (M&A). During his time at IIT Kharagpur, Nikhil actively engaged in various student societies and served as the General Secretary of Students' Welfare at the Technology Students' Gymkhana. He is passionate about analyzing market trends, understanding business strategies, and exploring the intersection of finance with broader global issues. Nikhil is eager to further expand his expertise and contribute to impactful financial initiatives.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Arpwood Capital",
+        "company_id": "arpwood-capital",
+        "title": "Investment Banking Analyst at Arpwood Capital | IIT KGP | FRM Part 1"
+    },
+    "experience": [
+        {
+            "title": "Investment Banking Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Arpwood Capital",
+            "company_id": "arpwood-capital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Market Analyst Intern",
+            "description": "Project: Day-trading on Futures contracts in US 10-Year Treasury Note market; To analyze Euro-Dollar spread during the rate-hike periods\u00e2\u20ac\u00a2 Obtained 57% accuracy in identifying the profit-generating entry and exit points for Euro-Dollar futures at bond auctions during hike cycles\u00e2\u20ac\u00a2 Conducted trend-line and price analysis using Candlestick patterns and technical indicators like Fibonacci Retracement, MACD, RSI",
+            "description_html": "Project: Day-trading on Futures contracts in US 10-Year Treasury Note market; To analyze Euro-Dollar spread during the rate-hike periods\u00e2\u20ac\u00a2 Obtained 57% accuracy in identifying the profit-generating entry and exit points for Euro-Dollar futures at bond auctions during hike cycles\u00e2\u20ac\u00a2 Conducted trend-line and price analysis using Candlestick patterns and technical indicators like Fibonacci Retracement, MACD, RSI <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Axxela",
+            "company_id": "axxela-research-and-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "Project: To develop and implement a three-staged text standardization algorithm for the parameters of loan application data\u00e2\u20ac\u00a2 Accelerated credit-risk modelling by 1.6x through a standardization model that achieved a 95.4% accuracy on 35 million loan applications\u00e2\u20ac\u00a2 Condensed the loan verification process by 46% by developing a code to verify a loan applicant\u00e2\u20ac\u2122s document details with the official records\u00e2\u20ac\u00a2 Downsized the model-deployment process up to 37% by formulating statistical performance metrics to analyze the efficiency of algorithm",
+            "description_html": "Project: To develop and implement a three-staged text standardization algorithm for the parameters of loan application data\u00e2\u20ac\u00a2 Accelerated credit-risk modelling by 1.6x through a standardization model that achieved a 95.4% accuracy on 35 million loan applications\u00e2\u20ac\u00a2 Condensed the loan verification process by 46% by developing a code to verify a loan applicant\u00e2\u20ac\u2122s document details with the official records\u00e2\u20ac\u00a2 Downsized the model-deployment process up to 37% by formulating statistical performance metrics to analyze the efficiency of algorithm",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Bajaj Finserv",
+            "company_id": "bajaj-finserv-lending",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "Project: To estimate the scale and extent of crop diversification and to identify its dependencies with climate shocks and infrastructure\u00e2\u20ac\u00a2 Estimated crop diversification at the tehsil level by analyzing data from two rounds of Agriculture Census of India (2010-11 and 2015-16)\u00e2\u20ac\u00a2 Generated insights into the role and effectiveness of policy interventions by developing an end-to-end dashboard using Streamlit\u00e2\u20ac\u00a2 Retrieved up to 92.5% missing tehsil codes in the LGD Codebook by mapping the village and block-level data using FuzzyWuzzy library",
+            "description_html": "Project: To estimate the scale and extent of crop diversification and to identify its dependencies with climate shocks and infrastructure\u00e2\u20ac\u00a2 Estimated crop diversification at the tehsil level by analyzing data from two rounds of Agriculture Census of India (2010-11 and 2015-16)\u00e2\u20ac\u00a2 Generated insights into the role and effectiveness of policy interventions by developing an end-to-end dashboard using Streamlit\u00e2\u20ac\u00a2 Retrieved up to 92.5% missing tehsil codes in the LGD Codebook by mapping the village and block-level data using FuzzyWuzzy library",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer Intern",
+            "description": "Objective: To produce an automated testing framework for creating and designing test cases to lower the  maintenance costs and risks\u00e2\u20ac\u00a2 Reduced 100+ man-hours by developing a testing automation framework using selenium to help Quality Assurance team increase efficiency\u00e2\u20ac\u00a2 Automated the export/import of 12,000+ data points by integrating MS-Excel and MySQL into the framework by creating generic classes",
+            "description_html": "Objective: To produce an automated testing framework for creating and designing test cases to lower the maintenance costs and risks\u00e2\u20ac\u00a2 Reduced 100+ man-hours by developing a testing automation framework using selenium to help Quality Assurance team increase efficiency\u00e2\u20ac\u00a2 Automated the export/import of 12,000+ data points by integrating MS-Excel and MySQL into the framework by creating generic classes <!---->",
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Symphony Fintech Solutions Pvt Ltd",
+            "company_id": "symphony-fintech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management and Operations Intern",
+            "description": "\u00e2\u20ac\u00a2 Incremented the user-engagement duration on the website by 21% by developing user-friendly wireframes for the company\u00e2\u20ac\u2122s main website\u00e2\u20ac\u00a2 Accelerated the hiring procedure by 50% by formulating a new hiring process which enabled smooth data transfer among 4 divisions\u00e2\u20ac\u00a2 Improved customer feedback by 1.5x; initialized Trainer Research and Development division to enhance teaching quality of 40+ trainers\u00e2\u20ac\u00a2 Upscaled the clientele by 34% by investigating the existing customer data to identify the primary client segment to approach similar leads\u00e2\u20ac\u00a2 Established 5 KPIs to upgrade and sustain the workflow by formalizing an end to end process and team structure for the organization",
+            "description_html": "\u00e2\u20ac\u00a2 Incremented the user-engagement duration on the website by 21% by developing user-friendly wireframes for the company\u00e2\u20ac\u2122s main website\u00e2\u20ac\u00a2 Accelerated the hiring procedure by 50% by formulating a new hiring process which enabled smooth data transfer among 4 divisions\u00e2\u20ac\u00a2 Improved customer feedback by 1.5x; initialized Trainer Research and Development division to enhance teaching quality of 40+ trainers\u00e2\u20ac\u00a2 Upscaled the clientele by 34% by investigating the existing customer data to identify the primary client segment to approach similar leads\u00e2\u20ac\u00a2 Established 5 KPIs to upgrade and sustain the workflow by formalizing an end to end process and team structure for the organization",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "SmaOwl",
+            "company_id": "smaowl9",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Devesh Gobind",
+            "about": "Times \u00e2\u20ac\u00a2 Ex-Apollo 247 \u00e2\u20ac\u00a2 G. Sec. Alumni Affairs @ Nehru Hall of Residence 2021-2022 \u00e2\u20ac\u00a2 IIT Kharagpur 2023",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gowtham Mahesh Balina",
+            "about": "Digital Transformation Architect | Ex- PwC | XLRi",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditi Singhania",
+            "about": "MLE-2@Adobe | IIT Kharagpur'22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Snehasis Hota",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankur Singh",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nihal Reddy",
+            "about": "Management Consultant at Monitor Deloitte",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Namit Kumar, CISM, CRISC",
+            "about": "Manager at Deloitte Canada",
+            "location": "Greater Toronto Area, Canada"
+        },
+        {
+            "profile_link": "",
+            "name": "Survi Bajaj",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikhil Nayak",
+            "about": "Monitor Deloitte | IIM Ahmedabad",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Amol Bakse",
+            "about": "Global Procurement | Mondel\u00c4\u201cz International | ex-GEP | ex-Mahindra & Mahindra | IITB | COEP",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Puneet Kumar Garg",
+            "about": "Data Engineering | Data Science | Process Optimization | Azure | Python | SQL | Power BI",
+            "location": "Calgary, AB"
+        },
+        {
+            "profile_link": "",
+            "name": "Anushka Singh",
+            "about": "Manager, CIO Advisory at KPMG Global Services",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Drashti Desai",
+            "about": "Senior Manager - People Consulting at EY India | Ex-Deloitte | Ex-SHRM",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivansh Kansal",
+            "about": "IKEA | Capgemini | TCS | Dai-ichi Life",
+            "location": "Malmo"
+        },
+        {
+            "profile_link": "",
+            "name": "Pushpendra Singh Bhadauria",
+            "about": "Product @Telstra || Ex - EY, JIO, Accenture",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh Dwivedi",
+            "about": "Head | Program & Transformation @ Moss Adams India | FMS Delhi | BITS Pilani",
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Akanksha Agarwal",
+            "about": null,
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Garg",
+            "about": "BCG | IIT Kharagpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikita Rathi",
+            "about": null,
+            "location": "New York, NY"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: General Secretary, Students' Welfare, TSG | Student Welfare Group | Institute Wellness Group | 180 Degrees Consulting Participated in various Cultural and Technology events representing Radhakrishnan Hall of Residence",
+            "description_html": "Activities and Societies: General Secretary, Students' Welfare, TSG | Student Welfare Group | Institute Wellness Group | 180 Degrees Consulting Participated in various Cultural and Technology events representing Radhakrishnan Hall of Residence",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "delhi public school eldeco",
+            "start_year": "2010",
+            "end_year": "2017",
+            "description": "Activities and Societies: Quiz Team Class 12th: 89.20% Class 10th: 10 CGPA",
+            "description_html": "Activities and Societies: Quiz Team",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"BM60023\",\"title\":\"Financial Markets and Institutions\"},{\"subtitle\":\"BM40002\",\"title\":\"Introduction to Financial Management\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"MA20101\",\"title\":\"Transform Calculus \"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2021See credential",
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "FRM Part 1"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID 159872365791",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "Dec 2020 - Apr 2022 \u00c2\u00b7 1 year 5 months",
+            "duration_short": "1 year 5 months",
+            "end_date": "Apr 2022",
+            "info": "Mentoring 5 First-Year Undergraduate Students to assist them in their academic and co-curricular activities on the campus.",
+            "start_date": "Dec 2020",
+            "subtitle": "Student Welfare Group, IIT Kharagpur",
+            "title": "Student Mentor"
+        },
+        {
+            "cause": "Education",
+            "duration": "Sep 2020 - Sep 2021 \u00c2\u00b7 1 year 1 month",
+            "duration_short": "1 year 1 month",
+            "end_date": "Sep 2021",
+            "start_date": "Sep 2020",
+            "subtitle": "Chegg Inc.",
+            "title": "Managed Network Expert"
+        }
+    ],
+    "followers": 5687.0,
+    "connections": 500.0,
+    "current_company_company_id": "arpwood-capital",
+    "current_company_name": "Arpwood Capital",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "-nikhil-kumar",
+    "activity": [
+        {
+            "interaction": "Liked by Nikhil Kumar",
+            "link": "",
+            "title": "Arpwood Capital is looking to hire an Associate Chartered Accountant (\"ACA\"), with 2+ years non-audit experience to lead transaction structuring and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7275396567174389760"
+        },
+        {
+            "interaction": "Liked by Nikhil Kumar",
+            "link": "",
+            "title": "\u00e2\u20ac\u0153Atos has entered negotiations with the government over the potential acquisition of its advanced computing activities for an enterprise value of\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7268358575742234624"
+        },
+        {
+            "interaction": "Liked by Nikhil Kumar",
+            "link": "",
+            "title": "\u00f0\u0178\u0152\u0178 A Historic Moment at Indian Institute of Technology, Kharagpur : Vice Presidents' Conclave 2024 \u00f0\u0178\u0152\u0178 I had the immense honor of hosting and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7247817195034959872"
+        },
+        {
+            "interaction": "Liked by Nikhil Kumar",
+            "link": "",
+            "title": "What impact will a Supreme Court intervention make 90 girls are raped every day in India. Some of these heinous crimes get sensationalised. What\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7230949136785666048"
+        },
+        {
+            "interaction": "Liked by Nikhil Kumar",
+            "link": "",
+            "title": "Top 10% of India's population holds more than 50% of the country's income, leaving the rest 90% with barely enough!\u00f0\u0178\u00a4\u00af What do you think could be the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7222207695213248512"
+        }
+    ],
+    "linkedin_num_id": 688395886.0,
+    "honors_and_awards": [
+        {
+            "title": "Order of Merit",
+            "publication": "Radhakrishnan Hall of Residence, IIT Kharagpur",
+            "date": "2022-04-01T00:00:00.000Z",
+            "description": "Awarded for special contribution to Radhakrishnan Hall of Residence, IIT Kharagpur"
+        },
+        {
+            "title": "MB Scholarship",
+            "publication": "Indian Institute of Technology, Kharagpur",
+            "date": "2021-08-01T00:00:00.000Z",
+            "description": "Sole recipient of the MB Scholarship conferred by IIT Kharagpur for the best all round performance among the undergraduate students"
+        },
+        {
+            "title": "UP Science talent scholarship",
+            "publication": "Council of Science and Technology, Uttar Pradesh",
+            "date": "2017-07-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

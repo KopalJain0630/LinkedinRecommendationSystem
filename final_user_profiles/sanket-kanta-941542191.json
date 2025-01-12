@@ -1,0 +1,323 @@
+{
+    "id": "sanket-kanta-941542191",
+    "name": "Sanket Kanta",
+    "city": "Midnapore Sadar, India",
+    "country_code": "IN",
+    "position": "SDE @Kotak Mahindra Bank | Sponsorship Manager, Inter IIT Tech-Meet 10.0 | IIT Kgp'23",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Kotak Mahindra Bank",
+        "company_id": "kotak-mahindra-bank",
+        "title": "SDE @Kotak Mahindra Bank | Sponsorship Manager, Inter IIT Tech-Meet 10.0 | IIT Kgp'23"
+    },
+    "experience": [
+        {
+            "title": "Data Engineer",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Kotak Mahindra Bank",
+            "company_id": "kotak-mahindra-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Project:Extraction of text data from medical claim forms\u00e2\u20ac\u00a2 Created an end to end model capable of making bounding boxes for identifying certain text blocks in claim forms, using YOLO algorithm\u00e2\u20ac\u00a2 Performed benchmarking tests between the object detection models YOLO, fast RCNN and faster RCNN to provide better background for the selection of models for object detection, achieving a decrease in the latency of the model from 4 sec to 50 milisec (1/80 times)\u00e2\u20ac\u00a2 Worked on removing noise from claim form images with the help of noise filtering algorithms Weiner Filter, Mean filter & guassian filter\u00e2\u20ac\u00a2 Explored and prepared documentation for the use of TableNet and Cascade TabNet to extract tabular data from the claim form images\u00e2\u20ac\u00a2 Successfully deployed a tesseract based text extraction model which could identify handwritten and text data from the bounding boxes\u00e2\u20ac\u00a2 Achieved a decrease in latency of 6 sec in the text detection and extraction model, making it commercially usable for forms processing",
+            "description_html": "Project:Extraction of text data from medical claim forms\u00e2\u20ac\u00a2 Created an end to end model capable of making bounding boxes for identifying certain text blocks in claim forms, using YOLO algorithm\u00e2\u20ac\u00a2 Performed benchmarking tests between the object detection models YOLO, fast RCNN and faster RCNN to provide better background for the selection of models for object detection, achieving a decrease in the latency of the model from 4 sec to 50 milisec (1/80 times)\u00e2\u20ac\u00a2 Worked on removing noise from claim form images with the help of noise filtering algorithms Weiner Filter, Mean filter &amp; guassian filter\u00e2\u20ac\u00a2 Explored and prepared documentation for the use of TableNet and Cascade TabNet to extract tabular data from the claim form images\u00e2\u20ac\u00a2 Successfully deployed a tesseract based text extraction model which could identify handwritten and text data from the bounding boxes\u00e2\u20ac\u00a2 Achieved a decrease in latency of 6 sec in the text detection and extraction model, making it commercially usable for forms processing",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Legato Health Technologies",
+            "company_id": "carelonglobalsolutions",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "New Initiatives Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Formulated market and competitor analysis report, & translated data into strategical insights on product positioning & operations\u00e2\u20ac\u00a2 Worked on the Ideation and implementation of the corporate insurance plan, leveraging the services offered uniquely by the company\u00e2\u20ac\u00a2 Worked directly with general customers and corporate clients to identify unrecognized pain points in the Healthcare insurance industry",
+            "description_html": "\u00e2\u20ac\u00a2 Formulated market and competitor analysis report, &amp; translated data into strategical insights on product positioning &amp; operations\u00e2\u20ac\u00a2 Worked on the Ideation and implementation of the corporate insurance plan, leveraging the services offered uniquely by the company\u00e2\u20ac\u00a2 Worked directly with general customers and corporate clients to identify unrecognized pain points in the Healthcare insurance industry <!---->",
+            "duration": "Mar 2022 Apr 2022 2 months",
+            "start_date": "Mar 2022",
+            "end_date": "Apr 2022",
+            "duration_short": "2 months",
+            "company": "Ayu Health Hospitals",
+            "company_id": "ayu-health",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sponsorship Manager",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "\u00e2\u20ac\u00a2 Forged associations worth, INR 15 lakhs, with major corporate giants and organizations like BOSCH, Mercari Japan, ISRO and DRDO. \u00e2\u20ac\u00a2 Mentored a team of 3 associate managers to garner sponsorship, forge and maintain associations with multi-national corporations. \u00e2\u20ac\u00a2 Planned and designed the working structure and timelines for the Sponsorship team, streamlining the sponsorship process.",
+            "description_html": "\u00e2\u20ac\u00a2 Forged associations worth, INR 15 lakhs, with major corporate giants and organizations like BOSCH, Mercari Japan, ISRO and DRDO. \u00e2\u20ac\u00a2 Mentored a team of 3 associate managers to garner sponsorship, forge and maintain associations with multi-national corporations. \u00e2\u20ac\u00a2 Planned and designed the working structure and timelines for the Sponsorship team, streamlining the sponsorship process. <!---->",
+            "duration": "Nov 2021 Apr 2022 6 months",
+            "start_date": "Nov 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "6 months",
+            "company": "Inter IIT Tech Meet",
+            "company_id": "13th-inter-iit-tech-meet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "1 year 8 months",
+            "positions": [
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Apr 2020 - Mar 2021 1 year",
+                    "description": "\u00e2\u20ac\u00a2 Led a team of 5 members to forge and maintain corporate relations with Multinational Corporations\u00e2\u20ac\u00a2 Planned, Ideated, and executed the first-ever online edition of Kshitij in a team of 15 heads leading 40 Core Team Members\u00e2\u20ac\u00a2 Forged associations, worth INR 10.5 Lacs, with corporate giants like Line Corporation, Siemens, McAfee as sponsors of Kshitij 2021\u00e2\u20ac\u00a2 Ideated and orchestrated the first-ever Virtual Technology Summit with 11 technologists from companies like Mercedes-Benz\u00e2\u20ac\u00a2 Facilitated the Guest Lecture Series for Kshitij 2021, with Mr. Nitesh Tiwari, Ms. Dipa Karmakar,Mr. Pratik Gandhi and many others",
+                    "duration": "Apr 2020 Mar 2021 1 year",
+                    "start_date": "Apr 2020",
+                    "end_date": "Mar 2021",
+                    "duration_short": "1 year",
+                    "title": "Sponsorship Coordinator",
+                    "description_html": "\u00e2\u20ac\u00a2 Led a team of 5 members to forge and maintain corporate relations with Multinational Corporations<br>\u00e2\u20ac\u00a2 Planned, Ideated, and executed the first-ever online edition of Kshitij in a team of 15 heads leading 40 Core Team Members<br>\u00e2\u20ac\u00a2 Forged associations, worth INR 10.5 Lacs, with corporate giants like Line Corporation, Siemens, McAfee as sponsors of Kshitij 2021<br>\u00e2\u20ac\u00a2 Ideated and orchestrated the first-ever Virtual Technology Summit with 11 technologists from companies like Mercedes-Benz<br>\u00e2\u20ac\u00a2 Facilitated the Guest Lecture Series for Kshitij 2021, with Mr. Nitesh Tiwari, Ms. Dipa Karmakar,Mr. Pratik Gandhi and many others"
+                },
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Aug 2019 - Mar 2020 8 months",
+                    "description": "\u00e2\u20ac\u00a2 Garnered a total sponsorship amount worth INR 2.5 Lacs from the Delhi NCR region, resulting in a 10% year on year growth\u00e2\u20ac\u00a2 Headed a team of 30 campus affilates for the accommodation of more than 2000 outstation participants in Kshitij 2020\u00e2\u20ac\u00a2 Publicized and conducted Kascade in Bhubaneswar, Odisha with over 150 attendees resulting in a 50% year on year growth\u00e2\u20ac\u00a2 Forged partnership with the companies Kolkata Ventures, and VentureBean Consulting Pvt Ltd for the flagship management event B-Plan",
+                    "duration": "Aug 2019 Mar 2020 8 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Mar 2020",
+                    "duration_short": "8 months",
+                    "title": "Core Team Member",
+                    "description_html": "\u00e2\u20ac\u00a2 Garnered a total sponsorship amount worth INR 2.5 Lacs from the Delhi NCR region, resulting in a 10% year on year growth<br>\u00e2\u20ac\u00a2 Headed a team of 30 campus affilates for the accommodation of more than 2000 outstation participants in Kshitij 2020<br>\u00e2\u20ac\u00a2 Publicized and conducted Kascade in Bhubaneswar, Odisha with over 150 attendees resulting in a 50% year on year growth<br>\u00e2\u20ac\u00a2 Forged partnership with the companies Kolkata Ventures, and VentureBean Consulting Pvt Ltd for the flagship management event B-Plan"
+                }
+            ],
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Analyst Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "\u00e2\u20ac\u00a2 Applied Ensemble Algorithms to predict the quarterly income of farmers on the basis of the data from the past 5 years\u00e2\u20ac\u00a2 Analyzed the effect of interventions by CINI on more than 3 Lakh households spread across Gujrat, Jharkhand, Odisha and Maharashtra\u00e2\u20ac\u00a2 Performed pre - processing and Feature Engineering on real-life datasets with more than 100 features from over 1000 households\u00e2\u20ac\u00a2 Found synergies between agricultural and non-agricultural activities and income levels of farmers in rural households using matplotlib",
+            "description_html": "\u00e2\u20ac\u00a2 Applied Ensemble Algorithms to predict the quarterly income of farmers on the basis of the data from the past 5 years\u00e2\u20ac\u00a2 Analyzed the effect of interventions by CINI on more than 3 Lakh households spread across Gujrat, Jharkhand, Odisha and Maharashtra\u00e2\u20ac\u00a2 Performed pre - processing and Feature Engineering on real-life datasets with more than 100 features from over 1000 households\u00e2\u20ac\u00a2 Found synergies between agricultural and non-agricultural activities and income levels of farmers in rural households using matplotlib",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Campus Affilate",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "\u00e2\u20ac\u00a2 Worked with a team of 30 people for the accommodation of more than 2000 outstation participants in Kshitij 2019\u00e2\u20ac\u00a2 Responsible for the in-house publicity of the online events of Kshitij 2019 among the 10,000 residents at the institute\u00e2\u20ac\u00a2 Publicized for the festival in colleges of Bhubaneswar, Odisha resulting in 10% year on year growth of participants",
+            "description_html": "\u00e2\u20ac\u00a2 Worked with a team of 30 people for the accommodation of more than 2000 outstation participants in Kshitij 2019\u00e2\u20ac\u00a2 Responsible for the in-house publicity of the online events of Kshitij 2019 among the 10,000 residents at the institute\u00e2\u20ac\u00a2 Publicized for the festival in colleges of Bhubaneswar, Odisha resulting in 10% year on year growth of participants <!---->",
+            "duration": "Sep 2018 Mar 2019 7 months",
+            "start_date": "Sep 2018",
+            "end_date": "Mar 2019",
+            "duration_short": "7 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Madhav Sainanee",
+            "about": "SWE at Databricks | CS/Econ",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishaka Choudhary R",
+            "about": "Project Engineer | Anchor | Altruist",
+            "location": "Krishnagiri"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishi Priya",
+            "about": "Analytics || Gartner",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Akanksha Prasad",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shruti Agarwal",
+            "about": "Software Engineer @ Microsoft",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vidhu Chauhan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sharath Raju \u00f0\u0178\u2021\u00ae\u00f0\u0178\u2021\u00b3",
+            "about": "Machine Learning Engineer - NLP, DL, LLM || Masters in ML & AI || Author on Udemy & Packt",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshu Suthar",
+            "about": "IT Representative, IIM Calcutta || IIT Delhi",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Suresh Kondamudi",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Isha Tyagi",
+            "about": null,
+            "location": "Hyderabad"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (Btech+Mtech)",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID W4D33U2PWERKSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1513.0,
+    "connections": 500.0,
+    "current_company_company_id": "kotak-mahindra-bank",
+    "current_company_name": "Kotak Mahindra Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Midnapore Sadar",
+    "linkedin_id": "sanket-kanta-941542191",
+    "activity": [
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "Thrilled to have been a key speaker at the 1st AWS Data Day, representing Kotak Data Modernization. Shared our journey of leveraging AWS solutions\u00e2\u20ac\u00a6",
+            "img": null,
+            "id": "7235993494077464576"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "Top learnings from #GFF24 after talking to/hearing from n+ founders and investors: \u00e2\u20ac\u00a2 Precision>>speed or sometimes even scale should be the focus\u00e2\u20ac\u00a6",
+            "img": null,
+            "id": "7235158778134855680"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "One of my friend is using Kotak Mahindra Bank without a debit card, but the bank debited her two times in one month when she called customer care\u00e2\u20ac\u00a6",
+            "img": null,
+            "id": "7224096404443426819"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "#FridayTalks at Ayu Health is all about learning together as a team, and during our recent session with Puru Kulashreshta, Frontend Developer, taking\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7018195906915155968"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "The scholars of the IIT campus have always been known for their rationale, intellect & discipline. So is Axxela known for its perseverance &\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7004345601303699456"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "The accolades keep on coming! Legato\u00e2\u20ac\u2122s latest state of the art facility at Bagmane Solarium City, Bangalore has bagged the award for the Best\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6960948293317087232"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "Hi Zerodha are you down today?",
+            "img": "",
+            "id": "6944904735644598272"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "The 2022 summer interns are ready for the big challenge! Hailing from some of the most prestigious institutions across the country, our #LegaNext\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6943576581030215681"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "Last May 28, Legato Philippines welcomed Legato Health Technologies President Rajat Puri to Iloilo City for his first visit since the offices opened\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6939780845788360704"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "Legato inaugurated its office at the Alliance Global Tower, Uptown, BGC, Taguig City last May 27. In attendance were Legato Health Technologies\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6938002457453035520"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "Hey everyone, It is my absolute pleasure to announce that my team secured Gold in Silicon Labs' High-Prep Social Entrepreneurship Challenge at the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6926955247391166464"
+        },
+        {
+            "interaction": "Liked by Sanket Kanta",
+            "link": "",
+            "title": "Do you think you are concerned enough about real-world issues? Do you believe you have unique solutions that might emerge manufacturing ecosystems?\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6901170345676558336"
+        }
+    ],
+    "linkedin_num_id": 756785857.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

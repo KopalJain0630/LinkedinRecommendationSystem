@@ -1,0 +1,51 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Y Combinator",
+            "url": "",
+            "start_year": "2023-01",
+            "end_year": "2023-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Clueso",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "C&S Electric Pvt. Ltd Award",
+            "publication": "Indian Institute of Technology, Madras",
+            "date": "2022-07-01T00:00:00.000Z",
+            "description": "Recipient of the medal for the Best Entrepreneur from the batch of 2022"
+        },
+        {
+            "title": "Dr. Shankar Dayal Sharma Gold Medal",
+            "publication": "Indian Institute of Technology, Madras",
+            "date": "2022-07-01T00:00:00.000Z",
+            "description": "Recipient of the Gold Medal awarded to the B.Tech student with the most outstanding performance in a combination of academic and extra-curricular activities. My name is also featured on a plaque in the Student Activity Centre at IIT Madras."
+        }
+    ]
+}

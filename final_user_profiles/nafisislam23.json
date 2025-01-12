@@ -1,0 +1,77 @@
+{
+    "city": "Dhaka, Bangladesh",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Islamic University of Technology",
+            "url": "",
+            "start_year": "2019-01",
+            "end_year": "2023-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016-07",
+            "end_year": "2018-01",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006-01",
+            "end_year": "2016-01",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"MCE 4208\",\"title\":\"3D Solid Modeling and Assembling\"},{\"subtitle\":\"MCE 4663\",\"title\":\"Automatic Control Engineering\"},{\"subtitle\":\"MCE 4780 & MCE 4880\",\"title\":\"Automotive Engine & Vehicle Technology Lab\"},{\"subtitle\":\"MCE 4305 & MCE 4705\",\"title\":\"Basic & Applied Thermodynamics\"},{\"subtitle\":\"EEE 4281\",\"title\":\"Basic Electrical Engineering\"},{\"subtitle\":\"Chem 4215\",\"title\":\"Chemistry of Engg. Materials\"},{\"subtitle\":\"MCE 4241\",\"title\":\"Computer Programming and Applications\"},{\"subtitle\":\"MCE 4507\",\"title\":\"Control Systems and Automation\"},{\"subtitle\":\"MCE 4613\",\"title\":\"Convective Heat Transfer: Phase Change and Mass Transfer\"},{\"subtitle\":\"Math 4211\",\"title\":\"Differential Equations and Special Functions\"},{\"subtitle\":\"Phy 4313\",\"title\":\"Electronics and Semiconductors\"},{\"subtitle\":\"Hum 4717\",\"title\":\"Engineering Economy and Finance\"},{\"subtitle\":\"MCE 4103\",\"title\":\"Engineering Mechanics\"},{\"subtitle\":\"MCE 4511\",\"title\":\"Fluid Machinery\"},{\"subtitle\":\"MCE 4311 & MCE 4811\",\"title\":\"Fluid Mechanics I & II\"},{\"subtitle\":\"MCE 4413\",\"title\":\"Heat Transfer: Conduction and Radiation\"},{\"subtitle\":\"Hum 4817\",\"title\":\"Industrial Management\"},{\"subtitle\":\"MCE 4407\",\"title\":\"Instrumentation and Measurements\"},{\"subtitle\":\"MCE 4101\",\"title\":\"Introduction to Mechanical Engineering\"},{\"subtitle\":\"Hum 4117\",\"title\":\"Islamic History and Culture\"},{\"subtitle\":\"Hum 4217\",\"title\":\"Islamic Philosophy and Professional Ethics\"},{\"subtitle\":\"Math 4411\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"MCE 4609 & MCE 4709\",\"title\":\"Machine Design I & II\"},{\"subtitle\":\"MCE 4627\",\"title\":\"Machine Tools\"},{\"subtitle\":\"MCE 4321\",\"title\":\"Manufacturing Processes\"},{\"subtitle\":\"MCE 4721\",\"title\":\"Manufacturing System and Automation\"},{\"subtitle\":\"MCE 4821\",\"title\":\"Material Handling\"},{\"subtitle\":\"MCE 4521\",\"title\":\"Materials Engineering\"},{\"subtitle\":\"MCE 4108\",\"title\":\"Mechanical Engineering Drawing\"},{\"subtitle\":\"MCE 4503\",\"title\":\"Mechanics of Machines\"},{\"subtitle\":\"MCE 4403\",\"title\":\"Mechanics of Materials\"},{\"subtitle\":\"MCE 4807\",\"title\":\"Mechatronics\"},{\"subtitle\":\"MCE 4425\",\"title\":\"Metallurgy\"},{\"subtitle\":\"Math 4611\",\"title\":\"Numerical Analysis\"},{\"subtitle\":\"Chem 4115\",\"title\":\"Physical and Inorganic Chemistry\"},{\"subtitle\":\"MCE 4805\",\"title\":\"Power Plant Engineering\"},{\"subtitle\":\"MCE 4547\",\"title\":\"Principles of CAD/CAM/CAE\"},{\"subtitle\":\"MCE 4729\",\"title\":\"Production and Operations Management\"},{\"subtitle\":\"Hum 4317\",\"title\":\"Social Studies and Accounting\"},{\"subtitle\":\"Math 4111\",\"title\":\"Solid Geometry, Differential and Integral Calculus\"},{\"subtitle\":\"Math 4511\",\"title\":\"Statistics and Quality Control\"},{\"subtitle\":\"Phy 4113\",\"title\":\"Structure of Matter, Electricity and Magnetism and Modern Physics\"},{\"subtitle\":\"Hum 4516\",\"title\":\"Technical Report Writing and Presentation\"},{\"subtitle\":\"Hum 4417\",\"title\":\"Technology, Environment and Society\"},{\"subtitle\":\"MCE 4621\",\"title\":\"Tool Engineering\"},{\"subtitle\":\"Math 4311\",\"title\":\"Vector Analysis\"},{\"subtitle\":\"MCE 4703\",\"title\":\"Vibration and System Dynamics\"},{\"subtitle\":\"Phy 4213\",\"title\":\"Waves and Oscillation, Geometrical Optics and Wave Mechanics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020",
+            "subtitle": "ISCEA -International Supply Chain Education Alliance",
+            "title": "Certified Supply Chain Analyst, CSCA™"
+        },
+        {
+            "meta": "Credential ID 1014-16502849See credential",
+            "subtitle": "SoloLearn",
+            "title": "HTML Fundamentals"
+        },
+        {
+            "meta": "Credential ID 1738-14802033See credential",
+            "subtitle": "Alison",
+            "title": "Internal Combustion Engine Basics"
+        },
+        {
+            "meta": "Credential ID 1887-14802033See credential",
+            "subtitle": "Alison",
+            "title": "Introduction to Hydroelectric Power Plants"
+        }
+    ],
+    "current_company_name": "Walton Hi-Tech Industries PLC.",
+    "publications": "[{\"title\":\"Numerical study on heat and mass transfer characteristics in a confined enclosure with variable buoyancy ratio\",\"subtitle\":\"Results in Engineering - Elsevier\",\"date\":\"August 19, 2022\",\"description\":\"This numerical study was conducted to investigate the ventilation and airflow in a confined enclosure undergoing rapid inclusion of heat and contaminants representing air quality changes in working environments. A flow of air is passing inside a square enclosure with a heat source and a pollutant source on the right and bottom wall, creating double-diffusion, as well as two ventilation ducts on the upper sides asserting mixed convection. The Galerkin weighted residual method is implemented, which is based on the finite element method. For fixed values of Lewis number, Le = 0.5, Richardson number, Ri = 1, Reynolds number, Re = 100, and Prandtl number, Pr = 1.01, simulations were done with Buoyancy Ratio, Br = −10, 1, 10 and 20 over dimensionless time, τ = 0.1, 0.5, and 1.0. The results have been shown with the streamline, isothermal lines, iso-concentration lines, average Nusselt and Sherwood number, average fluid temperature, average mass concentration, and the average temperature at the square cavity's exit port plots. The findings have been discussed to ensure understanding of the changes in parameters, and an enhancement in heat as well as mass transfer was seen with the rapid change in dimensionless time. This specific study could be a guide for designing air conditioning and ventilation systems.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Star Smartifier",
+            "publication": "Smartifier Academy",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "As acknowledgement of extraordinary performance and resilience shown during the 'Smartifier Internship Program 2020', this award was issued to the selected few of the interns. This award represents the company's utmost respect and value it hold to the hardworking and exceptionally talented individuals during the tenure."
+        },
+        {
+            "title": "Winner, ISCEA PTAK Prize 2020",
+            "publication": "ISCEA Bangladesh",
+            "date": "2020-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Udvashito Mukh - Open Book Talent Hunt",
+            "publication": "Udvash",
+            "date": "2014-12-01T00:00:00.000Z",
+            "description": "Stood 26th in country ranks among all the JSC and equivalent students of academic year 2014-15."
+        }
+    ]
+}

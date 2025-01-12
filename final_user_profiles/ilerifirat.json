@@ -1,0 +1,51 @@
+{
+    "city": "London, England, United Kingdom",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Massachusetts Institute of Technology",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2004",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2004",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2001",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Hummingbird Ventures",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Fulbright Scholar (CASP)",
+            "publication": "-",
+            "date": null,
+            "description": null
+        }
+    ]
+}

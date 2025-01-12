@@ -1,0 +1,117 @@
+{
+    "city": "Aurangabad, Maharashtra, India",
+    "position": "Data Scientist @ Amex | Ellenox | IIT KGP | NUS",
+    "experience": [
+        {
+            "title": "American Express",
+            "description_html": null,
+            "duration": "3 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "American Express",
+                    "meta": "Dec 2021 - Present 3 years 1 month",
+                    "duration": "Dec 2021 - Present 3 years 1 month",
+                    "start_date": "Dec 2021",
+                    "end_date": "Present",
+                    "duration_short": "3 years 1 month",
+                    "title": "Data Scientist",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "American Express",
+                    "meta": "Jul 2021 - Dec 2021 6 months",
+                    "duration": "Jul 2021 Dec 2021 6 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Dec 2021",
+                    "duration_short": "6 months",
+                    "title": "Research Scientist",
+                    "description_html": null
+                }
+            ],
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Startup Scout",
+            "location": "India",
+            "description": "Ellenox is a startup incubator and product lab focused on the Indian ecosystem. We're building a culture of lean innovation by helping early-stage startups get to revenue and scale.",
+            "description_html": "Ellenox is a startup incubator and product lab focused on the Indian ecosystem. We're building a culture of lean innovation by helping early-stage startups get to revenue and scale. <!---->",
+            "duration": "Feb 2023 - Present 1 year 11 months",
+            "start_date": "Feb 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 11 months",
+            "company": "Ellenox",
+            "company_id": "ellenox",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Internship",
+            "description": "• Collaborated with Quality inspection, Software team and performed the requirement analysis, design and development in order to evaluate opportunities to leverage image processing to automate visual quality inspections process on incoming vehicle parts.• Developed a machine learning model in python, OpenCV using concept of Edge Detector, Image Moments, Vector Transformation, Histogram Matching and Convolution for real time defect detection.• Performed test analysis and deployed the machine learning model on Android platform developed using flutter.• Developed a python program for offline prediction using Google Automl output - int8 quantised grap file and label map file.",
+            "description_html": "• Collaborated with Quality inspection, Software team and performed the requirement analysis, design and development in order to evaluate opportunities to leverage image processing to automate visual quality inspections process on incoming vehicle parts.• Developed a machine learning model in python, OpenCV using concept of Edge Detector, Image Moments, Vector Transformation, Histogram Matching and Convolution for real time defect detection.• Performed test analysis and deployed the machine learning model on Android platform developed using flutter.• Developed a python program for offline prediction using Google Automl output - int8 quantised grap file and label map file.",
+            "duration": "Jan 2020 Jun 2020 6 months",
+            "start_date": "Jan 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "6 months",
+            "company": "Ather Energy",
+            "company_id": "ather-energy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Internship",
+            "location": "Singapore",
+            "description": "Project - 1Developed Video Synopsis algorithm to summarize the long duration video in short time for surveillance system. Used Mask - RCNN instance segmentation & object classification to extract the object of interest and superimpose on a stationary background.Project - 2Collaborated in the development of an App for Indoor Localization using wifi and Bluetooth beacons technology. Operated with Pedestrian dead reckoning, magnetic and barometric sensors for indoor tracking purposes. Developed a RESTfull API server running on an Express framework in Node.js to handle HTTP request's methods.",
+            "description_html": "Project - 1Developed Video Synopsis algorithm to summarize the long duration video in short time for surveillance system. Used Mask - RCNN instance segmentation &amp; object classification to extract the object of interest and superimpose on a stationary background.Project - 2Collaborated in the development of an App for Indoor Localization using wifi and Bluetooth beacons technology. Operated with Pedestrian dead reckoning, magnetic and barometric sensors for indoor tracking purposes. Developed a RESTfull API server running on an Express framework in Node.js to handle HTTP request's methods.",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "National University of Singapore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Design Internship",
+            "description": "• Designed a bin for valves of two-wheeler which reduced the rejection rate by 1% and optimized the cost of each bin by 40% • Automated the process of burr removal during steel cap insertion on crankpin which reduced the manpower to 50%",
+            "description_html": "• Designed a bin for valves of two-wheeler which reduced the rejection rate by 1% and optimized the cost of each bin by 40%&nbsp;• Automated the process of burr removal during steel cap insertion on crankpin which reduced the manpower to 50% <!---->",
+            "duration": "Jun 2018 Jul 2018 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "2 months",
+            "company": "Varroc",
+            "company_id": "varroc-global",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree",
+            "field": "Industrial and Systems engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "NTSE Scholarship awardee",
+            "publication": "-",
+            "date": "2013-05-01T00:00:00.000Z",
+            "description": "Awarded National Talent Search Scholarship as per merit through “NTSE” held by N.C.E.R.T New Delhi"
+        }
+    ]
+}

@@ -1,0 +1,377 @@
+{
+    "id": "sugandhimatta",
+    "name": "Sugandhi Matta",
+    "city": "Singapore",
+    "country_code": "SG",
+    "position": "Investing for Impact, Chief Impact Officer - ABC Impact",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "ABC Impact",
+        "company_id": "abcimpact",
+        "title": "Investing for Impact, Chief Impact Officer - ABC Impact"
+    },
+    "experience": [
+        {
+            "title": "ABC Impact",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "5 years 11 months",
+            "positions": [
+                {
+                    "subtitle": "ABC Impact",
+                    "meta": "Sep 2021 - Present 3 years 4 months",
+                    "description": "As Chief Impact Officer, I lead the firm’s approach towards assessing, measuring, consolidating and driving impact outcomes across its portfolio companies, in order to deliver measurable, positive impact alongside compelling financial returns.",
+                    "duration": "Sep 2021 - Present 3 years 4 months",
+                    "start_date": "Sep 2021",
+                    "end_date": "Present",
+                    "duration_short": "3 years 4 months",
+                    "title": "Chief Impact Officer",
+                    "description_html": "As Chief Impact Officer, I lead the firm’s approach towards assessing, measuring, consolidating and driving impact outcomes across its portfolio companies, in order to deliver measurable, positive impact alongside compelling financial returns. <!---->"
+                },
+                {
+                    "subtitle": "ABC Impact",
+                    "meta": "Feb 2019 - Oct 2021 2 years 9 months",
+                    "duration": "Feb 2019 Oct 2021 2 years 9 months",
+                    "start_date": "Feb 2019",
+                    "end_date": "Oct 2021",
+                    "duration_short": "2 years 9 months",
+                    "title": "Managing Director",
+                    "description_html": null
+                }
+            ],
+            "company": "ABC Impact",
+            "company_id": "abcimpact",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Board Member",
+            "location": "Singapore",
+            "description": "Community Elected Governor (Parent-East)Member of the Finance and Infrastructure Committee",
+            "description_html": "Community Elected Governor (Parent-East)Member of the Finance and Infrastructure Committee <!---->",
+            "duration": "Nov 2023 - Present 1 year 2 months",
+            "start_date": "Nov 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 2 months",
+            "company": "UWC South East Asia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member of the Enterprise Board",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "Aug 2020 - Present 4 years 5 months",
+            "start_date": "Aug 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 5 months",
+            "company": "SMU Institute of Innovation & Entrepreneurship",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founding Supporter",
+            "location": "India",
+            "description": "The/Nudge is an action institute building resilient livelihoods to alleviate poverty.They work with social entrepreneurs, women, farmers, tribals, and youth on rural development, agriculture, skilling, and economic inclusion, along with 15 central and state government partners. Set up with support from 90+ eminent philanthropists, 40+ corporates, and 15+ foundations, The/Nudge is contributing towards a \"poverty-free India, within our lifetime\".Website",
+            "description_html": "The/Nudge is an action institute building resilient livelihoods to alleviate poverty.They work with social entrepreneurs, women, farmers, tribals, and youth on rural development, agriculture, skilling, and economic inclusion, along with 15 central and state government partners. Set up with support from 90+ eminent philanthropists, 40+ corporates, and 15+ foundations, The/Nudge is contributing towards a \"poverty-free India, within our lifetime\".Website",
+            "duration": "Sep 2023 - Present 1 year 4 months",
+            "start_date": "Sep 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 4 months",
+            "company": "The/Nudge Institute",
+            "company_id": "the-nudge-institute",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Charter Member",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "Feb 2023 - Present 1 year 11 months",
+            "start_date": "Feb 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 11 months",
+            "company": "TiE Singapore",
+            "company_id": "tie-singapore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Non Executive Board Member",
+            "location": "London, England, United Kingdom",
+            "description_html": null,
+            "duration": "May 2023 - Present 1 year 8 months",
+            "start_date": "May 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 8 months",
+            "company": "Polymateria",
+            "company_id": "polymateria",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Non Executive Board Member",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jan 2022 - Present 3 years",
+            "start_date": "Jan 2022",
+            "end_date": "Present",
+            "duration_short": "3 years",
+            "company": "HCAH India",
+            "company_id": "health-care-at-home-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Non Executive Board Member",
+            "location": "India",
+            "description_html": null,
+            "duration": "Dec 2020 - Present 4 years 1 month",
+            "start_date": "Dec 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 1 month",
+            "company": "CropIn Technology",
+            "company_id": "cropin-technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Board Observer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Nov 2021 - Present 3 years 2 months",
+            "start_date": "Nov 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 2 months",
+            "company": "Vedantu",
+            "company_id": "vedantu",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Director",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "Aug 2014 Apr 2017 2 years 9 months",
+            "start_date": "Aug 2014",
+            "end_date": "Apr 2017",
+            "duration_short": "2 years 9 months",
+            "company": "LeapFrog Investments",
+            "company_id": "leapfroginvestments",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investment Principal",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "Jun 2008 Dec 2013 5 years 7 months",
+            "start_date": "Jun 2008",
+            "end_date": "Dec 2013",
+            "duration_short": "5 years 7 months",
+            "company": "Actis",
+            "company_id": "actis",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Director",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "Jun 2005 May 2008 3 years",
+            "start_date": "Jun 2005",
+            "end_date": "May 2008",
+            "duration_short": "3 years",
+            "company": "Temasek Holdings",
+            "company_id": "temasek-holdings",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Associate",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "Apr 2004 Jun 2004 3 months",
+            "start_date": "Apr 2004",
+            "end_date": "Jun 2004",
+            "duration_short": "3 months",
+            "company": "Citibank NA",
+            "company_id": "citi",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Jack Hennessy",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Gavin Lee",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Donald Chan",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Lana Duong",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Brandon Courban",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Fernanda Lima",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Franck COURMONT",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Jeremy Tan",
+            "about": "Backing brilliant B2B founders 🦓 in Southeast Asia | Co-founder at Tin Men Capital | Linkedin Top Voice",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Aftab Mathur",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Heng Tew Wong",
+            "about": "Advisory Director, Temasek International Advisors",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Honghui Jiang",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Nathaniel Childres",
+            "about": "Partner, Asia at Bamford Capital",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Richard A. Piliero",
+            "about": "Investor | Optimist",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Hock Chuan Tam",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Ek Ming Tay",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Mikael Nastamo",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Richard Lim",
+            "about": "Managing Director at Batavia Estates",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Edmund Yong",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Mark Florance",
+            "about": "Independent/Non-Executive Director, Independent Investment Committee Member, Focus Financial Services, Renewable Energy and Sustainability, Trusts",
+            "location": "Singapore"
+        }
+    ],
+    "educations_details": "Indian Institute of Management, Bangalore",
+    "education": [
+        {
+            "title": "Indian Institute of Management, Bangalore",
+            "degree": "MBA",
+            "url": "",
+            "start_year": "2003",
+            "end_year": "2005",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of St.Gallen",
+            "degree": "MBA",
+            "url": "",
+            "start_year": "2004",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Maharaja Sayajirao University, Baroda",
+            "degree": "Bachelor of Engineering",
+            "start_year": "1998",
+            "end_year": "2002",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4057.0,
+    "connections": 500.0,
+    "current_company_company_id": "abcimpact",
+    "current_company_name": "ABC Impact",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "sugandhimatta",
+    "activity": null,
+    "linkedin_num_id": 11072493.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

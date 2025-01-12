@@ -1,0 +1,379 @@
+{
+    "id": "nikhil-mantri-2bb46914a",
+    "name": "Nikhil Mantri",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Coding and AI | FinBox, Bangalore",
+    "about": "Well I love coding and building software tools and pipelines a lot. I also have experience with Machine and Deep Learning.  My Tech stack includes experience with Node.js, AWS ( EC2, Lambda, Serverless, PostgreSQL), Firebase, Keras, Tensorflow, etc. I also have studied Finance in my Masters so I can understand the world of finance. I would love to work as a Senior Developer one day and lead an end to end product development. Apart from this, I am a football player and a Liverpool fan ! So whenever I find time, you can find me collecting folks to play football !",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "FinBox",
+        "company_id": "finbox-in",
+        "title": "Coding and AI | FinBox, Bangalore"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer - Backend Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Backend Development of APIs and SDKs of the Lending Infrastructure and Journey Building Business at FinBox. Pioneered the Creation of KYC as a MicroService Seperated from FinBox's Lending Middleware. Built it's workflow orchestration engine in a client-specific config driven style. Used Server less Workflows and Temporal.io as Orchestrators.The successful creation of client level config driven KYC micorservice with temporal and serverless workflows, paved the way for lending middleware to adopt the same config driven architecture using both these tools across all our clients. Led the adoption ,migration and subsequent onboarding of newer journies on this architecture, which is quickly configurable, scalable and low-code. Built the first version of multi user and co applicant loan journies' tech stack and shipped the stack to production. Built Multi User KYC for such journies. Involved in building FinBox's lending infrastructure to support private limited multi user journies. Contributed to the lending journies of all major clients at FinBox - Poonawalla Fincorp, IIFL, Tata PL, Muthoot Fincorp, Aditya Birla Finance Limited, etc., from ideation and development to production and scale.",
+            "description_html": "Backend Development of APIs and SDKs of the Lending Infrastructure and Journey Building Business at FinBox. Pioneered the Creation of KYC as a MicroService Seperated from FinBox's Lending Middleware. Built it's workflow orchestration engine in a client-specific config driven style. Used Server less Workflows and Temporal.io as Orchestrators.The successful creation of client level config driven KYC micorservice with temporal and serverless workflows, paved the way for lending middleware to adopt the same config driven architecture using both these tools across all our clients. Led the adoption ,migration and subsequent onboarding of newer journies on this architecture, which is quickly configurable, scalable and low-code. Built the first version of multi user and co applicant loan journies' tech stack and shipped the stack to production. Built Multi User KYC for such journies. Involved in building FinBox's lending infrastructure to support private limited multi user journies. Contributed to the lending journies of all major clients at FinBox - Poonawalla Fincorp, IIFL, Tata PL, Muthoot Fincorp, Aditya Birla Finance Limited, etc., from ideation and development to production and scale.",
+            "duration": "Dec 2022 - Present 2 years 1 month",
+            "start_date": "Dec 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 1 month",
+            "company": "FinBox",
+            "company_id": "finbox-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Credit Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "In-Depth Analysis and Loss Forecasting in the various DPD buckets of the Branded Cards Portfolio of Citibank over the future quarters",
+            "description_html": "In-Depth Analysis and Loss Forecasting in the various DPD buckets of the Branded Cards Portfolio of Citibank over the future quarters <!---->",
+            "duration": "Jul 2022 Dec 2022 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "6 months",
+            "company": "Citi",
+            "company_id": "citi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Lead Backend Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Dec 2021 Jul 2022 8 months",
+            "start_date": "Dec 2021",
+            "end_date": "Jul 2022",
+            "duration_short": "8 months",
+            "company": "NFTicker",
+            "company_id": "nfticker",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision Intern",
+            "location": "Mumbai Area, India",
+            "description": "Developing Face Detection and Recognition systems for embedded systems using convolutional neural networks in real-time speed.",
+            "description_html": "Developing Face Detection and Recognition systems for embedded systems using convolutional neural networks in real-time speed. <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "emotix",
+            "company_id": "mikorobot",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Development Intern",
+            "location": "Serbia",
+            "description": "Lead three teams of Serbian Students in developing three viable startup plans with proper business models that could be sustained in the country.",
+            "description_html": "Lead three teams of Serbian Students in developing three viable startup plans with proper business models that could be sustained in the country. <!---->",
+            "duration": "Nov 2018 Dec 2018 2 months",
+            "start_date": "Nov 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "2 months",
+            "company": "Singidunum University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GES intern",
+            "description_html": null,
+            "duration": "Oct 2017 Apr 2018 7 months",
+            "start_date": "Oct 2017",
+            "end_date": "Apr 2018",
+            "duration_short": "7 months",
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Utkarsh Agarwal",
+            "about": "NLP PhD Student @ MBZUAI | ex-RF @ Microsoft Turing | IITB CSE '22",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sonali Mehta",
+            "about": "Data Scientist, Enterprise Search at Cisco",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Omkar Prabhune",
+            "about": null,
+            "location": "West Lafayette, IN"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohd Hozaifa Khan",
+            "about": "MS by Research (CSE) at IIIT Hyderabad",
+            "location": "Aligarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Lochab",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Tejas Rama",
+            "about": "Data Science,Machine Learning,Data Analytics & Data Engineering. Cosmology Enthusiast",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jitesh Jain",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Anushka Karn",
+            "about": "Data Engineer @ Bounteous X Accolite | Ex - Siemens Energy | Data Engineering | Python | Snowflake ❄ | Data Science Enthusiast 🚀",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddhant Baldota",
+            "about": "Software Engineer at Maxlinear | MS in Computer Science at UC San Diego | PyTorch | Tensorflow | C and C++ | Computer Vision | Python | Software Development | Data Compression",
+            "location": "San Diego, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishtha Tiwari",
+            "about": "Technical Solutions Engineer | Google",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Lakshya Gupta",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aritra Baksi",
+            "about": "Software Engineer at Accenture",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Shetty",
+            "about": "Technology, Innovation and Sports Enthusiast",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sunaina M.",
+            "about": "SWE III @Walmart | Alumni @UofU 🎓| Ex- Shure, UofU 🏢",
+            "location": "Salt Lake City, UT"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarthak Mittal",
+            "about": "Robotics @ Polybee",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Samyak Jain",
+            "about": "Software developer at NAV | React | JavaScript | Programmer | C++",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajat Sadh",
+            "about": "Leading Innovation, Gen AI Innovation & Prototyping Center @ TechM | GLC'23 | IIM Indore' 23",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubh Saxena",
+            "about": "Engineering (NodeJS + GoLang) @ Brevo || Ex Lead Engineer @ DLT Labs || Ex CV Intern @ IIT Patna",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Raghav Bansal",
+            "about": null,
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Chenna Jahnavi",
+            "about": "Devops Engineer 2 at Ericsson global | IIT DHANBAD ‘21 | software developer | JAVA | PYTHON | Springboot",
+            "location": "Visakhapatnam"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Aerospace, Aeronautical and Astronautical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2019Credential ID RMMSTY43543XSee credential",
+            "subtitle": "National Research University — Higher School of Economics",
+            "title": "Algorithms on Graphs"
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID X3YPKW8EG4QMSee credential",
+            "subtitle": "National Research University — Higher School of Economics",
+            "title": "Algorithms on Strings"
+        },
+        {
+            "meta": "Issued Oct 2019See credential",
+            "subtitle": "UC San Diego",
+            "title": "Data Structures"
+        },
+        {
+            "meta": "Issued Sep 2019Credential ID 2K4W47DPMZ6USee credential",
+            "subtitle": "UC San Diego",
+            "title": "Algorithmic Toolbox"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID EQ3JJ7WZJD8LSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization Coursera"
+        },
+        {
+            "meta": "Issued Jan 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z: Hands on Python and R in Data Science"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2136.0,
+    "connections": 500.0,
+    "current_company_company_id": "finbox-in",
+    "current_company_name": "FinBox",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"SilverCity Multispeciality Hospital Android App\",\"start_date\":\"Apr 2020\",\"end_date\":\"Present\",\"description\":\"Why do patients have to stand in queues to get appointments with their doctors even in this time of pandemic? Why do they have to look after their previous medical records and carry files every time they visit a doctor. With this thought in mind, I started a personal project to make an app to enable patients to take appointments with doctors from home, and enable doctors to directly add the prescriptions and notes for the patient to our cloud which can be viewed by the patient and edited by the doctor. Since this uses Firebase database, all a patient needs is an android device to sign in and he can view his records and take appointments from anywhere, not to mention how much this will help in social distancing.I and my friend Mohit Bohra came up with this app for a multi-speciality hospital in my hometown and I am happy to announce that soon they will be distributing this app to the locals and releasing it on PlayStore.Here is the source code on my github handle. Feel free to reuse it and submit PRs!\"},{\"title\":\"FlyingDestroyer\",\"start_date\":\"Mar 2020\",\"end_date\":\"May 2020\",\"description\":\"This is my first Android game! You have to save your plane from hitting the creatures who want to destroy you! Save yourselves from the dinosaurs,the fire breathing dragons, zombies and the angry birds!!! Tap on the left of the screen to move your plane up. Tap on the right to fire bullets! Keep practicing and breaking your highscores!!! Hope you enjoy it!\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "nikhil-mantri-2bb46914a",
+    "activity": [
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "Epic office Christmas party wrapped up 🎄🎅 Secret Santa surprises, a hilarious standup comedy show, and some seriously amazing food made it…",
+            "img": "",
+            "id": "7278024281454792704"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "🎓 Thrilled to Announce: MSc in Renewable Energy and Clean Technology Completed! 🌍⚡ I am beyond excited to share that I have officially graduated…",
+            "img": "",
+            "id": "7274418404134907906"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "Lately, I experienced something that changed me forever. My grandfather passed away right in front of my eyes. As I held him in my arms, watching…",
+            "img": "",
+            "id": "7276494785106923521"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "We recently wrapped up a successful hiring drive at IIIT Hyderabad, and we are excited to announce that we have selected five exceptionally talented…",
+            "img": "",
+            "id": "7274366492954017792"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "2024 was all about thinking deeply and building something resilient enough to handle 15x the scale it has now, all while making it totally cloud…",
+            "img": "",
+            "id": "7273798431037431808"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "I am a big fan of non-traditional career paths. Whenever I see my friends diving into side hustles—whether it’s poker, trading, or launching small…",
+            "img": "",
+            "id": "7271785553799315456"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "I was feeling dizzy and about to vomit 3-4 times today. Still I continued. When I started strength training, I soon realized that Leg days were…",
+            "img": "",
+            "id": "3"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "Don’t Sell Your Youth to Buy Your Old Age \"I will sacrifice now to enjoy life later.\" I have heard many smart people say this. But later isn’t…",
+            "img": "",
+            "id": "7271380694600159233"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "Recently, FinBox organized a hiring drive at IIT Kharagpur, where we met and selected extremely talented candidates who are set to join our mission…",
+            "img": "",
+            "id": "7270684296107945984"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "Last week marked the end of my tenure at FinBox. I've made a few of my best memories here in the last 2.5 years and it still feels like I joined just…",
+            "img": "",
+            "id": "7248959191329955840"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "🚨 #ClientStory A 17% increase in approval rates, a massive drop in frauds! When it comes to bank statement analysis and Account Aggregation…",
+            "img": "",
+            "id": "7244966600259330048"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "Why are we Indians always in competition mode? Growing up in India, we’re taught to be competitive from a young age. Maybe it’s because of our…",
+            "img": "",
+            "id": "7244560004165328897"
+        },
+        {
+            "interaction": "Liked by Nikhil Mantri",
+            "link": "",
+            "title": "Cpt #AnshumanSingh was awarded #KirtiChakra (posthumous). It was an emotional moment for his wife & Veer Nari Smt Smriti who accepted the award from…",
+            "img": "",
+            "id": "7215246035164573697"
+        }
+    ],
+    "linkedin_num_id": 604304495.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

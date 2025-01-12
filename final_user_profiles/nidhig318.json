@@ -1,0 +1,66 @@
+{
+    "city": "Las Vegas, Nevada, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of Michigan - Stephen M. Ross School of Business",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2008-07",
+            "end_year": "2013-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2008-07",
+            "end_year": "2013-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Skillz Inc.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Best Initiative Team",
+            "publication": "Plant Manager",
+            "date": "2014-03-01T00:00:00.000Z",
+            "description": "For leading the project team, closing out the project on live production lines without loss of production and delivering cost savings of US $150000"
+        },
+        {
+            "title": "P&G Power of Agility",
+            "publication": "Section Head",
+            "date": "2013-10-01T00:00:00.000Z",
+            "description": "For assisting in accelerating the project start-up of another business unit in P&G"
+        },
+        {
+            "title": "P&G Power of You",
+            "publication": "Section Head",
+            "date": "2013-10-01T00:00:00.000Z",
+            "description": "For leading and executing the upgradation of machines affecting 15% increase in Process Reliability"
+        }
+    ]
+}

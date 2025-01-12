@@ -1,0 +1,93 @@
+{
+    "city": "Kharagpur, West Bengal, India",
+    "position": "Engineer III @ American Express | IIT Kharagpur' 2023",
+    "experience": [
+        {
+            "title": "Engineer III",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Modelling and Analysis of Automotive Lightening System",
+            "location": "Pune, Maharashtra, India",
+            "description": "• Created a 3D Mathematical model of Total Internal Reflection Lens in MATLAB to be used by Lightblades in car's tail lights• Surface sag and Scatter plots of all the aspheric surfaces were compared to decide the best suited outer structure for TIR lens• Developed Illuminance Uniformity Algorithm to optimize the parameters of TIR Lens for collimating light• Harnessed 80% Uniformity using Gaussian Curve Fitting technique and obtained desired Spread Control after optimization",
+            "description_html": "• Created a 3D Mathematical model of Total Internal Reflection Lens in MATLAB to be used by Lightblades in car's tail lights• Surface sag and Scatter plots of all the aspheric surfaces were compared to decide the best suited outer structure for TIR lens• Developed Illuminance Uniformity Algorithm to optimize the parameters of TIR Lens for collimating light• Harnessed 80% Uniformity using Gaussian Curve Fitting technique and obtained desired Spread Control after optimization <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "KPIT",
+            "company_id": "kpit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Mexico",
+            "description": "• Worked on ideas associated with Energy Harvesting from Automotive Vehicles• Formulated an efficient solution and innovated new methodologies and techniques in a cost-effective manner",
+            "description_html": "• Worked on ideas associated with Energy Harvesting from Automotive Vehicles• Formulated an efficient solution and innovated new methodologies and techniques in a cost-effective manner <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Tecnológico de Monterrey",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Development Intern",
+            "location": "Kanpur, Uttar Pradesh, India",
+            "description": "• Developed the Admin dashboard frontend using React.js to perform administrative tasks and effectively manage user activities• Created a Django web app to automate media posting on Facebook using the Graph API which increased the reach by 115%• Implemented the method of task queues using Celery and Redis to schedule automated mails to the applicants in the background• Scrapped user information of over 70k applicants from Facebook groups and pages using Selenium Webdriver in Python",
+            "description_html": "• Developed the Admin dashboard frontend using React.js to perform administrative tasks and effectively manage user activities• Created a Django web app to automate media posting on Facebook using the Graph API which increased the reach by 115%• Implemented the method of task queues using Celery and Redis to schedule automated mails to the applicants in the background• Scrapped user information of over 70k applicants from Facebook groups and pages using Selenium Webdriver in Python <!---->",
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "EDBY - AI Powered Companion for Learning",
+            "company_id": "edbylearning",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "• Entrusted with the responsibility of increasing the global outreach of IIT Kharagpur in coordination with OIR• Garnered 103 Foreign Training offers with projects from leading universities like Stanford, Yale, and many more• Organized the online On Campus round of Hult Prize 2020 with a participation of 40 teams (33% YoY increase)",
+            "description_html": "• Entrusted with the responsibility of increasing the global outreach of IIT Kharagpur in coordination with OIR• Garnered 103 Foreign Training offers with projects from leading universities like Stanford, Yale, and many more• Organized the online On Campus round of Hult Prize 2020 with a participation of 40 teams (33% YoY increase) <!---->",
+            "duration": "Sep 2020 May 2021 9 months",
+            "start_date": "Sep 2020",
+            "end_date": "May 2021",
+            "duration_short": "9 months",
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Ocean Engineering and Naval Architecture",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "MICRO SPECIALIZATION: Artificial Intelligence and Applications",
+            "description_html": "MICRO SPECIALIZATION: Artificial Intelligence and Applications <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,435 @@
+{
+    "id": "atharva-nigoskar",
+    "name": "Atharva Nigoskar",
+    "city": "Madhya Pradesh, India",
+    "country_code": "IN",
+    "position": "IIT KGP 24 • Ex-Intern @Upstox, PwC, FundsTiger, OneHash.ai • In love with the stories that numbers can tell",
+    "about": "A final-year undergraduate student from IIT Kharagpur with a keen interest in data analytics and business strategy. I enjoy solving problems involving logical thinking and applied statistics. I love playing with numbers, especially questions involving combinatorics. Apart from data science and analytics, I'm also interested in machine learning and its applications in real-world scenarios like sentiment analysis and fraud detection.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Upstox",
+        "company_id": "upstox",
+        "title": "IIT KGP 24 • Ex-Intern @Upstox, PwC, FundsTiger, OneHash.ai • In love with the stories that numbers can tell"
+    },
+    "experience": [
+        {
+            "title": "Product Management Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Spearheaded product feature enhancements for the company’s insurance initiatives through data-driven research and strategic execution. Led the product development of Term & Motor Claims by defining key requirements, wireframing, and collaborating cross-functionally with stakeholders. Leveraged tools like MixPanel and Looker Studio to analyze trends, conversion rates, and user demographics, driving product improvements. Partnered with Design & Engineering teams to reduce API errors by 17% by addressing null-returning API issues, resulting in a smoother product experience.",
+            "description_html": "Spearheaded product feature enhancements for the company’s insurance initiatives through data-driven research and strategic execution. Led the product development of Term &amp; Motor Claims by defining key requirements, wireframing, and collaborating cross-functionally with stakeholders. Leveraged tools like MixPanel and Looker Studio to analyze trends, conversion rates, and user demographics, driving product improvements. Partnered with Design &amp; Engineering teams to reduce API errors by 17% by addressing null-returning API issues, resulting in a smoother product experience.",
+            "duration": "May 2024 Aug 2024 4 months",
+            "start_date": "May 2024",
+            "end_date": "Aug 2024",
+            "duration_short": "4 months",
+            "company": "Upstox",
+            "company_id": "upstox",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer Internship",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "Developed and modified products for a business solutions company using pre-built open-source software as the underlying structures • Led the SaaS transformation of ChatWoot, reducing ticket resolution time for agents by 15%, focusing on UI enhancement and feature addition • Executed new feature integration using Vue.js and ruby on rails, while diligently identifying and debugging issues to bolster platform reliability",
+            "description_html": "Developed and modified products for a business solutions company using pre-built open-source software as the underlying structures • Led the SaaS transformation of ChatWoot, reducing ticket resolution time for agents by 15%, focusing on UI enhancement and feature addition • Executed new feature integration using Vue.js and ruby on rails, while diligently identifying and debugging issues to bolster platform reliability <!---->",
+            "duration": "Nov 2023 Dec 2023 2 months",
+            "start_date": "Nov 2023",
+            "end_date": "Dec 2023",
+            "duration_short": "2 months",
+            "company": "OneHash",
+            "company_id": "onehash",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tech Advisory Trainee",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Comparing Digital Competitiveness among major Private Sector Banks in India based on various metrics like CASA openings on digital platforms, capital adequacy ratios, AUM etc.",
+            "description_html": "Comparing Digital Competitiveness among major Private Sector Banks in India based on various metrics like CASA openings on digital platforms, capital adequacy ratios, AUM etc. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "PwC India",
+            "company_id": "pwc-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary",
+            "location": "Indian Institute of Technology Kharagpur",
+            "description_html": null,
+            "duration": "Sep 2021 Apr 2022 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "8 months",
+            "company": "Rajendra Prasad Hall of Residence",
+            "company_id": "rajendra-prasad-hall-of-residence",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Financial Services Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Performed Market and Competitor Analysis to assist an NBFC in building financial wellness products with the aim of increasing market share",
+            "description_html": "Performed Market and Competitor Analysis to assist an NBFC in building financial wellness products with the aim of increasing market share <!---->",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "FundsTiger Private Limited - Business Loans and Personal Funding for ALL!",
+            "company_id": "fundstiger-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Equity Research Experience Project",
+            "location": "Remote",
+            "description": "Created financial statements of a virtual company from its financial reports & measured its performance using financial metrics & ratios, predicting the movement of its future stock prices and financials using DCF valuation and relative valuation models.",
+            "description_html": "Created financial statements of a virtual company from its financial reports &amp; measured its performance using financial metrics &amp; ratios, predicting the movement of its future stock prices and financials using DCF valuation and relative valuation models. <!---->",
+            "duration": "Jun 2021 Jun 2021 1 month",
+            "start_date": "Jun 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "1 month",
+            "company": "Quollab",
+            "company_id": "thequollab",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Development Intern",
+            "location": "India",
+            "description": "Client-facing role involving increasing the number of clients and connecting with managers to conduct post-engagement surveys and analysis",
+            "description_html": "Client-facing role involving increasing the number of clients and connecting with managers to conduct post-engagement surveys and analysis <!---->",
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "PreppyPick™",
+            "company_id": "preppypick",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Manager",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Jul 2020 Oct 2020 4 months",
+            "start_date": "Jul 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "4 months",
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shashank Prakash",
+            "about": "Director at Pay way construction and developers Private limited",
+            "location": "Pratapgarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilanshu Dutta",
+            "about": "Software Analyst at Capgemini",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Teja Sunkari",
+            "about": "Babson MBA candidate",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Aathreya Hebbar B R",
+            "about": "Deputy Manager specializing in home loan mortgage underwriting with 3 years experience at Kotak Mahindra Bank",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Megha Agarwal",
+            "about": "5x Certified Senior Consultant at Oracle NetSuite | Consulting Project Manager | MBA",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Tejaswa Kittad",
+            "about": "Data & Analytics | Ex-Deloitte | MBA | Engineer | Business Intelligence | Web Analytics | SQL | Power BI | Tableau | Meditation Advocate | CSM®",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Meghna Tiwari",
+            "about": "Digital Marketing l Email Marketing l Marketing Automation l CRM l SaaS | HubSpot | Pardot l Zoho Campaigns l Lead Generation l Lead Nurturing",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Tarun Chachra",
+            "about": "Digital Project Manager at Axis Max Life Insurance | Ex-Management Consulting",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sakshi Awasthi",
+            "about": "Finance Associate at Publicis Sapient",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mihir Kochar, AIA C.Act",
+            "about": "Associate Chartered Actuary || Analyst at SunLife Financials",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Radhika Garodia",
+            "about": "Manufacturer of Soyabean chunks/bari",
+            "location": "Ranchi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjana Mulchandani",
+            "about": "Ghoom-Lee",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Keval Gala",
+            "about": "Operations Management/Client Relationship Management/Digital Marketing/Data and Business Analysis/Team Management",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Jigar Raichada🚀",
+            "about": "Founder's Office | Growth & Strategy @ Ambill.ai | Go-to-Market Strategy | B2B SaaS | Cohort 2 @HiveSchool",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshini K.",
+            "about": "Product at ZoomRx",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Murtuza Chitalwala",
+            "about": "Luxury Brand Strategiest | B2B | B2C | Client Relations | Profound Experience in E-Commerce | Lead Generation & Social Media | Offline exhibitions and in house events | Performance Marketing",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Prajwal Pitlehra",
+            "about": "Financial Analyst - Office of the CEO at SageSure | NYU Financial Engineering | Ex-ZS",
+            "location": "Brooklyn, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Saiparesh Walawalkar",
+            "about": "--",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Bharti Vishwakarma",
+            "about": "Research Executive- Consumer Insight at IPSOS, Ex-SBIGian",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Yadav",
+            "about": "Deputy Manager at Aditya Birla Capital",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical and Electronics Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kalpvriksha Institute",
+            "degree": "JEE Mains/Advanced preparation",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "The Bhavans' Prominent Inernational",
+            "start_year": "2010",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Marathi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021Credential ID LUP2Y6GE7G5MSee credential",
+            "subtitle": "Coursera",
+            "title": "Foundational Finance for Strategic Decision Making Specialization"
+        },
+        {
+            "meta": "Issued Feb 2021Credential ID 161033685597See credential",
+            "subtitle": "Bloomberg LP",
+            "title": "certificate of completion - BMC"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID UC-215232cf-a9f9-4df5-9a81af337101b89bSee credential",
+            "subtitle": "Udemy: Online Courses",
+            "title": "Foundation stock trading course"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Civil Rights and Social Action",
+            "duration": "Jul 2019 - Present · 5 years 6 months",
+            "duration_short": "5 years 6 months",
+            "end_date": "Present",
+            "info": "Have been awarded NCC level B certificate for showing active participation in various activities conducted by 1 Bengal EME Squadron, IIT Kharagpur. • Drafted into Combined Annual Training Camp 2019 (CATC 2019) conducted in December 2019.• Took initiative in social work involving uplifting the surroundings of a school and teaching kids.• Took part in one plantation drive, a community development program in villages.• Trained in aiming and firing .22 shooting rifle and a…\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          Have been awarded NCC level B certificate for showing active participation in various activities conducted by 1 Bengal EME Squadron, IIT Kharagpur. • Drafted into Combined Annual Training Camp 2019 (CATC 2019) conducted in December 2019.• Took initiative in social work involving uplifting the surroundings of a school and teaching kids.• Took part in one plantation drive, a community development program in villages.• Trained in aiming and firing .22 shooting rifle and a double-barrel shotgun.\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Jul 2019",
+            "subtitle": "National Cadet Corps",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 2328.0,
+    "connections": 500.0,
+    "current_company_company_id": "upstox",
+    "current_company_name": "Upstox",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Madhya Pradesh",
+    "linkedin_id": "atharva-nigoskar",
+    "activity": [
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "50 Master's scholarships for 2024-2025 (by deadline) 1. DAAD scholarships, Germany - Sep-Oct 2024 2. Rhodes scholarships, UK - Oct 2024 3…",
+            "img": "",
+            "id": "7252166530346426368"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "Business Analyst Job post for this week!!! 1) Business Analyst, (2-4 Yrs) - Location: Mohali; BRD, Wireframing, SDLC, Business Analysis DM: Rahul…",
+            "img": "",
+            "id": "7114836830683889664"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "Forget LinkedIn ... Here are top 10 Website to apply for remote Jobs and earn in 💲💲 Tired of the same old job search platforms? Ready to explore…",
+            "img": "",
+            "id": "7183648222802837504"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "Layoffs are still going on and many people are losing their jobs. I have curated a list of 50 companies that are hiring currently with their career…",
+            "img": "",
+            "id": "7182957837017370624"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "🚀 Exciting Opportunity Alert! 🚀 Join us at Zelta Labs and dive into the dynamic world of blockchain and crypto! 💼✨ Check out our open…",
+            "img": "",
+            "id": "7176516705802760193"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "💡Hiring Alert 💡 Company : Searce Inc Role : Analyst - Business Finance Apply link :  Company : Amazon Role : System…",
+            "img": "",
+            "id": "7180233030714769409"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "Job Opening for Data Analyst (Remote) Must have skills: Data analysis and visualization. SQL, Power BI, and Excel (Any Data Visualisation…",
+            "img": "",
+            "id": "7177939549384314880"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "2024 is going you deserve a new job with a higher salary A list of 30 websites to find remote jobs easily: 1. PowerToFly (powertofly.com) 2. Remote…",
+            "img": "",
+            "id": "7175332591812681728"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "Companies List that are HIRING for 100% REMOTE. 1. Quest Software -  2. Upstart -  3…",
+            "img": "",
+            "id": "7174748644292653058"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "🚀 Exciting Opportunity in Tech! 🌐💼 Hello Everyone, Company: FICO Role: Software Engineering, Engineer I Experience: 0+ Years Apply Now:…",
+            "img": "",
+            "id": "7170636649519833088"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "Companies List that are HIRING for 100% REMOTE. 1. Quest Software -  2. Upstart -  3…",
+            "img": "",
+            "id": "100"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "Companies List that are HIRING for 100% REMOTE. Follow me for daily job updates ! Created a channel to post jobs daily, if interested link is in…",
+            "img": "",
+            "id": "7148164826718945281"
+        },
+        {
+            "interaction": "Liked by Atharva Nigoskar",
+            "link": "",
+            "title": "The only list you will need to prepare for Quantitative Research/Analyst interviews related to Options and Derivatives roles. Options Pricing: 1.…",
+            "img": "",
+            "id": "7145395485527191552"
+        }
+    ],
+    "linkedin_num_id": 829986322.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

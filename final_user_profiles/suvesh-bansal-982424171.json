@@ -1,0 +1,117 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Associate Software Engineer",
+    "experience": [
+        {
+            "title": "Associate Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Carelon Global Solutions India",
+            "company_id": "carelon-global-solutions-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mentor",
+            "location": "Nagpur, Maharashtra, India",
+            "description": "Mentoring students throughout their journey of Learning Data Structures and Algorithms to aid their preparation for Tech Interviews",
+            "description_html": "Mentoring students throughout their journey of Learning Data Structures and Algorithms to aid their preparation for Tech Interviews <!---->",
+            "duration": "Sep 2022 Dec 2022 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "4 months",
+            "company": "AlgoZenith",
+            "company_id": "algozenith",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Explored the different types of  synthetic data generation techniques for healthcare fraud • Performed exploratory data analysis, feature engineering, and SMOTE to deal with imbalance in the training dataset• Applied GANs, Gretel Synthesis, and Synthetic Data Vault libraries to improve F1-Score using Synthetic Data",
+            "description_html": "• Explored the different types of synthetic data generation techniques for healthcare fraud • Performed exploratory data analysis, feature engineering, and SMOTE to deal with imbalance in the training dataset• Applied GANs, Gretel Synthesis, and Synthetic Data Vault libraries to improve F1-Score using Synthetic Data <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Legato Health Technologies",
+            "company_id": "carelonglobalsolutions",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision Software Development Intern",
+            "description": "• Worked on developing various modules for automatically detecting and segmenting microscopic particles.• Developed a code for the detection of metallic grains and calculation of properties of grains like size and area• Develop a code for the dust correction in microscopic using the threshold and inpaint function of OpenCV",
+            "description_html": "• Worked on developing various modules for automatically detecting and segmenting microscopic particles.• Developed a code for the detection of metallic grains and calculation of properties of grains like size and area• Develop a code for the dust correction in microscopic using the threshold and inpaint function of OpenCV <!---->",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Dewinter Optical Inc.",
+            "company_id": "dewinter-optical-inc-",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Affiliate",
+            "description": "•Worked under the Dean of International Relations for positioning and branding of IIT Kharagpur as a Global leader in science and technology.•Played a Pivotal role in organizing the 69th Foundation day of IIT Kharagpur, managing 100+ students from 15 different schools.•Worked on the UG Achiever Directory 2018-2019 which showcases the achievements of IIT KGP students in the field of sports, arts, and academia.•Facilitate communication with 300+ schools of Karnataka for Young Innovators Program (All India Level Innovation Competition)",
+            "description_html": "•Worked under the Dean of International Relations for positioning and branding of IIT Kharagpur as a Global leader in science and technology.•Played a Pivotal role in organizing the 69th Foundation day of IIT Kharagpur, managing 100+ students from 15 different schools.•Worked on the UG Achiever Directory 2018-2019 which showcases the achievements of IIT KGP students in the field of sports, arts, and academia.•Facilitate communication with 300+ schools of Karnataka for Young Innovators Program (All India Level Innovation Competition)",
+            "duration": "Mar 2019 Feb 2020 1 year",
+            "start_date": "Mar 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "1 year",
+            "company": "Branding and Relations Cell IIT Kharagpur",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.tech + M.tech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2021",
+            "subtitle": "DeepLearning.AI",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Feb 2021",
+            "subtitle": "DeepLearning.AI",
+            "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Feb 2021",
+            "subtitle": "DeepLearning.AI",
+            "title": "Structuring Machine Learning Projects "
+        },
+        {
+            "meta": "Issued Nov 2020",
+            "subtitle": "DeepLearning.AI",
+            "title": "Neural networks and deep learning "
+        },
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z WIth Python and R"
+        }
+    ],
+    "current_company_name": "Carelon Global Solutions India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,58 @@
+{
+    "city": "Berlin, Berlin, Germany",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020",
+            "subtitle": "OWASP Foundation",
+            "title": "Certified Cyber Security Examiner"
+        },
+        {
+            "meta": "Issued May 2017",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Apr 2016Credential ID DIJ16May20160200PS-2049",
+            "subtitle": "MindScripts Technology",
+            "title": "JAVA"
+        }
+    ],
+    "current_company_name": "bryo",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Technical Analysis based trade recommendations on Indian Markets\",\"start_date\":\"Oct 2020\",\"end_date\":\"Present\",\"description\":\"Tech Stack:- Python, Flask, SQLite, HTML, CSSCreated a system to automate technical analysis on Indian stocks. Some of the things that it did are:-1. It recognized major candlestick patterns and computed values for Indicators(RSI, MACD, Bollinger Bands). 2. The system calculated support and resistance using 2 points sorted search on pivot points. 3. The system analyzed past stock data to find levels of excess supply and demand in the market thus giving a fairly accurate prediction based on both market dynamics and Technical analysis. 4. It also automatically estimated the prior trends in stocks and thus gave strong reversal signals. Based on all these factors, it scored the stocks, calculated stop loss and target, and recommended trades with the most optimal stop loss and target values keeping the Reward/Risk ratio in perspective.The application was hosted on the cloud with an apache webserver. The System had user logins to track the application usage as well as to fetch portfolio information for each user.\"},{\"title\":\"Trading Strategies and Automation\",\"start_date\":\"Oct 2020\",\"end_date\":\"Present\",\"description\":\"Tech Stack:- Python, Flask, PostgreSQL, Celery, RedisCreated an Application to take trades in NSE(National Stock Exchange) based on a few strategies and predefined entry and exit conditions. The first part of the project focused on backtesting strategies to come up with the most optimal parameters when evaluating strategies on factors like Annual Returns, Sharpe, Maximum drawdowns, Win/Loss ration, Margin Requirement etc. The Backtesting was performed on the last 5 years of market Intraday data. Some of the Strategies were:-1. Theta Decay on Index Weekly Options:- Creating a hedged position by simultaneously selling call and put options to capture theta decay on options2. Pair Trading:- Computes sector-wise co-integrated pairs by running a regression on pairs and ADF test on the obtained residuals. The P-value threshold was 0.05. It then tracks co-integrated pairs and generate hedged signals when their residuals diverged by 2.5 SD3. Calendar Spreads:- Tracked current and near month futures contracts to create signals when the difference diverged 2 SD from the historical meanThe second part focused on creating an Automation system that would take trades based on the above strategies, track real-time Profit/loss and exit positions at appropriate times.The System used Zerodha APIs to communicate with the broker systems. Websockets were used to fetch real-time ticker data for derivatives and stocksCelery was used as a queue manager and Redis as a messenger broker to push the real-time data to a PostgreSQL databaseTo get real-time updates about the system, logging was set up and logs were displayed on the browser using event-stream. The logs also flowed into an ELK stack for creating better visvalizations.\"},{\"title\":\"BodhiTree EvalPro Development(R&D)\",\"start_date\":\"Jul 2018\",\"end_date\":\"Dec 2018\",\"description\":\"Worked on tracking user activity, logging all the user actions, and assigning specific privileges subjected to user hierarchy using Django, Redis, and PostgreSQL backend.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Phoenix Data Award",
+            "publication": "Capital One",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "Received Pheonix Data Award at Capital One which is an org-wide award for major breakthrough in solving data challenges"
+        },
+        {
+            "title": "Inspire scholarship",
+            "publication": "-",
+            "date": null,
+            "description": "Given to top 1% students of respective boards for higher secondary education examination."
+        },
+        {
+            "title": "KVPY Fellowship",
+            "publication": "kvpy",
+            "date": null,
+            "description": null
+        }
+    ]
+}

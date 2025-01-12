@@ -1,0 +1,109 @@
+{
+    "city": "West Bengal, India",
+    "position": "Business Architecture Senior Analyst @ Accenture Japan | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Accenture Japan",
+            "location": "Tokyo, Japan",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Accenture Japan",
+                    "meta": "Jun 2023 - Present 1 year 7 months",
+                    "duration": "Jun 2023 - Present 1 year 7 months",
+                    "start_date": "Jun 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 7 months",
+                    "title": "Business Architecture Senior Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Accenture Japan",
+                    "meta": "Mar 2022 - Jun 2023 1 year 4 months",
+                    "duration": "Mar 2022 Jun 2023 1 year 4 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "1 year 4 months",
+                    "title": "Business Architecture Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Accenture Japan",
+            "company_id": "accenture-japan",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Title: Prediction of EPS for different firms* Worked on developing a time series model for predicting a firm’s future Earning per Share(EPS) for over 5000 US-based companies by working on macroeconomic data spanning over 35 years.* Implemented Random Forest Regressor, RNN and ARIMA on this data and the model performed better than 33.8% of Equity Analysts.* Implemented these models on a Transition window basis which increased the percentage of Equity analysts beaten to 34.9%.* Worked on algorithmic trading models for the Indian equity market by replicating research papers like Mohanram’s G-Score and Complicated Firms.",
+            "description_html": "Title: Prediction of EPS for different firms* Worked on developing a time series model for predicting a firm’s future Earning per Share(EPS) for over 5000 US-based companies by working on macroeconomic data spanning over 35 years.* Implemented Random Forest Regressor, RNN and ARIMA on this data and the model performed better than 33.8% of Equity Analysts.* Implemented these models on a Transition window basis which increased the percentage of Equity analysts beaten to 34.9%.* Worked on algorithmic trading models for the Indian equity market by replicating research papers like Mohanram’s G-Score and Complicated Firms.",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Kyoto, Japan",
+            "description": "Title: Open-Domain Question Answering* Worked on developing a Question-Answering model using Wikipedia as the unique knowledge source.* Used Neural Ranking model to retrieve Top 100 documents based on the query and document similarity scores from Wikipedia dump.* Trained BERT on SQuAD (Question-Answering dataset) as the Reader Model which improved the accuracy by 4% over the DrQA model.* Generated more Negative Samples(Questions with no answers) by using the SQuAD 2.0 dataset and then trained the Reader Model and improved the accuracy of the model by 2.9%.",
+            "description_html": "Title: Open-Domain Question Answering* Worked on developing a Question-Answering model using Wikipedia as the unique knowledge source.* Used Neural Ranking model to retrieve Top 100 documents based on the query and document similarity scores from Wikipedia dump.* Trained BERT on SQuAD (Question-Answering dataset) as the Reader Model which improved the accuracy by 4% over the DrQA model.* Generated more Negative Samples(Questions with no answers) by using the SQuAD 2.0 dataset and then trained the Reader Model and improved the accuracy of the model by 2.9%.",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Kyoto University",
+            "company_id": "kyoto-university",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Intern",
+            "location": "Kharagpur Area, India",
+            "description": "Title: Using social media for classifying actionable insights in a disaster scenario.* Classifying microblogging in twitter into categories of Need Tweets and Availability Tweets during the Nepal Earthquake disaster.* Built a TF-IDF based model using NLTK and Lucene for classification and achieved an accuracy of 86%.* Built a model using LSTM and achieved an accuracy of 92%.",
+            "description_html": "Title: Using social media for classifying actionable insights in a disaster scenario.* Classifying microblogging in twitter into categories of Need Tweets and Availability Tweets during the Nepal Earthquake disaster.* Built a TF-IDF based model using NLTK and Lucene for classification and achieved an accuracy of 86%.* Built a model using LSTM and achieved an accuracy of 92%. <!---->",
+            "duration": "May 2018 Sep 2018 5 months",
+            "start_date": "May 2018",
+            "end_date": "Sep 2018",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sports Secretary",
+            "description": "Under my secretaryship B.R. Ambedkar Hall participated in various Sports event in General Championship and secured a Gold Medal in Inter Hall Football for the first time since it’s inauguration and achieved praiseworthy results in Cricket and Badminton.",
+            "description_html": "Under my secretaryship B.R. Ambedkar Hall participated in various Sports event in General Championship and secured a Gold Medal in Inter Hall Football for the first time since it’s inauguration and achieved praiseworthy results in Cricket and Badminton. <!---->",
+            "duration": "Jul 2017 Jun 2018 1 year",
+            "start_date": "Jul 2017",
+            "end_date": "Jun 2018",
+            "duration_short": "1 year",
+            "company": "B. R. Ambedkar Hall of Residence, IIT Kharagpur",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Accenture Japan",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Natural Language Processing and Complex Networks\",\"start_date\":\"Jun 2018\",\"end_date\":\"Present\",\"description\":\"* Professor- Pawan Goyal* Determining hypernym-hyponym relations among word pairs embedded in a network.* Finding Manual feature vectors in a word pair to determine the more general word like:- Average Degree of Context- Number of neighbors of context- Context of specific word should be a subset of the general word- Degree Entropy Of the Network* Using different Classifiers to get the best results\"},{},{},{\"title\":\"Natural Language Processing and Information Retrieval\",\"start_date\":\"May 2018\",\"end_date\":\"Sep 2018\",\"description\":\"Prof- Pabitra Mitra* Using social media for classifying actionable insights in disaster scenario.* Classifying micro blogging in twitter into categories of needs and availability tweets using NLTK and Lucene.* Use of SVM, MNB and Naive Bayes algorithm to further improve the classification task.\"},{}]",
+    "honors_and_awards": null
+}

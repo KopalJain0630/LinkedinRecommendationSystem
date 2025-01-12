@@ -1,0 +1,149 @@
+{
+    "city": "Jodhpur, Rajasthan, India",
+    "position": "IIT Kharagpur'22 | Aspire | Gokwik | Fashinza | CityMall | Apna",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Aspire",
+            "company_id": "aspireapp-global",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "description": "1) Implemented seamless dump mechanism of raw analytics data from Redshiftwarehouse to Postgres DB using lambda function and BLOB storage.2)Streamlined deployment and slashed costs by merging two separate dashboardservices into one codebase, eliminating complexity and bottlenecks.3) Implemented a Report Generation Service capable of extracting transactionaldata from specific modules, enabling scheduled triggering at fixed intervals.4) Innovated scalable discount service overcoming Shopify’s coupon generationlimits, enabling seamless discount management for enhanced sales strategies.5) Automated onboarding workflow for the new merchant that includes apayment gateway, subscription, eKYC, and installing required apps",
+            "description_html": "1) Implemented seamless dump mechanism of raw analytics data from Redshiftwarehouse to Postgres DB using lambda function and BLOB storage.2)Streamlined deployment and slashed costs by merging two separate dashboardservices into one codebase, eliminating complexity and bottlenecks.3) Implemented a Report Generation Service capable of extracting transactionaldata from specific modules, enabling scheduled triggering at fixed intervals.4) Innovated scalable discount service overcoming Shopify’s coupon generationlimits, enabling seamless discount management for enhanced sales strategies.5) Automated onboarding workflow for the new merchant that includes apayment gateway, subscription, eKYC, and installing required apps",
+            "duration": "Feb 2023 Jul 2024 1 year 6 months",
+            "start_date": "Feb 2023",
+            "end_date": "Jul 2024",
+            "duration_short": "1 year 6 months",
+            "company": "GoKwik",
+            "company_id": "gokwik",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "description": "1) Redesigned various DB models to improve latency and throughput.2) Worked on the abstraction layer of various APIs and their interfaces between DB models.3) Build a platform to update data between the Logistics Dashboard and Orders page.4) Used event driven services & cronjobs to sync data between Courier platform and dashboard.5) Integrated multiple 3rd party applications to Implement accurate data flow between environments",
+            "description_html": "1) Redesigned various DB models to improve latency and throughput.2) Worked on the abstraction layer of various APIs and their interfaces between DB models.3) Build a platform to update data between the Logistics Dashboard and Orders page.4) Used event driven services &amp; cronjobs to sync data between Courier platform and dashboard.5) Integrated multiple 3rd party applications to Implement accurate data flow between environments <!---->",
+            "duration": "May 2022 Jan 2023 9 months",
+            "start_date": "May 2022",
+            "end_date": "Jan 2023",
+            "duration_short": "9 months",
+            "company": "Fashinza",
+            "company_id": "fashinza",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jan 2022 Feb 2022 2 months",
+            "start_date": "Jan 2022",
+            "end_date": "Feb 2022",
+            "duration_short": "2 months",
+            "company": "CityMall",
+            "company_id": "citymall91",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "United Kingdom",
+            "description_html": null,
+            "duration": "Jan 2021 Jan 2022 1 year 1 month",
+            "start_date": "Jan 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "1 year 1 month",
+            "company": "Deep Knowledge Group",
+            "company_id": "deep-knowledge-ventures",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description": "At apna, I have worked on reshaping the product and contributed to the development lifecycle. I added various filtering and sorting techniques to the Job Search system and written automated Test cases for the same. Moving to next I have also improved the platform by configuring fallbacks for better User satisfaction. I have contributed to re architecturing various existing backend APIs for the smooth and robust working of the application. I have made some important migrations in the Database. My most recent contribution was configuring the Recommendation System that works during the onboarding of new users to Apna’s platform. Along with these, I have worked on building a retooling Dashboard.",
+            "description_html": "At apna, I have worked on reshaping the product and contributed to the development lifecycle. I added various filtering and sorting techniques to the Job Search system and written automated Test cases for the same. Moving to next I have also improved the platform by configuring fallbacks for better User satisfaction. I have contributed to re architecturing various existing backend APIs for the smooth and robust working of the application. I have made some important migrations in the Database. My most recent contribution was configuring the Recommendation System that works during the onboarding of new users to Apna’s platform. Along with these, I have worked on building a retooling Dashboard.",
+            "duration": "Feb 2021 Nov 2021 10 months",
+            "start_date": "Feb 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "10 months",
+            "company": "apna",
+            "company_id": "apnahq",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision Internship",
+            "location": "New Delhi Area, India",
+            "description": "● Infected RBC's detection using Morphological Transformations and watershed algorithm OpenCV.● Development of Automatic segmentation and counting of WBC's, RBC's, and platelets from the blood.● Development of an RGB filter for visualizing and modifying the red, green, and blue channels of a selected area of an image by changing Colorspace to HSV, splitting channels and threshold",
+            "description_html": "● Infected RBC's detection using Morphological Transformations and watershed algorithm OpenCV.● Development of Automatic segmentation and counting of WBC's, RBC's, and platelets from the blood.● Development of an RGB filter for visualizing and modifying the red, green, and blue channels of a selected area of an image by changing Colorspace to HSV, splitting channels and threshold <!---->",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Dewinter Optical Inc.",
+            "company_id": "dewinter-optical-inc-",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "location": "Kharagpur Area, India",
+            "description": "Core Team Member of Managing Team in Great Step 2018 (Annual Technical Fest of the Department of Mining Engineering).Tasks are undertaken and performed :1. Interaction with companies representatives for sponsorship.2. Hosting of events during fest (Petro Case Study, Industrial Design Problem, Guest Lecture).3. Publicity at Adarsha College of Engineering, Angul, Orissa4. Selection of Volunteers and Campus Ambassador across the colleges in India",
+            "description_html": "Core Team Member of Managing Team in Great Step 2018 (Annual Technical Fest of the Department of Mining Engineering).Tasks are undertaken and performed :1. Interaction with companies representatives for sponsorship.2. Hosting of events during fest (Petro Case Study, Industrial Design Problem, Guest Lecture).3. Publicity at Adarsha College of Engineering, Angul, Orissa4. Selection of Volunteers and Campus Ambassador across the colleges in India <!---->",
+            "duration": "2018 Feb 2019 1 year",
+            "start_date": "2018",
+            "end_date": "Feb 2019",
+            "duration_short": "1 year",
+            "company": "Great Step, IIT Kharagpur",
+            "company_id": "great-step-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "(B.Tech + M.Tech)",
+            "field": "Mining and Mineral Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Probability and statistic \"},{\"subtitle\":\"-\",\"title\":\"Programming and Data structures\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data structures lab\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Nov 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Python-Introduction to Data Science and Machine learning A-Z "
+        },
+        {
+            "meta": "Issued Oct 2020See credential",
+            "subtitle": "Udemy",
+            "title": "CNN for Computer Vision with Keras and TensorFlow in Python"
+        }
+    ],
+    "current_company_name": "Aspire",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Brain Tumor detection\",\"start_date\":\"Sep 2020\",\"end_date\":\"Nov 2020\",\"description\":\"Development of a model to detect brain tumor using convolutional neural network in TensorFlow & Keras\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Interviewbit Ranking",
+            "publication": "-",
+            "date": "2019-08-01T00:00:00.000Z",
+            "description": "Having global rank of 6913 in compitive coding"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "city": "Patna, Bihar, India",
+    "position": "Marketing • Vedanta Group • IIT Kharagpur'23",
+    "experience": [
+        {
+            "title": "Bharat Aluminium Company Limited",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "8 months",
+            "positions": [
+                {
+                    "subtitle": "Bharat Aluminium Company Limited",
+                    "meta": "Aug 2024 - Present 5 months",
+                    "duration": "Aug 2024 - Present 5 months",
+                    "start_date": "Aug 2024",
+                    "end_date": "Present",
+                    "duration_short": "5 months",
+                    "title": "Strategy & Sales Manager - Aluminium RP (North Region)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Bharat Aluminium Company Limited",
+                    "meta": "May 2024 - Jul 2024 3 months",
+                    "duration": "May 2024 Jul 2024 3 months",
+                    "start_date": "May 2024",
+                    "end_date": "Jul 2024",
+                    "duration_short": "3 months",
+                    "title": "Market Research Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Bharat Aluminium Company Limited",
+            "company_id": "bharat-aluminium-company-limited",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Business Analyst - COO Power 3615 MW",
+            "location": "Jharsuguda, Odisha, India",
+            "description_html": null,
+            "duration": "Oct 2023 Apr 2024 7 months",
+            "start_date": "Oct 2023",
+            "end_date": "Apr 2024",
+            "duration_short": "7 months",
+            "company": "Vedanta Limited - Aluminium Business",
+            "company_id": "vedanta-limited-aluminium-business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer GIP Intern",
+            "location": "Bokaro, Jharkhand, India",
+            "description": "Bagged PPO on completion",
+            "description_html": "Bagged PPO on completion <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Vedanta Group",
+            "company_id": "vedanta-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Global Entrepreneurship Summit Intern",
+            "description": "Key Responsibility : Publicity, Logistics, Administration",
+            "description_html": "Key Responsibility : Publicity, Logistics, Administration <!---->",
+            "duration": "Sep 2019 Mar 2020 7 months",
+            "start_date": "Sep 2019",
+            "end_date": "Mar 2020",
+            "duration_short": "7 months",
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: NSO Athletics ,Entrepreneurship Cell, Click KGP",
+            "description_html": "Activities and Societies: NSO Athletics ,Entrepreneurship Cell, Click KGP",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Shivam International School",
+            "degree": "Intermediate",
+            "field": "91.2 %",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "MathWorks",
+            "title": "MATLAB Onramp"
+        }
+    ],
+    "current_company_name": "Bharat Aluminium Company Limited",
+    "publications": "[{\"title\":\"\\\"Radial basis collocation method for free vibration analysis of elastically supported porous bi-directional Functionally Graded Material plate under various types of porosity distribution\\\"\",\"subtitle\":\"Advances in Materials and Processing Technologies\",\"date\":\"June 27, 2022\",\"description\":\"• Did Literature Survey to evaluate the free vibrational analysis work including information on study of porosity distribution on FGM plate.• Interpreted and analyzed quantitative and qualitative results on variation of different parameters over natural frequency of Bi-Directional Porous FGM plate.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Design of Heat Exchanger\",\"description\":\"• Designed a Shell and tube type counter flow Heat Exchanger• Calculated Overall Heat Transfer Coefficient, LMTD, required number of tubes, Shell side and tube side pressure drop for the designed model.\"},{\"title\":\"Dynamic Analysis of IC Engine\",\"description\":\"• Modeled a single-cylinder IC Engine (3R-1P chain) using Python• Computed the Ground shaking forces, angular fluctuations, and dynamic moment on the engine case cover• Reduced the unbalanced forces on the engine by 65% in the x-direction and 100% in the y-direction by performing Balancing operations• Reduce energy fluctuation & vibrations to get the optimal engine\"}]",
+    "honors_and_awards": null
+}

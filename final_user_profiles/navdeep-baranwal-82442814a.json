@@ -1,0 +1,71 @@
+{
+    "city": "Bokaro, Jharkhand, India",
+    "position": "Data analyst, Machine Learning, Python, MATLAB expertise",
+    "experience": [
+        {
+            "title": "Product Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jun 2021 Nov 2021 6 months",
+            "start_date": "Jun 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "6 months",
+            "company": "resbatteries",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Creator",
+            "description": "Content creator (Physics and Mathematics) for JEE advance mock tests.",
+            "description_html": "Content creator (Physics and Mathematics) for JEE advance mock tests. <!---->",
+            "duration": "Jun 2020 Mar 2021 10 months",
+            "start_date": "Jun 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "10 months",
+            "company": "Embibe",
+            "company_id": "indiavidual-learning",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: National Cadet Corps (NCC)",
+            "description_html": "Activities and Societies: National Cadet Corps (NCC)",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"BASIC OF NUCLEAR TECHNOLOGY by Dr. Srikumar Banarjee\"},{\"subtitle\":\"-\",\"title\":\"Engineering b-plan development 2\"},{\"subtitle\":\"-\",\"title\":\"Introduction to data analysis using Excel from edx\"},{\"subtitle\":\"-\",\"title\":\"Introduction to programming with matlab from courseera\"},{\"subtitle\":\"-\",\"title\":\"Machine learning by Andrew Ng\"},{\"subtitle\":\"-\",\"title\":\"Programming for everybody from courseera\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2023See credential",
+            "subtitle": "Coursera",
+            "title": "Google Data Analytics Professional Certificate"
+        },
+        {
+            "meta": "Issued Aug 2023",
+            "subtitle": "Microsoft",
+            "title": "Microsoft AI skills challenge"
+        },
+        {
+            "meta": "Issued Jul 2023See credential",
+            "subtitle": "Scaler",
+            "title": "Python and SQL for Data Science"
+        },
+        {
+            "meta": "Issued Jun 2023Credential ID FWPBFKJG8G5YSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine learning"
+        }
+    ],
+    "current_company_name": "resbatteries",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Spray Thin Film Cathode for Thermal Battery\",\"start_date\":\"Apr 2020\",\"end_date\":\"Present\",\"description\":\"Supervisor: Prof. Parth Pratim Bandyopadhyay• Different approaches for making the pyrite thin film cathode for the thermal battery.• Methods for achieving the equilibrium number of phases in mixtures suitable for use in battery electrodes\"},{\"title\":\"Data Analytics Project : Bellabeat case study\",\"start_date\":\"Sep 2023\",\"end_date\":\"Sep 2023\",\"description\":\"Analyze the Smart Device data (FitBit Fitness Tracker Data) to gain insight into how customers are using their smart devices using R and made Visualization of Analysis using R.• Pulled the fitbit fitness tracker data (CC0: Public Domain, dataset made available through Mobius) from kaggle.• Build data models and charts to generate meaningful insight from FitBit data.• Drafted and wrote R markdown report of complete code with all data visualization charts.\"},{\"title\":\"Visual Communication\",\"start_date\":\"Sep 2019\",\"end_date\":\"Dec 2019\",\"description\":\"Survey on Mark Rothko's most famous paintings.compared the emotional responses of people and the responses with the emotional affect of colour chart on the Mark Rothko's paintings by using machine learning.\"}]",
+    "honors_and_awards": null
+}

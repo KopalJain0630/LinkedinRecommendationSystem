@@ -1,0 +1,385 @@
+{
+    "id": "kakdeshubham3487",
+    "name": "Shubham Kakde",
+    "city": "Aurangabad, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Data Scientist | IIM Mumbai | Krutrim | OLA | IIT Kharagpur '22",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Indian Institute of Management Mumbai",
+        "title": "Data Scientist | IIM Mumbai | Krutrim | OLA | IIT Kharagpur '22"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Feb 2024 - Present 11 months",
+            "start_date": "Feb 2024",
+            "end_date": "Present",
+            "duration_short": "11 months",
+            "company": "Indian Institute of Management Mumbai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist I",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "Building \"Krutrim\" - India's own AI focused on developing foundational model with an indic-rich context. Worked extensively in building pipelines for data preprocessing of petabytes of data from open-source and proprietary datasets.",
+            "description_html": "Building \"Krutrim\" - India's own AI focused on developing foundational model with an indic-rich context. Worked extensively in building pipelines for data preprocessing of petabytes of data from open-source and proprietary datasets. <!---->",
+            "duration": "Jul 2023 Jan 2024 7 months",
+            "start_date": "Jul 2023",
+            "end_date": "Jan 2024",
+            "duration_short": "7 months",
+            "company": "Krutrim",
+            "company_id": "krutrim",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist I",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Worked on use cases spanning from Operation Research, Time Series Forecasting, Classical Machine Learning, Natural Language Processing, Computer Vision. Few key projects involve:1) EV Last Mile Delivery Optimization (Generated a forecasted GMV of INR 6 Cr. per annum and streamlined the LMD process across all stakeholders)2) Net Rides Completion Improvement (Increased GMV/day by 3% for a week for multiple cities)3) EV Sales Forecasting (Balanced the Safety stock ensuring 95% SLA)4) EV-specific Issue Category Modelling & Integration with Zendesk (Reduced daily TAT for issue category tagging by 3 hours)Also developed multiple POCs in the domain of CV and ML for optimizing the EV assembly line and improving quality inspection process.",
+            "description_html": "Worked on use cases spanning from Operation Research, Time Series Forecasting, Classical Machine Learning, Natural Language Processing, Computer Vision. Few key projects involve:1) EV Last Mile Delivery Optimization (Generated a forecasted GMV of INR 6 Cr. per annum and streamlined the LMD process across all stakeholders)2) Net Rides Completion Improvement (Increased GMV/day by 3% for a week for multiple cities)3) EV Sales Forecasting (Balanced the Safety stock ensuring 95% SLA)4) EV-specific Issue Category Modelling &amp; Integration with Zendesk (Reduced daily TAT for issue category tagging by 3 hours)Also developed multiple POCs in the domain of CV and ML for optimizing the EV assembly line and improving quality inspection process.",
+            "duration": "May 2022 Jun 2023 1 year 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "1 year 2 months",
+            "company": "Ola",
+            "company_id": "olacabs-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Head",
+            "location": "Kharagpur Area, India",
+            "description": "ProDex is a product designing club in IIT Kharagpur focused on developing innovative products to real life problems. We are a 3 tier team of 20+ product designing enthusiasts with a compelling history of success in regional and national level hackathons.Currently, developing a prototype of women safety device (TaSafe) against assailant attacks.",
+            "description_html": "ProDex is a product designing club in IIT Kharagpur focused on developing innovative products to real life problems. We are a 3 tier team of 20+ product designing enthusiasts with a compelling history of success in regional and national level hackathons.Currently, developing a prototype of women safety device (TaSafe) against assailant attacks.  <!---->",
+            "duration": "Apr 2019 Apr 2022 3 years 1 month",
+            "start_date": "Apr 2019",
+            "end_date": "Apr 2022",
+            "duration_short": "3 years 1 month",
+            "company": "ProDex IIT Kharagpur",
+            "company_id": "prodex-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Engineer Intern",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description_html": null,
+            "duration": "Apr 2021 Dec 2021 9 months",
+            "start_date": "Apr 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "9 months",
+            "company": "Ola Electric Mobility Pvt. Ltd.",
+            "company_id": "olaelectric",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "Build an Augmented Analytics Model for go-to business insights to the client from the OneDataPlus platform of BDIPlus Labs. Worked on generating SQL using various sota NL2SQL models to hit the database when a client enters a natural language query (NLQ) in the search engine.",
+            "description_html": "Build an Augmented Analytics Model for go-to business insights to the client from the OneDataPlus platform of BDIPlus Labs. Worked on generating SQL using various sota NL2SQL models to hit the database when a client enters a natural language query (NLQ) in the search engine. <!---->",
+            "duration": "Jul 2020 Oct 2020 4 months",
+            "start_date": "Jul 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "4 months",
+            "company": "BDIPlus",
+            "company_id": "bdiplus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "description": "1) Build a Full-Text Search Engine to retrieve relevant candidate resume and job descriptions to users in MyWays platform2) Deployed state-of-the-art tool : Monstache connector to real-time sync approx. 11+ million documents from MongoDB to ElasticSearch3) Executed indexing, querying and filtering in ElasticSearch documents using elasticsearch-py in Python on candidates' resume and company JDs",
+            "description_html": "1) Build a Full-Text Search Engine to retrieve relevant candidate resume and job descriptions to users in MyWays platform2) Deployed state-of-the-art tool : Monstache connector to real-time sync approx. 11+ million documents from MongoDB to ElasticSearch3) Executed indexing, querying and filtering in ElasticSearch documents using elasticsearch-py in Python on candidates' resume and company JDs <!---->",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "MyWays",
+            "company_id": "followingmyways",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Kaustubh Shirsath",
+            "about": "Product at AngelOne | Ex- Flipkart, UC| IIT Kharagpur 22'",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "JEEVITH P",
+            "about": "Project Engineer, Wipro | Bangalore",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Maurya Teja",
+            "about": "Management Consulting || Public Policy",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Shridhar Bhat",
+            "about": "Software Development | Cognizant | Sir MVIT",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Toshniwal",
+            "about": "Tech Investing at GIC | McKinsey & Co. | IIT Madras",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Benil Jose Kaiyanickal",
+            "about": "Software Engineer at KeyValue Software Systems",
+            "location": "Ernakulam"
+        },
+        {
+            "profile_link": "",
+            "name": "Lavish Singhal",
+            "about": "Credit Portfolio Analyst@Citi | IIT Kharagpur",
+            "location": "Barara"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Kumar",
+            "about": "Product Supply Manager at P&G || Ex-JSW Group || IIT Madras",
+            "location": "Chandigarh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Anesh Kaul",
+            "about": "Computer Engineering Student at DJ Sanghvi",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Meghna Saxena",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Chander Shekhar",
+            "about": "MTS @ Salesforce | Oracle | University of Tokyo | CSE, IIT Hyderabad",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Smita Saxena",
+            "about": "Quantitative Research at JP Morgan Chase & Co. | CFA Level 2 Candidate",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivika Upadhyay",
+            "about": "Business Analyst | SQL | Power BI | Tableau",
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Palak Aggarwal",
+            "about": "Advisory Analyst - Risk and Financial Advisory at Deloitte",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Anadi Mishra",
+            "about": "Senior Software Engineer @ UKG || Java, Spring Boot, Microservices",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Pal",
+            "about": "Business Analyst @ Evalueserve | DTU '22",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "TANVI JAIN",
+            "about": "Frontend Developer | Software Engineer | React.js | Redux | Material UI | StoryBook | Javascript | Typescript | Azure | GIT | Docker | MySql | Ci/Cd",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Chaitanya Virmani",
+            "about": "MS in Data Science | Experience in Machine Learning and Computer Vision Technologies| Farmo Australia | Research Assistant",
+            "location": "Delahey, VIC"
+        },
+        {
+            "profile_link": "",
+            "name": "Yuvraj Singh",
+            "about": "Junior Undergrad at IIT Madras",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Ananda Venkatesh",
+            "about": null,
+            "location": "Atlanta, GA"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Micro Specialization",
+            "field": "Artificial Intelligence",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree Program (B.Tech + M.Tech)",
+            "field": "Industrial & Systems Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020Credential ID Z9Z4TZDKFNC7See credential",
+            "subtitle": "Coursera",
+            "title": "Compose and Program Music in Python using Earsketch"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID QeHAvKMJzMgcLsYhhSee credential",
+            "subtitle": "KPMG India",
+            "title": "Data Analytics Consulting Virtual Internship"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 5EB4M4TW7EX3See credential",
+            "subtitle": "Coursera",
+            "title": "Natural Language Processing in Tensorflow"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID UC-610c1029-8a7f-4892-828b-d5045fdd3d29See credential",
+            "subtitle": "Udemy",
+            "title": "Python for Data Science and Machine Learning Bootcamp"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 8H9N4KDWZ9AKSee credential",
+            "subtitle": "Coursera",
+            "title": "Sentiment Analysis with Deep Learning using BERT"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID UC-KX5THSZ0See credential",
+            "subtitle": "Udemy",
+            "title": "Introduction to Programming Using Python"
+        },
+        {
+            "meta": "Issued Oct 2024Expires Oct 2026Credential ID 8444010240380662See credential",
+            "subtitle": "ETS",
+            "title": "TOEFL iBT"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4152.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "Indian Institute of Management Mumbai",
+    "publications": "[{\"title\":\"Knowledge-enhanced Transformer for Multivariate Long Sequence Time-series Forecasting\",\"subtitle\":\"arXiv\",\"date\":\"November 17, 2024\",\"description\":\"In this paper, we introduce a novel approach for multivariate long sequence timeseries forecasting problem to encapsulate conceptual relationships among variables within a well-defined knowledge graph embedding. This forms dynamic and learnable KGEs for seamless integration into the transformer architecture. We investigate the influence of this integration into seminal architectures such as PatchTST, Autoformer, Informer, and Vanilla Transformer.\"},{\"title\":\"Pretraining Data and Tokenizer for Indic LLM\",\"subtitle\":\"arXiv\",\"date\":\"July 17, 2024\",\"description\":\"We present a novel approach to data preparation for developing multilingual Indic large language model. Our meticulous data acquisition spans open-source and proprietary sources, including Common Crawl, Indic books, news articles, and Wikipedia, ensuring a diverse and rich linguistic representation. For each Indic language, we design a custom preprocessing pipeline to effectively eliminate redundant and low-quality text content. Additionally, we perform deduplication on Common Crawl data to address the redundancy present in 70% of the crawled web pages. This study focuses on developing high-quality data, optimizing tokenization for our multilingual dataset for Indic large language models with 3B and 7B parameters, engineered for superior performance in Indic languages. We introduce a novel multilingual tokenizer training strategy, demonstrating our custom-trained Indic tokenizer outperforms the state-of-the-art OpenAI Tiktoken tokenizer, achieving a superior token-to-word ratio for Indic languages.\"},{\"title\":\"Deep Reinforcement Learning for Optimizing Agri-Food Supply Chain\",\"subtitle\":\"SSRN\",\"date\":\"June 17, 2024\",\"description\":\"This paper investigates applying DRL techniques such as Q-learning, Deep Q Learning (DQL), and the Actor-Critic to manage agri-food supply chain effectively. Our analysis demonstrates these models can significantly enhance decision-making processes across various supply chain stages, thus improving efficiency and increasing profit margins. We incorporate a supply chain through comprehensive simulations and empirical evaluations, considering real-world practical scenarios.\"},{\"title\":\"CPAN chart: A Novel Customer Perception Analysis System Using Natural Language Processing and Attribute Control Charting\",\"subtitle\":\"IEEE Transactions on Engineering Management\",\"date\":\"March 14, 2024\",\"description\":\"In this article, the CPAN (Customer Perception ANalysis) chart is developed, which will help the business owners to monitor the proportion of negative reviews on a temporal scale, augmented with the information on the most pervasive consumer grievances.\"},{\"title\":\"Education in AI Era: A Novel Approach to Enhance Learning and Development\",\"subtitle\":\"International Journal of Science, Engineering and Technology\",\"date\":\"July 1, 2022\",\"description\":\"In this paper, we have addressed some of the major challenges faced by students, teachers, and university management. Furthermore, we propose solutions that facilitate Artificial Intelligence to develop intelligent teaching and learning systems.\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Aurangabad",
+    "linkedin_id": "kakdeshubham3487",
+    "activity": [
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "Here's an underrated approach to estimate the causal impact of a product change that affects some users but not others. This is common in product…",
+            "img": "",
+            "id": "7278193011224690688"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "✨ Reflections on ADFW ✨ Last week, my team and I from hushh.ai—a dynamic startup with verticals in technology and hedge funds—had the privilege of…",
+            "img": "",
+            "id": "7274024165035175937"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "After a long time, I finished my article on Rotary Positional Embeddings. A quick intro - Instead of using absolute positional embeddings as…",
+            "img": "",
+            "id": "7272513642896465920"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "I will be presenting our paper titled “Sample efficient geometry reconstruction from Euclidean distances using Non-convex Optimization” at…",
+            "img": "",
+            "id": "7272064013474136064"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "Letters from my Village Paschimchak (West Land), India. #61 Now with Love from the Indian Institute of Technology (IIT), Kharagpur. Photo Credit:…",
+            "img": "",
+            "id": "7270141491992236033"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "Please find below some useful resources (codes and datasets) from the Phd thesis of my student Abhisek T. These are also available on my website:…",
+            "img": "",
+            "id": "7270280628548317184"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "#neurips2024 paper “Similarity-Navigated Conformal Prediction for Graph Neural Network” ”Graph Neural Networks have achieved remarkable accuracy in…",
+            "img": "",
+            "id": "7268934346688933889"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "NVIDIA Data Science (\"DL Engineer\") Interview Question: How are Word2Vec embeddings created? Word2Vec embedding is created through a two-layer…",
+            "img": "",
+            "id": "7268254898335440896"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "I built a Vector Database by hand ✍️ in Excel ~ Download xlsx, Watch recording 👉  This morning, in front of a live…",
+            "img": "",
+            "id": "7265500725013557250"
+        },
+        {
+            "interaction": "Liked by Shubham Kakde",
+            "link": "",
+            "title": "This year, the NeurIPS made an exception by honoring two papers with the Test of Time Paper Awards - recognizing impactful papers published 10 years…",
+            "img": "",
+            "id": "7267892557844484096"
+        }
+    ],
+    "linkedin_num_id": 683663149.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

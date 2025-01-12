@@ -1,0 +1,275 @@
+{
+    "id": "sharma-aakar",
+    "name": "Aakar Sharma",
+    "city": "San Francisco, California, United States",
+    "country_code": "US",
+    "position": "Founder in Stealth | IIT Jammu",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Stealth",
+        "company_id": "warmstealth",
+        "title": "Founder in Stealth | IIT Jammu"
+    },
+    "experience": [
+        {
+            "title": "Founder",
+            "location": "San Francisco Bay Area",
+            "description_html": null,
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "Stealth",
+            "company_id": "warmstealth",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tech Lead, AI & Machine Learning",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "At Healthify, I led a team of ML engineers focused on advancing AI-driven solutions. Collaborated closely with OpenAI and Anthropic to develop systems like ‘Snap,’ an AI-powered photo tagging feature leveraging computer vision and visual language models (VLMs) for food tracking. Additionally, I contributed to building recommendation systems and developing predictive models for continuous glucose monitoring (CGM) using time-series analysis.",
+            "description_html": "At Healthify, I led a team of ML engineers focused on advancing AI-driven solutions. Collaborated closely with OpenAI and Anthropic to develop systems like ‘Snap,’ an AI-powered photo tagging feature leveraging computer vision and visual language models (VLMs) for food tracking. Additionally, I contributed to building recommendation systems and developing predictive models for continuous glucose monitoring (CGM) using time-series analysis. <!---->",
+            "duration": "Jun 2020 Sep 2024 4 years 4 months",
+            "start_date": "Jun 2020",
+            "end_date": "Sep 2024",
+            "duration_short": "4 years 4 months",
+            "company": "Healthify",
+            "company_id": "healthifyme",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Intern",
+            "location": "Saarbrücken Area, Germany",
+            "description": "Worked on model quantization using tensorRT. Also built tools to do camera calibration.",
+            "description_html": "Worked on model quantization using tensorRT. Also built tools to do camera calibration. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "The Captury",
+            "company_id": "the-captury",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bordeaux Area, France",
+            "description": "Worked on DockNet, a tool that divides the big neural network into smaller components that can run on docker individually. Also implemented several protocols on VANET and SUMO.",
+            "description_html": "Worked on DockNet, a tool that divides the big neural network into smaller components that can run on docker individually. Also implemented several protocols on VANET and SUMO. <!---->",
+            "duration": "Jun 2018 Jul 2018 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "2 months",
+            "company": "University of Bordeaux",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "aman patel",
+            "about": "BAS",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjay Kumar",
+            "about": "Data Engineer @EPAM || Ex-Optum || Azure Certified Data Engineer || Databricks || Pyspark || Azure Data Factory || CSE @NIT Delhi",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Keshav Narang",
+            "about": "Sr Software Engineer Optum | MERN Stack Developer | Project Lead",
+            "location": "Bahadurgarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Dev Ojha",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Darshaun Govindhraj",
+            "about": "Data Engineer at Samsung Research | MS CS at SFU | Ex UHG | Software Developer",
+            "location": "Burnaby, BC"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishab Jain",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Khushboo Bindal",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Vindeep Chaudhari",
+            "about": "Software Engineer | Backend",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Kopargaonkar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aravind Sivakumar",
+            "about": "Graduate Teaching Assistant @Indiana University | Pursuing Master's in Computer Science | Former Intern @Sun Hydraulics | Former employee @Optum",
+            "location": "Bloomington, IN"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Jammu",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Jammu",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": "Director Gold Medalist, Silver Medalist, Prof. Sudhir Kumar Jain award winner",
+            "description_html": "Director Gold Medalist, Silver Medalist, Prof. Sudhir Kumar Jain award winner <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 7003.0,
+    "connections": 500.0,
+    "current_company_company_id": "warmstealth",
+    "current_company_name": "Stealth",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "San Francisco",
+    "linkedin_id": "sharma-aakar",
+    "activity": [
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "📝In 2025, YOU will rise against all odds!🔥 Meet Suda, the inspiring elephant that was trained to paint. She was bullied by her peers and was…",
+            "img": "",
+            "id": "7276899481751617537"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "The more I read about databases, the more interesting it becomes. Almost all the problems we face in backend today like concurrency, resiliency, high…",
+            "img": "",
+            "id": "7275217860719779844"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "1st time founder: I feel like i'm constantly at the edge 🤯 2nd time founder: #friday #humor #funny #venturecapital Thank you to Easy VC for…",
+            "img": "",
+            "id": "7273405730605449217"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "Post-argument vibes? ❤️ Shrestha Pratik, Saher Ghattas, Manu Koshy Abraham, Ravindra Yadav #foundersjourney",
+            "img": "",
+            "id": "7266981381258289152"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "Retention doesn’t just mean revenue—it means predictable revenue. And with predictability comes security. Knowing you have a stable foundation to…",
+            "img": "",
+            "id": "7262305731373092864"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "Last week, we were invited by the The Data Institute, University of San Francisco to share our perspective on the evolution of data science in the…",
+            "img": "",
+            "id": "7264370535852048384"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "Stepping into the Unknown! A month ago, I stepped out of my comfort zone and left my challenging role in Product Growth at Sonatype—absolutely one…",
+            "img": "",
+            "id": "7264065580205232128"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "For devs who want bots that talk back: Output Media is live on Product Hunt 🗣️ Build real-time AI agents that join Zoom, Meet, and Teams with audio…",
+            "img": "",
+            "id": "7262827875735613440"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "Happy to have Anjan (one of the best Growth thinkers I know) interact with our Growth team at Entri's Kochi HQ today. At Entri, we have the fortune…",
+            "img": "",
+            "id": "7260989507397693440"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "OpenAI just released an amazing update of its ChatGPT desktop app (Mac for now) where the AI can access (with permission) apps on your computer. I…",
+            "img": "",
+            "id": "7262972712728330241"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "What is #Excellence!!?? ** All credits to originator of Video",
+            "img": "",
+            "id": "7260692936378482688"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "Perpetual dissatisfaction I've now closely worked with/for several founders of $25B+ companies, and one characteristic I've observed in all of them:…",
+            "img": "",
+            "id": "7260828359813681154"
+        },
+        {
+            "interaction": "Shared by Aakar Sharma",
+            "link": "",
+            "title": "For the same dataset and threads count, Redis is claiming they have the best rps (request-per-second) and QDrant is claiming they have the best rps…",
+            "img": "",
+            "id": "7256156320414740480"
+        },
+        {
+            "interaction": "Liked by Aakar Sharma",
+            "link": "",
+            "title": "Exciting News! 🚀 Proud to share that Virtualness and their Verix platform, co-founded by the brilliant Saurabh Doshi and Kirthiga Reddy, have been…",
+            "img": "",
+            "id": "7254508997062414337"
+        }
+    ],
+    "linkedin_num_id": 323421862.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

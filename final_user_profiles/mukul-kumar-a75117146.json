@@ -1,0 +1,69 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer @Wells Fargo| Mastercard | IIT KGP",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Wells Fargo",
+            "company_id": "wellsfargo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Mastercard",
+            "company_id": "mastercard",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Renaissance School",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2021Credential ID 79XELCZWEZTESee credential",
+            "subtitle": "Coursera",
+            "title": "Blockchain Basics"
+        },
+        {
+            "meta": "Issued Dec 2021Credential ID XNTD835T23TRSee credential",
+            "subtitle": "Coursera",
+            "title": "Smart Contracts"
+        }
+    ],
+    "current_company_name": "Wells Fargo",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Encrypted Cloud storage Dapp\",\"start_date\":\"Apr 2021\",\"end_date\":\"Jun 2021\",\"description\":\"With this Dapp only we are the owner of our data by giving flexibility of not storing it to any centralized server• Built the web application on the top of Ethereum based blockchain (Ganache) and interact with it via web3• Created a smart contract using Solidity language and deployed it to the local blockchain using Truffle suite• Created the web app for storing the data and used Metamask to connect browser to blockchain • Stored the files to IPFS and added the file hash returned by it to the blockchain making the file address permanently saved to blockchain in encrypted form, only accessible or change through its hash\"},{\"title\":\"Decentralized ledger\",\"start_date\":\"Mar 2021\",\"end_date\":\"Apr 2021\",\"description\":\"It solves banking problems like protection from fraud, immediate settlement, international transactions• Used Blockchain technology to store transactions and used Proof of Work algorithm to make the blockchain network decentralized and verify the validation of each block added to the blockchain making it unbreachable• Used the SHA-256 hashing algorithm to generate a new unique hash for each block added to the blockchain• Used Flask framework to create the web application which contains the blockchain, and the user interacts with it through Postman to mine a new block and to view the whole blockchain\"}]",
+    "honors_and_awards": null
+}

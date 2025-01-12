@@ -1,0 +1,48 @@
+{
+    "city": "Meerut, Uttar Pradesh, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2023Credential ID 8F5E4E3478DASee credential",
+            "subtitle": "HackerRank",
+            "title": "SQL (Intermediate) Certificate"
+        }
+    ],
+    "current_company_name": "OYO",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "2nd Runner-Up | Gatbandhan, Red Brick Submit'21 | IIM A",
+            "publication": "Indian Institute of Management(IIM), Ahmedabad",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": "Stood 3rd in 3000+ teams in Gatbandhan, general management event under IIM A’s Red Brick Submit’21 after completing 3 rounds of case studies & quizzes. Developed a comprehensive strategy for the seamless integration of a large conglomerate with an FMCG company in the final round."
+        },
+        {
+            "title": "2nd Runner- Up | Case-Ex | IIT BHU",
+            "publication": "E-cell, IIT (BHU), Varanasi",
+            "date": "2021-08-01T00:00:00.000Z",
+            "description": "Stood 3rd among 227+ teams in Case-Ex, an entrepreneurship event organized by E-cell, IIT (BHU). A product case competition for launching a healthcare app(iMumz) and increasing the user base for paid subscribers."
+        },
+        {
+            "title": "1st Runner-up | Analytics Event | IIT BHU",
+            "publication": "Technex, IIT(BHU)",
+            "date": "2021-04-01T00:00:00.000Z",
+            "description": "Stood 2nd Runners up among 500+ teams participated in \"Analytics Event\", Technex’21, IIT (BHU), Varanasi"
+        }
+    ]
+}

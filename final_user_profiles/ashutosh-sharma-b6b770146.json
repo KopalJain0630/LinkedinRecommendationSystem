@@ -1,0 +1,113 @@
+{
+    "city": "Amritsar, Punjab, India",
+    "position": "Software Engineer - 2",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Sep 2021 - Present 3 years 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 4 months",
+            "company": "Cadence Design Systems",
+            "company_id": "cadence",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Cloud Mentor",
+            "description_html": null,
+            "duration": "8 months",
+            "positions": [
+                {
+                    "subtitle": "Cloud Mentor",
+                    "meta": "Jul 2021 - Aug 2021 2 months",
+                    "duration": "Jul 2021 Aug 2021 2 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Aug 2021",
+                    "duration_short": "2 months",
+                    "title": "Software Developer(Salesforce)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Cloud Mentor",
+                    "meta": "Jan 2021 - Jun 2021 6 months",
+                    "duration": "Jan 2021 Jun 2021 6 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "Jun 2021",
+                    "duration_short": "6 months",
+                    "title": "Software Developer(Salesforce)",
+                    "description_html": null
+                }
+            ],
+            "company": "Cloud Mentor",
+            "company_id": "cloud-mentor",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Cultural Head",
+            "description_html": null,
+            "duration": "Apr 2019 Dec 2019 9 months",
+            "start_date": "Apr 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "9 months",
+            "company": "Saturnalia, Thapar's Techno-Cultural Festival",
+            "company_id": "saturnalia-annual-techno-cultural-festival",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Trainee",
+            "description_html": null,
+            "duration": "Jun 2018 Jul 2018 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "2 months",
+            "company": "VMM Education",
+            "company_id": "vmm-education",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Thapar University",
+            "degree": "BE",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV Public School",
+            "degree": "High School Education",
+            "field": "PCM",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV Public School",
+            "degree": "Secondary School Education",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Cadence Design Systems",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

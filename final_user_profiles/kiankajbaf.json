@@ -1,0 +1,51 @@
+{
+    "city": "United Kingdom",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Aston Business School",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-",
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advanced topics in International Business\"},{\"subtitle\":\"-\",\"title\":\"Business Conditions and Forecasting\"},{\"subtitle\":\"-\",\"title\":\"Business Finance\"},{\"subtitle\":\"-\",\"title\":\"Business process analysis and redesign\"},{\"subtitle\":\"-\",\"title\":\"Chemistry\"},{\"subtitle\":\"-\",\"title\":\"Computer Science\"},{\"subtitle\":\"-\",\"title\":\"Economics\"},{\"subtitle\":\"-\",\"title\":\"Economics Environment of Business\"},{\"subtitle\":\"-\",\"title\":\"Economics and Business Administration\"},{\"subtitle\":\"-\",\"title\":\"Entrepreneurial & Innovation in Emerging Economies\"},{\"subtitle\":\"-\",\"title\":\"Fundamental of Automatic Control\"},{\"subtitle\":\"-\",\"title\":\"Informational Systems\"},{\"subtitle\":\"-\",\"title\":\"International Business\"},{\"subtitle\":\"-\",\"title\":\"International Finance\"},{\"subtitle\":\"-\",\"title\":\"Logistics and Production Systems Management\"},{\"subtitle\":\"-\",\"title\":\"Management and Organisational Design\"},{\"subtitle\":\"-\",\"title\":\"Manufacturing and Quality\"},{\"subtitle\":\"-\",\"title\":\"Marketing Experiment\"},{\"subtitle\":\"-\",\"title\":\"Mathematical Analysis II\"},{\"subtitle\":\"-\",\"title\":\"Mathematical Analysis and Geometry\"},{\"subtitle\":\"-\",\"title\":\"Mathematical Methods for operations research\"},{\"subtitle\":\"-\",\"title\":\"Mechanics of elastic structures\"},{\"subtitle\":\"-\",\"title\":\"Operations Management\"},{\"subtitle\":\"-\",\"title\":\"Organisational Systems\"},{\"subtitle\":\"-\",\"title\":\"Physics-Mechanics and Thermodynamics\"},{\"subtitle\":\"-\",\"title\":\"Principles of Electrical Engineering\"},{\"subtitle\":\"-\",\"title\":\"Probability and Mathematical Statistics\"},{\"subtitle\":\"-\",\"title\":\"Statistics for Business Analytics\"},{\"subtitle\":\"-\",\"title\":\"Strategic Management\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2014",
+            "subtitle": "British Council",
+            "title": "IELTS 7/9"
+        }
+    ],
+    "current_company_name": "PitchBook",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Thesis: Business Game\",\"description\":\"The Business Game aims at assessing a student’s ability to interpret and model typical business situations.Students are asked to simulate business decisions covering strategy, marketing, organisation, production, logistics and finance in order to maximise the results of their “own” company.\"},{},{}]",
+    "honors_and_awards": null
+}

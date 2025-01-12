@@ -1,0 +1,271 @@
+{
+    "id": "prmalik",
+    "name": "Prashant Malik",
+    "city": "Dubai, United Arab Emirates",
+    "country_code": "AE",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Zomato",
+        "company_id": "zomato"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Gaurav Gupta",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Anurag Agarwal",
+            "about": "Accops | ex Microsoft, PrimaryIO, Symantec, Veritas",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajay Deshpande",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratik Poddar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruv Gupta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilesh Balakrishnan",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishan Dutta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajesh Mane",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Vatsal Kanakiya",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranav Marwah",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Misra",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Kunal Pandya",
+            "about": null,
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Utsav Agarwal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Puneet Singh",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravi Bhushan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Jaishankar",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Swati Murarka",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Nuwal",
+            "about": null,
+            "location": "Greater Boston"
+        },
+        {
+            "profile_link": "",
+            "name": "Hemant Jain",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Sachin Dalal",
+            "about": null,
+            "location": "Gurugram"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Delhi",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "start_year": "1991",
+            "end_year": "1995",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 8076.0,
+    "connections": 500.0,
+    "current_company_company_id": "zomato",
+    "current_company_name": "Zomato",
+    "publications": "[{\"title\":\"Scaling the Messages Application Back End\",\"subtitle\":\"Facebook Engineering Blog\",\"date\":\"April 12, 2011\",\"description\":\"Facebook Messages seamlessly integrates many communication channels: email, SMS, Facebook Chat, and the existing Facebook Inbox. Combining all this functionality and offering a powerful user experience involved building an entirely new infrastructure stack from the ground up.\"},{\"title\":\"Cassandra - A Decentralized Structured Storage System\",\"subtitle\":\"ACM SIGOPS Operating Systems Review\",\"date\":\"Apr 2010\",\"description\":\"Cassandra is a distributed storage system for managing very large amounts of structured data spread out across many commodity servers, while providing highly available service with no single point of failure. Cassandra aims to run on top of an infrastructure of hundreds of nodes (possibly spread across different data centers). At this scale, small and large components fail continuously. The way Cassandra manages the persistent state in the face of these failures drives the reliability and scalability of the software systems relying on this service. While in many ways Cassandra resembles a database and shares many design and implementation strategies therewith, Cassandra does not support a full relational data model; instead, it provides clients with a simple data model that supports dynamic control over data layout and format. Cassandra system was designed to run on cheap commodity hardware and handle high write throughput while not sacrificing read efficiency.\"},{\"title\":\"Cassandra: structured storage system on a P2P network\",\"subtitle\":\"PODC '09 Proceedings of the 28th ACM symposium on Principles of distributed computing\",\"date\":\"2009\"}]",
+    "patents": "[{\"title\":\"Organizing Conversation Threads Based on Social Information\",\"date_issued\":\"October 28, 2011\",\"patents_id\":\"US 284567\",\"description\":\"A messaging system that organizes and presents messages to users of the messaging system. The messaging system includes a mailbox module that receives messages and generates conversation threads from the messages. Messages received from different electronic message channels may be aggregated into a common conversation thread. The conversation threads are also organized in a message interface and then presented to a user of the messaging system. The messaging system may include a social networking system that stores social information about users, which can be used to organize the conversation threads. Other features include a multi mode message interface, and a method for adding contextual information to messages.\"},{\"title\":\"Dynamic update of authentication information\",\"date_issued\":\"May 10, 2011\",\"patents_id\":\"US 7941831\",\"description\":\"A framework is provided that decouples credential acquisition from authentication processes using those credentials in a way that facilitates dynamic update of credential information. An authentication component may receive credential information for authentication of a user or a device for access to a resource. During interactions with an external authenticator, the authentication component may identify that updated credential information is required and issue a request to the application including credential parameters defining the updated credential information. An application component receiving the request may acquire updated credential information from a user or another entity. In addition, the authentication method may issue notifications to the application. The framework enables the application to update credentials in a context specific way.\"},{\"title\":\"Indexing and Organizing Messages in a Messaging System Using Social Network Information\",\"date_issued\":\"October 27, 2010\",\"patents_id\":\"US 12/913701\",\"description\":\"A messaging system receives a message that is intended for a recipient, who is a user of a social networking system. An object associated with the message is identified based on the message content and/or metadata associated with the message. The messaging system accesses a social networking system database to obtain social information about a relationship between the recipient and the identified object. The message is then indexed using the social information, wherein an entry for the message is stored in a message index based on the social information. This process may be repeated for each received message, and multiple different message indexes may be generated for received messages to track different types of social information. A user interface for viewing messages uses the message index to organize the messages, such as to filter, categorize, and/or sort the messages in the display.\"},{\"title\":\"Secure server plug-in architecture for digital rights management systems\",\"date_issued\":\"December 8, 2009\",\"patents_id\":\"US 7631318\",\"description\":\"Systems and methods for providing digital rights management services are disclosed. Such a system includes a service program that provides a processing framework for performing a digital rights management service, such as publishing or licensing rights managed digital content. A plurality of plug-in components are provided, each of which performs a respective task associated with the digital rights management service. The plug-in components are integrated into the processing framework according to predefined sets of interface rules.\"},{\"title\":\"Using a flexible rights template to obtain a signed rights label (SRL) for digital content in a rights management system\",\"date_issued\":\"October 3, 2009\",\"patents_id\":\"US 7502945\",\"description\":\"Content is encrypted according to a content key (CK) to result in (CK(content)) and the content key (CK) is protected according to a public key for a license server (PU-RM). Rights data is retrieved from a rights template to be associated with the content, and rules for modifying the retrieved rights data are also retrieved from the retrieved rights template. The retrieved rights data from the rights template is modified according to the rules, and the rights data and the protected content key (CK)) are submitted as a rights label to the license server for signing thereby. The license server thus validates the rights label and, if valid, creates a digital signature based on a private key (PR-RM) corresponding to (PU-RM) and based at least in part on the rights data to result in a signed rights label (SRL), and returns the SRL\"},{\"title\":\"Generic framework for EAP\",\"date_issued\":\"August 14, 2008\",\"patents_id\":\"US 704624\",\"description\":\"An EAP-based authentication framework is provided that decouples credential acquisition from EAP methods that use credentials for authentication. An application may request from an EAP method parameters of credentials required by the EAP method. In response, the EAP method provides credential parameters, which may then be used by the application to acquire credentials consistent with the parameters from the user or other entity. The framework enables an application to request credentials in a context specific way. In addition, the application may simultaneously obtain credentials used in multiple authentication operations through a single user interface, or retain credentials for later use without further prompting a user such that a Single Sign-on user experience may be implemented. Additionally, the application can obtain credentials from a device so that the device may gain network access without requiring a user logon.\"},{\"title\":\"Obtaining a signed rights label (SRL) for digital content and obtaining a digital license corresponding to the content based on the SRL in a digital rights management system\",\"date_issued\":\"April 1, 2008\",\"patents_id\":\"US 7353402\",\"description\":\"Content is encrypted according to a content key (CK) ((CK(content))), (CK) is protected according to a license server public key (PU-DRM), and rights data associated with the content is protected according to (PU-DRM). The protected items are submitted as a rights label to the license server for signing. The license server validates the rights label and, if valid, digitally signs based on the protected rights data to result in a signed rights label (SRL), and returns same. The SRL is concatenated with (CK(content)) and both are distributed to a user. To render the content, the user submits the SRL to the license server to request a license. The license server verifies the SRL signature and reviews the SRL protected rights data to determine whether the user is entitled to the license, and if so issues the license, including (CK) in a protected form accessible to the user.\"},{\"title\":\"Asynchronous communication within a server arrangement\",\"date_issued\":\"January 30, 2007\",\"patents_id\":\"US 7171692\",\"description\":\"A server architecture for a digital rights management system that distributes and protects rights in content. The server architecture includes a retail site which sells content items to consumers, a fulfillment site which provides to consumers the content items sold by the retail site. The fulfillment site includes an asynchronous fulfillment pipeline which logs information about processed transactions using a store-and-forward messaging service. The fulfillment site may be implemented as several server devices, each having a cache which stores frequently downloaded content items, in which case the asynchronous fulfillment pipeline may also be used to invalidate the cache if a change is made at one server that affects the cached content items.\"},{\"title\":\"Publishing digital content within a defined universe such as an organization in accordance with a digital rights management (DRM) system\",\"date_issued\":\"August 12, 2004\",\"patents_id\":\"US 20040158709\",\"description\":\"A licensor receives a request from a requestor including an identifier identifying the requestor and rights data associated with digital content, where the rights data lists at least one identifier and rights associated therewith. The licensor thereafter locates the identifier of the requestor in a directory, and locates in the directory based thereon an identifier of each group which the requestor is a member of. Each of the located requestor identifier and each located group identifier is compared to each identifier listed in the rights data to find a match, and a digital license to render the content is issued to the requestor with the rights associated with the matching identifier.\"}]",
+    "projects": null,
+    "organizations": null,
+    "location": "Dubai",
+    "linkedin_id": "prmalik",
+    "activity": [
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "Announcing our second acquisition - Constra - in #ConstructionTech space Bandhoo Solutions, a leading provider of construction technology solutions,…",
+            "img": null,
+            "id": "7228641011223158784"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "Unlocking new horizons in real estate excellence! Marrfa Real Estate team dives into training at the Sobha Realty sales office in Dubai. 💼 With…",
+            "img": null,
+            "id": "7193970677614366720"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "Congratulations to Rebecca Liao, Jin Kwon, Jacob McDorman, and Bogdan Alexandrescu on Saga.xyz’s mainnet launch. Saga stands out as the sole…",
+            "img": "",
+            "id": "7183416113429405697"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "Brinc joins forces with Tykhe Block Ventures, a leading investment firm focused on disruptive Web3 startups! Joining as an Accelerator Funding…",
+            "img": "",
+            "id": "7133303271326183425"
+        },
+        {
+            "interaction": "Shared by Prashant Malik",
+            "link": "",
+            "title": "Congratulations to the Odsy Foundation on raising $7.5M in their seed round! Their progress in decentralized access control has the potential to…",
+            "img": "",
+            "id": "7062742441941942272"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "We can’t be more proud of the Odsy team. Just the beginning. Yehonatan Cohen Scaly Sean Lee Omer Sadika David Lachmish ",
+            "img": "",
+            "id": "7062500733379575808"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "Extremely excited to share this news! We are humbled by the support from our Odsy Foundation ecosystem partners and will continue to push forth on…",
+            "img": "",
+            "id": "7062444607921426432"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "Glad to see countries setting up and paving wave for better crypto / web3 future. Let’s regulate and grow.",
+            "img": "",
+            "id": "7060102508865536000"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "As the world comes together to observe this blessed month, we wish everyone a peaceful and joyous Ramadan filled with blessings and compassion. Let's…",
+            "img": "",
+            "id": "7044288968971948032"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "🟥 ARE YOU READY FOR GAMESHUB TOMORROW? #GamesHUB is back with a new episode with a remarkable personality and exciting discussion. 🤵 Guest:…",
+            "img": "",
+            "id": "7034190768978157568"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "Week 6 - Revolutionizing Crypto Gaming: The Rise of Bet-to-Play (B2P) Excited to share a new article on the future of crypto gaming! The Play-to-Own…",
+            "img": "",
+            "id": "7028958225710428162"
+        },
+        {
+            "interaction": "Shared by Prashant Malik",
+            "link": "",
+            "title": "A huge thanks to all our Limited Partners for helping us reach this milestone! Through this fund, we look forward to backing founders who are helping…",
+            "img": "",
+            "id": "7024689517022326784"
+        },
+        {
+            "interaction": "Liked by Prashant Malik",
+            "link": "",
+            "title": "Exciting News! We are thrilled to announce the first close of our $30 Mn Blockchain Growth Fund. A huge thanks to our LPs who believe in the future…",
+            "img": "",
+            "id": "7024688664236470272"
+        },
+        {
+            "interaction": "Shared by Prashant Malik",
+            "link": "",
+            "title": "Why CBDCs are the Future of Money: Understanding the Benefits and Progress of Central Bank Digital Currencies CBDCs, or Central Bank Digital…",
+            "img": "",
+            "id": "7023963309473214465"
+        }
+    ],
+    "linkedin_num_id": 6262784.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of Oxford",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2007",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "GARP",
+            "title": "Financial Risk Manager (FRM)"
+        }
+    ],
+    "current_company_name": "Rescribe (Scorg Technologies)",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Nutmeg Raises £42m From Convoy, Fubon, Existing Investors\",\"start_date\":\"Dec 2016\",\"description\":\"https://www.nutmeg.com/nutmegonomics/nutmeg-raises-30m-to-accelerate-growth/\"},{\"title\":\"Nokia acquires Eta Devices\",\"start_date\":\"Oct 2016\",\"description\":\"http://www.nokia.com/en_int/news/releases/2016/10/05/nokia-bolsters-its-base-station-power-efficiency-by-acquiring-eta-devices\"},{\"title\":\"Estimation of probabilities of occurrence of extreme events using sampling methods and GPU computing\",\"start_date\":\"Jul 2012\",\"end_date\":\"Present\",\"description\":\"• Implemented the sampling methods such as Importance Sampling and Subset Simulation to reduce the number of Monte CarloSimulations required.• Reduced the number of samples required by 1000 times.• Decreased the runtime to generate random variables to 1%, with heterogeneous parallel computing using Graphical Processing unit(GPU).\"}]",
+    "honors_and_awards": null
+}

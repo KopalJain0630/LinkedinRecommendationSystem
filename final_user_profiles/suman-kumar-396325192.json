@@ -1,0 +1,365 @@
+{
+    "id": "suman-kumar-396325192",
+    "name": "Suman Kumar",
+    "city": "Berlin, Berlin, Germany",
+    "country_code": "DE",
+    "position": "SWE @Deutsche Bank, Berlin \u00f0\u0178\u2021\u00a9\u00f0\u0178\u2021\u00aa || Former SDE intern @ Societe Generale, LetsTransport || IM+MNC+AI @IIT Kharagpur'23",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Deutsche Bank",
+        "company_id": "deutsche-bank",
+        "title": "SWE @Deutsche Bank, Berlin \u00f0\u0178\u2021\u00a9\u00f0\u0178\u2021\u00aa || Former SDE intern @ Societe Generale, LetsTransport || IM+MNC+AI @IIT Kharagpur'23"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Berlin, Germany",
+            "description": "\u00e2\u20ac\u00a2 Worked in various teams specializing in Foreign Exchange Technology and Tax Due Diligence, delivering high quality solutions within the Investment Banking Domain.\u00e2\u20ac\u00a2 Implemented monitoring in a critical microservice using Micrometer, Prometheus and Grafana for proactive problem diagnosis (service latency, Java heap issues, request optimization).\u00e2\u20ac\u00a2 Worked on automating the whole process of sending notifications and updates to team members in UAT environment and migrated the code base to Kotlin from Java to stay updated with tech stacks.\u00e2\u20ac\u00a2 Contributed to test automation project using selenium and cucumber to enhance the CI/CD pipeline, enabling faster delivery of new features. Ensured code quality through Unit testing with JUnit.\u00e2\u20ac\u00a2 Implemented Helm charts to deploy microservices on Openshift Container Platform, significantly improving deployment efficiency and make aplications scalable.",
+            "description_html": "\u00e2\u20ac\u00a2 Worked in various teams specializing in Foreign Exchange Technology and Tax Due Diligence, delivering high quality solutions within the Investment Banking Domain.\u00e2\u20ac\u00a2 Implemented monitoring in a critical microservice using Micrometer, Prometheus and Grafana for proactive problem diagnosis (service latency, Java heap issues, request optimization).\u00e2\u20ac\u00a2 Worked on automating the whole process of sending notifications and updates to team members in UAT environment and migrated the code base to Kotlin from Java to stay updated with tech stacks.\u00e2\u20ac\u00a2 Contributed to test automation project using selenium and cucumber to enhance the CI/CD pipeline, enabling faster delivery of new features. Ensured code quality through Unit testing with JUnit.\u00e2\u20ac\u00a2 Implemented Helm charts to deploy microservices on Openshift Container Platform, significantly improving deployment efficiency and make aplications scalable.",
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Worked on building Deep Learning Models for Checkbox and Signature (both digitally and handwritten) detection in Financial documents of the bank. Annotated the provided Dataset using LabelImg image annotation tool.\u00e2\u20ac\u00a2 Applied Transfer learning on YOLOv5,VGG19,ResNet50 and tuned the Hyperparameters using genetic algo.\u00e2\u20ac\u00a2 Achieved mAP score of 0.962 on YOLOv5, F1 scores of 0.981 with VGG19 and 0.958 with ResNet50 models.",
+            "description_html": "\u00e2\u20ac\u00a2 Worked on building Deep Learning Models for Checkbox and Signature (both digitally and handwritten) detection in Financial documents of the bank. Annotated the provided Dataset using LabelImg image annotation tool.\u00e2\u20ac\u00a2 Applied Transfer learning on YOLOv5,VGG19,ResNet50 and tuned the Hyperparameters using genetic algo.\u00e2\u20ac\u00a2 Achieved mAP score of 0.962 on YOLOv5, F1 scores of 0.981 with VGG19 and 0.958 with ResNet50 models. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Societe Generale",
+            "company_id": "societe-generale",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Developed REST API to manage user types and facilitate vehicle bookings, wrote Unit Tests in Jest Framework.\u00e2\u20ac\u00a2 Created an Apache Airflow DAG to fetch registered vehicle details, significantly reducing data analysis time.",
+            "description_html": "\u00e2\u20ac\u00a2 Developed REST API to manage user types and facilitate vehicle bookings, wrote Unit Tests in Jest Framework.\u00e2\u20ac\u00a2 Created an Apache Airflow DAG to fetch registered vehicle details, significantly reducing data analysis time. <!---->",
+            "duration": "Sep 2021 Dec 2021 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "4 months",
+            "company": "LetsTransport",
+            "company_id": "letstransport",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Durham, England, United Kingdom",
+            "description": "\u00e2\u20ac\u00a2Developed a database to establish relationships between various users of the company, eliminated redundancies in database.\u00e2\u20ac\u00a2Implemented K-Means Clustering Algorithm to group customers of the company on the basis of location based features.\u00e2\u20ac\u00a2Developed a Chat Application System where users can chat among themselves, integrated into the company's website.\u00e2\u20ac\u00a2Implemented YOLOv3, a pre-trained model followed by Non-maximum Suppression(NMS) to detect various taps in image.",
+            "description_html": "\u00e2\u20ac\u00a2Developed a database to establish relationships between various users of the company, eliminated redundancies in database.\u00e2\u20ac\u00a2Implemented K-Means Clustering Algorithm to group customers of the company on the basis of location based features.\u00e2\u20ac\u00a2Developed a Chat Application System where users can chat among themselves, integrated into the company's website.\u00e2\u20ac\u00a2Implemented YOLOv3, a pre-trained model followed by Non-maximum Suppression(NMS) to detect various taps in image. <!---->",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "The Joining Hands",
+            "company_id": "the-joining-hands",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Oct 2019 Jan 2021 1 year 4 months",
+            "start_date": "Oct 2019",
+            "end_date": "Jan 2021",
+            "duration_short": "1 year 4 months",
+            "company": "Industrial and Systems Engineering, IIT Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Mumbai, Maharashtra",
+            "description": "\u00e2\u20ac\u00a2Worked on creating Human-like voiceover(Speech Synthesis) using Deep Learning modules.\u00e2\u20ac\u00a2Built a base model from scratch for speech synthesis\u00e2\u20ac\u00a2Trained our own data using the concepts of transfer learning. \u00e2\u20ac\u00a2Applied transfer learning on Google Tacotron model",
+            "description_html": "\u00e2\u20ac\u00a2Worked on creating Human-like voiceover(Speech Synthesis) using Deep Learning modules.\u00e2\u20ac\u00a2Built a base model from scratch for speech synthesis\u00e2\u20ac\u00a2Trained our own data using the concepts of transfer learning. \u00e2\u20ac\u00a2Applied transfer learning on Google Tacotron model <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "The Rolling Circle",
+            "company_id": "the-rolling-circle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "OnCampus Project Intern",
+            "location": "Kolkata, West Bengal, India",
+            "description": "\u00e2\u20ac\u00a2Developed an Algorithm for scheduling rakes of TMILL using Mixed Integer Linear Programming in PuLP.\u00e2\u20ac\u00a2Used XLRD for dynamically extracting data from the provided database, developed a GUI using PyQt5 library.\u00e2\u20ac\u00a2Increased the number of rakes scheduled and thus increased the revenue of the company by 14%.\u00e2\u20ac\u00a2Collaboration of TMILL and IIT Kharagpur",
+            "description_html": "\u00e2\u20ac\u00a2Developed an Algorithm for scheduling rakes of TMILL using Mixed Integer Linear Programming in PuLP.\u00e2\u20ac\u00a2Used XLRD for dynamically extracting data from the provided database, developed a GUI using PyQt5 library.\u00e2\u20ac\u00a2Increased the number of rakes scheduled and thus increased the revenue of the company by 14%.\u00e2\u20ac\u00a2Collaboration of TMILL and IIT Kharagpur <!---->",
+            "duration": "Dec 2019 Feb 2020 3 months",
+            "start_date": "Dec 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "3 months",
+            "company": "TM International Logistics Ltd",
+            "company_id": "tm-international-logistics-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Divya Shivakumar",
+            "about": "Actively seeking Full-time and Spring 2025 internships | Graduate Student at UTD | Business Intelligence Analytics | ML | Data Analytics | Power BI | Product |",
+            "location": "Richardson, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Sharma",
+            "about": "Engineer @ Samsung",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Anuraag Shukla",
+            "about": "Gold medalist @ IIT Hyderabad '22 | IIT- Hyderabad' 23",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Asika Ghosh",
+            "about": "Research Scholar & Faculty | Marketing | Consumer Behavior",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Maria Noronha",
+            "about": "Secretary at The Times of India Group",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Srikanth Dasari",
+            "about": "Business Technology Analyst at Deloitte",
+            "location": "Andhra Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Somya Agrawal",
+            "about": "Product Designer at Hive",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Adarsh Vemali",
+            "about": "UCSD | IIT Kharagpur | Amazon | American Express",
+            "location": "San Diego, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Aparna Gupt",
+            "about": null,
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech + M.Tech ( Dual Degree )",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Major - Industrial and Systems Engineering Minor - Mathematics and Computing Micro Specialization - Artificial Intelligence And Applications",
+            "description_html": "Major - Industrial and Systems EngineeringMinor - Mathematics and ComputingMicro Specialization - Artificial Intelligence And Applications <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Heliger Borden Education Center, Kanpur",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Angel High School, Darbhanga",
+            "degree": "Class 10",
+            "field": "10",
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Big Data Processing\"},{\"subtitle\":\"-\",\"title\":\"Database Management System\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithm\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning Foundation and Applications\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Programming\"},{\"subtitle\":\"-\",\"title\":\"Operating System\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structure\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Maithili "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Apr 2021See credential",
+            "subtitle": "AlgoZenith",
+            "title": "Applied Algorithms and Data Structures"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID P6MH9QKRFG4NSee credential",
+            "subtitle": "Coursera",
+            "title": "Predicting House Prices with Regression using TensorFlow"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID FGQ9UHWDV9WTSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID  credential",
+            "subtitle": "Coursera",
+            "title": "Applied Machine Learning in Python"
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID RJVCXDJYMT4QSee credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 3017,
+    "connections": 500,
+    "current_company_company_id": "deutsche-bank",
+    "current_company_name": "Deutsche Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Berlin",
+    "linkedin_id": "suman-kumar-396325192",
+    "activity": [
+        {
+            "interaction": "Liked by Suman Kumar",
+            "link": "",
+            "title": "If I travel back to my Interview Days, I will study these 25 Articles to learn low-level system design: These articles will save you 50+ hours of\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7274834446367801345"
+        },
+        {
+            "interaction": "Liked by Suman Kumar",
+            "link": "",
+            "title": "Back to the second home: I left Indian Institute of Technology, Guwahati on Dec 15, 2014 as a graduating student to join as a faculty at IIT\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7274339298529718272"
+        },
+        {
+            "interaction": "Liked by Suman Kumar",
+            "link": "",
+            "title": "#IITDelhi Students Choosing Diverse Career Paths, Shows Graduation Exit Survey 2024 Students are keen on exploring multiple and diverse career\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7270717879426134017"
+        },
+        {
+            "interaction": "Liked by Suman Kumar",
+            "link": "",
+            "title": "I\u00e2\u20ac\u2122m thrilled to share that I will be attending the Grace Hopper Celebration India (GHCI) 2024! \u00f0\u0178\u017d\u2030 Looking forward to connecting with and learning\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7264665716270788608"
+        },
+        {
+            "interaction": "Liked by Suman Kumar",
+            "link": "",
+            "title": "Hey everyone! Reflolabs is hiring Founding Engineers and Interns (Fullstack, AI)! We\u00e2\u20ac\u2122re on a mission to transform global supply chains by\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7263131441155190784"
+        },
+        {
+            "interaction": "Liked by Suman Kumar",
+            "link": "",
+            "title": "So each solar panel keeps the laptop and internet up for 3 hrs. So I run my life on 6 hrs of internet \u00f0\u0178\u203a\u0153 per day before the inverter gives up\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7259617619413016577"
+        },
+        {
+            "interaction": "Liked by Suman Kumar",
+            "link": "",
+            "title": "Exciting news! We've just moved to our new office at 550 California. My co-founder is thrilled to finally have his own room\u00e2\u20ac\u201dno more debates over the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7259358883595329536"
+        }
+    ],
+    "linkedin_num_id": 759237090,
+    "honors_and_awards": [
+        {
+            "title": "Google Kickstart 2022 | Round G",
+            "publication": "Google",
+            "date": "2022-11-01T00:00:00.000Z",
+            "description": "Obtained global rank of 253 out of 10k+ participants"
+        },
+        {
+            "title": "Facebook Hackercup",
+            "publication": "Facebook",
+            "date": "2022-09-01T00:00:00.000Z",
+            "description": "Qualified for Round 2"
+        },
+        {
+            "title": "Google Kickstart 2022 | Round F",
+            "publication": "Google",
+            "date": "2022-09-01T00:00:00.000Z",
+            "description": "Obtained global rank of 945 out of 10k+ participants"
+        },
+        {
+            "title": "Google Kickstart 2022 | Round D",
+            "publication": "Google",
+            "date": "2022-07-01T00:00:00.000Z",
+            "description": "Obtained Global Rank 1159 out of 10,000+ participants."
+        },
+        {
+            "title": "Google Kickstart 2022 | Round C",
+            "publication": "Google",
+            "date": "2022-05-01T00:00:00.000Z",
+            "description": "Obtained Global Rank 1388 out of 12,000+ participants."
+        },
+        {
+            "title": "CodeKaze - Round 1",
+            "publication": "Coding Ninjas",
+            "date": "2022-03-01T00:00:00.000Z",
+            "description": "Obtained Global Rank 2957 of 20,000+ participants and qualified for CodeKaze Round 2"
+        },
+        {
+            "title": "Google Code Jam 2021",
+            "publication": "Google",
+            "date": "2021-04-01T00:00:00.000Z",
+            "description": "Qualified for Google Code Jam Round 1"
+        },
+        {
+            "title": "Google Kickstart 2021 | Round B",
+            "publication": "Google",
+            "date": "2021-04-01T00:00:00.000Z",
+            "description": "Obtained Global Rank 1936 out of 11,000+ participants"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,458 @@
+{
+    "id": "pratik-banka-216b2a16b",
+    "name": "Pratik Banka",
+    "city": "Kharagpur, West Bengal, India",
+    "country_code": "IN",
+    "position": "Solving Problems | Economics | IITKGP'23",
+    "about": "I solve problems!",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "IndiVillage Tech Solutions",
+        "company_id": "indivillage-businessforgood",
+        "title": "Solving Problems | Economics | IITKGP'23"
+    },
+    "experience": [
+        {
+            "title": "Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Dec 2023 - Present 1 year 1 month",
+            "start_date": "Dec 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 1 month",
+            "company": "IndiVillage Tech Solutions",
+            "company_id": "indivillage-businessforgood",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Work • Worked on a product to solve name matching issue by building required algorithm solving 7 interconnected layers of problem• Collected product requirements spending 250+ hours across 5 weeks to figure out hurdles and applying NLP concepts• Estimated frequency of change in the business address of an applicant, using cosine similarity & spent 80 hrs building logicImpact • Ensure reliability of product by achieving 99.7% accuracy in PAN Name matching and incorporating AML guidelines of RBI• Opmised loan-lending method & reduced risk to an applicant by incorporating frequency of address change as variable",
+            "description_html": "Work • Worked on a product to solve name matching issue by building required algorithm solving 7 interconnected layers of problem• Collected product requirements spending 250+ hours across 5 weeks to figure out hurdles and applying NLP concepts• Estimated frequency of change in the business address of an applicant, using cosine similarity &amp; spent 80 hrs building logicImpact • Ensure reliability of product by achieving 99.7% accuracy in PAN Name matching and incorporating AML guidelines of RBI• Opmised loan-lending method &amp; reduced risk to an applicant by incorporating frequency of address change as variable",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Protium",
+            "company_id": "protiumindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate (Intern)- Investment",
+            "location": "India",
+            "description": "Work • Carried out 50+ algo calls (for scoring), spending 100+ hrs to understand each deal and contacted 350+ startups over linkedin • Performed Term Sheet and Financial Projection analysis, prepared Deal Note and proofread LOA, BCA for Shellios Deal • Coordinated with multiple stakeholders during screening and maintained an effective communication with the investors Impact • Onboarded a startup (Shellios) in Mumbai Angels portfolio after pitching it among investors and executing call for money",
+            "description_html": "Work • Carried out 50+ algo calls (for scoring), spending 100+ hrs to understand each deal and contacted 350+ startups over linkedin • Performed Term Sheet and Financial Projection analysis, prepared Deal Note and proofread LOA, BCA for Shellios Deal • Coordinated with multiple stakeholders during screening and maintained an effective communication with the investors Impact • Onboarded a startup (Shellios) in Mumbai Angels portfolio after pitching it among investors and executing call for money",
+            "duration": "Nov 2021 Feb 2022 4 months",
+            "start_date": "Nov 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "4 months",
+            "company": "Mumbai Angels Network",
+            "company_id": "mumbaiangels",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant (FT)",
+            "location": "New Brunswick, Canada",
+            "description": "Work • Scrutinized relationship linking electricity consumption & climate change, performing Literature Review of 25+ research paper • Listed 24 factors of 4 groups, chose depth layer of 2 and performed hyperparameter tuning using Grid Search in XG Boost Impact • Achieved an R2 score of 0.91, significance model at 0.01% and submitted first draft for publication in Sage Journals",
+            "description_html": "Work • Scrutinized relationship linking electricity consumption &amp; climate change, performing Literature Review of 25+ research paper • Listed 24 factors of 4 groups, chose depth layer of 2 and performed hyperparameter tuning using Grid Search in XG Boost Impact • Achieved an R2 score of 0.91, significance model at 0.01% and submitted first draft for publication in Sage Journals <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "University of New Brunswick",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Manager",
+            "description": "Work • Performed funnel analysis & dissected dropouts at 2 stages, interacted with our customer & drafted Product Requirement (PRD)• Coordinated with Founder & technical team to plan and implement new user flow, validating hypothesis via A/B testing• Created 8 metrics to measure success on Google Data Studio & create dashboards for visualization, used SQL to fulfill data needImpact • Increased the rate of the fulfillment of orders by 150% and customer engagement with the app & stores by 40%",
+            "description_html": "Work • Performed funnel analysis &amp; dissected dropouts at 2 stages, interacted with our customer &amp; drafted Product Requirement (PRD)• Coordinated with Founder &amp; technical team to plan and implement new user flow, validating hypothesis via A/B testing• Created 8 metrics to measure success on Google Data Studio &amp; create dashboards for visualization, used SQL to fulfill data needImpact • Increased the rate of the fulfillment of orders by 150% and customer engagement with the app &amp; stores by 40%",
+            "duration": "Nov 2020 Feb 2021 4 months",
+            "start_date": "Nov 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "4 months",
+            "company": "Tradly",
+            "company_id": "tradly",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "description": "• Extracted tables based on key indicators from raw data using groupby, pivot and melt, applying concept of multiplier and filtered string for merge• Used tableau for extracting 9000+ table from reports 80+ mb and used python and its libraries & function to construct precise and summarized table",
+            "description_html": "• Extracted tables based on key indicators from raw data using groupby, pivot and melt, applying concept of multiplier and filtered string for merge• Used tableau for extracting 9000+ table from reports 80+ mb and used python and its libraries &amp; function to construct precise and summarized table <!---->",
+            "duration": "Jun 2020 Sep 2020 4 months",
+            "start_date": "Jun 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "4 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "description": "• Scrapped data of 1.2+ GB from NSE, MPLADS, FIFA, Antyodaya and IPL sites via python using selenium, nsepy & camelot libraries and their functions• Analysed and scrapped data from twitter handle of Smart Cities India of past 6 years record using NLP from random statements and reconstructing• Formulated the ranking of cricket players in one day format using Net batting/bowling contribution as proposed by D/L method using python",
+            "description_html": "• Scrapped data of 1.2+ GB from NSE, MPLADS, FIFA, Antyodaya and IPL sites via python using selenium, nsepy &amp; camelot libraries and their functions• Analysed and scrapped data from twitter handle of Smart Cities India of past 6 years record using NLP from random statements and reconstructing• Formulated the ranking of cricket players in one day format using Net batting/bowling contribution as proposed by D/L method using python <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Management, Indore",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Vaibhav Soni",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ambrish Awasthi",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh Shekhar",
+            "about": "Focusing my energies on digital transformation, adoption, strategy, P&L management & team building to super charge growth for Life sciences players across the globe",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr. S. Anand Reddy",
+            "about": "Certified Coach by Marshall Goldsmith | Author | Keynote Speaker | Motivational Speaker | HR - L&OD Expert",
+            "location": "Telangana, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Kannagi Shekhar",
+            "about": "Founder | Managing Director | Ex IT Consultant |Technology Enthusiast",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kshitiz Goel",
+            "about": "IMT Ghaziabad | Marketing Analytics",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Virendra Jadam",
+            "about": "Marketing |Project Management",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Giri",
+            "about": "Business Strategist with Strong Networking Area in Sales and Marketing. with 10k + Connections",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Ganesh S Padmanabhan",
+            "about": "Vice President (Search, Selection & RPO) at CIEL HR",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Asheesh Srivastava",
+            "about": "Operations Head at Million IQ Solutions | Leading IT, Non-IT, Blue Collar Recruitment, and Software Projects",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh Raj",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "SHASHI KANT SHARMA",
+            "about": "HR Consultant @ GLOBAL CXO HIRING | Performance, Relationships, Talent Acquisition",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankur Wali",
+            "about": "Associate Vice President at IDC Technologies, Inc.",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Amrita Singh",
+            "about": "Head of Operations, Talent Instaa; Freelance Storyteller",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vikash Modi",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Javed Ahmed",
+            "about": "General Manager HR at Mankind Pharma, Delhi",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Namrata Jain",
+            "about": null,
+            "location": "Thane"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravi Narayan",
+            "about": "Vice President specializing in HR at Talensetu Services Private Limited",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Deep Verma",
+            "about": "National Sales Head",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Piyush Jain",
+            "about": "Vice President at Ciel HR",
+            "location": "Faridabad"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Science - MS",
+            "field": "Economics",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Xavier High School",
+            "degree": "Science",
+            "field": "Science",
+            "start_year": "2007",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Reliance Academy",
+            "degree": "Science",
+            "field": "Science",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Bloomberg Marketing Concepts\"},{\"subtitle\":\"-\",\"title\":\"Corporate FInance\"},{\"subtitle\":\"-\",\"title\":\"Design Thinking for Innovative Education\"},{\"subtitle\":\"-\",\"title\":\"Econometrics Analysis I\"},{\"subtitle\":\"-\",\"title\":\"Econometrics Analysis II\"},{\"subtitle\":\"-\",\"title\":\"Economics of Growth\"},{\"subtitle\":\"-\",\"title\":\"Financial Institution and Markets\"},{\"subtitle\":\"-\",\"title\":\"Financial Institution and Markets\"},{\"subtitle\":\"-\",\"title\":\"Financial Markets\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning A to Z in python\"},{\"subtitle\":\"-\",\"title\":\"Macro Economics\"},{\"subtitle\":\"-\",\"title\":\"Market Micro Structure\"},{\"subtitle\":\"-\",\"title\":\"Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Micro Economics\"},{\"subtitle\":\"-\",\"title\":\"Operations Research 1\"},{\"subtitle\":\"-\",\"title\":\"Partial Differential Equation \"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures \"},{\"subtitle\":\"-\",\"title\":\"Public Finance and Policy\"},{\"subtitle\":\"-\",\"title\":\"Python for Data Science & AI\"},{\"subtitle\":\"-\",\"title\":\"ShARE 4 weeks\"},{\"subtitle\":\"-\",\"title\":\"Statistics for economics\"},{\"subtitle\":\"-\",\"title\":\"Zerodha Varsity\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "Indian Institute of Technology, Kharagpur",
+            "title": "Sachinandan Basak Memorial Prize"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 8BH5JDTQMSee credential",
+            "subtitle": "Coursera",
+            "title": "Design Thinking for Innovation"
+        },
+        {
+            "meta": "Issued Apr 2020",
+            "subtitle": "Coursera",
+            "title": "Financial Markets"
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID TR9AYEJZR3H8See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Corporate Finance "
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID CMCTMZXD7B2TSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID U7LNBPN3EJZ4See credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID 350046489966279See credential",
+            "subtitle": "ShareAll",
+            "title": "\"CONSULTING PRESENTATION\", \"PROBLEM SOLVING\", \"SLIDE MAKING\", AND \"COMMUNICATION\""
+        },
+        {
+            "meta": "Issued Oct 2018See credential",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "Aug 2020 - May 2021 · 10 months",
+            "duration_short": "10 months",
+            "end_date": "May 2021",
+            "info": "Part of 6 executives of Soft skill & Personality Development Society | 30 compus events, 8 collaborations | Budget of INR 75k• Led 3-tier team of 55 students to manage budget of INR 50k to conduct career aiding workshops &soft skill seminars for 12000+ students• Established contact with 12 external organisations to conduct event, analogous to career &published 30 blogs of interview experiences",
+            "start_date": "Aug 2020",
+            "subtitle": "Communiqué IIT Kharagpur",
+            "title": "Governor"
+        },
+        {
+            "cause": "Social Services",
+            "duration": "Dec 2018 - Jul 2020 · 1 year 8 months",
+            "duration_short": "1 year 8 months",
+            "end_date": "Jul 2020",
+            "info": "Steered a team of 70+ members to organize Pingla Patt stall in SF, Paper Bin in library, donating 100+ clothes and Nukkad Natak at Netaji Auditorium. Alongside, I presented a report for the inclusion of a separate Unit 16 to over 15+ Professors, and coordinated implementation, impacting 1300+ NSS volunteers",
+            "start_date": "Dec 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Unit Leader"
+        },
+        {
+            "duration": "Apr 2020 - May 2021 · 1 year 2 months",
+            "duration_short": "1 year 2 months",
+            "end_date": "May 2021",
+            "info": "Led team of 12 core-members | India’s largest student-run NGO | 3 national event, 1 social competition | Budget INR 30 Lakhs Initatives • Established & guided 2 student-run centres Sikkim &Gaya, consisting of 20 students &provided a platform of resource • Ideated & implemented career counselling &Teacher Training with participation of 70 mentor, 450 mentee, 15 TeacherManagement • Managed 40 Campus Ambassadors to market for the Case Study Addhyan, National donation drive and…\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          Led team of 12 core-members | India’s largest student-run NGO | 3 national event, 1 social competition | Budget INR 30 Lakhs Initatives • Established & guided 2 student-run centres Sikkim &Gaya, consisting of 20 students &provided a platform of resource • Ideated & implemented career counselling &Teacher Training with participation of 70 mentor, 450 mentee, 15 TeacherManagement • Managed 40 Campus Ambassadors to market for the Case Study Addhyan, National donation drive and expansion drive • Organised social campaigns at 10 LiGHT centres directly impacting 18000+ beneficiaries and raised INR 3.5L in Yogdaan\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Apr 2020",
+            "subtitle": "Gopali Youth Welfare Society",
+            "title": "General Manager"
+        }
+    ],
+    "followers": 4563.0,
+    "connections": 500.0,
+    "current_company_company_id": "indivillage-businessforgood",
+    "current_company_name": "IndiVillage Tech Solutions",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Employment-Unemployment Survey in India\",\"start_date\":\"Nov 2019\",\"description\":\"I have been responsible for analysing the major trend in unemployment/employment sector from the past 40 years of survey done by NSSO\"},{\"title\":\"Hallmark Finance Stock Analysis\",\"start_date\":\"Mar 2021\",\"end_date\":\"Mar 2021\",\"description\":\"• Analysed the overall Property & Casualty (P&C) sub-industry under its competitors and complete finance industry to recognize for possible trend• Tabulated and calculated the financial & technical Indicators to respond for actions to be taken for each indicator in long & short term and for the stock\"},{\"title\":\"Sports Analytics\",\"start_date\":\"May 2020\",\"end_date\":\"Jun 2020\",\"description\":\"I have analysed the ranking of cricket players in one day format using Net batting/bowling contribution as proposed by D/L method using python.\"}]",
+    "organizations": null,
+    "location": "Kharagpur",
+    "linkedin_id": "pratik-banka-216b2a16b",
+    "activity": [
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "This Diwali, we celebrate bringing tech opportunities to rural India, where talent knows no pin code. Proud to see our team members illuminate their…",
+            "img": "",
+            "id": "7257682181102133248"
+        },
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "#Diwali, the festival of lights transcends mere celebration; it embodies a profound journey of renewal and hope, a powerful reminder of resilience…",
+            "img": "",
+            "id": "7255312154646491136"
+        },
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "Maruti Suzuki sold more cars than its next three competitors combined! Do you think they will be able to replicate it this year? Let us know in the…",
+            "img": "",
+            "id": "7254092108012101633"
+        },
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "After the success of our First-Time Manager Training, we’ve now rolled out Campus to Corporate Training sessions at our managed tech centers in Bassi…",
+            "img": "",
+            "id": "7247480943307849728"
+        },
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "🌟 Grateful and Proud to Be a Part of IndiVillage Tech Solutions🌟 Returning to work after maternity leave can be a challenging transition, but I’m…",
+            "img": "",
+            "id": "7233677073767145473"
+        },
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "Did you know that inaccurate product listings can significantly impact product returns on Amazon? 😱 Our team at IndiVillage has been helping…",
+            "img": "",
+            "id": "7226791704794742785"
+        },
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "Earlier this month, we had the opportunity to hear from Peter H. Diamandis at the Exponential Organization Conference in Bengaluru and later in…",
+            "img": "",
+            "id": "7222443045437235200"
+        },
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "Proud Partnership Announcement! 🌟 We are thrilled to have collaborated with Audere on a pivotal study exploring the use of AI to enhance HIV…",
+            "img": "",
+            "id": "7201918255370809345"
+        },
+        {
+            "interaction": "Liked by Pratik Banka",
+            "link": "",
+            "title": "As I stand on the threshold of a new chapter, the echoes of five incredible years at IIT Kharagpur resonate with pride. Earning both Bachelor's and…",
+            "img": "",
+            "id": "7154527804250894336"
+        }
+    ],
+    "linkedin_num_id": 680614578.0,
+    "honors_and_awards": [
+        {
+            "title": "Bronze at How to Open IIT KGP",
+            "publication": "IIT Kharagpur",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": "• Led a team of 18 members to plan for the recalling of students & opening of IIT Kharagpur considering the situation prevailing in the month of February • Presented a report of 46 pages containing innovative solutions for over 24 questions of rules, operations, testing, academics & management hierarchy • Scrutinized Epimodel to predict possible scenarios and prepared timeline & Cash Flow to complete framework for calling students and funding"
+        },
+        {
+            "title": "Finalist Hult Prize IITKGP",
+            "publication": "Hult Prize IITKGP",
+            "date": "2020-09-01T00:00:00.000Z",
+            "description": "• Analyzed the current players in food delivery market around the world and the traditional & 21st technological food delivery system in India • Proposed a SaaS marketplace for home chefs and its plans related to implementation and expansion after doing surveys of 100+ home chefs"
+        },
+        {
+            "title": "Winner at MIT COVID Challenge",
+            "publication": "MIT Covid19 Challenge",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "• Theorized the current problems in mass testing and delivered a remedy for filtering out possible abnormalities to help migrant workers get easily hired • Integrated a statistical model that can analyse the primary features of temperature and breathing patterns to predict the abnormalities in health"
+        },
+        {
+            "title": "Finanlist",
+            "publication": "Techniche, IIT Guwahati",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": "• Provided solution for expansion dilemma of Relief INC. by grading the plans of three cities on competition, market size, % tapping & govt influence • Drew the Profit & Loss statement for the new expansion city, using mean distribution for the market, other cost and revenue from above & CAGR"
+        },
+        {
+            "title": "Gold at Interhall",
+            "publication": "Gymkhana, IIT Kharagpur",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "• Secured Gold in General Championship competing among 13 halls by solving a Corporate Entrepreneurship problem in Adventure Tourism • Used SWAT & SMART analysis and 2 fold analysis of people division and product requirement to prepare the complete framework to market entry."
+        },
+        {
+            "title": "Gold at Megalith",
+            "publication": "Megalith",
+            "date": "2019-02-01T00:00:00.000Z",
+            "description": "• Used correlation matrix to predict water management index & Fuzzy model to predict the intensity of underground water scarcity problem • Provided statistical and model based solution to improve the situation and quality with a target of 30 years into the future"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "city": "India",
+    "position": "UI Engineer | React js | Javascript",
+    "experience": [
+        {
+            "title": "System Analyst 2",
+            "description_html": null,
+            "duration": "Jan 2024 Jul 2024 7 months",
+            "start_date": "Jan 2024",
+            "end_date": "Jul 2024",
+            "duration_short": "7 months",
+            "company": "EbixCash",
+            "company_id": "ebixcash-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Frontend Developer",
+            "description_html": null,
+            "duration": "Jun 2021 Aug 2023 2 years 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2023",
+            "duration_short": "2 years 3 months",
+            "company": "Via.com",
+            "company_id": "via-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Frontend Developer",
+            "description_html": null,
+            "duration": "Jan 2020 May 2021 1 year 5 months",
+            "start_date": "Jan 2020",
+            "end_date": "May 2021",
+            "duration_short": "1 year 5 months",
+            "company": "Webslogin IT Services Private Limited",
+            "company_id": "webslogin",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+            "degree": "Bachelor's degree",
+            "field": "Computer Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Udacity",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "freeCodeCamp",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "EbixCash",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

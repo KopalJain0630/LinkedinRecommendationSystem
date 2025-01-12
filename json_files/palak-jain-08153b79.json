@@ -1,0 +1,378 @@
+{
+    "id": "palak-jain-08153b79",
+    "name": "Palak Jain",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Lead Applied Research @ Fidelity Investments",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Fidelity Investments",
+        "company_id": "fidelity-investments",
+        "title": "Lead Applied Research @ Fidelity Investments"
+    },
+    "experience": [
+        {
+            "title": "Lead - Applied Research",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Sep 2023 - Present 1 year 4 months",
+            "start_date": "Sep 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 4 months",
+            "company": "Fidelity Investments",
+            "company_id": "fidelity-investments",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Data Scientist",
+            "description": "• Lead AI-innovation initiatives in team, developed automatic data analysis chatbot using LLMs by maintaining data privacy, deployed as webapp using Streamlit.• With cross-functional team collaboration, replaced existing ASR with SOTA technologies to fulfil business SLAs - improved transcription quality, reduced response time. (technology - Nvidia, Whisper,wave2vec2, Azure - cognitive service, BlobStorage)• Built enterprise grade e2e voice analytic solution, designed & deployed NLP capabilities to enable call insights and contact center modernization - auditing agent's performance on certain guidelines, call summarization, call intent, keywords etc.Outcome - successful production release, unbiased auditing of 45k calls monthly within TAT, 28% efficiency gain, saving $100k/yr. (technology - AWS S3, speech recognition, NLP, LLMs, FastAPI, Docker, Git)• Built pipeline to retrieve open-domain query-specific answers - optimized latency by quantizing pre-trained models from huggingface.• Handholding of junior team members by guiding to up-skill & contribute to team’s success.",
+            "description_html": "• Lead AI-innovation initiatives in team, developed automatic data analysis chatbot using LLMs by maintaining data privacy, deployed as webapp using Streamlit.• With cross-functional team collaboration, replaced existing ASR with SOTA technologies to fulfil business SLAs - improved transcription quality, reduced response time. (technology - Nvidia, Whisper,wave2vec2, Azure - cognitive service, BlobStorage)• Built enterprise grade e2e voice analytic solution, designed &amp; deployed NLP capabilities to enable call insights and contact center modernization - auditing agent's performance on certain guidelines, call summarization, call intent, keywords etc.Outcome - successful production release, unbiased auditing of 45k calls monthly within TAT, 28% efficiency gain, saving $100k/yr. (technology - AWS S3, speech recognition, NLP, LLMs, FastAPI, Docker, Git)• Built pipeline to retrieve open-domain query-specific answers - optimized latency by quantizing pre-trained models from huggingface.• Handholding of junior team members by guiding to up-skill &amp; contribute to team’s success.",
+            "duration": "Feb 2022 Sep 2023 1 year 8 months",
+            "start_date": "Feb 2022",
+            "end_date": "Sep 2023",
+            "duration_short": "1 year 8 months",
+            "company": "Optum Global Solutions (UHG)",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tata Consultancy Services",
+            "location": "Gurgaon, Haryana, India",
+            "description_html": null,
+            "duration": "4 years 8 months",
+            "positions": [
+                {
+                    "subtitle": "Tata Consultancy Services",
+                    "meta": "Aug 2019 - Feb 2022 2 years 7 months",
+                    "description": "• Developed novel e2e DL-based solution to derive business insights from complex voluminous PDFs without human intervention - saved hours by automation (technology - OCR, object detection, layout analysis, retrieval, NLP)• Designed a domain-agnostic tool to extract tabular information for Q&A from PDFs - 25% performance improvement against open-source tools.• Published research papers in conferences like AAAI, CODS-COMAD.",
+                    "duration": "Aug 2019 Feb 2022 2 years 7 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Feb 2022",
+                    "duration_short": "2 years 7 months",
+                    "title": "Researcher - Web Intelligence and Text Mining Team",
+                    "description_html": "• Developed novel e2e DL-based solution to derive business insights from complex voluminous PDFs without human intervention - saved hours by automation (technology - OCR, object detection, layout analysis, retrieval, NLP)<br><br>• Designed a domain-agnostic tool to extract tabular information for Q&amp;A from PDFs - 25% performance improvement against open-source tools.<br><br>• Published research papers in conferences like AAAI, CODS-COMAD. <!---->"
+                },
+                {
+                    "subtitle": "Tata Consultancy Services",
+                    "meta": "Jul 2017 - Aug 2019 2 years 2 months",
+                    "description": "Designed large-scale sales forecast, price recommendation system - improved client margin by 4% (approx. 3M USD).",
+                    "duration": "Jul 2017 Aug 2019 2 years 2 months",
+                    "start_date": "Jul 2017",
+                    "end_date": "Aug 2019",
+                    "duration_short": "2 years 2 months",
+                    "title": "Researcher - Retail",
+                    "description_html": "Designed large-scale sales forecast, price recommendation system - improved client margin by 4% (approx. 3M USD). <!---->"
+                }
+            ],
+            "company": "Tata Consultancy Services",
+            "company_id": "tata-consultancy-services",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Project Trainee",
+            "location": "Maniconda Village, Hyderabad",
+            "description_html": null,
+            "duration": "Feb 2015 Mar 2015 2 months",
+            "start_date": "Feb 2015",
+            "end_date": "Mar 2015",
+            "duration_short": "2 months",
+            "company": "Wipro",
+            "company_id": "wipro",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Aman Verma",
+            "about": "Innovation and AI Research with IITD, NITRR, IIT Mandi, MNNIT, IIITH, NTNU",
+            "location": "Raipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Somjit Nath",
+            "about": "PhD Student at McGill/Mila | MSc at UAlberta",
+            "location": "Montreal, QC"
+        },
+        {
+            "profile_link": "",
+            "name": "Arnav Jain",
+            "about": "PhD student at Mila",
+            "location": "Montreal, QC"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Gohil",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivin Diwakar",
+            "about": "Research Engineer at Staqu Technologies | Deep Learning Researcher",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Raj",
+            "about": "FRM || Goldman Sachs || WorldQuant || University of Alberta || IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hardik Sanchawat",
+            "about": null,
+            "location": "London Area, United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Surya Prabhakaran",
+            "about": "Working Student Computer Vision @ LiangDao | MSc Informatics @ TUM | Computer Vision",
+            "location": "Munich"
+        },
+        {
+            "profile_link": "",
+            "name": "Sovan Kumar Patra",
+            "about": "Researcher at TATA STEEL R&D| IIT KGP| BIT MESRA",
+            "location": "Jharkhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishal Purohit",
+            "about": "ECE Ph.D. Candidate - Purdue University",
+            "location": "West Lafayette, IN"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master's degree",
+            "field": "Multimedia Information Processing",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Graphic Era University, Dehradun",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Instrumentation Engineering",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": "Gold medalist of EIE department of batch 2011-2015",
+            "description_html": "Gold medalist of EIE department of batch 2011-2015 <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 3.0,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2023Credential ID 5168684See credential",
+            "subtitle": "Google",
+            "title": "Generative AI Fundamentals"
+        },
+        {
+            "meta": "Issued Sep 2023Credential ID 5168414See credential",
+            "subtitle": "Google",
+            "title": "Introduction to Generative AI"
+        },
+        {
+            "meta": "Issued Sep 2023Credential ID 5168460See credential",
+            "subtitle": "Google",
+            "title": "Introduction to Large Language Models"
+        },
+        {
+            "meta": "Issued Sep 2023Credential ID 5168503See credential",
+            "subtitle": "Google",
+            "title": "Introduction to Responsible AI"
+        },
+        {
+            "meta": "Issued Sep 2023Credential ID 5168908See credential",
+            "subtitle": "Google",
+            "title": "Transformer Models and BERT Model"
+        },
+        {
+            "meta": "Issued Aug 2023Credential ID 5168947See credential",
+            "subtitle": "Google",
+            "title": "Attention Mechanism"
+        },
+        {
+            "meta": "Issued Aug 2023Credential ID 5168855See credential",
+            "subtitle": "Google",
+            "title": "Encoder-Decoder Architecture"
+        },
+        {
+            "meta": "Issued Dec 2020",
+            "subtitle": "Dr B R Ambedkar National Institute of Technology, Jalandhar",
+            "title": "Session Chair for Track: Application of Machine and deep learning for quality assurance in Internation Congress on Advances in Material Science and Engineering (CAMSE-2020)"
+        },
+        {
+            "meta": "Issued Dec 2020See credential",
+            "subtitle": "Dr. B R Ambedkar National Institute of Tchnology, Jalandhar ( PUNJAB)",
+            "title": "Session Chair for Track: Computer Vision and Natural Language Processing in 5th International Conference on Soft Computing: Theories and Applications (SoCTA-2020) "
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID L8HPYWKA592VSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID LWQK7DXG2ZJHSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued May 2015",
+            "subtitle": "Graphic Era University Official",
+            "title": "Gold medalist"
+        }
+    ],
+    "recommendations": [
+        "Sandeep Das “Innovation and lateral thinking are her key assets with an ability to research and execute ideas. I also valued her leadership in managing people's aspirations and aligning them to a broader team strategy. Wishing you the best of luck in future.”",
+        "Dibyendu Karmakar “I had the pleasure of working alongside Palak Jain during our MTech program, and I was continually impressed by her exceptional expertise in data science. Her ability to analyze complex datasets and extract valuable insights is truly remarkable. Palak consistently demonstrated a deep understanding of machine learning algorithms and statistical techniques, which greatly contributed to the success of our projects. Her strong problem-solving skills and dedication to producing high-quality results make her a standout professional in the field. I wholeheartedly recommend Palak for any data science endeavor.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jan 2019 - Sep 2021 · 2 years 9 months",
+            "duration_short": "2 years 9 months",
+            "end_date": "Sep 2021",
+            "info": "The objective of this research is to build a general, domain-agnostic deep sequential model which understands long-term dependencies in the sequence of events.",
+            "start_date": "Jan 2019",
+            "subtitle": "Indian Institute of Technology, Kharagpur",
+            "title": "Academic Colaboration for research"
+        }
+    ],
+    "followers": 1150.0,
+    "connections": 500.0,
+    "current_company_company_id": "fidelity-investments",
+    "current_company_name": "Fidelity Investments",
+    "publications": "[{\"title\":\"Extracting Tabular data for Question-Answering from Documents\",\"subtitle\":\"CODS COMAD 2021: 8th ACM IKDD CODS and 26th COMAD\",\"date\":\"Jan 2021\"},{\"title\":\"Mining company sustainability reports to aid financial decision-making\",\"subtitle\":\"AAAI-KDF2020\",\"date\":\"Apr 2020\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Fact verification and evidence finding from semi-structured tables\",\"start_date\":\"2021\",\"description\":\"Implemented BERT-backend model (TAPAS) to classify a complex natural language statement into entail/refute/unknown class based on the information given in a table. Fine-tuned the pre-trained model to achieve competitive accuracy on a standard dataset.Currently working on a knowledge graph approach to incorporate table relations for representation learning and complex reasoning.\"},{\"title\":\"Complete NLP Pipeline for Sentiment Analysis\",\"start_date\":\"2021\",\"end_date\":\"2021\",\"description\":\"Designed a pipeline that scrapes Google News articles, visualizes word cloud for text cleaning, performs sentiment analysis using TextBlob and generates summary using genism summarization techniques. Deployed the pipeline as PIP package.\"},{\"title\":\"An end-to-end system for Q&A from tables contained in large PDFs\",\"start_date\":\"2020\",\"end_date\":\"2020\",\"description\":\"Designed a domain agnostic system (QuATab) which processes large PDFs using OCR, automatically extracts tables without human intervention, recognizes tabular structures, parses natural language query and detects possible answers within extracted tables. QuATab outperformed two open-source tools (Camelot & Tabula) with large margin. Implemented the system as a web application.\"},{\"title\":\"Knowledge-driven information extraction from Sustainability Reports\",\"start_date\":\"2019\",\"end_date\":\"2020\",\"description\":\"Semantically analyzed ESG data reported by organizations in Sustainability reports. Detected Non-availability/Misinformation for ESG data governance.\"},{\"title\":\"Non Linear, competitive, dynamic pricing optimisation system\",\"start_date\":\"2018\",\"end_date\":\"2019\",\"description\":\"This system recommends optimal prices for large volume of products for online retailers so that the overall yield is maximised. The dynamic pricing is based on 2-level Deep Learning architecture for sales prediction for short term period.\"},{\"title\":\"Large Scale E-commerce Sales Predictions \",\"start_date\":\"2018\",\"end_date\":\"2018\",\"description\":\"This project deals with analysing an online US book retailer’s E-commerce sales data and developing a sales prediction model for their 6 million books, using the last 14 months of training data that is robust enough to handle high rate of new SKU's introduction. Project resulted in approximately 4% margin improvement (approx. 3M USD) to the client.\"},{\"title\":\"Scalable Content Based Image Retrieval (M-tech thesis)\",\"start_date\":\"2017\",\"end_date\":\"2017\",\"description\":\"Designed a system that efficiently searches database (1 Million images) using some smart data structures, searching scheme (Selective Search), clustering algorithms like Kmeans++ , inverted index lists for indexing and retrieves the top best matches of the query image and also maintains the scalability.\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "palak-jain-08153b79",
+    "activity": [
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "Microsoft just open-sourced MarkItDown, a Python library that lets you convert any document to Markdown. Huge for LLMs. It supports: • PDF •…",
+            "img": "",
+            "id": "7275201481828454403"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "Meta just released an industry-shaking paper. They were able to get rid of tokens and train transformers directly on raw bytes. Here’s how they did…",
+            "img": "",
+            "id": "7274811889094639616"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "During the process of writing AI Engineering, I went through so many papers, case studies, blog posts, repos, tools, etc. This repo contains ~100…",
+            "img": "",
+            "id": "7273179076809400320"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "Announcing new open-source Python package: aisuite! This makes it easy for developers to use large language models from multiple providers. When…",
+            "img": "",
+            "id": "7266851242604134400"
+        },
+        {
+            "interaction": "Shared by Palak Jain",
+            "link": "",
+            "title": "Thrilled to be a part of Team Saifr. Congratulations!",
+            "img": "",
+            "id": "7265343623611723776"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "If you are into LLMs and feel lost (like most of us), here is a fantastic repository that curates the top tools, blogs and tutorials. The LLM space…",
+            "img": "",
+            "id": "7264223454751563776"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "If you are looking for something to read/study this weekend, I added lots of LLM-related bonus from-scratch coding resources over the last few months…",
+            "img": "",
+            "id": "7260662650060091392"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "\"What Matters In Transformers?\" is an interesting paper ( that finds you can actually remove half of the attention layers in…",
+            "img": "",
+            "id": "7254479689715441664"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "RAG Developer Attention! 🔔 Docling is a new library from IBM that efficiently parses PDF, DOCX, and PPTX and exports them to Markdown and JSON. It…",
+            "img": "",
+            "id": "7258160199876624384"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "I just read the \"Thinking LLMs: General Instruction Following With Thought Generation\" paper ( which offers a simple yet…",
+            "img": "",
+            "id": "7255943507645759488"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "This came unexpected! OpenAI released Swarm, a lightweight library for building multi-agent systems. Swarm provides a stateless abstraction to manage…",
+            "img": "",
+            "id": "7250841965519368192"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "I just put together a short Jupyter notebook with tips and tricks for reducing memory usage when loading larger and larger models (like LLMs) in…",
+            "img": "",
+            "id": "7251618026209320961"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "How does OpenAI train the Strawberry🍓 (o1) model to spend more time thinking? I read the report. The report is mostly about 𝘸𝘩𝘢𝘵 impressive…",
+            "img": "",
+            "id": "7240201012697833472"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "The wait is finally over. GPT-5 is out, and it's called OpenAI o1. It can code an entire video game from a single prompt and do complex…",
+            "img": "",
+            "id": "5"
+        },
+        {
+            "interaction": "Liked by Palak Jain",
+            "link": "",
+            "title": "With exhilaration and excitement, the Department of Artificial Intelligence at Indian Institute of Technology, Kharagpur Kharagpur was inaugurated on…",
+            "img": "",
+            "id": "7236436552447320064"
+        }
+    ],
+    "linkedin_num_id": 279021985.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

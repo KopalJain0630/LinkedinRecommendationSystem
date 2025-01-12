@@ -1,0 +1,51 @@
+{
+    "city": "Bangalore Urban, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018-07",
+            "end_year": "2023-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2018-07",
+            "end_year": "2023-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2005",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advanced Mass Transfer\"},{\"subtitle\":\"-\",\"title\":\"Advanced Numerical Techniques\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence for Manufacturing\"},{\"subtitle\":\"-\",\"title\":\"Biochemical Engineering\"},{\"subtitle\":\"-\",\"title\":\"Chemical Process Calculation\"},{\"subtitle\":\"-\",\"title\":\"Chemical Process Technology\"},{\"subtitle\":\"-\",\"title\":\"Computer Aided Process Engineering\"},{\"subtitle\":\"-\",\"title\":\"Computer Methods in Chemical Engineering\"},{\"subtitle\":\"-\",\"title\":\"Economics\"},{\"subtitle\":\"EE10001\",\"title\":\"Electrical Technology\"},{\"subtitle\":\"-\",\"title\":\"File Organisation & Database Systems\"},{\"subtitle\":\"-\",\"title\":\"Fluid Mechanics\"},{\"subtitle\":\"-\",\"title\":\"Heat Transfer\"},{\"subtitle\":\"-\",\"title\":\"Instrumentation & Process Control\"},{\"subtitle\":\"-\",\"title\":\"Mass Transfer\"},{\"subtitle\":\"-\",\"title\":\"Mechanical Operation\"},{\"subtitle\":\"-\",\"title\":\"Numerical Solution of ODE and PDE\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Process Modelling & Simulation\"},{\"subtitle\":\"CS10001\",\"title\":\"Progamming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Reaction Engineering\"},{\"subtitle\":\"-\",\"title\":\"Real Analysis\"},{\"subtitle\":\"-\",\"title\":\"Thermodynamics\"},{\"subtitle\":\"-\",\"title\":\"Transform Calculus\"},{\"subtitle\":\"-\",\"title\":\"Transport Phenomena\"}]",
+    "certifications": [
+        {
+            "meta": "Issued May 2021See credential",
+            "subtitle": "AlgoZenith",
+            "title": "Applied Algorithms & Data Structures"
+        }
+    ],
+    "current_company_name": "Technoforte Software Pvt. Ltd.",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Todo List Web Application\",\"start_date\":\"Nov 2021\",\"end_date\":\"Dec 2021\",\"description\":\"• Developed a dynamic website that enables the user to create, edit, and track the status of each todo item on the daily basis• Utilized HTML list elements to display the tasks, also used CSS and Bootstrap to make the UI more friendly and accessible• Implemented todo CRUD operations by using JavaScript event listeners consisting of arrays, objects, and class methods\"},{\"title\":\"Detecting Covid-19 with chest X-rays\",\"start_date\":\"Jun 2021\",\"end_date\":\"Jul 2021\",\"description\":\"• Built image classification model which classifies Chest X-ray scans as one of the 3 classes- Normal, Pneumonia or Covid19• Used pre-trained ResNet18 in PyTorch with Covid-19 radiography dataset, achieving an accuracy of 92% on validation data\"},{\"title\":\"Facial Expression Recognition\",\"start_date\":\"Apr 2021\",\"end_date\":\"May 2021\",\"description\":\"• Implemented 4 layer convolutional neural network using Keras to identify 7 facial expressions achieving an accuracy of 88%• Utilized OpenCV to automatically detect human expressions in real-time videos, employed ADAM optimizer for better results• Deployed the trained model on Heroku using Flask, where the user can upload videos and get the predicted facial expression\"}]",
+    "honors_and_awards": null
+}

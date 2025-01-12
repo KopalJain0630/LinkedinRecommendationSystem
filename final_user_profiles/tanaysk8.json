@@ -1,0 +1,209 @@
+{
+    "city": "Ranchi, Jharkhand, India",
+    "position": "SDE @Zscaler | Software Developer",
+    "experience": [
+        {
+            "title": "Zscaler",
+            "location": "Sahibzada Ajit Singh Nagar, Punjab, India",
+            "description_html": null,
+            "duration": "11 months",
+            "positions": [
+                {
+                    "subtitle": "Zscaler",
+                    "meta": "Dec 2024 - Present 1 month",
+                    "description": "Working to bring world class solutions to life for the engineers of the organisation. From Development to DevOps, the area of work impacts 100% engineering teams of the organisation.- Worked as a Developer to build an application that can trigger a deployment and its regression test with just 3 clicks. Being used by every client facing team at Zscaler. - The above mentioned tool, finds over 40 issues every hour, thereby saving company resources in bug hunting and reduces dependency on manual testing.- Working as a DevSecOps Engineer to support the engineer teams and ease their experience.- Working on onboarding, testing and migrating data to a tool that consolidates functionalities served by a distributed set of tools into a single application. Thereby saving company costs and reducing the learning curve of a developer.- Working on automating support ticket queues, to reduce human intervention and decrease the Mean Time To Resolve to the industry best of under 5 hours which is a 95% improvement.",
+                    "duration": "Dec 2024 - Present 1 month",
+                    "start_date": "Dec 2024",
+                    "end_date": "Present",
+                    "duration_short": "1 month",
+                    "title": "Software Development Engineer",
+                    "description_html": "Working to bring world class solutions to life for the engineers of the organisation. From Development to DevOps, the area of work impacts 100% engineering teams of the organisation.<br><br>- Worked as a Developer to build an application that can trigger a deployment and its regression test with just 3 clicks. Being used by every client facing team at Zscaler. <br>- The above mentioned tool, finds over 40 issues every hour, thereby saving company resources in bug hunting and reduces dependency on manual testing.<br>- Working as a DevSecOps Engineer to support the engineer teams and ease their experience.<br>- Working on onboarding, testing and migrating data to a tool that consolidates functionalities served by a distributed set of tools into a single application. Thereby saving company costs and reducing the learning curve of a developer.<br>- Working on automating support ticket queues, to reduce human intervention and decrease the Mean Time To Resolve to the industry best of under 5 hours which is a 95% improvement."
+                },
+                {
+                    "subtitle": "Zscaler",
+                    "meta": "Sep 2024 - Dec 2024 4 months",
+                    "duration": "Sep 2024 Dec 2024 4 months",
+                    "start_date": "Sep 2024",
+                    "end_date": "Dec 2024",
+                    "duration_short": "4 months",
+                    "title": "Associate Software Development Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Zscaler",
+                    "meta": "Feb 2024 - Sep 2024 8 months",
+                    "duration": "Feb 2024 Sep 2024 8 months",
+                    "start_date": "Feb 2024",
+                    "end_date": "Sep 2024",
+                    "duration_short": "8 months",
+                    "title": "Developer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Zscaler",
+            "company_id": "zscaler",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Python Developer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "Arthalab",
+            "company_id": "arthalab",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GDSC Lead",
+            "location": "Gunupur, Odisha, India",
+            "description_html": null,
+            "duration": "Jul 2022 Aug 2023 1 year 2 months",
+            "start_date": "Jul 2022",
+            "end_date": "Aug 2023",
+            "duration_short": "1 year 2 months",
+            "company": "Google Developer Student Clubs",
+            "company_id": "developerstudents",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Salesforce Developer",
+            "location": "Bangalore",
+            "description": "Worked on Salesforce Developer CRM Platform, that helps in efficiently increasing the ease of doing business by up to 50%. Developed several dashboards for automation of sales and service that carried features such as Leads, Potential Leads in Sales and Deals that were won, closed or lost.",
+            "description_html": "Worked on Salesforce Developer CRM Platform, that helps in efficiently increasing the ease of doing business by up to 50%. Developed several dashboards for automation of sales and service that carried features such as Leads, Potential Leads in Sales and Deals that were won, closed or lost. <!---->",
+            "duration": "Jul 2022 Oct 2022 4 months",
+            "start_date": "Jul 2022",
+            "end_date": "Oct 2022",
+            "duration_short": "4 months",
+            "company": "SmartInternz",
+            "company_id": "smartinternz",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst Intern",
+            "location": "Singapore",
+            "description": "Built a Machine Learning Model that accurately predicts a student's score based on the effort they've put in. The Model carried an accuracy of 93% and could correctly predict for almost all test cases.",
+            "description_html": "Built a Machine Learning Model that accurately predicts a student's score based on the effort they've put in. The Model carried an accuracy of 93% and could correctly predict for almost all test cases. <!---->",
+            "duration": "Jul 2022 Oct 2022 4 months",
+            "start_date": "Jul 2022",
+            "end_date": "Oct 2022",
+            "duration_short": "4 months",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Gandhi Institute of Engineering and Technology (GIET), Gunupur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vivekananda Vidyamandir Ranchi",
+            "degree": "Higher Secondary",
+            "field": "PCM",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Thomas Ranchi",
+            "degree": "Matriculation",
+            "field": "90.1",
+            "start_year": "2006",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023",
+            "subtitle": "PrepInsta",
+            "title": "Competitive Coding Course"
+        },
+        {
+            "meta": "Issued Jun 2023",
+            "subtitle": "PrepInsta",
+            "title": "Data Strucutres and Algorithm in Python"
+        },
+        {
+            "meta": "Issued Jun 2023",
+            "subtitle": "PrepInsta",
+            "title": "DBMS Course"
+        },
+        {
+            "meta": "Issued Jun 2023",
+            "subtitle": "PrepInsta",
+            "title": "PowerBi"
+        },
+        {
+            "meta": "Issued Jun 2023",
+            "subtitle": "PrepInsta",
+            "title": "SQL Course"
+        },
+        {
+            "meta": "Issued May 2023",
+            "subtitle": "PrepInsta",
+            "title": "Basic Coding Course"
+        },
+        {
+            "meta": "Issued May 2023",
+            "subtitle": "PrepInsta",
+            "title": "C Nanodegree Certification"
+        },
+        {
+            "meta": "Issued May 2023",
+            "subtitle": "PrepInsta",
+            "title": "C++ Nanodegree Course"
+        },
+        {
+            "meta": "Issued May 2023",
+            "subtitle": "PrepInsta",
+            "title": "Intermediate Coding Course"
+        },
+        {
+            "meta": "Issued May 2023Credential ID UC-e2a76204-0aa1-4b92-8571-affdafaf8edbSee credential",
+            "subtitle": "Udemy",
+            "title": "Python for Machine Learning and Data Science Masterclass"
+        },
+        {
+            "meta": "Issued Apr 2023",
+            "subtitle": "PrepInsta",
+            "title": "86th Rank in Prepsat 2023"
+        },
+        {
+            "meta": "Issued Apr 2023",
+            "subtitle": "PrepInsta",
+            "title": "Python Nanodegree Certification"
+        },
+        {
+            "meta": "Issued Nov 2022Expires Nov 2025Credential ID 22605See credential",
+            "subtitle": "Google",
+            "title": "Cloud Digital Leader"
+        }
+    ],
+    "current_company_name": "Zscaler",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,74 @@
+{
+    "city": "Thane, Maharashtra, India",
+    "position": "Front End Developer || ReactJS  || Redux || JavaScript || TypeScript || CSS",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2023 - Present 1 year 8 months",
+            "start_date": "May 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 8 months",
+            "company": "revyz | Atlassian Partner of the Year 22",
+            "company_id": "revyz",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "React.js Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "- Created 20+ templates using ReactJS and MaterialUI.- Annotated 50+ pixel perfect templates with the team and sent it to the AI.- Collaborated with the team to create perfect pixel templates and sent it to the AI as data.",
+            "description_html": "- Created 20+ templates using ReactJS and MaterialUI.- Annotated 50+ pixel perfect templates with the team and sent it to the AI.- Collaborated with the team to create perfect pixel templates and sent it to the AI as data. <!---->",
+            "duration": "Feb 2023 May 2023 4 months",
+            "start_date": "Feb 2023",
+            "end_date": "May 2023",
+            "duration_short": "4 months",
+            "company": "PureCode Software",
+            "company_id": "purecodesoftwarecompany",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "ReactJS Trainee",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Built 5 projects in React ( E-commerce, Video Library, Quiz App, Pomodoro App).- Built my own component Library.- Reviewed 100+ PRs of peers in the community.- Managed to write technical blogs.",
+            "description_html": "- Built 5 projects in React ( E-commerce, Video Library, Quiz App, Pomodoro App).- Built my own component Library.- Reviewed 100+ PRs of peers in the community.- Managed to write technical blogs. <!---->",
+            "duration": "Jan 2022 Jul 2022 7 months",
+            "start_date": "Jan 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "7 months",
+            "company": "neoG Camp",
+            "company_id": "neog-camp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "University of Mumbai",
+            "degree": "Bachelor of Engineering - BE",
+            "field": "Computer Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Holy cross English High School",
+            "degree": "SSC",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "revyz | Atlassian Partner of the Year 22",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

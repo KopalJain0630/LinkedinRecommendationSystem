@@ -1,0 +1,68 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Shri G S Institute of Technology & Science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Analysis and Design of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Big Data\"},{\"subtitle\":\"-\",\"title\":\"Cloud Computing\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture \"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Cyber Security and Forensics\"},{\"subtitle\":\"-\",\"title\":\"Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Database Management System\"},{\"subtitle\":\"-\",\"title\":\"Design Thinking\"},{\"subtitle\":\"-\",\"title\":\"Discrete Structures \"},{\"subtitle\":\"-\",\"title\":\"Foundation of Information and Security\"},{\"subtitle\":\"-\",\"title\":\"Informatic Practices \"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Programming System\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2021See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Cloud Practitioner Essentials"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "NPTEL",
+            "title": "Design and Analysis of Algorithms"
+        },
+        {
+            "meta": "Issued Jan 2021See credential",
+            "subtitle": "NPTEL",
+            "title": "Data Base Management Sysem "
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID REP ID 4127See credential",
+            "subtitle": "Pluralsight",
+            "title": "Flutter: Getting Started"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "LinkedIn",
+            "title": "C++ Standard Template Library"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "SoloLearn",
+            "title": "SQL Fundamentals Course"
+        }
+    ],
+    "current_company_name": "ShareChat",
+    "publications": "[{\"title\":\"Arranging integer numbers on a loop such that the sum of any two adjacent numbers is a perfect square\",\"subtitle\":\"2022 IEEE Region 10 Symposium (TENSYMP), 2022\",\"description\":\"Helped in developing the computer program, not the author of the paper though (the author acknowledged my contribution in the research paper)T. Rathore, “Arranging integer numbers on a loop such that the sum of any two adjacent numbers is a perfect square,” 2022 IEEE Region 10 Symposium (TENSYMP), 2022, pp. 1-6, doi: 10.1109/TENSYMP54529.2022.9864484.\"},{\"title\":\"Some properties of integer numbers\",\"subtitle\":\"AKGEC Int. J. of Technology\",\"description\":\"T. S. Rathore, Mradul Rathore, Jayantilal Rathore and Pramila Khabia, Some properties of integer numbers, AKGEC Int. J. of Technology, vol. 13, no. 1, pp. 45-50, 2021.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Plasma Donor Connector App\",\"start_date\":\"Oct 2020\",\"end_date\":\"Oct 2020\",\"description\":\"Built an app in a 36 hours hackathon organized by MANIT Bhopal, that connects plasma donors and the person who is in need of that.\"},{},{}]",
+    "honors_and_awards": null
+}

@@ -1,0 +1,57 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Y Combinator",
+            "url": "",
+            "start_year": "2022-01",
+            "end_year": "2022-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "BharatX",
+    "publications": "[{\"title\":\"commuNITTy (Official Newsletter of NIT Trichy)\",\"subtitle\":\"NIT Tiruchirappalli\",\"date\":\"September 1, 2018\",\"description\":\"I am the Editor for the commuNITTy newsletter. It is the official newsletter of NITT that get's sent to MHRD and various IITs , as well as sent globally. I was also responsible for Designing the whole issue.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "SPDC Scholarship",
+            "publication": "Ministry of External Affairs - Government of India",
+            "date": "2019-05-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "The Ultimate Manager - 2nd Position",
+            "publication": "Pragyan - An ISO Certified Organisation",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "Secured Second Position in Pragyan InHOTT 's The Ultimate Manager event which tested our skills under stress, as well as our Business Aptitude."
+        },
+        {
+            "title": "Parliamentary Debate - Winner (1st position)",
+            "publication": "Aayam - the official Hindi Club of NIT Trichy.",
+            "date": "2018-09-01T00:00:00.000Z",
+            "description": "I secured the first position in the parliamentary debate organised by the official Hindi Club of NIT Trichy . I was given certificate along with a cash prize. The event was participated by student's from all year's of B.Tech in the college."
+        }
+    ]
+}

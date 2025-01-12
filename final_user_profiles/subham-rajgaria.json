@@ -1,0 +1,63 @@
+{
+    "city": "Boston, Massachusetts, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Harvard Business School",
+            "url": "",
+            "start_year": "2023-08",
+            "end_year": "2025-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". '  (),",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". '   - ,",
+            "start_year": "2003",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms-I(+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Algorithms-II\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Compilers(+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks(+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Computer Organization and Architecture(+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems(+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning\"},{\"subtitle\":\"-\",\"title\":\"Derivatives and Risk Management\"},{\"subtitle\":\"-\",\"title\":\"Discrete Structures\"},{\"subtitle\":\"-\",\"title\":\"Educational Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Financial Management\"},{\"subtitle\":\"-\",\"title\":\"Formal Language and Automata Theory\"},{\"subtitle\":\"-\",\"title\":\"Image Processing\"},{\"subtitle\":\"-\",\"title\":\"Information Retrieval\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Electronics\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Marketing and Marketing Research\"},{\"subtitle\":\"-\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems(+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering(+Lab)\"},{\"subtitle\":\"-\",\"title\":\"Switching Circuits and Logic Design\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jan 2018Credential ID HTWPKQYSY9AUSee credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Dec 2017Credential ID SFF37HLNNG27See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Dec 2017Credential ID ZZNEGUFNTKKCSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "Castlehook partners",
+    "publications": "[{\"title\":\"A Comparative Study of Summarization Algorithms applied to Legal Case Judgments\",\"subtitle\":\"41st European Conference on Information Retrieval (ECIR 2019)\",\"description\":\"Summarization of legal case judgments is an important problem because the huge length and complexity of such documents make them difficult to read as a whole. Many summarization algorithms have been proposed till date, both for general text documents and a few specifically targeted to summarizing legal documents of various countries.In this paper, we perform a systematic comparison of summarization algorithms applied to legal judgments. We experiment on a large set of Indian Supreme Court judgments, and a large variety of summarization algorithms including both unsupervised and supervised ones. We assess how well domain-independent summarization approaches perform on legal case judgments, and how approaches specifically designed for legal case documents of other countries (e.g., Canada,Australia) generalize to Indian Supreme Court documents. Apart from quantitatively evaluating summaries by comparing with gold standardsummaries, we also give important qualitative insights on the performance of different algorithms from the perspective of a law expert.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Summarization of Legal Text Documents \",\"start_date\":\"Jul 2018\",\"end_date\":\"Present\",\"description\":\"Working on developing algorithms to summarize legal cases and judgements\"},{\"title\":\"Natural Language Processing\",\"start_date\":\"Dec 2016\",\"description\":\"Implemented Python codes to compute features of a given graph of words and then made semantic models on the data obtained.\"},{},{\"title\":\"Raliway Booking System\",\"start_date\":\"Mar 2018\",\"end_date\":\"Apr 2018\",\"description\":\"Database Management System: Term ProjectDeveloped a database in MySQL to handle railway bookings and made an Android web view of the same\"},{\"title\":\"A Paytm like interface\",\"start_date\":\"Mar 2017\",\"end_date\":\"Apr 2017\",\"description\":\"Term Project: Software EngineeringDeveloped a Paytm like interface. Had features to add money, add connections, transfer money to a bank and view past transactions.\"}]",
+    "honors_and_awards": null
+}

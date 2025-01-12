@@ -1,0 +1,485 @@
+{
+    "id": "prajata-samanta",
+    "name": "Prajata Samanta",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "Founder & CTO at Utsav App (Backed by 100X, IndiaQuotient)",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Utsav™",
+        "company_id": "utsavapp",
+        "title": "Founder & CTO at Utsav App (Backed by 100X, IndiaQuotient)"
+    },
+    "experience": [
+        {
+            "title": "Founder & CTO",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "Sep 2021 - Present 3 years 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 4 months",
+            "company": "Utsav™",
+            "company_id": "utsavapp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-Founder & CTO",
+            "location": "Kolkata, West Bengal",
+            "description_html": null,
+            "duration": "Feb 2020 - Present 4 years 11 months",
+            "start_date": "Feb 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 11 months",
+            "company": "Applex Technologies Pvt. Ltd.",
+            "company_id": "applex-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full Stack Developer",
+            "description_html": null,
+            "duration": "Dec 2020 Jan 2022 1 year 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2022",
+            "duration_short": "1 year 2 months",
+            "company": "Zyephr",
+            "company_id": "zyephrtech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "description_html": null,
+            "duration": "Nov 2019 Dec 2021 2 years 2 months",
+            "start_date": "Nov 2019",
+            "end_date": "Dec 2021",
+            "duration_short": "2 years 2 months",
+            "company": "Entrepreneurship Cell IEM Kolkata",
+            "company_id": "entrepreneurship-cell-iem-kolkata",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full Stack Developer",
+            "description_html": null,
+            "duration": "Apr 2020 Mar 2021 1 year",
+            "start_date": "Apr 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "1 year",
+            "company": "Campus24",
+            "company_id": "campus24",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full Stack Developer",
+            "description_html": null,
+            "duration": "Jun 2020 Jan 2021 8 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "8 months",
+            "company": "Atheta",
+            "company_id": "atheta",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Electronics Intern",
+            "description_html": null,
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "IEMLabs",
+            "company_id": "iemaiemlabs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Artificial Intelligence Intern",
+            "description_html": null,
+            "duration": "Mar 2020 May 2020 3 months",
+            "start_date": "Mar 2020",
+            "end_date": "May 2020",
+            "duration_short": "3 months",
+            "company": "Verzeo",
+            "company_id": "verzeo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mobile Application Developer",
+            "description_html": null,
+            "duration": "Dec 2018 Feb 2019 3 months",
+            "start_date": "Dec 2018",
+            "end_date": "Feb 2019",
+            "duration_short": "3 months",
+            "company": "Internshala",
+            "company_id": "internshala",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Harshavardhan Pulugu",
+            "about": "Software Engineer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hemanth K.",
+            "about": null,
+            "location": "Coventry"
+        },
+        {
+            "profile_link": "",
+            "name": "Samyak J.",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratik Jaiswal",
+            "about": "Senior Software Engineer at NeoSOFT.",
+            "location": "Thane"
+        },
+        {
+            "profile_link": "",
+            "name": "Vineetha Karakavalasa",
+            "about": "👩‍💻DevOps Engineer | Automating and Streamlining Software Delivery for Optimal Performance | CI/CD Enthusiast | Hands on experience on kubernetes",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajan Gupta",
+            "about": null,
+            "location": "Sikkim, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Pandey",
+            "about": "Senior Software Engineer @Exponentia.ai | javascript | Python | Pyspark | AWS Solution Architecture | ETL",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Amisha Jaiswal",
+            "about": "frontend web developer",
+            "location": "Hajipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Goyal",
+            "about": "SDE II at Dehaat | Ex - Cuemathian",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Tazeen-e-khakashan A",
+            "about": "Software Developer at Surfboard Payments",
+            "location": "Krishnagiri"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarath Chandra Oruganti",
+            "about": "Product Development Engineer I @ Phenom | Node.js, React.js, Java, Spring boot",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhor Bisen",
+            "about": "Data Engineer | MS-Data Science & Management IIT Indore IIM Indore | Data Science Enthusiast | Data Pipelines | Data Visualization",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Om Ambalkar",
+            "about": "Software Engineer | SCU MSCS Grad'23",
+            "location": "Santa Clara, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh Shrotriya",
+            "about": "Digital Specialist Engineer, Infosys.",
+            "location": "Dhar"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratik Katariya",
+            "about": "👨‍💻 Flutter Developer | Android Developer | Salesforce CRM - Connected App ☁️⚡ | System Design & Architecture 👷 | SFMC || 👨‍💻Java developer | SpringBoot | Microservices",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "⌨️ Ansh Saini",
+            "about": "Hiring React & Flutter Devs; Founding Member at Suraasa",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishiraj Shekhawat",
+            "about": null,
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Karla",
+            "about": null,
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Ghanshyam Khanna",
+            "about": null,
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Sudha Balloli",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Institute Of Engineering and Management",
+    "education": [
+        {
+            "title": "Institute Of Engineering and Management",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vivekananda Mission School - India",
+            "degree": "ICSE & ISC",
+            "url": "",
+            "start_year": "2003",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"Internshala\",\"title\":\"Android Development\"},{\"subtitle\":\"Udemy\",\"title\":\"C# Unity Developer 3D\"},{\"subtitle\":\"Coursera\",\"title\":\"Python Programming\"},{\"subtitle\":\"Udemy\",\"title\":\"The Complete Android N Developer Course,\"},{\"subtitle\":\"Udemy\",\"title\":\"Web Developer Bootcamp\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Bengali "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021See credential",
+            "subtitle": "Times of India",
+            "title": "Newspaper publication : Utsav"
+        },
+        {
+            "meta": "Issued Dec 2020See credential",
+            "subtitle": "CAS",
+            "title": "Keynote Speaker"
+        },
+        {
+            "meta": "Issued Oct 2020See credential",
+            "subtitle": "The Telegraph",
+            "title": "Newspaper publication: Snaplingo & Utsav"
+        },
+        {
+            "meta": "Issued Oct 2020See credential",
+            "subtitle": "ABP Group",
+            "title": "Newspaper publication: Utsav app"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Institution of Engineers of India (IEI), Kolkata",
+            "title": "Keynote Speaker"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Verzeo",
+            "title": "Artificial Intelligence"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Android App Development"
+        },
+        {
+            "meta": "Issued Jul 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Unity 3D game developer"
+        },
+        {
+            "meta": "Issued Apr 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Introduction to Programming Using Python"
+        },
+        {
+            "meta": "Issued Feb 2019See credential",
+            "subtitle": "Internshala",
+            "title": "Android App Development"
+        },
+        {
+            "meta": "Issued Nov 2018See credential",
+            "subtitle": "Cambridge Certification Authority",
+            "title": "Introduction to Programming Using Java"
+        },
+        {
+            "meta": "Issued Dec 2017",
+            "subtitle": "Magnum Photos",
+            "title": "Certified Professional Photographer (CPP)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Science and Technology",
+            "duration": "Jan 2018 - Feb 2018 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Feb 2018",
+            "start_date": "Jan 2018",
+            "subtitle": "IEM Innovacion techfest",
+            "title": "Photographer"
+        },
+        {
+            "cause": "Children",
+            "duration": "Nov 2018 - Dec 2018 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Dec 2018",
+            "start_date": "Nov 2018",
+            "subtitle": "Dr. A.P.J. Abdul Kalam Centre",
+            "title": "Fundraiser"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Nov 2019 - Nov 2019 · 1 month",
+            "duration_short": "1 month",
+            "end_date": "Nov 2019",
+            "start_date": "Nov 2019",
+            "subtitle": "Maker Faire",
+            "title": "Photographer"
+        },
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2019 - Aug 2019 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Aug 2019",
+            "start_date": "Jul 2019",
+            "subtitle": "IEM International Film Festival",
+            "title": "Photographer"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Aug 2019 - Sep 2019 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Sep 2019",
+            "start_date": "Aug 2019",
+            "subtitle": "IEMEntech",
+            "title": "Photographer"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jun 2019 - Jul 2019 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Jul 2019",
+            "start_date": "Jun 2019",
+            "subtitle": "eHaCON 2020",
+            "title": "Photographer"
+        }
+    ],
+    "followers": 4827.0,
+    "connections": 500.0,
+    "current_company_company_id": "utsavapp",
+    "current_company_name": "Utsav™",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Zyephr\",\"start_date\":\"Dec 2020\",\"description\":\"Zyephr provides solutions to bring personalized healthcare tips and help you look after your health. Now, create your own Electronic Health Records (EHR) to monitor and track menstrual cycle, blood pressure, diabetes, and a lot more to manage your health data. Cheers to a long and healthy life!\"},{},{},{\"title\":\"Utsav\",\"start_date\":\"Sep 2020\",\"end_date\":\"Present\",\"description\":\"Utsav is India’s community-first social platform combining tools with network.\"},{},{},{},{},{},{},{\"title\":\"Snaplingo\",\"start_date\":\"Jun 2020\",\"end_date\":\"Present\",\"description\":\"Snaplingo is a document scanner + ocr scanner + qr/barcode scanner + generator app with lots of features and high security. It is a perfect alternative to Camscanner or any other doc scanners. It's on playstore and has got more than 5K downloads.\"},{},{},{\"title\":\"Spectrum Biocides\",\"start_date\":\"Feb 2021\",\"end_date\":\"Jun 2021\",\"description\":\"Spectrum Biocides App is a market place used as an interface between the distributors or clients of Spectrum Biocides India Pvt. Ltd. The app is specifically module to ensure seamless connect between clients and the company for information related to trade, products, compliances, complaints and other business aspects. The Application's sole purpose is seamless transfer of information to clients in a transparent and visible manner.\"},{},{},{\"title\":\"Atheta\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jan 2021\",\"description\":\"Atheta is an android application. Its an all-in-one platform for Teachers, Tutors, Coaching Institutes, Schools & Colleges to help them take their classrooms online.\"},{},{},{},{},{},{\"title\":\"JEEAB360\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jul 2020\",\"description\":\"JEEAB360 is an android application for higher secondary passouts opting for B. Tech degree in various colleges. It contains all types of information about all the colleges in India.\"},{},{},{},{\"title\":\"Campus24\",\"start_date\":\"Apr 2020\",\"end_date\":\"Jun 2020\",\"description\":\"Campus24 is an android application. Its a social media app but it mainly caters to the colleges and college students, to remain connected among various colleges digitally. It's on playstore and has got around 8000 downloads.\"},{},{},{},{},{\"title\":\"applex.in website\"},{\"title\":\"Echo Music Player\",\"description\":\"A user friendly music player application for android.\"},{\"title\":\"Homemade 2D printer\",\"description\":\"Homemade CNC plotting machine is an automatic writing machine used for typing any kind of text or drawing any kind of sketch on paper.\"},{\"title\":\"Homemade 3D printer\",\"description\":\"Home made 3D printer is a machine which prints 3D objects which we use in our day to day life. In general, 3D printer costs a lot(above 30-40k INR). But for the daily users we have minimized the cost to 8k INR.\"}]",
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "prajata-samanta",
+    "activity": [
+        {
+            "interaction": "Liked by Prajata Samanta",
+            "link": "",
+            "title": "🪳 \"You Guys are Like Cockroaches, You Never Die!\" - An investor once told us. At first, we were taken aback, but then we realized it was the…",
+            "img": "",
+            "id": "7226626764691660801"
+        },
+        {
+            "interaction": "Liked by Prajata Samanta",
+            "link": "",
+            "title": "India has always been a land of spirituality and innovation. In recent years, India's spiritual tech sector is booming, with startups combining…",
+            "img": "",
+            "id": "7213502245567352832"
+        },
+        {
+            "interaction": "Liked by Prajata Samanta",
+            "link": "",
+            "title": "🎉 Big Thanks to Our Amazing Users! 🎉 We are overwhelmed with gratitude for the incredible response we've been receiving from Utsav App’s users!…",
+            "img": "",
+            "id": "7179416939960700928"
+        },
+        {
+            "interaction": "Liked by Prajata Samanta",
+            "link": "",
+            "title": "|| जय श्री राम 🚩|| I'm super proud & emotional, that I have been able to offer a puja for myself & Utsav™ on the auspicious occasion of Pran…",
+            "img": "",
+            "id": "7155128887595683840"
+        },
+        {
+            "interaction": "Liked by Prajata Samanta",
+            "link": "",
+            "title": "Our Happy Devotees Review. It feels very pleasure for us that our Devotees are pleased with our services Thanks to the entire team Ankita De Sourajit…",
+            "img": "",
+            "id": "7081661731340500994"
+        }
+    ],
+    "linkedin_num_id": 818086199.0,
+    "honors_and_awards": [
+        {
+            "title": "Runners up",
+            "publication": "IEM-entech",
+            "date": "2020-10-01T00:00:00.000Z",
+            "description": "My team and I won the second prize in IEM-entech model presentation competition preseting our android application named Snaplingo."
+        },
+        {
+            "title": "Runners Up",
+            "publication": "NIT Durgapur",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "My team and I had won the second prize in NIT Duragpur Techfest, presenting our project Home made 3D printer"
+        },
+        {
+            "title": "Winner",
+            "publication": "IIT Kharagpur",
+            "date": "2020-01-01T00:00:00.000Z",
+            "description": "My team and I had won the first prize in IIT Kharagpur Techfest Kshitij 2020, presenting our project Home made 3D printer"
+        },
+        {
+            "title": "Winner",
+            "publication": "IEM Smart MakerFaire",
+            "date": "2019-11-01T00:00:00.000Z",
+            "description": "My team and I had won the first prize in IEM Smart Maker Faire, presenting our project Home made 3D printer"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

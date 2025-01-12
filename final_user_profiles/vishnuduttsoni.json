@@ -1,0 +1,82 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2015-05",
+            "end_year": "2016-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023Credential ID UC-1269bb03-ec1f-4b8a-9133-a434aec03e97See credential",
+            "subtitle": "Udemy",
+            "title": "Android App Development using Kotlin"
+        },
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning SQL Programming"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Kaggle",
+            "title": "Intermediate Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Kaggle",
+            "title": "Intro to Machine Learning"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Courser",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Linear Regression with NumPy and Python"
+        }
+    ],
+    "current_company_name": "IndusInd Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

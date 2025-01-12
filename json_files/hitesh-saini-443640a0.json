@@ -1,0 +1,403 @@
+{
+    "id": "hitesh-saini-443640a0",
+    "name": "Hitesh Saini",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "AVP | IIT KGP | CFA L1",
+    "about": "Experienced Quant with a proven track record in fixed income electronic trading. Skilled in developing algorithms for automated trading in high-paced markets, conducting signal research, and leveraging technologies such as Q, KDB, Scala, Python, jQuery, and JavaScript. Currently contributing expertise to the APAC trading desk, driving strategic decision-making and optimizing trading strategies.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "MUFG",
+        "company_id": "mufg",
+        "title": "AVP | IIT KGP | CFA L1"
+    },
+    "experience": [
+        {
+            "title": "Quant",
+            "location": "India",
+            "description": "Working as a Quant researcher under Fixed Income E-Trading team",
+            "description_html": "Working as a Quant researcher under Fixed Income E-Trading team <!---->",
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "MUFG",
+            "company_id": "mufg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "HSBC",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "5 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "HSBC",
+                    "meta": "Mar 2023 - Sep 2024 1 year 7 months",
+                    "duration": "Mar 2023 Sep 2024 1 year 7 months",
+                    "start_date": "Mar 2023",
+                    "end_date": "Sep 2024",
+                    "duration_short": "1 year 7 months",
+                    "title": "Associate Vice President",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "HSBC",
+                    "meta": "Jul 2021 - Apr 2023 1 year 10 months",
+                    "duration": "Jul 2021 Apr 2023 1 year 10 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Apr 2023",
+                    "duration_short": "1 year 10 months",
+                    "title": "Senior Associate",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "HSBC",
+                    "meta": "Apr 2021 - Jun 2021 3 months",
+                    "duration": "Apr 2021 Jun 2021 3 months",
+                    "start_date": "Apr 2021",
+                    "end_date": "Jun 2021",
+                    "duration_short": "3 months",
+                    "title": "Associate",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "HSBC",
+                    "meta": "Jul 2019 - Mar 2021 1 year 9 months",
+                    "duration": "Jul 2019 Mar 2021 1 year 9 months",
+                    "start_date": "Jul 2019",
+                    "end_date": "Mar 2021",
+                    "duration_short": "1 year 9 months",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "HSBC",
+            "company_id": "hsbc",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Technical Analyst",
+            "location": "Mumbai Area, India",
+            "description": "•Developed a modular config based visualization tool to visualize the market data flow, using D3.js and Django Framework.•Developed force layout hierarchical and dense components using D3.js and javascript for providing the holistic view of the plant.•Implemented TCP/IP socket connections fetching the real-time status of the processes running in the plant.",
+            "description_html": "•Developed a modular config based visualization tool to visualize the market data flow, using D3.js and Django Framework.•Developed force layout hierarchical and dense components using D3.js and javascript for providing the holistic view of the plant.•Implemented TCP/IP socket connections fetching the real-time status of the processes running in the plant. <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst | Machine Learning and AI",
+            "location": "Trivandrum, India",
+            "description": "• Performed emotion analysis on the brain waves data captured from the Bluetooth Emotiv headset via Machine Learning techniques.• Used hashgraph as a database creating data transactions through a bash script communicating with a python script for pre-processing data.• Solved the cocktail party problem for filtering and identifying individual voices using deep neural network in python.• Developed framework for detecting Sleep Apnea using LSTM-RNN deep learning technique with 95% accuracy in AIC’18.",
+            "description_html": "• Performed emotion analysis on the brain waves data captured from the Bluetooth Emotiv headset via Machine Learning techniques.• Used hashgraph as a database creating data transactions through a bash script communicating with a python script for pre-processing data.• Solved the cocktail party problem for filtering and identifying individual voices using deep neural network in python.• Developed framework for detecting Sleep Apnea using LSTM-RNN deep learning technique with 95% accuracy in AIC’18.",
+            "duration": "Dec 2017 Jan 2018 2 months",
+            "start_date": "Dec 2017",
+            "end_date": "Jan 2018",
+            "duration_short": "2 months",
+            "company": "UST Global",
+            "company_id": "ustglobal",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development | Image Processing",
+            "location": "Noida Area, India",
+            "description": "• Designed and developed a near real-time Video Facial Analysis application using OpenCV and Microsoft Cognitive Face API in C#. • Optimized the memory usage and processing of the application, taking advantage of Parallel Programming on multi-core CPUs converting images into JSON objects which are stored into a text file, resulting into a further improvement in application’s memory usage. • Developed Admin portal in Asp.Net MVC using C# connected to a MySQL database and implemented Ajax to make calls asynchronous.",
+            "description_html": "• Designed and developed a near real-time Video Facial Analysis application using OpenCV and Microsoft Cognitive Face API in C#. • Optimized the memory usage and processing of the application, taking advantage of Parallel Programming on multi-core CPUs converting images into JSON objects which are stored into a text file, resulting into a further improvement in application’s memory usage. • Developed Admin portal in Asp.Net MVC using C# connected to a MySQL database and implemented Ajax to make calls asynchronous.",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "HCL Infosystems Ltd.",
+            "company_id": "hcl-infosystems-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Coordinator",
+            "location": "IIT Kharagpur",
+            "description": "• Nominated to the 12-member Institute senate of IIT Kharagpur from 10,000 students responsible for maintaining the web server.• Built a completely dynamic website of Technology Students’ Gymkhana in Django fetching data from MySQL database via Python scripts.",
+            "description_html": "• Nominated to the 12-member Institute senate of IIT Kharagpur from 10,000 students responsible for maintaining the web server.• Built a completely dynamic website of Technology Students’ Gymkhana in Django fetching data from MySQL database via Python scripts. <!---->",
+            "duration": "Jul 2016 Apr 2017 10 months",
+            "start_date": "Jul 2016",
+            "end_date": "Apr 2017",
+            "duration_short": "10 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Internship",
+            "location": "Mumbai Area, India",
+            "description": "• Implemented DataTables representing over 10,000 rows fetched as JSON via an intermediary ASP.NET script in C# from MySQL server. • Implemented D3.js and Highcharts plugins in JQuery binding large data-sets to completely interactive charts and optimized SQL queries. • Designed and developed a completely dynamic user interface generated on the fly, fetching inputs from the database to render the layout.",
+            "description_html": "• Implemented DataTables representing over 10,000 rows fetched as JSON via an intermediary ASP.NET script in C# from MySQL server. • Implemented D3.js and Highcharts plugins in JQuery binding large data-sets to completely interactive charts and optimized SQL queries. • Designed and developed a completely dynamic user interface generated on the fly, fetching inputs from the database to render the layout. <!---->",
+            "duration": "May 2016 Jun 2016 2 months",
+            "start_date": "May 2016",
+            "end_date": "Jun 2016",
+            "duration_short": "2 months",
+            "company": "HILABSINC",
+            "company_id": "hilabsinc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Team Member",
+            "location": "Indian Institute of Technology, Kharagpur",
+            "description": "Working under the Dean of Alumni Affairs and International Relations. I worked as a Web Team Member of the Students' Alumni Cell, IIT Kharagpur.• Designed and developed the main website of Students’ Alumni Cell in PHP with front-end in HTML, CSS, JQuery, using Materialize Framework. • Coordinated with a team of 30 members and successfully organized 13th Annual Alumni Meet for the academic session 2015-2016.",
+            "description_html": "Working under the Dean of Alumni Affairs and International Relations. I worked as a Web Team Member of the Students' Alumni Cell, IIT Kharagpur.• Designed and developed the main website of Students’ Alumni Cell in PHP with front-end in HTML, CSS, JQuery, using Materialize Framework. • Coordinated with a team of 30 members and successfully organized 13th Annual Alumni Meet for the academic session 2015-2016. <!---->",
+            "duration": "Aug 2015 Apr 2016 9 months",
+            "start_date": "Aug 2015",
+            "end_date": "Apr 2016",
+            "duration_short": "9 months",
+            "company": "Students'​ Alumni Cell, Office of Alumni Affairs and International Relations, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary Football Sub-committee",
+            "location": "Kharagpur Area, India",
+            "description": "Elected by an electorate of 10,000 students for the post of Secretary, Football Sub Committee, Technology Students' Gymkhana, IIT Kharagpur.",
+            "description_html": "Elected by an electorate of 10,000 students for the post of Secretary, Football Sub Committee, Technology Students' Gymkhana, IIT Kharagpur. <!---->",
+            "duration": "Jul 2015 Apr 2016 10 months",
+            "start_date": "Jul 2015",
+            "end_date": "Apr 2016",
+            "duration_short": "10 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Neha Sinha",
+            "about": "HSBC | MBA, VGSoM, IIT Kharagpur | Infosys",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Muskan Jindal",
+            "about": "Software Engineer at Google| Ex- Goldman Sachs| Ex- Amazon",
+            "location": "North Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Yashika Vaish",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankita Saini",
+            "about": null,
+            "location": "Dublin"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakhar Gupta",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Averi Chakraborty",
+            "about": "BCG | EY Parthenon | Goldman Sachs | NMIMS, Mumbai",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarvesh Bajaj",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Simran Sethi",
+            "about": "Senior Analyst at Blackstone CoE- Wipro Ltd",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Naman Chindaliya",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Mahima Kejriwal",
+            "about": "Associate at Goldman Sachs",
+            "location": "Jaipur"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor and Masters of Technology ( Hons.) Dual Degree Course",
+            "field": "AEROSPACE ENGINEERING",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": "Activities and Societies: Students' Alumni Cell, Web Designing, Web Development, Programming",
+            "description_html": "Activities and Societies: Students' Alumni Cell, Web Designing, Web Development, Programming",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DMA III",
+            "degree": "Basic Skills and Class X/XII, C.B.SE(Central Board of Secondary Examination)",
+            "field": "Science",
+            "start_year": "2003",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4219.0,
+    "connections": 500.0,
+    "current_company_company_id": "mufg",
+    "current_company_name": "MUFG",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "hitesh-saini-443640a0",
+    "activity": [
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "AWS re:Invent 2024 in Las Vegas. The AI is cool - but client focused business models that scale at low cost are where it’s at. Complexity is out…",
+            "img": "",
+            "id": "7270902248371535872"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "Finally, peaceful protest is the only democratic way left! Sad that appellate authorities (Chairman, IIT Council and others) are not doing anything…",
+            "img": "",
+            "id": "7270379572544569344"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "I’m happy to share that I have been promoted as Team Lead at Peepal Consulting! My sincere gratitude to Vijay Kumar Kaveri Karnam and Ambika…",
+            "img": "",
+            "id": "7269628801486090240"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "Delicious burritos are my superpower! Back in February 2023, I had a simple thought: What if I could create the perfect burrito experience?…",
+            "img": "",
+            "id": "7265356225423253504"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "Celebrating 5 years at Apple today! Grateful to work with some of the most incredible engineers in the industry and honored to consider my teammates…",
+            "img": "",
+            "id": "7218819158526808064"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "Hi connections, Exciting news to share some accomplishments and updates in my professional journey! Proud to have secured 1st place in the revenue…",
+            "img": "",
+            "id": "7215033561039478785"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "New Week New Roles!! There has been a lot of movement on the market over the past weeks with some hot jobs currently on the market. If you are in…",
+            "img": "",
+            "id": "7152613452568547328"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "Happy Monday to my LinkedIn network! Lots of new roles on the market in APAC region across a range of desks, if you are planning a move for a new…",
+            "img": "",
+            "id": "7122152806135816192"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "HK: Urgently seeking specialist low-latency Java engineer for Director-level performance tuning and optimization role at a leading digital asset…",
+            "img": "",
+            "id": "7106975459216650241"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "For a long time, I was underselling myself. I kept my prices low, scared of driving customers away. This not only kept my margins low but shaped…",
+            "img": "",
+            "id": "7102245509226008576"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "Every entrepreneur should know how to: 1 . Outsource 2. Automate 3. Eliminate 4. Delegate 5. Motivate 6. Write 7. Sell I'm constantly working to…",
+            "img": "",
+            "id": "7104425371453820928"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "I would like to express my heartfelt gratitude to all my friends and professors as I graduate with a Masters degree in Computer Science at Texas A&M…",
+            "img": "",
+            "id": "7069521431176376320"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "I’m excited to share that I’ve started my Master's degree in Financial Engineering at the University of California, Berkeley, Haas School of…",
+            "img": "",
+            "id": "7043504916664913920"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "\"The story of life is quicker than the wink of an eye, the story of friendship is hello and goodbye, until we meet again.\" True friendship is a rare…",
+            "img": "",
+            "id": "6925796711198056448"
+        },
+        {
+            "interaction": "Liked by Hitesh Saini",
+            "link": "",
+            "title": "\"What got you into Egypt won't get you to the promised land.\" Running your own business means donning the hat of a CEO, CTO, Designer, Content…",
+            "img": "",
+            "id": "6921700902739324928"
+        }
+    ],
+    "linkedin_num_id": 359894643.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

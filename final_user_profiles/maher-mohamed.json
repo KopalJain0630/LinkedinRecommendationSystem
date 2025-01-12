@@ -1,0 +1,41 @@
+{
+    "city": "Singapore, Singapore",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Siam University",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2020",
+            "subtitle": "Kauffman Fellows Academy",
+            "title": "Venture Deals "
+        },
+        {
+            "meta": "Issued Nov 2012",
+            "subtitle": "ISCEA -International Supply Chain Education Alliance",
+            "title": "CSCM"
+        }
+    ],
+    "current_company_name": "HH Management",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"EDGE Project (SAP ERP)\",\"start_date\":\"Jan 2013\",\"end_date\":\"Aug 2013\",\"description\":\"Change Management Manager \\\"SAP ERP EDGE Project\\\"\"},{},{},{},{},{},{},{},{},{}]",
+    "honors_and_awards": null
+}

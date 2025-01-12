@@ -1,0 +1,65 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ", ,",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ".' . . , ,",
+            "start_year": "2001",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Finance Unlocked",
+            "title": "Blockchain "
+        },
+        {
+            "meta": "Issued Jul 2018See credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Coursera",
+            "title": "Cloud Computing Basics ( Cloud 101 )"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Udemy",
+            "title": "CNN for Computer Vision with Keras and TensorFlow in Python"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Coursera",
+            "title": "Getting Started with AWS Machine Learning"
+        }
+    ],
+    "current_company_name": "Qube Research & Technologies",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

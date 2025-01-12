@@ -1,0 +1,79 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Senior Software Engineer (Machine Learning) at Qualcomm",
+    "experience": [
+        {
+            "title": "Senior Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Senior Software Engineer (Machine Learning) at Qualcomm",
+            "description_html": "Senior Software Engineer (Machine Learning) at Qualcomm <!---->",
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Qualcomm",
+            "company_id": "qualcomm",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Delhi, India",
+            "description": "Machine Learning EngineerProfessional Achievements:1. Led the development of a user proximity detection system using Wi-Fi signals, resulting in the award-winning \"Best Innovation Stellar Project Award\" in 2023.   - Pioneered data collection encryption algorithm design.   - Innovated signal processing-based data preprocessing pipeline development.   - Developed the end-to-end process, including deep learning model training, testing, and inference pipeline development.   - Deployed an on-device solution in C++ using TensorFlow.2. proposed the idea \"Human Activity Detection using Wi-Fi for Home Monitoring\" at the SRID Hackathon, where I served as the team leader. Our project was among 500 competing ideas and won the \"People's Choice Award\" at the SRI-Delhi Hackathon in 2022.3. Optimized mmWave motion detection services by designing a cost-effective, proprietary algorithm that directly utilizes raw sensor data, obviating the need for specialized microcontrollers and vendor chips.Awards:- Secured the \"People's Choice Award\" at the SRI-Delhi Hackathon in 2022.- Recognized with the \"Best Innovation Stellar Project Award\" in 2023.- Granted 3 patents (2 A1, A2).",
+            "description_html": "Machine Learning EngineerProfessional Achievements:1. Led the development of a user proximity detection system using Wi-Fi signals, resulting in the award-winning \"Best Innovation Stellar Project Award\" in 2023. - Pioneered data collection encryption algorithm design. - Innovated signal processing-based data preprocessing pipeline development. - Developed the end-to-end process, including deep learning model training, testing, and inference pipeline development. - Deployed an on-device solution in C++ using TensorFlow.2. proposed the idea \"Human Activity Detection using Wi-Fi for Home Monitoring\" at the SRID Hackathon, where I served as the team leader. Our project was among 500 competing ideas and won the \"People's Choice Award\" at the SRI-Delhi Hackathon in 2022.3. Optimized mmWave motion detection services by designing a cost-effective, proprietary algorithm that directly utilizes raw sensor data, obviating the need for specialized microcontrollers and vendor chips.Awards:- Secured the \"People's Choice Award\" at the SRI-Delhi Hackathon in 2022.- Recognized with the \"Best Innovation Stellar Project Award\" in 2023.- Granted 3 patents (2 A1, A2).",
+            "duration": "Jun 2022 Jun 2024 2 years 1 month",
+            "start_date": "Jun 2022",
+            "end_date": "Jun 2024",
+            "duration_short": "2 years 1 month",
+            "company": "Samsung R&D Institute India",
+            "company_id": "samsungrndindiabangalore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "India",
+            "description": "work1. Development of Acoustic Echo Cancellation Solution based on deep learning.  - Implementation of DTLN-AEC training & augmentation pipeline (  - Inference Pipeline Development for tflite module for deployment2. Development of Sound Event Detection Solution based on deep learning based Student-Teacher Model  - Model capable of training on Strongly labelled and weakly labelled data using student teacher architecture",
+            "description_html": "work1. Development of Acoustic Echo Cancellation Solution based on deep learning. - Implementation of DTLN-AEC training &amp; augmentation pipeline ( - Inference Pipeline Development for tflite module for deployment2. Development of Sound Event Detection Solution based on deep learning based Student-Teacher Model - Model capable of training on Strongly labelled and weakly labelled data using student teacher architecture <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Samsung R&D Institute India",
+            "company_id": "samsungrndindiabangalore",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Qualcomm",
+    "publications": "[{\"title\":\"A CNN With Multi-scale Convolution for Hyperspectral Image Classification using Target-Pixel-Orientation scheme\",\"subtitle\":\"IGARSS\",\"date\":\"July 12, 2021\",\"description\":\"Recently, CNN is a popular choice to handle the hyperspectral image classification challenges. In spite of having such large spectral information in Hyper-Spectral Image(s) (HSI), it creates a curse of dimensionality. Also, large spatial variability of spectral signature adds more difficulty in classification problem. Additionally, training a CNN in the end to end fashion with scarced training examples is another challenging and interesting problem. In this paper, a novel target-patch-orientation method is proposed to train a CNN based network. Also, we have introduced a hybrid of 3D-CNN and 2D-CNN based network architecture to implement band reduction and feature extraction methods, respectively. Experimental results show that our method outperforms the accuracies reported in the existing state of the art methods\"},{\"title\":\"From Supervised to Unsupervised Learning for Land Cover Analysis of Sentinel-2 Multispectral Images\",\"subtitle\":\"IGARSS\",\"date\":\"September 26, 2020\",\"description\":\"Sentinel-2 provides a large volume of the multi-spectral multi-resolution dataset. Training deep convolutional architecture with such a dataset is still a challenging task in land cover classification due to the absence of ground truth. Also, the selection of appropriate deep architecture for handling the Sentinel-2 dataset is another challenging task. In this paper, we propose a convolutional neural network (CNN) architecture to extract the information from various combinations of bands in Sentinel-2 imagery. We use a loss function, proposed in an earlier work, to train our model in an unsupervised manner. Recent advances in deep learning allow for transferring knowledge from one data set to another. Thus, in our study, we aim at analyzing the “transfer learning” capabilities of our proposed network to land cover classification in Sentinel-2 images. Pre-trained weights of a deep neural architecture, which is trained with very high-resolution optical satellite imagery from Aviris is transferred to a network of almost similar architecture for processing Sentinel-2 data. We used Salinas, a publicly available hyper-spectral dataset, to train this architecture in a supervised fashion and, finally, use transfer learning and fine-tuning on the architecture handling Sentinel-2 data for clustering. Experiments show that bands of 60m resolution have a positive combining effect with bands of 20m resolution for segregating waterbody, urban settlement, and tree canopies distinctly\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

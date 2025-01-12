@@ -1,0 +1,309 @@
+{
+    "id": "akumariitb",
+    "name": "Abhishek Kumar",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Reliance Industries Limited",
+        "company_id": "reliance"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Mridul A.",
+            "about": "ISB CO'25 | Nomura Consulting (NRI) | IIT Bombay",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikhil Choudhary",
+            "about": "Omnichannel Growth @ Minimalist | Ex AB InBev India | IIT Bombay",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Nidhi Yadav",
+            "about": "Public Relations Manager at E-Cell, IIT Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kanchi Agrawal",
+            "about": "Accenture Strategy & Consulting | IIT Bombay'23",
+            "location": "Korba"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikhil Musale",
+            "about": "Associate, Strategy Consulting at IQVIA | IIT Bombay'22",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Yeesha Kalal",
+            "about": "Associate Consultant at Strategy& (formerly Booz & Co.)",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Yashika Gupta",
+            "about": "Analyst at American Express | IIT Bombay",
+            "location": "Jodhpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Prathiksha M",
+            "about": "IIT Bombay | Data Science and Machine Learning",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Pushpendra Yadav",
+            "about": "Ex-Data Scientist at Locobuzz | IIT-BOMBAY'23",
+            "location": "Etawah"
+        },
+        {
+            "profile_link": "",
+            "name": "Piyush Choudhary",
+            "about": "Media and PR coordinator at Abhyuday, IIT Bombay | Social Activities Body of IIT Bombay",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Bombay",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued May 2021",
+            "subtitle": "Indian Institute of Technology, Bombay",
+            "title": "Applied Predictive Analytics "
+        },
+        {
+            "meta": "Issued Feb 2020Credential ID UC-303abd65-39bb-4bab-9307-37c0dd762e15See credential",
+            "subtitle": "Udemy",
+            "title": "Data Science"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID UC-JBHZLOWNSee credential",
+            "subtitle": "Udemy",
+            "title": "Probability & Statistics Master"
+        },
+        {
+            "meta": "Issued Nov 2019",
+            "subtitle": "IDC School of Design, IIT Bombay",
+            "title": "Studio Projects I & II"
+        },
+        {
+            "meta": "Issued Sep 2018",
+            "subtitle": "Finance Club, IIT Bombay",
+            "title": "Financial Modelling"
+        },
+        {
+            "meta": "Issued Feb 2020Expires Feb 2023See credential",
+            "subtitle": "Google Analytics Academy",
+            "title": "Advance Google Analytics "
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "subtitle": "Techfest, IIT Bombay",
+            "title": "Organizer"
+        },
+        {
+            "cause": "Arts and Culture",
+            "duration": "Sep 2016 - Jun 2017 · 10 months",
+            "duration_short": "10 months",
+            "end_date": "Jun 2017",
+            "start_date": "Sep 2016",
+            "subtitle": "Mood Indigo IIT Bombay",
+            "title": "Organizer"
+        },
+        {
+            "cause": "Social Services",
+            "duration": "Aug 2016 - Apr 2017 · 9 months",
+            "duration_short": "9 months",
+            "end_date": "Apr 2017",
+            "start_date": "Aug 2016",
+            "subtitle": "Abhyuday, IIT Bombay | Social Activities Body of IIT Bombay",
+            "title": "Organizer"
+        }
+    ],
+    "followers": 21915.0,
+    "connections": 500.0,
+    "current_company_company_id": "reliance",
+    "current_company_name": "Reliance Industries Limited",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Stock Market Analysis\",\"start_date\":\"Nov 2020\",\"end_date\":\"Nov 2020\",\"description\":\"- Import Stock market data from Yahoo Finance using python and create a pipeline that normalize the data- Trained KMeans clustering algorithm to detect similar companies based on stock market movements\"},{\"title\":\"Engineering Design Optimization \",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Guide by Prof. G.R Shevare Prof. Abhijit Gogulapati | Aerospace Engineering Department IIT Bombay- Researched various algorithms to optimize a Constrained Linear Cost-function with application to efficient thruster force management of a satellite.- Implemented Siedel’s LP and Simplex algorithm in Python and verified against various test inputs.\"},{\"title\":\"Space Mission Design\",\"start_date\":\"Sep 2019\",\"end_date\":\"Nov 2019\",\"description\":\"- Gathered information regarding the space mission objectives, orbital/trajectory parameters, and launch vehicle- Described the overall mission and its status, including successes and failures for completed/ ongoing missions- Analysed burnout angle, velocity, height, mass (empty, payload) for various stages from python code\"},{\"title\":\"SMART LIGHT SENSOR CIRCUIT\",\"start_date\":\"Mar 2018\",\"end_date\":\"Apr 2018\",\"description\":\"- Designed a working model based upon the principle of automatic street lights.- Designed an electrical circuit for the same utilizing Transimpedance amplifier and comparator, on a breadboard.- Troubleshooted the circuit when LED didn’t go off, by reversing the polarity of the light sensor.\"},{\"title\":\"DETERMINATION OF DRAG POLAR FROM FLIGHT TEST \",\"start_date\":\"Sep 2017\",\"end_date\":\"Oct 2017\",\"description\":\"Introduction to Flight|Prof.Rajkumar S.Pant- Calculate the required data from the flight test Data provided- Obtained the Plot of coefficient of drag versus coefficient of lift squared through Matlab program.- Determined parasite drag and Oswald efficiency factor using best straight-line approximation.- Approximation Drag Polar of the aircraft using Matlab andestimated maximum airspeed of the aircraft.\"},{\"title\":\"FABRICATION OF GLIDER \",\"start_date\":\"Sep 2017\",\"end_date\":\"Oct 2017\",\"description\":\"Introduction to flight|Prof.Rajkumar S.Pant- Decided the Glider shape and material for two indoor gliders after many trials.- Fabricated two gliders as per these designs, optimizing one for maximum range and the other for maximum endurance.\"},{\"title\":\"United States of America Elections’ Data Analysis\",\"start_date\":\"Apr 2017\",\"end_date\":\"May 2017\",\"description\":\"Data analysis and Interpretation| Prof. Prabhu Ramchandran- Big Data Analysis of US Presidential Elections 2016May ’17- Analyzed the distribution of the votes in the regions of US using python pandas library.- Used the given data to see that which type of people voted whom like Black and white, literate and illiterate and also the state wise distribution.\"}]",
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "akumariitb",
+    "activity": [
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "A team of researchers led by Prof…",
+            "img": "",
+            "id": "7278280099857076225"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "TechConnect 2024, the premier R&D…",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "Finnish handset maker HMD Global, known…",
+            "img": "",
+            "id": "7267907608475262977"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "I recently had the incredible…",
+            "img": "",
+            "id": "7266912708317310976"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "The Students' Gymkhana at IIT Bombay is…",
+            "img": "",
+            "id": "7262335856076578816"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "UAE Alumni Connect: A Day of Insights…",
+            "img": "",
+            "id": "7261631449051631616"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "Farewell, Reliance Jio! 🌟 After a…",
+            "img": "",
+            "id": "7255580782839181312"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "I have a dream! At age of 19, I had…",
+            "img": "",
+            "id": "7251494205905068033"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "𝗜𝗜𝗧 𝗕𝗼𝗺𝗯𝗮𝘆 – 𝗬𝗼𝘂 𝘄𝗲𝗿𝗲…",
+            "img": "",
+            "id": "7244985294041567233"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "IIT Bombay Racing has had a phenomenal…",
+            "img": "",
+            "id": "2023"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "Celebrating 8 years of you #OnJio…",
+            "img": "",
+            "id": "7237310084412825600"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "The first ever Vigyanshri of India in…",
+            "img": "",
+            "id": "7232373264440860672"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "IIT Bombay Celebrates 78th Independence…",
+            "img": "",
+            "id": "7229775318754967555"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "I am glad to secure a position amongst…",
+            "img": "",
+            "id": "7206370586686627840"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "Moment of pride! IITK alumnus, Aditya…",
+            "img": "",
+            "id": "7185944300575195136"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "My day started horribly, with a…",
+            "img": "",
+            "id": "7183239010197159937"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "It's SO disheartening to see almost no…",
+            "img": "",
+            "id": "7181922534274072577"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "Thrilled to announce that I've been…",
+            "img": "",
+            "id": "7174660887541080064"
+        },
+        {
+            "interaction": "Liked by Abhishek Kumar",
+            "link": "",
+            "title": "It is heartening to know that IIT…",
+            "img": "",
+            "id": "133"
+        }
+    ],
+    "linkedin_num_id": 571662466.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

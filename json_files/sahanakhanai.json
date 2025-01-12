@@ -1,0 +1,111 @@
+{
+    "id": "sahanakhanai",
+    "name": "Sahana Khanai",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Java Developer @ TCS | Gold medalist - CSE | Proficient in Java 8, Spring MVC, Hibernate, Spring boot, JDBC, JSP Servlet ,React js, Python, Restful API, Docker, HTML, CSS, JavaScript, SQL, OOPs, Git & GitHub.",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {},
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Garvita Jain",
+            "about": "Data Science Enthusiast | Machine Learning Enthusiast | Computer Vision | Front End Developer | Programming | Data Structures | React.js | Node.js | Python | Databases | HTML5 | CSS3 | JavaScript | Bootstrap | Python",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Shaheer Hasan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Naman Chitkara",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Debjit Ghosh",
+            "about": "ServiceNow Admin & Developer || System Engineer at Tata Consultancy Services || CSA and CIS-Discovery Certified",
+            "location": "Howrah"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanyam Srivastava",
+            "about": "Software Engineer @Nucleus Software",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratik Korde",
+            "about": "Frontend Developer @ Intangles Lab Pvt. Ltd.",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Kumar",
+            "about": "Backend Developer at Draup || PYTHON || DJANGO",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Sharma",
+            "about": "Inventory Management || O2C Cash Application || P2P || Product Information Management || Supplier Management || Oracle Procurement Cloud || Oracle Order Management || Oracle SCM Functional || Oracle SCM || Oracle Cloud",
+            "location": "Madhya Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rakesh Firoda",
+            "about": "Software Engineer at Compro Technologies | Infosys Certified Software Programmer",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Swega S.",
+            "about": "Member Technical Staff at Zoho",
+            "location": "Tiruppur"
+        }
+    ],
+    "educations_details": null,
+    "education": null,
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Kannada "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 7347.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"AI based picture translation app\",\"start_date\":\"Oct 2022\",\"end_date\":\"Apr 2023\",\"description\":\"AI based picture translation app uses this AI-powered photo translation system to identify the object and text to translate them into the users desired language. The system uses Object Detection from Tensorflow to recognize the object and it is a part of Machine Learning (ML). Similarly, for Text, we are using Text Detection from Tensorflow to recognize the Text, and it is also part of ML. It translates the text or object into a preferred language.\"},{\"title\":\"Password Manager - Password Management System\",\"start_date\":\"Sep 2022\",\"end_date\":\"Sep 2022\",\"description\":\"Create a secure and user-friendly password management system. Allow users to store their login information for multiple websites. Enable users to update, remove, and fetch their data as needed. Ensure the privacy and security of users' login information.Design and develop a user-friendly GUI using Tkinter. Implement a MySQL database to securely store users' login information. Develop functions to add, update, remove, and fetch data from the database. Implement security measures, such as password encryption and secure login. Test the application thoroughly to ensure functionality and security.User-friendly interface for input and retrieval of login information. Secure storage of login information in a MySQL database. Ability to add, update, and remove login information. Password encryption and secure login to protect user privacy and security.Password Manager stores your login information for all the websites you use. It’s a GUI-based application that is simple and easy to use. The user will have access to add, update, and remove his details and he can fetch his data whenever needed. - Pythob3, Tkinter, MySQL, XAMPP.\"},{\"title\":\"Credit Card Fraud Detection using Random Forest Algorithm\",\"start_date\":\"Aug 2022\",\"end_date\":\"Sep 2022\",\"description\":\"Goals: To detect fraudulent transactions in credit card data To prevent unauthorized transactions and protect customers from financial loss To improve the accuracy and speed of detecting fraudulent transactions.This project addresses the pressing issue of increasing credit card fraud in the modern technological landscape. Focusing specifically on real-world credit card transactions, the initiative involves the collection, analysis, and processing of a credit card dataset. Leveraging the Random Forest algorithm, the project aims to accurately identify instances of fraudulent transactions. Evaluation metrics, including accuracy, sensitivity, specificity, and precision, are employed to assess the performance of the techniques used. The project concludes with a notable achievement of approximately 99% accuracy in detecting fraudulent transactions, signifying the potential efficacy of the applied methods in bolstering security measures against evolving fraud tactics.\"},{\"title\":\"Blood Donation System\",\"start_date\":\"Apr 2022\",\"end_date\":\"Jun 2022\",\"description\":\"The aim is to save the lives of people by tracking volunteer Blood Donors and is developed by two perspectives i.e. Volunteer Donors and Patient.\"},{\"title\":\"Tic-Tac-Toe – Computer Graphics based Gaming Application\",\"start_date\":\"Apr 2022\",\"end_date\":\"Jun 2022\",\"description\":\"The game is played on grid that’s 3 squares by 3 squares between player and computer- Ubuntu OS, OpenGL Software Interface, C programming\"},{\"title\":\"Online Cake Ordering System\",\"start_date\":\"Oct 2021\",\"end_date\":\"Dec 2021\",\"description\":\"The aim is to have a system that handles day-to-day sales operations in a cake shop and measures very thoroughly, users can waste less time as compared to manual paperwork on an automatic device developed by using technologies.An end-to-end Database focused portal for customer registration, allows the customer to check for various cakes available at the online store, which enables customers to order cakes Online -MySQL, PHP, HTML, CSS, JavaScript, Bootstrap\"},{\"title\":\"Dicee Game – Web App based Gaming Application\",\"description\":\"A web application for playing Dicee – HTML5, CSS3, JavaScript\"},{\"title\":\"Drum Kit – Web App for Playing Drums\",\"description\":\"A web application for playing Drums – HTML5, CSS3, JavaScript\"},{\"title\":\"iSangeet App – Android based Music Player Application\",\"description\":\"A mobile phone application that allows you to listen to music files stored in the phone’sinternal memory – Android Studio IDE, Android SDK, Java, Google Android Emulator\"},{\"title\":\"my Portfolio Website\",\"description\":\"My personal website – built with HTML5, CSS3, JavaScript\"},{\"title\":\"Newsletter Signup – Web Application\",\"description\":\"A web application for signing up into newsletter web site– HTML5, CSS3, JavaScript, Express.js, Heroku cloud platform, Mailchimp API\"},{\"title\":\"TinDog – Web Application\",\"description\":\"A web application for meeting new and interesting dogs nearby– HTML5, CSS3, JavaScript, Bootstrap\"},{\"title\":\"Todo List – Web Application\",\"description\":\"A web application for listing daily routines– HTML5, CSS3, JavaScript, Node.js\"}]",
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "sahanakhanai",
+    "activity": null,
+    "linkedin_num_id": 768854761.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

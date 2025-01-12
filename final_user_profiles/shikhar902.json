@@ -1,0 +1,150 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "IIT Kharagpur'23 | Data Scientist",
+    "experience": [
+        {
+            "title": "Data Scientist Intern",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "Worked under Seeker Search (Naukri.com) - Autosuggester Team- Build a realtime dashboard to monitor it's performance and key metrics- Implemented Autosuggester suggesting algorithms and worked on to make it live",
+            "description_html": "Worked under Seeker Search (Naukri.com) - Autosuggester Team- Build a realtime dashboard to monitor it's performance and key metrics- Implemented Autosuggester suggesting algorithms and worked on to make it live <!---->",
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "Info Edge India Ltd",
+            "company_id": "info-edge-india-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Artificial Intelligence Intern",
+            "location": "Hong Kong SAR",
+            "description": "Developed Hand gestures and facial emotion recognition model for Moodie.AI (World’s smartest AI communication & presentation training platform)",
+            "description_html": "Developed Hand gestures and facial emotion recognition model for Moodie.AI (World’s smartest AI communication &amp; presentation training platform) <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Datality Lab Limited",
+            "company_id": "datalitylab",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "Project Title : Body Landmark Detection Worked on the deep learning optimization techniques popularly known as knowledge distillation to reduce the validation error between the predicted value and the ground truth.",
+            "description_html": "Project Title : Body Landmark Detection Worked on the deep learning optimization techniques popularly known as knowledge distillation to reduce the validation error between the predicted value and the ground truth. <!---->",
+            "duration": "Feb 2021 Jul 2021 6 months",
+            "start_date": "Feb 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "6 months",
+            "company": "University of Nottingham Malaysia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Kharagpur Data Analytics Group (KDAG) is aimed at bringing Data Analytics and Machine Learning enthusiasts together under the umbrella of a single society.",
+            "description_html": "Kharagpur Data Analytics Group (KDAG) is aimed at bringing Data Analytics and Machine Learning enthusiasts together under the umbrella of a single society. <!---->",
+            "duration": "Oct 2020 Jun 2021 9 months",
+            "start_date": "Oct 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "9 months",
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Python Developer - Machine Learning Intern",
+            "location": "West Bengal, India",
+            "description": "Implemented Speech Emotion Recognition model using and Handwritten digits recognition model using TensorFlow and thus, contributed in the code repository of \"CodeSpeedy - Coding Solution & Software Development\".",
+            "description_html": "Implemented Speech Emotion Recognition model using and Handwritten digits recognition model using TensorFlow and thus, contributed in the code repository of \"CodeSpeedy - Coding Solution &amp; Software Development\". <!---->",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "CodeSpeedy Technology Private Limited",
+            "company_id": "codespeedy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Scour Depth Prediction - Research Project",
+            "description": "• Explored around 200+ research papers to fetch over 3000 data points for Scour depth cases of steady currents and waves• Extracted significant features out of all given features using Pearson corr. matrix, chi-squared methods and feature_importance tool of XGBoost    Regressor• Employed regression models such as Gradient Boost, XGBoost, RF and LightGBM followed by ensemble method of Voting Regressor• Developed a public-use website using flask which enables an user to input the significant features consecutively estimating the scour depth as an output",
+            "description_html": "• Explored around 200+ research papers to fetch over 3000 data points for Scour depth cases of steady currents and waves• Extracted significant features out of all given features using Pearson corr. matrix, chi-squared methods and feature_importance tool of XGBoost  Regressor• Employed regression models such as Gradient Boost, XGBoost, RF and LightGBM followed by ensemble method of Voting Regressor• Developed a public-use website using flask which enables an user to input the significant features consecutively estimating the scour depth as an output",
+            "duration": "Feb 2020 Jul 2020 6 months",
+            "start_date": "Feb 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "6 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analytics Intern",
+            "location": "New Delhi, Delhi, India",
+            "description": "- Explored the ETL of Ab-initio(a big data analytics), covered concepts includes GDE, EME, Data Profiler, Component Library, data warehousing & OLTP. - Analyzed the tools of Qlik view & performed data analysis on a movie database including number of movies acted, movies over time, total durations, etc",
+            "description_html": "- Explored the ETL of Ab-initio(a big data analytics), covered concepts includes GDE, EME, Data Profiler, Component Library, data warehousing &amp; OLTP. - Analyzed the tools of Qlik view &amp; performed data analysis on a movie database including number of movies acted, movies over time, total durations, etc <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Bharti Airtel",
+            "company_id": "airtel",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision Winter Workshop",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Introduced to various filters, edge detection ,object detection and path planning algorithms using suitable data structures.",
+            "description_html": "Introduced to various filters, edge detection ,object detection and path planning algorithms using suitable data structures. <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Technology Robotix",
+            "company_id": "technology-robotix-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree(B.tech + M.tech)",
+            "field": "8.23/10",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "- Micro specialization in Artificial Intelligence and Applications ~RK Hall Of Residence ~",
+            "description_html": "- Micro specialization in Artificial Intelligence and Applications ~RK Hall Of Residence ~ <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020Credential ID 7N8PNCZZURQNSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID UC-1c4d0753-3d9b-4087-b0e2-9d7452d70d6bSee credential",
+            "subtitle": "Udemy",
+            "title": "Data Structures and Algorithms!"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID UC-135b5e8c-7fed-43ea-a6da-b56adbfad826See credential",
+            "subtitle": "Udemy",
+            "title": "Deep Learning A-Z™: Hands-On Artificial Neural Networks!"
+        }
+    ],
+    "current_company_name": "Info Edge India Ltd",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

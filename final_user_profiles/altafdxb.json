@@ -1,0 +1,55 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "1994",
+            "end_year": "1996",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1987",
+            "end_year": "1991",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"7 Habits of Highly Effective Managers™, a Dr Stephen Covey Program\"},{\"subtitle\":\"-\",\"title\":\"AI and Machine Learning for Financial Services\"},{\"subtitle\":\"-\",\"title\":\"Advanced Negotiation Skills, by Indian Institute of Management Bangalore IIM(B)\"},{\"subtitle\":\"-\",\"title\":\"Business Innovation, by Duke University\"},{\"subtitle\":\"-\",\"title\":\"Co-active Leader, by Coaches Training Institute (CTI)\"},{\"subtitle\":\"-\",\"title\":\"Developing and Marketing Specialized Financial Products, by by Institute for International Research (IIR)\"},{\"subtitle\":\"-\",\"title\":\"Diploma in Business Leadership, by Duke University and Coaches Training Institute (CTI)\"},{\"subtitle\":\"-\",\"title\":\"Fish!™ Workshop with Dr Stephen Lundin\"},{\"subtitle\":\"-\",\"title\":\"Foundations of Business Leadership, by Indian School of Business (ISB)\"},{\"subtitle\":\"-\",\"title\":\"Leadership Training for Managers™ , by Dale Carnegie Training Inc.\"},{\"subtitle\":\"-\",\"title\":\"Leadership, by Dr Stephen Covey—Live in Dubai\"},{\"subtitle\":\"-\",\"title\":\"Managers Masterclass in Blockchain & Bitcoin\"},{\"subtitle\":\"-\",\"title\":\"Mini-MBA, by Indian Institute of Management Bangalore IIM(B)\"},{\"subtitle\":\"-\",\"title\":\"Prepaid Cards Summit, by VRL KnowledgeBank in London\"},{\"subtitle\":\"-\",\"title\":\"Process Methodology, by Vignette Inc.\"},{\"subtitle\":\"-\",\"title\":\"Strategy Planning & Deployment, by Duke University\"},{\"subtitle\":\"-\",\"title\":\"Team Building and Goal Setting, by Global Training Centre Dubai\"},{\"subtitle\":\"-\",\"title\":\"The Self Service Banking Business Workshop, by Institute for International Research (IIR)\"},{\"subtitle\":\"-\",\"title\":\"Unlocking the Leadership Code, by Rogen Si\"},{\"subtitle\":\"-\",\"title\":\"Vignette Personalization Methodology (VPM), by Vignette Inc.\"}]",
+    "certifications": null,
+    "current_company_name": "e&",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Recognized as one of Top 30 Fintech Influencers in MENA",
+            "publication": "The Digital Fifth",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "Included by The Digital Fifth in their Top 30 Middle East and Northern Africa (MENA) Influencer list 2021 ("
+        },
+        {
+            "title": "Recognized as one of Top50 Fintech Influencers in the Middle East",
+            "publication": "Lattice80",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "Chosen as one of the List of Top50 Fintech Infuencers in the Middle East by Lattice80 ("
+        },
+        {
+            "title": "Remitr: UAE's Most Promising Startups, 2016",
+            "publication": "Forbes Middle East Magazine",
+            "date": "2016-10-01T00:00:00.000Z",
+            "description": "Remitr is awarded as one of the most promising Startups for 2016 by Forbes Middle East magazine."
+        },
+        {
+            "title": "Top graduating MBA student",
+            "publication": "Indian Institute of Technology, Kharagpur",
+            "date": "1996-02-01T00:00:00.000Z",
+            "description": "Winner of Shelu Sanyal Memorial Gold Medal at VGSoM, IIT Kharagpur for topmost graduating MBA student in 1996."
+        }
+    ]
+}

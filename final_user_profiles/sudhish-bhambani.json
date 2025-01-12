@@ -1,0 +1,30 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "end_year": "2020-08",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020",
+            "subtitle": "Google Digital Garage",
+            "title": "Google"
+        },
+        {
+            "subtitle": "Google",
+            "title": "Google digital unlocked"
+        }
+    ],
+    "current_company_name": "eCell NSUT (The Entrepreneurship Cell of NSUT)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

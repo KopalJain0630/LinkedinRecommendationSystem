@@ -1,0 +1,152 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Aegis School of Business, Data Science, Cyber Security and Telecommunication",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". .    . & .,",
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2020-12",
+            "end_year": "2021-09",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2022Credential ID UC-b33bd737-3348-4d14-a4f1-d8fa9d00543aSee credential",
+            "subtitle": "Udemy",
+            "title": "Microsoft Power BI Certification"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID UC-48b54f6c-6cd7-4463-bb16-82b7a82c518dSee credential",
+            "subtitle": "Udemy",
+            "title": "Procurement & Supply Planning tools and techniques"
+        },
+        {
+            "meta": "Issued Aug 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Data Science Foundations: Knowledge Graphs"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID 121d7f93-0d0e-4799-95a0-2d7dc542c12cSee credential",
+            "subtitle": "Skillsoft’s Business Development Community",
+            "title": "Agile Software Development - Scrum"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID ca4958b8-b62a-44d3-b890-345298a51b2aSee credential",
+            "subtitle": "Skillsoft’s Business Development Community",
+            "title": "Agile Test-Driven Development"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID UC-e62735b7-5f59-4eab-85cf-03d6aa1ae3e3See credential",
+            "subtitle": "Udemy",
+            "title": "TensorFlow Developer"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID 6569dfec04c54d66b2d5cd4e2f1ecd0bSee credential",
+            "subtitle": "HarvardX",
+            "title": "Professional Tiny Machine Learning"
+        },
+        {
+            "meta": "Issued Apr 2021Credential ID UC-9ad9b43a-9830-47de-8d78-b12600b3f714See credential",
+            "subtitle": "Udemy",
+            "title": " SAS Programming Advance Certification Course"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID UC-ba3c0315-841a-4e8c-abe3-0146ff686b4dSee credential",
+            "subtitle": "Udemy",
+            "title": "AI Chatbot"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID UC-74366206-1e27-4750-80ae-8fcc03e97be1See credential",
+            "subtitle": "Udemy",
+            "title": "Android & Firebase ML Kit in Java / Kotlin"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID UC-cf53d35b-6594-4f16-a164-a73f65dd2977See credential",
+            "subtitle": "Udemy",
+            "title": "Google Data Studio"
+        },
+        {
+            "meta": "Issued Feb 2021Credential ID UC-3804f9c0-1aef-49a8-9d93-69f548fb8533See credential",
+            "subtitle": "Udemy",
+            "title": "GCP - Google Cloud Platform"
+        },
+        {
+            "meta": "Issued Jan 2021Credential ID UC-58998a85-cdcc-4819-9288-9c3aa0ce2ae0See credential",
+            "subtitle": "Udemy",
+            "title": "AWS Certified Machine Learning Specialty 2021"
+        },
+        {
+            "meta": "Issued Oct 2020Credential ID UC-fa4175ba-d3c1-4592-9690-d00c50182625See credential",
+            "subtitle": "Udemy",
+            "title": "Diploma in (BIM) and Project Management Professional (PMP)"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID UC-4f3ff865-dcb4-44f3-8a67-ea20d58a07bfSee credential",
+            "subtitle": "Udemy",
+            "title": "Complete UiPath RPA Developer Course"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID UC-b8ad39f8-3a79-4f66-9f4e-0f0a07a9d962See credential",
+            "subtitle": "Udemy",
+            "title": "Artificial Intelligence Expert Certification"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID UC-e05bfca3-7985-4796-92ec-c52b72157995See credential",
+            "subtitle": "Udemy",
+            "title": "Complete Tensorflow Lite course for Android App Development"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID UC-2e012e17-0ef7-4e1d-9183-e840870c3b5eSee credential",
+            "subtitle": "Udemy",
+            "title": "SEO 2020: Complete SEO Training + SEO for WordPress Websites "
+        },
+        {
+            "meta": "Issued Jun 2024Expires Jun 2028Credential ID 1980_3_552585_1718002655_DatabrickSee credential",
+            "subtitle": "Databricks",
+            "title": "Generative AI Engineering"
+        },
+        {
+            "meta": "Issued Dec 2023Expires Oct 2026Credential ID S9J4CE5RT6C3See credential",
+            "subtitle": "Scrimba",
+            "title": "Build AI Apps with ChatGPT, Dall-E, and GPT-4"
+        }
+    ],
+    "current_company_name": "Association of Data Scientists",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Data Science Library for Financials\",\"start_date\":\"Jul 2021\",\"description\":\"-Creating and Building of different libraries and algorithm of Statistics and Data Science which could be utilized by their Data Scientist (Research and development) -A complex and time constrained project in which we had to match the efficiency with paid software’s like SAS from the open source software like python -Build several libraries and tools like RAMP, Univariate Stats, NLP modules like Wrangler from scratch -Few of the tools were dash oriented. -Need to complete our tool with pytest testing with 100% coverage and standardize our code as per scipy module. -We have developed More than 40+ libraries (total of 52) -Technical: Python(Advance), Pandas, SAS, NumPy, Matplotlib, Seaborn, Linear & Polynomial Regression, reverse GridsearchCV , Dash, Git, Spacy, Scipy, Statsmodels, pytest\"},{\"title\":\"GCP Machine Learning Pipeline For sentiment analysis\",\"start_date\":\"Mar 2021\",\"end_date\":\"May 2021\",\"description\":\"Working and leaning on GCP to make a MVP of OCR and NLP on streaming live data.\"},{\"title\":\"OCR with sentiment analysis\",\"start_date\":\"Jan 2021\",\"end_date\":\"Mar 2021\",\"description\":\"OCR + NLP sentiment analysis on NER as an application to customer (MVP)\"},{\"title\":\"All in One ML Project\",\"start_date\":\"Jan 2021\",\"end_date\":\"Feb 2021\",\"description\":\"Projects IncludedBoston House Price Prediction.Diabetis PredictionHeart Disease Prediction.Admission Chance Prediction.Car Price Prediction.Loan Approval Prediction.Data Science Salary Prediction.Employee Attrition Prediction.Cardiovascular Disease prediction.\"},{},{\"title\":\"AUTO EASY EDA APP\",\"start_date\":\"Nov 2020\",\"end_date\":\"Jan 2021\",\"description\":\"With the help of AUTO EASY EDA APP we can do EDA within few minutes. It saves times and most Important its just drag and dropping of files.\"},{},{\"title\":\"PERSONALITY PREDICTION SYSTEM\",\"start_date\":\"Jul 2020\",\"end_date\":\"Dec 2020\",\"description\":\"The objective of this project is to predict the personality of a person with the merger of graphology and machine learning where handwriting will unfold the personality of a person. We are going to create 3 deep learning model which then combines the result to give the traits of a person\"},{},{},{},{},{\"title\":\"INDIAN STOCK MARKET ANALYSIS AND PREDICTION\",\"start_date\":\"Nov 2020\",\"end_date\":\"Nov 2020\",\"description\":\"Technical Analysis and Prediction of Indian Stock market\"},{},{\"title\":\"COKE BOT\",\"start_date\":\"Sep 2020\",\"end_date\":\"Sep 2020\",\"description\":\"Developed a chat bot which takes order real time and saves data oh firebase deployed on GCP using NLP and integrated with telegram\"},{},{},{},{\"title\":\"Real Time Object Detection (more than 1k)\",\"start_date\":\"Jun 2020\",\"end_date\":\"Sep 2020\",\"description\":\") The objective is to detect the real time object (more than 1200 object) using deep learning model for the blind person, under Asterix Solution for Coca-Cola UAE.\"},{},{},{},{\"title\":\"Deduplication \",\"start_date\":\"Jul 2020\",\"end_date\":\"Aug 2020\",\"description\":\"The objective is to detect the duplicate author name based on their pen name, initial name and many other criteria using NLP model for more than 10000 books, under Asterix Solution for Spanish company.\"},{\"title\":\"Telecom Industry Customer Churn Prediction\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jun 2020\",\"description\":\"To predict whether the customer will be retained by the company or not\"},{},{},{},{},{\"title\":\"Time Series Analysis of stock price of RIL\",\"start_date\":\"May 2020\",\"end_date\":\"May 2020\",\"description\":\"A time series analysis on reliance industries limited on stock price\"},{},{},{},{},{\"title\":\"Twitter Sentimental Analysis\",\"start_date\":\"May 2020\",\"end_date\":\"May 2020\",\"description\":\"Twitter sentimental analysis which would predict that the given tweets would be of Positive or Negative Sentiments\"},{},{},{},{},{\"title\":\"Bank Marketing Classification\",\"start_date\":\"Mar 2020\",\"end_date\":\"Apr 2020\",\"description\":\"To classify customer and predicting for the term plan insurance for better sales\"},{},{},{\"title\":\"COVID-19 Probability Prediction\",\"start_date\":\"Mar 2020\",\"end_date\":\"Apr 2020\",\"description\":\"To predict the probability of having Covid-19 disease by giving the different features as an input using ML.\"},{},{},{},{\"title\":\"House Price Prediction\",\"start_date\":\"Mar 2020\",\"end_date\":\"Mar 2020\",\"description\":\"To predict price of the house in Mumbai Using Machine Learning concepts\"},{},{},{\"title\":\"Nayan\",\"start_date\":\"Aug 2016\",\"end_date\":\"Apr 2017\",\"description\":\"A guide for Blind person which would be an indoor system using Arduino and RFID technology\"},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Star Team Award",
+            "publication": "Yash Technologies",
+            "date": "2022-07-01T00:00:00.000Z",
+            "description": "Star Team Award for working on one of most complex project with accuracy and delivering it on time."
+        },
+        {
+            "title": "Star Team Award",
+            "publication": "Yash Technologies",
+            "date": "2022-02-01T00:00:00.000Z",
+            "description": "Star Team Award for working on one of most complex project with accuracy and delivering it on time."
+        }
+    ]
+}

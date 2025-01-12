@@ -1,0 +1,300 @@
+{
+    "id": "abhishek-agnihotri-71a141179",
+    "name": "Abhishek Agnihotri",
+    "city": "Gondia, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Assistant Manager - Data Scientist @EXL Digital || IIT Kharagpur'23",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "EXL",
+        "company_id": "exl-service",
+        "title": "Assistant Manager - Data Scientist @EXL Digital || IIT Kharagpur'23"
+    },
+    "experience": [
+        {
+            "title": "Assistant Manager - Data Scientist",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "EXL",
+            "company_id": "exl-service",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Overview: Developed logistics trackers to facilitate efficient inventory management for the Health-tech start-up and diagnostic laboratory\u00e2\u20ac\u00a2 Built 2 live dashboards using PostgreSQL to monitor real-time inventory by integrating the supplier database with the company's data\u00e2\u20ac\u00a2 Highlighted 3 key synergy issues by identifying discrepancies between supply and consumer demand for many of the medical types of equipment\u00e2\u20ac\u00a2 Provided important insights from dashboards and suggested 2 recommendations that will be used in a decrement in total inventory costs",
+            "description_html": "Overview: Developed logistics trackers to facilitate efficient inventory management for the Health-tech start-up and diagnostic laboratory\u00e2\u20ac\u00a2 Built 2 live dashboards using PostgreSQL to monitor real-time inventory by integrating the supplier database with the company's data\u00e2\u20ac\u00a2 Highlighted 3 key synergy issues by identifying discrepancies between supply and consumer demand for many of the medical types of equipment\u00e2\u20ac\u00a2 Provided important insights from dashboards and suggested 2 recommendations that will be used in a decrement in total inventory costs",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Orange Health",
+            "company_id": "orange-health",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning and Data Analysis Intern",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "Overview: Worked on a pilot project with an Indian Electric Utility which can allow users to pay electric bills online using a mobile app\u00e2\u20ac\u00a2 Developed a Learning model to detect digits from the readings of electric meter images by analyzing 10,000+ images of electric meters\u00e2\u20ac\u00a2 Implemented Seven Segment method to classify digits from the meter readings and achieved 78% accuracy on the testing images data\u00e2\u20ac\u00a2 Labelled training images and trained a custom YOLOv3 and YOLOv4 models for 1,000+ iterations with 10,000+ training images dataset\u00e2\u20ac\u00a2 Localized the part of the meter images data containing the required readings and achieved good accuracy of 0.86 mAp from the model",
+            "description_html": "Overview: Worked on a pilot project with an Indian Electric Utility which can allow users to pay electric bills online using a mobile app\u00e2\u20ac\u00a2 Developed a Learning model to detect digits from the readings of electric meter images by analyzing 10,000+ images of electric meters\u00e2\u20ac\u00a2 Implemented Seven Segment method to classify digits from the meter readings and achieved 78% accuracy on the testing images data\u00e2\u20ac\u00a2 Labelled training images and trained a custom YOLOv3 and YOLOv4 models for 1,000+ iterations with 10,000+ training images dataset\u00e2\u20ac\u00a2 Localized the part of the meter images data containing the required readings and achieved good accuracy of 0.86 mAp from the model",
+            "duration": "Jan 2021 Apr 2021 4 months",
+            "start_date": "Jan 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "4 months",
+            "company": "Assetplusconsulting - A Decision Science Company",
+            "company_id": "assetplusconsulting",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Overview: Understood how different ideas like 'swaraj', 'swadeshi', and 'ahimsa' have emerged over time and in different places in India\u00e2\u20ac\u00a2 Performed exploratory data analysis on historical text dataset containing over 0.3+ Million article titles using NLTK and gensim libraries\u00e2\u20ac\u00a2 Achieved f-score of 0.76 on a highly imbalanced dataset by implementing classification models to classify article titles into two categories\u00e2\u20ac\u00a2 Formulated a frequency-based trending word algorithm to find 1500+ trending words, phrases, and n-grams for any given place and year\u00e2\u20ac\u00a2 Identified the most popular ideas in general public sentiment from 1800 - 1950 by constructing a similarity matrix using cosine similarity",
+            "description_html": "Overview: Understood how different ideas like 'swaraj', 'swadeshi', and 'ahimsa' have emerged over time and in different places in India\u00e2\u20ac\u00a2 Performed exploratory data analysis on historical text dataset containing over 0.3+ Million article titles using NLTK and gensim libraries\u00e2\u20ac\u00a2 Achieved f-score of 0.76 on a highly imbalanced dataset by implementing classification models to classify article titles into two categories\u00e2\u20ac\u00a2 Formulated a frequency-based trending word algorithm to find 1500+ trending words, phrases, and n-grams for any given place and year\u00e2\u20ac\u00a2 Identified the most popular ideas in general public sentiment from 1800 - 1950 by constructing a similarity matrix using cosine similarity",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Management Bangalore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Organizing Team Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "\u00e2\u20ac\u00a2 Part of the 23-member Core Team of the techno-management fest responsible for Sponsorship, Publicity and Event management\u00e2\u20ac\u00a2 Solely garnered INR 4.75 lakhs worth net sponsorship amount and alumni contribution from regions of Mumbai, Kolkata and Bangalore\u00e2\u20ac\u00a2 Led a team of 42 Campus Affiliates and 17 Campus Representatives responsible for the publicity of the fest across various colleges of India\u00e2\u20ac\u00a2 Organised event Robowars which is one of the flagship event of Kshitij with total participation of 22 teams from different colleges ofIndia\u00e2\u20ac\u00a2 Conducted Kascade at Nagpur, Bhubaneswar that witnessed an increase in 50% participation of college students from Nagpur in Kshitij'20\u00e2\u20ac\u00a2 Oversaw the Web Development Summer Training Programme conducted for freshers, witnessing a total participation of 200+ students",
+            "description_html": "\u00e2\u20ac\u00a2 Part of the 23-member Core Team of the techno-management fest responsible for Sponsorship, Publicity and Event management\u00e2\u20ac\u00a2 Solely garnered INR 4.75 lakhs worth net sponsorship amount and alumni contribution from regions of Mumbai, Kolkata and Bangalore\u00e2\u20ac\u00a2 Led a team of 42 Campus Affiliates and 17 Campus Representatives responsible for the publicity of the fest across various colleges of India\u00e2\u20ac\u00a2 Organised event Robowars which is one of the flagship event of Kshitij with total participation of 22 teams from different colleges ofIndia\u00e2\u20ac\u00a2 Conducted Kascade at Nagpur, Bhubaneswar that witnessed an increase in 50% participation of college students from Nagpur in Kshitij'20\u00e2\u20ac\u00a2 Oversaw the Web Development Summer Training Programme conducted for freshers, witnessing a total participation of 200+ students",
+            "duration": "Aug 2019 Apr 2020 9 months",
+            "start_date": "Aug 2019",
+            "end_date": "Apr 2020",
+            "duration_short": "9 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij Campus Affiliate",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "\u00e2\u20ac\u00a2 Part of the 40 - Member Team of the symposium which is responsible for publicity of the fest and final management of all its events in KTJ\u00e2\u20ac\u00a2 Responsible for the in-house publicity of the events of Kshitij 2019 among the 12,000 residents at the institute and managed Workshops\u00e2\u20ac\u00a2 Publicized Kshitij 2019 by visiting various colleges of Kolkata, Bhubaneswar, Nagpur and also on various different social media platforms",
+            "description_html": "\u00e2\u20ac\u00a2 Part of the 40 - Member Team of the symposium which is responsible for publicity of the fest and final management of all its events in KTJ\u00e2\u20ac\u00a2 Responsible for the in-house publicity of the events of Kshitij 2019 among the 12,000 residents at the institute and managed Workshops\u00e2\u20ac\u00a2 Publicized Kshitij 2019 by visiting various colleges of Kolkata, Bhubaneswar, Nagpur and also on various different social media platforms <!---->",
+            "duration": "Sep 2018 Feb 2019 6 months",
+            "start_date": "Sep 2018",
+            "end_date": "Feb 2019",
+            "duration_short": "6 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Gaurav Jain",
+            "about": "PM @ Licious | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sidhartha Das",
+            "about": null,
+            "location": "Hojai"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Khoiwal",
+            "about": "Data Engineer at Axtria || Data Science || IIT Kharagpur '24",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Priyadarshi",
+            "about": "IIT Kharagpur",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Dhingra",
+            "about": "--Graduate Student, Mechanical Department, IIT Kharagpur",
+            "location": "Jabalpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Badrinath Gonnabattula",
+            "about": "SDE 1 @UrbanCompany | ex-Texas Instruments | ex-Turing | IIT Kharagpur'24",
+            "location": "Visakhapatnam"
+        },
+        {
+            "profile_link": "",
+            "name": "Sahil Dhamore",
+            "about": "Atomberg | IIT KGP | E-commerce Marketing | D2C",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayur Kalyanpad",
+            "about": "IIT Kharagpur'24",
+            "location": "Nanded"
+        },
+        {
+            "profile_link": "",
+            "name": "Modabbir Tarique",
+            "about": null,
+            "location": "Bihar, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jothi Prakash",
+            "about": "SWE @Databricks | Ex - D.E Shaw | EC+CS IIT Kgp '24 | ICPC Regionalist '23",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Suraj Karingala",
+            "about": "Applications Engineer@Oracle | ECE IITG'22",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Pratap Singh",
+            "about": "SDE II @ Walmart | IIT Kharagpur",
+            "location": "Bokaro"
+        },
+        {
+            "profile_link": "",
+            "name": "Yashwant Saini",
+            "about": "Machine Learning Engineer @ AmEx | IIT Madras",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajat Bhandari",
+            "about": "Building GenAI SAAS for eCommerce @ MySellerCentral | IIT Madras | ex. Pepperfry | ex. Sutherland Global",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "PRADOSH KUMAR BEHERA",
+            "about": "Technical Solutions Associate ll at HP Inc.",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manav Singh Raghav",
+            "about": "SDE 2 @ Zomato | IIT Kharagpur Graduate",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "B Harshavardhan Reddy",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bikash Kumar Sahoo",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Agrawal",
+            "about": "Software Developer at Cisco | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishit Gupta",
+            "about": "ZS || Accenture || Federal Mogul",
+            "location": "Kurukshetra"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Financial Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020",
+            "subtitle": "Coursera",
+            "title": "SQL for Data Science - University of California, Davis"
+        },
+        {
+            "meta": "Issued Sep 2020",
+            "subtitle": "Coursera",
+            "title": "Applied Social Network Analysis in Python - University of Michigan"
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Coursera",
+            "title": "Applied Machine Learning in Python - University of Michigan"
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Coursera",
+            "title": "Applied Text Mining in Python - University of Michigan"
+        },
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "Coursera",
+            "title": "Applied Plotting, Charting & Data Representation in Python - University of Michigan"
+        },
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python - University of Michigan"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 3703.0,
+    "connections": 500.0,
+    "current_company_company_id": "exl-service",
+    "current_company_name": "EXL",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Gondia",
+    "linkedin_id": "abhishek-agnihotri-71a141179",
+    "activity": null,
+    "linkedin_num_id": 708012742.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

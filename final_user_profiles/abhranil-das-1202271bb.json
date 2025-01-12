@@ -1,0 +1,91 @@
+{
+    "city": "Kharagpur, West Bengal, India",
+    "position": "--",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Cisco",
+            "company_id": "cisco",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Platform Engineer Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Aug 2022 Apr 2023 9 months",
+            "start_date": "Aug 2022",
+            "end_date": "Apr 2023",
+            "duration_short": "9 months",
+            "company": "Prodigal",
+            "company_id": "prodigaltech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Graduate Intern",
+            "description": "•Built an application to filter logs based on certain parameters and made a controller for the same using Vertx shell, which reduced redundancy in logging debug level logs.•Worked on AWS Neptune and gremlin to write scripts to update various entites based on API calls.•Worked on localization of frontend components in Angular using i18.",
+            "description_html": "•Built an application to filter logs based on certain parameters and made a controller for the same using Vertx shell, which reduced redundancy in logging debug level logs.•Worked on AWS Neptune and gremlin to write scripts to update various entites based on API calls.•Worked on localization of frontend components in Angular using i18. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Cisco",
+            "company_id": "cisco",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Backend Engineer Intern",
+            "description": "•Optimizing serverless applications using AWS services.•Creating data engineering solutions for timely alerts and failure for processes.•Automating a wide genre of tasks using bash scripts and papermill wrappers.•Worked in autoscalling and optimizing resources leveraging kubernetes and docker.",
+            "description_html": "•Optimizing serverless applications using AWS services.•Creating data engineering solutions for timely alerts and failure for processes.•Automating a wide genre of tasks using bash scripts and papermill wrappers.•Worked in autoscalling and optimizing resources leveraging kubernetes and docker. <!---->",
+            "duration": "Sep 2021 Apr 2022 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "8 months",
+            "company": "Prodigal",
+            "company_id": "prodigaltech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "ML/SDE Intern",
+            "description": "•Worked on a prototype for generating medical reports based on doctor-patient conversation.•Utilized the Named Entity Recognition Model to pick up important medical terms from the conversation between doctor and patient.•Trained various classification models to predict the diet and medicines for a patient, based on symptoms discussed during the consultation.",
+            "description_html": "•Worked on a prototype for generating medical reports based on doctor-patient conversation.•Utilized the Named Entity Recognition Model to pick up important medical terms from the conversation between doctor and patient.•Trained various classification models to predict the diet and medicines for a patient, based on symptoms discussed during the consultation. <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Erfinden",
+            "company_id": "erfinden",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "8.50",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Cisco",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Multiplayer Chess Game\",\"start_date\":\"May 2021\",\"end_date\":\"Jul 2021\",\"description\":\"•Desgined and built a multiplayer chess game where multiple players can play tha game at the same time•Used the Pygame library to make the user interface and python to develop and design the logic. •Players are matched randomly with each other and can surrender the game any time they want\"},{\"title\":\"Quiz Application\",\"start_date\":\"May 2021\",\"end_date\":\"Jun 2021\",\"description\":\"•Implemented an end-to-end Quiz Web Application using Django as a backend.•Used PostegreSQL as the database to store all the data instead of the the default SQLite Database.•Features include ability to review previously attempted quizzes, appear for quizzes varying over several categories and also make custom quizzes\"},{\"title\":\"Photo Sharing Platform\",\"description\":\"•Worked on a photo/blog sharing platform with Django as the web framework.•Features include ability to share photos, write blogs, follow people on the platform to see what they have shared.\"},{\"title\":\"Sorting Visualizer\",\"description\":\"•Successfully Implemented a sorting visualizer to visualize all the important comparison based sorting algorithms•Used Tkinter, a Graphical User Interface written in python to built the user interface.\"}]",
+    "honors_and_awards": null
+}

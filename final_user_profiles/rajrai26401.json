@@ -1,0 +1,83 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "BME'24 | Jadavpur University",
+    "experience": [
+        {
+            "title": "Jadavpur University",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Jadavpur University",
+                    "meta": "Aug 2023 - Jul 2024 1 year",
+                    "duration": "Aug 2023 Jul 2024 1 year",
+                    "start_date": "Aug 2023",
+                    "end_date": "Jul 2024",
+                    "duration_short": "1 year",
+                    "title": "Central Placement Coordinator",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Jadavpur University",
+                    "meta": "Aug 2022 - Jul 2023 1 year",
+                    "duration": "Aug 2022 Jul 2023 1 year",
+                    "start_date": "Aug 2022",
+                    "end_date": "Jul 2023",
+                    "duration_short": "1 year",
+                    "title": "Placement Coordinator",
+                    "description_html": null
+                }
+            ],
+            "company": "Jadavpur University",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Octane'23 Intern",
+            "location": "Aurangabad, Maharashtra, India",
+            "description": "• Studied Multi-model final assembly line activity time study to reduce time.• Analysed all the workstations with why-why analysis.• Identified workstations considering cost, time, performance optimization via ECRS and implemented kaizen.• Designed a low-cost prototype using solidworks for an automated petrol filling system on multi-model assembly line and investigated its constraints, sustainability, risk and failure prospects.• Proposed low-cost automation ideas for various workstations to efficiently utilise man-power and time.",
+            "description_html": "• Studied Multi-model final assembly line activity time study to reduce time.• Analysed all the workstations with why-why analysis.• Identified workstations considering cost, time, performance optimization via ECRS and implemented kaizen.• Designed a low-cost prototype using solidworks for an automated petrol filling system on multi-model assembly line and investigated its constraints, sustainability, risk and failure prospects.• Proposed low-cost automation ideas for various workstations to efficiently utilise man-power and time.",
+            "duration": "Jun 2023 Jul 2023 2 months",
+            "start_date": "Jun 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "2 months",
+            "company": "Bajaj Auto Ltd",
+            "company_id": "bajaj-auto-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Worked on understanding the wicking behavior of blood through straight paper channels and also examined the effect of the axial electric field on the blood-wicking characteristics.• Developed hands-on expertise in paper-based microfluidic device fabrication, including paper-and-    pencil methods for electrokinetic studies.• Conducted research on the wicking behavior of blood through paper channels, investigating the impact    of hematocrit fractions and axial electric fields on flow dynamics.• Initiated preliminary control experiments with dye solutions and engaged in data analysis to extract     insights into fluid wicking behavior.",
+            "description_html": "Worked on understanding the wicking behavior of blood through straight paper channels and also examined the effect of the axial electric field on the blood-wicking characteristics.• Developed hands-on expertise in paper-based microfluidic device fabrication, including paper-and-  pencil methods for electrokinetic studies.• Conducted research on the wicking behavior of blood through paper channels, investigating the impact  of hematocrit fractions and axial electric fields on flow dynamics.• Initiated preliminary control experiments with dye solutions and engaged in data analysis to extract  insights into fluid wicking behavior.",
+            "duration": "May 2022 Sep 2022 5 months",
+            "start_date": "May 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Jadavpur University",
+            "degree": "B.E",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Jadavpur University",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Dynamic Motion Planning of a Robot.\",\"start_date\":\"Aug 2022\",\"end_date\":\"Dec 2022\",\"description\":\"Fuzzy logic based obstacle avoidance robot:• Designed a fuzzy logic motion planner for mobile robots, enabling navigation amidst multiple dynamic obstacles while prioritizing the most critical threats for safety optimization.• Developed a fuzzy logic input system with granular distance (4 linguistic terms) and angle (5 linguistic terms) parameters, ensuring precise motion planning calculations.• Engineered a fuzzy logic output system generating deviation controls (5 linguistic terms) to facilitate collision-free navigation in complex, real-time scenarios.• Implemented a solution that prioritizes the most critical moving obstacle, enhancing robot safety and collision avoidance in dynamic environments\"},{\"title\":\"Sustainable measures for electric aviation.\",\"start_date\":\"Sep 2022\",\"end_date\":\"Oct 2022\",\"description\":\"The goal is to reduce carbon footprint and ensure sustainability through electrification in the aerospace industry.\"},{\"title\":\"Analyzing the wicking characteristic of blood through paper channels in presence of an electric field.\",\"start_date\":\"May 2022\",\"end_date\":\"Aug 2022\",\"description\":\"Summer Research Intern at Microfluidics Lab, Mechanical Engineering Department IIT Kharagpur, under Prof Suman Chakraborty. Learned the fabrication procedure of paper-based microfluidics devices, including paper-and-pencil-based devices for electrokinetic study. Worked on understanding the wicking behavior of blood through straight paper channels and also examined the effect of the axial electric field on the blood-wicking characteristics. Conducted experiments to unveil the dynamics of the blood of different HCTs through paper, both in the presence and absence of an electric field. Analyzing data collected with ImageJ software.\"}]",
+    "honors_and_awards": null
+}

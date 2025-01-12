@@ -1,0 +1,78 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Analyst | Accenture",
+    "experience": [
+        {
+            "title": "Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "Accenture",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Advisor",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "May 2020 Apr 2021 1 year",
+            "start_date": "May 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "1 year",
+            "company": "Rajasthan Cultural Association, IIT Kharagpur",
+            "company_id": "rca-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Maintenance secretary",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Aug 2018 Apr 2019 9 months",
+            "start_date": "Aug 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "9 months",
+            "company": "Azad Hall of Residence",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "KVM Senior Secondary School Sikar",
+            "degree": "High School, PCM",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023Credential ID MS0994902843",
+            "subtitle": "Microsoft ",
+            "title": "Microsoft Certified: Azure AI Fundamentals"
+        }
+    ],
+    "current_company_name": "Accenture",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

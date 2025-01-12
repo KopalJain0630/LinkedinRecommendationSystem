@@ -1,0 +1,198 @@
+{
+    "city": "Montreal, Quebec, Canada",
+    "position": "Software Engineer @ Morgan Stanley | Java | Angular | Apache Kafka | Azure",
+    "experience": [
+        {
+            "title": "Morgan Stanley",
+            "location": "Montreal, Quebec, Canada",
+            "description_html": null,
+            "duration": "5 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Nov 2022 - Present 2 years 2 months",
+                    "description": "• Engineered a Kafka stream-based automatic payment release functionality, reducing average payment release time from30 minutes to 4 minutes, optimizing operational efficiency and processing over 80K transactions per day.",
+                    "duration": "Nov 2022 - Present 2 years 2 months",
+                    "start_date": "Nov 2022",
+                    "end_date": "Present",
+                    "duration_short": "2 years 2 months",
+                    "title": "Software Engineer",
+                    "description_html": "• Engineered a Kafka stream-based automatic payment release functionality, reducing average payment release time from<br>30 minutes to 4 minutes, optimizing operational efficiency and processing over 80K transactions per day. <!---->"
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Jan 2022 - Jul 2023 1 year 7 months",
+                    "description": "• Enhanced reference data availability on Kafka by developing a Spring Boot application with an Angular Frontend, reducing new reference data onboarding time by 50%, improving data accessibility for over 10 teams.• Served as Scrum Master for a year, facilitating sprint planning, daily standups, and retrospectives, and driving on-time delivery of multiple projects while fostering a culture of continuous improvement within a team of five engineers.",
+                    "duration": "Jan 2022 Jul 2023 1 year 7 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Jul 2023",
+                    "duration_short": "1 year 7 months",
+                    "title": "Manager / Software Engineer",
+                    "description_html": "• Enhanced reference data availability on Kafka by developing a Spring Boot application with an Angular Frontend, reducing new reference data onboarding time by 50%, improving data accessibility for over 10 teams.<br>• Served as Scrum Master for a year, facilitating sprint planning, daily standups, and retrospectives, and driving on-time delivery of multiple projects while fostering a culture of continuous improvement within a team of five engineers. <!---->"
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Jan 2021 - Jan 2022 1 year 1 month",
+                    "description": "• Leading various technical debt remediation initiatives like decommissioning legacy components bringing $100,000 savings per year.• Integrating the new Kafka infrastructure to receive real-time balances of payments, so that the payment release is more accurate (avoiding overdraft) and quicker.",
+                    "duration": "Jan 2021 Jan 2022 1 year 1 month",
+                    "start_date": "Jan 2021",
+                    "end_date": "Jan 2022",
+                    "duration_short": "1 year 1 month",
+                    "title": "Senior Technology Associate / Software Engineer",
+                    "description_html": "• Leading various technical debt remediation initiatives like decommissioning legacy components bringing $100,000 savings per year.<br>• Integrating the new Kafka infrastructure to receive real-time balances of payments, so that the payment release is more accurate (avoiding overdraft) and quicker. <!---->"
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Jan 2020 - Jan 2021 1 year 1 month",
+                    "description": "• Developed new features providing users with extra flexibility over releasing payments, and increasing the overall throughput of the application.",
+                    "duration": "Jan 2020 Jan 2021 1 year 1 month",
+                    "start_date": "Jan 2020",
+                    "end_date": "Jan 2021",
+                    "duration_short": "1 year 1 month",
+                    "title": "Technology Associate",
+                    "description_html": "• Developed new features providing users with extra flexibility over releasing payments, and increasing the overall throughput of the application. <!---->"
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Aug 2019 - Jan 2020 6 months",
+                    "description": "• A 15-week intensive training program, where I learned about the Firm’s cutting edge technology platforms, along with innovative labs and projects.• Built a dashboard to showcase anomalies in time-series type data over the past week, for an internal MS client.",
+                    "duration": "Aug 2019 Jan 2020 6 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jan 2020",
+                    "duration_short": "6 months",
+                    "title": "Technology Analyst",
+                    "description_html": "• A 15-week intensive training program, where I learned about the Firm’s cutting edge technology platforms, along with innovative labs and projects.<br>• Built a dashboard to showcase anomalies in time-series type data over the past week, for an internal MS client. <!---->"
+                }
+            ],
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Technology Analyst",
+            "location": "Bangalore",
+            "description": "Technical Analyst Program'18• Developed a dashboard for the Treasury Team to manage their database driven reference data. The technologies used were Angular 5 for the UI Dashboard with IgTree and AgGrid components, as well as a Java based server component to serve requests.",
+            "description_html": "Technical Analyst Program'18• Developed a dashboard for the Treasury Team to manage their database driven reference data. The technologies used were Angular 5 for the UI Dashboard with IgTree and AgGrid components, as well as a Java based server component to serve requests.  <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "The Entrepreneurship Cell, VNIT Nagpur",
+            "location": "Nagpur, Maharashtra, India",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "The Entrepreneurship Cell, VNIT Nagpur",
+                    "meta": "Apr 2017 - Apr 2018 1 year 1 month",
+                    "description": "Led a 100+ students team to organize events all-year-round building up to the E-Summit. In my three years as manager, core committee, and advisory member, we built it from scratch to a national level organization, impacting 15000+ students.",
+                    "duration": "Apr 2017 Apr 2018 1 year 1 month",
+                    "start_date": "Apr 2017",
+                    "end_date": "Apr 2018",
+                    "duration_short": "1 year 1 month",
+                    "title": "Head Of Public Relations",
+                    "description_html": "Led a 100+ students team to organize events all-year-round building up to the E-Summit. <br>In my three years as manager, core committee, and advisory member, we built it from scratch to a national level organization, impacting 15000+ students. <!---->"
+                },
+                {
+                    "subtitle": "The Entrepreneurship Cell, VNIT Nagpur",
+                    "meta": "Jul 2016 - Mar 2017 9 months",
+                    "duration": "Jul 2016 Mar 2017 9 months",
+                    "start_date": "Jul 2016",
+                    "end_date": "Mar 2017",
+                    "duration_short": "9 months",
+                    "title": "Assistant Manager",
+                    "description_html": null
+                }
+            ],
+            "company": "The Entrepreneurship Cell, VNIT Nagpur",
+            "company_id": "theentrepreneurshipcellvnit",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern",
+            "location": "IIT Bombay",
+            "description": "• Among the Top 20 to be selected for summer internship under Padmashri Dr. D.B.Phatak out of 3K participants.• Developed a generic IoT dashboard, using which the team could plug-and-play their devices and view real-time stats.",
+            "description_html": "• Among the Top 20 to be selected for summer internship under Padmashri Dr. D.B.Phatak out of 3K participants.• Developed a generic IoT dashboard, using which the team could plug-and-play their devices and view real-time stats. <!---->",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "FOSSEE, IIT Bombay",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "South West Delhi, Delhi, India",
+            "description": "Helped organise and collect data from various well-wishers and important dignitaries of Nobel laureate Mr. Kailash Satyarthi, so his team could reach out to them to help the Foundation’s cause.",
+            "description_html": "Helped organise and collect data from various well-wishers and important dignitaries of Nobel laureate Mr. Kailash Satyarthi, so his team could reach out to them to help the Foundation’s cause. <!---->",
+            "duration": "Jun 2016 Jun 2016 1 month",
+            "start_date": "Jun 2016",
+            "end_date": "Jun 2016",
+            "duration_short": "1 month",
+            "company": "Kailash Satyarthi Children’s Foundation",
+            "company_id": "kailash-satyarthi-children-foundation",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Visvesvaraya National Institute of Technology",
+            "degree": "Bachelor's degree",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": "Activities and Societies: Dramatics, Debating, E-Cell Coursework: - Data Structures & Algorithms - Operating Systems - Analysis of Algorithms - Database Management Systems - Artificial Intelligence - Network Security - Distributed Systems - Data Mining",
+            "description_html": "Activities and Societies: Dramatics, Debating, E-Cell",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Noida",
+            "degree": "High School",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": "Activities and Societies: NIIT Science Project Presentation, Orator, Anchor",
+            "description_html": "Activities and Societies: NIIT Science Project Presentation, Orator, Anchor",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2023Credential ID nU1I02A0Sogu71pB3p2AwA19818See credential",
+            "subtitle": "ExamPro",
+            "title": "Azure Developer Associate Certificate of Completion"
+        },
+        {
+            "meta": "Issued Dec 2019",
+            "subtitle": "Morgan Stanley",
+            "title": "Technology Analyst Programme"
+        },
+        {
+            "meta": "Issued Jun 2024Expires Jun 2025Credential ID 995324579See credential",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified: Azure Developer Associate"
+        },
+        {
+            "meta": "Issued Jun 2023Expires Jun 2025Credential ID 35116A-CH4455",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified: Azure Fundamentals"
+        }
+    ],
+    "current_company_name": "Morgan Stanley",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Open Domain Question Answering\",\"start_date\":\"Mar 2019\",\"description\":\"• Built a Q&A system, which given a corpus of data, could answerfact-based questions on it with 66% accuracy.• Experimented with different text encoders and whether they help in improving the accuracy of such systems.\"},{},{},{},{\"title\":\"Reference Data Dashboard\",\"start_date\":\"May 2018\",\"end_date\":\"Jul 2018\",\"description\":\"Dashboard for the Treasury Team at Morgan Stanley to manage their database driven reference data. The technologies used were Angular 5 for the UI Dashboard with IgTree and AgGrid components, as well as a Java based server component to serve requests. \"},{\"title\":\"Generic IoT Platform\",\"start_date\":\"May 2017\",\"end_date\":\"Jul 2017\",\"description\":\"The project aims at developing a platform for transmission and reception of data in a fully duplexed mode using IoT-specific protocols.\"},{},{}]",
+    "honors_and_awards": null
+}

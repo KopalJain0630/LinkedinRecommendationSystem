@@ -1,0 +1,68 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Delhi University",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1999",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"Linux Foundation -edx.org\",\"title\":\"Blockchains\"},{\"subtitle\":\"IIMBx - edx Course\",\"title\":\"Customer Relationship Management -CRM\"},{\"subtitle\":\"Automation Anywhere\",\"title\":\"Robotic Process Automation (RPA)\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jan 2018Credential ID f907c7227b8a444daa2be9f98d339328See credential",
+            "subtitle": "IIMBx | Indian Institute of Management Bangalore",
+            "title": "International Business Environment and Global Strategy "
+        }
+    ],
+    "current_company_name": "Onchain Labs",
+    "publications": "[{\"title\":\"5 Consejos para crear skills en multiples idiomas\",\"subtitle\":\"Amazon Alexa Blog\",\"date\":\"December 31, 2020\"},{\"title\":\"Tips to Maintain Positive Customer Experience in Live Skills\",\"subtitle\":\"Amazon Alexa Blog\",\"date\":\"December 30, 2020\"},{\"title\":\"Como crear frases de ejemplo - Alexa Skills Kit\"},{\"title\":\"How to check the In-Development version of your skill in the Alexa App\"},{\"title\":\"Problemas con contextualizado texto-a-voz o respuesta de reproducción de audio\"},{\"title\":\"Tips for a Successful Alexa Skill Certification: Contextualized TTS or audio playback response\"},{\"title\":\"Tips for choosing Invocation Name - Alexa Skills Kit\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Accenture Operations Wall of Recognition",
+            "publication": "Accenture",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "High Performance. Delivered outstanding numbers and business conversions for the client."
+        },
+        {
+            "title": "Rising Star Award for Excellent Performance",
+            "publication": "First Advantage",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": "Rising Star Award is given to the new employee for giving high performance."
+        },
+        {
+            "title": "District Interact Representative",
+            "publication": "Rotary International",
+            "date": null,
+            "description": "RYLA Award"
+        },
+        {
+            "title": "Principal's Award",
+            "publication": "Loyola School Honour Society",
+            "date": null,
+            "description": null
+        }
+    ]
+}

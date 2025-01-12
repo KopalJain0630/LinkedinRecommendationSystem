@@ -1,0 +1,139 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "Driving Innovation in Technology and Education | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "American Express",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "2 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "American Express",
+                    "meta": "Apr 2024 - Present 9 months",
+                    "duration": "Apr 2024 - Present 9 months",
+                    "start_date": "Apr 2024",
+                    "end_date": "Present",
+                    "duration_short": "9 months",
+                    "title": "Engineer - II",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "American Express",
+                    "meta": "Aug 2022 - Apr 2024 1 year 9 months",
+                    "duration": "Aug 2022 Apr 2024 1 year 9 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Apr 2024",
+                    "duration_short": "1 year 9 months",
+                    "title": "Engineer - III",
+                    "description_html": null
+                }
+            ],
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Volunteer Research Assistant",
+            "location": "Atlanta, Georgia, United States",
+            "description": "Remote - researcher (voluntary basis) at the Department of Biomedical Informatics, Emory University guided by Dr. Rishikesan Kamaleswaran.Applying my NLP and data science skills in the domain of Computational Biology to solve some real life problems in Biology",
+            "description_html": "Remote - researcher (voluntary basis) at the Department of Biomedical Informatics, Emory University guided by Dr. Rishikesan Kamaleswaran.Applying my NLP and data science skills in the domain of Computational Biology to solve some real life problems in Biology <!---->",
+            "duration": "Jul 2022 Jan 2024 1 year 7 months",
+            "start_date": "Jul 2022",
+            "end_date": "Jan 2024",
+            "duration_short": "1 year 7 months",
+            "company": "Emory University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Applied Scientist Intern",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "PCQB QnA extraction from articles & a demo tool to help in the navigation & exploration of the same.",
+            "description_html": "PCQB QnA extraction from articles &amp; a demo tool to help in the navigation &amp; exploration of the same. <!---->",
+            "duration": "Jan 2022 Jun 2022 6 months",
+            "start_date": "Jan 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "6 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Associate - Intern",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "• Identification of the type of relationship between two bio-entities on the basis of the results obtained by extracting biomedical text datasets, identifying entities & classifying if there exists a relationship. • Received PPO & a Letter of Commendation from the Manager, Advanced Data Science (ADS) Team.",
+            "description_html": "• Identification of the type of relationship between two bio-entities on the basis of the results obtained by extracting biomedical text datasets, identifying entities &amp; classifying if there exists a relationship. • Received PPO &amp; a Letter of Commendation from the Manager, Advanced Data Science (ADS) Team. <!---->",
+            "duration": "Jan 2021 Jun 2021 6 months",
+            "start_date": "Jan 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "6 months",
+            "company": "ZS",
+            "company_id": "zs-associates",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Osaka, Japan",
+            "description": "• Prediction of the Non-Small Cell Lung Cancer (NSCLC) using Machine Learning & identifying its potential drug targets using the Bayesian Network Simulation on the Rho-GDI Signalling Pathway.• The manuscript has been published at IEEE Journal of Biomedical & Health Informatics.• Awarded a Letter of Recommendation from Dr. Kenji Mizuguchi (Director ArCHER, NIBIOHN).",
+            "description_html": "• Prediction of the Non-Small Cell Lung Cancer (NSCLC) using Machine Learning &amp; identifying its potential drug targets using the Bayesian Network Simulation on the Rho-GDI Signalling Pathway.• The manuscript has been published at IEEE Journal of Biomedical &amp; Health Informatics.• Awarded a Letter of Recommendation from Dr. Kenji Mizuguchi (Director ArCHER, NIBIOHN). <!---->",
+            "duration": "Jan 2020 Dec 2020 1 year",
+            "start_date": "Jan 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "1 year",
+            "company": "Osaka University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Built a data-driven decision support system for the prediction of COVID-19 at the hyper-local level.• The model was implemented by Telangana State Government to mitigate COVID-19 risks effectively.• Received PPO & Letter of Appreciation by Co-founder; Awarded 'Intern of the Month' by COO.",
+            "description_html": "• Built a data-driven decision support system for the prediction of COVID-19 at the hyper-local level.• The model was implemented by Telangana State Government to mitigate COVID-19 risks effectively.• Received PPO &amp; Letter of Appreciation by Co-founder; Awarded 'Intern of the Month' by COO. <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Sapio Analytics",
+            "company_id": "sapio-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "• Automation of bounding box tracking in different conditions of daylight & road semantics.• Awarded a Letter of Acclamation from the Director of the organization for exemplary work.",
+            "description_html": "• Automation of bounding box tracking in different conditions of daylight &amp; road semantics.• Awarded a Letter of Acclamation from the Director of the organization for exemplary work. <!---->",
+            "duration": "Apr 2020 May 2020 2 months",
+            "start_date": "Apr 2020",
+            "end_date": "May 2020",
+            "duration_short": "2 months",
+            "company": "Swaayatt Robots (स्वायत्त रोबोट्स)",
+            "company_id": "swaayatt-robots",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech + MTech",
+            "field": "Engineering Product Design",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": "Activities and Societies: • Azad Hall Of Residence IIT Kharagpur • Safety Analytics & Virtual Reality (SAVR) Lab • TeamKART: Official FSAE of IIT Kharagpur • AUV Research Group IIT Kharagpur Publications: • IEEE Journal of Biomedical and Health Informatics (JBHI-01644-2021), 2021 • IHIET-AI, 2020, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland Academic Achievements: • 2200 € Scholarship by The A*Midex Foundation of AMU, France • Summer Fellowship by The Institute of Science & Technology Austria • 1/30 featured in UG Achievers Directory 2020 by IIT Kharagpur • Spotlighted in ISE Newsletter Autumn 2020 by ISE Dept… Show more",
+            "description_html": "Activities and Societies: • Azad Hall Of Residence IIT Kharagpur • Safety Analytics &amp; Virtual Reality (SAVR) Lab • TeamKART: Official FSAE of IIT Kharagpur • AUV Research Group IIT Kharagpur",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "American Express",
+    "publications": "[{\"title\":\"Integrative Network Modeling Highlights the Crucial Roles of Rho-GDI Signaling Pathway in the Progression of Non-Small Cell Lung Cancer\",\"subtitle\":\"IEEE Journal Of Biomedical & Health Informatics\",\"date\":\"July 12, 2022\",\"description\":\"Non-small cell lung cancer (NSCLC) is the most prevalent form of lung cancer and a leading cause of cancer-related deaths worldwide. Using an integrative approach, we analyzed a publicly available merged NSCLC transcriptome dataset using machine learning, protein-protein interaction (PPI) networks and bayesian modeling to pinpoint key cellular factors and pathways likely to be involved with the onset and progression of NSCLC. First, we generated multiple prediction models using various machine learning classifiers to classify NSCLC and healthy cohorts. Our models achieved prediction accuracies ranging from 0.83 to 1.0, with XGBoost emerging as the best performer. Next, using functional enrichment analysis (and gene co-expression network analysis with WGCNA) of the machine learning feature-selected genes, we determined that genes involved in Rho GTPase signaling that modulate actin stability and cytoskeleton were likely to be crucial in NSCLC. We further assembled a PPI network for the feature-selected genes that was partitioned using Markov clustering to detect protein complexes functionally relevant to NSCLC. Finally, we modeled the perturbations in RhoGDI signaling using a bayesian network; our simulations suggest that aberrations in ARHGEF19 and/or RAC2 gene activities contributed to impaired MAPK signaling and disrupted actin and cytoskeleton organization and were arguably key contributors to the onset of tumorigenesis in NSCLC. We hypothesize that targeted measures to restore aberrant ARHGEF19 and/or RAC2 functions could conceivably rescue the cancerous phenotype in NSCLC. Our findings offer promising avenues for early predictive biomarker discovery, targeted therapeutic intervention and improved clinical outcomes in NSCLC.\"},{\"title\":\"Development of a virtual reality based fire training simulator and machine learning based path guidance system: A case of hospital fire breakouts (IHIET-AI, 2020)\",\"subtitle\":\"International Conference on Human Interaction & Emerging Technologies: Future Applications 2020\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,233 @@
+{
+    "id": "ujjwal-ranjan",
+    "name": "Ujjwal Ranjan",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "As a Mathematics and Computing graduate from IIT Kharagpur and currently working as an…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Google",
+        "company_id": "google"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Soumik Nandi",
+            "about": "SDE-2 at Amazon",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Kajla",
+            "about": "SDE-2 @Atlassian • xIntuit • xAmazon || DTU (2016-2020) COE",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Prerna Kakkar",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Amresh Giri",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Lavesh Kaushik",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Prateek Bhardwaj",
+            "about": "Software Developer at Google | ex-Microsoft | ICPC'19",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nimish Khurana",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ribhu Mukherjee",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Raghunathan Balan",
+            "about": "Software Developer @Google || Competitive Programmer || BITS Pilani '21",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Monica Guduru",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2014-04",
+            "end_year": "2016-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2012-04",
+            "end_year": "2016-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Database management System\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Discrete mathematics\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning Foundation and Applications\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented & System Design\"},{\"subtitle\":\"-\",\"title\":\"Operating System\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structure\"},{\"subtitle\":\"-\",\"title\":\"Soft Computing Tools in Engineering\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2023Credential ID UC-7cc3aafb-aa08-47a7-a581-513b7d30d194/See credential",
+            "subtitle": "Udemy",
+            "title": "5G Masterclass: Architecture, NR RAN, Core and Call flows"
+        },
+        {
+            "meta": "Issued May 2023Credential ID UC-d63b7bdb-f9e7-4078-bf28-f4c9404b45df/See credential",
+            "subtitle": "Udemy",
+            "title": "Linux Inter Process Communication (IPC) from Scratch in C "
+        },
+        {
+            "meta": "Issued May 2023Credential ID UC-1102b5e2-41b0-43f2-95cb-12da71c87fdfSee credential",
+            "subtitle": "Udemy",
+            "title": "Spring Security 6 Zero to Master along with JWT,OAUTH2"
+        },
+        {
+            "meta": "Issued Feb 2023Credential ID UC-40e2721f-949a-4022-91e7-f017f88dff8d.See credential",
+            "subtitle": "Udemy",
+            "title": "Blockchain and Bitcoin Fundamentals "
+        },
+        {
+            "meta": "Issued Dec 2022Credential ID UC-0edc25ff-e7f3-4b2c-a908-5cd4672ed591See credential",
+            "subtitle": "Udemy",
+            "title": "Multithreading & Thread Synchronization - Pthreads "
+        },
+        {
+            "meta": "Issued Oct 2020See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Structuring Machine Learning Projects"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 6979.0,
+    "connections": 500.0,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Cricket Scorecard\",\"description\":\"Developed a web scraper using Python and BeautifulSoup to extract live cricket scorecards from a popular cricket website.Applied HTML parsing techniques to navigate through the website's structure and retrieve the desired data.Implemented data cleaning and formatting operations to transform the scraped data into a structured format suitable for further analysis.Utilized the requests library to handle HTTP requests and responses for retrieving website data.\"},{\"title\":\"Graph Editor Desktop Application\",\"description\":\"* Devised a GUI using PyQt5 tools and Qt Designer for working with graph algorithms, including graph planarity check, maximum matching, minimum vertex cover, and maximum independent sets.* Developed button features and drag-and-drop options for edges, making the GUI user-friendly and easy to navigate.* Utilized the local file system for storage and retrieval of graphs in the GUI, ensuring efficient data management.\"},{\"title\":\"Inventory Management system\",\"description\":\"* Designed and developed an inventory management system using deep neural networks, utilizing three years of sales data from a restaurant to train and test the model.* Utilized programming languages such as Python and frameworks like TensorFlow and Keras to model the deep neural networks, achieving a model accuracy of above 88%.* Collaborated with team members to ensure the successful implementation of the inventory management system and to develop effective strategies for data preprocessing, feature selection, and model evaluation.* Employed techniques such as data visualization and statistical analysis to identify trends and patterns in the sales data, ensuring a comprehensive and accurate analysis.\"},{\"title\":\"Statistical modelling and analysis of electricity consumption\",\"description\":\"* Conducted statistical modeling and analysis of electricity consumption, proposing and implementing a prediction model to estimate consumption.* Developed the prediction model using various techniques, including Holt-Winters, ARIMA, SARIMA, Vector Autoregressive (VAR), and FBProphet models, to ensure accurate and reliable results.* Utilized programming languages such as Python and R to implement the models and analyze the data, ensuring a robust and efficient analysis pipeline.\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "ujjwal-ranjan",
+    "activity": [
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "राधे-राधे! ✨ Grateful and Honored! ✨ Today marks a significant milestone in my journey at Samsung R&D Institute India - Bangalore, as I was…",
+            "img": "",
+            "id": "7277016528380698624"
+        },
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "🚀 Exciting News! Rubrik is Hiring! 🚀 Are you ready to take your career to the next level and work with a company that's transforming the data…",
+            "img": "",
+            "id": "7275800998328090624"
+        },
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "In India I was a topper but in the US I was barely PASSING In India I was a 9.6/10 GPA student. But in US, I got a B minus in my first…",
+            "img": "",
+            "id": "7269938139362664448"
+        },
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "Hello everyone! I’m thrilled to share that I’ve started a new chapter with Omnissa (formerly VMware EUC)! 🎉 This marks an exciting milestone in…",
+            "img": "",
+            "id": "7266755235035914240"
+        },
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "Diwali Glimpse✨✨ . #spreadthelove🌸 #officialcelebration",
+            "img": "",
+            "id": "7259182171075092480"
+        },
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "Hello everyone! Today marks the close of an incredible chapter at Samsung R&D Institute India - Bangalore (SRIB)! 🎉 As I wrap up this two-year…",
+            "img": "",
+            "id": "7255582953399820288"
+        },
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "✨ People of One Acquisitions India – Noopur Dhruv: Balancing Work and Motherhood at Google ✨ \"As part of One Acquisitions India, our ever-growing…",
+            "img": "",
+            "id": "7254785181624983553"
+        },
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "🚀 Unlocking the Power of \"einops\" in AI and Machine Learning 🚀 (Disclaimer : A small Note of my personal understanding only, not any company's…",
+            "img": "",
+            "id": "7236757147949146113"
+        },
+        {
+            "interaction": "Liked by Ujjwal Ranjan",
+            "link": "",
+            "title": "#NOTECHEXP :) #TBEB Today, I had the opportunity to visit my sister’s college as she embarks on her academic journey. It’s been nearly seven years…",
+            "img": "",
+            "id": "7236437260319997952"
+        }
+    ],
+    "linkedin_num_id": 704082719.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

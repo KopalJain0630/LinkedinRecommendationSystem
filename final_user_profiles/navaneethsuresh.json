@@ -1,0 +1,98 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"Coursera\",\"title\":\"Deep Learning Specialization - deeplearning.ai\"},{\"subtitle\":\"MA21007\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"MA10001\",\"title\":\"Mathematics 1 - Multivariate Calculus\"},{\"subtitle\":\"MA10002\",\"title\":\"Mathematics 2- Linear Algebra and Numerical Analysis\"},{\"subtitle\":\"-\",\"title\":\"Probability and Stochastic Processes\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"MA20101\",\"title\":\"Transform Calculus\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Feb 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning Kubernetes"
+        },
+        {
+            "meta": "Issued Jan 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "AWS Essential Training for Developers"
+        },
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Design Patterns"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID UE2WCZC9SS8XSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID 63U9G48C2RWPSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Oct 2018Credential ID C3SUBKDK4GKASee credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID ZYB65SBTV2QRSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID K5ZDNLY35EWASee credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jul 2018Credential ID 6JRV3GHRP995See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2018Credential ID E4CKE56JTNVPSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2018See credential",
+            "subtitle": "MongoDB",
+            "title": "MongoDB Basics"
+        }
+    ],
+    "current_company_name": "Kwalee",
+    "publications": "[{\"title\":\"Introducing yt 4.0: Analysis and Visualization of Volumetric Data\",\"description\":\"yt is an open-source, community-developed platform for analysis of volumetric data, with readers for several dozen data formats, indexing systems for gridded data, adaptive mesh refinement data, unstructured mesh data, discrete and particle formats, and octree-based data, as well as the combination of these\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Unscrapulous - Scrapes entities barred from doing financial business\",\"start_date\":\"Jan 2021\",\"end_date\":\"Feb 2021\",\"description\":\"- Scrapes entities barred from doing financial business published by various legal institutions- Developed in 2 months as a part of my software engineering internship at Zerodha Broking Ltd\"},{\"title\":\"Medical OCR\",\"start_date\":\"Mar 2018\",\"end_date\":\"Apr 2018\",\"description\":\"- Converts handwritten medical prescriptions to digital format using Google Cloud Vision API, MicrosoftAzure Vision API, React.js, Flask, OpenCV, NLTK- Bagged 1st position in the opensoft intra-college hackathon with a team size of 20 competing with 20 other teams\"},{\"title\":\"Professors’ timetable explorer\",\"description\":\"- Built an app to find the timetable of 720+ professors using data scraped from the ERP of IIT Kharagpur∙ Deployed as a Flask app and available on https://wimp.metakgp.org/ which now has 3000+ views\"},{\"title\":\"ROS Apps deployment\",\"description\":\"Investigated on deploying Robotic Operating System applications using Docker containers\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Uber Hacktag Semifinalist",
+            "publication": "Uber",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "- Proposed a ride-hailing app using blockchain where drivers can bid and the users get the cheapest ride - Among 154 teams qualified for sem-finals of Uber hackathon with a team size of 3 from a total of 24K+ registrations"
+        },
+        {
+            "title": "Secured 1st position in Open IIT Data Analytics Competition",
+            "publication": "IIT Kharagpur",
+            "date": "2018-09-01T00:00:00.000Z",
+            "description": "Developed a mathematical model with a team of six for reducing wastage and safety stock of pharmaceuticals"
+        },
+        {
+            "title": "Secured 1st position in Interhall Opensoft Competition",
+            "publication": "IIT Kharagpur",
+            "date": "2018-04-01T00:00:00.000Z",
+            "description": "- Built a web app which converts handwritten medical prescriptions to digital format using Tesseract OCR"
+        }
+    ]
+}

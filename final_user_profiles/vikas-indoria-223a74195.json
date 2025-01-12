@@ -1,0 +1,49 @@
+{
+    "city": "Faridabad, Haryana, India",
+    "position": "St. Stephen's College, Delhi",
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Stephen's College, Delhi",
+            "degree": "Bachelor's degree",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Modern Delhi Public School - India",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "International Companies Secretaries Olympiad",
+            "publication": "Science Olympiad Foundation",
+            "date": "2019-07-01T00:00:00.000Z",
+            "description": "International Rank-10"
+        }
+    ]
+}

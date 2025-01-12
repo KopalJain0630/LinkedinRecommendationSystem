@@ -1,0 +1,121 @@
+{
+    "city": "West Bengal, India",
+    "position": "React Developer ||  UI UX Enthusiast || JS || React.js || Node.js || MySQL || 4⭐ in java @hackerRank",
+    "experience": [
+        {
+            "title": "Summer Internship",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "Jun 2023 Aug 2023 3 months",
+            "start_date": "Jun 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "3 months",
+            "company": "Persistent Systems",
+            "company_id": "persistent-systems",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Techno Main - Salt Lake",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science & Engineering",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Keranitola Shree Shree Mohanananda Vidyamandir",
+            "degree": "12th, West Bengal Council of Higher Secondary Education(WBCHSE)",
+            "field": "Science(PCM)",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": "Activities and Societies: Cricket",
+            "description_html": "Activities and Societies: Cricket",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Nirmal Hriday Ashram, Midnapore",
+            "degree": "10th, West Bengal Board of Secondary Education(WBBSE)",
+            "field": "87.71%",
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": "Activities and Societies: Cricket, Football",
+            "description_html": "Activities and Societies: Cricket, Football",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"B.Tech CSE\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "NPTEL",
+            "title": "Programming Data Structures And Algorithms Using Python"
+        },
+        {
+            "meta": "Issued Sep 2021See credential",
+            "subtitle": "NPTEL",
+            "title": "Joy of computing using python"
+        },
+        {
+            "meta": "Issued Mar 2021See credential",
+            "subtitle": "Coursera",
+            "title": "Write Professional Emails in English"
+        },
+        {
+            "meta": "Issued Feb 2021",
+            "subtitle": "Coursera",
+            "title": "A Life of Happiness and Fulfillment"
+        },
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "Coursera",
+            "title": "Communication in the 21st Century Workplace"
+        },
+        {
+            "meta": "Issued Feb 2021",
+            "subtitle": "University of Michigan",
+            "title": "Introduction to html5"
+        },
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Philosophy"
+        },
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Programming with MATLAB"
+        },
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "Coursera",
+            "title": "MLOps_Machine Learning Operations"
+        },
+        {
+            "meta": "Issued Feb 2021",
+            "subtitle": "Google Digital Garage ",
+            "title": "The Fundamentals of Digtal Markating"
+        },
+        {
+            "meta": "Issued Jan 2021",
+            "subtitle": "Stanford University",
+            "title": "Introduction to Internet of Things"
+        },
+        {
+            "meta": "Issued Jan 2021Expires Jan 2023Credential ID 55108405",
+            "subtitle": "CertiProf",
+            "title": "Cyber Security Foundation Professional Certificate"
+        }
+    ],
+    "current_company_name": "Persistent Systems",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Pokemon Card Collection\",\"description\":\"🚀 Project Title: Pokémon Card Collection App💻 Technology Stack: React, REST APIsI developed a Pokémon Card Collection application using React, incorporating a nested API structure to fetch detailed Pokémon data. This interactive application allows users to:🔍 Search Pokémon: Effortlessly look up Pokémon by their names.📏 Filter Pokémon by Height: Dynamically filter and display Pokémon based on their height preferences.The application features a seamless UI/UX for an engaging experience, optimizing API calls for performance and scalability.💡 Key Highlights:React Hooks: Utilized useState and useEffect for managing state and lifecycle events.API Integration: Integrated nested Pokémon APIs with efficient data handling.Dynamic Filters: Implemented height-based filtering with real-time updates.Scalable Architecture: Ensured reusable components for enhanced modularity.This project deepened my expertise in front-end development, API handling, and creating user-centric applications. Feel free to connect if you'd like to know more about the project or explore collaborations! 🌟\"}]",
+    "honors_and_awards": null
+}

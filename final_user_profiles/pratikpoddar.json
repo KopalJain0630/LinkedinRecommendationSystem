@@ -1,0 +1,23 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Nexus Venture Partners",
+    "publications": "[{\"title\":\"Optimizing Elliptic Curve Scalar Multiplication with Near-Factorization\",\"subtitle\":\"International Conference on Security and Cryptography - SECRYPT\",\"date\":\"Aug 2014\",\"description\":\"Elliptic curve scalar multiplication (kP where is an integer and P is a point on the elliptic curve) is widely used in encryption and signature generation. In this paper, we explore a factorization-based approach called Near-Factorization that can be used in conjunction with existing optimization techniques such as Window NAF (Non Adjacent Form). We present a performance model of Near-Factorization and validate model results with those from a simulation. We compare Near-Factorization with w-NAF for a range of scalar sizes, window sizes, divisor lengths and Hamming weights of divisor. The use of Near-Factorization with w-NAF results in a considerable reduction in the effective Hamming weight of the scalar and a reduction in overall computation cost for Koblitz curves.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

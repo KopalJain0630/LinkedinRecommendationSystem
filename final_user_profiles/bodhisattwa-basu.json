@@ -1,0 +1,66 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "Frontend Developer",
+    "experience": [
+        {
+            "title": "Next js developer intern",
+            "description_html": null,
+            "duration": "Nov 2024 Dec 2024 2 months",
+            "start_date": "Nov 2024",
+            "end_date": "Dec 2024",
+            "duration_short": "2 months",
+            "company": "Lamarr",
+            "company_id": "lamarrtech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Frontend Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 Nov 2023 5 months",
+            "start_date": "Jul 2023",
+            "end_date": "Nov 2023",
+            "duration_short": "5 months",
+            "company": "Kursaha",
+            "company_id": "kursaha",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Netaji Subhash Engineering College",
+            "degree": "Master of Computer Applications - MCA",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2026",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Netaji Subhash Engineering College (NSEC)",
+            "degree": "BCA",
+            "field": "8.92",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Purushottam Bhagchandka Academic School",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Lamarr",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Finance Flow\"}]",
+    "honors_and_awards": null
+}

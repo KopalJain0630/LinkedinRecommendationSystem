@@ -1,0 +1,56 @@
+{
+    "city": "Belfast, Northern Ireland, United Kingdom",
+    "position": "Operations graduate at Diaceutics PLC",
+    "experience": [
+        {
+            "title": "Operations Graduate",
+            "location": "Belfast, Northern Ireland, United Kingdom",
+            "description_html": null,
+            "duration": "Jan 2024 - Present 1 year",
+            "start_date": "Jan 2024",
+            "end_date": "Present",
+            "duration_short": "1 year",
+            "company": "Diaceutics PLC",
+            "company_id": "diaceutics",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Queen's University Belfast",
+            "degree": "Master's degree",
+            "field": "Molecular biology and biotechnology",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Amity University Kolkata",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Biotechnology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2024Expires Feb 2027",
+            "subtitle": "PeopleCert",
+            "title": "PRINCE2® Foundation Certification Training"
+        }
+    ],
+    "current_company_name": "Diaceutics PLC",
+    "publications": "[{\"title\":\"Platinum nanoparticles: tiny titans in therapy\",\"subtitle\":\"Discover Materials\",\"date\":\"May 30, 2024\",\"description\":\"Nanotechnology is a swiftly expanding domain with significant applications across various disciplines. Platinum nanoparticles (PtNPs) represent a focal point in scientific investigations, drawing considerable research attention due to their potential applicability in diverse fields. Their inherent non-toxicity and remarkable stability confer distinctive plasmonic properties, rendering them particularly valuable in the realm of bioengineering. This review aims to comprehensively assess the ongoing global research landscape pertaining to the synthesis, mimicry, and utilization of PtNPs. The review covers the biosynthesis, as well as chemical and physical synthesis of PtNPs, incorporating both in-vivo and in-vitro experimental analyses. After their synthesis, a range of nanometrological characterization techniques is explored as analytical tools to facilitate the measurement of physical and chemical properties of nanoparticles. Additionally, the review delves into recent advancements in the functionalization of PtNPs for biomedical applications, encompassing areas such as nanomedicine, combination therapy, cancer treatment, and antibacterial properties.\"},{\"title\":\"Interferon Gamma in Natural Defence and Prevention of Leprosy\",\"subtitle\":\"IntechOpen\",\"date\":\"May 30, 2022\",\"description\":\"Mycobacterium leprae causes leprosy. M. leprae enters the body through the upper respiratory tract where it interacts with host’s cells. Interferon (IFN) is a class of cytokines in human body that are released in case of viral and intracellular pathogen infection and they activate the immune cells to eradicate those pathogens. IFN-γ (Type-II IFN) confers immunity against bacterial, viral, and protozoan diseases. Loss of function mutations in IFN-γ results in poor immunity towards mildly virulent mycobacterium. Upon M. leprae invasion, monocytes enter the site of infection and differentiates into macrophages. IFN-γ induces endothelial cells (EC) of the pathogenic micro-environment to cause monocyte differentiation into pro-inflammatory M1 macrophages for immediate antimicrobial activity. This differentiation is ceased in the absence of endothelial cells. M1 macrophages are clinically more active than anti-inflammatory M2 macrophages induced by resting EC. The former produced higher amounts of pro-inflammatory cytokines in response to the TLR2/1 ligand of M. leprae. The former also showed elevation of vitamin D-associated antimicrobial pathway genes, which are required to counter M. leprae. In addition, the former accumulates less oxidised LDL to prevent growth of M. leprae. Thus, advancement of IFN-γ research would help in the design of next-generation anti- leprosy therapeutics.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Study of the transcriptome of RNA polymerase-I inhibitors treated cells and expression of KDM4A on shRNA transfected cells\",\"start_date\":\"May 2023\",\"end_date\":\"Sep 2023\",\"description\":\"In this study, we wanted to study the transcriptomic changes in the cells treated with RNA pol I inhibitors and explore the potential of doxycycline induced shRNA to knockdown the expression of KDM4A. We have used PMR-116, CX-5461 and BMH-21 to inhibit transcription in human colorectal cancer cell line (HCT-116), both wild type and p53 null type and study the relative transcriptional changes by qRT-PCR. We have also utilized western blot to report the changes in KDM4A expression in stable cell linetransfected by shRNA to partially knockdown KDM4A.\"},{\"title\":\"In-silico screening of phytochemicals from plant source to be effectively used as drug\",\"start_date\":\"Jun 2021\",\"end_date\":\"Aug 2021\",\"description\":\"Screened several phytochemicals from plant scource- Tulsi (Ocimum sanctum) using in-silico methods (mainly docking) to be used as an anti-smoking agent.\"}]",
+    "honors_and_awards": null
+}

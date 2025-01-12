@@ -1,0 +1,84 @@
+{
+    "city": "United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Virginia Tech",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Nooks",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "MLH Top 50 Hacker",
+            "publication": "Major League Hacking",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": "Recognized as one of the top 50 most impactful hackers by Major League Hacking for my engagement in hackathons and impact on the hackathon community with MassApply. MLH Profile: "
+        },
+        {
+            "title": "$30k Prize (2nd Place) at Schulze Entrepreneurship Challenge",
+            "publication": "E-Fest 2021",
+            "date": "2021-04-01T00:00:00.000Z",
+            "description": "At this national student startup competition, I pitched MassApply, a job automation tool with over 12,000 students that helps with cold-emailing recruiters, quick-applying to companies, and tracking applications. Article: "
+        },
+        {
+            "title": "2nd Place and People's Choice Award at VTHacks",
+            "publication": "VTHacks",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "Built web-app that collects audio as the user is reciting a story, and provides visuals pertaining to detected \"entities\" from the story, all in real time! This application utilized Google Cloud APIs such as Speech-To-Text to convert story audio into a searchable format, Natural Language Processing to detect and label entities mentioned in the story, and even Translate to support multiple languages. Link: "
+        },
+        {
+            "title": "Best Use of Google Cloud and Most Interesting Use of Dataset at HackDuke",
+            "publication": "HackDuke",
+            "date": "2019-11-01T00:00:00.000Z",
+            "description": "Built platform to detect student engagement in online classrooms using Computer Vision and Machine Learning. The application collects real-time webcam data to process through Google Cloud Vision API providing principle axes head rotation measurements. These are run against our trained ML model that uses K-nearest neighbors algorithm and cluster analysis to reasonably assess the student's attentiveness. Link: "
+        },
+        {
+            "title": "Best Networking App & Best Mobile Hack at VTHacks",
+            "publication": "VTHacks",
+            "date": "2018-02-01T00:00:00.000Z",
+            "description": "Our team built an Android mobile application that uses computer vision to analyze a picture of the user’s environment and provide an original playlist of music based on the user’s surroundings. We used the Microsoft Cognitive Services API to produce image tags of objects in the picture, and used the Spotify API to find relevant music based on the image tags and provide the user with the playlist. Link: "
+        },
+        {
+            "title": "Finalist at PennApps (Top 30)",
+            "publication": "PennApps",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": "Our team developed a web application that can automatically grade your GitHub projects according to standard style guidelines and provide detailed feedback on the breakdown of your major styling mistakes. I built the UI and implemented the GitHub profile searching tool and score breakdown charts using Chart.js (JavaScript library) Links:  "
+        },
+        {
+            "title": "Grand Prize Winner at HackUVA (1st Place)",
+            "publication": "HackUVA",
+            "date": "2017-03-01T00:00:00.000Z",
+            "description": "I built a web application that allows you to upload the picture of a custom hand-drawn game map made with markers and paper, and have it automatically converted using OpenCV (Computer Vision library) into a custom platformer style video game for users to play. I developed the front-end of the overall application, and used JavaScript to create the game functionalities. Links:… Show more"
+        },
+        {
+            "title": "Finalist at VTHacks (Top 6)",
+            "publication": "VTHacks",
+            "date": "2017-02-01T00:00:00.000Z",
+            "description": "Placed in the Top 6 with Raptionary, a mobile application that provides insight into modern music by integrating song lyrics with an Urban Dictionary lookup tool powered by the jsoup API. Link: "
+        },
+        {
+            "title": "ASEE National STEM Winner",
+            "publication": "ASEE",
+            "date": "2016-06-01T00:00:00.000Z",
+            "description": "Received \"Recognition of Outstanding Achievement in Science & Engineering\" at the 2016 ASEE (American Society for Engineering Education) Annual Conference in New Orleans."
+        },
+        {
+            "title": "Pete Conrad Scholar",
+            "publication": "Conrad Challenge",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": "Won 1st Place in the Cyber-Technology/Security Category with the mobile application \"MediKey\", which enables secure sharing of relevant lifesaving medical information of a patient with Emergency Health Technicians (EMT's) in first-response scenarios using NFC (Near Field Communication). Link: "
+        }
+    ]
+}

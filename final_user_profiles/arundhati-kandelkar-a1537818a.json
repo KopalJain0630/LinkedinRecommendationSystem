@@ -1,0 +1,66 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Government College of Engineering  Nagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID 7HBKQ4G7SQLESee credential",
+            "subtitle": "IBM",
+            "title": "IBM Data Science Professional Certificate"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Techfest, IIT Bombay",
+            "title": "Python Programming"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID F33ZTX8EV77KSee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "AI For Everyone"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 99G DV8 LDFSee credential",
+            "subtitle": "Google Digital Unlocked",
+            "title": "Fundamentals of digital marketing"
+        },
+        {
+            "meta": "Issued May 2020Credential ID SDQXJ7T2BDWMSee credential",
+            "subtitle": "Google",
+            "title": "Crash Course on Python"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID 29723See credential",
+            "subtitle": "Coding Ninjas India",
+            "title": "CODE KAZE, India's Biggest Online Coding Event"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Techfest, IIT Bombay",
+            "title": "Voice Recognition-Alexa"
+        }
+    ],
+    "current_company_name": "Giesecke+Devrient",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Smart detection from CCTV video shots\",\"start_date\":\"Sep 2020\",\"end_date\":\"Mar 2021\",\"description\":\"it's main focus is towards highlighting the efficient use of the imaging devices by providing real time solutions such as: Vehicle detection, Number plate detection,Vehicle attributes extraction-color, Speed calculation and crash detection.Tech Involved: OpenCV, python, Numpy, tensorflow, MySQL, HTML,CSS, Javascrip\"},{\"title\":\"Artificial Intelligence Virtual Lab (Initiative by MHRD)\",\"start_date\":\"Dec 2019\",\"end_date\":\"Apr 2020\",\"description\":\"The project focuses to provide remote-access to Laboratories in various areas of science and engineering.AI virtual lab is under the Department of Computer Science and Engineering.it provides an interactional environment for conducting simulated experiments.The goal is to equip students/teachers with necessary skills and knowledge,so as to eliminate shortage of trained manpower in sci.&tech..\"}]",
+    "honors_and_awards": null
+}

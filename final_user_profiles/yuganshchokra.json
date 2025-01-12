@@ -1,0 +1,63 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2019Credential ID 282P6S9DQ8DWSee credential",
+            "subtitle": "Macquarie University",
+            "title": "Excel Skills for Business"
+        },
+        {
+            "meta": "Issued Jun 2019See credential",
+            "subtitle": "Indian School of Business",
+            "title": "Introduction to Financial Markets"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID XVN9D76AWKKYSee credential",
+            "subtitle": "University of Pennsylvania",
+            "title": "Introduction to Marketing"
+        },
+        {
+            "meta": "Issued Mar 2019",
+            "subtitle": "LinkedIn",
+            "title": "LinkedIn Learning "
+        },
+        {
+            "subtitle": "Google",
+            "title": "The Online Marketing Fundamentals"
+        }
+    ],
+    "current_company_name": "TiE",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Guest of Honor",
+            "publication": "G.L. Bajaj Institute of Technology & Management",
+            "date": "2018-02-01T00:00:00.000Z",
+            "description": "I spoke about Entrepreneurship in India and the ability to solve problems in Fury Fest."
+        },
+        {
+            "title": "Campus Series DTU",
+            "publication": "Creating Talks",
+            "date": "2017-02-01T00:00:00.000Z",
+            "description": "Creating Talks invited me to share few insights, experiences and journey at Delhi Technological University (DTU, formerly DCE)."
+        },
+        {
+            "title": "Blogger Of The Year",
+            "publication": "BlogX",
+            "date": "2016-08-01T00:00:00.000Z",
+            "description": "I've been honoured by Blogger of the year - Rising star of 2016 by BlogX Conference."
+        },
+        {
+            "title": "Young Scientist India",
+            "publication": "SpaceKidz India",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": "I was one of the finalists of Young Scientist India programme for making a prototype of Instantaneous Refrigerator."
+        }
+    ]
+}

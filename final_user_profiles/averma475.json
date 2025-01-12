@@ -1,0 +1,34 @@
+{
+    "city": "Kanpur, Uttar Pradesh, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Dr. A.P.J. Abdul Kalam Technical University",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Structures and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Engineering Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Introduction to C programming\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning \"},{\"subtitle\":\"-\",\"title\":\"Operating System\"},{\"subtitle\":\"-\",\"title\":\"Python for Data Science\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Software Architecture: Breaking a Monolith into Microservices"
+        },
+        {
+            "meta": "Issued Mar 2018Credential ID UC-ZJHXUNRKSee credential",
+            "subtitle": "Udemy",
+            "title": "Python A-Z"
+        }
+    ],
+    "current_company_name": "Graviton Research Capital LLP",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Query Optimization Through Indexing\",\"start_date\":\"Jun 2020\",\"end_date\":\"Aug 2020\",\"description\":\"Self-implemented indexes of a mock RDBMSimplementation using B-Trees to improve queryperformance. Without the index, the RDBMS query isserved via page scan and with an index created the RDBMSquery is served via index seek leading to lesser numbers ofdata page loads from the hard disk and higher performance.ToolBox Used: Java.\"},{\"title\":\"StackOverflow Tag Predictor\",\"start_date\":\"Jun 2019\",\"end_date\":\"Aug 2019\",\"description\":\"Given a bunch of questions, the objective is to predict tagsautomatically related to the subject of the question. Themodels predict one or more than one tags based on thecontent that was there in the question posted onStackoverflow. Framed it as Multi-label Classificationproblem.ToolBox Used: Sklearn, NLTK, Numpy, Pandas, Matplotlib.\"},{\"title\":\"Python openCV face and gesture detection.\"},{\"title\":\"Quora Question Pair Similarity\",\"description\":\"This project is about identifying which questions asked onQuora are duplicates. This could be useful to instantlyprovide answers to questions that have already beenanswered. Framed it as a Binary Classification problem.\"}]",
+    "honors_and_awards": null
+}

@@ -1,0 +1,38 @@
+{
+    "city": "Howrah, West Bengal, India",
+    "position": "Web Developer at Software Company",
+    "experience": [
+        {
+            "title": "Web Developer",
+            "location": "Kolkata Area, India",
+            "description": "Experienced IT professional",
+            "description_html": "Experienced IT professional <!---->",
+            "duration": "Jan 2013 - Present 12 years",
+            "start_date": "Jan 2013",
+            "end_date": "Present",
+            "duration_short": "12 years",
+            "company": "Software Company",
+            "company_id": "software-company",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "West Bengal University of Technology, Kolkata",
+            "degree": "Bachelor's degree",
+            "field": "Computer/Information Technology Administration and Management",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Software Company",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

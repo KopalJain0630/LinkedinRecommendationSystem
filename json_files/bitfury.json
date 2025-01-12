@@ -1,0 +1,390 @@
+{
+    "id": "bitfury",
+    "name": "Sahil Kharb",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Engineering | FinTech | Cross Border Payments | Compliance",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Glomopay",
+        "company_id": "glomopay",
+        "title": "Engineering | FinTech | Cross Border Payments | Compliance"
+    },
+    "experience": [
+        {
+            "title": "Co-Founder",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Feb 2024 - Present 11 months",
+            "start_date": "Feb 2024",
+            "end_date": "Present",
+            "duration_short": "11 months",
+            "company": "Glomopay",
+            "company_id": "glomopay",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Engineering Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "I lead the User Spend Pod, managing expectations with business and product counterparts. The pod comprises three essential streams, each with dedicated backend, frontend, and QA:Promotions or Discounting Team: This team manages various promotions and discounts using our in-house promo-engine built from scratch. We provide an SDK for the promotions flow and a self-serve back office portal for the operations team.Strategic Partnership Team: Responsible for nurturing and maintaining strategic partnerships with notable entities such as Google, TSel, and parking providers like Secure and SkyParking.Discovery Team: This team generates hundreds of millions of impressions monthly by delivering tailored content to users across the Gojek app, including promotional offers, brand awareness campaigns, and event announcements for both internal and external occasions.In my role, I collaborated closely with the data science department to personalize content based on user preferences, location, and transaction history.",
+            "description_html": "I lead the User Spend Pod, managing expectations with business and product counterparts. The pod comprises three essential streams, each with dedicated backend, frontend, and QA:Promotions or Discounting Team: This team manages various promotions and discounts using our in-house promo-engine built from scratch. We provide an SDK for the promotions flow and a self-serve back office portal for the operations team.Strategic Partnership Team: Responsible for nurturing and maintaining strategic partnerships with notable entities such as Google, TSel, and parking providers like Secure and SkyParking.Discovery Team: This team generates hundreds of millions of impressions monthly by delivering tailored content to users across the Gojek app, including promotional offers, brand awareness campaigns, and event announcements for both internal and external occasions.In my role, I collaborated closely with the data science department to personalize content based on user preferences, location, and transaction history.",
+            "duration": "Mar 2022 Feb 2024 2 years",
+            "start_date": "Mar 2022",
+            "end_date": "Feb 2024",
+            "duration_short": "2 years",
+            "company": "GoTo Group",
+            "company_id": "gotogroup",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Director - Product Engineering",
+            "location": "Remote",
+            "description_html": null,
+            "duration": "Jun 2021 Mar 2022 10 months",
+            "start_date": "Jun 2021",
+            "end_date": "Mar 2022",
+            "duration_short": "10 months",
+            "company": "BukuKas",
+            "company_id": "lummo-official",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GoTo Group",
+            "location": "Greater Jakarta Area, Indonesia",
+            "description_html": null,
+            "duration": "5 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "GoTo Group",
+                    "meta": "Nov 2019 - Apr 2021 1 year 6 months",
+                    "description": "I was managing expectations with stakeholders for Offine, Online & Strategic payments verticals. Launched a new product Checkout for online merchants.  * Analysed and developed new standardized APIs.  * Reduced integration time with new payment gateways like midtrans, Adyen, etc. with multiple payment options to less than a week, which used to take more than 2 months earlier.  * Launched recurring payments.Restructured partner platform into multiple pods for better alignment with the business.Mentoring 4 Engineering Managers and with the current team size of 35.Analysed and delivered SKU promotions for all offine & online payments.I was hiring manager for all engineering roles for partner platform.",
+                    "duration": "Nov 2019 Apr 2021 1 year 6 months",
+                    "start_date": "Nov 2019",
+                    "end_date": "Apr 2021",
+                    "duration_short": "1 year 6 months",
+                    "title": "VP - Gopay Partner Platform",
+                    "description_html": "I was managing expectations with stakeholders for Offine, Online &amp; Strategic payments verticals. <br><br>Launched a new product Checkout for online merchants.<br> * Analysed and developed new standardized APIs.<br> * Reduced integration time with new payment gateways like midtrans, Adyen, etc. with multiple payment options to less than a week, which used to take more than 2 months earlier.<br> * Launched recurring payments.<br>Restructured partner platform into multiple pods for better alignment with the business.<br>Mentoring 4 Engineering Managers and with the current team size of 35.<br>Analysed and delivered SKU promotions for all offine &amp; online payments.<br>I was hiring manager for all engineering roles for partner platform."
+                },
+                {
+                    "subtitle": "GoTo Group",
+                    "meta": "Aug 2018 - Nov 2019 1 year 4 months",
+                    "description": "Expanded the offine & online payments vertical in GoPay, outside closed-loop payments use case.    * Built a close integration with a payment gateway: midtrans,   * Integrated with parking partner: Secure Parking.Developed a framework to onboard new biller while leading entire Digital Inclusion.    * Reduced on-boarding time from months to days.    * Successfully on-boarded more than 120 biller in a span of 2 months by outsourcing on-boarding work.Analysed and on-boarded all existing offine merchants to a new QR code standard (QRIS) which is launched by the Bank of Indonesia. Built and launched a strategic partnership with Google payments.  * Developed a new set of APIs with a PGP encryption auth layer.Team strength grew from 7 to 32 across two different locations (BLR and JKT). Took 2 software engineering Bootcamp for freshers across BLR and JKT.Lead multiple campus recruitment drives.",
+                    "duration": "Aug 2018 Nov 2019 1 year 4 months",
+                    "start_date": "Aug 2018",
+                    "end_date": "Nov 2019",
+                    "duration_short": "1 year 4 months",
+                    "title": "Tech Lead - Gopay Parnter Platform",
+                    "description_html": "Expanded the offine &amp; online payments vertical in GoPay, outside closed-loop payments use case. <br> * Built a close integration with a payment gateway: midtrans,<br> * Integrated with parking partner: Secure Parking.<br><br>Developed a framework to onboard new biller while leading entire Digital Inclusion.<br> * Reduced on-boarding time from months to days.<br> * Successfully on-boarded more than 120 biller in a span of 2 months by outsourcing on-boarding work.<br><br>Analysed and on-boarded all existing offine merchants to a new QR code standard (QRIS) which is launched by the Bank of Indonesia. <br><br>Built and launched a strategic partnership with Google payments.<br> * Developed a new set of APIs with a PGP encryption auth layer.<br><br>Team strength grew from 7 to 32 across two different locations (BLR and JKT). <br><br>Took 2 software engineering Bootcamp for freshers across BLR and JKT.<br><br>Lead multiple campus recruitment drives."
+                },
+                {
+                    "subtitle": "GoTo Group",
+                    "meta": "Apr 2016 - Aug 2018 2 years 5 months",
+                    "description": "Introduced a new config management system and migrated more than 100 microservices to the new config store.Setup in house DNS servers for GoPay internal components from scratch using bind9.Part of 5 member team which initially launched GoPay in early 2017.- Moved lots of synchronous flows to asynchronous flows.- Introduced Kafka into GoPay ecosystem.- Migrated millions of GoPay users from existing monolith to GoPay independent systems. - Built in-house recon system for all transactions happening in GoPay.- Introduced PIN authorization for selective GoPay product flows.- Worked on strategic integrations: Alfamart, Kartuku & Midtrans to make Gopay more ubiquitous. - Worked on introducing P2P payments in GoPay.Built and successfully launched an order management system from scratch for the entire booking flow for GO-CAR. - Performed load testing of all APIs using vegeta.- Later same OMS was used to migrate GO-RIDE.",
+                    "duration": "Apr 2016 Aug 2018 2 years 5 months",
+                    "start_date": "Apr 2016",
+                    "end_date": "Aug 2018",
+                    "duration_short": "2 years 5 months",
+                    "title": "Product Engineer",
+                    "description_html": "Introduced a new config management system and migrated more than 100 microservices to the new config store.<br><br>Setup in house DNS servers for GoPay internal components from scratch using bind9.<br><br>Part of 5 member team which initially launched GoPay in early 2017.<br>- Moved lots of synchronous flows to asynchronous flows.<br>- Introduced Kafka into GoPay ecosystem.<br>- Migrated millions of GoPay users from existing monolith to GoPay independent systems. - Built in-house recon system for all transactions happening in GoPay.<br>- Introduced PIN authorization for selective GoPay product flows.<br>- Worked on strategic integrations: Alfamart, Kartuku &amp; Midtrans to make Gopay more ubiquitous. - <br><br>Worked on introducing P2P payments in GoPay.<br><br>Built and successfully launched an order management system from scratch for the entire booking flow for GO-CAR. - Performed load testing of all APIs using vegeta.<br>- Later same OMS was used to migrate GO-RIDE."
+                }
+            ],
+            "company": "GoTo Group",
+            "company_id": "gotogroup",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Junior Consultant",
+            "location": "Bengaluru Area, India",
+            "description": "- A consulting boutique which got acquired by gojek in 2016.- Worked on the extraction of first set microservices from gojek monolith.",
+            "description_html": "- A consulting boutique which got acquired by gojek in 2016.- Worked on the extraction of first set microservices from gojek monolith. <!---->",
+            "duration": "Sep 2015 Mar 2016 7 months",
+            "start_date": "Sep 2015",
+            "end_date": "Mar 2016",
+            "duration_short": "7 months",
+            "company": "C42 Engineering",
+            "company_id": "c42-engineering",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Imre Nagi",
+            "about": null,
+            "location": "Indonesia"
+        },
+        {
+            "profile_link": "",
+            "name": "Riqi RA",
+            "about": "Founder & CEO at Paras Digital",
+            "location": "Jakarta, Indonesia"
+        },
+        {
+            "profile_link": "",
+            "name": "Hadrian Bayanulhaq Siregar",
+            "about": null,
+            "location": "Jakarta"
+        },
+        {
+            "profile_link": "",
+            "name": "Yusuf Ishak Al Ghofari",
+            "about": null,
+            "location": "West Java, Indonesia"
+        },
+        {
+            "profile_link": "",
+            "name": "Agus Triyono",
+            "about": "Lead Android Developer at Bytedance",
+            "location": "Yogyakarta, Indonesia"
+        },
+        {
+            "profile_link": "",
+            "name": "Baskara Patria",
+            "about": null,
+            "location": "Jakarta, Indonesia"
+        },
+        {
+            "profile_link": "",
+            "name": "William Albertus Dembo",
+            "about": null,
+            "location": "East Java, Indonesia"
+        },
+        {
+            "profile_link": "",
+            "name": "Ikhsan Faruqi",
+            "about": "Lead Software Engineer",
+            "location": "Jakarta"
+        },
+        {
+            "profile_link": "",
+            "name": "Galuh Estya",
+            "about": null,
+            "location": "Tokyo, Japan"
+        },
+        {
+            "profile_link": "",
+            "name": "Titus Napitupulu",
+            "about": null,
+            "location": "Tokyo, Japan"
+        },
+        {
+            "profile_link": "",
+            "name": "rudiyanto rudiyanto",
+            "about": "Software Engineer at Yelp",
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Verry Agus Hendrawan",
+            "about": "Owner at Frozen Food Distributors",
+            "location": "Semarang"
+        },
+        {
+            "profile_link": "",
+            "name": "Arif Pratama Zati",
+            "about": null,
+            "location": "Jakarta"
+        },
+        {
+            "profile_link": "",
+            "name": "Alfin Akhret",
+            "about": null,
+            "location": "Jakarta, Indonesia"
+        },
+        {
+            "profile_link": "",
+            "name": "Raditya Gumay",
+            "about": null,
+            "location": "Jakarta"
+        },
+        {
+            "profile_link": "",
+            "name": "Abram Situmorang",
+            "about": "Senior Software Engineer at Gojek",
+            "location": "Jakarta, Indonesia"
+        },
+        {
+            "profile_link": "",
+            "name": "Muhammad Iqbal Tawakal",
+            "about": "Customer Solutions Consultant, Machine Learning at Google Cloud",
+            "location": "Jakarta"
+        },
+        {
+            "profile_link": "",
+            "name": "Septiyan Andika",
+            "about": "_",
+            "location": "Malang"
+        },
+        {
+            "profile_link": "",
+            "name": "Muhammad Faiz Arsalan",
+            "about": "Digital Audit Associate @ PwC Indonesia | Postgraduate Degree in Computer Science @ BINUS University",
+            "location": "South Jakarta"
+        },
+        {
+            "profile_link": "",
+            "name": "Shalauddin Ahamed Shuza",
+            "about": null,
+            "location": "London"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Jodhpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Jodhpur",
+            "degree": "Bachelor's Degree",
+            "field": "Computer Science And Engineering",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": "Activities and Societies: Programming Club,CounsellingTeam,WeightLiftning Team.",
+            "description_html": "Activities and Societies: Programming Club,CounsellingTeam,WeightLiftning Team.",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DROP YEAR",
+            "start_year": "2010",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Bal Niketan Model Sr. Sec. School",
+            "degree": "PCM",
+            "start_year": "2008",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Doon Public School,Panchkula",
+            "start_year": "2000",
+            "end_year": "2008",
+            "description": "Activities and Societies: Debate Team, BasketBall Team",
+            "description_html": "Activities and Societies: Debate Team, BasketBall Team",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " French "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Mar 2015See credential",
+            "subtitle": "Coursera",
+            "title": "Practical Machine Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2674.0,
+    "connections": 500.0,
+    "current_company_company_id": "glomopay",
+    "current_company_name": "Glomopay",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Large Scale opinion mining with social data\",\"start_date\":\"Jul 2014\",\"description\":\"Building an language independent sentiment Classifier for a large number of tweets.Using Hadoop and maprdeuce\"},{},{\"title\":\"Simple Paint\",\"start_date\":\"Oct 2013\",\"description\":\"Implementation of Paint in JAVA.Simple painting and Image editing tools.\"},{},{\"title\":\"Air Traffic Control Simulator\",\"start_date\":\"Aug 2013\",\"description\":\"Simulation of the real time Air Traffic Control System .\"},{},{\"title\":\"Face Detection and Recognition using Information Theory\",\"start_date\":\"May 2013\",\"end_date\":\"Jul 2013\",\"description\":\"Theoretical application and developing a program on the basis of information theory to improve the face recognition process under different illumination conditions.Analysing kullback relative information to formulate information based measures for detecting faces by maximising the feature class separation.Improving the speed of face detection through use of most important pixels(MIP) extraction process.\"},{}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "bitfury",
+    "activity": [
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "India's startup ecosystem continues to showcase its dynamic financial landscape, with startups collectively posting an impressive operating revenue…",
+            "img": "",
+            "id": "7273184603765448704"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "Earlier this month, my rand0m team got the 2nd runners up position at Goto Hackathon 2024 🚀 This year, we introduced GlancePay (or OnlyFace, as my…",
+            "img": "",
+            "id": "7272821413940486144"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "The easy path is not the answer to solving systemic problems. We received this support request from a star BSA analyst at one of our bank customers…",
+            "img": "",
+            "id": "7270687928903753729"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "This campaign was executed without any stress ❤️ #marketing #yesmadam #startups",
+            "img": "",
+            "id": "7271833681609015296"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "Thank you Tech in Asia and The Business Times for giving me the opportunity to talk about \"Navigating a New Era for GoTo\" recently, with Maria Li…",
+            "img": "",
+            "id": "7262275181060988928"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "Come join us.",
+            "img": "",
+            "id": "7260533494886342657"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "Team Bloomtree wishes all of you folks a Happy Dasara to everyone :) Celebration of another Dasara at our office today. The team and the young happy…",
+            "img": "",
+            "id": "7250176790332141568"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "🚀 Super excited to share this development. 🚀 At Telr, we’re committed to giving your business a competitive edge. Let’s connect and discuss how…",
+            "img": "",
+            "id": "7247608184171884545"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "🚀 From Code to Production: Understanding the Data Science Model Development Lifecycle 🎙️ In today’s fast-paced world, taking a machine learning…",
+            "img": "",
+            "id": "7247539365361418241"
+        },
+        {
+            "interaction": "Liked by Sahil Kharb",
+            "link": "",
+            "title": "Premium members are 2.6x more likely to get hired on LinkedIn, on average. Access exclusive tools to help your job search by reactivating LinkedIn…",
+            "img": "",
+            "id": "7244005892285722624"
+        }
+    ],
+    "linkedin_num_id": 181108799.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

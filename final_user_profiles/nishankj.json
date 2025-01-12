@@ -1,0 +1,85 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Lucknow",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2007",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2007",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2012",
+            "subtitle": "GIA",
+            "title": "GIA Diamond Grading Lab"
+        },
+        {
+            "meta": "Issued Jul 2012",
+            "subtitle": "GIA",
+            "title": "GIA Retail Sales Excellence Program"
+        }
+    ],
+    "current_company_name": "Accel",
+    "publications": "[{\"title\":\"White Paper on Rural E-commerce in India\",\"subtitle\":\"IIM Lucknow\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Nestle 4Ps Challenger, National Finalist",
+            "publication": "Nestle",
+            "date": "2016-11-01T00:00:00.000Z",
+            "description": "Suggest digital and on ground activation plan for Maggi Hotheads Noodles"
+        },
+        {
+            "title": "ITC Interrobang, Campus 2nd Runners Up",
+            "publication": "ITC Limited",
+            "date": "2016-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Airtel case competition, National Finalist",
+            "publication": "NMIMS",
+            "date": "2015-11-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "P&G CEO Challenge, Runners up (IIM L)",
+            "publication": "P&G India",
+            "date": "2015-10-01T00:00:00.000Z",
+            "description": "Second among 100+ participating teams at in business simulation competition"
+        },
+        {
+            "title": "SABMiller Brew-a-Career Case, Campus Finalist",
+            "publication": "SABMiller",
+            "date": "2015-08-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

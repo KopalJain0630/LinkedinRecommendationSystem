@@ -1,0 +1,165 @@
+{
+    "id": "mohit-jeswani-2083b1162",
+    "name": "Mohit Jeswani",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Engineering@Microsoft | Azure Specialized | BITS Pilani",
+    "about": "Building Software Defined Data Center for Azure cloud.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Microsoft",
+        "company_id": "microsoft",
+        "title": "Engineering@Microsoft | Azure Specialized | BITS Pilani"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "* Modified Host selection logic which is being used in creating New Software Defined Data Center, Adding host/Clusters in Single pod and multi-pod SDDC.* Enabled Just Enough Access for vCenter.* Created Jump Servers for single pod software defined data center.* Enable Monitoring for VM.* Migration of Base Image CI Pipeline.",
+            "description_html": "* Modified Host selection logic which is being used in creating New Software Defined Data Center, Adding host/Clusters in Single pod and multi-pod SDDC.* Enabled Just Enough Access for vCenter.* Created Jump Servers for single pod software defined data center.* Enable Monitoring for VM.* Migration of Base Image CI Pipeline. <!---->",
+            "duration": "Mar 2022 - Present 2 years 10 months",
+            "start_date": "Mar 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 10 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "I was part of the Linux kernel Team, Where my primary responsibility was to Automate the test cases for Bootloader and Base port part of Linux kernel.",
+            "description_html": "I was part of the Linux kernel Team, Where my primary responsibility was to Automate the test cases for Bootloader and Base port part of Linux kernel. <!---->",
+            "duration": "Sep 2021 Dec 2021 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "4 months",
+            "company": "Qualcomm",
+            "company_id": "qualcomm",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "1. Quantitative analysis models for mutual fund research:A). Collected historical and monthly data of Attribution, liquidity, and various benchmark dependent and independent parameters(Alpha, Beta, Return, Up Capture ratio, etc.) of Mutual Funds in different currencies from Morning Star, FactSet.B). All this data comes into multiple excel files. After preprocessing, Built database schemaand upload all data into SQL Server. After that, We integrated SQL Server from Tableauand built the necessary dashboards.C). This project is used by the team for Mutual Fund analysis.2. TER Analysis:A). Collected data from data sources, consolidated it and did outlier detection by usingDBSCAN, Local outlier Factor, Isolation forest techniques.Tools Used: Python, MS SQL Server, Tableau.",
+            "description_html": "1. Quantitative analysis models for mutual fund research:A). Collected historical and monthly data of Attribution, liquidity, and various benchmark dependent and independent parameters(Alpha, Beta, Return, Up Capture ratio, etc.) of Mutual Funds in different currencies from Morning Star, FactSet.B). All this data comes into multiple excel files. After preprocessing, Built database schemaand upload all data into SQL Server. After that, We integrated SQL Server from Tableauand built the necessary dashboards.C). This project is used by the team for Mutual Fund analysis.2. TER Analysis:A). Collected data from data sources, consolidated it and did outlier detection by usingDBSCAN, Local outlier Factor, Isolation forest techniques.Tools Used: Python, MS SQL Server, Tableau.",
+            "duration": "Jan 2020 Jun 2020 6 months",
+            "start_date": "Jan 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "6 months",
+            "company": "HSBC",
+            "company_id": "hsbc",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Jalajashree Gollapalli",
+            "about": "Software Engineer at Cognizant",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Yusra Shahab",
+            "about": "Service Operations Analyst || MSc Engineering Management || Systems Engineer",
+            "location": "Coventry"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranav Kshirsagar",
+            "about": "SDE @ Netspi | IIT Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Srishti Verma",
+            "about": "Senior Data Scientist @ Blend | Ex-HighRadius",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansi Ranka",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhimanyu Das",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Keshav Bansal",
+            "about": null,
+            "location": "Kanpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek ..",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sohail Hodarkar",
+            "about": "Software Engineer @ ASML | NYU | NIT Goa",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Aviral Sethi",
+            "about": "Software Engineer II at Microsoft | Former SDE Intern at Amazon | BITS Pilani",
+            "location": "Jaipur"
+        }
+    ],
+    "educations_details": "BITS Pilani, Hyderabad Campus",
+    "education": [
+        {
+            "title": "BITS Pilani, Hyderabad Campus",
+            "degree": "Master of Engineering - MEng",
+            "field": "Computer science and information system",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jaipur Engineering College & Research Center",
+            "degree": "B.Tech",
+            "field": "Computer Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Compiler Design\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"DBMS\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronics\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics \"},{\"subtitle\":\"-\",\"title\":\"Distributed Operating system\"},{\"subtitle\":\"-\",\"title\":\"Information Retrieval\"},{\"subtitle\":\"-\",\"title\":\"Machine learning\"},{\"subtitle\":\"-\",\"title\":\"Operating System\"},{\"subtitle\":\"-\",\"title\":\"Theory of Computation\"}]",
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 7357.0,
+    "connections": 500.0,
+    "current_company_company_id": "microsoft",
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "mohit-jeswani-2083b1162",
+    "activity": null,
+    "linkedin_num_id": 651921128.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

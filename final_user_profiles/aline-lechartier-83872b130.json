@@ -1,0 +1,43 @@
+{
+    "city": "London, England, United Kingdom",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "King's College London",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Code at Uni - Building a website workshop\"},{\"subtitle\":\"-\",\"title\":\"Common purpose smart cities inclusive challenge\"},{\"subtitle\":\"-\",\"title\":\"Financial Modelling BPP Training\"},{\"subtitle\":\"-\",\"title\":\"Fitch learning - Corporate Valuation \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022Credential ID 2705053See credential",
+            "subtitle": "King's College London Alumni",
+            "title": "Alumni Volunteer"
+        }
+    ],
+    "current_company_name": "Jefferies",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"European Youth Parliament (Denmark)\",\"start_date\":\"May 2016\"},{\"title\":\"Finance for non finance conference\"}]",
+    "honors_and_awards": null
+}

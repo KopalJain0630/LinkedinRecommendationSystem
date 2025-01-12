@@ -1,0 +1,108 @@
+{
+    "city": "Melbourne, Florida, United States",
+    "position": "Actively Looking for Internships | Student at Florida Institute of Technology",
+    "experience": [
+        {
+            "title": "Application Development Associate",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Aug 2021 Aug 2023 2 years 1 month",
+            "start_date": "Aug 2021",
+            "end_date": "Aug 2023",
+            "duration_short": "2 years 1 month",
+            "company": "Accenture",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer Intern",
+            "description_html": null,
+            "duration": "May 2020 Mar 2021 11 months",
+            "start_date": "May 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "11 months",
+            "company": "Elasticfleet Technologies",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Gayatri Vidya Parishad College of Engineering for Women, Madhurawada, PIN-530048(CC-JG)",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Florida Institute of Technology",
+            "degree": "Master's degree",
+            "field": "CIS",
+            "url": "",
+            "start_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "C (Advanced)"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "C++ (Basic)"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "Java (Intermediate)"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Advanced)"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 9B0KE2FU5119556Id1See credential",
+            "subtitle": "UiPath",
+            "title": "Step into Robotic Process Automation"
+        },
+        {
+            "meta": "Issued Dec 2019",
+            "subtitle": "Google Developers",
+            "title": "Machine Learning- Intermediate track"
+        },
+        {
+            "meta": "Issued Nov 2019",
+            "subtitle": "Google Developers",
+            "title": "Machine Learning- Beginners track"
+        },
+        {
+            "meta": "Issued Jun 2024Expires Jun 2027See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Cloud Practitioner"
+        },
+        {
+            "subtitle": "NPTEL",
+            "title": "Database Management System"
+        },
+        {
+            "subtitle": "NPTEL",
+            "title": "Introduction to Java Programming"
+        }
+    ],
+    "current_company_name": "Accenture",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Rice Plant Disease Detection\",\"start_date\":\"Jul 2020\",\"end_date\":\"Aug 2020\",\"description\":\"The main objective is to identify the disease of rice plant using Deep Learning and Image Processing.\"},{\"title\":\"Food Processing\",\"start_date\":\"Jun 2020\",\"end_date\":\"Aug 2020\",\"description\":\"The objective of project is to predict the vegetable prices using ML Algorithms so that there will befewer fluctuations in the future on vegetable prices.\"},{\"title\":\"Automatic Plant Watering System Using IoT\",\"description\":\"The main objective of this project is to water the plants without any human intervention.\"}]",
+    "honors_and_awards": null
+}

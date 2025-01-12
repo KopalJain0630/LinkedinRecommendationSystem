@@ -1,0 +1,400 @@
+{
+    "id": "om-krishna",
+    "name": "Om Krishna Yadav",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Engineer at Cisco",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Cisco",
+        "company_id": "cisco",
+        "title": "Software Engineer at Cisco"
+    },
+    "experience": [
+        {
+            "title": "Cisco",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Cisco",
+                    "meta": "Jul 2023 - Present 1 year 6 months",
+                    "duration": "Jul 2023 - Present 1 year 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 6 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Cisco",
+                    "meta": "Jan 2023 - Jun 2023 6 months",
+                    "duration": "Jan 2023 Jun 2023 6 months",
+                    "start_date": "Jan 2023",
+                    "end_date": "Jun 2023",
+                    "duration_short": "6 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Cisco",
+            "company_id": "cisco",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Machine Learning Research Intern",
+            "location": "Chennai, Tamil Nadu, India",
+            "description_html": null,
+            "duration": "Oct 2021 Apr 2022 7 months",
+            "start_date": "Oct 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "7 months",
+            "company": "Santa Fe Research Pvt Ltd",
+            "company_id": "santa-fe-research-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "President",
+            "location": "India",
+            "description_html": null,
+            "duration": "Oct 2020 Oct 2021 1 year 1 month",
+            "start_date": "Oct 2020",
+            "end_date": "Oct 2021",
+            "duration_short": "1 year 1 month",
+            "company": "AI CLUB - VIT BHOPAL University",
+            "company_id": "aiclub-vitb",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mentor",
+            "description_html": null,
+            "duration": "Apr 2021 Apr 2021 1 month",
+            "start_date": "Apr 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "1 month",
+            "company": "HackTJ",
+            "company_id": "hacktj",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Delhi, India",
+            "description": "During my paid service as a Data Science Intern, I  had studied various machinelearning algorithms and has applied them successfully to various projects in Rand python.",
+            "description_html": "During my paid service as a Data Science Intern, I had studied various machinelearning algorithms and has applied them successfully to various projects in Rand python. <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Nuclei Technologies",
+            "company_id": "nuclei-technologies",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Aditya Pande",
+            "about": "Data Science and Machine Learning Enthusiast",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jaskirat Singh",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritu Advani",
+            "about": "Director at QuGates Technologies",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pragya Singh",
+            "about": "IICS Developer || Informatica CAI Developer || SQL",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreya Sajid",
+            "about": "MSc Data Science & Artificial Intelligence at TU/e",
+            "location": "Eindhoven"
+        },
+        {
+            "profile_link": "",
+            "name": "Renish Sundrani",
+            "about": "Professional Problem Solver | Management consultant | Speaker | Content strategy | Personal branding",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Anjali Grover",
+            "about": "PM | Product | Analytics | NIT Kurukshetra\u00e2\u20ac\u212219",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Sriram Vobilisetty",
+            "about": "Product Manager - Samsung Korea, ALLEN Digital | MBA Candidate at Stanford Graduate School of Business | IIT Kanpur Computer Science",
+            "location": "Stanford, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Lr. Tarun Choubisa",
+            "about": "Co-Founder at Seed2Sapling Education | Lifelong learner",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Arindam Karan",
+            "about": "Math prep for SAT (Digital), ACT, GRE, GMAT, K-12, RAILWAYS, BANKING, SSC, WBCS",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanchit Sharma",
+            "about": "Solution Integration Consultant | Data Engineer | ETL | Python | SQL | Tableau | AWS | Operations | Analytics | Data Science | Management | Teaching Assistant | Financial Services",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Singh Chandel",
+            "about": "Process Operation",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishaan Bhatia",
+            "about": "Driving Strategic Tech Initiatives with Precision \u00f0\u0178\u0161\u20ac Automation Manager at Jaro Education",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranjal Pandey",
+            "about": "AI Decision Science Analyst @ Accenture",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "JITHU MINI SAMUEL",
+            "about": "Entrepreneur | Founder & CEO at D'CATCHER | Keynote Speaker | Content Developer | Dream Big and Work Hard",
+            "location": "Pathanamthitta"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Gupta",
+            "about": "Senior Consultant in EXL | VISA Risk Analyst | Ex-Byjus | PGD in Data Science | IITG | NIT DGP",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Srivastava",
+            "about": "I help coaches & businesses with Funnels that gets them Leads | Scalebound Media",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Nivendita Sharma",
+            "about": "Instructional Designer",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Narula",
+            "about": "Growth partner | Strategy Planning| President Office | Founder at Rootworkz Learning| Managing Covid 19 Startup GOI",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Khushboo Chawla",
+            "about": "CTET qualified",
+            "location": "Delhi, India"
+        }
+    ],
+    "educations_details": "Vellore Institute of Technology",
+    "education": [
+        {
+            "title": "Vellore Institute of Technology",
+            "degree": "B.Tech",
+            "field": "Computer Science Engineering with specialisation in AI & ML",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: AI Club",
+            "description_html": "Activities and Societies: AI Club",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020Credential ID 8VHU999FD7WBSee credential",
+            "subtitle": "Coursera",
+            "title": "Calculus and Optimization for Machine learning"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID UC-VK9YEHKTSee credential",
+            "subtitle": "Udemy",
+            "title": "Projects in Machine Learning : Beginner To Professional"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Science and Technology",
+            "duration": "Aug 2020 - Aug 2020 \u00c2\u00b7 1 month",
+            "duration_short": "1 month",
+            "end_date": "Aug 2020",
+            "info": "MIT COVID19 Challenge was hosted by Massachusetts Institute of Technology. It was my first experience for being part of any world level hackathon. My team was top 5 global finalist for healthcare track, we proposed an idea of developing an app which can help rural India people to easily approach a good doctor and they can also clarify whether the doctor is fake or genuine by using the features of the app and we added many more features like looking for the COVID19 hospital near by and booking a\u00e2\u20ac\u00a6\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          MIT COVID19 Challenge was hosted by Massachusetts Institute of Technology. It was my first experience for being part of any world level hackathon. My team was top 5 global finalist for healthcare track, we proposed an idea of developing an app which can help rural India people to easily approach a good doctor and they can also clarify whether the doctor is fake or genuine by using the features of the app and we added many more features like looking for the COVID19 hospital near by and booking a nearest ambulance just by sharing their locations. There were 5 member in my team from different countries but we all had a common interest of developing and thinking something innovative which helped us to be the global finalist for this challenge. \n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Aug 2020",
+            "subtitle": "MIT COVID-19 Challenge",
+            "title": "Top 5 Finalist"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jan 2020 - Mar 2020 \u00c2\u00b7 3 months",
+            "duration_short": "3 months",
+            "end_date": "Mar 2020",
+            "info": "Techkriti is the annual technical fest of IIT Kanpur.  Me and team was the only single team from IIT Roorkee zone  to qualify for the finals that was supposed to be held on 23rd March 2020 but was cancelled due to the global pandemic.",
+            "start_date": "Jan 2020",
+            "subtitle": "Techkriti, Indian Institute of Technology Kanpur",
+            "title": "Zonal Winner For AIRC'20 from IIT Roorkee zone"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Sep 2020 - Sep 2020 \u00c2\u00b7 1 month",
+            "duration_short": "1 month",
+            "end_date": "Sep 2020",
+            "info": "The AI Summit is the world\u00e2\u20ac\u2122s first and largest conference and exhibition to look at the practical implications of AI for enterprise organisations that are set to transform business productivity.The event  highlighted both AI business strategy and technical know-how in a comprehensive agenda that goes beyond the mundane and into deep, actionable insights!!",
+            "start_date": "Sep 2020",
+            "subtitle": "London Tech Week",
+            "title": "Attended The Virtual  AI Summit London 2020"
+        },
+        {
+            "cause": "Education",
+            "duration": "Jan 2021 - Present \u00c2\u00b7 4 years",
+            "duration_short": "4 years",
+            "end_date": "Present",
+            "info": "",
+            "start_date": "Jan 2021",
+            "subtitle": "Medium",
+            "title": "Writer"
+        }
+    ],
+    "followers": 2584.0,
+    "connections": 500.0,
+    "current_company_company_id": "cisco",
+    "current_company_name": "Cisco",
+    "publications": "[{\"title\":\"Real-Time Face Swapping System using OpenCV\",\"subtitle\":\"IEEE\",\"date\":\"October 1, 2021\",\"description\":\"Face swapping has been a thriving genre of work which primarily is associated with the replacement or substitution of one referral face on the face of the other person, be it by means of still images or in real time. This paper exhibits the research on Real-Time Face Swapping algorithm, using the reference image of the user and henceforth considering it as our input image instead of using a data set thereby working on a real time model by the use of the python open-source model of Computer Vision i.e., OpenCV.\"}]",
+    "patents": null,
+    "projects": [
+        {
+            "title": "COVID19 Detector Using X-Ray Images and CT-Scan Images",
+            "start_date": "Mar 2020",
+            "end_date": "Apr 2020",
+            "description": "I have developed a COVID-19 DETECTOR in X-ray images with Keras, TensorFlow, and Deep Learning which can detect a COVID-19 patient within 5 seconds.Why X-Ray images? It's because since COVID-19 attacks the epithelial cells that line our respiratory tract, we can use X-rays to analyze the health of a patient\u00e2\u20ac\u2122s lungs.In this detector I have used machine learning models like CNN and KNN model and after gathering my dataset, I was left with 50,000 total images, equally split with 25,000 images of COVID-19 positive X-rays and 25,000 images of healthy patient X-rays.The data is available on kaggle and after collecting the data I trained my model and after a continous effort and failing many times I succeed and was pretty shocked by the results when I got the accuracy of 100%.Till now it's the highest accuracy provider machine learning model which can easily detect Coronavirus infected person. The main advantage of this detector are : - Its a free software, Its time efficient that is it can provide the result within 5 seconds instead of 1day and for sure it can't remove the work of doctors but can make their work easy."
+        },
+        {
+            "title": "Face Swapping",
+            "start_date": "Jan 2020",
+            "end_date": "Feb 2020"
+        },
+        {},
+        {},
+        {},
+        {}
+    ],
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "om-krishna",
+    "activity": [
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "The Indeed FutureWorks 2024 event was truly outstanding. The panels addressed the necessity of improving hiring practices, enhancing work\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7271427330806288385"
+        },
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "The holiday season is here again, and it's a perfect way to wrap up 2024! Christmas is all about coming together, celebrating, and reflecting on\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7274311634351759361"
+        },
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "",
+            "img": "",
+            "id": "6837337405314387968"
+        },
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "India Mobile Congress 2024 ! Honored to be a part of IMC 2024, representing Ericsson and demonstrating how #5G is transforming industries. From\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7254839952113311744"
+        },
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "\u00f0\u0178\u0161\u20ac Just completed a new project: Age Calculator \u00f0\u0178\u017d\u2030 Built with JavaScript, HTML, and CSS, this simple yet powerful tool calculates your exact age in\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7253827063076311040"
+        },
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "Amazon, Samsung R&D, PayPal & Walmart\u00f0\u0178\u0161\u20ac Today we interviewed some of our Alpha & Delta students who cracked placements & internships + PPOs in these\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7252702956049858561"
+        },
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "A Month in the Life of a Data Engineer at Bounteous x Accolite! It\u00e2\u20ac\u2122s been an incredible first month as a Data Engineer at Bounteous x Accolite! The\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7252196610330218496"
+        },
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "\u00f0\u0178\u0161\u20ac Teamwork in Action! \u00f0\u0178\u0161\u20ac Excited to share a recent collaborative project where my group and I successfully cloned the UI of the Mazda USA website\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7245487435004923904"
+        },
+        {
+            "interaction": "Liked by Om Krishna Yadav",
+            "link": "",
+            "title": "\u00f0\u0178\u017d\u201cBTech Lateral year Completed from BITS Pilani Work Integrated Learning Programmes My grades may not reflect it, but the Mindset and experience\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7249826642083127297"
+        }
+    ],
+    "linkedin_num_id": 591460788.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

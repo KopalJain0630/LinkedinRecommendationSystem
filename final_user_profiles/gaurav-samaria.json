@@ -1,0 +1,307 @@
+{
+    "id": "gaurav-samaria",
+    "name": "Gaurav Samaria",
+    "city": "Haryana, India",
+    "country_code": "IN",
+    "position": "Consultant I at EXL || IIT Kharagpur",
+    "about": "Results-oriented professional with a strong foundation in data analytics and risk management. Skilled in leveraging tools like Python, SQL, SAS, and Tableau to drive insights and optimize processes. Passionate about solving complex problems and delivering data-driven solutions to support strategic decision-making.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "EXL",
+        "company_id": "exl-service",
+        "title": "Consultant I at EXL || IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Assistant Manager(Consultant I)",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "EXL",
+            "company_id": "exl-service",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Django Developer Intern",
+            "description": "\u00e2\u20ac\u00a2 Onboarded quickly, contributing to live projects by resolving user profile and resume upload form validation bugs.\u00e2\u20ac\u00a2 Assisted new interns with local project setup, ensuring smooth onboarding and enhancing productivity.\u00e2\u20ac\u00a2 Developed a Django backend for a photo background removal website, implementing secure user authentication.\u00e2\u20ac\u00a2 Integrated a third-party API for image background removal, managing upload, processing, and download functionalities.\u00e2\u20ac\u00a2 Improved backend reliability and user experience by fixing customer support email handling issues.",
+            "description_html": "\u00e2\u20ac\u00a2 Onboarded quickly, contributing to live projects by resolving user profile and resume upload form validation bugs.\u00e2\u20ac\u00a2 Assisted new interns with local project setup, ensuring smooth onboarding and enhancing productivity.\u00e2\u20ac\u00a2 Developed a Django backend for a photo background removal website, implementing secure user authentication.\u00e2\u20ac\u00a2 Integrated a third-party API for image background removal, managing upload, processing, and download functionalities.\u00e2\u20ac\u00a2 Improved backend reliability and user experience by fixing customer support email handling issues.",
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "Neolen",
+            "company_id": "neolen",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE Intern (Backend)",
+            "description": "\u00e2\u20ac\u00a2 Contributed to the development of Fraudify, a Fraud detection platform, by implementing new changes.\u00e2\u20ac\u00a2 Successfully delivered RESTful APIs using Django Rest Framework to enable functionalities like adding, updating, deleting, and approving organizations.\u00e2\u20ac\u00a2 Simultaneously worked on other projects, implementing minor changes in the email configuration.\u00e2\u20ac\u00a2 Documented the newly developed APIs and the MongoDB database configurations for all projects.",
+            "description_html": "\u00e2\u20ac\u00a2 Contributed to the development of Fraudify, a Fraud detection platform, by implementing new changes.\u00e2\u20ac\u00a2 Successfully delivered RESTful APIs using Django Rest Framework to enable functionalities like adding, updating, deleting, and approving organizations.\u00e2\u20ac\u00a2 Simultaneously worked on other projects, implementing minor changes in the email configuration.\u00e2\u20ac\u00a2 Documented the newly developed APIs and the MongoDB database configurations for all projects. <!---->",
+            "duration": "Jul 2021 Oct 2021 4 months",
+            "start_date": "Jul 2021",
+            "end_date": "Oct 2021",
+            "duration_short": "4 months",
+            "company": "Fintract Global",
+            "company_id": "fintract-global",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shubham Sharma",
+            "about": "30K+ Followers || Influencer Marketing || AI Enthusiast || LinkedIn Profile Growth Specialist || Python, SQL & ML || Open for collaborations",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishchay Manwani",
+            "about": null,
+            "location": "North Guwahati"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshita Dudani",
+            "about": "Software Engineer III at Google | Ex-Intern at BNY Mellon | JIIT\u00e2\u20ac\u212221",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Adish Agarwal",
+            "about": null,
+            "location": "Agra"
+        },
+        {
+            "profile_link": "",
+            "name": "Aritri Paul",
+            "about": "Software Engineer at Microsoft | Ex-Amazon",
+            "location": "Durgapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Neerav Vyas Bohra",
+            "about": null,
+            "location": "Dublin"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Agarwal",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Kashish Mehndiratta",
+            "about": "SDE-2 @ Amazon | NIT Jalandhar",
+            "location": "Jalandhar"
+        },
+        {
+            "profile_link": "",
+            "name": "Vagesh Verma",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanshu Tuli",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "CGPA - 8.10",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jain Public School - India",
+            "degree": "12th Standard",
+            "field": "85%",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Montfort Secondary School",
+            "degree": "10th Standard",
+            "field": "8.2 CGPA.",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"CS19101\",\"title\":\"Programming and Data Structures Laboratory\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021Credential ID 397676e947ceSee credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Basic)"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID UC-ab9cf505-b197-4490-ac2a-fc0cd0d62b73See credential",
+            "subtitle": "Udemy",
+            "title": "Python Bootcamp"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID cb202733e908See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL (Basic) Certificate"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID UC-8d65daa9-907e-43f1-9ab8-8213b31c96c2See credential",
+            "subtitle": "Udemy",
+            "title": "SQL Bootcamp"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID UC-a5230a3b-ed57-4459-a34c-c5600fe8ccddSee credential",
+            "subtitle": "Udemy",
+            "title": "Python and Django Full Stack Web Developer Bootcamp"
+        },
+        {
+            "meta": "Issued Jan 2021See credential",
+            "subtitle": "KOSS",
+            "title": "Kharagpur Winter of Code"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID UC-f1952d20-df98-4d3a-b92d-567b47283bc6See credential",
+            "subtitle": "Udemy",
+            "title": "C++"
+        },
+        {
+            "meta": "Issued Aug 2020Expires Aug 2023Credential ID ci8adeqCQL2FdKX0O6Ec7gSee credential",
+            "subtitle": "Google",
+            "title": "Google Analytics for Beginners"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 858.0,
+    "connections": 500.0,
+    "current_company_company_id": "exl-service",
+    "current_company_name": "EXL",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Haryana",
+    "linkedin_id": "gaurav-samaria",
+    "activity": [
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "I am pleased to announce that I have achieved the following two certifications issued by Google Cloud in quick succession: 1. Google Cloud Certified\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7275102717713231872"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "After an amazing journey with Golden Sparrow, where I had the opportunity to dive into early venture investing across sectors like semiconductors\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7252555196705169410"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "In a momentous occasion of pride, Indian Institute of Technology, Kharagpur honoured Shri Sundar Pichai with the Doctor of Science (Honoris Causa)\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7222596672130883584"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "Check out the insightful article by Asheem Chandna, an investor at Greylock, where he discusses the integral 3 questions that seed-stage\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7158189894886944768"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "What VCs Are Betting on for AI in 2024? AI is advancing rapidly, but where is it heading next? As we approach the end of 2023, I read a fascinating\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7146543252500885504"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "Thrilled to Pursue MBA/PGDM at NDIM College! Hello LinkedIn community! I'm excited to share the news that I am currently undertaking my MBA/PGDM\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7090920199872286721"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "I am incredibly honored to be awarded the prestigious 'Jewels of KGP' as featured by Awaaz, IIT Kharagpur! This is truly one of the proud moments for\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7052159676494344193"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "Look what was delivered to our office today! Special model of Vikram-S, except that this one was all about milk & sugar. Loved the treat, put that\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7001174569474564096"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "What does an ocean of positive energy looks like? That\u00e2\u20ac\u2122s Euphoria! when entire Team Skyroot came together and cheered by Hon\u00e2\u20ac\u2122 Minister KTR garu in\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7002157560837414912"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "A proud moment for all the KGPians as Skyroot Aerospace , a startup by KGP alumni Pawan Kumar Chandana, launched India's first private made rocket\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6999660956867809280"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Gaurav Samaria",
+            "img": "",
+            "id": "6884361643241824256"
+        },
+        {
+            "interaction": "Liked by Gaurav Samaria",
+            "link": "",
+            "title": "Making better decisions requires us to really think things through. #success #mentor #linkedin #mentoring #successcoach #successcoaching\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6829887628792487936"
+        }
+    ],
+    "linkedin_num_id": 632918141.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

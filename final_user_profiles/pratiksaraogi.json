@@ -1,0 +1,19 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2017Credential ID 007",
+            "subtitle": "Duolingo",
+            "title": "Espanyol"
+        }
+    ],
+    "current_company_name": "ActoFit Wearables",
+    "publications": null,
+    "patents": "[{\"title\":\"TRAINING OF CLASSIFIERS FOR IDENTIFYING ACTIVITIES BASED ON MOTION DATA\",\"date_issued\":\"June 2, 2023\",\"patents_id\":\"433626\",\"description\":\"A method of classifying activities performed by a user using motion data is disclosed. At first, raw motion data of a user performing an exercise activity and a non-exercise activity over a period of time is captured. The exercise activity comprises at least a first exercise activity and a second exercise activity. The first exercise activity or the second exercise activity are classified using classifiers. The classifiers are trained beforehand using motion data stored in a test dataset or a master dataset. The test dataset indicates a real-time motion pattern, specified by the user, and the master dataset indicates a pre-determined motion pattern, corresponding to the first exercise activity and the second exercise activity. Further, labels corresponding to the first exercise activity and the second exercise activities are presented to the user. The classifiers, the test dataset and the master dataset are further improved using the motion data.\"},{\"title\":\"Training of Classifiers for Identifying activities based on Motion Data\",\"date_issued\":\"January 23, 2017\",\"patents_id\":\"IN PCT/IB2017/050330\"},{\"title\":\"Technological device to assist user in workouts and healthy living \",\"date_issued\":\"April 1, 2015\",\"patents_id\":\"US PCT/IN2016/000085\"}]",
+    "projects": null,
+    "honors_and_awards": null
+}

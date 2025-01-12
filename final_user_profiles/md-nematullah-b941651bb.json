@@ -1,0 +1,113 @@
+{
+    "city": "Saharsa, Bihar, India",
+    "position": "Mitacs GRI '23 |Research intern @ Queens Mary | Final Year @ IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Data Science Intern",
+            "location": "United Arab Emirates",
+            "description": "• Achieved 95.4% accuracy pioneering Contrastive Language-Image Pre-training security detection on 50K X-ray baggage dataset • Developed an AI-driven caption algorithm, integrating LLaMA3 for human-like descriptions, enhancing understanding of threats • Architected multi-tier threat classification framework, precisely identifying and localizing 20 threat types across 10 difficulty levels",
+            "description_html": "• Achieved 95.4% accuracy pioneering Contrastive Language-Image Pre-training security detection on 50K X-ray baggage dataset • Developed an AI-driven caption algorithm, integrating LLaMA3 for human-like descriptions, enhancing understanding of threats • Architected multi-tier threat classification framework, precisely identifying and localizing 20 threat types across 10 difficulty levels <!---->",
+            "duration": "May 2024 Jul 2024 3 months",
+            "start_date": "May 2024",
+            "end_date": "Jul 2024",
+            "duration_short": "3 months",
+            "company": "Khalifa University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "London, England, United Kingdom",
+            "description_html": null,
+            "duration": "May 2023 Jan 2024 9 months",
+            "start_date": "May 2023",
+            "end_date": "Jan 2024",
+            "duration_short": "9 months",
+            "company": "Queen Mary University of London",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "MITACS GRI Intern",
+            "location": "Montreal, Quebec, Canada",
+            "description": "Completed a 12-week Mitacs GRI research internship in Canada, focusing on cybersecurity. Implemented machine learning techniques to detect phishing scams in IoT devices, enhancing skills in data analysis and algorithm development. Grateful for the opportunity to contribute to cutting-edge research",
+            "description_html": "Completed a 12-week Mitacs GRI research internship in Canada, focusing on cybersecurity. Implemented machine learning techniques to detect phishing scams in IoT devices, enhancing skills in data analysis and algorithm development. Grateful for the opportunity to contribute to cutting-edge research <!---->",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "University of Quebec",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Transfer Group, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Technology Transfer Group, IIT Kharagpur",
+                    "meta": "Aug 2022 - Jul 2023 1 year",
+                    "duration": "Aug 2022 Jul 2023 1 year",
+                    "start_date": "Aug 2022",
+                    "end_date": "Jul 2023",
+                    "duration_short": "1 year",
+                    "title": "Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Transfer Group, IIT Kharagpur",
+                    "meta": "Aug 2021 - Jul 2022 1 year",
+                    "duration": "Aug 2021 Jul 2022 1 year",
+                    "start_date": "Aug 2021",
+                    "end_date": "Jul 2022",
+                    "duration_short": "1 year",
+                    "title": "Sub-Head",
+                    "description_html": null
+                }
+            ],
+            "company": "Technology Transfer Group, IIT Kharagpur",
+            "company_id": "technology-transfer-group",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Sub Head",
+            "description_html": null,
+            "duration": "Jul 2021 Jun 2022 1 year",
+            "start_date": "Jul 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "1 year",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "QEDM (dual degree)",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2025",
+            "description": "On Sept. 15, 1956, the Parliament of India passed an act known as the Indian Institute of Technology(Kharagpur) Act declaring this Institute as an Institute of national importance. The Institute was also given the status of an autonomous University. From this modest start in 1950, IIT Kharagpur has been engaged in a steady process of development with about 27 academic departments and schools, 7 centres of excellence. the vast tree-laden campus, spreading over 2100 acres has a self contained… Show more",
+            "description_html": "On Sept. 15, 1956, the Parliament of India passed an act known as the Indian Institute of Technology(Kharagpur) Act declaring this Institute as an Institute of national importance. The Institute was also given the status of an autonomous University. From this modest start in 1950, IIT Kharagpur has been engaged in a steady process of development with about 27 academic departments and schools, 7 centres of excellence. the vast tree-laden campus, spreading over 2100 acres has a self contained…",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2023Credential ID UC-18e1ef9f-c178-4540-ae1b-29d0a91a9ae7See credential",
+            "subtitle": "Udemy",
+            "title": "Linux Administration: The Complete Linux Bootcamp"
+        }
+    ],
+    "current_company_name": "Khalifa University",
+    "publications": "[{\"title\":\"IoT Phishing Detection Using Hybrid NLP and Machine Learning Models Enhanced with Contextual Embedding\",\"subtitle\":\"IEEE (QRS)\",\"description\":\"Objective: Develop a state-of-the-art intrusion detection system using DistilBERT and Artificial Neural Networks classifier IoT devices.• Conducted innovative research employing DistilBERT and ANN classifier, achieving up to 99.35% accuracy in detecting attacks on Alexa.• Showcased extraordinary skill in devising neural network design, subsequently achieving competitive results in various attack scenarios.• Employed the technique of multithreading to hasten up log embedding utilizing Python's concurrency, improving processing efficiency.• Leveraged the Accuracy, Precision, Recall, F1 Score, and AUC-ROC metrics to evaluate the approach's anomaly detection capability.• Achieved 98.69% accuracy, 91.39% precision, 79.79% recall, and an F1 score of 0.8519 in detecting attacks on all devices combined.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

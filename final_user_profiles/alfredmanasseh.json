@@ -1,0 +1,37 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Concordia University",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2007",
+            "end_year": "2007",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Shaffra Technology Labs Ltd.",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Aeroport de Montreal: Analysis of the US Departure Area\",\"start_date\":\"Sep 2011\",\"end_date\":\"Mar 2012\",\"description\":\"Determined the personnel needs depending on passenger arrival patterns, number of available custom agents and frequency of departures to the USS. [software used: ARENA, LINGO, EXCEL, MAPLE]\"},{\"title\":\"MEDISCA Pharmaceutical: Analysis of Inventory Control\",\"start_date\":\"Sep 2011\",\"end_date\":\"Dec 2011\",\"description\":\"Forecasted optimal order quantities, time between order, and reordering points. [software used: EXCEL VBA, LINGO]\"},{\"title\":\"First Place Winner of the Simulation Competition: I.I.E National Conference\",\"start_date\":\"Jan 2011\",\"end_date\":\"Jan 2011\",\"description\":\"Used the ARENA, Rockwell software to simulate operations of a pharmacy related to Rx prescriptions, in order to establish the optimal combination of both human resources and automation technologies to reduce patient waiting time and costs incurred by the pharmacy.\"},{\"title\":\"PepsiCo Nigeria: Logistics study\",\"start_date\":\"Nov 2010\",\"end_date\":\"Dec 2010\",\"description\":\"Strategized timely and costly shipments to different production centres across the country\"},{\"title\":\"Saifi – Rano: Logistics study\",\"start_date\":\"Sep 2010\",\"end_date\":\"Dec 2010\",\"description\":\"Use of historical data to establish a proper forecast, in order to propose an investment analysis on a new local to satisfy customer demand. Elaboration of an optimal trajectory to be followed by both salesman and distribution trucks. [software used: LINGO]\"},{\"title\":\"LunchBox Cuisine: Procurement study\",\"start_date\":\"Jan 2010\",\"end_date\":\"Apr 2010\",\"description\":\"Established a proper procurement and inventory control schedule that avoided unnecessary incurred costs\"}]",
+    "honors_and_awards": null
+}

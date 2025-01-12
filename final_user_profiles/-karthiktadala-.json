@@ -1,0 +1,86 @@
+{
+    "city": "Seattle, Washington, United States",
+    "position": "Actively looking for Software Engineer full-time roles / Machine Learning engineer roles |  MS Computer Science",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "India",
+            "description": "• Engineered a robust machine learning algorithm for pipeline anomaly detection, leveraging Support Vector Machine techniques; delivered a solution that flagged anomalies 25% faster than previous methods, enhancing response times.• Attained a 95.93 % accuracy rate in a anomaly detection project by employing advanced machine learning algorithms.• Spearheaded collaboration with cross-functional teams to define system requirements, resulting in the design of a scalablesoftware architecture that expanded user capacity handling by 50% during peak traffic periods.• Spearheaded the design and development of an event website utilizing React JS and Node.js; optimized both front-endand back-end functionalities, resulting in over 3,000 user registrations and enhanced site performance.• Executed rigorous test protocols that improved software quality, resulting in a 40% reduction in post-release defects;managed critical data to streamline operations, ensuring departmental efficiency and continuous improvement.",
+            "description_html": "• Engineered a robust machine learning algorithm for pipeline anomaly detection, leveraging Support Vector Machine techniques; delivered a solution that flagged anomalies 25% faster than previous methods, enhancing response times.• Attained a 95.93 % accuracy rate in a anomaly detection project by employing advanced machine learning algorithms.• Spearheaded collaboration with cross-functional teams to define system requirements, resulting in the design of a scalablesoftware architecture that expanded user capacity handling by 50% during peak traffic periods.• Spearheaded the design and development of an event website utilizing React JS and Node.js; optimized both front-endand back-end functionalities, resulting in over 3,000 user registrations and enhanced site performance.• Executed rigorous test protocols that improved software quality, resulting in a 40% reduction in post-release defects;managed critical data to streamline operations, ensuring departmental efficiency and continuous improvement.",
+            "duration": "Jan 2022 Aug 2023 1 year 8 months",
+            "start_date": "Jan 2022",
+            "end_date": "Aug 2023",
+            "duration_short": "1 year 8 months",
+            "company": "Hindustan Petroleum Corporation Limited",
+            "company_id": "hpcl",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "location": "Visakhapatnam, Andhra Pradesh, India",
+            "description": "Developed and maintained the IEEE club website, regularly updating it with upcoming events and achievements.Organized workshops and technical sessions by collaborating with local companies, enhancing professional development opportunities for members.",
+            "description_html": "Developed and maintained the IEEE club website, regularly updating it with upcoming events and achievements.Organized workshops and technical sessions by collaborating with local companies, enhancing professional development opportunities for members. <!---->",
+            "duration": "May 2021 Apr 2023 2 years",
+            "start_date": "May 2021",
+            "end_date": "Apr 2023",
+            "duration_short": "2 years",
+            "company": "IEEE",
+            "company_id": "ieee",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Lead",
+            "location": "Visakhapatnam, Andhra Pradesh, India",
+            "description": "Organized and mentored competitive coding events like Hashcode, guiding participants in problem-solving techniques.Designed and updated websites for GDSC events, while also conducting workshops to enhance coding and development skills.",
+            "description_html": "Organized and mentored competitive coding events like Hashcode, guiding participants in problem-solving techniques.Designed and updated websites for GDSC events, while also conducting workshops to enhance coding and development skills. <!---->",
+            "duration": "Sep 2020 Apr 2023 2 years 8 months",
+            "start_date": "Sep 2020",
+            "end_date": "Apr 2023",
+            "duration_short": "2 years 8 months",
+            "company": "Google Developer Student Clubs",
+            "company_id": "gdsc-depauw",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Portland State University",
+            "degree": "Master of Science - MS",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Gayatri Vidya Parishad College of Engineering (Autonomous)",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"CS584\",\"title\":\"ALGORITHM DESIGN AND ANALYSIS\"},{\"subtitle\":\"CS541\",\"title\":\"ARTIFICIAL INTELLIGENCE\"},{\"subtitle\":\"CS510\",\"title\":\"CODE REVISION & REVIEW\"},{\"subtitle\":\"CS510\",\"title\":\"DATA CLUSTERING\"},{\"subtitle\":\"CS510\",\"title\":\"DATA ENGINEERING\"},{\"subtitle\":\"CS586\",\"title\":\"INTRO TO DATABASE MGMT SYSTEMS\"},{\"subtitle\":\"CS563\",\"title\":\"INTRO TO WEB DEVELOPMENT\"},{\"subtitle\":\"CS545\",\"title\":\"MACHINE LEARNING\"},{\"subtitle\":\"CS532\",\"title\":\"OPERATING SYSTEM FOUNDATIONS\"}]",
+    "certifications": null,
+    "current_company_name": "Hindustan Petroleum Corporation Limited",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"TriMet public transportation system route project\",\"start_date\":\"Jan 2024\",\"end_date\":\"Apr 2024\",\"description\":\"Leveraged google Pub/Sub within the pipeline for real-time messaging, incorporating automated data validation and transformation stages to ensure seamless data flow and high-quality data ingestion into PostgreSQL.• Implemented a real-time data pipeline using the Pipeline Pattern to ingest and process over 50,000 GPS and stopevent records daily, resulting in a 40% improvement in data processing speed for public transit vehicles• Processed 1.5 million+ real-time GPS data points from TriMet vehicles using Python and PostgreSQL. Enhanced data storage efficiency with bulk insert functionality, reducing processing time by 60%.• Deployed GeoJSON and MapboxGL in the final stage of the pipeline to create advanced visualizations on interactivemaps\"},{\"title\":\"Anomaly detection machine learning model\",\"start_date\":\"Jan 2023\",\"end_date\":\"Aug 2023\",\"description\":\"• Engineered a robust machine learning algorithm for pipeline anomaly detection, leveraging Support Vector Machine techniques; delivered a solution that flagged anomalies 25% faster than previous methods, enhancing response times.• Attained a 95.93 % accuracy rate in a anomaly detection project by employing advanced machine learning algorithms.• Spearheaded collaboration with cross-functional teams to define system requirements, resulting in the design of a scalablesoftware architecture that increased user capacity handling by 50% during peak traffic periods.• Spearheaded the design and development of an event website utilizing React JS and Node.js; optimized both front-endand back-end functionalities, resulting in over 3,000 user registrations and enhanced site performance.• Executed rigorous test protocols that enhanced software quality, resulting in a 40% reduction in post-release defects;managed critical data to streamline operations, ensuring departmental efficiency and continuous improvement.\"},{\"title\":\"Multi-Vendor Restaurant Marketplace\",\"description\":\"• Implemented a robust multi-vendor marketplace platform using Django and Bootstrap, ensuring a mobile-friendly webapplication. Deployed on an AWS EC2 instance for reliable hosting and seamless user experience.• Initiated location-based search and restaurant recommendations using Google Maps API. Optimized geography datastorage in PostgreSQL with PostGIS, enhancing performance and data integrity.• Engineered a tailored Django middleware solution to facilitate seamless account management; integrated real-time dataupdates using Ajax, resulting in a 30% improvement in application efficiency and user satisfaction scores.• Integrated PayPal for secure online transactions and refined CDTFA API to retrieve local tax rates, ensuring accurate\"},{\"title\":\"Shopping List App\",\"description\":\"Designed a user-friendly shopping list app using React Native and Firebase to streamline list management• Established a complete CoreData architecture to optimize app data processing, resulting in 15% faster load times and abetter user journey, improving user retention..\"},{\"title\":\"Text Summarization\",\"description\":\"Executed a user centric extension that consolidated feedback from 450+ users, creating concise summaries thatfacilitated data-driven decisions, ultimately increasing user retention rates by 10% over six months.• Streamlined a cutting-edge algorithm for textual information processing, achieving an 80% accuracy rate thisperformance led to a 50% increase in user satisfaction ratings based on feedback surveys.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Ranked 497 globally in TCS CodeVita Season 10",
+            "publication": "TCS",
+            "date": null,
+            "description": "I secured a global rank of 129 in TCS CodeVita Season 10, a prestigious international coding competition. Competing against top programmers worldwide, I demonstrated strong problem-solving skills and algorithmic expertise, standing out among thousands of participants and showcasing my proficiency in coding and innovative thinking in a highly competitive environment."
+        }
+    ]
+}

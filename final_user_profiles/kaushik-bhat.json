@@ -1,0 +1,30 @@
+{
+    "city": "Amsterdam, North Holland, Netherlands",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2003",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Applied Time Series Analysis\"},{\"subtitle\":\"-\",\"title\":\"Data Science Lab\"},{\"subtitle\":\"-\",\"title\":\"Decision Modelling\"},{\"subtitle\":\"-\",\"title\":\"Fundamentals of Operation Research\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Game Theory\"},{\"subtitle\":\"-\",\"title\":\"Machine Vision and its applications\"},{\"subtitle\":\"-\",\"title\":\"Mathematical Finance\"},{\"subtitle\":\"-\",\"title\":\"Mathematical Foundations for Data Science\"},{\"subtitle\":\"-\",\"title\":\"Optimization Methods\"},{\"subtitle\":\"-\",\"title\":\"Probability, Statistics and Stochastic Processes\"},{\"subtitle\":\"-\",\"title\":\"Statistical Design of Experiments\"},{\"subtitle\":\"-\",\"title\":\"Transport Network Analysis\"}]",
+    "certifications": null,
+    "current_company_name": "Da Vinci Derivatives",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

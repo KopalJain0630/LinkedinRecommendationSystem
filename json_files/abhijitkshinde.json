@@ -1,0 +1,215 @@
+{
+    "id": "abhijitkshinde",
+    "name": "Abhijit Shinde",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Data Scientist | IIT KGP'23 | Driving Decisions with Data, Turning Complexity into Clarity with AI.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Centilytics | Intelligent Cloud Management",
+        "company_id": "centilytics",
+        "title": "Data Scientist | IIT KGP'23 | Driving Decisions with Data, Turning Complexity into Clarity with AI."
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Developed an LMS RAG system using JavaScript injection, Selenium, and hierarchical RAG to extract and search data from Articulate 360 modules.Developed a multimedia translation app supporting text, audio, video, and images, reducing processing time by 75% with multiprocessing.Created a \"Video-to-Question\" system for team meetings, automating MoM, summaries, and answering custom queriesEngineered a document retrieval system for engineers, delivering results in 0.015 seconds by mapping queries to SOPs and assigning tasks.Built a video subtitle translation system with multilingual support, preserving context and linking seamlessly to the audio transcription pipeline.Enabled high-accuracy audio transcription using Whisper, integrating silence detection for optimized chunking and real-time transcription capabilitiesDeveloped APIs and interactive demos for client applications, enabling seamless integration with FastAPI and showcasing features via Streamlit.Designed a PPT and image translation pipeline using boundary detection to replace text while maintaining layout integrity and visual consistency.Led a team to 3rd place in AWS AI JAM, delivering an education product pitch and demo within 2 days using AWS tools and AI services.Created an email generation app for client updates and automated meeting notes and scrum updates, enhancing team communication and efficiency.",
+            "description_html": "Developed an LMS RAG system using JavaScript injection, Selenium, and hierarchical RAG to extract and search data from Articulate 360 modules.Developed a multimedia translation app supporting text, audio, video, and images, reducing processing time by 75% with multiprocessing.Created a \"Video-to-Question\" system for team meetings, automating MoM, summaries, and answering custom queriesEngineered a document retrieval system for engineers, delivering results in 0.015 seconds by mapping queries to SOPs and assigning tasks.Built a video subtitle translation system with multilingual support, preserving context and linking seamlessly to the audio transcription pipeline.Enabled high-accuracy audio transcription using Whisper, integrating silence detection for optimized chunking and real-time transcription capabilitiesDeveloped APIs and interactive demos for client applications, enabling seamless integration with FastAPI and showcasing features via Streamlit.Designed a PPT and image translation pipeline using boundary detection to replace text while maintaining layout integrity and visual consistency.Led a team to 3rd place in AWS AI JAM, delivering an education product pitch and demo within 2 days using AWS tools and AI services.Created an email generation app for client updates and automated meeting notes and scrum updates, enhancing team communication and efficiency.",
+            "duration": "Sep 2023 - Present 1 year 4 months",
+            "start_date": "Sep 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 4 months",
+            "company": "Centilytics | Intelligent Cloud Management",
+            "company_id": "centilytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analytics Consultant intern",
+            "location": "Remote",
+            "description": "• Created real-time data extraction tool from more than 25 different applications utilising the REST APIs with Python and SQL• Developed an ETL process for transforming the data into a suitable format and importing it into Azure SQL database tables• Built a dashboard as per the client's specification Using DAX and Power BI GUI, Also automated the process of report refresh",
+            "description_html": "• Created real-time data extraction tool from more than 25 different applications utilising the REST APIs with Python and SQL• Developed an ETL process for transforming the data into a suitable format and importing it into Azure SQL database tables• Built a dashboard as per the client's specification Using DAX and Power BI GUI, Also automated the process of report refresh <!---->",
+            "duration": "Sep 2022 Dec 2022 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "4 months",
+            "company": "CyberNxt Solutions LLP",
+            "company_id": "cybernxt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern - Information Security",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Created an automation tool for modified data transfer to Azure from various inputs, which reduced 8-hour manual tasks by 97%• Developed Bulk IOC lookup solution for threat intelligence website, which saved clients 35 man-days every 3 months• Constructed tools for a SIEM application for automatic reports, server Health monitoring and offence check monitoring• Built a method for verifying source code using static application security testing for security considerations",
+            "description_html": "• Created an automation tool for modified data transfer to Azure from various inputs, which reduced 8-hour manual tasks by 97%• Developed Bulk IOC lookup solution for threat intelligence website, which saved clients 35 man-days every 3 months• Constructed tools for a SIEM application for automatic reports, server Health monitoring and offence check monitoring• Built a method for verifying source code using static application security testing for security considerations <!---->",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "LTI - Larsen & Toubro Infotech",
+            "company_id": "l&t-infotech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Backend Development Intern",
+            "location": "Remote",
+            "description": "• Built a microservice for customer engagement notifications, which returned 30% customer re-engagement on average• Developed a scheduler microservice using Flask and Cronjob to optimise the database based on package validity• Created the REST API backend for the client CRM portal for services like authentication and dashboard statistics",
+            "description_html": "• Built a microservice for customer engagement notifications, which returned 30% customer re-engagement on average• Developed a scheduler microservice using Flask and Cronjob to optimise the database based on package validity• Created the REST API backend for the client CRM portal for services like authentication and dashboard statistics <!---->",
+            "duration": "Nov 2021 Feb 2022 4 months",
+            "start_date": "Nov 2021",
+            "end_date": "Feb 2022",
+            "duration_short": "4 months",
+            "company": "Param Webeek Limited",
+            "company_id": "param-webeek",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": null,
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech",
+            "field": "Biotechnology and biochemical engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya (JNV)",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Apr 2020 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2020",
+            "info": "•Took part in various social activities under National Service Scheme in a 7- day Social Drive workshop•Taught underprivileged students of Hindi primary schools in rural regions near IIT Kharagpur every weekend and voluntarily carried out   activities like cleaning, building, etc. of nearby areas under the National Service Scheme.",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 1564.0,
+    "connections": 500.0,
+    "current_company_company_id": "centilytics",
+    "current_company_name": "Centilytics | Intelligent Cloud Management",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Pune",
+    "linkedin_id": "abhijitkshinde",
+    "activity": [
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "Empower your business with custom AI solutions using Catalyst’s ML tools. Build, deploy, and manage machine learning models without writing a single…",
+            "img": "",
+            "id": "7252337213923803138"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "In a momentous occasion of pride, Indian Institute of Technology, Kharagpur honoured Shri Sundar Pichai with the Doctor of Science (Honoris Causa)…",
+            "img": "",
+            "id": "7222596672130883584"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "🔊 𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒊𝒏𝒈 𝑶𝒖𝒓 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒅 𝑺𝒑𝒆𝒂𝒌𝒆𝒓! 🎤 We are delighted to be presenting our expert speaker, Mr. Aditya Garg, Founder…",
+            "img": "",
+            "id": "7219673183178698752"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "Company culture is just as important as the bottom line, if you have a toxic culture you'll lose... People are the driving force behind your…",
+            "img": "",
+            "id": "7217212781526159361"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "Had a fantastic experience yesterday at the \"Cloud Security Made Easy\" event at Crown Plaza Hotel with Amazon Web Services (AWS), CrowdStrike, and…",
+            "img": "",
+            "id": "7220002103476285442"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "Had a great time at AIQCon this week (by Kolena & MLOps Community)! The big themes were all about data quality (no surprise there) and how it's…",
+            "img": "",
+            "id": "7212619239340314624"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "I am delighted to share that I have successfully completed the Generative Al Foundation course which has provided me with a strong grasp of key…",
+            "img": "",
+            "id": "7211611675794296832"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "Missed our latest course launch? 🌟 Building Your Own Database Agent is now live! Learn to interact with databases using natural language in this…",
+            "img": "",
+            "id": "7208891736910098432"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "Arey...Chatgpt hi to karna hota hai..Isme kon si badi baat hai...🙃 Hello connections!! I hope you all are doing good. Literally, I have heard this…",
+            "img": "",
+            "id": "7209246727701217280"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "😉 #leadership",
+            "img": "",
+            "id": "7209480131361304576"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "AI will create more data engineering jobs than it consumes! - AI thrives on high quality data. Data engineers are best at generating and ensuring…",
+            "img": "",
+            "id": "7209251923353366530"
+        },
+        {
+            "interaction": "Liked by Abhijit Shinde",
+            "link": "",
+            "title": "YOU CANNOT DO IT. You must have heard the statement a lot. Want to get into McKinsey & Company from a Tier 3 college? You cannot. Want to get…",
+            "img": "",
+            "id": "7209427255700127745"
+        }
+    ],
+    "linkedin_num_id": 668833787.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

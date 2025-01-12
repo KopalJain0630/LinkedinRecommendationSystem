@@ -1,0 +1,232 @@
+{
+    "city": "Andhra Pradesh, India",
+    "position": "Software Engineer",
+    "experience": [
+        {
+            "title": "Eurofins IT Delivery Center",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "Eurofins IT Delivery Center",
+                    "meta": "Mar 2024 - Present 10 months",
+                    "duration": "Mar 2024 - Present 10 months",
+                    "start_date": "Mar 2024",
+                    "end_date": "Present",
+                    "duration_short": "10 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Eurofins IT Solutions India Pvt. Ltd",
+                    "meta": "Jan 2022 - Feb 2024 2 years 2 months",
+                    "description": "Power shell scripting, Azure, AI-900, ASP.netdeveloper, octopus deployment, jenkins,AWS services, Terraform.",
+                    "duration": "Jan 2022 Feb 2024 2 years 2 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Feb 2024",
+                    "duration_short": "2 years 2 months",
+                    "title": "Associate Software Engineer",
+                    "description_html": "Power shell scripting, Azure, AI-900, ASP.netdeveloper, octopus deployment, jenkins,AWS services, Terraform. <!---->"
+                }
+            ],
+            "company": "Eurofins IT Delivery Center",
+            "company_id": "eitsi",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "UI/UX developer, javascript developer",
+            "description_html": "UI/UX developer, javascript developer <!---->",
+            "duration": "Sep 2021 Jan 2022 5 months",
+            "start_date": "Sep 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "5 months",
+            "company": "Kony, Inc.",
+            "company_id": "kony-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graphic Designer",
+            "description_html": null,
+            "duration": "Jul 2020 Oct 2020 4 months",
+            "start_date": "Jul 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "4 months",
+            "company": "FTS(Failure To Success)",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "description_html": null,
+            "duration": "Jul 2020 Oct 2020 4 months",
+            "start_date": "Jul 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "4 months",
+            "company": "Projectrons",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graphic Designer",
+            "description_html": null,
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "Bizz Venture",
+            "company_id": "bizz-venture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Campus Ambassador",
+            "description_html": null,
+            "duration": "Jun 2020 Jun 2020 1 month",
+            "start_date": "Jun 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "1 month",
+            "company": "ALPINE TECHNOLOGIES",
+            "company_id": "thealpinetechnologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Edulyt India",
+            "company_id": "edulytindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Marketing Specialist",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Miles Education",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision intern",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "AJ International Ltd",
+            "company_id": "aj-international-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "QIS College of Engineering & Technology, Vengamukkapalem (Village), Pondur Road, Ongle(M),PIN-523 272.(CC-49)",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Chaitanya College of Education",
+            "degree": "Intermediate",
+            "field": "Mpc",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vng high school",
+            "degree": "High school",
+            "field": "Science",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022See credential",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified: Azure AI Fundamentals"
+        },
+        {
+            "meta": "Issued Oct 2020See credential",
+            "subtitle": "IBM",
+            "title": "Python for Data Science"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID DP3KZMZRFXEESee credential",
+            "subtitle": "Coursera",
+            "title": "google cloud platform fundamentals:Core infrastructure"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID C3VKYHZYDWQPSee credential",
+            "subtitle": "Coursera",
+            "title": "programming for everybody"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 262DEFCD09AASee credential",
+            "subtitle": "HackerRank",
+            "title": "python basics"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID R95KUDS885XMSee credential",
+            "subtitle": "Coursera",
+            "title": "Technical support fundamentals "
+        },
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "Alison",
+            "title": "Battula Praveenkumar"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "FutureLearn",
+            "title": "Big Data Analytics : OPPORTUNITIES, CHALLENGES AND THE FUTURE"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "FutureLearn",
+            "title": "Bussiness problems and software solution (DEAKIN University)"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 18795875See credential",
+            "subtitle": "Pirple",
+            "title": "frontend fundamentals"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 98E98EU3RNJ5See credential",
+            "subtitle": "Coursera",
+            "title": "Neural networks and deep learning"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 78Z4UEJ3MVMHSee credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "The Data Scientist's Tool box"
+        }
+    ],
+    "current_company_name": "Eurofins IT Delivery Center",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,239 @@
+{
+    "id": "ankushtechdev",
+    "name": "Ankush Jain",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Software Engineer | Full Stack Developer (Generative AI | NodeJs | Typescript | GraphQL | Kafka | NestJs | Ionic | MEAN | MERN | Microservices | Architecture | Gcloud | AWS)",
+    "posts": [
+        {
+            "title": "How to install Custom ROM on your Android Device?",
+            "img": "",
+            "link": "",
+            "created_at": "2016-02-20T00:00:00.000Z",
+            "interaction": null,
+            "id": "jain"
+        }
+    ],
+    "groups": null,
+    "current_company": {},
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Mukesh Kumar",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranavjeet Mishra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhautik Mavani",
+            "about": null,
+            "location": "Arlington, VA"
+        },
+        {
+            "profile_link": "",
+            "name": "BANU PRIYA",
+            "about": "Associate at KGiSL",
+            "location": "Coimbatore"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravi Sojitra",
+            "about": "Solopreneur",
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Goyal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ketan Bodarya",
+            "about": null,
+            "location": "Waterloo, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Arghya Polley",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sirin kolasseri",
+            "about": null,
+            "location": "Mannarkkad"
+        },
+        {
+            "profile_link": "",
+            "name": "Yogendra Saxena",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": null,
+    "education": null,
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 25667.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "OpenAi Chat Bot",
+            "start_date": "Sep 2023",
+            "end_date": "Oct 2023",
+            "description": "I've harnessed the power of cutting-edge AI technology to create a platform that enables engaging and intelligent conversations with a virtual assistant. Whether you need assistance, information, or just a friendly chat, our project brings the future of AI-driven conversations to your fingertips. Discover the endless possibilities of meaningful interactions and seamless communication with this OpenAI Chat Project."
+        },
+        {
+            "title": "BetterSpaces",
+            "start_date": "Dec 2019",
+            "end_date": "Aug 2020",
+            "description": "Workplace automation and well-being solution."
+        },
+        {
+            "title": "Slack Chat Bot",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "description": "Slack Chatbot"
+        },
+        {
+            "title": "ABACUS POS",
+            "description": "Abacus software is not only compatible with cash payment systems, but also Credit Cards, Liven Points, WeChat Pay and Alipay."
+        },
+        {
+            "title": "Beebush",
+            "description": "Explore the new world social network- from fashion inspiration, art, recipe, news, trending stories worldwide."
+        },
+        {
+            "title": "Buy-Online-Domain-Name",
+            "description": "Technology used - Reactjs, laravel, mysql, jwt auth."
+        },
+        {
+            "title": "Decentralized-Voting-App",
+            "description": "Technolocy Used - Reactjs, Ganache, Dapp."
+        },
+        {
+            "title": "Human-Resource-Management",
+            "description": "Technology Used -Ionic, nodejs, angular, mysql."
+        },
+        {
+            "title": "India Mart Clone",
+            "description": "Technology used - Laravel, Mysql, Auth, Razorpay, Ionic, javascript."
+        },
+        {
+            "title": "Ionic Facebook Clone",
+            "description": "Technology Used - Ionic, Laravel, Mysql."
+        },
+        {
+            "title": "Ionic Webview",
+            "description": "Technology Used - Ionic."
+        },
+        {
+            "title": "Lazy Dating App",
+            "description": "Technology used - Ionic, Laravel, Mysql, Auth."
+        },
+        {
+            "title": "Lazy-eCommerce",
+            "description": "Technology used - Laravel, Mysql, Auth, Razorpay, javascript."
+        },
+        {
+            "title": "Lazy-HRMS",
+            "description": "Technology used - Laravel, Mysql, Auth, Vuejs."
+        },
+        {
+            "title": "M2M FERRIES",
+            "description": "Across the bay, the smarter way.Discover, enjoy, and experience the most memorable way to travel between Mumbai and Mandwa."
+        },
+        {
+            "title": "Make My Trip Clone",
+            "description": "Technology used- Laravel, mysql, javascript, google api."
+        },
+        {
+            "title": "Object-Recognition-using-Machine-Learning",
+            "description": "Technology used - Tensor Flow, Python."
+        },
+        {
+            "title": "Online Book Store",
+            "description": "Technology used - Angular 4, nodejs, expressjs, mogodb, MEAN-Stack, Jwt-auth."
+        },
+        {
+            "title": "Online video platform",
+            "description": "Technology used - React, nodejs, expressjs, mongodb, mern-stack, jwtauth."
+        },
+        {
+            "title": "Payroll & Time Tracking",
+            "description": "Technology used - React-native,nodejs,Laravel, mysql."
+        },
+        {
+            "title": "React Native Onesignal Notification",
+            "description": "Technology used - React-native,firebase,onesignal, mysql, laravel."
+        },
+        {
+            "title": "React-Native Push Notification",
+            "description": "Technology used - React-native, expo,nodejs."
+        },
+        {
+            "title": "Rent Apartment",
+            "description": "Technology Used - Angular 7, nodejs, expressjs, mongodb, Mean-stack, googlemap."
+        },
+        {
+            "title": "Social Media",
+            "description": "Technology used - React, nodejs, expressjs, mongodb, mern-stack, jwtauth."
+        },
+        {
+            "title": "Spotify Clone",
+            "description": "Technology used - Laravel, mysql,javascript."
+        },
+        {
+            "title": "Youtube ideas",
+            "description": "Technology used - React, nodejs, expressjs, mongodb, JWT."
+        }
+    ],
+    "organizations": null,
+    "location": "Pune",
+    "linkedin_id": "ankushtechdev",
+    "activity": [
+        {
+            "interaction": "Liked by Ankush Jain",
+            "link": "",
+            "title": "Yes!!",
+            "img": "",
+            "id": "7240794029938860033"
+        },
+        {
+            "interaction": "Liked by Ankush Jain",
+            "link": "",
+            "title": "Summarised well?",
+            "img": "",
+            "id": "7221453231564939266"
+        },
+        {
+            "interaction": "Liked by Ankush Jain",
+            "link": "",
+            "title": "Why shouldn't someone leave India ? let's keep the sentiments of nationality for a while. 1. All direct tax payers work 3 months for the government\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7221440626452574208"
+        }
+    ],
+    "linkedin_num_id": 356854152.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

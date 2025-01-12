@@ -1,0 +1,164 @@
+{
+    "city": "Bhubaneshwar, Odisha, India",
+    "position": "Software Engineer at Oracle | Ex-SDE Intern at Polynomial.ai | Tech Enthusiast | Loves to talk about the real world",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description_html": null,
+            "duration": "May 2022 Sep 2022 5 months",
+            "start_date": "May 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "5 months",
+            "company": "Polynomial.AI",
+            "company_id": "polynomialai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-Founder & COO",
+            "location": "Bhubaneswar, Orissa, India",
+            "description_html": null,
+            "duration": "Sep 2020 Feb 2022 1 year 6 months",
+            "start_date": "Sep 2020",
+            "end_date": "Feb 2022",
+            "duration_short": "1 year 6 months",
+            "company": "Pathapadha E-Learning",
+            "company_id": "pathapadha-e-learning",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "React Developer Intern",
+            "location": "Bhubaneswar, Orissa, India",
+            "description_html": null,
+            "duration": "Jul 2021 Oct 2021 4 months",
+            "start_date": "Jul 2021",
+            "end_date": "Oct 2021",
+            "duration_short": "4 months",
+            "company": "OpsTree Solutions",
+            "company_id": "opstree-solutions",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer Intern",
+            "location": "Bhubaneswar, Orissa, India",
+            "description_html": null,
+            "duration": "Sep 2020 Nov 2020 3 months",
+            "start_date": "Sep 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "3 months",
+            "company": "cppsecrets.com",
+            "company_id": "cppsecrets",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "International Institute of Information Technology, Bhubaneswar",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "D.A.V. Public School,Unit 8, BHUBANESWAR",
+            "degree": "10+2",
+            "field": "Science",
+            "start_year": "2007",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2023See credential",
+            "subtitle": "Cisco",
+            "title": "Python Essentials 1"
+        },
+        {
+            "meta": "Issued Feb 2023See credential",
+            "subtitle": "Cisco",
+            "title": "Python Essentials 2"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID X6QKDRBPMWDPSee credential",
+            "subtitle": "Coursera",
+            "title": "Web Application Technologies and Django"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID CA0514175217See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID F7D83FAC406ASee credential",
+            "subtitle": "HackerRank",
+            "title": "Python "
+        },
+        {
+            "meta": "Issued May 2020Credential ID 37D59NGXV7N2See credential",
+            "subtitle": "Coursera",
+            "title": "Advanced Styling with Responsive Design"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 5PZL4PVM6XH6See credential",
+            "subtitle": "Coursera",
+            "title": "Interactivity with JavaScript"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID FSLS3XFNFUGHSee credential",
+            "subtitle": "Coursera",
+            "title": "Python for Everybody Specialization"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID DBYWMY58NEGFSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to CSS3"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID JZG6UAVNCTYGSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to HTML5"
+        }
+    ],
+    "current_company_name": "Oracle",
+    "publications": "[{\"title\":\"An Integrated Pipeline with Internal Image Processing for Efficient Image to Text to Speech Conversion\",\"subtitle\":\"International Journal of Engineering and Manufacturing (IJEM), Vol.13, No.6, pp. 1-8, 2023\",\"date\":\"November 29, 2023\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Easy Weather App\",\"start_date\":\"Mar 2021\",\"end_date\":\"Apr 2021\",\"description\":\"Easy Weather App is a web application to check the current weather condition of any city easily. The project is build using Django and Open Weather Map API.\"},{\"title\":\"Face Recognition Attendance System\",\"start_date\":\"Dec 2020\",\"end_date\":\"Feb 2021\",\"description\":\"The Face Recognition Attendance System helps the teachers to take easy attendance of their students using a simple web app. The project uses Django for the web app and OpenCV for recognizing the students face. Once recognized, the attendance is loaded into the teacher's attendance sheet along with the time at which attendance is put by the student.\"},{\"title\":\"PathaPadha Website\",\"start_date\":\"Sep 2020\",\"end_date\":\"Dec 2020\"},{\"title\":\"Blog Web Application\",\"start_date\":\"Jul 2020\",\"end_date\":\"Aug 2020\",\"description\":\"The Blog Web app is created entirely using Django Framework. Users can register themselves in the portal and post their blogs and thoughts. All the blogs posted can be seen by anyone who visits the site. The code link is as follows. You can download the code and run it on your local host server to run and see it.\"},{\"title\":\"Guessing Game\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jun 2020\",\"description\":\"This is a number guessing game. Its fun to play. Made by using HTML, CSS, Javascript, Bootstrap.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "MERITORIOUS STUDENT AWARD 2019",
+            "publication": "EAST COAST RAILWAY WOMEN'S WELFARE ORGANIZATION",
+            "date": "2019-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "SWAMINI ATMAPRAGYAN NANDA SARASWATI AWARD (THE MOST MERITORIOUS STUDENT)",
+            "publication": "DAV PUBLIC SCHOOL, UNIT-8, BBSR",
+            "date": "2017-12-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

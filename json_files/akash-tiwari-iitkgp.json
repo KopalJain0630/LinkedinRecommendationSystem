@@ -1,0 +1,368 @@
+{
+    "id": "akash-tiwari-iitkgp",
+    "name": "Akash Tiwari",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Senior Engineer @Eightfold.AI | CSE, IIT KGP '21 | Golang | Python | Java | Kubernetes",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Eightfold",
+        "company_id": "eightfoldai",
+        "title": "Senior Engineer @Eightfold.AI | CSE, IIT KGP '21 | Golang | Python | Java | Kubernetes"
+    },
+    "experience": [
+        {
+            "title": "Senior Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Working as a Full stack Engineer as Part of TA-Core Team where I-• Designed and implemented third party integration of Twilio with our app for template management.• Designed improvements to matching algorithms of jobs to candidates. Responsibilities• Full stack Development(Backend Focused) for TA app in Javascript, Python, Apache Solr, RDS",
+            "description_html": "Working as a Full stack Engineer as Part of TA-Core Team where I-• Designed and implemented third party integration of Twilio with our app for template management.• Designed improvements to matching algorithms of jobs to candidates. Responsibilities• Full stack Development(Backend Focused) for TA app in Javascript, Python, Apache Solr, RDS <!---->",
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Eightfold",
+            "company_id": "eightfoldai",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "AppDynamics",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "1 year 11 months",
+            "positions": [
+                {
+                    "subtitle": "AppDynamics",
+                    "meta": "Oct 2023 - Sep 2024 1 year",
+                    "description": "Achievements -• Recognised for \"Going Above and Beyond\" for Leading Agent feature changes for Ryder.Part of Database Monitoring Team where I-• Designed and implemented events Feature on agent for databases.• Designed and implemented the Processor for PostgreSQL Database on Revamped Agent.Responsibilities• Backend Development for Revamped Agent in Go.• Backend Development for Legacy agent in Java.",
+                    "duration": "Oct 2023 Sep 2024 1 year",
+                    "start_date": "Oct 2023",
+                    "end_date": "Sep 2024",
+                    "duration_short": "1 year",
+                    "title": "Software Engineer 3 (G8)",
+                    "description_html": "Achievements -<br>• Recognised for \"Going Above and Beyond\" for Leading Agent feature changes for Ryder.<br>Part of Database Monitoring Team where I-<br>• Designed and implemented events Feature on agent for databases.<br>• Designed and implemented the Processor for PostgreSQL Database on Revamped Agent.<br>Responsibilities<br>• Backend Development for Revamped Agent in Go.<br>• Backend Development for Legacy agent in Java. <!---->"
+                },
+                {
+                    "subtitle": "AppDynamics",
+                    "meta": "Nov 2022 - Sep 2023 11 months",
+                    "description": "Achievements -• Recognised for \"Driving the Highest Level of Achievement\" for Delivering stretch goals as part of M1 release.• Recognised for \"Getting to the Finish Line\" for Delivering key feature of alerts in Database Agent.Part of Database Monitoring Team where I-• Designed and implemented Customer Installation Process of Database collector on a kubernetes cluster.• Designed and extended the Operator framework for Db collector resource management on a kubernetes cluster.Responsibilities• Maintaining a mature product (DBMON)• Building the revamped Application from 1st Milestone(DSO) and corresponding Operator Framework.",
+                    "duration": "Nov 2022 Sep 2023 11 months",
+                    "start_date": "Nov 2022",
+                    "end_date": "Sep 2023",
+                    "duration_short": "11 months",
+                    "title": "Software Engineer 2 (G6)",
+                    "description_html": "Achievements -<br>• Recognised for \"Driving the Highest Level of Achievement\" for Delivering stretch goals as part of M1 release.<br>• Recognised for \"Getting to the Finish Line\" for Delivering key feature of alerts in Database Agent.<br>Part of Database Monitoring Team where I-<br>• Designed and implemented Customer Installation Process of Database collector on a kubernetes cluster.<br>• Designed and extended the Operator framework for Db collector resource management on a kubernetes cluster.<br>Responsibilities<br>• Maintaining a mature product (DBMON)<br>• Building the revamped Application from 1st Milestone(DSO) and corresponding Operator Framework."
+                }
+            ],
+            "company": "AppDynamics",
+            "company_id": "appdynamics",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer 2",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Achievements -• Saved Costs by building an Internal Observability stack for dev and QA BMS systems.• Enabled Performance team with the Insights from the Observability stack.• 1st rank in Honeywell Ignite project.• Awarded 4 Bronze rewards for my contribution to the team and product.• Won 3 Best Employee in team award- april, june, julyRoles-• Subject Matter Expert(SME) for Forge Connect in Connected Buildings SBG.• Innovation Focal for my Team.",
+            "description_html": "Achievements -• Saved Costs by building an Internal Observability stack for dev and QA BMS systems.• Enabled Performance team with the Insights from the Observability stack.• 1st rank in Honeywell Ignite project.• Awarded 4 Bronze rewards for my contribution to the team and product.• Won 3 Best Employee in team award- april, june, julyRoles-• Subject Matter Expert(SME) for Forge Connect in Connected Buildings SBG.• Innovation Focal for my Team. <!---->",
+            "duration": "Jul 2021 Nov 2022 1 year 5 months",
+            "start_date": "Jul 2021",
+            "end_date": "Nov 2022",
+            "duration_short": "1 year 5 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Part of Connected Radar Team in Connected Aerospace.• Converted to Full time via Pre Placement Offer at the end of internship.• Worked on Building Robust APIs using Nodejs to bulk import Radar Data from IoT Hub. • Stress tested the APIs using Jmeter to comply with aero standards.• Deployment using CICD pipelines done on an openshift cluster, Understood the working of the CICD Pipeline flow.",
+            "description_html": "• Part of Connected Radar Team in Connected Aerospace.• Converted to Full time via Pre Placement Offer at the end of internship.• Worked on Building Robust APIs using Nodejs to bulk import Radar Data from IoT Hub. • Stress tested the APIs using Jmeter to comply with aero standards.• Deployment using CICD pipelines done on an openshift cluster, Understood the working of the CICD Pipeline flow. <!---->",
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Anil Gupta",
+            "about": "Associate System Engineer-TCS",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "jogedra kumar",
+            "about": "software Engineer",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "SHREYA AGARWAL",
+            "about": "Ex-Senior Software Engineer @Airtel || Ex-Barclays",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Anishka Gupta",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashasti Baranwal",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Varssini Karthikeyan",
+            "about": "QA Engineer at Twin",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Prateek Gupta",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Sunil Suthar",
+            "about": "Technocrat",
+            "location": "Jodhpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Pandey",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshika Shruti Prasad",
+            "about": null,
+            "location": "Jalandhar"
+        },
+        {
+            "profile_link": "",
+            "name": "SANDEEP MADHAV NATH",
+            "about": "Software Engineer 3 at UST",
+            "location": "Kerala, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rachana Bhimavarapu",
+            "about": null,
+            "location": "Frisco, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepanshu Sharma",
+            "about": "looking for a job in Machine Learning | IoT | Docker | Cloud computing | RedHat Linux | Ansible",
+            "location": "Greater London"
+        },
+        {
+            "profile_link": "",
+            "name": "Faraz Shaikh",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Manoj Kumawat",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Er. Arun Singh",
+            "about": null,
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Lakshmi Pandey",
+            "about": null,
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Rashmi lakhanpal",
+            "about": "SEO Executive",
+            "location": "Chandigarh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Medha Sagar",
+            "about": null,
+            "location": "Greater Seattle Area"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: CodeClub Graduated with Honors with a Major in computer Science from Indian Institute of Technology(IIT) Kharagpur.",
+            "description_html": "Activities and Societies: CodeClub",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Army Public School Ambala",
+            "start_year": "2006",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"MA10001;MA10002\",\"title\":\"Advanced Engineering Mathematics\"},{\"subtitle\":\"CS21003, CS29003, CS31005\",\"title\":\"Algorithms\"},{\"subtitle\":\"CS60045\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"CS31003, CS39003\",\"title\":\"Compilers\"},{\"subtitle\":\"CS60064\",\"title\":\"Computational Geometry\"},{\"subtitle\":\"CS31006, CS39006\",\"title\":\"Computer Networks And Lab\"},{\"subtitle\":\"CS31007, CS39001\",\"title\":\"Computer Organisation and Architecture\"},{\"subtitle\":\"CS60065, MA61027\",\"title\":\"Cryptography And Network Security\"},{\"subtitle\":\"CS43002\",\"title\":\"Database Management Systems\"},{\"subtitle\":\"CS21001\",\"title\":\"Discrete Structures\"},{\"subtitle\":\"CS60002\",\"title\":\"Distributed Systems\"},{\"subtitle\":\"CS21004\",\"title\":\"Formal Language And Automata Theory\"},{\"subtitle\":\"CS60092\",\"title\":\"Information Retrieval\"},{\"subtitle\":\"CS60050\",\"title\":\"Machine Learning\"},{\"subtitle\":\"CS60075\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"CS39006, CS31006\",\"title\":\"Networks\"},{\"subtitle\":\"CS30002, CS39002\",\"title\":\"Operating Systems\"},{\"subtitle\":\"MA20104\",\"title\":\"PROBABILITY AND STATISTICS\"},{\"subtitle\":\"CS40032\",\"title\":\"Principles Of Programming Language\"},{\"subtitle\":\"CS11001, CS19101\",\"title\":\"Programming and Data Structure\"},{\"subtitle\":\"CS20006, CS29006\",\"title\":\"SOFTWARE ENGINEERING\"},{\"subtitle\":\"CS21002, CS29002\",\"title\":\"SWITCHING CIRCUITS AND LOGIC DESIGN\"},{\"subtitle\":\"CS60017\",\"title\":\"Social Computing\"},{\"subtitle\":\"CS41001\",\"title\":\"Theory of Computation\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jun 2017 - Apr 2019 · 1 year 11 months",
+            "duration_short": "1 year 11 months",
+            "end_date": "Apr 2019",
+            "info": "Worked with a NSS team that managed 4 schools and a village near Campus.",
+            "start_date": "Jun 2017",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 787.0,
+    "connections": 500.0,
+    "current_company_company_id": "eightfoldai",
+    "current_company_name": "Eightfold",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"LeetCode Solutions\",\"start_date\":\"Jul 2017\"},{\"title\":\"Computer Networks lab\",\"start_date\":\"2020\",\"end_date\":\"2021\"},{\"title\":\"Machine Learning Lab\",\"start_date\":\"2020\",\"end_date\":\"2021\"},{\"title\":\"Operating Systems Lab\",\"start_date\":\"2020\",\"end_date\":\"2021\"},{\"title\":\"Algorithms Lab\",\"start_date\":\"2020\",\"end_date\":\"2020\"},{\"title\":\"Compilers Lab\",\"start_date\":\"2020\",\"end_date\":\"2020\"},{\"title\":\"Food-mania\",\"start_date\":\"Feb 2019\",\"end_date\":\"Mar 2019\",\"description\":\"A project under Dr. Debasis Samanta as a part of software Engineering Lab . This is a web-app made using Django framework which allows users to order food from nearby Restaurants.\"},{\"title\":\"Scrink(Linked-in profile scraper)\",\"start_date\":\"Feb 2019\",\"end_date\":\"Mar 2019\",\"description\":\"A python script using Selenium to extract Profile data info from Linkedin using only e-mails. Currently limited to 50 people a day due to API restriction of Linkedin.\"},{\"title\":\"Anime-Downloader\",\"description\":\"Web Crawler + Web-scraping project made with Selenium, BeautifulSoup and Gecko-driver. It searches for the anime entered by user on kissanime and allows user to download it in required resolution. For more details visit git link.\"},{\"title\":\"BRK-OUT\",\"description\":\"Contributor in 2-D physics, collision based game made with Py-game in KWOC-2018. Game consists of a striker and ball, the objective is to break the surrounding bricks with the ball. The striker is controlled by the player and is used to move the ball. For more information, see git link.\"}]",
+    "organizations": [
+        {
+            "title": "Griomoire of Code",
+            "membership_type": "Member",
+            "start_date": "May 2017",
+            "end_date": "Jul 2021",
+            "description": "- An organization that increases the awareness of various opportunities within the programming community while helping to promote the coding culture within the campus.",
+            "membership_number": null
+        },
+        {
+            "title": "National Service Scheme",
+            "membership_type": "Volunteer",
+            "start_date": "May 2017",
+            "end_date": "Jul 2019",
+            "description": "Managed \"Hindi\" school along with other team members and taught children with very limited access to school basic mathematics and English.",
+            "membership_number": null
+        }
+    ],
+    "location": "Bengaluru",
+    "linkedin_id": "akash-tiwari-iitkgp",
+    "activity": [
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "🎉 𝟮𝟬𝟮𝟰 𝗪𝗿𝗮𝗽𝗽𝗲𝗱 🎉 2024 has been a year filled with meaningful milestones, steady progress, and exciting opportunities. While I rarely…",
+            "img": null,
+            "id": "7277211846909050880"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "Hello connections, After a rewarding year and a half with AppDynamics, I'm excited to share that I’ve joined Confluent as a Software Engineer…",
+            "img": null,
+            "id": "7272213521721896960"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "Ruchi Tiwari joined KredX in 2022 as Product Design Manager, bringing her expertise in crafting purposeful, user-centric designs. With her approach…",
+            "img": null,
+            "id": "7264253564343001089"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "Someone leaked their Zomato's application. Ps: Don't miss the last line 😂",
+            "img": "",
+            "id": "7265721254060433408"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "Ultimate Frisbee is my daily dose of health and happiness. What's yours? #EmployeeHealthMatters",
+            "img": "",
+            "id": "9"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "Nowadays engineers are too sharp, they already know so many things even before there career starts, that’s amazing to see. If i compared to me when…",
+            "img": "",
+            "id": "7261720634970251264"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "Can you guess what this is? 🤔 This is a detailed promotion case that I had prepared last cycle for one of my reportees. At Swiggy, promotions…",
+            "img": "",
+            "id": "7259099787520598017"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "Promo to pip in 3 months at Amazon ------- I want to share my recent experience at Amazon, which has been nothing short of a nightmare. I have been…",
+            "img": "",
+            "id": "3"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "𝐓𝐡𝐞 𝐝𝐢𝐟𝐟𝐞𝐫𝐞𝐧𝐜𝐞 𝐛𝐞𝐭𝐰𝐞𝐞𝐧 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐠𝐨𝐨𝐝 𝐚𝐧𝐝 𝐬𝐨𝐦𝐞𝐭𝐡𝐢𝐧𝐠 𝐠𝐫𝐞𝐚𝐭 𝐢𝐬 𝐚𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐭𝐨…",
+            "img": "",
+            "id": "7255052414041387008"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "I had a great opportunity to meet Alumni from my Alma Mater. It's always inspirational to meet these folks working in such high-impact roles and…",
+            "img": "",
+            "id": "7256838431048192002"
+        },
+        {
+            "interaction": "Liked by Akash Tiwari",
+            "link": "",
+            "title": "Ye konsa AI model aa gya hai market mein, jo itna accurate result produce krr rha hai? 😯 Koi mujhe iski link dega? Mujhe bhi Global rank 1 laani…",
+            "img": "",
+            "id": "7256156029556514816"
+        }
+    ],
+    "linkedin_num_id": 664994740.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

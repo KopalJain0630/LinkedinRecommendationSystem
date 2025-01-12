@@ -1,0 +1,60 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Rajiv Gandhi Prodyogiki Vishwavidyalaya",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "()",
+            "start_year": "2017-07",
+            "end_year": "2018-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "()",
+            "start_year": "2015-07",
+            "end_year": "2016-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2022See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Builders Online Series"
+        },
+        {
+            "meta": "Issued Jun 2022Credential ID UC-190fcf03-6020-4efb-97d4-ab75b63f6396See credential",
+            "subtitle": "Udemy",
+            "title": "Bootsrap 4"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Coursera",
+            "title": "HTML5 Application Development Fundamentals"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 3Q9 Q3S 3VESee credential",
+            "subtitle": "Google Digital Garage ",
+            "title": "Digital Marketing with Programming Insights"
+        }
+    ],
+    "current_company_name": "VNMT Solutions - NetSuite Partner",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

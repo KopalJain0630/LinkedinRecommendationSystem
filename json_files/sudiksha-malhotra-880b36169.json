@@ -1,0 +1,425 @@
+{
+    "id": "sudiksha-malhotra-880b36169",
+    "name": "Sudiksha Malhotra",
+    "city": "Irvine, California, United States",
+    "country_code": "US",
+    "position": "SDE @ PDS Health | CS Grad at UCI | Ex- Deutsche Bank, American Express",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "PDS Health",
+        "company_id": "pdshlth",
+        "title": "SDE @ PDS Health | CS Grad at UCI | Ex- Deutsche Bank, American Express"
+    },
+    "experience": [
+        {
+            "title": "PDS Health",
+            "location": "Irvine, California, United States",
+            "description_html": null,
+            "duration": "7 months",
+            "positions": [
+                {
+                    "subtitle": "PDS Health",
+                    "meta": "Sep 2024 - Present 4 months",
+                    "description": "Working with the Framework engineering team",
+                    "duration": "Sep 2024 - Present 4 months",
+                    "start_date": "Sep 2024",
+                    "end_date": "Present",
+                    "duration_short": "4 months",
+                    "title": "Software Engineer",
+                    "description_html": "Working with the Framework engineering team <!---->"
+                },
+                {
+                    "subtitle": "Pacific Dental Services",
+                    "meta": "Jun 2024 - Aug 2024 3 months",
+                    "description": "National Innovation Center",
+                    "duration": "Jun 2024 Aug 2024 3 months",
+                    "start_date": "Jun 2024",
+                    "end_date": "Aug 2024",
+                    "duration_short": "3 months",
+                    "title": "Enterprise Application Intern",
+                    "description_html": "National Innovation Center <!---->"
+                }
+            ],
+            "company": "PDS Health",
+            "company_id": "pdshlth",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Graduate Reader",
+            "description": "BIO SCI E134: Microbiomes and Quantitative ResearchContributed to enhancing the learning experience for over 50 students.Conducted bi-weekly meetings with the instructor to discuss assignments, course content, and ensure a consistent and comprehensive learning environment.Graded assignments, quizzes, and exams, providing constructive feedback on how to leverage statistical modeling for research. Helped students understand complex biological data, fostering their ability to conduct innovative and data-driven research.",
+            "description_html": "BIO SCI E134: Microbiomes and Quantitative ResearchContributed to enhancing the learning experience for over 50 students.Conducted bi-weekly meetings with the instructor to discuss assignments, course content, and ensure a consistent and comprehensive learning environment.Graded assignments, quizzes, and exams, providing constructive feedback on how to leverage statistical modeling for research. Helped students understand complex biological data, fostering their ability to conduct innovative and data-driven research.",
+            "duration": "Apr 2024 Jun 2024 3 months",
+            "start_date": "Apr 2024",
+            "end_date": "Jun 2024",
+            "duration_short": "3 months",
+            "company": "UC Irvine",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deutsche Bank",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "2 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Deutsche Bank",
+                    "meta": "Aug 2022 - Aug 2023 1 year 1 month",
+                    "description": "Worked as part of the FIM Decommissioning team to migrate data feeds from a legacy Map-Reduce architecture to a Spark-based infrastructure. Successfully implemented mapping logic by thoroughly analyzing business and functional requirements. Evaluated the legacy workflow to develop an improved approach, enhancing code quality and reducing computation time by refactoring the existing archetype for Spark jobs, orchestration, and configuration services.Independently delivered the end-to-end feed solution, including setting up the CI/CD pipeline and conducting regression and integration tests on the final build to ensure maximum accuracy.Acquired hands-on experience with:- Spark for distributed data processing, managing datasets of up to 10TB.- Java for application development, improving performance by 25%.- Big Data Management for handling large-scale data, ensuring efficient data processing.- CI/CD practices for automated deployment, decreasing deployment errors by 20%.- Jenkins for continuous integration, enhancing build efficiency.- uDeploy for continuous delivery, streamlining the release process.- Full Software Development Life Cycle (SDLC) practices, ensuring robust and reliable software solutions.",
+                    "duration": "Aug 2022 Aug 2023 1 year 1 month",
+                    "start_date": "Aug 2022",
+                    "end_date": "Aug 2023",
+                    "duration_short": "1 year 1 month",
+                    "title": "Associate Engineer",
+                    "description_html": "Worked as part of the FIM Decommissioning team to migrate data feeds from a legacy Map-Reduce architecture to a Spark-based infrastructure. Successfully implemented mapping logic by thoroughly analyzing business and functional requirements. Evaluated the legacy workflow to develop an improved approach, enhancing code quality and reducing computation time by refactoring the existing archetype for Spark jobs, orchestration, and configuration services.<br><br><br>Independently delivered the end-to-end feed solution, including setting up the CI/CD pipeline and conducting regression and integration tests on the final build to ensure maximum accuracy.<br><br>Acquired hands-on experience with:<br>- Spark for distributed data processing, managing datasets of up to 10TB.<br>- Java for application development, improving performance by 25%.<br>- Big Data Management for handling large-scale data, ensuring efficient data processing.<br>- CI/CD practices for automated deployment, decreasing deployment errors by 20%.<br>- Jenkins for continuous integration, enhancing build efficiency.<br>- uDeploy for continuous delivery, streamlining the release process.<br>- Full Software Development Life Cycle (SDLC) practices, ensuring robust and reliable software solutions."
+                },
+                {
+                    "subtitle": "Deutsche Bank",
+                    "meta": "Jul 2021 - Aug 2022 1 year 2 months",
+                    "description": "Designed a microservice-based architecture to package incoming feeds/data packets into blocks, reducing data transformation time.Developed a data preprocessor service, centralizing preprocessing tasks and enabling consumers to register via REST endpoints, reducing computation time by 50%.Orchestrated the technical architecture of a Packaging Service and  Prerproccessor Service, including technology stack, data flow, database management, deployment, and REST APIs.Developed 20+ RESTful APIs for logging, regenerating, and approving data packages with metadata across four departments. Implemented OAuth2 authentication and role-based authorization.Created unit and integration test cases, performing testing with Postman.",
+                    "duration": "Jul 2021 Aug 2022 1 year 2 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Aug 2022",
+                    "duration_short": "1 year 2 months",
+                    "title": "Graduate Analyst",
+                    "description_html": "Designed a microservice-based architecture to package incoming feeds/data packets into blocks, reducing data transformation time.<br>Developed a data preprocessor service, centralizing preprocessing tasks and enabling consumers to register via REST endpoints, reducing computation time by 50%.<br>Orchestrated the technical architecture of a Packaging Service and Prerproccessor Service, including technology stack, data flow, database management, deployment, and REST APIs.<br>Developed 20+ RESTful APIs for logging, regenerating, and approving data packages with metadata across four departments. Implemented OAuth2 authentication and role-based authorization.<br>Created unit and integration test cases, performing testing with Postman."
+                }
+            ],
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Analyst Intern",
+            "description": "Designed and implemented an automated module for proactive and reactive data quality monitoring of customer and business demographics data as part of the Customer 360 team in Enterprise Digital Analytics. Leveraged the K-means clustering algorithm to identify feature vectors from raw data, effectively filtering out out-of-pattern records and enhancing data accuracy and consistency.Developed a comprehensive feature extraction process, including data cleaning, normalization, dimensionality reduction, and feature selection, to prepare high-quality input data for clustering.Improved the reliability of demographic data by detecting and removing anomalies through advanced machine learning techniques.Gained extensive hands-on experience with PySpark for large-scale data processing and distributed computing.Implemented CI/CD pipelines, ensuring smooth integration and deployment processes.Conducted in-depth data analysis to derive actionable insights and ensure data quality.Utilized SQL for complex data extraction and manipulation tasks.",
+            "description_html": "Designed and implemented an automated module for proactive and reactive data quality monitoring of customer and business demographics data as part of the Customer 360 team in Enterprise Digital Analytics. Leveraged the K-means clustering algorithm to identify feature vectors from raw data, effectively filtering out out-of-pattern records and enhancing data accuracy and consistency.Developed a comprehensive feature extraction process, including data cleaning, normalization, dimensionality reduction, and feature selection, to prepare high-quality input data for clustering.Improved the reliability of demographic data by detecting and removing anomalies through advanced machine learning techniques.Gained extensive hands-on experience with PySpark for large-scale data processing and distributed computing.Implemented CI/CD pipelines, ensuring smooth integration and deployment processes.Conducted in-depth data analysis to derive actionable insights and ensure data quality.Utilized SQL for complex data extraction and manipulation tasks.",
+            "duration": "Jan 2021 Jun 2021 6 months",
+            "start_date": "Jan 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "6 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Microsoft Student Partner",
+            "description": "Conducted multiple sessions in the university for sophomore students on the basics of Web Development using Node.js including workshops on fundamental concepts of HTML, CSS, Javascript and Bootstrap.",
+            "description_html": "Conducted multiple sessions in the university for sophomore students on the basics of Web Development using Node.js including workshops on fundamental concepts of HTML, CSS, Javascript and Bootstrap. <!---->",
+            "duration": "Jan 2020 Dec 2020 1 year",
+            "start_date": "Jan 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "1 year",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Artificial Intelligence Intern",
+            "description": "Developed a deep learning model to automate sentiment analysis of feedback using Tensorflow and Keras.Classification of word vector using RNN. Successfully achieved 90%accuracy.",
+            "description_html": "Developed a deep learning model to automate sentiment analysis of feedback using Tensorflow and Keras.Classification of word vector using RNN. Successfully achieved 90%accuracy. <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Tata Consultancy Services",
+            "company_id": "tata-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Cisco ThingQbator",
+            "description": "Intern at FabCuts (Cisco ThinkQbator) . Developed an Android application for salon booking system.Primarily worked as a UI designer,developed an algorithm for booking system, customized the Google Maps API.",
+            "description_html": "Intern at FabCuts (Cisco ThinkQbator) . Developed an Android application for salon booking system.Primarily worked as a UI designer,developed an algorithm for booking system, customized the Google Maps API. <!---->",
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "Cisco",
+            "company_id": "cisco",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Amrit Khera",
+            "about": "ML at Nutanix | CS at Georgia Tech | Ex-Microsoft | DTU(DCE)",
+            "location": "San Jose, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Jahnavi Jonnalagadda",
+            "about": "Software Engineer II @ F5 | Former Data Engineer Intern @ AAP | Gold Microsoft Student Ambassador | #vGHC 21 Scholar",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sunny Dhama",
+            "about": "Member of Technical Staff II at Illumio",
+            "location": "Sunnyvale, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishween Kaur",
+            "about": "Software Engineer SMTS at Salesforce",
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Nived S.",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Afroz Chakure",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankita Sharma",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishika Gupta",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sudarshan Sharma",
+            "about": "SDE @Wishlink | Ex-Postman, GeeksforGeeks | Node.js | Django | JS | Python | React.js | ACM-ICPC Regionalist 2019",
+            "location": "Kanpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Mandliya",
+            "about": "React | MERN Stack | Microsoft Student Learn Ambassador | Community Boy |",
+            "location": "Indore"
+        }
+    ],
+    "educations_details": "UC Irvine Donald Bren School of Information and Computer Sciences",
+    "education": [
+        {
+            "title": "UC Irvine Donald Bren School of Information and Computer Sciences",
+            "degree": "Master's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2024",
+            "description": "Coursework: Operating Systems Data Structures Algorithms Machine Learning and Generative Models Graph Theory and Statistical Modelling Artificial Intelligence Advanced Programming Advanced Database Management Systems Internet of Things Project Work: Capstone Writing & Communications Keystone Design Capstone Project",
+            "description_html": "Coursework:Operating SystemsData StructuresAlgorithmsMachine Learning and Generative Models Graph Theory and Statistical Modelling Artificial Intelligence Advanced Programming Advanced Database Management SystemsInternet of ThingsProject Work:Capstone Writing &amp; Communications Keystone DesignCapstone Project <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DL DAV Model School Delhi",
+            "degree": "CBSE",
+            "field": "92",
+            "url": "",
+            "start_year": "2003",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning and Generative Modelling\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " German "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Team HackerRank",
+            "title": "Problem Solving"
+        },
+        {
+            "meta": "Issued May 2020Credential ID Z5A5QXFQTU88See credential",
+            "subtitle": "Coursera",
+            "title": "Image Denoising Using AutoEncoders in Keras and Python"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 6QPLDT4L343QSee credential",
+            "subtitle": "Google Cloud Platform Certified",
+            "title": "Intro to Tensorflow"
+        },
+        {
+            "meta": "Issued May 2020Credential ID JC9B8LTG5Y9LSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Network Visualizer Web App with Python"
+        },
+        {
+            "meta": "Issued Oct 2019",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Technical Associate"
+        }
+    ],
+    "recommendations": [
+        "Pratap Singh “I am pleased to write this recommendation for Sudiksha, who worked as an Associate Engineer in Deutsche Bank, India. Sudiksha has an exceptional knowledge in technologies like Java, Big Data, and Spark. During her tenure with our company, Sudiksha consistently demonstrated her strong analytical skills and problem-solving abilities. She actively contributed to critical projects after learning and utilizing her deep understanding of Java and Spark. She is an excellent team player and a pleasure to work with. She is always willing to share her knowledge and lend a helping hand to her colleagues. Her dedication and commitment to delivering high-quality work are truly outstanding. I highly recommend Sudiksha for any role that requires expertise in Java, Big Data, and Spark. She is a valuable asset to any organization and will undoubtedly make a significant impact wherever she goes. Best regards, Pratap Singh”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Aug 2018 - Jun 2019 · 11 months",
+            "duration_short": "11 months",
+            "end_date": "Jun 2019",
+            "info": "Worked as a volunteer to assist TNP team, IGDTUW in conducting placement drive for FTE and interns smoothly.",
+            "start_date": "Aug 2018",
+            "subtitle": "Training and Placement Cell IGDTUW",
+            "title": "Sophomore Volunteer"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jul 2019 - Present · 5 years 6 months",
+            "duration_short": "5 years 6 months",
+            "end_date": "Present",
+            "info": "Worked as a cordinator with WTM to encourage young women coders to explore the potential career opportunities in field of technology.",
+            "start_date": "Jul 2019",
+            "subtitle": "Women Techmakers Hyderabad",
+            "title": "Community Member"
+        },
+        {
+            "cause": "Animal Welfare",
+            "duration": "Jul 2020 - Present · 4 years 6 months",
+            "duration_short": "4 years 6 months",
+            "end_date": "Present",
+            "info": "Participated in several initiatives organised by the team for animal welfare. Organised pet adoption drives and deviced a solution for providing shelter to stray animals.",
+            "start_date": "Jul 2020",
+            "subtitle": "WWF",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 4419.0,
+    "connections": 500.0,
+    "current_company_company_id": "pdshlth",
+    "current_company_name": "PDS Health",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"TripTonic\",\"start_date\":\"Jan 2023\",\"description\":\"Developed a smart travel planning app using React, TypeScript, Node.js, MongoDB, and OpenAI for prompt engineering. The app allowed users to create personalized trip itineraries by analyzing inputs for details like locations, dates, and activities. Generated comprehensive itineraries with suggested attractions and transportation, allowing users to modify, save, and share their plans, and receive real-time updates via Firebase Cloud Messaging. The app featured secure authentication with OAuth2 and Google Sign-In, integrated APIs like Google Maps, hosted on AWS, ensuring a reliable and enjoyable planning experience.\"}]",
+    "organizations": null,
+    "location": "Irvine",
+    "linkedin_id": "sudiksha-malhotra-880b36169",
+    "activity": [
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "Hello connections! I am thrilled to announce that I have started a new position as a Software Development Engineer at Amazon Web Services…",
+            "img": "",
+            "id": "7278456656026316800"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "🚨 Calling all students! ASML released its Product Management Internship for Summer 2025 Here's what you need to know: ☁️ Located in San Diego, CA…",
+            "img": "",
+            "id": "7277043863075074049"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "After an incredible 15-year journey at Amazon, the time has come to say goodbye. These years have been defined by extraordinary relationships…",
+            "img": "",
+            "id": "7272668716629127168"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "After lots of hard work and dedication, I’m excited to share that I’ve earned my Master of Data Science from UC Irvine with a 4.0 GPA! I’m grateful…",
+            "img": "",
+            "id": "7275204949523812353"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "🌟 Project Milestone Achieved! 🌟 I'm thrilled to share the successful completion of my Cypress end-to-end testing project with full CI/CD pipeline…",
+            "img": "",
+            "id": "7271673652100673536"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "I am truly delighted and honored to share that I have once again received the Excellence Award from the RFT & EDS Tech Team at Deutsche Bank…",
+            "img": "",
+            "id": "7269007228446154754"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "ChatGPT just asked me a riddle, and then answered the riddle itself.... USING MY OWN VOICE. Then it straight up denied doing so. Why? And how?? The…",
+            "img": "",
+            "id": "7264813051462246400"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "Pretty impressive stuff. Turn the volume up!!",
+            "img": "",
+            "id": "7262272105864482818"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "Hello 𝗖𝗔𝗧 𝗔𝘀𝗽𝗶𝗿𝗮𝗻𝘁𝘀 😃 😃 , This is crucial time for all of you and being on that side just a year before, I know how you might be…",
+            "img": "",
+            "id": "7264733199228936193"
+        },
+        {
+            "interaction": "Liked by Sudiksha Malhotra",
+            "link": "",
+            "title": "Thrilled to announce that it’s been a month since I joined Meta, and it’s been incredible so far! A huge thank you to my friends and family for…",
+            "img": "",
+            "id": "7265766487569625088"
+        }
+    ],
+    "linkedin_num_id": 674657376.0,
+    "honors_and_awards": [
+        {
+            "title": "Green Blazer Holder",
+            "publication": "DL DAV Model School",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": "Awarded to students for securing 10 cgpa for 7 consecutive years."
+        },
+        {
+            "title": "National Financial Literacy Test Scholar",
+            "publication": "Govt of India",
+            "date": "2015-10-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

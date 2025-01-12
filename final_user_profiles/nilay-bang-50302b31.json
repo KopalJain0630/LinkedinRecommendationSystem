@@ -1,0 +1,44 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2016",
+            "subtitle": "CFA Institute",
+            "title": "CFA L3 Pass"
+        }
+    ],
+    "current_company_name": "J.P. Morgan",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Spot Award",
+            "publication": "-",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": "Presented with the Spot Award for outstanding performance and lasting contributions in Q3 2014."
+        }
+    ]
+}

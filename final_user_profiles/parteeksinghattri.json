@@ -1,0 +1,84 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Punjabi University",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2002",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021",
+            "subtitle": "edX",
+            "title": "edX Verified Certificate for Distributed Machine Learning with Apache Spark"
+        },
+        {
+            "meta": "Issued Feb 2021",
+            "subtitle": "HarvardX",
+            "title": "Data Analysis for Life Sciences"
+        },
+        {
+            "meta": "Issued Jul 2020",
+            "subtitle": "Coursera",
+            "title": "Algorithms Specialization"
+        },
+        {
+            "meta": "Issued Dec 2019",
+            "subtitle": "Udacity",
+            "title": "Udacity- Intel AI Edge Scholarship"
+        },
+        {
+            "meta": "Issued Feb 2018",
+            "subtitle": "Udacity India",
+            "title": "Udacity-Google Android Nanodegree(​was selected through Google Scholarship Program)​"
+        },
+        {
+            "meta": "Credential ID 3210794-247See credential",
+            "subtitle": "Aspiring Minds",
+            "title": "Business Consultant"
+        },
+        {
+            "meta": "Credential ID 3210794-211See credential",
+            "subtitle": "Aspiring Minds",
+            "title": "Data Processing Specialist"
+        },
+        {
+            "meta": "Credential ID 3210794-166See credential",
+            "subtitle": "Aspiring Minds",
+            "title": "Software Development Trainee"
+        }
+    ],
+    "current_company_name": "Quantzig",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Participated In District Level Football Tournament",
+            "publication": "-",
+            "date": "2018-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Won Gold Medal in Science Olympiad & Silver Medal in Chemistry Olympiad(11th Standard)",
+            "publication": "-",
+            "date": null,
+            "description": null
+        }
+    ]
+}

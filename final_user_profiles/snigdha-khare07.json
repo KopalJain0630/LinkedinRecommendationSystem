@@ -1,0 +1,78 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Birla Institute of Technology and Science, Pilani",
+            "url": "",
+            "start_year": "2018-08",
+            "end_year": "2022-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2003",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Business analysis and valuation\"},{\"subtitle\":\"-\",\"title\":\"Derivatives and Risk Management\"},{\"subtitle\":\"-\",\"title\":\"Financial Risk analysis and management\"},{\"subtitle\":\"-\",\"title\":\"Fundamentals of Finance and Accounting\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2024Credential ID 909094918",
+            "subtitle": "Revolearn",
+            "title": "Skill Certification: Problem Solving - Basic"
+        },
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "NextLeap",
+            "title": "Top 100 in APM Fellowship"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Investment Risk Management"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Python for Finance- Investment Fundamentals and Data Analytics"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Supply Chain Management Specialisation"
+        }
+    ],
+    "current_company_name": "Revolut",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Summer Case Study Challenge 2020",
+            "publication": "BITS Hyderabad Consultancy Club",
+            "date": "2020-05-01T00:00:00.000Z",
+            "description": "Won the Summer case study challenge with my teammate, Subhash Gowani. We did analysis for a low cost airline and made strategy for resuming air travel post the ease in lockdown. We built effective travel and marketing strategy for them. Along with this, we also suggested ways to regain consumer confidence on travel and travel safety."
+        }
+    ]
+}

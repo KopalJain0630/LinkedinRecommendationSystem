@@ -1,0 +1,85 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": "SDE @Intract | Ex Spyne, ISRO interned | NIT Jalandhar",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "description_html": null,
+            "duration": "Mar 2024 - Present 10 months",
+            "start_date": "Mar 2024",
+            "end_date": "Present",
+            "duration_short": "10 months",
+            "company": "Intract",
+            "company_id": "intract-io",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jun 2022 Mar 2024 1 year 10 months",
+            "start_date": "Jun 2022",
+            "end_date": "Mar 2024",
+            "duration_short": "1 year 10 months",
+            "company": "Spyne",
+            "company_id": "spyne-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineering Intern",
+            "description": "Modeled object detection and image segmentation algorithm for remote sensors.Analysed Deep Learning models and implemented Mask-RCNN and MPCM classifier for image classification",
+            "description_html": "Modeled object detection and image segmentation algorithm for remote sensors.Analysed Deep Learning models and implemented Mask-RCNN and MPCM classifier for image classification <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "ISRO - Indian Space Research Organization",
+            "company_id": "officialisro",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Management Intern",
+            "location": "Jalandhar, Punjab, India",
+            "description": "• Focused on building community of students and their upliftment• Worked towards expansion and development of the mentoring team across several colleges in India• Pitched at a number of corporate fundraisers during college events",
+            "description_html": "• Focused on building community of students and their upliftment• Worked towards expansion and development of the mentoring team across several colleges in India• Pitched at a number of corporate fundraisers during college events <!---->",
+            "duration": "Feb 2019 Jul 2019 6 months",
+            "start_date": "Feb 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "6 months",
+            "company": "FreeCo Education Private Limited",
+            "company_id": "freeco-education-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Dr. B R Ambedkar National Institute of Technology, Jalandhar ( PUNJAB)",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Instrumentation and Control",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Major-Instrumentation and Control Engineering Minor-Computer Science Engineering",
+            "description_html": "Major-Instrumentation and Control EngineeringMinor-Computer Science Engineering <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"C-Language\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"DBMS\"},{\"subtitle\":\"-\",\"title\":\"Python Programming Language\"}]",
+    "certifications": null,
+    "current_company_name": "Intract",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Object Detection\",\"start_date\":\"May 2021\",\"end_date\":\"Jul 2021\",\"description\":\"Developed airplane and crop detection model using Mask-RCNN and MPCM classifier deep learning algorithms\"},{\"title\":\"GoShop E-commerce Website\",\"start_date\":\"Jan 2021\",\"end_date\":\"Mar 2021\",\"description\":\"Architected and built the e-commerce portal incorporating features like Product cataloging ,order tracking and Payment gateway integration\"},{\"title\":\"Game (Guess the number,WAR)\",\"start_date\":\"Dec 2020\",\"end_date\":\"Dec 2020\",\"description\":\"Skills used:-OOP Language-Python\"},{\"title\":\"Game (Tic Tac Toe ,Connect four )\",\"start_date\":\"Oct 2020\",\"end_date\":\"Oct 2020\",\"description\":\"Skill used:HTML 5CSS 3JAVASCRIPTBOOTSTRAP\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Table Tennis Game",
+            "publication": "-",
+            "date": null,
+            "description": "I was district champion in this game and then on state level our team got chance to compete on National level .Now, I am the Captain of NITJ's Table Tennis Team."
+        }
+    ]
+}

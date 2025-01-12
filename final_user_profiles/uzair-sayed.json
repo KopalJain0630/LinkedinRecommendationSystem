@@ -1,0 +1,150 @@
+{
+    "city": "India",
+    "position": "Wipro Consumer Care | IIM Ahmedabad PGP'24 | IIT Bombay’22",
+    "experience": [
+        {
+            "title": "Summer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "NPD - Alternative packaging formats and their pricing, Concept Testing, GTM strategy",
+            "description_html": "NPD - Alternative packaging formats and their pricing, Concept Testing, GTM strategy <!---->",
+            "duration": "Apr 2023 Jul 2023 4 months",
+            "start_date": "Apr 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "4 months",
+            "company": "AB InBev India",
+            "company_id": "ab-inbev-ind",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Banking Analyst Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "Retail banking and Securities- PFICs",
+            "description_html": "Retail banking and Securities- PFICs <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "McKinsey & Company",
+            "company_id": "mckinsey",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst Intern",
+            "description": "Oil and Energy Sector",
+            "description_html": "Oil and Energy Sector <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Aggrego A Joulon Company",
+            "company_id": "joulon-lcam",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Team Member",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "Sep 2018 May 2019 9 months",
+            "start_date": "Sep 2018",
+            "end_date": "May 2019",
+            "duration_short": "9 months",
+            "company": "Unmesh Mashruwala Innovation Cell, IIT Bombay",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Algorithmic High Frequency Trading Intern",
+            "description": "Alpha Researcher and Data Scientist",
+            "description_html": "Alpha Researcher and Data Scientist <!---->",
+            "duration": "Nov 2018 Dec 2018 2 months",
+            "start_date": "Nov 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "2 months",
+            "company": "CLT Research LLP",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Teaching Assistant",
+            "location": "Mumbai Area, India",
+            "description": "Conducted tutorial sessions for a batch of 50+ first year undergraduate students on an introductory course to Quantum Mechanics",
+            "description_html": "Conducted tutorial sessions for a batch of 50+ first year undergraduate students on an introductory course to Quantum Mechanics <!---->",
+            "duration": "Aug 2018 Dec 2018 5 months",
+            "start_date": "Aug 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "degree": "Dual Degree - BTech + MTech",
+            "field": "Electrical and Electronics Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": "Activities and Societies: Unmesh Mashruwala Innovation Cell, Electronics and Robotics Club Teaching Assistant — Department of Physics, IIT Bombay [Aug’ 18-Nov’18] Mentor — EnB Buzz, Entrepreneurship and Business Club, IIT Bombay [Aug’ 18] Tech Member — Unmesh Mashruwala Innovation Cell, IIT Bombay [Sept’ 18- May’19] An inter-disciplinary technical team of students from all years of study focused on participating in various national and international level competitions. Member — Electronics and Robotics Club, IIT Bombay [Apr’ 18-Apr’19]",
+            "description_html": "Activities and Societies: Unmesh Mashruwala Innovation Cell, Electronics and Robotics Club",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Aalto University",
+            "degree": "Semester Exchange",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2020",
+            "description": "Activities and Societies: Active Member — Erasmus Student Network, Aalto University, Finland • Awarded Erasmus+ Global Mobility Scholarship by EU for semester exchange to Aalto University, Finland for Spring 2020 • Invited as a delegate to the Model World Trade Organisation 2020 Conference in St. Gallen, Switzerland, the biggest simulation of the WTO negotiations within 6 committees on the topic of ”Environmental Sustainability and the WTO” • Assigned as one of 4 group leaders responsible for the safe travel of around 100 international students under ESN Lapland Trip. •… Show more",
+            "description_html": "Activities and Societies: Active Member — Erasmus Student Network, Aalto University, Finland",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DPS R.K. Puram",
+            "degree": "Intemediate",
+            "field": "CBSE",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": "Grades XI and XII Awarded Gold Medal for Academic Excellence",
+            "description_html": "Grades XI and XIIAwarded Gold Medal for Academic Excellence <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "The Shri Ram School",
+            "degree": "Matriculation",
+            "field": "CICSE",
+            "url": "",
+            "start_year": "2003",
+            "end_year": "2014",
+            "description": "Until grade X Recipient of Lateral Thinking Award Pursued Spanish as part of third language curriculum for 3 consecutive years",
+            "description_html": "Until grade XRecipient of Lateral Thinking AwardPursued Spanish as part of third language curriculum for 3 consecutive years <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2023Expires Dec 2024Credential ID 89853121See credential",
+            "subtitle": "Skillshop",
+            "title": "Google Analytics Certification"
+        }
+    ],
+    "current_company_name": "AB InBev India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

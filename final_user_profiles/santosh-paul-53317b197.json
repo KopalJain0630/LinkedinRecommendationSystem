@@ -1,0 +1,409 @@
+{
+    "id": "santosh-paul-53317b197",
+    "name": "Santosh paul",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "DevOps Engineer | AWS | Linux | Shell Scripting | GIT | Jenkins | Docker  | Terraform | Prometheus & Grafana | Automation\u00f0\u0178\u0161\u20ac | Crafting Digital Experiences @ Hitachi Digital Service \u00f0\u0178\u2019\u00bb|Ex-Teaching Assistant @Coding Ninjas",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Hitachi Digital Services",
+        "company_id": "hitachi-digital-services",
+        "title": "DevOps Engineer | AWS | Linux | Shell Scripting | GIT | Jenkins | Docker  | Terraform | Prometheus & Grafana | Automation\u00f0\u0178\u0161\u20ac | Crafting Digital Experiences @ Hitachi Digital Service \u00f0\u0178\u2019\u00bb|Ex-Teaching Assistant @Coding Ninjas"
+    },
+    "experience": [
+        {
+            "title": "Hitachi Digital Services",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "1 year 2 months",
+            "positions": [
+                {
+                    "subtitle": "Hitachi Digital Services",
+                    "meta": "Jan 2024 - Present 1 year",
+                    "description": "- Developed and implemented a fully automated CI/CD pipeline for a complexmicroservices application deployed on AWS.- Reduced deployment time by 50% by automating the CI/CD pipeline using AWSCodePipeline, CodeBuild, CodeDeploy, and ECS.- Leveraged Docker and Kubernetes to containerize and orchestrate microservices,improving scalability and reliability.- Implemented a blue-green deployment strategy to minimize downtime duringdeployments, ensuring seamless user experience.- Automated infrastructure provisioning and configuration management withTerraform and Ansible, reducing manual effort and human error.- Implemented automatic testing using tools like JUnit and Selenium to ensurecode quality and prevent regressions.- Created custom Jenkins pipelines to orchestrate complex build, test, anddeployment processes.- Implemented CI/CD pipeline monitoring using AWS CloudWatch to proactivelyidentify and resolve issues.",
+                    "duration": "Jan 2024 - Present 1 year",
+                    "start_date": "Jan 2024",
+                    "end_date": "Present",
+                    "duration_short": "1 year",
+                    "title": "Software Engineer",
+                    "description_html": "- Developed and implemented a fully automated CI/CD pipeline for a complex<br>microservices application deployed on AWS.<br>- Reduced deployment time by 50% by automating the CI/CD pipeline using AWS<br>CodePipeline, CodeBuild, CodeDeploy, and ECS.<br>- Leveraged Docker and Kubernetes to containerize and orchestrate microservices,<br>improving scalability and reliability.<br>- Implemented a blue-green deployment strategy to minimize downtime during<br>deployments, ensuring seamless user experience.<br>- Automated infrastructure provisioning and configuration management with<br>Terraform and Ansible, reducing manual effort and human error.<br>- Implemented automatic testing using tools like JUnit and Selenium to ensure<br>code quality and prevent regressions.<br>- Created custom Jenkins pipelines to orchestrate complex build, test, and<br>deployment processes.<br>- Implemented CI/CD pipeline monitoring using AWS CloudWatch to proactively<br>identify and resolve issues."
+                },
+                {
+                    "subtitle": "Hitachi Digital Services",
+                    "meta": "Nov 2023 - Present 1 year 2 months",
+                    "duration": "Nov 2023 - Present 1 year 2 months",
+                    "start_date": "Nov 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 2 months",
+                    "title": "Software Associate",
+                    "description_html": null
+                }
+            ],
+            "company": "Hitachi Digital Services",
+            "company_id": "hitachi-digital-services",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Associate Cloud IAAS(Infrastructure as a Service)",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Oct 2022 Oct 2023 1 year 1 month",
+            "start_date": "Oct 2022",
+            "end_date": "Oct 2023",
+            "duration_short": "1 year 1 month",
+            "company": "Hitachi Vantara",
+            "company_id": "hitachi-vantara",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Programming Analyst",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "Mar 2022 Sep 2022 7 months",
+            "start_date": "Mar 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "7 months",
+            "company": "Cognizant",
+            "company_id": "cognizant",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full-stack Developer Intern",
+            "description_html": null,
+            "duration": "Dec 2021 Sep 2022 10 months",
+            "start_date": "Dec 2021",
+            "end_date": "Sep 2022",
+            "duration_short": "10 months",
+            "company": "Coding Ninjas",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "sagarika sharma",
+            "about": "Student",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Salman Mustafa",
+            "about": "--",
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Shankar A",
+            "about": "Recruiter",
+            "location": "Houston, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "D S",
+            "about": "Data Analysis I Data Visualization I R Programming I Python Programming I Tableau Software I SQL I Decision Making I Statistical Analysis I Metadata I Power BI I Machine Learning I Data Science I Python",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Anonymous A1",
+            "about": "Anonymous",
+            "location": "Greater Indore Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Yadav Lalitkumar Rajkumar",
+            "about": "|| CIS Analyst | Lakeside-Systrack | Systrack Administrator | EUC | Remote Desktop Engineer L3 || at Capgemini India #CapgeminiIndia",
+            "location": "Navi Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Jain",
+            "about": null,
+            "location": "West Palm Beach, FL"
+        },
+        {
+            "profile_link": "",
+            "name": "Tulasi Bhaskar Yerra",
+            "about": "Technology Analyst - Oracle PL/SQL | Oracle EBS | MS Power BI | MS Azure | Python",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Diksha Darjee",
+            "about": "DIKSHA DARJEE : FRESHER Extreamly understanding Extreamly flexible Miss India Subcontinent 2017 (1st runner up)",
+            "location": "Lava"
+        },
+        {
+            "profile_link": "",
+            "name": "Gnanasekaran c",
+            "about": "A diligent and enthusiastic aeronautical engineer. Actively seeking a challenging opportunity in Aerospace technical writing/illustration",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Kumar Vaishnav",
+            "about": "B. Tech. Aeronautical Engineering",
+            "location": "Rajasthan, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Bhanarkar",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohd Moin Khan",
+            "about": "M.Tech Robotics & Autonomous Systems | Aeromodelling Enthusiasts | IoT | Drone & RC Aircraft Pilot",
+            "location": "Alwar"
+        },
+        {
+            "profile_link": "",
+            "name": "Ujjal Das",
+            "about": ".",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajmal Khan",
+            "about": "Airports Authority of India",
+            "location": "Mysuru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manasa Sandam",
+            "about": "Java Developer at Tata Consultancy Services",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "pujan saha",
+            "about": "Bachelor of Business Administration - BBA at Alliance University",
+            "location": "Karnataka, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sowmiya M",
+            "about": "Aeronautical engineer",
+            "location": "Tamil Nadu, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansimran kaur",
+            "about": "Travel and tourism",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Kumar",
+            "about": "Student at International Management Institute, Kolkata",
+            "location": "Kolkata"
+        }
+    ],
+    "educations_details": "Haldia Institute of Technology",
+    "education": [
+        {
+            "title": "Haldia Institute of Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jun 2024Credential ID e89260e091a243019a9e86328d802331See credential",
+            "subtitle": "IBM SkillsBuild",
+            "title": "Python 101 for Data Science"
+        },
+        {
+            "meta": "Issued Nov 2023Credential ID 08fb9d7feeb148998c5063835ed11baeSee credential",
+            "subtitle": "IBM",
+            "title": "Docker Essentials: A Developer Introduction (CO0101EN, provided by IBM)"
+        },
+        {
+            "meta": "Issued Nov 2023Credential ID 5fdf92a24cc548ceb2781c23f258cf21See credential",
+            "subtitle": "IBM",
+            "title": "Introduction to Cloud (CC0101EN, provided by IBM)"
+        },
+        {
+            "meta": "Issued Apr 2022Credential ID certificate.codingninjas.com/verify/23c5ac77ed332fe2See credential",
+            "subtitle": "Coding Ninjas",
+            "title": "Front End | Full Stack Web Development"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 675.0,
+    "connections": 500.0,
+    "current_company_company_id": "hitachi-digital-services",
+    "current_company_name": "Hitachi Digital Services",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "santosh-paul-53317b197",
+    "activity": [
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "How DevOps Engineers can learn from OpenSource ? Very few people know this, OpenSource is a wealth of knowledge for DevOps Engineers. OpenSource\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7268268544587390976"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "\u00f0\u0178\u0152\u0178 Exciting Feature Development in ServiceNow! \u00f0\u0178\u0152\u0178 I recently worked on an interesting feature in ServiceNow to enhance user experience. When users\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7272304862992695296"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "Now You See It: Transform digital chaos into clarity with the power of Splunk observability integrations for Cisco AppDynamics! \u00f0\u0178\u2018\u20ac",
+            "img": "",
+            "id": "7204449685116227585"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "Observability Zero to Hero series starting 7th of October \u00f0\u0178\u201d\u00a5 We are going to start a new zero to hero series on the channel and this time its on\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7248008956340527105"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "Work smarter, not harder. In today's fast-paced world, it's easy to fall into the trap of thinking that more work equals more success. It's time to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7249024919034810368"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "\u00f0\u0178\u0152\u0178 Celebrating Two Amazing Years at Hitachi Digital Services! \u00f0\u0178\u0152\u0178 As I reflect on the past two years, I'm filled with gratitude for the incredible\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7248282983021862912"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "What an incredible week at #InnoTrans 2024! It was a privilege to join Giuseppe Marino and Yogesh Agrawal on stage to unveil the #HMAX platform\u00e2\u20ac\u201da\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7245133243534950400"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "Free Learning Week\u00f0\u0178\u201d\u00a5 KodeKloud is running a Free week(15th September to 22nd September) on all of their standard courses. You can pick up any\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7241480262423867393"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "Now my posts will reach 100000 people across different parts of the world (Almost 99% of people that I never met before) \u00f0\u0178\u00a4\u0178 As they say, with\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7239307465828265984"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "It's funny that I made this video on OpenShift after working for almost 4 years for the OpenShift Dev Tools at Red Hat. However, its never too late.\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7236769172741873665"
+        },
+        {
+            "interaction": "Shared by Santosh paul",
+            "link": "",
+            "title": "I\u00e2\u20ac\u2122m excited to share a milestone close to my heart\u00e2\u20ac\u201dhaving mentored 109 amazing students through Coding Ninjas! \u00f0\u0178\u017d\u2030 Over the course of mentoring these\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7235335624461803523"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "What is Observability ? Why is it required and How to implement it ? If you are a SRE Engineer, you might be familiar with these quotes - \u00f0\u0178\u203a\u2018\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7234218148760100866"
+        },
+        {
+            "interaction": "Shared by Santosh paul",
+            "link": "",
+            "title": "\u00f0\u0178\u017d\u2030 I\u00e2\u20ac\u2122m excited to share that I have successfully completed the Linux Training Certification from Edureka! \u00f0\u0178\u017d\u201cA big thank you to Edureka for providing\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7234203550891823105"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "In 2024, if you are coding or scripting without using an AI Copilot then you should really ask yourself why ? The Copilot IDE extensions can easily\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Shared by Santosh paul",
+            "link": "",
+            "title": "I\u00e2\u20ac\u2122m thrilled to share that I\u00e2\u20ac\u2122ve just completed the Docker Labs delivered by KodeCloud! \u00f0\u0178\u017d\u2030 This comprehensive course has significantly expanded my\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7233839731002724352"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "The first Hitachi Vantara Data Experience was unforgettable! \u00f0\u0178\u0161\u20ac From #HybridCloud to #GenAI and data protection, we showcased our commitment to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7233125233384140800"
+        },
+        {
+            "interaction": "Liked by Santosh paul",
+            "link": "",
+            "title": "Disruptor of the Year (Excellence) Impactful Creator of the Year Celebrity Creator of the Year Disruptor of the Year (Emerging) Tech Savvy of the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7232023590303358976"
+        },
+        {
+            "interaction": "Shared by Santosh paul",
+            "link": "",
+            "title": "Abhishek Veeramalla important post",
+            "img": "",
+            "id": "7231289298178686977"
+        }
+    ],
+    "linkedin_num_id": 773783607.0,
+    "honors_and_awards": [
+        {
+            "title": "AWS Cloud Practitioner 2022",
+            "publication": "SkillSoft",
+            "date": "2022-10-01T00:00:00.000Z",
+            "description": "I have examined cloud computing offerings and models and investigated the benefits and features of Amazon Web Services. In addition, I have learned about AWS's value proposition, including aspects of agility, elasticity, cost, flexibility, and security.("
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

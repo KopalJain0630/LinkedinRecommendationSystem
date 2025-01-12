@@ -1,0 +1,36 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Kalinga Institute of Industrial Technology, Bhubaneswar",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Medial",
+    "publications": "[{\"title\":\"The Art Parade\",\"subtitle\":\"The Write Order\",\"date\":\"November 3, 2017\",\"description\":\"Second poem published.\"},{\"title\":\"Un-Whispered Wish\",\"subtitle\":\"Inkquills Publishers\",\"date\":\"2017\",\"description\":\"Second short story published.\"},{\"title\":\"Life as it happens\",\"subtitle\":\"Moments Publishers\",\"date\":\"2016\",\"description\":\"Published first poem \\\"What daddy said was almost right\\\".\"},{\"title\":\"The Scribbled Tales\",\"subtitle\":\"Moments Publishers\",\"date\":\"2016\",\"description\":\"Published first short story \\\"Identity\\\" in a national anthology.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Kritarth 2k17",
+            "publication": "KIIT UNIVERSITY",
+            "date": "2017-10-01T00:00:00.000Z",
+            "description": "Won the annual Devil's Advocate competition in Kritarth 2k17"
+        },
+        {
+            "title": "Spectrum Debate 2k16",
+            "publication": "NIFT BHUBANESHWAR",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "Won the NIFT Bhubaneshwar National debate competition."
+        }
+    ]
+}

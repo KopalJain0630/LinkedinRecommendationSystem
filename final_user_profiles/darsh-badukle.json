@@ -1,0 +1,102 @@
+{
+    "city": "India",
+    "position": "Business Analyst at Impact Analytics",
+    "experience": [
+        {
+            "title": "Business Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Impact Analytics",
+            "company_id": "impact-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Aarti Industries Ltd.",
+            "description_html": null,
+            "duration": "1 year 6 months",
+            "positions": [
+                {
+                    "subtitle": "Aarti Industries Ltd.",
+                    "meta": "Aug 2022 - Jan 2023 6 months",
+                    "duration": "Aug 2022 Jan 2023 6 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Jan 2023",
+                    "duration_short": "6 months",
+                    "title": "Data Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Aarti Industries Ltd.",
+                    "meta": "Aug 2021 - Jul 2022 1 year",
+                    "duration": "Aug 2021 Jul 2022 1 year",
+                    "start_date": "Aug 2021",
+                    "end_date": "Jul 2022",
+                    "duration_short": "1 year",
+                    "title": "Graduate Trainee",
+                    "description_html": null
+                }
+            ],
+            "company": "Aarti Industries Ltd.",
+            "company_id": "aarti-industries",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Jamnagar, Gujarat, India",
+            "description_html": null,
+            "duration": "Jul 2020 Jul 2020 1 month",
+            "start_date": "Jul 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "1 month",
+            "company": "Reliance Industries Limited",
+            "company_id": "reliance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Executive",
+            "location": "Varanasi Area, India",
+            "description_html": null,
+            "duration": "Aug 2018 Jan 2019 6 months",
+            "start_date": "Aug 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "6 months",
+            "company": "Kashiyatra, IIT (BHU) Varanasi",
+            "company_id": "kashiyatra-iitbhu",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "NextLeap",
+            "title": "Associate Product Manager Fellowship"
+        }
+    ],
+    "current_company_name": "Impact Analytics",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

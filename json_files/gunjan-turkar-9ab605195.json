@@ -1,0 +1,350 @@
+{
+    "id": "gunjan-turkar-9ab605195",
+    "name": "Gunjan Turkar",
+    "city": "India",
+    "country_code": "IN",
+    "position": "Google | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Google",
+        "company_id": "google",
+        "title": "Google | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary Technology",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Represented the interest of SNVH Hall in the subcommittee which drafts tech events for the institute. Managed budget for various inter-hall and intra-hall tech events for the betterment of student community.",
+            "description_html": "Represented the interest of SNVH Hall in the subcommittee which drafts tech events for the institute. Managed budget for various inter-hall and intra-hall tech events for the betterment of student community. <!---->",
+            "duration": "Aug 2021 Apr 2022 9 months",
+            "start_date": "Aug 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "9 months",
+            "company": "Sister Nivedita Hall of Residence",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "Performed picture to picture translation of image using GAN to convert haze-affected images to clear images.",
+            "description_html": "Performed picture to picture translation of image using GAN to convert haze-affected images to clear images. <!---->",
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Communiqué, IIT Kharagpur",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "1 year 8 months",
+            "positions": [
+                {
+                    "subtitle": "Communiqué, IIT Kharagpur",
+                    "meta": "Aug 2019 - Mar 2021 1 year 8 months",
+                    "duration": "Aug 2019 Mar 2021 1 year 8 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Mar 2021",
+                    "duration_short": "1 year 8 months",
+                    "title": "Secretary",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Communiqué, IIT Kharagpur",
+                    "meta": "Aug 2019 - Mar 2021 1 year 8 months",
+                    "duration": "Aug 2019 Mar 2021 1 year 8 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Mar 2021",
+                    "duration_short": "1 year 8 months",
+                    "title": "Web Developer",
+                    "description_html": null
+                }
+            ],
+            "company": "Communiqué, IIT Kharagpur",
+            "company_id": "communiqu-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Teaching Assistant",
+            "description": "Designed Tasks in Machine Learning and Deep Learning using libraries such as Sklearn, Pandas, and Pytorch.",
+            "description_html": "Designed Tasks in Machine Learning and Deep Learning using libraries such as Sklearn, Pandas, and Pytorch. <!---->",
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "Centre of Excellence in Artificial Intelligence",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Akash Sharma",
+            "about": "Software Developer at Amdocs| Frontend Developer| Typescript| React | Java",
+            "location": "Haora"
+        },
+        {
+            "profile_link": "",
+            "name": "sourav chauhan",
+            "about": "Laravel, javaScript, Next js, React js, Node js, Express js, Mongodb .....",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Shailendra Kumar",
+            "about": "Senior Software Engineer",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Minal S",
+            "about": "SAP SuccessFactors Consultant",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Prithvi Raj Nair",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumanta Santra",
+            "about": "Codeigniter l laravel | WordPress | Elementor | Woocommerce | Shopify l PHP | Rest API",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Dipayan Das",
+            "about": "Associate consultant Data Scientist",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhilash Datta",
+            "about": "MTS-2 @Nutanix || CSE @IIT Kharagpur",
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Kumar",
+            "about": "zingbus | Ex-ZS | IIT (ISM), Dhanbad",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "Naveen Chandra",
+            "about": "Full-Stack Web Developer | SEO Specialist | Power BI | Digital Marketing Strategist | AWS | Agile Scrum | PMP | Project Management | Delivering Scalable IT Solutions",
+            "location": "Bangalore Urban district"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Instrumentation engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID YPXDYHXNSBVXSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID ECDDUBFAKNZFSee credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        },
+        {
+            "meta": "Issued May 2020Credential ID ZLXYTTKU83SESee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID MA7REXWAHYBUSee credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1781.0,
+    "connections": 500.0,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "gunjan-turkar-9ab605195",
+    "activity": [
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "I’m happy to announce that I’ve recently completed my software engineering internship at Google working with the PSC team under Google Cloud Platform…",
+            "img": "",
+            "id": "7229752162732367872"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "The #UnitedStates has reached a significant milestone in its transition to #renewableenergy, as #windenergy has surpassed #coalenergy in electricity…",
+            "img": "",
+            "id": "7221938001151447043"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "Rubrik is on a mission to secure the world’s data. We believe every day is a new opportunity to unleash your infinite potential and build a legacy…",
+            "img": "",
+            "id": "7211052630259695619"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "IIT Bombay Vs IIT Kharagpur 😜🙏 You never know as it can escalate to next level also …..😊 Personally proud of Bhavish Aggarwal to challenge the…",
+            "img": "",
+            "id": "7216093638026551297"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "What are cross-cutting #concerns in the world of #systemdesign? Cross-cutting concerns are aspects of a software system that affect #multiple…",
+            "img": "",
+            "id": "7212658557991731200"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "I was born and brought up in Kolkata and recently shifted to Bangalore due to work. In the past 20 years of living in Kolkata, I had never yearned to…",
+            "img": "",
+            "id": "7121336636163964928"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "\"For #episode 12 of #BeCuriousWithShrishty, lets meet Arjun Pillai, Co-Founder and CEO of Docket. Before this, he successfully launched two…",
+            "img": "",
+            "id": "7116610657910751232"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "Google turns 25 🎂 . #swags",
+            "img": "",
+            "id": "7112725430129876992"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "Never be this guy! Always go for a paid internship This does not say that money is the most important in an internship. But the point here is to…",
+            "img": "",
+            "id": "7109755544462102528"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "Team? Oh, you mean the morning me, the afternoon me, and the hasn't-slept-in-48-hours me? Because in the world of startups, every day is a blend of…",
+            "img": "",
+            "id": "7114104214485680128"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "Hello LinkedIn! I am extremely grateful and excited to share that I have joined Google as a Software Engineer! I am incredibly thankful to my…",
+            "img": "",
+            "id": "7103408823238828034"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "Huge shoutout to the incredible team of Ayushi Dhar, Ankit Kumar Senapati, Jeslu Celine Jacob and Prof. Joy Sen behind the mesmerizing laser show…",
+            "img": "",
+            "id": "7097630902184255488"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "I grew up in an environment where people ONLY spoke and highlighted their success. Being good as a person was considered unimportant. No one ever…",
+            "img": "",
+            "id": "7093126321265942528"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "A lot of the people I meet know me from LinkedIn, and they think I use LinkedIn all day! The truth being: I use Linkedin barely for half an hour in…",
+            "img": "",
+            "id": "7096701998284120064"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "Hello LinkedIn family! I'm thrilled to announce that I've recently completed my summer internship at Salesforce as a Software intern and have…",
+            "img": "",
+            "id": "7090729593749344256"
+        },
+        {
+            "interaction": "Liked by Gunjan Turkar",
+            "link": "",
+            "title": "Alphabet results are in for Q2 2023 and Google Cloud brought in $8 billion. Google Cloud continues to grow at a rapid pace, increasing revenue by…",
+            "img": "",
+            "id": "7089741915960557568"
+        }
+    ],
+    "linkedin_num_id": 768900947.0,
+    "honors_and_awards": [
+        {
+            "title": "First Runner Up in Amazon Coding Challenge for Women",
+            "publication": "Amazon",
+            "date": "2021-06-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "city": "India",
+    "position": "Amex | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "American Express",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "American Express",
+                    "meta": "Feb 2024 - Present 11 months",
+                    "duration": "Feb 2024 - Present 11 months",
+                    "start_date": "Feb 2024",
+                    "end_date": "Present",
+                    "duration_short": "11 months",
+                    "title": "Assistant Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "American Express",
+                    "meta": "Jan 2022 - Feb 2024 2 years 2 months",
+                    "description": "Assigning Credit Limits for Consumer Cards",
+                    "duration": "Jan 2022 Feb 2024 2 years 2 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Feb 2024",
+                    "duration_short": "2 years 2 months",
+                    "title": "Analyst",
+                    "description_html": "Assigning Credit Limits for Consumer Cards <!---->"
+                }
+            ],
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Manager- Business Intelligence unit",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Reduced fraud in mobile and Internet banking",
+            "description_html": "Reduced fraud in mobile and Internet banking <!---->",
+            "duration": "Aug 2021 Jan 2022 6 months",
+            "start_date": "Aug 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "6 months",
+            "company": "Axis Bank",
+            "company_id": "axis-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "description": "Received PPO",
+            "description_html": "Received PPO <!---->",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Axis Bank",
+            "company_id": "axis-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sub Head -Tech Team",
+            "description": "Made the nation wide prelims website of spring fest using PHP with PDO and MVC architecture.Made the mobile version of the Spring Fest 2019 website using React ,Redux and Axios",
+            "description_html": "Made the nation wide prelims website of spring fest using PHP with PDO and MVC architecture.Made the mobile version of the Spring Fest 2019 website using React ,Redux and Axios <!---->",
+            "duration": "Jul 2018 Apr 2019 10 months",
+            "start_date": "Jul 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "10 months",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: Spring Fest,Inter IIT Athletics and Weightlifting",
+            "description_html": "Activities and Societies: Spring Fest,Inter IIT Athletics and Weightlifting",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Saraswathi Vidyanikethan Public School - India",
+            "degree": "93.4%",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vidyodaya School - India",
+            "degree": "10.0 CGPA",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2024",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level 3"
+        },
+        {
+            "meta": "Issued Oct 2023",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) level 2"
+        },
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level 1"
+        }
+    ],
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana Fellow",
+            "publication": "-",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "SX"
+        },
+        {
+            "title": "National Talent Search Examination Scholar",
+            "publication": "-",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

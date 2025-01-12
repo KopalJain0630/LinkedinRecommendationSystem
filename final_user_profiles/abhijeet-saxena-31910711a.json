@@ -1,0 +1,104 @@
+{
+    "city": "Delhi, India",
+    "position": "Co-founder & Chief of Global Supply at Baaz Bikes",
+    "experience": [
+        {
+            "title": "Chief of Global Supply Chain",
+            "location": "New Delhi, Delhi, India",
+            "description_html": null,
+            "duration": "Jun 2019 - Present 5 years 7 months",
+            "start_date": "Jun 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 7 months",
+            "company": "Baaz Bikes",
+            "company_id": "baazbikes",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Axlr8r Formula Racing, IIT Delhi",
+            "location": "New Delhi, Delhi, India",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "Axlr8r Formula Racing, IIT Delhi",
+                    "meta": "Sep 2018 - Feb 2019 6 months",
+                    "duration": "Sep 2018 Feb 2019 6 months",
+                    "start_date": "Sep 2018",
+                    "end_date": "Feb 2019",
+                    "duration_short": "6 months",
+                    "title": "Chief Electrical Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Axlr8r Formula Racing, IIT Delhi",
+                    "meta": "Sep 2017 - Sep 2018 1 year 1 month",
+                    "description": "Battery and High Voltage",
+                    "duration": "Sep 2017 Sep 2018 1 year 1 month",
+                    "start_date": "Sep 2017",
+                    "end_date": "Sep 2018",
+                    "duration_short": "1 year 1 month",
+                    "title": "Chief Engineer",
+                    "description_html": "Battery and High Voltage <!---->"
+                },
+                {
+                    "subtitle": "Axlr8r Formula Racing, IIT Delhi",
+                    "meta": "Aug 2016 - Sep 2017 1 year 2 months",
+                    "description": "Battery and High Voltage",
+                    "duration": "Aug 2016 Sep 2017 1 year 2 months",
+                    "start_date": "Aug 2016",
+                    "end_date": "Sep 2017",
+                    "duration_short": "1 year 2 months",
+                    "title": "Junior Engineer",
+                    "description_html": "Battery and High Voltage <!---->"
+                }
+            ],
+            "company": "Axlr8r Formula Racing, IIT Delhi",
+            "company_logo_url": null
+        },
+        {
+            "title": "Intern",
+            "description": "Project on Metal Additive manufacturing",
+            "description_html": "Project on Metal Additive manufacturing <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Boeing",
+            "company_id": "boeing",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Production and industrial engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": "Activities and Societies: Formula Student, Student Mentor",
+            "description_html": "Activities and Societies: Formula Student, Student Mentor",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Kalyanpur Kanpur",
+            "degree": "Intermediate",
+            "field": "Science and Mathematics",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Baaz Bikes",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

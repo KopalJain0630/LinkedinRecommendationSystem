@@ -1,0 +1,53 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "ITC | IIT KGP | NTUST",
+    "experience": [
+        {
+            "title": "KITES Summer Intern",
+            "location": "Pune, Maharashtra, India",
+            "description": "• Process Performance Optimization: Improvement in Cigarette Pack Stability Index• Product Development: Innovate solutions for Tamper Evident Packaging",
+            "description_html": "• Process Performance Optimization: Improvement in Cigarette Pack Stability Index• Product Development: Innovate solutions for Tamper Evident Packaging <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "ITC Limited",
+            "company_id": "itc-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Taiwan",
+            "description": "• Dynamic Modeling of Autonomous Mecanum Drive Electric Vehicle for Factory Transportation.• Design Synthesis, Topology Optimization and Kinematic Analysis of a 3 DOF Stewart Platform.",
+            "description_html": "• Dynamic Modeling of Autonomous Mecanum Drive Electric Vehicle for Factory Transportation.• Design Synthesis, Topology Optimization and Kinematic Analysis of a 3 DOF Stewart Platform. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "National Taiwan University of Science and Technology",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "ITC Limited",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,152 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "HSBC || Ex-Nihilent",
+    "experience": [
+        {
+            "title": "Manager - Stress Testing",
+            "location": "Bangalore",
+            "description_html": null,
+            "duration": "Oct 2022 - Present 2 years 3 months",
+            "start_date": "Oct 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 3 months",
+            "company": "HSBC",
+            "company_id": "hsbc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Nihilent",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "1 year 11 months",
+            "positions": [
+                {
+                    "subtitle": "Nihilent",
+                    "meta": "Apr 2022 - Oct 2022 7 months",
+                    "duration": "Apr 2022 Oct 2022 7 months",
+                    "start_date": "Apr 2022",
+                    "end_date": "Oct 2022",
+                    "duration_short": "7 months",
+                    "title": "Senior Data Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Nihilent",
+                    "meta": "Dec 2020 - Apr 2022 1 year 5 months",
+                    "duration": "Dec 2020 Apr 2022 1 year 5 months",
+                    "start_date": "Dec 2020",
+                    "end_date": "Apr 2022",
+                    "duration_short": "1 year 5 months",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Nihilent",
+            "company_id": "nihilent",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Analyst Intern",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Oct 2020 Dec 2020 3 months",
+            "start_date": "Oct 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "3 months",
+            "company": "Sapio Analytics",
+            "company_id": "sapio-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Statistics and probability expert",
+            "description_html": null,
+            "duration": "Apr 2020 Dec 2020 9 months",
+            "start_date": "Apr 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "9 months",
+            "company": "Chegg Inc.",
+            "company_id": "chegg-inc-",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Kolkata Area, India",
+            "description": "Worked on loan type data to predict future NPA  account.",
+            "description_html": "Worked on loan type data to predict future NPA account. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "United bank of India",
+            "company_id": "united-bank-of-india",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Ivy Professional School",
+            "degree": "Data Analytics",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Amity university kolkata",
+            "degree": "M.Stat",
+            "field": "Statistics",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Lady Brabourne College",
+            "degree": "Bachelor of Science",
+            "field": "MATHEMATICS AND STATISTICS",
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Analytics course\"},{\"subtitle\":\"-\",\"title\":\"computer application course by WEBEL \"},{\"subtitle\":\"-\",\"title\":\"course on R at st. Xavier's college \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Dec 2022Credential ID ASzW4zlmNIYVLQororPSZ8b9BWCM",
+            "subtitle": "LinkedIn",
+            "title": "Sas 9.4 cert prep : part 01 Sas programming essentials "
+        },
+        {
+            "meta": "Issued Jan 2021Credential ID d228073c44d443debb4488ca3fe25441See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Python 101 for Data Science "
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID TCPFRKZ2RBYNSee credential",
+            "subtitle": "Coursera",
+            "title": "Image Compression with K-Means Clustering"
+        }
+    ],
+    "current_company_name": "HSBC",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Risk Analysis of credit card data by using predictive analysis and machine learning tools.\",\"start_date\":\"Jan 2020\",\"end_date\":\"Present\"},{\"title\":\"CLV prediction using an insurance company data\",\"start_date\":\"Dec 2019\",\"end_date\":\"Jan 2020\"},{\"title\":\"Predictive analysis of NPA accounts using banking data\",\"start_date\":\"May 2019\",\"end_date\":\"Jul 2019\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Inspire scholarship",
+            "publication": "DST, Govt of India",
+            "date": null,
+            "description": null
+        }
+    ]
+}

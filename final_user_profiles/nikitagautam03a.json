@@ -1,0 +1,125 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "Product Manager |  IIT Kharagpur Graduate | SDE Intern at Microsoft",
+    "experience": [
+        {
+            "title": "Associate Product Manager",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Blinkit",
+            "company_id": "letsblinkit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Mar 2021 Jun 2021 4 months",
+            "start_date": "Mar 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "4 months",
+            "company": "Leap Finance",
+            "company_id": "leap-global-education",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "•The object of the project was to create a cmdlet utility allowing internal partners tovalidate their query and in turn create Search Folders with appropriate items in themailbox provided by them.• My utility took the mailbox ID and the criteria from the crawl settings provided by thepartners and returned the item count for partners to verify.• Once the query was validated through the utility, the mailbox and criteria wereon-boarded in the crawlers for crawling. This would save enormous time, resources, andefforts of partners and assistants.",
+            "description_html": "•The object of the project was to create a cmdlet utility allowing internal partners tovalidate their query and in turn create Search Folders with appropriate items in themailbox provided by them.• My utility took the mailbox ID and the criteria from the crawl settings provided by thepartners and returned the item count for partners to verify.• Once the query was validated through the utility, the mailbox and criteria wereon-boarded in the crawlers for crawling. This would save enormous time, resources, andefforts of partners and assistants.",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Hyderabad Area, India",
+            "description": "Surface Action-Oriented Individual Specific Notification on TeamsThe overall project consisted of sending automated notifications to Field sellers regarding the breach in the pipeline hygiene on teams. My work Included:1) Working on Azure Function which gets automatically triggered on receiving a message in bus topic/subscription and posting the message on BOT API endpoint.2) Working on Adaptive cards which can be surfaced on Microsoft Teams, Outlook, external mails, UWP App.3) working on simple dialog bot containing basic functionalities which was later integrated with the main bot .",
+            "description_html": "Surface Action-Oriented Individual Specific Notification on TeamsThe overall project consisted of sending automated notifications to Field sellers regarding the breach in the pipeline hygiene on teams. My work Included:1) Working on Azure Function which gets automatically triggered on receiving a message in bus topic/subscription and posting the message on BOT API endpoint.2) Working on Adaptive cards which can be surfaced on Microsoft Teams, Outlook, external mails, UWP App.3) working on simple dialog bot containing basic functionalities which was later integrated with the main bot .",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "location": "Kharagpur Area, India",
+            "description": "Formulated three events in the Techno- Management Fest, Kshitij 2018 with 600+ students from different colleges participating in Manual, Autonomous and Image Processing robot competition",
+            "description_html": "Formulated three events in the Techno- Management Fest, Kshitij 2018 with 600+ students from different colleges participating in Manual, Autonomous and Image Processing robot competition <!---->",
+            "duration": "Jul 2017 Jul 2018 1 year 1 month",
+            "start_date": "Jul 2017",
+            "end_date": "Jul 2018",
+            "duration_short": "1 year 1 month",
+            "company": "Technology Robotix Society",
+            "company_id": "technology-robotix-society",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Intern",
+            "location": "Bengaluru Area, India",
+            "description": "Proposed A/B testing mechanism and designed the KPI framework with the aid of Google Analytics. Contributed to building a knowledge tree which was the foundation of the K12 project aimed at revolutionising the way knowledge ﬂows from one standard to another. Developed a Naive Bayes + Fasttext ensemble model for subject classiﬁcation",
+            "description_html": "Proposed A/B testing mechanism and designed the KPI framework with the aid of Google Analytics. Contributed to building a knowledge tree which was the foundation of the K12 project aimed at revolutionising the way knowledge ﬂows from one standard to another. Developed a Naive Bayes + Fasttext ensemble model for subject classiﬁcation <!---->",
+            "duration": "May 2018 Jun 2018 2 months",
+            "start_date": "May 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "2 months",
+            "company": "Embibe",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Science - MS",
+            "field": "Chemistry",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Oak Grove School",
+            "start_year": "2006",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2021",
+            "subtitle": "Udemy",
+            "title": "Become a Product Manager "
+        },
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Flipkart",
+            "title": "Flipkart GRiD – Te[a]ch The Machines | 2019"
+        }
+    ],
+    "current_company_name": "Blinkit",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,128 @@
+{
+    "city": "Agra, Uttar Pradesh, India",
+    "position": "AWS || AZURE || PYTHON || BIG DATA || TERRAFORM || KUBERNETES || SHELL SCRIPTING || POWERSHELL || LINUX",
+    "experience": [
+        {
+            "title": "Cloud Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jun 2022 - Present 2 years 7 months",
+            "start_date": "Jun 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 7 months",
+            "company": "Infosys",
+            "company_id": "infosys",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Lin",
+            "description_html": null,
+            "duration": "3 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "Lin",
+                    "meta": "Sep 2020 - Jul 2023 2 years 11 months",
+                    "duration": "Sep 2020 Jul 2023 2 years 11 months",
+                    "start_date": "Sep 2020",
+                    "end_date": "Jul 2023",
+                    "duration_short": "2 years 11 months",
+                    "title": "Arth-The School Of Technology at LinuxWorld",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "LinuxWorld Informatics Pvt Ltd",
+                    "meta": "Aug 2020 - Jul 2023 3 years",
+                    "duration": "Aug 2020 Jul 2023 3 years",
+                    "start_date": "Aug 2020",
+                    "end_date": "Jul 2023",
+                    "duration_short": "3 years",
+                    "title": "Specialist in Python (With Flask and Full Stack Development)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "LinuxWorld Informatics Pvt Ltd",
+                    "meta": "Jul 2020 - Sep 2020 3 months",
+                    "duration": "Jul 2020 Sep 2020 3 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Sep 2020",
+                    "duration_short": "3 months",
+                    "title": "flutter development integratted with docker",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "LinuxWorld Informatics Pvt Ltd",
+                    "meta": "May 2020 - Jul 2020 3 months",
+                    "description": "Hybrid Cloud computing",
+                    "duration": "May 2020 Jul 2020 3 months",
+                    "start_date": "May 2020",
+                    "end_date": "Jul 2020",
+                    "duration_short": "3 months",
+                    "title": "Hybrid cloud computing",
+                    "description_html": "Hybrid Cloud computing <!---->"
+                }
+            ],
+            "company": "Lin",
+            "company_id": "linuxworld-informatics-pvt-ltd",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Campus Ambassador",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Blockdegree",
+            "company_id": "blockdegree",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Dr. A.P.J. Abdul Kalam Technical University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "IMS ENGINEERING COLLEGE, GHAZIABAD",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer and Information technology",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "IBM",
+            "title": "Data Science Orientation"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Coursera",
+            "title": "Cloud Computing Basics(cloud 101)"
+        },
+        {
+            "subtitle": "TCS-iON Digital Manufacturing Solution",
+            "title": "Carrer edge knockdown the lockdown"
+        }
+    ],
+    "current_company_name": "Infosys",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

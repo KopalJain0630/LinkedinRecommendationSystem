@@ -1,0 +1,353 @@
+{
+    "id": "awais-akhtar-98a801190",
+    "name": "Awais Akhtar",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Developer at Zomato",
+    "about": "I am a Software Developer (SDE - I) in the Enterprise Team at Zomato.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Zomato",
+        "company_id": "zomato",
+        "title": "Software Developer at Zomato"
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Gurugram, Haryana, India",
+            "description": "SDE - I in Enterprise Team at Zomato",
+            "description_html": "SDE - I in Enterprise Team at Zomato <!---->",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Gurugram, Haryana, India",
+            "description": "Identify urgent issues and provide support through SaaS to online ordering and delivery to the customers\u00e2\u2014\u00a6 Improved the user-interface of the Admin Dashboard of One-support using the suggestions provided by the current users\u00e2\u2014\u00a6 Analysed the different segments of the software and provided improvements and fixes after discussions with the team\u00e2\u2014\u00a6 Used React Context API, Query in Typescript and contributed to the existing software by merging 20+ pull requests",
+            "description_html": "Identify urgent issues and provide support through SaaS to online ordering and delivery to the customers\u00e2\u2014\u00a6 Improved the user-interface of the Admin Dashboard of One-support using the suggestions provided by the current users\u00e2\u2014\u00a6 Analysed the different segments of the software and provided improvements and fixes after discussions with the team\u00e2\u2014\u00a6 Used React Context API, Query in Typescript and contributed to the existing software by merging 20+ pull requests <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Kolkata, West Bengal, India",
+            "description": "Develop a SaaS product for the webhook integration & two way communication with the website\u00e2\u20ac\u2122s backend\u00e2\u2014\u00a6 Engineered the backend of the website using the Django REST APIs, and integrated the webhooks of UrbanPiper\u00e2\u2014\u00a6 Integrated all third-party APIs namely Swiggy, Zomato, Urban Eats to manage the Outlets, Menu, Orders, and Reports\u00e2\u2014\u00a6 Developed the frontend of the website using ReactJS, used Material UI for user-interface and deployed the site in Heroku",
+            "description_html": "Develop a SaaS product for the webhook integration &amp; two way communication with the website\u00e2\u20ac\u2122s backend\u00e2\u2014\u00a6 Engineered the backend of the website using the Django REST APIs, and integrated the webhooks of UrbanPiper\u00e2\u2014\u00a6 Integrated all third-party APIs namely Swiggy, Zomato, Urban Eats to manage the Outlets, Menu, Orders, and Reports\u00e2\u2014\u00a6 Developed the frontend of the website using ReactJS, used Material UI for user-interface and deployed the site in Heroku <!---->",
+            "duration": "Mar 2021 Jul 2021 5 months",
+            "start_date": "Mar 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "5 months",
+            "company": "Restomanagers",
+            "company_id": "restomanagers",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Developer",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Designed an e-learning website using technologies like ReactJS and MaterialUI Framework for the frontend of the website Customized the website\u00e2\u20ac\u2122s backend using Django REST Framework, Tastypie and modeled the MySQL database to store data Integrated login-signup functionalities, real-time chat-app, stripe-payment-gateway, upload resources video lectures and notes",
+            "description_html": "Designed an e-learning website using technologies like ReactJS and MaterialUI Framework for the frontend of the website Customized the website\u00e2\u20ac\u2122s backend using Django REST Framework, Tastypie and modeled the MySQL database to store data Integrated login-signup functionalities, real-time chat-app, stripe-payment-gateway, upload resources video lectures and notes <!---->",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "OrOlingo",
+            "company_id": "orolingo",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Reuben Devanesan",
+            "about": "MITACS GRI'23 | Former SDE Intern @ Attentive AI | Undergraduate @ IIT Gandhinagar",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitin Baghel",
+            "about": "SDE @Navi \u00e2\u20ac\u00a2 IIT KGP '23 \u00e2\u20ac\u00a2 Google Kickstart #314 \u00e2\u20ac\u00a2 Expert @Codeforces",
+            "location": "Gwalior"
+        },
+        {
+            "profile_link": "",
+            "name": "Anindya Sikdar",
+            "about": "Systems Engineer @ Quadeye || CSE @ IIT Kharagpur",
+            "location": "Baduria"
+        },
+        {
+            "profile_link": "",
+            "name": "Lakshita M.",
+            "about": "MS @ Data Science And Analytics @TMU | AI/Ml enthusiast | Ex-Mitacs Research Intern @ Ryerson University | Data Analysis | Web developer",
+            "location": "Toronto, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Syeda M.",
+            "about": "Software Developer",
+            "location": "Karnataka, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhendra Srivastava",
+            "about": "Red Hat Certified Engineer",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "S Deeksha",
+            "about": "MTS - 2 at Adobe || Philips Code to Care Runner-Up || D2C Women Leader || Full-Stack Developer",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Raghav Anand V",
+            "about": "MSCS student @University of Southern California | Seeking Fall 2024/Spring 2025 internships and FTE roles Summer 2025",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Chaudhary",
+            "about": "SDE-1 @Amazon | Competitive Programmer",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Adil Mallick",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Gandhi",
+            "about": "Kwal \u00e2\u20ac\u00a2 IIT Kharagpur",
+            "location": "Udaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Dusane",
+            "about": "Soci\u00c3\u00a9t\u00c3\u00a9 G\u00c3\u00a9n\u00c3\u00a9rale | IIT Kharagpur '23",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sayan Ganguly",
+            "about": null,
+            "location": "Barasat-I"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanmay Vig",
+            "about": "Software Developer @UHG | Software Engineer | Information Security | Automation | Full-Stack Developer | AI/ML Enthusiast",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Mudit Kumar",
+            "about": "Pre Final Year at IIT Kharagpur",
+            "location": "Patna"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Podder",
+            "about": "SDE @Microsoft | Ex Senior Engineer Samsung| Ex-SDE Intern Odessa | 6\u00f0\u0178\u0152\u0178 HackerRank | Ex Tech Head IIC-TMSL | Machine Learning Enthusiast",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarthak Arora",
+            "about": "SDE-II at GradRight Inc.",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aryan Raj Lohani",
+            "about": "SDE@Amazon . IIT KGP",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Tarunvir Singh",
+            "about": "Software Developer, JPMChase | Winner Smart India Hackathon '19 | Thapar University",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Bansal",
+            "about": "Senior Software Developer at Josh Technology Group",
+            "location": "Jhajjar"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Vidya Mandir Shyamali",
+            "degree": "Higher Secoundary Course",
+            "field": "92%",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Anthony's School",
+            "degree": "High School Diploma",
+            "field": "Junior High/Intermediate/Middle School Education and Teaching",
+            "start_year": "2011",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021Credential ID Z7RUHT53VKYASee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID 46XKG7BPV6NBSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jan 2021Credential ID GZVXSQEDXKSee credential",
+            "subtitle": "NxtWave",
+            "title": "4.0 Tech 101 Certificate"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID DPUDURECTOSee credential",
+            "subtitle": "iB Hubs",
+            "title": "Data Structures and Algorithms"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID LT3NCYMLYF2CSee credential",
+            "subtitle": "Stanford University",
+            "title": "Machine Leaning "
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID DVWEQZIWJESee credential",
+            "subtitle": "iB Hubs",
+            "title": "Tech Foundations"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID PABRQSGPSTSee credential",
+            "subtitle": "iB Hubs",
+            "title": "Programming in C Certification"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID BHVMRKFDDKSee credential",
+            "subtitle": "iB Hubs",
+            "title": "Python & OOP Concepts"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Aug 2019 - Present \u00c2\u00b7 5 years 5 months",
+            "duration_short": "5 years 5 months",
+            "end_date": "Present",
+            "info": "Nukkad Leader at NSS Camp of IIT Kharagpur.",
+            "start_date": "Aug 2019",
+            "subtitle": "National Service Scheme",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 1108.0,
+    "connections": 500.0,
+    "current_company_company_id": "zomato",
+    "current_company_name": "Zomato",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Comparative Study of Graph Algorithms - Algorithms I - Course Project",
+            "start_date": "Mar 2022",
+            "end_date": "Apr 2022",
+            "description": "Compared the different graph algorithms to find the shortest path to solve problems like cost optimization & fuel minimization Analyzed the performance of Flyod-Warshall, Bellman-Ford and Dijkstra\u00e2\u20ac\u2122s algorithms on a set of directed & undirected graphs Presented and discussed the performance of the different algorithms with the course instructor & achieved a grade point of A"
+        },
+        {
+            "title": "Students Welfare Group App - IIT Kharagpur",
+            "start_date": "Jun 2020",
+            "end_date": "May 2021",
+            "description": "Developed an Android App, having a user base of 2000+ so that students can access resources and material of IIT Kharagpur Enhanced the number of install by 10% by building the notice board where students can receive notices about the events Integrated Firebase Cloud Messaging Feature in Android Studio in Java, to send notifications to the users in a specific topic"
+        }
+    ],
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "awais-akhtar-98a801190",
+    "activity": [
+        {
+            "interaction": "Liked by Awais Akhtar",
+            "link": "",
+            "title": "requirement",
+            "img": "",
+            "id": "6959857438325911552"
+        },
+        {
+            "interaction": "Liked by Awais Akhtar",
+            "link": "",
+            "title": "Hope you will support this cause by engaging and thus help in increasing the reach. Healthcare wastage, when not properly disposed of, might pose\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6861032497870966785"
+        },
+        {
+            "interaction": "Liked by Awais Akhtar",
+            "link": "",
+            "title": "The benefits of testing your products with real users. Explained in 18 Seconds.",
+            "img": "",
+            "id": "6786124362224402432"
+        },
+        {
+            "interaction": "Liked by Awais Akhtar",
+            "link": "",
+            "title": "Students, Assemble! Take your first step towards a career in 4.0 Technologies. Join the free 4.0 Tech Online Bootcamp by NxtWave on 14th\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6775765761836363776"
+        }
+    ],
+    "linkedin_num_id": 754461754.0,
+    "honors_and_awards": [
+        {
+            "title": "Silver - Inter Hall Open Soft Competition - IIT Kharagpur",
+            "publication": "Technology IIT Kharagpur",
+            "date": "2022-03-01T00:00:00.000Z",
+            "description": "Developed the backend using Django REST framework for APIs using JWT token based authentication for token verification Incorporated Kubernetes to scale the micro services and indicated the uptime/downlime status of the micro services in reactJS Refactored the existing monolithic order and delivery application of AnyTimeFood by using micro services architecture"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

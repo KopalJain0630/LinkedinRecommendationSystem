@@ -1,0 +1,321 @@
+{
+    "id": "bimal-kumar-sahoo-637052170",
+    "name": "Bimal Kumar Sahoo",
+    "city": "Kharagpur, India",
+    "country_code": "IN",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Cisco",
+        "company_id": "cisco"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Puja Jain",
+            "about": null,
+            "location": "Assam, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rushil Gupta",
+            "about": null,
+            "location": "Montreal, QC"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Purohit",
+            "about": "Cloud, Data & Platforms Associate @ DTCC",
+            "location": "Jersey City, NJ"
+        },
+        {
+            "profile_link": "",
+            "name": "Kushagra Agarwal",
+            "about": "Co-Founder and CTO @ Galen Health | MS DS @ CMU | B.Tech (CS) + MS (CNS) @ IIIT Hyd",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Laiba Mehnaz",
+            "about": null,
+            "location": "Sunnyvale, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Asthana",
+            "about": "Ph.D. candidate in deep learning at FAU Erlangen- Nuremberg",
+            "location": "Ulm"
+        },
+        {
+            "profile_link": "",
+            "name": "Saptarshi Ghosh",
+            "about": "AQR Capital Management | Research Assistant at Nanyang Technological University",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Jain",
+            "about": "AIML Research Intern @Apple | CS PhD candidate @Columbia | Human-Computer Interaction (HCI), Accessibility, Computer Vision",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Ganga Meghanath",
+            "about": null,
+            "location": "Redmond, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sailok Chinta",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sankalp Garg",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Imran Alam",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhu Babu Kalapala",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Jay Paranjape",
+            "about": "PhD Student at Johns Hopkins University | Bachelors from IIT Delhi CSE Dept.",
+            "location": "Baltimore, MD"
+        },
+        {
+            "profile_link": "",
+            "name": "Anmol Ratn",
+            "about": ":)",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Lucky Sunda",
+            "about": "Applied Scientist II at Jupiter | Indian Institute of Science",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Samyak Shah",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kaustav Tamuly",
+            "about": null,
+            "location": "Berlin"
+        },
+        {
+            "profile_link": "",
+            "name": "Simran Khanuja",
+            "about": "PhD Student at CMU LTI | Pre-doc @ Google Research | Microsoft Research | BITS Pilani",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Anunay Gupta",
+            "about": "Software Dev Engineer II - AWS Aurora",
+            "location": "County Dublin, Ireland"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Machine Learning\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Odia "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jul 2017 - Jul 2019 \u00c2\u00b7 2 years 1 month",
+            "duration_short": "2 years 1 month",
+            "end_date": "Jul 2019",
+            "start_date": "Jul 2017",
+            "subtitle": "National Service Scheme",
+            "title": "Student Teaching"
+        }
+    ],
+    "followers": 743.0,
+    "connections": 500.0,
+    "current_company_company_id": "cisco",
+    "current_company_name": "Cisco",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Change detection in multivariate live data",
+            "start_date": "Oct 2020",
+            "end_date": "Present",
+            "description": "Using change detection algorithms to detect changes in the live data generated from wireless sensor nodes monitoring sensitive items like fruits during transportaion."
+        },
+        {
+            "title": "Genetic Algorithm for solving Vehicle Routing Problem",
+            "start_date": "Jun 2019",
+            "end_date": "Nov 2019",
+            "description": "A real world optimization model for reducing the mail delivery cost by optimizing the mail delivery route for the Kolkata Postal Services for East Kolkata region."
+        },
+        {
+            "title": "Facial Recognition For Attendance marking",
+            "start_date": "Feb 2019",
+            "end_date": "Apr 2019",
+            "description": "A facial recognition system using image processing to facilitate efficient attendance marking in class using the CCTV camera."
+        }
+    ],
+    "organizations": null,
+    "location": "Kharagpur",
+    "linkedin_id": "bimal-kumar-sahoo-637052170",
+    "activity": [
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "It was an honor to speak to the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7169080192596996096"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "6 papers into LREC-COLING 2024! 1\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "It definitely was an amazing class!\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7108295887444946945"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "\"\u00f0\u0178\u0161\u20ac Hustle hard, unwind harder! Sales\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7107602271013646337"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "Some pictures dont need any\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7098268309510381568"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "Hey folks, So a new journey begins. 2\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "2"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "One of the many things that I will miss\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7075203846334988290"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "I am excited to let you all know that I\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7076446790358564866"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "I\u00e2\u20ac\u2122m thrilled to share that I recently\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7069559612231864320"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "Well deserved!! Congratulations Manoj\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7040520376908451841"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "Now I can claim that my 5 year course\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7013199866021519360"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "Dont miss this awesome performance, a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6990046761767620608"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "Since this is my first post, there is a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6983067020128899072"
+        },
+        {
+            "interaction": "Liked by Bimal Kumar Sahoo",
+            "link": "",
+            "title": "Hello everyone, I am happy to share\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6969454444946034688"
+        }
+    ],
+    "linkedin_num_id": 680912395.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

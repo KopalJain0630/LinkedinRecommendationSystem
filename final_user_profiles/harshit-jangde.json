@@ -1,0 +1,83 @@
+{
+    "city": "Midnapore Sadar, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2024",
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "Financial Risk Manager Level 1"
+        },
+        {
+            "meta": "Issued Nov 2020",
+            "subtitle": "National Institute of Securities Markets (NISM)",
+            "title": "NISM-Series-VIII: Equity Derivatives Certification Examination"
+        },
+        {
+            "meta": "Issued Nov 2020",
+            "subtitle": "National Institute of Securities Markets (NISM)",
+            "title": "NISM-Series-XV: Research Analyst Certification Examination"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID harshitjangde21@gmail.comSee credential",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Investment Foundation Certificate"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID harshitjangde21@gmail.com",
+            "subtitle": "DataCamp",
+            "title": "Machine learning Fundamentals with Python"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID harshitjangde21@gmail.com",
+            "subtitle": "DataCamp",
+            "title": "Python Programming"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID UF2LHT78BEULSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Financial Markets"
+        },
+        {
+            "meta": "Issued Jan 2019Credential ID TYWPRAZQLFKKSee credential",
+            "subtitle": "Coursera",
+            "title": "Excel Skills for Business: Essentials"
+        },
+        {
+            "meta": "Issued Dec 2018",
+            "subtitle": "Bloomberg Markets ",
+            "title": "Bloomberg Marketing Concepts"
+        },
+        {
+            "meta": "Issued Sep 2020Expires Nov 2027Credential ID 54321harshit@gmail.comSee credential",
+            "subtitle": "Coursera",
+            "title": "Foundational Finance for Strategic Decision Making Specialization"
+        }
+    ],
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Portfolio Risk Management and Asset pricing Model, Prof. Abhijeet Kumar, VGSOM, IIT Kharagpur \",\"start_date\":\"Aug 2020\",\"end_date\":\"Present\",\"description\":\"• Developing strategic and tactical risk asset allocation of securities analyzing the desired overall risk and return profile of a portfolio • Assessing systematic & unsystematic risk, computed industry & firm beta, CAPM, WACC, risk-free rate, market premium & cost of equity• Incorporating additional risk factors like value, liquidity, market and investors sentiment to deploy a multi-factor asset pricing model \"},{\"title\":\"Predicting Credit Card Approvals\",\"start_date\":\"Jan 2020\",\"end_date\":\"Jan 2020\",\"description\":\"• Automated the time-consuming process of approval of credit card applications using feature selection & Machine Learning models • Based on an individual's credit report, achieved a model accuracy of 85.21% obtained by using the Logistic Regression method\"},{\"title\":\"Risk and Returns: The Sharpe Ratio \",\"start_date\":\"Jan 2020\",\"end_date\":\"Jan 2020\",\"description\":\"• Used Machine Learning and Applied Finance to visualize the profitability & risks involved in two different investments• Calculated the relative performance of stocks of Amazon and Facebook vs. the S&P 500 benchmark using the Sharpe ratios\"},{\"title\":\"Which Debts Are Worth the Bank's Effort?\",\"start_date\":\"Jan 2020\",\"end_date\":\"Jan 2020\",\"description\":\"• Used Regression discontinuity to analyze whether the additional cost of assigning customers to higher recovery strategy is worthy• Analyzed the problem using Exploratory graphical & statistical Analysis of the recovery amounts collected by the banks\"}]",
+    "honors_and_awards": [
+        {
+            "title": "National Finalists (Top 15) | Crack the Case | TECHADROIT IEEE20, PEC",
+            "publication": "-",
+            "date": "2020-07-01T00:00:00.000Z",
+            "description": "• Assessed Spicejet Company and proposed solutions to restructure the business to battle the challenging COVID 19 and financial crisis"
+        },
+        {
+            "title": "Gold | Case Study | HDFC Intelligent Banking | Artificial Intelligence",
+            "publication": "Global Entrepreneur Summit 2020, IIT Kharagpur",
+            "date": null,
+            "description": "• Researched and proposed solutions through different AI models so as to help the bank modify its Artificial Intelligence technology"
+        },
+        {
+            "title": "National Finalists (Top 10) | Action Plan Competition | Abhyuday | 2018-19 | IIT Bombay",
+            "publication": "-",
+            "date": null,
+            "description": "Devised a business model to reuse & reduce waste by biofuel generation to build an efficient Waste Management system"
+        }
+    ]
+}

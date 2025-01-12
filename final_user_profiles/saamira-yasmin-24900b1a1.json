@@ -1,0 +1,54 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Senior Manager Analytics, DTDC Express Limited | Mastercard | IIT Kharagpur '23 | Major - Chemical Engineering | Minor - Computer Science and Engineering",
+    "experience": [
+        {
+            "title": "Senior Manager Analytics - Operations",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "As a senior manager I am responsible for leveraging technology to improve our logistics operations. I am currently working on the Geo-spatial analysis of delivery areas to reduce vacant pincodes using Data Analytics and Python scripting. I am also looking into the product design of the version 2 of our chatbot assistant on MyDTDC application.",
+            "description_html": "As a senior manager I am responsible for leveraging technology to improve our logistics operations. I am currently working on the Geo-spatial analysis of delivery areas to reduce vacant pincodes using Data Analytics and Python scripting. I am also looking into the product design of the version 2 of our chatbot assistant on MyDTDC application. <!---->",
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "DTDC Express Limited",
+            "company_id": "dtdc-express-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description": "As a Data Engineer Intern at Mastercard, I worked on live client projects. I was responsible for processing millions of transaction data using their in-built Test and Learn platform and SQL scripting. I got hands on experience of the ETL processes and developer tools like Git and Jira.  I automated the data pipeline and streamlined the data processing steps to a one-click action button. I also got the opportunity to interact and work with the team of South Korea and Chile. I was also given a pre-placement offer based on my internship work.",
+            "description_html": "As a Data Engineer Intern at Mastercard, I worked on live client projects. I was responsible for processing millions of transaction data using their in-built Test and Learn platform and SQL scripting. I got hands on experience of the ETL processes and developer tools like Git and Jira. I automated the data pipeline and streamlined the data processing steps to a one-click action button. I also got the opportunity to interact and work with the team of South Korea and Chile. I was also given a pre-placement offer based on my internship work.",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Mastercard",
+            "company_id": "mastercard",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Minor: Computer Science and Engineering",
+            "description_html": "Minor: Computer Science and Engineering <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "DTDC Express Limited",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

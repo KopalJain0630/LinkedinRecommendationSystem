@@ -1,0 +1,176 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Credit Suisse | Ex Deutsche",
+    "experience": [
+        {
+            "title": "AVP - CISO",
+            "description_html": null,
+            "duration": "Nov 2022 - Present 2 years 2 months",
+            "start_date": "Nov 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 2 months",
+            "company": "Credit Suisse",
+            "company_id": "credit-suisse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deutsche Bank",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "7 years 11 months",
+            "positions": [
+                {
+                    "subtitle": "Deutsche Bank",
+                    "meta": "Jan 2019 - Nov 2022 3 years 11 months",
+                    "description": "Work closely with the Business, Front Office IT, Risk IT, Controllers, Operations, RTB, CTB and counterparts globally towards planning, assessment of timeliness, completeness and accuracy of the data, specification of feeds, processing and testing. BCBS and ECB regulatory requirements, understanding Business requirements and FSD's and analyse data while providing strategic solutions in resolving data quality issues through Agile SAFe Framework. Evaluation and analysis of Credit risk exposures primary focus on the analysis, specification, design and implementation of Credit risk feeds. Traded product & Commercial Banking credit exposure measurement techniques and their application across the range of financial instruments. Credit Risk Management , Credit Model Development (PD, LGD, EAD), RWA reporting. Work on identifying , investigating, analysing and proposing Strategic and Tactical solutions for data breaks.",
+                    "duration": "Jan 2019 Nov 2022 3 years 11 months",
+                    "start_date": "Jan 2019",
+                    "end_date": "Nov 2022",
+                    "duration_short": "3 years 11 months",
+                    "title": "Credit Risk - Associate manager",
+                    "description_html": "Work closely with the Business, Front Office IT, Risk IT, Controllers, Operations, RTB, CTB and counterparts globally towards planning, assessment of timeliness, completeness and accuracy of the data, specification of feeds, processing and testing. BCBS and ECB regulatory requirements, understanding Business requirements and FSD's and analyse data while providing strategic solutions in resolving data quality issues through Agile SAFe Framework. Evaluation and analysis of Credit risk exposures primary focus on the analysis, specification, design and implementation of Credit risk feeds. Traded product &amp; Commercial Banking credit exposure measurement techniques and their application across the range of financial instruments. Credit Risk Management , Credit Model Development (PD, LGD, EAD), RWA reporting. Work on identifying , investigating, analysing and proposing Strategic and Tactical solutions for data breaks."
+                },
+                {
+                    "subtitle": "Deutsche Bank",
+                    "meta": "Jan 2015 - Dec 2018 4 years",
+                    "duration": "Jan 2015 Dec 2018 4 years",
+                    "start_date": "Jan 2015",
+                    "end_date": "Dec 2018",
+                    "duration_short": "4 years",
+                    "title": "SA - CISO IDAM",
+                    "description_html": null
+                }
+            ],
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Global Scheduling for UC4 Zoetis DCS",
+            "location": "Pune, Maharashtra, India",
+            "description": "Automation Engine UC4 - Creation and scheduling of Batch jobs - Unix, SAP and Windows. Business Process Automation for Pfizer and Zoetis DCS through UC4.",
+            "description_html": "Automation Engine UC4 - Creation and scheduling of Batch jobs - Unix, SAP and Windows. Business Process Automation for Pfizer and Zoetis DCS through UC4. <!---->",
+            "duration": "Feb 2013 Dec 2014 1 year 11 months",
+            "start_date": "Feb 2013",
+            "end_date": "Dec 2014",
+            "duration_short": "1 year 11 months",
+            "company": "Compucom India Pvt Ltd",
+            "company_id": "compucom",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Support",
+            "location": "Pune Area, India",
+            "description_html": null,
+            "duration": "Jun 2011 Feb 2013 1 year 9 months",
+            "start_date": "Jun 2011",
+            "end_date": "Feb 2013",
+            "duration_short": "1 year 9 months",
+            "company": "Mphasis",
+            "company_id": "mphasis",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Team Coordinator",
+            "location": "Pune Area, India",
+            "description_html": null,
+            "duration": "Apr 2007 Jun 2011 4 years 3 months",
+            "start_date": "Apr 2007",
+            "end_date": "Jun 2011",
+            "duration_short": "4 years 3 months",
+            "company": "Ventura",
+            "company_id": "ventura",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "ISO27001:2013 Lead Auditor",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Axelos",
+            "degree": "PRINCE2® Practitioner",
+            "field": "Project Management",
+            "start_year": "2015",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "ITIL V3 from EXIN",
+            "degree": "ITIL V3",
+            "field": "Service Life cycle",
+            "start_year": "2011",
+            "end_year": "2012",
+            "description": "Activities and Societies: Service Life Cycle Service Life Cycle",
+            "description_html": "Activities and Societies: Service Life Cycle",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Manav Bharathi University",
+            "degree": "Master's in Business Administration",
+            "field": "IT Operations",
+            "start_year": "2009",
+            "end_year": "2011",
+            "description": "Activities and Societies: People Management , Budgeting, Risk Analysis, Conflict Management , Reporting and Operations, Service Management People Management , Budgeting, Risk Analysis, Conflict Management , Reporting and Operations, Service Management",
+            "description_html": "Activities and Societies: People Management , Budgeting, Risk Analysis, Conflict Management , Reporting and Operations, Service Management",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Lean Six Sigma GB",
+            "degree": "SIX SIGMA GB",
+            "start_year": "2015",
+            "description": "Lean Six Sigma Green Belt",
+            "description_html": "Lean Six Sigma Green Belt <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "APMG",
+            "degree": "COBIT5 Foundation",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Credit Suisse",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Recognition Award",
+            "publication": "Deutsche Bank",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Spot Award",
+            "publication": "DBOI",
+            "date": "2018-06-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Excellence Award",
+            "publication": "DBOI",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Operational Excellence Award",
+            "publication": "Ventura India Pvt. Ltd.",
+            "date": "2010-12-01T00:00:00.000Z",
+            "description": "Received award for Operational Excellence for handling Net Docs Project in Ventura India Pvt. Ltd."
+        }
+    ]
+}

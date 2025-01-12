@@ -1,0 +1,69 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Machine Learning A-Z: Hands-On Python & R In Data Science \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Feb 2019",
+            "subtitle": "Massachusetts Institute of Technology",
+            "title": "Machine Learning with Python: from Linear Models to Deep Learning"
+        },
+        {
+            "meta": "Issued Dec 2018",
+            "subtitle": "OpenCV",
+            "title": "Computer Vision II: Applications (Python) "
+        },
+        {
+            "meta": "Issued Dec 2018",
+            "subtitle": "Udemy",
+            "title": "Deep Learning A-Z™: Hands-On Artificial Neural Networks "
+        },
+        {
+            "meta": "Issued Nov 2018See credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science "
+        },
+        {
+            "subtitle": "OpenCV",
+            "title": "Deep Learning with PyTorch"
+        }
+    ],
+    "current_company_name": "Ai India Innovations",
+    "publications": "[{\"title\":\"“A Study on the Technologies for Detecting Underground Water Level”\",\"date\":\"2015\",\"description\":\"Paper on topic “A Study on the Technologies for Detecting Underground Water Level”\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"LandAU MathGPT\",\"start_date\":\"Aug 2023\"},{\"title\":\"LPG Cylinder Automation\",\"start_date\":\"Jul 2023\"},{\"title\":\"Land Cover Land Use using Deep Learning with satellite imagery\",\"start_date\":\"May 2021\",\"end_date\":\"Oct 2021\"},{},{\"title\":\"Deep Learning based Text Recognition (OCR) using Tesseract and OpenCV\",\"start_date\":\"2019\",\"end_date\":\"Jan 2019\",\"description\":\"Indian Linguistic Character RecognitionThis models can recognize indian languages like Marathi,Hindi,Gujarati with higher accuracy\"},{\"title\":\"Real-time Face recognition using Facenet \",\"start_date\":\"Aug 2018\",\"end_date\":\"2019\",\"description\":\"Real-time face recognition using FaceNet with custom datasets, its completely based on deep learning neural network and implemented using the TensorFlow framework\"},{\"title\":\"Face and eyes detection using OpenCV\",\"start_date\":\"Jul 2018\",\"end_date\":\"2019\",\"description\":\"face and eyes detection using Haar Feature-based Cascade Classifiers using OpenCV with Python with cascade files.\"},{\"title\":\"Automatic number-plate recognition- openALPR\",\"start_date\":\"2018\",\"end_date\":\"2019\",\"description\":\"Indian number plate recognition with implementation of openALPR with 80% accuracies. It analyses images and video streams to identify license plates. The output is the text representation of any license plate characters\"},{\"title\":\"Real Time Emotion detector\",\"start_date\":\"2018\",\"end_date\":\"2019\"},{\"title\":\"Women Safety Device using GSM & GPS\",\"start_date\":\"Jun 2018\",\"end_date\":\"Dec 2018\",\"description\":\"Women Safety Device using GSM & GPS for the Samidha Tech using ATmega328 and SIM808 with PCB Size of 65mmX20mm\"},{\"title\":\"Real Time Object Recognition using yoloV3\",\"start_date\":\"Sep 2018\",\"end_date\":\"Oct 2018\",\"description\":\"Implementation of yoloV3 for object detection and recognition with coco datadet which can detect 80 objects\"},{\"title\":\"Biogas Mechanism Enhancement using Raspberry pi 3\",\"start_date\":\"Jul 2017\",\"end_date\":\"Jun 2018\",\"description\":\"This project aim was to maximize the emissions Green Energy i.e. Biogas by changing the current Mechanism. We monitored parameters of Bio-gas digester like pH Scale, Gas efficiency, Gas Quality and Current Temperature and monitoring all and sending them to cloud platform. Later on that information can easily access through Android phone.This information was used for study and research and also helped to know health of Bio Gas.\"},{\"title\":\"Training Haar cascade object detector\",\"start_date\":\"2018\",\"end_date\":\"2018\"},{\"title\":\"VACHA- Sign Language to text format\",\"start_date\":\"2016\",\"end_date\":\"2017\",\"description\":\"Generally dumb people use sign language for communication but they find difficulty in communicating. This project aims to lower this barrier in communication. It was based on the need of developing an electronic device that can translate sign language into text in order to make the communication take place between the mute communities with the general public possible. A Wireless data gloves is used which is normal cloth driving gloves fitted with flex sensors along the length of each finger and the thumb.\"},{},{\"title\":\"Rf-Id Based Transmission Reception\",\"start_date\":\"2014\",\"end_date\":\"2014\",\"description\":\"RFID based Transmission-Reception is a processes of wireless communication by using Microcontroller with APR-9600. The aim of this project was to develop controller based embedded system which help the Doctors in ICU in Emergency conditions like High B.P., Respiratory, Abnormal pulse rate etc. This Embedded Solution helps in different conditions as a life saver for patients due to wireless communication between doctors & patients.\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Project competition- 1st prize",
+            "publication": "Icoer",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "First prize among 95 participates at National Project Competition"
+        },
+        {
+            "title": "Project competition-2nd Runner up",
+            "publication": "Vppl",
+            "date": "2018-02-01T00:00:00.000Z",
+            "description": "for project Biogas Mechanism Enhancement"
+        },
+        {
+            "title": "Presentation",
+            "publication": "MESA",
+            "date": "2016-02-01T00:00:00.000Z",
+            "description": "First prize"
+        },
+        {
+            "title": "Resumes & CV making",
+            "publication": "CESA",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "Second prize"
+        },
+        {
+            "title": "JIDNYASA-13 Mathes",
+            "publication": "K.k.Wagh College,Nasik",
+            "date": "2013-02-01T00:00:00.000Z",
+            "description": "Mathematics Competition for Engineering Students by Department of Science by K.k.Wagh College,Nasik SECOND PRIZE"
+        }
+    ]
+}

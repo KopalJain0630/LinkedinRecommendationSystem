@@ -1,0 +1,226 @@
+{
+    "city": "Hyderabad, Telangana, India",
+    "position": "Analyst @ Goldman Sachs |  Teaching Assistant | Researcher in NLP | MMVY Scholar | IIIT-Hyderabad'22",
+    "experience": [
+        {
+            "title": "Analyst",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Goldman Sachs",
+            "company_id": "goldman-sachs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IIIT Hyderabad",
+            "location": "Hyderabad Area, India",
+            "description_html": null,
+            "duration": "3 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "IIIT Hyderabad",
+                    "meta": "May 2019 - Dec 2024 5 years 8 months",
+                    "description": "Pursuing research in Natural Language Processing Lab under Prof. Manish Srivastava. Worked on Sentiment Analysis of Code Mixed Social Media Texts.",
+                    "duration": "May 2019 Dec 2024 5 years 8 months",
+                    "start_date": "May 2019",
+                    "end_date": "Dec 2024",
+                    "duration_short": "5 years 8 months",
+                    "title": "Undergraduate Researcher in NLP",
+                    "description_html": "Pursuing research in Natural Language Processing Lab under Prof. Manish Srivastava. <br>Worked on Sentiment Analysis of Code Mixed Social Media Texts. <!---->"
+                },
+                {
+                    "subtitle": "IIIT Hyderabad",
+                    "meta": "Jan 2022 - May 2022 5 months",
+                    "duration": "Jan 2022 May 2022 5 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "May 2022",
+                    "duration_short": "5 months",
+                    "title": "Teaching Assistant for Software Engineering",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "IIIT Hyderabad",
+                    "meta": "Aug 2021 - Dec 2021 5 months",
+                    "description": "Worked with Dr. Kamal Karlapalem on designing Database system projects, assignments and quizzes.",
+                    "duration": "Aug 2021 Dec 2021 5 months",
+                    "start_date": "Aug 2021",
+                    "end_date": "Dec 2021",
+                    "duration_short": "5 months",
+                    "title": "Teaching Assistant for Database Systems",
+                    "description_html": "Worked with Dr. Kamal Karlapalem on designing Database system projects, assignments and quizzes. <!---->"
+                }
+            ],
+            "company": "IIIT Hyderabad",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Designed and implemented the backend and database for Video Content monitoring.Created API's to interact with ML models for various Video inferencing tasks.Used Django, ReactJs, Docker, AgoraSDK.",
+            "description_html": "Designed and implemented the backend and database for Video Content monitoring.Created API's to interact with ML models for various Video inferencing tasks.Used Django, ReactJs, Docker, AgoraSDK. <!---->",
+            "duration": "Jan 2022 Mar 2022 3 months",
+            "start_date": "Jan 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "3 months",
+            "company": "Couture.ai",
+            "company_id": "coutureai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Financial Analyst",
+            "location": "Jabalpur, Madhya Pradesh, India",
+            "description": "Undertook Zerodha Varsity's training for Personal Finance and Capital Markets.",
+            "description_html": "Undertook Zerodha Varsity's training for Personal Finance and Capital Markets. <!---->",
+            "duration": "Aug 2021 Dec 2021 5 months",
+            "start_date": "Aug 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "5 months",
+            "company": "Zerodha",
+            "company_id": "zerodha",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Portfolio Analytics Team, Equities Risk Management, Global Markets",
+            "description_html": "Portfolio Analytics Team, Equities Risk Management, Global Markets <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Goldman Sachs",
+            "company_id": "goldman-sachs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IIIT Hyderabad",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "10 months",
+            "positions": [
+                {
+                    "subtitle": "IIIT Hyderabad",
+                    "meta": "Dec 2020 - May 2021 6 months",
+                    "description": "Teaching Assistant for Software System Design course under Prof. Ramesh Loganathan.",
+                    "duration": "Dec 2020 May 2021 6 months",
+                    "start_date": "Dec 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "6 months",
+                    "title": "Teaching Assistant for Design and Analysis of Software Systems Course",
+                    "description_html": "Teaching Assistant for Software System Design course under Prof. Ramesh Loganathan. <!---->"
+                },
+                {
+                    "subtitle": "IIIT Hyderabad",
+                    "meta": "Nov 2019 - Jan 2021 1 year 3 months",
+                    "description": "Responsible for conducting the on-campus Placement Drive.",
+                    "duration": "Nov 2019 Jan 2021 1 year 3 months",
+                    "start_date": "Nov 2019",
+                    "end_date": "Jan 2021",
+                    "duration_short": "1 year 3 months",
+                    "title": "Placement Coordinator",
+                    "description_html": "Responsible for conducting the on-campus Placement Drive. <!---->"
+                },
+                {
+                    "subtitle": "IIIT Hyderabad",
+                    "meta": "Aug 2020 - Dec 2020 5 months",
+                    "description": "Teaching Assistant for Principles of Information Security Course under Prof.  Kannan Srinathan.Work involved mentoring, coordinating and evaluating teams on Information Security projects.",
+                    "duration": "Aug 2020 Dec 2020 5 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "Dec 2020",
+                    "duration_short": "5 months",
+                    "title": "Teaching Assistant for Principles of Information Security",
+                    "description_html": "Teaching Assistant for Principles of Information Security Course under Prof. Kannan Srinathan.<br><br>Work involved mentoring, coordinating and evaluating teams on Information Security projects. <!---->"
+                }
+            ],
+            "company": "IIIT Hyderabad",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Developer",
+            "location": "Hyderabad Area, India",
+            "description": "- Developed a portal for the Student Remote Internship Program at IIIT Hyderabad.- Mentored above 200 students and helped them to get equipped with the basic web development technologies.- Implemented experiments of Natural Language Processing.",
+            "description_html": "- Developed a portal for the Student Remote Internship Program at IIIT Hyderabad.- Mentored above 200 students and helped them to get equipped with the basic web development technologies.- Implemented experiments of Natural Language Processing. <!---->",
+            "duration": "May 2019 Aug 2019 4 months",
+            "start_date": "May 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "4 months",
+            "company": "VLEAD",
+            "company_id": "vlead",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "International Institute of Information",
+            "degree": "B.Tech. (Honours) and M.S. by Research",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vibrant Academy India Pvt Ltd",
+            "degree": "IIT-JEE Coaching",
+            "field": "Physics, Chemistry, Maths, Logical Reasoning",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"10\",\"title\":\"Algorithms\"},{\"subtitle\":\"9\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"10\",\"title\":\"Computer Programming\"},{\"subtitle\":\"9\",\"title\":\"Data Structures\"},{\"subtitle\":\"9\",\"title\":\"Database Systems\"},{\"subtitle\":\"9\",\"title\":\"Engineering Systems\"},{\"subtitle\":\"9\",\"title\":\"Game Design and Engineering\"},{\"subtitle\":\"9\",\"title\":\"Graphics\"},{\"subtitle\":\"10\",\"title\":\"IT Workshop\"},{\"subtitle\":\"9\",\"title\":\"Natural Language Processing & Application\"},{\"subtitle\":\"10\",\"title\":\"Operating Systems\"},{\"subtitle\":\"10\",\"title\":\"Principles of Information Security\"},{\"subtitle\":\"10\",\"title\":\"Software Engineering\"},{\"subtitle\":\"9\",\"title\":\"Software System Analysis and Design\"},{\"subtitle\":\"10\",\"title\":\"Statistical Methods in AI (Machine Learning)\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020Credential ID ZK4MBVXGLDV6See credential",
+            "subtitle": "Coursera",
+            "title": "Professional Networking on LinkedIn"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 369C24CEA073See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving - Arrays, Strings, Sorting Searching"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 35C9E742BA0CSee credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving - HashMaps, Stacks, Queues, Optimisations"
+        }
+    ],
+    "current_company_name": "Goldman Sachs",
+    "publications": "[{\"title\":\"AbuseAnalyzer: Abuse Detection, Severity and Target Prediction for Gab Posts\",\"subtitle\":\"Conference on Computational Linguistics (COLING) 2020\",\"date\":\"October 1, 2020\",\"description\":\"Developed and analyzed a corpus which categorizes social media posts based on the severity and target of abuse. Analyzed a transformer-based text classifier that gives an accuracy of ~80 % for detecting the presence of abuse, ~82 % for detecting the target of abuse, and ~64 % for detecting the severity of abuse.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Smart Traffic Analysis\",\"start_date\":\"Mar 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Developed a ML-based web app which scans cctv videos for accidents, pedestrian crossings, over speeding of vehicles with a team of 6 members. The app was built using CI-CD pipeline along with rigorous unit testing. The project was considered one of the best among 25 others by judges from Amazon.\"},{\"title\":\"Community Question Answering\",\"start_date\":\"Feb 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Implemented Siamese Network with Attention to detect similar questions and achieved 86% accuracy on the Quora Kaggle dataset.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Deans List",
+            "publication": "IIIT Hyderabad",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": "Award for Academic Excellence for being in top 5% of the batch."
+        },
+        {
+            "title": "Google Kickstart Round D",
+            "publication": "Google",
+            "date": "2019-08-01T00:00:00.000Z",
+            "description": "Secured a rank of 672 globally in Google Kickstart Round D 2019."
+        },
+        {
+            "title": "MMVY Scholarship",
+            "publication": "Madhya Pradesh Government",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "For excelling in academics in Senior secondary and All India Entrance Examination (JEE Mains)"
+        }
+    ]
+}

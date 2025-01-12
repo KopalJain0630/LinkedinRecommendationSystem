@@ -1,0 +1,293 @@
+{
+    "id": "abhranil-das-1202271bb",
+    "name": "Abhranil Das",
+    "city": "Kharagpur, West Bengal, India",
+    "country_code": "IN",
+    "position": "--",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Cisco",
+        "company_id": "cisco",
+        "title": "--"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Cisco",
+            "company_id": "cisco",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Platform Engineer Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Aug 2022 Apr 2023 9 months",
+            "start_date": "Aug 2022",
+            "end_date": "Apr 2023",
+            "duration_short": "9 months",
+            "company": "Prodigal",
+            "company_id": "prodigaltech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Graduate Intern",
+            "description": "•Built an application to filter logs based on certain parameters and made a controller for the same using Vertx shell, which reduced redundancy in logging debug level logs.•Worked on AWS Neptune and gremlin to write scripts to update various entites based on API calls.•Worked on localization of frontend components in Angular using i18.",
+            "description_html": "•Built an application to filter logs based on certain parameters and made a controller for the same using Vertx shell, which reduced redundancy in logging debug level logs.•Worked on AWS Neptune and gremlin to write scripts to update various entites based on API calls.•Worked on localization of frontend components in Angular using i18. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Cisco",
+            "company_id": "cisco",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Backend Engineer Intern",
+            "description": "•Optimizing serverless applications using AWS services.•Creating data engineering solutions for timely alerts and failure for processes.•Automating a wide genre of tasks using bash scripts and papermill wrappers.•Worked in autoscalling and optimizing resources leveraging kubernetes and docker.",
+            "description_html": "•Optimizing serverless applications using AWS services.•Creating data engineering solutions for timely alerts and failure for processes.•Automating a wide genre of tasks using bash scripts and papermill wrappers.•Worked in autoscalling and optimizing resources leveraging kubernetes and docker. <!---->",
+            "duration": "Sep 2021 Apr 2022 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "8 months",
+            "company": "Prodigal",
+            "company_id": "prodigaltech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "ML/SDE Intern",
+            "description": "•Worked on a prototype for generating medical reports based on doctor-patient conversation.•Utilized the Named Entity Recognition Model to pick up important medical terms from the conversation between doctor and patient.•Trained various classification models to predict the diet and medicines for a patient, based on symptoms discussed during the consultation.",
+            "description_html": "•Worked on a prototype for generating medical reports based on doctor-patient conversation.•Utilized the Named Entity Recognition Model to pick up important medical terms from the conversation between doctor and patient.•Trained various classification models to predict the diet and medicines for a patient, based on symptoms discussed during the consultation. <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Erfinden",
+            "company_id": "erfinden",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Udit Agarwal",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Vroon Saxena",
+            "about": "Looking For Job? Check #FreeJob here : Facebook.com/AnddJobs | Apply: hr@anddjobs.com | #NeverPayForAJob #Helpajobseeker",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Hafiz Khan",
+            "about": "HR Admin for Manufacturing Company in Delhi",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Tejas Gajjar",
+            "about": null,
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohamed Thowfeeq F",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Arora",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ranvir Katoch",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Samir Chopra",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "EADARA PRADEEP KUMAR",
+            "about": "Sr HR Manager",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Vijay Samuel",
+            "about": null,
+            "location": "Tiruvallur"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "8.50",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 484.0,
+    "connections": 487.0,
+    "current_company_company_id": "cisco",
+    "current_company_name": "Cisco",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Multiplayer Chess Game\",\"start_date\":\"May 2021\",\"end_date\":\"Jul 2021\",\"description\":\"•Desgined and built a multiplayer chess game where multiple players can play tha game at the same time•Used the Pygame library to make the user interface and python to develop and design the logic. •Players are matched randomly with each other and can surrender the game any time they want\"},{\"title\":\"Quiz Application\",\"start_date\":\"May 2021\",\"end_date\":\"Jun 2021\",\"description\":\"•Implemented an end-to-end Quiz Web Application using Django as a backend.•Used PostegreSQL as the database to store all the data instead of the the default SQLite Database.•Features include ability to review previously attempted quizzes, appear for quizzes varying over several categories and also make custom quizzes\"},{\"title\":\"Photo Sharing Platform\",\"description\":\"•Worked on a photo/blog sharing platform with Django as the web framework.•Features include ability to share photos, write blogs, follow people on the platform to see what they have shared.\"},{\"title\":\"Sorting Visualizer\",\"description\":\"•Successfully Implemented a sorting visualizer to visualize all the important comparison based sorting algorithms•Used Tkinter, a Graphical User Interface written in python to built the user interface.\"}]",
+    "organizations": null,
+    "location": "Kharagpur",
+    "linkedin_id": "abhranil-das-1202271bb",
+    "activity": [
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "After being part of the 𝗚𝗲𝗻𝗔𝗜 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻 𝗶𝗻 𝗥𝗲𝗴𝘂𝗹𝗮𝘁𝗲𝗱 𝗜𝗻𝗱𝘂𝘀𝘁𝗿𝗶𝗲𝘀 panel at 𝗥𝗔𝗚++ in NYC this September,…",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "Note to self: please return calls .. lol #SwiggyIPO",
+            "img": "",
+            "id": "7262680429726511104"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "An engineer used Jira to plan his wedding !! Proud to say that I contributed to his wedding through code 🙌",
+            "img": "",
+            "id": "7262810473186668544"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "Is someone cutting onions? 🤧 I wanted to share a success story with you all because I know the market can feel impossible right now. Today, I…",
+            "img": "",
+            "id": "7258152495707832320"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "💡\"𝗕𝗲𝗳𝗼𝗿𝗲 𝗬𝗼𝘂 𝗕𝘂𝘆: 𝗛𝗼𝘄 𝗧𝗼𝗱𝗮𝘆’𝘀 𝗖𝗼𝗻𝘀𝘂𝗺𝗲𝗿𝘀 𝗔𝗿𝗲 𝗦𝗵𝗮𝗽𝗶𝗻𝗴 𝗧𝗵𝗲𝗶𝗿 𝗦𝗵𝗼𝗽𝗽𝗶𝗻𝗴 𝗗𝗲𝗰𝗶𝘀𝗶𝗼𝗻𝘀…",
+            "img": "",
+            "id": "7253744272401670144"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "🚀 From Sleepless Nights to Multiple Offers: How I Balanced Non-Stop Interviews and Deadlines at LinkedIn Earlier this year, I embarked on an…",
+            "img": "",
+            "id": "7253423829455159296"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "Bought The Whole Truth chocolates first time ever -almond choco fudge -peanut choco fudge Opened peanut choco fudge wherein I found a piece of…",
+            "img": "",
+            "id": "7253038043698241536"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "Have you tuned in to the Signals & Threads tech podcast? Listen in on Jane Street's Ron Minsky as he has conversations with engineers working on…",
+            "img": "",
+            "id": "7251975219119030272"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "#frontend #hiring #alerts",
+            "img": "",
+            "id": "7250387086023802880"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "I'm hiring! We're looking for an intern who can join Akshat Vaidya, Sangram Raje and yours truly who is interested to learn more about creating…",
+            "img": "",
+            "id": "7249039602466865154"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "🚀 We're Hiring: Senior Backend Developer & Lead Backend Engineer! 🚀 Join our innovative team as a Backend Engineer and help build scalable…",
+            "img": "",
+            "id": "7246028830287486976"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "Deadline to apply is till 4.00pm today, evaluation test would commence at evening. 📢New Role - Data Scientist Good CTC Range - 5.00 LPA - 12.00…",
+            "img": "",
+            "id": "7246060692296912897"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "Follow Mitsui O.S.K. Lines! Stay informed on cutting-edge maritime technologies and sustainability practices. MOL is committed to advancing global…",
+            "img": "",
+            "id": "7241661731737853952"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "ICPC World Finals 2024 standings are finalised. Below are the ranks of Indian teams out of a total of 144 teams: IIT Kharagpur- 59 IIT Delhi - 63 IIT…",
+            "img": "",
+            "id": "7243169148506144768"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "At Hustle Fund, we believe the team is the most important piece of criteria when evaluating an investment decision, and we break it down into three…",
+            "img": "",
+            "id": "7235141687218503680"
+        },
+        {
+            "interaction": "Liked by Abhranil Das",
+            "link": "",
+            "title": "We're #hiring a Senior Software Engineer to join our Product Engineering team! At Prodigal, we are transforming the future of consumer finance by…",
+            "img": "",
+            "id": "7234799385186811904"
+        }
+    ],
+    "linkedin_num_id": 857528808.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

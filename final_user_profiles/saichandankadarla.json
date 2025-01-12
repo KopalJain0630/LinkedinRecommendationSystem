@@ -1,0 +1,343 @@
+{
+    "id": "saichandankadarla",
+    "name": "Sai Chandan Kadarla",
+    "city": "United Kingdom",
+    "country_code": "GB",
+    "position": "Software Engineer @ Infonetica | Entrepreneurship | IIT Kharagpur\u00e2\u20ac\u212223",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Infonetica",
+        "company_id": "infonetica",
+        "title": "Software Engineer @ Infonetica | Entrepreneurship | IIT Kharagpur\u00e2\u20ac\u212223"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Infonetica",
+            "company_id": "infonetica",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Led a team in developing a Golang-based backend service using Mux router for microservice management and Postgres database with Ent.go as ORM.- Implemented HTTP layered architecture patterns and rigorous testing standards to ensure scalability and reliability.- Utilized Docker containers with Postgres and Supertokens auth for automated deployment.- Integrated the Go Ethereum package to establish communication with smart contracts using interfaces.",
+            "description_html": "- Led a team in developing a Golang-based backend service using Mux router for microservice management and Postgres database with Ent.go as ORM.- Implemented HTTP layered architecture patterns and rigorous testing standards to ensure scalability and reliability.- Utilized Docker containers with Postgres and Supertokens auth for automated deployment.- Integrated the Go Ethereum package to establish communication with smart contracts using interfaces. <!---->",
+            "duration": "Dec 2022 Feb 2023 3 months",
+            "start_date": "Dec 2022",
+            "end_date": "Feb 2023",
+            "duration_short": "3 months",
+            "company": "Density",
+            "company_id": "densityexchange",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Intern @udaan.com",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Initiated a database-driven platformisation for registering different homepages in the backend service. Deployed it to production, with a volume of 2.8 crore+ weekly users.Created a resource for the Dropwizard service application, for registering endpoints, which performs CRUD operations in Azure Cosmos DB.Worked with Guice's Session Injector dependency module to create abstract factories for handling diverse classes.",
+            "description_html": "Initiated a database-driven platformisation for registering different homepages in the backend service. Deployed it to production, with a volume of 2.8 crore+ weekly users.Created a resource for the Dropwizard service application, for registering endpoints, which performs CRUD operations in Azure Cosmos DB.Worked with Guice's Session Injector dependency module to create abstract factories for handling diverse classes. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "udaan.com",
+            "company_id": "udaan",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founding Team Member",
+            "location": "Hyderabad, Telangana, India",
+            "description": "- Developed a mobile application for Expresso Reddit, a popular social media platform, using the Flutter framework.- Implemented 40+ features to enhance user engagement, including seamless media sharing (video, photo, GIFs, stickers), customizable groups, real-time live reactions, nested replies, and post-sharing capabilities.- Successfully deployed the application to the Google Play Store, resulting in over 7K+ downloads across India.",
+            "description_html": "- Developed a mobile application for Expresso Reddit, a popular social media platform, using the Flutter framework.- Implemented 40+ features to enhance user engagement, including seamless media sharing (video, photo, GIFs, stickers), customizable groups, real-time live reactions, nested replies, and post-sharing capabilities.- Successfully deployed the application to the Google Play Store, resulting in over 7K+ downloads across India. <!---->",
+            "duration": "Jul 2021 May 2022 11 months",
+            "start_date": "Jul 2021",
+            "end_date": "May 2022",
+            "duration_short": "11 months",
+            "company": "Expresso - Expresso.house",
+            "company_id": "expressohouse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Created a Website which implements Google's Mediapipe library for Pose detection, and React is used for frontend.- Added Unity Games integration, which communicates with the website using the Unity WebGL library for React- Hosted website in AWS using EC2 instance with Nginx as the web server. Used Certificate Manager to add an SSL certificate.- Developed backend for Secure Authentication using NodeJs and MongoDB as a database",
+            "description_html": "- Created a Website which implements Google's Mediapipe library for Pose detection, and React is used for frontend.- Added Unity Games integration, which communicates with the website using the Unity WebGL library for React- Hosted website in AWS using EC2 instance with Nginx as the web server. Used Certificate Manager to add an SSL certificate.- Developed backend for Secure Authentication using NodeJs and MongoDB as a database <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "upUgo Fitness & Sports",
+            "company_id": "upugofitness",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "- Developed mobile application using Google\u00e2\u20ac\u2122s Flutter framework, which has 2k+ installs across 27+ countries- Used BLoC State management technique for a modular and scalable codebase.- Integrated payment gateway with Razorpay, Real-Time chatting with online users, and Push Notifications.",
+            "description_html": "- Developed mobile application using Google\u00e2\u20ac\u2122s Flutter framework, which has 2k+ installs across 27+ countries- Used BLoC State management technique for a modular and scalable codebase.- Integrated payment gateway with Razorpay, Real-Time chatting with online users, and Push Notifications. <!---->",
+            "duration": "Jan 2021 May 2021 5 months",
+            "start_date": "Jan 2021",
+            "end_date": "May 2021",
+            "duration_short": "5 months",
+            "company": "ImbueDesk ENS Pvt Ltd",
+            "company_id": "imbuedesk",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "- Developed a Tablet application using Google's Flutter framework, which communicates with a vending machine and an API- Established a two-way serial communication with the machine's BLE (ESP32) device for real-time instructions.- Created NodeJs backend, hosted on the Heroku platform, which connects to the MongoDB Cloud database for storage",
+            "description_html": "- Developed a Tablet application using Google's Flutter framework, which communicates with a vending machine and an API- Established a two-way serial communication with the machine's BLE (ESP32) device for real-time instructions.- Created NodeJs backend, hosted on the Heroku platform, which connects to the MongoDB Cloud database for storage <!---->",
+            "duration": "Nov 2020 Feb 2021 4 months",
+            "start_date": "Nov 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "4 months",
+            "company": "Possibillion Technologies",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "description_html": null,
+            "duration": "Sep 2019 Sep 2020 1 year 1 month",
+            "start_date": "Sep 2019",
+            "end_date": "Sep 2020",
+            "duration_short": "1 year 1 month",
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Financial Analyst",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Meghnad Saha Hall of Residence, Indian Institute of Technology Kharagpur",
+            "description_html": null,
+            "duration": "1 year 1 month",
+            "positions": [
+                {
+                    "subtitle": "Meghnad Saha Hall of Residence, Indian Institute of Technology Kharagpur",
+                    "meta": "Aug 2019 - Aug 2020 1 year 1 month",
+                    "duration": "Aug 2019 Aug 2020 1 year 1 month",
+                    "start_date": "Aug 2019",
+                    "end_date": "Aug 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Secretary students welfare",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Meghnad Saha Hall of Residence, Indian Institute of Technology Kharagpur",
+                    "meta": "Aug 2019 - Aug 2020 1 year 1 month",
+                    "duration": "Aug 2019 Aug 2020 1 year 1 month",
+                    "start_date": "Aug 2019",
+                    "end_date": "Aug 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Secretary technology",
+                    "description_html": null
+                }
+            ],
+            "company": "Meghnad Saha Hall of Residence, Indian Institute of Technology Kharagpur",
+            "company_id": "meghnad-saha-hall-of-residence-indian-institute-of-technology-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Swagat Kumar Panda",
+            "about": "SDE @Amazon Prime | IIT Kharagpur '23",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhavani Susmitha",
+            "about": "CEO\u00e2\u20ac\u2122s Office @ Cloud4C | IIM Ahmedabad \u00e2\u20ac\u02dc23 | IIT Patna \u00e2\u20ac\u02dc21",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya M Bhilkar",
+            "about": "Assistant Manager-Indiamart | RBL Bank | MBA-IIM Kashipur'21 | Intern-MBAtrek",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Chauhan",
+            "about": "Zomato | ex Oracle Cloud AI/ML Platform | CSE IITD | ex-CRED",
+            "location": "Chandigarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Kedar Chaudhari",
+            "about": "VMware",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Jain",
+            "about": null,
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Santhoshi Fothedar",
+            "about": "Data Analyst",
+            "location": "Warangal"
+        },
+        {
+            "profile_link": "",
+            "name": "Franklin Gari R.",
+            "about": "Indian Revenue Service '24 | Dr. Reddy's Laboratories | IIT Delhi '22",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sandipan Mitra",
+            "about": "American Express | IIT Kanpur'23",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushan Kumar Singh",
+            "about": "Product @Ola || Ex-Product @Droom || Ex-UG Rep@IIT Kharagpur",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master's degree",
+            "field": "Entrepreneurship/Entrepreneurial Studies",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Narayana Junior College - India",
+            "degree": "11th and 12th",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Bhashyam College of Education",
+            "degree": "10th",
+            "field": "10 CGPA",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"CS50 introduction to Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Cs50 Introduction to computer science\"},{\"subtitle\":\"-\",\"title\":\"Ml Andrew ng\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023Credential ID a7a0ce3f-9123-4514-ae02-2495c21bb92cSee credential",
+            "subtitle": "ACM, Association for Computing Machinery",
+            "title": "Hacklipse"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "Jul 2018 - Present \u00c2\u00b7 6 years 6 months",
+            "duration_short": "6 years 6 months",
+            "end_date": "Present",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 1744.0,
+    "connections": 500.0,
+    "current_company_company_id": "infonetica",
+    "current_company_name": "Infonetica",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "saichandankadarla",
+    "activity": [
+        {
+            "interaction": "Liked by Sai Chandan Kadarla",
+            "link": "",
+            "title": "Teacher's Day at Rajendra Mishra School of Engineering Entrepreneurship-RMSoEE, Indian Institute of Technology, Kharagpur...",
+            "img": "",
+            "id": "7237688176612388864"
+        },
+        {
+            "interaction": "Liked by Sai Chandan Kadarla",
+            "link": "",
+            "title": "Who needs the MRP?",
+            "img": "",
+            "id": null
+        },
+        {
+            "interaction": "Shared by Sai Chandan Kadarla",
+            "link": "",
+            "title": "Yo KGP!!",
+            "img": "",
+            "id": "7218585257065766912"
+        },
+        {
+            "interaction": "Liked by Sai Chandan Kadarla",
+            "link": "",
+            "title": "The most awaited startup list of the month is out! We are so excited to announce this month\u00e2\u20ac\u2122s 30 Startups To Watch series \u00e2\u20ac\u201c featuring the 30 hottest\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7202926914460635136"
+        },
+        {
+            "interaction": "Liked by Sai Chandan Kadarla",
+            "link": "",
+            "title": "Conference | It\u00e2\u20ac\u2122s day 1 of The Research and Development Forum and we can\u00e2\u20ac\u2122t wait to meet you! Join our Product Manager, Steven Dowse, and Customer\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7195709102210076674"
+        },
+        {
+            "interaction": "Liked by Sai Chandan Kadarla",
+            "link": "",
+            "title": "Yesterday, we celebrated at our Infonetica Christmas party.\u00f0\u0178\u017d\u201e From an office mini-golf competition, ice skating at Hampton Court Palace, to dinner\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7141466245987536897"
+        }
+    ],
+    "linkedin_num_id": 726956251.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

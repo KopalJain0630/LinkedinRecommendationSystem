@@ -1,0 +1,56 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Roorkee",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1995",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Base of the Pyramid\"},{\"subtitle\":\"-\",\"title\":\"Business in Society\"},{\"subtitle\":\"-\",\"title\":\"Environmental Engineering\"},{\"subtitle\":\"-\",\"title\":\"Financial Modelling\"},{\"subtitle\":\"-\",\"title\":\"Global Comparative Property Rights\"},{\"subtitle\":\"-\",\"title\":\"Local and State Policy\"},{\"subtitle\":\"-\",\"title\":\"Public Management\"},{\"subtitle\":\"-\",\"title\":\"Transportation Engineering\"},{\"subtitle\":\"-\",\"title\":\"Water Resources Management\"}]",
+    "certifications": null,
+    "current_company_name": "GoKwik",
+    "publications": "[{\"title\":\"Wise water management using SCADA at RRCAT.\",\"subtitle\":\"40th Annual Convention of IWWA held at Indore organised by Indian water works Association\",\"date\":\"Feb 2008\",\"description\":\"The paper is based on successful deployment of a best practice: SCADA (supervisory control and data acquisition) based water management in RRCAT Colony of Indore, which is a highly sensitive area as per Atomic Energy Regulatory Act 1962 and hence demands high reliability of water supply. This best practice has immense scope of application in various municipalities in the state of Madhya Pradesh. The paper highlights various features of SCADA including signal communication, operating philosophy, instrumentation issues, cost economics etc. leading to wise water management (2008)\"},{\"title\":\"Failure analysis of recharged tube wells\",\"subtitle\":\"February 2008 40th Annual Convention of IWWA held at Indore organised by Indian water works Association\",\"date\":\"Feb 2007\",\"description\":\"The paper analyses the underlying reasons of failure in recharging tube wells. The success of this ground water recharge technique could have huge implications in the water starved region of Malwa which currently depends solely on the Narmada river for its water needs (2008)\"},{\"title\":\"All words are pegs to hang ideas on!\",\"subtitle\":\"British Council\",\"description\":\"Looking back on the Re-Imagine Youth Conference\"},{\"title\":\"Operational Challenges in Land regularization project in Kukatpally, Hyderabad”\",\"subtitle\":\"World Bank\",\"description\":\"Authored and presented at World Bank’s Land and poverty conference, 2015 to highlight the effects of weak institutional practices on targeting, accountability and transparency in land regularization programs\"},{\"title\":\"Voice of Youth\",\"subtitle\":\"Sampark\",\"description\":\"The Power of Youth - Writings from Edinburgh\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"International Economic Development Program (IEDP)\",\"start_date\":\"Jan 2015\",\"description\":\"Selected as a part of 4 member team to study the experience of scaling up \\\"Favela Bairro\\\" - a slum upgradation project in Rio-di Janiero, Brazil to a Rio-city wide slum free city program called \\\"Morar Carioca\\\" Conducted field trips and meetings with key stakeholders from Ministry of Housing in Brasilia to civil society groups such as IBase in Rio to understand the ground realities of Morar Carioca. The progress of the project is captured in https://iedpbrazil.wordpress.com/\"},{},{\"title\":\"SFURTI: Addressing Challenges in Slum Redevelopment\",\"start_date\":\"Jan 2015\",\"description\":\"Funded by the Graham Sustainability Institute, our interdisciplinary team is looking to understand the sucess of in-situ slum redevelopment by studying Mumbai Model of slum redevelopment, monitored by SRA (Slum Rehabilitation Authority) .We propose addition of sustainable elements in the policy through smarter use of technology, incorporating design thinking for communities and by having a sustainability lens in creating solutions for the future.\"},{},{},{},{\"title\":\"Re-Imagine\",\"start_date\":\"Aug 2012\",\"description\":\"Re-Imagine is a one-year research and dialogue initiative of the British Council and partner organizations in India and the UK. It aims to build on the shared history between India and the UK to re-imagine a mutually beneficial relationship that values the past while seeking to define the future for these two countries in the 21st century.\"},{},{\"title\":\"Hydraulic and Structural Design of Siphon for Canal Water Intake\",\"start_date\":\"Jan 2006\",\"end_date\":\"May 2006\",\"description\":\"Designed siphons and accompanying anchor blocks for the intake of water from Bhakra Main Line to multi-Purpose Link Channel in Haryana for the B.Tech Project (BTP)\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Dow Sustainability Fellow",
+            "publication": "Graham Institute of Sustainability",
+            "date": "2014-12-01T00:00:00.000Z",
+            "description": "Awarded $20,000 fellowship and selected as a Dow Sustainability fellow, a cohort of 40 students across the campus Awarded a $10,000 seed grant for working in an inter-disciplinary team on creating sustainable strategies for slum redevelopment in India Led a team of 5 students to conduct 16 stakeholder meetings ranging from policy makers, regulatory agencies, real estate players, private equity players to academia in 3 cities of India - Delhi, Mumbai and Ahemdabad The… Show more"
+        },
+        {
+            "title": "Merit Scholarship",
+            "publication": "Gerlad R. Ford School of Public Policy",
+            "date": "2014-07-01T00:00:00.000Z",
+            "description": "Awarded Ford School scholarship with full tuition waiver"
+        },
+        {
+            "title": "Gauri Shanker Award",
+            "publication": "IIT Roorkee",
+            "date": "2009-08-01T00:00:00.000Z",
+            "description": "Highest GPA in the fifth semester in Civil Engineering, B.Tech, IIT Roorkee"
+        }
+    ]
+}

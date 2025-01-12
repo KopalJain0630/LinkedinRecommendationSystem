@@ -1,0 +1,54 @@
+{
+    "city": "Jaipur, Rajasthan, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "university of Rajasthan",
+            "start_year": "2011",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Javascript\"},{\"subtitle\":\"-\",\"title\":\"Web Development \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jan 2023Credential ID UC-a74b7f50-a4dc-4911-b294-8ba9dfaab1deSee credential",
+            "subtitle": "Udemy",
+            "title": "How To Become A Shopify Expert"
+        },
+        {
+            "meta": "Issued Jan 2023Credential ID UC-ccc14329-70da-40db-b087-e7c36cc65e41See credential",
+            "subtitle": "Udemy",
+            "title": "Redux Saga with React: Fast-track Redux Saga intro course"
+        },
+        {
+            "meta": "Issued Apr 2022Credential ID UC-a3e83d75-c113-4a5c-b76f-c043711bcc25See credential",
+            "subtitle": "Udemy",
+            "title": "The Swift Arcade Data Structures and Algorithms Bootcamp"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID UC-c7909429-15d9-4ba4-b2ca-a81e439ead6bSee credential",
+            "subtitle": "Udemy",
+            "title": "Agile Project Management"
+        },
+        {
+            "subtitle": "-",
+            "title": "PHP Certificate"
+        }
+    ],
+    "current_company_name": "Infosys",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Arjlandsurvey\",\"start_date\":\"Mar 2015\",\"end_date\":\"Apr 2015\"}]",
+    "honors_and_awards": null
+}

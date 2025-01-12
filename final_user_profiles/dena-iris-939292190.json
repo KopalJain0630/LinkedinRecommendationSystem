@@ -1,0 +1,60 @@
+{
+    "city": "Chennai, Tamil Nadu, India",
+    "position": "makeup artist",
+    "experience": [
+        {
+            "title": "Business Owner",
+            "location": "Chennai, Tamil Nadu, India",
+            "description": "Bridal makeup, Baby shower, Reception",
+            "description_html": "Bridal makeup, Baby shower, Reception <!---->",
+            "duration": "Jul 2021 - Present 3 years 6 months",
+            "start_date": "Jul 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 6 months",
+            "company": "Irish_makeover",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Analyst",
+            "description_html": null,
+            "duration": "Jul 2019 Aug 2021 2 years 2 months",
+            "start_date": "Jul 2019",
+            "end_date": "Aug 2021",
+            "duration_short": "2 years 2 months",
+            "company": "MERIT SOFTWARE LTD",
+            "company_id": "merit-software-ltd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Stella Maris College",
+            "degree": "b. com(cs)",
+            "field": "banking",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Alpha matric higher secondary school",
+            "degree": "+2",
+            "field": "accountancy",
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Irish_makeover",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

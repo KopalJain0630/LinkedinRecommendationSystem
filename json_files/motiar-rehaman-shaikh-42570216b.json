@@ -1,0 +1,433 @@
+{
+    "id": "motiar-rehaman-shaikh-42570216b",
+    "name": "Motiar Rehaman Shaikh",
+    "city": "India",
+    "country_code": "IN",
+    "position": "Analyst @Deutsche Bank | FRM L1 | IIT Kharagpur",
+    "about": "Structured Credit Trading analyst in the Global Credit Trading team of the Fixed Income and Currencies division at Deutsche Bank, Mumbai. I am a highly motivated undergraduate from IIT Kharagpur with a strong interest in the application of ML and DL methods in finance and trading. Looking forward to utilizing my skills and passion to create a positive and influential presence in the field of financial markets and trading.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Deutsche Bank",
+        "company_id": "deutsche-bank",
+        "title": "Analyst @Deutsche Bank | FRM L1 | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Structured Credit Trading (EU)- Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Blockchain Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Built a social investing platform from ground up working with a team of 6 members, increasing product’s global outreach on different social media platforms- Performed comprehensive analysis of 30+ cryptocurrencies, leveraging various data sources to identify alpha opportunities and formulate recommended entry and exit points for optimal investment decisions.- Developed a comprehensive dashboard by integrating data from multiple cryptocurrency data API platforms, enabling sector-wise research and analysis.",
+            "description_html": "- Built a social investing platform from ground up working with a team of 6 members, increasing product’s global outreach on different social media platforms- Performed comprehensive analysis of 30+ cryptocurrencies, leveraging various data sources to identify alpha opportunities and formulate recommended entry and exit points for optimal investment decisions.- Developed a comprehensive dashboard by integrating data from multiple cryptocurrency data API platforms, enabling sector-wise research and analysis.",
+            "duration": "Dec 2021 May 2023 1 year 6 months",
+            "start_date": "Dec 2021",
+            "end_date": "May 2023",
+            "duration_short": "1 year 6 months",
+            "company": "flippy",
+            "company_id": "flippyfinance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "- Performed credit analysis of holdings of private equity’s portfolio of companies as a part of two live deals worth 1 billion Euros, 20% Loan to Value - Created one-pagers of companies to help the desk understand specific credit stories and identify associated risks and investment opportunities - Saved 20+ human hours per week by building an automated tool using VBA to track the daily profit and loss of all NAV line and subline credit facilities - Streamlined monitoring of daily funding requirements across 24 deals and created automation tools to perform dealwise borrower level RWA analysis",
+            "description_html": "- Performed credit analysis of holdings of private equity’s portfolio of companies as a part of two live deals worth 1 billion Euros, 20% Loan to Value - Created one-pagers of companies to help the desk understand specific credit stories and identify associated risks and investment opportunities - Saved 20+ human hours per week by building an automated tool using VBA to track the daily profit and loss of all NAV line and subline credit facilities - Streamlined monitoring of daily funding requirements across 24 deals and created automation tools to perform dealwise borrower level RWA analysis",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Deutsche Bank",
+            "company_id": "deutsche-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quant Club, IIT Kharagpur",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "2 years 8 months",
+            "positions": [
+                {
+                    "subtitle": "Quant Club, IIT Kharagpur",
+                    "meta": "May 2021 - May 2022 1 year 1 month",
+                    "description": "Passionately contributed to the promotion of Quantitative Finance awareness among the IIT Kharagpur community by advising and leading a 3-tier team of 40+ members. Developed and implemented an impactful course structure for junior associates, conducting regular knowledge sessions on finance, time series, trading, and analytics. Significantly enhanced the Quant Club's social media outreach, resulting in a remarkable increase of over 300% in student engagement and weekly insights into the Finance industry.",
+                    "duration": "May 2021 May 2022 1 year 1 month",
+                    "start_date": "May 2021",
+                    "end_date": "May 2022",
+                    "duration_short": "1 year 1 month",
+                    "title": "Advisor",
+                    "description_html": "Passionately contributed to the promotion of Quantitative Finance awareness among the IIT Kharagpur community by advising and leading a 3-tier team of 40+ members. Developed and implemented an impactful course structure for junior associates, conducting regular knowledge sessions on finance, time series, trading, and analytics. Significantly enhanced the Quant Club's social media outreach, resulting in a remarkable increase of over 300% in student engagement and weekly insights into the Finance industry."
+                },
+                {
+                    "subtitle": "Quant Club, IIT Kharagpur",
+                    "meta": "Aug 2020 - May 2021 10 months",
+                    "duration": "Aug 2020 May 2021 10 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "10 months",
+                    "title": "Quantitative Analyst and Head of Administration",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Quant Club, IIT Kharagpur",
+                    "meta": "Oct 2019 - Aug 2020 11 months",
+                    "duration": "Oct 2019 Aug 2020 11 months",
+                    "start_date": "Oct 2019",
+                    "end_date": "Aug 2020",
+                    "duration_short": "11 months",
+                    "title": "Associate Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Quant Club, IIT Kharagpur",
+            "company_id": "qciitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "- Prepared a report to identify different types of shell companies (Invoice, Benami) by analyzing financial statements of 30+ companies across 5 sectors - Identified 27 most relevant features out of 131 features, for shell company classification by using ANOVA, MI and forward feature selection method - Reported 40+ shell entities to the Income Tax Department using rules developed leading to a potential tax evasion penalty of INR 1000 Million+",
+            "description_html": "- Prepared a report to identify different types of shell companies (Invoice, Benami) by analyzing financial statements of 30+ companies across 5 sectors - Identified 27 most relevant features out of 131 features, for shell company classification by using ANOVA, MI and forward feature selection method - Reported 40+ shell entities to the Income Tax Department using rules developed leading to a potential tax evasion penalty of INR 1000 Million+ <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Karza Technologies Private Limited",
+            "company_id": "karza-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Achieved an f-score of 0.76 on a highly imbalanced text dataset by implementing classification models to classify article titles into two categories - Formulated a frequency-based trending word algorithm to find 1500+ historical trending words, phrases and n-grams for any given place and year - Identified the most popular ideas in general public sentiments from the years 1800-1950 by constructing a similarity matrix using cosine similarity",
+            "description_html": "- Achieved an f-score of 0.76 on a highly imbalanced text dataset by implementing classification models to classify article titles into two categories - Formulated a frequency-based trending word algorithm to find 1500+ historical trending words, phrases and n-grams for any given place and year - Identified the most popular ideas in general public sentiments from the years 1800-1950 by constructing a similarity matrix using cosine similarity <!---->",
+            "duration": "Apr 2020 Aug 2020 5 months",
+            "start_date": "Apr 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Management Bangalore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "location": "IIT Kharagpur",
+            "description": "- Accelerated Foreign Training Program 2019 securing 112 offers (57% YoY increase) from universities like Yale and Brown with funds of INR 10.6 Million - Co-ordinated the first edition of Dyuti, 5-day Techno-Cultural event for international students of 5 nations with 10 workshops, raising INR 0.2 Million - Hosted panel discussions on Foreign Training and MS-PhD application both consisting of 300+ attendees in acclimating to the application process  - Captivated the interests of 14 MNCs to submit a 215-page bid book as a Corporate Relations team member of HPAIR India Kolkata bidding team",
+            "description_html": "- Accelerated Foreign Training Program 2019 securing 112 offers (57% YoY increase) from universities like Yale and Brown with funds of INR 10.6 Million - Co-ordinated the first edition of Dyuti, 5-day Techno-Cultural event for international students of 5 nations with 10 workshops, raising INR 0.2 Million - Hosted panel discussions on Foreign Training and MS-PhD application both consisting of 300+ attendees in acclimating to the application process - Captivated the interests of 14 MNCs to submit a 215-page bid book as a Corporate Relations team member of HPAIR India Kolkata bidding team",
+            "duration": "Jan 2019 Jul 2020 1 year 7 months",
+            "start_date": "Jan 2019",
+            "end_date": "Jul 2020",
+            "duration_short": "1 year 7 months",
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Prathamesh Themdeo",
+            "about": "CEO's Office @ Solar | Merilytics | NIT Nagpur",
+            "location": "Nagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Tejal Agarwal",
+            "about": "Quantitative Strategist at Goldman Sachs | IIT Guwahati",
+            "location": "Hajo"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Gupta",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruv Goel",
+            "about": null,
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ampolu Prathyusha",
+            "about": "Analyst @ Accenture Strategy & Consulting • CFA Level 1 • IIT Kharagpur’23",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Gajendra Singh",
+            "about": "PwC | IIM Kozhikode (Top 15%) | IIT Madras",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Parth Iramani",
+            "about": "Software Engineer (Quant) @ Goldman Sachs | Prev @ American Express",
+            "location": "Dallas, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansi Parikh",
+            "about": "Associate at EY | Strategy and Transactions | Valuation, Model & Economics | CFA level 3 candidate",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Singla",
+            "about": "Environment",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Vyushti Bhattacharya",
+            "about": "Think Big Scholar | 3rd Year Law Student at University of Bristol",
+            "location": "City Of Bristol"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Kochar",
+            "about": "Associate Manager - II @ Navi | ex - slice , HSBC | Strategy, Data, Startups",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajay Kumar Gupta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudh Gupta",
+            "about": "Analyst at Goldman Sachs",
+            "location": "Jammu & Kashmir, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jeel Dalal",
+            "about": "Associate at Goldman Sachs",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinav Bohra",
+            "about": "Applied Scientist @ Amazon | IIT Kharagpur CSE",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Arihant Jain",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manmohanpreet Singh",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Rakesh Patel",
+            "about": "Product & Strategy | Ex-Founder | Ex- Mastercard |15 Patents (Blockchain, Payments) filed | IITB '17",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreya Shekhar",
+            "about": "Climate Policy| Urban Adaptation and Resilience| Associate Counsellor at CII-CESD, formerly at the Centre for Policy Research.",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanisha Sinha",
+            "about": "ADL | IIM Bangalore | Citi | CFA Level 1 | IIT Bombay",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "B.Tech in Chemical Engineering M.Tech in Financial Engineering Grade: 9.14/10",
+            "description_html": "B.Tech in Chemical EngineeringM.Tech in Financial EngineeringGrade: 9.14/10 <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St Theresa's High School, Bandra",
+            "degree": "Secondary School Certificate",
+            "start_year": "2005",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2023",
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "Financial Risk Manager (FRM) Level II Candidate"
+        },
+        {
+            "meta": "Issued May 2023",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level l Candidate"
+        },
+        {
+            "meta": "Issued Feb 2022",
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "Financial Risk Manager (FRM) Level I Cleared"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID 156621125614See credential",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2952.0,
+    "connections": 500.0,
+    "current_company_company_id": "deutsche-bank",
+    "current_company_name": "Deutsche Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "motiar-rehaman-shaikh-42570216b",
+    "activity": [
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "Where Tech Champions Are Made At AlgoZenith, we’re all about turning dreams into reality. This year, 150+ students cracked placements at top…",
+            "img": "",
+            "id": "7276164486804164609"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "Specialized AI agents are not just tools—they’re collaborators, redefining how we work and live. Henna Vij and Somya Sinha’s latest article provides…",
+            "img": "",
+            "id": "7267920032972582912"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "After completing my graduate degree at Columbia University, I will be starting a new role as a Software Engineer at Citadel! Excited for this next…",
+            "img": "",
+            "id": "7268100881982590976"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "Had one of those days that stays with you. As part of the Microsoft Give event, I had the chance to spend time at Mitra for Life - an organization…",
+            "img": "",
+            "id": "7263042135677939712"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "Wishing everyone a very happy Diwali! 🪔",
+            "img": "",
+            "id": "7257815477064740864"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "Quant Club, in collaboration with WorldQuant BRAIN, is excited to bring to you an on-campus meetup with the WorldQuant BRAIN team for the ultimate…",
+            "img": "",
+            "id": "7252038796932763648"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "Dynamic Technology Lab Pte Ltd (“DTL”) is a quantitative hedge fund established in Singapore and engages in global securities trading with multiple…",
+            "img": "",
+            "id": "7241355337277030400"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "Hello everyone, I am happy to share that I have cleared the CFA Level 2 exam in the August cycle. Looking forward to appearing for the final level!",
+            "img": "",
+            "id": "7250184528722280449"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "Hello everyone, I am elated to share that I have passed the CFA Level-2 examination. I would like to thank everyone who supported me all along.",
+            "img": "",
+            "id": "7250133594424131585"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "It was an honor to help the PanIIT Alumni Foundation in organizing the launch of the US Chapter by the External Affairs Minister Dr. S. Jaishankar at…",
+            "img": "",
+            "id": "7246703305823784962"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "OpenAI recently closed $6.6 billion funding haul with investment from Microsoft and Nvidia. Do you know where it all started from? It all started…",
+            "img": "",
+            "id": "7247611564873170944"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "🌟 𝗦𝘂𝗺𝗺𝗲𝗿 𝗼𝗳 𝗤𝘂𝗮𝗻𝘁 - 𝗜𝗜𝗧 𝗞𝗵𝗮𝗿𝗮𝗴𝗽𝘂𝗿 🌟 I am thrilled to announce that I have successfully completed the 𝗦𝘂𝗺𝗺𝗲𝗿 𝗼𝗳…",
+            "img": "",
+            "id": "7246080521582133248"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "New chapter. New city. New experiences. Starting as an Associate at Boston Consulting Group (BCG) in their Mumbai office. Looking forward to a…",
+            "img": "",
+            "id": "7247447823305072640"
+        },
+        {
+            "interaction": "Liked by Motiar Rehaman Shaikh",
+            "link": "",
+            "title": "\"Leadership is not about a title, it’s about impact, influence, and inspiration.\" We are thrilled to introduce the Governing Batch of Quant Club…",
+            "img": "",
+            "id": "7246427669284765696"
+        }
+    ],
+    "linkedin_num_id": 679564253.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,397 @@
+{
+    "id": "sanjay-motwani-",
+    "name": "Sanjay Motwani",
+    "city": "Ajmer, Rajasthan, India",
+    "country_code": "IN",
+    "position": "Product @ Blinkit | Amex | Shipsy | Jupiter Money | Piramal Group | Product Management | IIT Kharagpur",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Blinkit",
+        "company_id": "letsblinkit",
+        "title": "Product @ Blinkit | Amex | Shipsy | Jupiter Money | Piramal Group | Product Management | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Technical Product Manager",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jan 2023 - Present 2 years",
+            "start_date": "Jan 2023",
+            "end_date": "Present",
+            "duration_short": "2 years",
+            "company": "Blinkit",
+            "company_id": "letsblinkit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst - Product Development",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Sep 2022 Jan 2023 5 months",
+            "start_date": "Sep 2022",
+            "end_date": "Jan 2023",
+            "duration_short": "5 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jul 2022 Sep 2022 3 months",
+            "start_date": "Jul 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "3 months",
+            "company": "Shipsy",
+            "company_id": "shipsy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Product Manager",
+            "description_html": null,
+            "duration": "Feb 2022 Mar 2022 2 months",
+            "start_date": "Feb 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "2 months",
+            "company": "Jupiter",
+            "company_id": "jupiter-money",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Students'​ Alumni Cell, IIT Kharagpur",
+            "location": "West Bengal, India",
+            "description_html": null,
+            "duration": "2 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Students'​ Alumni Cell, IIT Kharagpur",
+                    "meta": "Apr 2021 - Dec 2021 9 months",
+                    "duration": "Apr 2021 Dec 2021 9 months",
+                    "start_date": "Apr 2021",
+                    "end_date": "Dec 2021",
+                    "duration_short": "9 months",
+                    "title": "Advisor",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Students'​ Alumni Cell, IIT Kharagpur",
+                    "meta": "Aug 2020 - Apr 2021 9 months",
+                    "duration": "Aug 2020 Apr 2021 9 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "9 months",
+                    "title": "Coordinator | Sponsorship head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Students'​ Alumni Cell, Office of Alumni Affairs, IIT Kharagpur",
+                    "meta": "Aug 2019 - Aug 2020 1 year 1 month",
+                    "duration": "Aug 2019 Aug 2020 1 year 1 month",
+                    "start_date": "Aug 2019",
+                    "end_date": "Aug 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Student Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Students'​ Alumni Cell, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Piramal Pharma Solutions | Project Lead",
+            "location": "Ahmedabad, Gujarat, India",
+            "description_html": null,
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Piramal Pharma Solutions",
+            "company_id": "piramal-pharma-solutions",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2021 May 2021 1 month",
+            "start_date": "May 2021",
+            "end_date": "May 2021",
+            "duration_short": "1 month",
+            "company": "Alpha Alternatives",
+            "company_id": "alpha-alternatives",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative and Financial Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Mar 2021 Apr 2021 2 months",
+            "start_date": "Mar 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "2 months",
+            "company": "Delta Capital and Financial Services Pvt Ltd",
+            "company_id": "dcfs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist | HR Recruitement",
+            "description": "• Developed a state-of-the-art AI-based HR recruitment model, recruiting applicants on video responses to a set of questions. • Reconstructed research work on feature extraction and exploiting temporal dynamics of video data to capture video dynamics.• Two different output layers - eight output softmax layer corresponding to the number of expressions present in the CK+ training set, used for emotion classification on small datasets. For regression task with data from Aff-Wild2 dataset, the dense layer with two units for predicting valence and arousal were used.• Obtained 95% accuracy on test CK+ dataset and 50% accoracy on the JAFEE dataset.",
+            "description_html": "• Developed a state-of-the-art AI-based HR recruitment model, recruiting applicants on video responses to a set of questions. • Reconstructed research work on feature extraction and exploiting temporal dynamics of video data to capture video dynamics.• Two different output layers - eight output softmax layer corresponding to the number of expressions present in the CK+ training set, used for emotion classification on small datasets. For regression task with data from Aff-Wild2 dataset, the dense layer with two units for predicting valence and arousal were used.• Obtained 95% accuracy on test CK+ dataset and 50% accoracy on the JAFEE dataset.",
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Trariti Consulting Group",
+            "company_id": "trariti-consulting-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Open Domain Chat-Bot | NLP Intern | AIEdge Technologies Private Limited",
+            "description": "• Reviewed the newly proposed Open Domain ChatBot Blender by Facebook, to address the problem of loss of context.• Analyzed the Model Architectures, Decoding, Evaluation and Generative Methods and the Training data used in the Bot.• Followed research papers on the State of the art models: Transformers, Encoders, Bi-Polyencoders and Crossencoders.• Proposed an Intent Classifier Bi-lstm NN to keep track of the conversation and Similarity Models for output comparison.",
+            "description_html": "• Reviewed the newly proposed Open Domain ChatBot Blender by Facebook, to address the problem of loss of context.• Analyzed the Model Architectures, Decoding, Evaluation and Generative Methods and the Training data used in the Bot.• Followed research papers on the State of the art models: Transformers, Encoders, Bi-Polyencoders and Crossencoders.• Proposed an Intent Classifier Bi-lstm NN to keep track of the conversation and Similarity Models for output comparison. <!---->",
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "AIEdge Technologies Private Limited",
+            "company_id": "aiedge",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science and Machine Learning Intern | DataDNA",
+            "location": "India",
+            "description_html": null,
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "datadna.in",
+            "company_id": "datadna-in",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Mayank Arora",
+            "about": "Lending @ Navi | CFA L2 | FRM P1",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhavya Rai",
+            "about": "Analyst @Citi | IIT Kharagpur",
+            "location": "West Bengal, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitika Shroff",
+            "about": "Quant Research at J.P. Morgan | IIT Kharagpur' 22",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Satyam Raj",
+            "about": "IIMA PGP'25 | Strategy& | CAT 2022- 99.96%ile | Tata Steel | IIESTS '21",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Vandit Shankar Sharma",
+            "about": "Member Technical @ D. E. Shaw || Machine Learning Practitioner || Deep Learning || Programmer || Developer ||Coordinator and Leader",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubh Karman Singh",
+            "about": "Software Engineer @ LiveRamp | CS'23 IIT Jammu",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Gupta",
+            "about": "Quantitative Trader | Ex-Deutsche Bank, Wright Research",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshu Prasad",
+            "about": "Connecting Top Tech Talent with Leading Companies | IT Recruiter.",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "JEEVITH P",
+            "about": "Project Engineer, Wipro | Bangalore",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Singh",
+            "about": "Mechanical Engineer| B.O.A at ZS",
+            "location": "Kolkata"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Was among top 7% of my department and got the opportunity to change my department from Physics to Chemical Engineering.",
+            "description_html": "Was among top 7% of my department and got the opportunity to change my department from Physics to Chemical Engineering. <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Critical Thinking and Problem Solving"
+        },
+        {
+            "meta": "Issued Nov 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Root Cause Analysis: Getting to the Root of Business Problems"
+        },
+        {
+            "meta": "Issued Nov 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Strategic Thinking"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Disaster and Humanitarian Relief",
+            "duration": "Jun 2018 - Present · 6 years 7 months",
+            "duration_short": "6 years 7 months",
+            "end_date": "Present",
+            "start_date": "Jun 2018",
+            "subtitle": "National Cadet Corporation",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 2383.0,
+    "connections": 500.0,
+    "current_company_company_id": "letsblinkit",
+    "current_company_name": "Blinkit",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Ajmer",
+    "linkedin_id": "sanjay-motwani-",
+    "activity": [
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "What makes Blinkit’s AOV 29% higher than Swiggy Instamart’s in Q2? Could the design and structure of their Product Display Pages (PDPs) be a…",
+            "img": "",
+            "id": "7271529034864320512"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "1.5 years, 3 companies, and countless lessons later, I am thrilled to share that I’ve transitioned from an intern to a full-time Associate Product…",
+            "img": "",
+            "id": "3"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "IIT professors always have unique ways of providing a reality check... . . . . . But can it change the way an engineering student survive exams?…",
+            "img": "",
+            "id": "7264475679809761282"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "Happy Diwali from Team Blinkit ✨ Photo credits - Anish Shrivastava",
+            "img": "",
+            "id": "7257702202645897216"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "I am thrilled to share that I have started working as a Machine Learning Engineer at Meta ! 🚀 After two incredible years at Preimage, where I had…",
+            "img": "",
+            "id": "7255667986894594049"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "🚨Don’t miss out on these internship opportunities! This is only Part 1 (Part 2 coming soon) 1️⃣SBI Apprentice Recruitment 2024 🧑‍💻Suitable for:…",
+            "img": "",
+            "id": "7229118622915289088"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "📍 Trinity College \"A book lying idle on a shelf is wasted ammunition. Like money, books must be kept in constant circulation... A book is not only…",
+            "img": "",
+            "id": "7231715603386941440"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "🎓✨ It's official, folks! After countless late nights, kettle maggies endless cups of Chai, and a few too many \"Eureka!\" moments, I'm thrilled to…",
+            "img": "",
+            "id": "7226630809024086017"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "Today marks three incredible years of innovation, growth, and success at Zepto! 🚀✨ From just 4 people at a dinner table to becoming a trusted brand…",
+            "img": "",
+            "id": "7217860462342770688"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "Do you remember the sheer number of (ignorant) 'proud Indians' who were hailing this walking disaster when he sneaked into the PM's chair from the…",
+            "img": "",
+            "id": "7215194911308980224"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "I turned 23 on Saturday. The 23 most prolific learnings I have in life so far are: 1. Not reading such LinkedIn posts helped me save a lot of time.…",
+            "img": "",
+            "id": "23"
+        },
+        {
+            "interaction": "Liked by Sanjay Motwani",
+            "link": "",
+            "title": "“Please explain the gap year(s) in your resume?” – One of the top questions asked by PG colleges and internship interviewers. This is how my…",
+            "img": "",
+            "id": "7198647772567228416"
+        }
+    ],
+    "linkedin_num_id": 755441160.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

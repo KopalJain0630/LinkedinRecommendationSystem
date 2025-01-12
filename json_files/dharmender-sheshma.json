@@ -1,0 +1,278 @@
+{
+    "id": "dharmender-sheshma",
+    "name": "Dharmender Sheshma",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Engineer at Walmart",
+    "about": "Software Engineer with a robust background in backend development and system optimization. Currently driving global supplier onboarding and automation at Walmart Global Tech, previously developed key features and improved system efficiency at CleverTap. Skilled in Java, Spring Boot, Kafka, Redis, ELK stack, Docker, SQL, and MongoDB.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Walmart Global Tech India",
+        "company_id": "walmartglobaltechindia",
+        "title": "Software Engineer at Walmart"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer - III",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Walmart Global Tech India",
+            "company_id": "walmartglobaltechindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "May 2022 Aug 2024 2 years 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2024",
+            "duration_short": "2 years 4 months",
+            "company": "CleverTap",
+            "company_id": "clevertap",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "JAVA SDK",
+            "description_html": "JAVA SDK <!---->",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "CleverTap",
+            "company_id": "clevertap",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Bachelor Thesis",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Developed portable ambulatory system software, which connects Python scripts running on Raspberry pi, Android app and Nodejs web app for real time health data monitoring supported by ML models.",
+            "description_html": "Developed portable ambulatory system software, which connects Python scripts running on Raspberry pi, Android app and Nodejs web app for real time health data monitoring supported by ML models. <!---->",
+            "duration": "Aug 2020 Apr 2021 9 months",
+            "start_date": "Aug 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "9 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Semester Project",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Developed Android app for wifi based location identification for home automation.",
+            "description_html": "Developed Android app for wifi based location identification for home automation. <!---->",
+            "duration": "Aug 2020 Nov 2020 4 months",
+            "start_date": "Aug 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "4 months",
+            "company": "CNERG - Complex Networks Research Group, IIT Kharagpur",
+            "company_id": "iitkgpcnerg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Nodejs | Android | WebRTC",
+            "description_html": "Nodejs | Android | WebRTC <!---->",
+            "duration": "Apr 2020 Jul 2020 4 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "4 months",
+            "company": "LG Soft India",
+            "company_id": "lg-soft-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Jaipur, Rajasthan, India",
+            "description": "C++ | Image processing",
+            "description_html": "C++ | Image processing <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "Airavath Foundation",
+            "company_id": "airavath-foundation",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Bhavna Sharma",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Prem Krishna",
+            "about": "Software Engineer @ HashedIn by Deloitte",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Chandna",
+            "about": null,
+            "location": "Nashville, TN"
+        },
+        {
+            "profile_link": "",
+            "name": "Adish Agarwal",
+            "about": null,
+            "location": "Agra"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Bothra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanka Gupta",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditi Mishra",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Himani Virmani",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Uday Jalan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Krupal Kathrotia",
+            "about": null,
+            "location": "Mountain View, CA"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B. Tech. (Minor)",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (Major)",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2019Credential ID 9R2VG5TY3F6TSee credential",
+            "subtitle": "Coursera",
+            "title": "HTML, CSS, and Javascript for Web Developers"
+        },
+        {
+            "meta": "Issued Sep 2018Credential ID 5RCS7FW2H2M5See credential",
+            "subtitle": "Coursera",
+            "title": "Cisco Networking Basics"
+        },
+        {
+            "meta": "Issued Sep 2018Credential ID LL4NWK3Y6QDBSee credential",
+            "subtitle": "Coursera",
+            "title": "Home Networking Basics"
+        },
+        {
+            "meta": "Issued Sep 2018Credential ID SDC4LTNHD83JSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Cisco Networking"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID RTZ6R34N7UF6See credential",
+            "subtitle": "Coursera",
+            "title": "Data Communication and Network Services"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID UHHM22CLQTU8See credential",
+            "subtitle": "Coursera",
+            "title": "Finance for non-financial professionals"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID STJPAFRMCJP5See credential",
+            "subtitle": "Coursera",
+            "title": "Internet Connection: How to Get Online?"
+        },
+        {
+            "meta": "Issued Aug 2018Credential ID PQUJ36QFWKDLSee credential",
+            "subtitle": "Coursera",
+            "title": "Network Protocols and Architecture"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 5802.0,
+    "connections": 500.0,
+    "current_company_company_id": "walmartglobaltechindia",
+    "current_company_name": "Walmart Global Tech India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "dharmender-sheshma",
+    "activity": [
+        {
+            "interaction": "Liked by Dharmender Sheshma",
+            "link": "",
+            "title": "If you are struggling a lot and you are in the down phase of life don't worry abhi or girna baki hai. Don't expect more..!!",
+            "img": "",
+            "id": "7267056282115657728"
+        },
+        {
+            "interaction": "Liked by Dharmender Sheshma",
+            "link": "",
+            "title": "Update your job preferences to help recruiters find you for the right opportunities. ",
+            "img": "",
+            "id": "7208418413906464769"
+        }
+    ],
+    "linkedin_num_id": 661480245.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

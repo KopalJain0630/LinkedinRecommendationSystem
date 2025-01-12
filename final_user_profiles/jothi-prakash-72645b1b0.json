@@ -1,0 +1,336 @@
+{
+    "id": "jothi-prakash-72645b1b0",
+    "name": "Jothi Prakash",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "SWE @Databricks | Ex - D.E Shaw | EC+CS IIT Kgp '24 | ICPC Regionalist '23",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Databricks",
+        "company_id": "databricks",
+        "title": "SWE @Databricks | Ex - D.E Shaw | EC+CS IIT Kgp '24 | ICPC Regionalist '23"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Databricks",
+            "company_id": "databricks",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "- Built the complete event timeline feature for their inhouse employee upskilling platform- Created the multipage frontend using React Js, Redux, SCSS and other inhouse frameworks - Implemented the backend Controller, Service and DAO setup using Java, SpringBoot, MyBatis and SQL    Server- Followed strategy and template design patterns to create modular code and easy future extensibility- Defined user roles and added authentication based on access priviledges in both the Redux and Java   layer",
+            "description_html": "- Built the complete event timeline feature for their inhouse employee upskilling platform- Created the multipage frontend using React Js, Redux, SCSS and other inhouse frameworks - Implemented the backend Controller, Service and DAO setup using Java, SpringBoot, MyBatis and SQL  Server- Followed strategy and template design patterns to create modular code and easy future extensibility- Defined user roles and added authentication based on access priviledges in both the Redux and Java  layer",
+            "duration": "May 2023 Jun 2023 2 months",
+            "start_date": "May 2023",
+            "end_date": "Jun 2023",
+            "duration_short": "2 months",
+            "company": "The D. E. Shaw Group",
+            "company_id": "d.-e.-shaw-&-co.",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full Stack Developer Intern",
+            "location": "United States",
+            "description": "- Implemented the feature to allow the tutor to report a problem on the lessons they teach to the   students- Built the complete frontend web interface using React Js and used Relay Js to fetch data from the    backend- Created the GraphQL layer to respond to frontend queries and implemented fetch/update queries on   the PostgreSQL database- Collaborated with the design team and product management team to perform end-to-end testing of the    product use cases",
+            "description_html": "- Implemented the feature to allow the tutor to report a problem on the lessons they teach to the  students- Built the complete frontend web interface using React Js and used Relay Js to fetch data from the  backend- Created the GraphQL layer to respond to frontend queries and implemented fetch/update queries on  the PostgreSQL database- Collaborated with the design team and product management team to perform end-to-end testing of the  product use cases <!---->",
+            "duration": "Jan 2023 May 2023 5 months",
+            "start_date": "Jan 2023",
+            "end_date": "May 2023",
+            "duration_short": "5 months",
+            "company": "Lessonpal",
+            "company_id": "lessonpal",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Analyzed the data to predict the loss of virtual water from India, and its effect on water scarcity.Used Beautiful Soup to web scrap data from various government websites Performed data visualizations and Analyses using Python, and Jupyter Notebook.",
+            "description_html": "Analyzed the data to predict the loss of virtual water from India, and its effect on water scarcity.Used Beautiful Soup to web scrap data from various government websites Performed data visualizations and Analyses using Python, and Jupyter Notebook. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "1 year 9 months",
+            "positions": [
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Sep 2020 - Apr 2021 8 months",
+                    "duration": "Sep 2020 Apr 2021 8 months",
+                    "start_date": "Sep 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "8 months",
+                    "title": "Kshitij Core Organising Team Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Aug 2019 - Sep 2020 1 year 2 months",
+                    "duration": "Aug 2019 Sep 2020 1 year 2 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Sep 2020",
+                    "duration_short": "1 year 2 months",
+                    "title": "Kshitij Campus Affiliate",
+                    "description_html": null
+                }
+            ],
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Web Developer",
+            "description": "Used HTML, CSS, and JavaScript to create multiple web pages.Made the website dynamic using React JS and integrated it with the backend.",
+            "description_html": "Used HTML, CSS, and JavaScript to create multiple web pages.Made the website dynamic using React JS and integrated it with the backend. <!---->",
+            "duration": "Jul 2020 Sep 2020 3 months",
+            "start_date": "Jul 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "3 months",
+            "company": "Numo Uno",
+            "company_id": "icampus2corporate",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Development Intern",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Created a start-up model to establish a business from scratch.Made Financial statements such as balance sheet and cash flow statements to set up a business.Created the MOU and other legal aspects to setup a business.",
+            "description_html": "Created a start-up model to establish a business from scratch.Made Financial statements such as balance sheet and cash flow statements to set up a business.Created the MOU and other legal aspects to setup a business. <!---->",
+            "duration": "Jul 2020 Sep 2020 3 months",
+            "start_date": "Jul 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "3 months",
+            "company": "Gopali Youth Welfare Society",
+            "company_id": "gopali-youth-welfare-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Prachi Singhroha",
+            "about": null,
+            "location": "Dublin"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Biswas",
+            "about": "Data Scientist at Microsoft",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sreeya Chidere",
+            "about": "SDE-1 @Amazon || IIT KGP\u00e2\u20ac\u212224 grad",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayur Kalyanpad",
+            "about": "IIT Kharagpur'24",
+            "location": "Nanded"
+        },
+        {
+            "profile_link": "",
+            "name": "Saras Gaikwad",
+            "about": "Electrical Engineer",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Saurav",
+            "about": "Data Analyst @ Apollo 24/7 || IIT KGP'23",
+            "location": "Midnapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjay Kumar Vadthya",
+            "about": "Former Software Developer Intern @zomato | GSec Tech, Gymkhana (2021-2022) | IIT KGP '24 |",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Saransh Patel",
+            "about": "Incoming MTS@Oracle | Intern '22 @Oracle | IIT Kharagpur '23",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Divyansh Grover",
+            "about": "Gromet (India) Pvt. Ltd. | Ex-ZS",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Heer Wadhwani",
+            "about": "IIM-Mumbai PGP'25 | Accenture Strategy & Consulting (PPO) | Ex EXL Service | Ex Hero MotoCorp l NIT Raipur'21",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "Electronics and Electrical Communication Engineering | | Minor - Computer Science Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "Specialization - Vision And Intelligent Systems Working on applications of Deep Learning in Image Processing domain",
+            "description_html": "Specialization - Vision And Intelligent Systems Working on applications of Deep Learning in Image Processing domain <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020Credential ID THSSHH5TKS8QSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID YQSGQ646359USee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID LYFQV7STQ76QSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 3827.0,
+    "connections": 500.0,
+    "current_company_company_id": "databricks",
+    "current_company_name": "Databricks",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "jothi-prakash-72645b1b0",
+    "activity": [
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "Back to the second home: I left Indian Institute of Technology, Guwahati on Dec 15, 2014 as a graduating student to join as a faculty at IIT\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7274339298529718272"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "Finally, peaceful protest is the only democratic way left! Sad that appellate authorities (Chairman, IIT Council and others) are not doing anything\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7270379572544569344"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "After completing my graduate degree at Columbia University, I will be starting a new role as a Software Engineer at Citadel! Excited for this next\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7268100881982590976"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "Zomato celebrated Swiggy's IPO, Swiggy commented : \"It's giving Jai & Veeru vibe\" Zomato is confused now, \"ki issne Jai kisko bola... mujhe ya\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7262668118643138560"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "He has just launched his Rs. 100 Crores Fund at the age of 32. He has studied from IIM Ahmedabad & IIT Bombay. He worked in the VC Industry for\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7264978387973120001"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "Forever SDE-2 at Amazon \u00f0\u0178\u02dc\u203a It's no wonder if the CTO of Microsoft Azure can get recruited for SDE-2 at Amazon, then why not me ? \u00f0\u0178\u02dc\u201a I joined\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7261695238216327169"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "There's another wave of marketing going on in India on LinkedIn. No it's not Zomato. Recently I saw several sarcastic posts of people asking\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7265227449783771136"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "Hey Everyone! Last year, I had the incredible opportunity to present my Bachelor\u00e2\u20ac\u2122s thesis at EMNLP 2023. This year, I am thrilled to share that my\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7264371828150697985"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "\u00f0\u0178\u0161\u20ac We are happy to announce that Vatsal Venkatkrishna is joining INSAIT as a Ph.D. student with Prof. Iryna Gurevych. He will be working in the area\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7261653861549948928"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "I haven't posted for the last one month. Actually I along with one of my mates are brewing something. We will soon be launching something crazy &\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7260155008808083457"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "Exciting news! We've just moved to our new office at 550 California. My co-founder is thrilled to finally have his own room\u00e2\u20ac\u201dno more debates over the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7259358883595329536"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "One Day To Go!!! Indian Institute of Technology, Kharagpur presents Illumination 2024 MINISTRY OF EDUCATION, GOVERNMENT OF INDIA Dharmendra Pradhan\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7257369238795911168"
+        },
+        {
+            "interaction": "Liked by Jothi Prakash",
+            "link": "",
+            "title": "Ye konsa AI model aa gya hai market mein, jo itna accurate result produce krr rha hai? \u00f0\u0178\u02dc\u00af Koi mujhe iski link dega? Mujhe bhi Global rank 1 laani\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7256156029556514816"
+        }
+    ],
+    "linkedin_num_id": 825250638.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

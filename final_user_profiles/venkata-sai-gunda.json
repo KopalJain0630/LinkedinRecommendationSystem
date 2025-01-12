@@ -1,0 +1,86 @@
+{
+    "city": "Tempe, Arizona, United States",
+    "position": "Humana | ASU | IIT Kharagpur | Mitacs",
+    "experience": [
+        {
+            "title": "Data Scientist 1",
+            "location": "Louisville, Kentucky, United States",
+            "description_html": null,
+            "duration": "May 2024 Aug 2024 4 months",
+            "start_date": "May 2024",
+            "end_date": "Aug 2024",
+            "duration_short": "4 months",
+            "company": "Humana",
+            "company_id": "humana",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "description_html": null,
+            "duration": "Jan 2023 May 2023 5 months",
+            "start_date": "Jan 2023",
+            "end_date": "May 2023",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Researcher",
+            "location": "Concordia University, Montreal, Quebec, Canada",
+            "description_html": null,
+            "duration": "May 2022 Jan 2023 9 months",
+            "start_date": "May 2022",
+            "end_date": "Jan 2023",
+            "duration_short": "9 months",
+            "company": "Mitacs",
+            "company_id": "mitacs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Researcher",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Aug 2021 May 2022 10 months",
+            "start_date": "Aug 2021",
+            "end_date": "May 2022",
+            "duration_short": "10 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Arizona State University",
+            "degree": "Master's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": "Courses: Statistical Machine Learning Data Mining Artificial Intelligence",
+            "description_html": "Courses:Statistical Machine LearningData MiningArtificial Intelligence <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Humana",
+    "publications": "[{\"title\":\"JITBoost: Boosting Just-In-Time Defect Prediction Using Boolean Combination of Classifiers\",\"subtitle\":\"IEEE International Conference on Software Quality, Reliability, and Security (QRS 2023)\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"GenAI for Education - Innovation Academy ASU\",\"description\":\"• Developed an AI-powered education tool featuring a Subject Matter Expert, Recommendation system, and Exam prep aid• Designed a SME with LangChain and GPT-4, FAISS vector database and RAG for context-aware content generation.• Built Recommender and Aid, using few-shot prompting for adaptive MCQs, and LLM-based summarization and skill matching\"},{\"title\":\"Investigating Effectiveness of PINNs, DeepONets in Modeling Dynamical Systems\",\"description\":\"• Identified drawbacks in PINNs and DeepONets through 100+ experiments with 10,000 simulations of damped pendulum system• Proposed iterative inference for high-frequency ranges, reducing MSE by 800% and boosting accuracy in extended time periods\"}]",
+    "honors_and_awards": null
+}

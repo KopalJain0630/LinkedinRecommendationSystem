@@ -1,0 +1,429 @@
+{
+    "id": "garvittyagi",
+    "name": "Garvit Tyagi",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": "Engineering at DotPe | Ex - Oyo, Pristyn Care, Oye-Rickshaw, Coding Ninjas | Golang, Java, Node, Python, ReactJS, NextJS",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "DotPe",
+        "company_id": "dotpein",
+        "title": "Engineering at DotPe | Ex - Oyo, Pristyn Care, Oye-Rickshaw, Coding Ninjas | Golang, Java, Node, Python, ReactJS, NextJS"
+    },
+    "experience": [
+        {
+            "title": "DotPe",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "DotPe",
+                    "meta": "Jun 2024 - Present 7 months",
+                    "duration": "Jun 2024 - Present 7 months",
+                    "start_date": "Jun 2024",
+                    "end_date": "Present",
+                    "duration_short": "7 months",
+                    "title": "Senior Software Developer - Digital Showroom",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "DotPe",
+                    "meta": "Jun 2022 - Jun 2024 2 years 1 month",
+                    "description": "\u00e2\u20ac\u00a2 Developed the coupon system for merchants purchasing multiple subscriptions at once increasing the overall sale by >20%.\u00e2\u20ac\u00a2 Worked on Product image enhancement, creating and storing low-size images of the product images with different dimensions, finally improving website\u00e2\u20ac\u2122s performance by 53%.\u00e2\u20ac\u00a2 Developed features like Onboarding, Coupons, Multi-user, Whatsapp Automation, Order Cancellation and Refund, Partial Payment, GST, Order Notifications(Sms/Email/Whatsapp), Pincode Based Delivery Charges, Store Controls.\u00e2\u20ac\u00a2 Created Help Section For Merchants to explore different features and setting them up, which increased features usage and reduced interaction with customer service team related to feature upgrade.\u00e2\u20ac\u00a2 Implemented AI blog and description generator using OpenAI models.\u00e2\u20ac\u00a2 Developed Bulk Edit Feature for merchants. Where Merchants can Add/Update/Delete Multiple Products and export the catalog which are in draft/final stage.\u00e2\u20ac\u00a2 Created Admin Console for Customer Success Team to Manage Stores.\u00e2\u20ac\u00a2 Designed and developed customers review and rating features.\u00e2\u20ac\u00a2 Implemented Cart flow from Scratch including Validations and Calculations.Tech Stack: Go, Node.js, MySQL, Kafka, RabbitMQ, Redis, ReactJS, Jira, Git, Microservices, Rest API, SQS, RDS",
+                    "duration": "Jun 2022 Jun 2024 2 years 1 month",
+                    "start_date": "Jun 2022",
+                    "end_date": "Jun 2024",
+                    "duration_short": "2 years 1 month",
+                    "title": "Software Developer - Digital Showroom",
+                    "description_html": "\u00e2\u20ac\u00a2 Developed the coupon system for merchants purchasing multiple subscriptions at once increasing the overall sale by &gt;20%.<br>\u00e2\u20ac\u00a2 Worked on Product image enhancement, creating and storing low-size images of the product images with different dimensions, finally improving website\u00e2\u20ac\u2122s performance by 53%.<br>\u00e2\u20ac\u00a2 Developed features like Onboarding, Coupons, Multi-user, Whatsapp Automation, Order Cancellation and Refund, Partial Payment, GST, Order Notifications(Sms/Email/Whatsapp), Pincode Based Delivery Charges, Store Controls.<br>\u00e2\u20ac\u00a2 Created Help Section For Merchants to explore different features and setting them up, which increased features usage and reduced interaction with customer service team related to feature upgrade.<br>\u00e2\u20ac\u00a2 Implemented AI blog and description generator using OpenAI models.<br>\u00e2\u20ac\u00a2 Developed Bulk Edit Feature for merchants. Where Merchants can Add/Update/Delete Multiple Products and export the catalog which are in draft/final stage.<br>\u00e2\u20ac\u00a2 Created Admin Console for Customer Success Team to Manage Stores.<br>\u00e2\u20ac\u00a2 Designed and developed customers review and rating features.<br>\u00e2\u20ac\u00a2 Implemented Cart flow from Scratch including Validations and Calculations.<br>Tech Stack: Go, Node.js, MySQL, Kafka, RabbitMQ, Redis, ReactJS, Jira, Git, Microservices, Rest API, SQS, RDS"
+                }
+            ],
+            "company": "DotPe",
+            "company_id": "dotpein",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "OYE! Rickshaw",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "OYE! Rickshaw",
+                    "meta": "Apr 2021 - Jul 2022 1 year 4 months",
+                    "description": "- Developed a real-time battery and station tracking application handling 50,000 requests per minute using Kafka, MQTT, Redis, NodeJS- Managed and led a 7 person team for the Swapping Project.- Created Real-Time Data Pipelines of batteries and station IoT data using Kafka, MQTT, and NodeJS.- Developed a Real-Time Application to track theft and faulty batteries using Kafka, MQTT, NodeJS, Java, Postgres, and Redis.- Developed Payments microservice as a one-stop payment solution using NodeJS, Redis, Postgres, and MQTT.- Developed Internal Wallet architecture to be utilised by Oye's different application.- Developed a Real-Time Application to track illegal charging attempts, damaging attempts, moving battery out of geofence, voltage and temperature imbalance, and other health issues using Kafka k Streams, NodeJS, Java, Redis, Postgres.- Developed smart swap flow executing in under 1 minute.- Integrated battery's BlueTooth and IoT options along with charging station's IoT option to estimate pricing and other related data points.",
+                    "duration": "Apr 2021 Jul 2022 1 year 4 months",
+                    "start_date": "Apr 2021",
+                    "end_date": "Jul 2022",
+                    "duration_short": "1 year 4 months",
+                    "title": "Software Developer - Energy",
+                    "description_html": "- Developed a real-time battery and station tracking application handling 50,000 requests per minute using Kafka, MQTT, Redis, NodeJS<br>- Managed and led a 7 person team for the Swapping Project.<br>- Created Real-Time Data Pipelines of batteries and station IoT data using Kafka, MQTT, and NodeJS.<br>- Developed a Real-Time Application to track theft and faulty batteries using Kafka, MQTT, NodeJS, Java, Postgres, and Redis.<br>- Developed Payments microservice as a one-stop payment solution using NodeJS, Redis, Postgres, and MQTT.<br>- Developed Internal Wallet architecture to be utilised by Oye's different application.<br>- Developed a Real-Time Application to track illegal charging attempts, damaging attempts, moving battery out of geofence, voltage and temperature imbalance, and other health issues using Kafka k Streams, NodeJS, Java, Redis, Postgres.<br>- Developed smart swap flow executing in under 1 minute.<br>- Integrated battery's BlueTooth and IoT options along with charging station's IoT option to estimate pricing and other related data points."
+                },
+                {
+                    "subtitle": "Oye Rickshaw: The First & Last Mile Ride co.",
+                    "meta": "Oct 2020 - Apr 2021 7 months",
+                    "description": "- Developed swapping dashboard showing real time details of distance travelled, successfull battery   swaps with details, total money saved, km(s) left until next battery swap and top performers.- Developed admin portal for operations team in order to check batteries, vehicles, charging station and vendor's data and perform related operations.",
+                    "duration": "Oct 2020 Apr 2021 7 months",
+                    "start_date": "Oct 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "7 months",
+                    "title": "SDE Intern",
+                    "description_html": "- Developed swapping dashboard showing real time details of distance travelled, successfull battery swaps with details, total money saved, km(s) left until next battery swap and top performers.<br>- Developed admin portal for operations team in order to check batteries, vehicles, charging station and vendor's data and perform related operations. <!---->"
+                }
+            ],
+            "company": "OYE! Rickshaw",
+            "company_id": "oyerickshaw",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Market Analyst Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "- Dealt with the most exotic financial derivatives & futures markets.- Developed strong understanding of market structure for various Asset classes.- Analysed the assimilation of market news/information/data to determine market sentiments, using technical and fundamental analysis in making decisions.",
+            "description_html": "- Dealt with the most exotic financial derivatives &amp; futures markets.- Developed strong understanding of market structure for various Asset classes.- Analysed the assimilation of market news/information/data to determine market sentiments, using technical and fundamental analysis in making decisions. <!---->",
+            "duration": "Aug 2020 Oct 2020 3 months",
+            "start_date": "Aug 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "3 months",
+            "company": "Futures First",
+            "company_id": "futures-first-info--services-pvt--ltd-",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Teaching Assistant",
+            "location": "Delhi, India",
+            "description": "Looked after the students in the batch by    \u00e2\u20ac\u00a2 Taking doubt sessions    \u00e2\u20ac\u00a2 Debugging codes    \u00e2\u20ac\u00a2 Helping students in their assignments(Data Structures and Algorithm)",
+            "description_html": "Looked after the students in the batch by \u00e2\u20ac\u00a2 Taking doubt sessions \u00e2\u20ac\u00a2 Debugging codes \u00e2\u20ac\u00a2 Helping students in their assignments(Data Structures and Algorithm) <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "Coding Ninjas India",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer - Intern",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "- Worked on breaking monolith code base of a Home Management System to a microservice based architecture to make it more scalable and stable system.- Developed a feature which toggles the UI between multiple languages based on user input.- Tech. Used: Java, MySQL, Kibana, Docker",
+            "description_html": "- Worked on breaking monolith code base of a Home Management System to a microservice based architecture to make it more scalable and stable system.- Developed a feature which toggles the UI between multiple languages based on user input.- Tech. Used: Java, MySQL, Kibana, Docker <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "OYO",
+            "company_id": "oyo-rooms",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Development Trainee",
+            "location": "India",
+            "description": "- Developed a Wireless System for building\u00e2\u20ac\u2122s energy and indoor environmental monitoring. It provides data of different room's indoor Temperature, Humidity, Light Intensity and Energy usage.- Established Connection between different sensors and server using VerneMQ broker (MQTT Protocol). - Created a database storage using InfluxDB (Time Series DataBase).- Designed a dashboard for visualization using Grafana.",
+            "description_html": "- Developed a Wireless System for building\u00e2\u20ac\u2122s energy and indoor environmental monitoring. It provides data of different room's indoor Temperature, Humidity, Light Intensity and Energy usage.- Established Connection between different sensors and server using VerneMQ broker (MQTT Protocol). - Created a database storage using InfluxDB (Time Series DataBase).- Designed a dashboard for visualization using Grafana. <!---->",
+            "duration": "Jan 2020 Jun 2020 6 months",
+            "start_date": "Jan 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "6 months",
+            "company": "Felidae Systems",
+            "company_id": "powerrprofit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Trainee",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "- Identify relevant data sources and collect large structured/unstructured datasets and variables. - Devise and utilize algorithms to mine big data stores, perform data and error analysis to improve models, and clean and validate data for uniformity and accuracy. - Conceptualize and Test Machine Learning algorithms. - Identifying and studying suitable ML solutions and algorithms matching use case and data. - Developing and tuning algorithms for the selected use cases. - Analyse data for trends and patterns and interpret data with a clear objective in mind.Project Work: -Developed different models that classifies SMS as spam or not spam using Logistic Regression, Random Forests, Decision Trees, Naive Bayes Classifier and SVM using numpy, pandas, sklearn and keras librararies.-Compared accuracy of each method and plot the accuracy graphs in a single bar plot. Achieved highest accuracy of 98%.",
+            "description_html": "- Identify relevant data sources and collect large structured/unstructured datasets and variables. - Devise and utilize algorithms to mine big data stores, perform data and error analysis to improve models, and clean and validate data for uniformity and accuracy. - Conceptualize and Test Machine Learning algorithms. - Identifying and studying suitable ML solutions and algorithms matching use case and data. - Developing and tuning algorithms for the selected use cases. - Analyse data for trends and patterns and interpret data with a clear objective in mind.Project Work: -Developed different models that classifies SMS as spam or not spam using Logistic Regression, Random Forests, Decision Trees, Naive Bayes Classifier and SVM using numpy, pandas, sklearn and keras librararies.-Compared accuracy of each method and plot the accuracy graphs in a single bar plot. Achieved highest accuracy of 98%.",
+            "duration": "Sep 2019 Dec 2019 4 months",
+            "start_date": "Sep 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "4 months",
+            "company": "KVCH Pvt. Ltd.",
+            "company_id": "kvch-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Backend Development Intern",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2019 Aug 2019 4 months",
+            "start_date": "May 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "4 months",
+            "company": "Pristyn Care",
+            "company_id": "pristyncare",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Pranav Arora",
+            "about": null,
+            "location": "London Area, United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Archit Mittal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh G.",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Bindal",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Meghna Verma",
+            "about": "SDE-2 at Amazon | YMCA'21",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Arnav Choudhary",
+            "about": "SDE - 3 @ HighLevel | Tech-Enthusiast | Frontend + Platform",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Udit Chugh",
+            "about": "Full Stack Developer at Mechademy",
+            "location": "Panipat"
+        },
+        {
+            "profile_link": "",
+            "name": "Nihar Dangi",
+            "about": "Software Developer",
+            "location": "Tamil Nadu, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shweta Sharma",
+            "about": "Software Development Engineer-2 @Expedia Group| ex-Intern @Samsung R&D",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishan Pandey",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Goel",
+            "about": "DevReveler #41 | Engineering @ DevRev",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurang Goel",
+            "about": "SDE2@Amazon",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Lovish Jindal",
+            "about": null,
+            "location": "Ludhiana"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhishek Gupta",
+            "about": "Building Zamp Finance | Ex-Dunzo | CSE IIT Jammu' 20",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vijay CB",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Sehgal",
+            "about": "Software Engineer lll at Google | Ex - Amazon SDE",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sunil Kumar Maurya",
+            "about": "Senior Software Engineer @ Samsung || Full Stack Developer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Parthamoni Nath",
+            "about": "Senior Software Engineer @ Diagnal",
+            "location": "Assam, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Drishya Premchandani",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Thapar Institute of Engineering and Technology",
+    "education": [
+        {
+            "title": "Thapar Institute of Engineering and Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ryan International School, Noida",
+            "degree": "12th",
+            "field": "CBSE",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ryan International School, Shahjahanpur",
+            "degree": "10th",
+            "field": "9.8 CGPA",
+            "start_year": "2013",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020Credential ID VUSV3FAWEM9CSee credential",
+            "subtitle": "Coursera",
+            "title": "Blockchain and Cryptocurrency Technologies"
+        },
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "Coding Blocks",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jan 2020",
+            "subtitle": "Coding Ninjas India",
+            "title": "Data Structures and Algorithms"
+        },
+        {
+            "meta": "Issued Nov 2019",
+            "subtitle": "KVCH",
+            "title": "Data Science in Python"
+        },
+        {
+            "meta": "Issued Sep 2018Credential ID wUPue-H9MW",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Technology Associate: Web Development Fundamentals (MTA)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 6924.0,
+    "connections": 500.0,
+    "current_company_company_id": "dotpein",
+    "current_company_name": "DotPe",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Gurugram",
+    "linkedin_id": "garvittyagi",
+    "activity": [
+        {
+            "interaction": "Liked by Garvit Tyagi",
+            "link": "",
+            "title": "After 7+ years as a software engineer, here are the Leetcode questions I recommend for cracking a 150K+ job offer. \u00f0\u0178\u0178\u00a0 Master the fundamentals 1\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7"
+        },
+        {
+            "interaction": "Liked by Garvit Tyagi",
+            "link": "",
+            "title": "Today, Sashind Ningthoukhongjam writes about the pig butchering scam that has spread across India, targeting Indian investors. Several brokers have\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7176046683984707584"
+        },
+        {
+            "interaction": "Liked by Garvit Tyagi",
+            "link": "",
+            "title": "Engineering is beautiful, and people have unnecessarily made it a rat race trimming out the interesting bits and pieces. I am on a mission to spark\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7161563549373325313"
+        },
+        {
+            "interaction": "Liked by Garvit Tyagi",
+            "link": "",
+            "title": "Instagram leveraged Partial Indexes to reduce query response time from 200ms to just 3ms \u00e2\u0161\u00a1 Partial indexes allow us to index a subset of rows in a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7158665890740199425"
+        },
+        {
+            "interaction": "Liked by Garvit Tyagi",
+            "link": "",
+            "title": "#zoom #openings #zoomindia The following positions we are looking for Please book your slots for career guidance or resume review or 1:1 connect -\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7155081907687358465"
+        },
+        {
+            "interaction": "Liked by Garvit Tyagi",
+            "link": "",
+            "title": "One of the coolest things about Software Development is the vast ocean of free learning resources. Recently, I came across one such free resource\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7152326444436643841"
+        },
+        {
+            "interaction": "Liked by Garvit Tyagi",
+            "link": "",
+            "title": "It\u00e2\u20ac\u2122s official! I\u00e2\u20ac\u2122m attending ViVE 2024, happening on February 25 - 28 in Los Angeles! Join me  #ViVE2024",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Garvit Tyagi",
+            "img": "",
+            "id": "7146696406278225920"
+        },
+        {
+            "interaction": "Liked by Garvit Tyagi",
+            "link": "",
+            "title": "#IIE will be establishing Entrepreneurship Development Centers in eight states of #NorthEast. The project is targeting 29,500 enrolled students of\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7144897105189392384"
+        }
+    ],
+    "linkedin_num_id": 670173561.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

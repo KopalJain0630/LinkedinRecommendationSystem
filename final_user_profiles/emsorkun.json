@@ -1,0 +1,38 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Bogazici University",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2021-12",
+            "end_year": "2022-01",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-ı",
+            "start_year": "2005",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Growdash",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Bin Packing In A Return Center of LC Waikiki\",\"start_date\":\"Dec 2014\",\"description\":\"In this project, a unique type of one-dimensional bin packing problemwith varying capacity constraint is discussed. A solution procedurethat consists of a greedy heuristic FFD, a famous Simulated Annealingmeta-heuristic and data handling approaches is constituted to solvebin packing problem.\"},{},{\"title\":\"Global Management Challange 2011 - Turkey\",\"start_date\":\"Jan 2012\",\"end_date\":\"Mar 2012\",\"description\":\"Semi-finalist\"},{},{}]",
+    "honors_and_awards": null
+}

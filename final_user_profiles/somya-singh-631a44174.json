@@ -1,0 +1,110 @@
+{
+    "city": "Baltimore, Maryland, United States",
+    "position": "chemBE JHU | IIT-Kanpur Undergrad",
+    "experience": [
+        {
+            "title": "Student Scientific Researcher",
+            "location": "Baltimore, Maryland, United States",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Johns Hopkins Institute for NanoBioTechnology",
+            "company_id": "inbt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Research Assistant",
+            "location": "Baltimore, Maryland, United States",
+            "description": "Tsapatsis Research Group: Working on thin film synthesis and e-beam patterning of metal organic frameworks (MOF)",
+            "description_html": "Tsapatsis Research Group: Working on thin film synthesis and e-beam patterning of metal organic frameworks (MOF) <!---->",
+            "duration": "Jan 2024 May 2024 5 months",
+            "start_date": "Jan 2024",
+            "end_date": "May 2024",
+            "duration_short": "5 months",
+            "company": "Johns Hopkins Institute for NanoBioTechnology",
+            "company_id": "inbt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Student Researcher",
+            "description": "Sustainable Modular Autonomous Reactor Technology (SMART) Lab.Lab page : ~ragipani/home•Research in Carbon Capture technology and sustainable process engineering(waste to energy) under Prof R. Ragipani",
+            "description_html": "Sustainable Modular Autonomous Reactor Technology (SMART) Lab.Lab page : ~ragipani/home•Research in Carbon Capture technology and sustainable process engineering(waste to energy) under Prof R. Ragipani <!---->",
+            "duration": "Oct 2021 Apr 2023 1 year 7 months",
+            "start_date": "Oct 2021",
+            "end_date": "Apr 2023",
+            "duration_short": "1 year 7 months",
+            "company": "Department of Chemical Engineering, IIT Kanpur",
+            "company_id": "che-iitk",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Research Assistant",
+            "description": "Bulk solids and complex fluid research laboratory (BSCF) @CHEIITKNumerical simulation of non-Newtonian fluid •Developed a 2D navier stokes solver for granular flow using FDM scheme and used it to model real world granular flow like avalanche , sand flow etc",
+            "description_html": "Bulk solids and complex fluid research laboratory (BSCF) @CHEIITKNumerical simulation of non-Newtonian fluid •Developed a 2D navier stokes solver for granular flow using FDM scheme and used it to model real world granular flow like avalanche , sand flow etc <!---->",
+            "duration": "Jun 2022 Jan 2023 8 months",
+            "start_date": "Jun 2022",
+            "end_date": "Jan 2023",
+            "duration_short": "8 months",
+            "company": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Student Researcher",
+            "location": "Kanpur, Uttar Pradesh, India",
+            "description": "ELECTRODES (Electrochemistry and transport for design of energy systems ) lab Lab website : ~lalit/Research in next generation electrochemical energy conversion devices: Fuel cells( PEMFC, SOFC), Water electrolyzers led by Prof lalit pant.",
+            "description_html": "ELECTRODES (Electrochemistry and transport for design of energy systems ) lab Lab website : ~lalit/Research in next generation electrochemical energy conversion devices: Fuel cells( PEMFC, SOFC), Water electrolyzers led by Prof lalit pant. <!---->",
+            "duration": "May 2022 Dec 2022 8 months",
+            "start_date": "May 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "8 months",
+            "company": "Department of Sustainable Energy Engineering, IIT Kanpur",
+            "company_id": "department-of-sustainable-energy-engneering-iit-kanpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "The Johns Hopkins University",
+            "degree": "Master of Science in Engineering (M.S.E)",
+            "field": "Chemical and Biomolecular Engineering (chemBE)",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": "Working in the field of Nano-Materials and Nano-fabrication with Prof Michael Tsapatsis",
+            "description_html": "Working in the field of Nano-Materials and Nano-fabrication with Prof Michael Tsapatsis <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: Football team",
+            "description_html": "Activities and Societies: Football team",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advanced Separation and Purification Processes in Practice \"},{\"subtitle\":\"-\",\"title\":\"Electro-analytical Chemistry and Energy Conversion\"},{\"subtitle\":\"-\",\"title\":\"Interfacial Science with Application to Nanoscale System\"}]",
+    "certifications": null,
+    "current_company_name": "Johns Hopkins Institute for NanoBioTechnology",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "SURGE’22 UG Research Award",
+            "publication": "Indian Institute of Technology, Kanpur",
+            "date": "2022-07-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

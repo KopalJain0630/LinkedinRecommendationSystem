@@ -1,0 +1,78 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer | Backend | Elixir | Phoenix | Golang",
+    "experience": [
+        {
+            "title": "Product Engineer",
+            "location": "Bangalore",
+            "description_html": null,
+            "duration": "Jan 2022 - Present 3 years",
+            "start_date": "Jan 2022",
+            "end_date": "Present",
+            "duration_short": "3 years",
+            "company": "Functionary Labs",
+            "company_id": "functionary-labs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Developer",
+            "description_html": null,
+            "duration": "Aug 2020 Apr 2021 9 months",
+            "start_date": "Aug 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "9 months",
+            "company": "Freelance",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Developer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Aug 2019 Jul 2020 1 year",
+            "start_date": "Aug 2019",
+            "end_date": "Jul 2020",
+            "duration_short": "1 year",
+            "company": "Knocus Pvt Ltd",
+            "company_id": "knocus",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Information Technology, SriCity",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "New Indian Model School , Sharjah , UAE",
+            "start_year": "2003",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "New Indian Model School , Dubai , UAE",
+            "start_year": "1998",
+            "end_year": "2002",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"4 credits\",\"title\":\"Algorithms\"},{\"subtitle\":\"4 credits\",\"title\":\"C Programming\"},{\"subtitle\":\"4 credits\",\"title\":\"Computer Architecture\"},{\"subtitle\":\"4 credits\",\"title\":\"Computer Networks\"},{\"subtitle\":\"4 credits\",\"title\":\"Computer Organisation\"},{\"subtitle\":\"4 credits\",\"title\":\"Data Structures\"},{\"subtitle\":\"4 credits\",\"title\":\"Differential Equations\"},{\"subtitle\":\"4 credits\",\"title\":\"Digital Image Processing\"},{\"subtitle\":\"4 credits\",\"title\":\"Digital Logic Design\"},{\"subtitle\":\"4 credits\",\"title\":\"Digital Signal Processing\"},{\"subtitle\":\"4 credits\",\"title\":\"Embedded Systems\"},{\"subtitle\":\"4 credits\",\"title\":\"IT Systems\"},{\"subtitle\":\"4 credits\",\"title\":\"Information Retrieval\"},{\"subtitle\":\"4 credits\",\"title\":\"Information Theory and Coding\"},{\"subtitle\":\"4 credits\",\"title\":\"Linear and Abstract Algebra\"},{\"subtitle\":\"4 credits\",\"title\":\"Operating System\"},{\"subtitle\":\"4 credits\",\"title\":\"Operational Maths\"},{\"subtitle\":\"4 credits\",\"title\":\"Opto and Nano Electronics\"},{\"subtitle\":\"4 credits\",\"title\":\"VLSI technology\"},{\"subtitle\":\"4 credits\",\"title\":\"Wireless Communication\"}]",
+    "certifications": null,
+    "current_company_name": "Functionary Labs",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Wraft\",\"start_date\":\"Oct 2022\",\"description\":\"Wraft - Document Lifecycle Management\"},{},{},{},{},{},{},{\"title\":\"Smart Health Monitoring System\",\"start_date\":\"Jan 2017\",\"end_date\":\"Nov 2017\",\"description\":\"Developed an IOT system which monitors the health vitals of a patient in real time including temperature, pulse and heart rate using respective sensors.The received data will be updated on android application which keep track of the information. A notification system is incorporated which alerts the doctors and patients if abnormal readings are shown.\"}]",
+    "honors_and_awards": null
+}

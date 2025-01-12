@@ -1,0 +1,133 @@
+{
+    "city": "San Francisco Bay Area",
+    "position": "Deep Learning Compilers | High Performance Computing | Software Development",
+    "experience": [
+        {
+            "title": "Sr. Deep Learning Compiler Engineer",
+            "location": "San Jose, California, United States",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "AMD",
+            "company_id": "amd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computational Scientist",
+            "location": "Idaho Falls, Idaho, United States",
+            "description": "• Optimized a deep learning model for neutronics using Torch Compiler/TVM for reduced memory usage and faster inference. Benchmark with torchprofiler across 200+ isotopes and integrated with Griffin for pebble-bed reactor simulations.• Implemented a software pipeline for fluidized bed reactors, launching 4000+ MFIX/Barracuda simulations. Implemented MPI/NCCL based parallel algorithm to process simulation data for Generative AI, enabling real-time validation.• Developed full research proposal as PI for Large Language Model for Computational Tools, optimizing combined training and interface using ZeRO-Infinity (FSDP) DeepSpeed Chat.",
+            "description_html": "• Optimized a deep learning model for neutronics using Torch Compiler/TVM for reduced memory usage and faster inference. Benchmark with torchprofiler across 200+ isotopes and integrated with Griffin for pebble-bed reactor simulations.• Implemented a software pipeline for fluidized bed reactors, launching 4000+ MFIX/Barracuda simulations. Implemented MPI/NCCL based parallel algorithm to process simulation data for Generative AI, enabling real-time validation.• Developed full research proposal as PI for Large Language Model for Computational Tools, optimizing combined training and interface using ZeRO-Infinity (FSDP) DeepSpeed Chat.",
+            "duration": "Sep 2023 Oct 2024 1 year 2 months",
+            "start_date": "Sep 2023",
+            "end_date": "Oct 2024",
+            "duration_short": "1 year 2 months",
+            "company": "Idaho National Laboratory",
+            "company_id": "idaho-national-laboratory",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Salt Lake City, Utah, United States",
+            "description": "• Developed GPU (CUDA/HIP) kernel optimizations for finite volume simulations, focusing on matrix assembly, SpMV and divergent code scheduler. Implemented operator fusion, loop flattening, and tiling. Achieved a 10x increase in performance on single GPU (Nsight) nodes and 20x on multi-GPU setups, leveraging system heterogeneity.• Co-developed a domain-specific language (DSL) and code generator for FE/FV scientific computing, enabling efficient code distribution across CPU/GPU platforms. Developed a proof of concept based on MLIR to optimize data movement, enhance tensor operations, integrate mixed precision, and automate design space optimization.",
+            "description_html": "• Developed GPU (CUDA/HIP) kernel optimizations for finite volume simulations, focusing on matrix assembly, SpMV and divergent code scheduler. Implemented operator fusion, loop flattening, and tiling. Achieved a 10x increase in performance on single GPU (Nsight) nodes and 20x on multi-GPU setups, leveraging system heterogeneity.• Co-developed a domain-specific language (DSL) and code generator for FE/FV scientific computing, enabling efficient code distribution across CPU/GPU platforms. Developed a proof of concept based on MLIR to optimize data movement, enhance tensor operations, integrate mixed precision, and automate design space optimization.",
+            "duration": "Aug 2021 Sep 2023 2 years 2 months",
+            "start_date": "Aug 2021",
+            "end_date": "Sep 2023",
+            "duration_short": "2 years 2 months",
+            "company": "University of Utah",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GRA, Software Engineering",
+            "location": "1 Cyclotron Rd, Berkeley, CA 94720",
+            "description": "• Developed a wrapper for superlu_dist subroutines to solve a sparse linear system on 3 targets Linux/Mac/Win supporting different versions of MPI; using Clang compiler, MPITrampoline and compiled a shared library of superlu_dist• Worked on integration between function calls and objects of two different languages C++ and Julia. Used Cmake for make file generation and compilation process and NERSC DDT tool for debugging the distributed code.",
+            "description_html": "• Developed a wrapper for superlu_dist subroutines to solve a sparse linear system on 3 targets Linux/Mac/Win supporting different versions of MPI; using Clang compiler, MPITrampoline and compiled a shared library of superlu_dist• Worked on integration between function calls and objects of two different languages C++ and Julia. Used Cmake for make file generation and compilation process and NERSC DDT tool for debugging the distributed code. <!---->",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "Berkeley Lab",
+            "company_id": "lawrence-berkeley-national-laboratory",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "GSOC 2020, Software Engineering",
+            "description": "• Developed a Machine Learning library for time series classification with 2 ML algorithms, time series forest and KNN, with unified user APIs to fit, predict, and tune models using data randomization and classic tabular ML algorithms.• Achieved 6 times speedup for time series forest algorithm. Built pipeline for Time Series ML models and tested the models by performing benchmarking and validation using 104 dissimilar data sets.",
+            "description_html": "• Developed a Machine Learning library for time series classification with 2 ML algorithms, time series forest and KNN, with unified user APIs to fit, predict, and tune models using data randomization and classic tabular ML algorithms.• Achieved 6 times speedup for time series forest algorithm. Built pipeline for Time Series ML models and tested the models by performing benchmarking and validation using 104 dissimilar data sets. <!---->",
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Google Summer of Code",
+            "company_id": "google-summer-of-code-2019",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description": "- Implemented Range over-approximation algorithm; Improves bounds over a range of Taylor models by 70%.- Developed RangeEnclosures.jl a Julia package that bounds polynomials using four different algorithms.- Implemented branch and bound algorithm using low degree polynomial; This minimizes relative precision to 1e−5.",
+            "description_html": "- Implemented Range over-approximation algorithm; Improves bounds over a range of Taylor models by 70%.- Developed RangeEnclosures.jl a Julia package that bounds polynomials using four different algorithms.- Implemented branch and bound algorithm using low degree polynomial; This minimizes relative precision to 1e−5. <!---->",
+            "duration": "May 2019 Aug 2019 4 months",
+            "start_date": "May 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "4 months",
+            "company": "NumFOCUS",
+            "company_id": "numfocus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Tiruchirappalli",
+            "description": "- Trained Naive Bayes ML model using NLTK and scikit-learn for sentiment analysis with accuracy of 76%.- Collected 2 thousand data points using Twitter APIs; handled missing values and outliers using Pandas, NumPy.",
+            "description_html": "- Trained Naive Bayes ML model using NLTK and scikit-learn for sentiment analysis with accuracy of 76%.- Collected 2 thousand data points using Twitter APIs; handled missing values and outliers using Pandas, NumPy. <!---->",
+            "duration": "Nov 2018 Jan 2019 3 months",
+            "start_date": "Nov 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "3 months",
+            "company": "National Institute of Technology, Tiruchirappalli",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "University of Utah",
+            "degree": "Master",
+            "field": "Computer Science",
+            "url": "",
+            "description": "HPC | DL/ML | SC",
+            "description_html": "HPC | DL/ML | SC <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Information Technology, Tiruchirappalli",
+            "degree": "B.TECH.",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "description": "Relevant Coursework: • Parallel Algorithms • Machine Learning • Database Management Systems • Computer Architecture • Internetworking Protocols • Discrete Mathematics • Software Engineering • Data Structure • Data Communications and Networking",
+            "description_html": "Relevant Coursework: • Parallel Algorithms• Machine Learning• Database Management Systems• Computer Architecture • Internetworking Protocols • Discrete Mathematics • Software Engineering • Data Structure • Data Communications and Networking <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Principles of Operational Research\"},{\"subtitle\":\"-\",\"title\":\"Probability Theory\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture\"},{\"subtitle\":\"-\",\"title\":\"Computer Graphics\"},{\"subtitle\":\"-\",\"title\":\"Computer Organization \"},{\"subtitle\":\"-\",\"title\":\"Data Communications and Networking\"},{\"subtitle\":\"-\",\"title\":\"Data structure\"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Parallel Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics\"},{\"subtitle\":\"CS 6150\",\"title\":\"Graduate Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Graph Theory \"},{\"subtitle\":\"-\",\"title\":\"Internetworking Protocols\"},{\"subtitle\":\"-\",\"title\":\"Introduction to Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"CS 6230\",\"title\":\"Parallel Computing HPC\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"}]",
+    "certifications": null,
+    "current_company_name": "AMD",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Microsoft Student Partner 2019-2020",
+            "publication": "-",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

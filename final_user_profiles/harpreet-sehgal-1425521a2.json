@@ -1,0 +1,63 @@
+{
+    "city": "Ambala, Haryana, India",
+    "position": "Sales Executive",
+    "experience": [
+        {
+            "title": "Operations Associate",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Sep 2022 - Present 2 years 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 4 months",
+            "company": "AmberStudent",
+            "company_id": "amberstudent",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Human Resources Generalist",
+            "location": "Sahibzada Ajit Singh Nagar, Punjab, India",
+            "description_html": null,
+            "duration": "Aug 2021 Aug 2022 1 year 1 month",
+            "start_date": "Aug 2021",
+            "end_date": "Aug 2022",
+            "duration_short": "1 year 1 month",
+            "company": "iCuerious Research Services LLP",
+            "company_id": "icuerious-research-services-llp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Finance Intern",
+            "description_html": null,
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "AR Finance Room",
+            "company_id": "grevxacademy",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "LM Thapar School of Management",
+            "degree": "Master of Business Administration - MBA",
+            "field": "Finance and human resources",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "AmberStudent",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,343 @@
+{
+    "id": "mansi-uniyal-053158176",
+    "name": "Mansi Uniyal",
+    "city": "Ghaziabad, Uttar Pradesh, India",
+    "country_code": "IN",
+    "position": "Research Fellow@Microsoft Research | IITKGP",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Microsoft",
+        "company_id": "microsoft",
+        "title": "Research Fellow@Microsoft Research | IITKGP"
+    },
+    "experience": [
+        {
+            "title": "Research Fellow",
+            "description": "Multi turn for Excel:• As part of PROSE team, leveraged LLMs, for generating & validating conversational benchmarks for Excel-Copilot evaluationFormula Suggestions:• Demoed & built Suggestion & Ranking system for automated formula-value completions, on new calculated columns in Excel tablesCode generation benchmarking and evaluation:• Improved bench-marking (under & over-specified MBPP versions) dataset & evaluation setup for code generation (EMNLP, 2024)Auto checklist:• Leveraged LLMs for automating checklist generation for subjective evaluation on, ambiguity - InstructExcel, quality - Translation",
+            "description_html": "Multi turn for Excel:• As part of PROSE team, leveraged LLMs, for generating &amp; validating conversational benchmarks for Excel-Copilot evaluationFormula Suggestions:• Demoed &amp; built Suggestion &amp; Ranking system for automated formula-value completions, on new calculated columns in Excel tablesCode generation benchmarking and evaluation:• Improved bench-marking (under &amp; over-specified MBPP versions) dataset &amp; evaluation setup for code generation (EMNLP, 2024)Auto checklist:• Leveraged LLMs for automating checklist generation for subjective evaluation on, ambiguity - InstructExcel, quality - Translation",
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "• Build AutoML for Text Classification component: data profiling, preprocessing, embedding, model pipeline, and evaluation• Explored Open-AI toolkit, DALL-E model, for Text2Image generation, and its HuggingFace open-sourced variations with fine-tuning• Surveyed Active Learning, implemented Weak Supervision using Rubrix, & built weak labeling component for text classification• Dived deeper into exploring methods for cleaner labels from these noisy weak labels and finding label errors using the CleanLab library• Inferred the generation of Text2Motion, and built a pipeline for creating videos from a pre-trained model using user-defined text",
+            "description_html": "• Build AutoML for Text Classification component: data profiling, preprocessing, embedding, model pipeline, and evaluation• Explored Open-AI toolkit, DALL-E model, for Text2Image generation, and its HuggingFace open-sourced variations with fine-tuning• Surveyed Active Learning, implemented Weak Supervision using Rubrix, &amp; built weak labeling component for text classification• Dived deeper into exploring methods for cleaner labels from these noisy weak labels and finding label errors using the CleanLab library• Inferred the generation of Text2Motion, and built a pipeline for creating videos from a pre-trained model using user-defined text",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "Mphasis",
+            "company_id": "mphasis",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "description": "• 3D Medical Image Segmentation: Lung Cancer Detection using 3D Convolutional model architecture• Head Gesture Recognition: Worked on classification for head gestures using video signals based on different degrees of freedom• Neural Style Transfer: Demonstrated enhancement of results on SimpleNet by data augmentation techniques using CycleGAN model• Art generator with GANs: Designed adversarial models: DC-GAN, WGAN and CGANs, with evaluation using FID metrics• Object Detection: Visualized, analyzed, structured, and preprocessed the data, and implemented Transfer learning on the YOLO model• Aircraft optimization: Developed a heuristic solution approach for a weekly schedule with minimized maintenance cost using DFS",
+            "description_html": "• 3D Medical Image Segmentation: Lung Cancer Detection using 3D Convolutional model architecture• Head Gesture Recognition: Worked on classification for head gestures using video signals based on different degrees of freedom• Neural Style Transfer: Demonstrated enhancement of results on SimpleNet by data augmentation techniques using CycleGAN model• Art generator with GANs: Designed adversarial models: DC-GAN, WGAN and CGANs, with evaluation using FID metrics• Object Detection: Visualized, analyzed, structured, and preprocessed the data, and implemented Transfer learning on the YOLO model• Aircraft optimization: Developed a heuristic solution approach for a weekly schedule with minimized maintenance cost using DFS",
+            "duration": "Jan 2021 Nov 2021 11 months",
+            "start_date": "Jan 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "11 months",
+            "company": "Chi SquareX",
+            "company_id": "chi-squarex",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "AI Intern",
+            "description": "• Deployed an Intelligent Recruitment System using NLP (Natural Language Processing) to extract best-fit applicants from their resumes• Extracted information from various file formats (like doc, pdf) of resumes using Non-OCR Techniques followed by data structuring• Customized NER (Named Entity Recognition) for organizations & names and built a query-based sorting of resumes based on skill set• Developed a query-based sorting system to analyze categories of relevant Resumes with respect to various keywords/similarity database",
+            "description_html": "• Deployed an Intelligent Recruitment System using NLP (Natural Language Processing) to extract best-fit applicants from their resumes• Extracted information from various file formats (like doc, pdf) of resumes using Non-OCR Techniques followed by data structuring• Customized NER (Named Entity Recognition) for organizations &amp; names and built a query-based sorting of resumes based on skill set• Developed a query-based sorting system to analyze categories of relevant Resumes with respect to various keywords/similarity database",
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "Jalla Labs Private Limited",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Arjav Rastogi",
+            "about": "IIT KGP 2023",
+            "location": "Meerut"
+        },
+        {
+            "profile_link": "",
+            "name": "Kamal Kyal",
+            "about": "IIM Calcutta '25 • IIT Kharagpur '23 • CFA L2 • FRM P1 • Citi • HUL Changemakers • CAT 99.9",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhilash Sinha",
+            "about": "Engineering @BNY | IITKGP",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Dusane",
+            "about": "Société Générale | IIT Kharagpur '23",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Duhita Wani",
+            "about": "Building CareDale | IIT Kharagpur '23",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Md Areeb Hussain",
+            "about": "Software Engineering MTS @Salesforce | IIT Kharagpur",
+            "location": "Ranchi"
+        },
+        {
+            "profile_link": "",
+            "name": "Anurag Bharti",
+            "about": "Cloud Engineer at EXL",
+            "location": "Ranchi"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinav Jha",
+            "about": "Data Science Consultant @TCG Digital",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Agrawal",
+            "about": "SDE @ Bidgely | AI4Schools | IIT Kharagpur '23",
+            "location": "Sundargarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhranil Chandra",
+            "about": null,
+            "location": "Kolkata"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Minor in Computer Science Engineering Micro-specialization in Artificial Intelligence and Applications",
+            "description_html": "Minor in Computer Science EngineeringMicro-specialization in Artificial Intelligence and Applications <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Indirapuram",
+            "degree": "Class 12",
+            "field": "95 %",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Indirapuram",
+            "degree": "Class 10",
+            "field": "CGPA: 10",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020Credential ID H8J38YBKRSRKSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 7WZ98EMZP9KHSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 4RXB7BLYGTNRSee credential",
+            "subtitle": "Coursera",
+            "title": "Statistics with Python Specialization"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "duration": "May 2021 - Jun 2022 · 1 year 2 months",
+            "duration_short": "1 year 2 months",
+            "end_date": "Jun 2022",
+            "info": "• Entrusted with the responsibility of increasing the global outreach of IIT Kharagpur in coordination with the Office of International Relations as a part of a 20-member team• Garnered 151 (47% YoY increase) Foreign Training offers with projects from leading universities like TUM, Imperial College London, Lehigh university• Organized first offline event, post-pandemic, On-Campus round of Hult Prize which participation of 35+ teams from UG and PG students• Collaborated with OIR to…\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          • Entrusted with the responsibility of increasing the global outreach of IIT Kharagpur in coordination with the Office of International Relations as a part of a 20-member team• Garnered 151 (47% YoY increase) Foreign Training offers with projects from leading universities like TUM, Imperial College London, Lehigh university• Organized first offline event, post-pandemic, On-Campus round of Hult Prize which participation of 35+ teams from UG and PG students• Collaborated with OIR to organize the online edition of JDP Open House which witnessed the participation of 200+ Ph.D. students.• Organized a panel discussion in hybrid mode, with the Committee members of New Curriculum, which included Dean’s and Associate Dean of Academics, which saw a participation of 750+ students.• Coordinated with ETS to avail a special discount voucher scheme for IIT Kharagpur students for GRE/TOEFL preparation courses\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "May 2021",
+            "subtitle": "International Relations Cell, IIT Kharagpur",
+            "title": "General Secretary"
+        },
+        {
+            "duration": "Nov 2020 - Jun 2021 · 8 months",
+            "duration_short": "8 months",
+            "end_date": "Jun 2021",
+            "start_date": "Nov 2020",
+            "subtitle": "Kharagpur Data Analytics Group",
+            "title": "Student Member"
+        },
+        {
+            "duration": "Aug 2020 - Jun 2021 · 11 months",
+            "duration_short": "11 months",
+            "end_date": "Jun 2021",
+            "start_date": "Aug 2020",
+            "subtitle": "Institute Wellness Group IIT Kharagpur",
+            "title": "Student Member"
+        },
+        {
+            "duration": "Sep 2020 - May 2021 · 9 months",
+            "duration_short": "9 months",
+            "end_date": "May 2021",
+            "start_date": "Sep 2020",
+            "subtitle": "International Relations Cell, IIT Kharagpur",
+            "title": "Student Member"
+        }
+    ],
+    "followers": 3308.0,
+    "connections": 500.0,
+    "current_company_company_id": "microsoft",
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Molecule Generation using Contrastive VAE\",\"start_date\":\"Apr 2022\",\"end_date\":\"Jul 2022\",\"description\":\"• Under the guidance of Prof. Douglas Kell, Research Chair in Systems Biology, Biochemistry & Systems Biology, University of Liverpool • Literary survey on the existing techniques on molecular generation: Transformers, VAE, MassGenie, Contrastive learning, Moses• Experimented on VAE model with contrastive learning for robust and faster performance, with an accuracy of 93% on generation\"},{\"title\":\"Server-Side Local Gradient Averaging and Learning Rate Acceleration for Scalable Split Learning\",\"start_date\":\"Apr 2021\",\"end_date\":\"Nov 2021\",\"description\":\"Presented at AAAI 2022• Proposed a variation of SpliFed Learning for enhancement of the performance of image classification on FMNIST and CIFAR-10• Worked on privacy, communication efficiency, and client-server training imbalance problem along with the scalability of the performance\"},{\"title\":\"Eye movement type categorization\",\"start_date\":\"Oct 2020\",\"end_date\":\"Jan 2021\",\"description\":\"• Under the guidance of Prof. Jhareswar Maiti, Professor at the Department of Industrial and Systems Engineering, IIT Kharagpur• Literary surveyed on EEG signals, GWO algorithm, Eye movement types• Worked on sequential time series data of the eye, predicting the categories of fixation points• Successfully implemented and proposed Deep BLSTM-LSTM model architecture\"},{\"title\":\"GAN algorithms in generation of Super-Resolution from High-Resolution satellite images\",\"start_date\":\"Oct 2020\",\"end_date\":\"Dec 2020\",\"description\":\"• Under the guidance of Dr. Bharath H.Aithal, Ass. Professor at Ranbir & Chitra Gupta School of Infrastructure Design and Management, IIT Kharagpur• Implemented SRCNN, and Bicubic Interpolation as baseline models for the task of image super-resolution• Replicated EEGAN(Edge Enhancement Generative Adversarial Network) with implementation on HPC (High-Performance Computing)\"},{\"title\":\"Deep learning based architectures for semantic segmentation of aerial imagery\",\"start_date\":\"Sep 2020\",\"end_date\":\"Dec 2020\",\"description\":\"Presented at International Conference on Unmanned Aerial Systems in Geomatics 2021• Built a CNN-based, Modified UNet model with Transfer Learning for satellite imagery on a wide range of Geospatial domains worldwide• Analysed results over other models: ResNet, VGGNet, SegNet, UNet and worked on including morphological methods: Erosion, Dilation\"}]",
+    "organizations": null,
+    "location": "Ghaziabad",
+    "linkedin_id": "mansi-uniyal-053158176",
+    "activity": [
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "This is probably the longest post I've ever written (*51 min read* 😯), but it had to be done as I wanted to cover a detailed path starting from…",
+            "img": "",
+            "id": "7246788348147564544"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "Yesterday I got the access to SeachGPT from #openAI. I was testing how it performs. My search query: \"current market trend of data science skills…",
+            "img": "",
+            "id": "7229901750466482176"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "Recent advancements in Large Language Models (LLMs) have laid the foundation for the development of highly capable multimodal LLMs (MLLMs)…",
+            "img": "",
+            "id": "7229675143797555200"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "In the field of machine learning, I’ve come to realize that attempting to read research papers from start to finish can be overwhelming and mentally…",
+            "img": "",
+            "id": "7228739039678365696"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "These last two years with Microsoft Research flew by! MSR India was kind enough to create a unique role for me, giving me the freedom to do what I…",
+            "img": "",
+            "id": "7226453015841456128"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "I've started a new adventure at Google, continuing to work on ML for code. Excited to join new and old colleagues to tackle interesting problems at…",
+            "img": "",
+            "id": "7221590012130197506"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "I believe that EV Market in India is set to grow in the coming future. While, infrastructure becomes a key to adoption, yet another approach is the…",
+            "img": "",
+            "id": "7188596289645752320"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "If a developer could only edit their last line of code, how often would they have to start from scratch to write correct code? Mukul is currently at…",
+            "img": "",
+            "id": "7138945441018081280"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "🎉 Exciting News! 🚀 We are thrilled to announce the launch of our AI4Bharat Blog! ✨ 🧠 Our goal is to enable our researchers to share their work…",
+            "img": "",
+            "id": "7136267324608626688"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "Grateful to be able to contribute to something exciting. Greater learning times ahead!",
+            "img": "",
+            "id": "7136180330486509569"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "“The best way to predict your future is to create it.” At International Relations Cell of IIT Kharagpur, our primary focus is on creating avenues…",
+            "img": "",
+            "id": "7122918286337449985"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "Hey Everyone, I'm thrilled to share that our paper titled \"CLMSM: A Multi-Task Learning Framework for Pre-training on Procedural Text\" has been…",
+            "img": "",
+            "id": "7116690516749991936"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "I am excited to share that 3 of my papers have been accepted at EMNLP 2023 (1 Main + 2 Findings). I look forward to presenting our work and meeting…",
+            "img": "",
+            "id": "7116720022974033920"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "Gandhiji taught us the way of non violence. He chose a path that others did not even dare to tread. A man of true vision and strong ambition, he led…",
+            "img": "",
+            "id": "7114559012213305344"
+        },
+        {
+            "interaction": "Liked by Mansi Uniyal",
+            "link": "",
+            "title": "Update: The paper is now available at  Our paper on making any large pre-trained model equivariant to a certain known group…",
+            "img": "",
+            "id": "7110812980631531520"
+        }
+    ],
+    "linkedin_num_id": 699086655.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

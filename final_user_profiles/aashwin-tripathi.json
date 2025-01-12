@@ -1,0 +1,91 @@
+{
+    "city": "Kanpur Nagar, Uttar Pradesh, India",
+    "position": "Incoming professional @Axtria  |  Final Year, IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Incoming professional at Axtria",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jan 2023 - Present 2 years",
+            "start_date": "Jan 2023",
+            "end_date": "Present",
+            "duration_short": "2 years",
+            "company": "Axtria - Ingenious Insights",
+            "company_id": "axtria",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Hall President",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Sep 2021 Aug 2022 1 year",
+            "start_date": "Sep 2021",
+            "end_date": "Aug 2022",
+            "duration_short": "1 year",
+            "company": "Nehru Hall of Residence, IIT Kharagpur",
+            "company_id": "nehru-hall-of-residence-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "2 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Jul 2020 - Jul 2021 1 year 1 month",
+                    "duration": "Jul 2020 Jul 2021 1 year 1 month",
+                    "start_date": "Jul 2020",
+                    "end_date": "Jul 2021",
+                    "duration_short": "1 year 1 month",
+                    "title": "Exhibition Coordinator and Core Organizing Team Head, Events",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Jul 2019 - Jun 2020 1 year",
+                    "duration": "Jul 2019 Jun 2020 1 year",
+                    "start_date": "Jul 2019",
+                    "end_date": "Jun 2020",
+                    "duration_short": "1 year",
+                    "title": "Core Organizing Team Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree-BTech+MTech",
+            "field": "Biotechnology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Axtria - Ingenious Insights",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Face Detection App\",\"start_date\":\"Jun 2021\",\"end_date\":\"Aug 2021\",\"description\":\"This app is built on ReactJS and uses NodeJS and ExpressJS for its backend. PostgreSQL is used for its database. Its server is deployed on Heroku. This app is hosted using a free hosting service provided by Netlify. There are many other features used in this app like BcryptJS, ParticleJS, etc.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Vidya Sagar Award, 2017",
+            "publication": "Kendriya Vidyalaya Sangathan",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": "This award is given for outstanding performance in the Higher Secondary and securing the first rank in the school."
+        }
+    ]
+}

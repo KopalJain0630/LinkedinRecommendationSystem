@@ -1,0 +1,207 @@
+{
+    "city": "Tamil Nadu, India",
+    "position": "IIT Kharagpur, 2023 || Data Science @American Express || Technical Writer || Data Science @Qure.ai || Intern @ NUS (National University of Singapore)",
+    "experience": [
+        {
+            "title": "Data science - Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description": "I work in Fraud decision Science in the Credit and Fraud Risk department of American Express.",
+            "description_html": "I work in Fraud decision Science in the Credit and Fraud Risk department of American Express. <!---->",
+            "duration": "Jun 2023 - Present 1 year 7 months",
+            "start_date": "Jun 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 7 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data science Writer",
+            "description": "Wrote and published 9+ articles on Analytics Vidhya",
+            "description_html": "Wrote and published 9+ articles on Analytics Vidhya <!---->",
+            "duration": "Dec 2021 - Present 3 years 1 month",
+            "start_date": "Dec 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 1 month",
+            "company": "Analytics Vidhya",
+            "company_id": "analytics-vidhya",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Risk Analyst",
+            "description": "I worked as a part of the Fraud Modelling team under CFR (Credit & Fraud Risk) Division. Worked on External Vendor Data Evaluation to increase fraud capture rate in new credit card applications of US Market. Used SQL, Hive to work with Big Databases. Leveraged SAS and Python to implement model development and training.",
+            "description_html": "I worked as a part of the Fraud Modelling team under CFR (Credit &amp; Fraud Risk) Division. Worked on External Vendor Data Evaluation to increase fraud capture rate in new credit card applications of US Market. Used SQL, Hive to work with Big Databases. Leveraged SAS and Python to implement model development and training. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Qure.ai",
+            "company_id": "qure.ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "Worked in the research project of “Efficient compression methodsfor large-batch deep learning on distributed systems”.",
+            "description_html": "Worked in the research project of “Efficient compression methodsfor large-batch deep learning on distributed systems”. <!---->",
+            "duration": "Sep 2020 Mar 2021 7 months",
+            "start_date": "Sep 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "7 months",
+            "company": "National University of Singapore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "Worked upon developing various NLP, machine learning related content. Used NLP packages nltk, spacy, gensim, transformers(Hugging face). Learnt and performed tasks including building chatbot with Rasa, text classification, summarization, Entity extraction, Markov chains, models.",
+            "description_html": "Worked upon developing various NLP, machine learning related content. Used NLP packages nltk, spacy, gensim, transformers(Hugging face). Learnt and performed tasks including building chatbot with Rasa, text classification, summarization, Entity extraction, Markov chains, models. <!---->",
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Machine Learning Plus",
+            "company_id": "machine-learning-plus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analytics Intern",
+            "description": "Trained a CNN model for lane detection and improved accuracy to more than 80%. Used pytorch, keras, tensorflow, moviepy in the process.",
+            "description_html": "Trained a CNN model for lane detection and improved accuracy to more than 80%. Used pytorch, keras, tensorflow, moviepy in the process. <!---->",
+            "duration": "Apr 2020 Aug 2020 5 months",
+            "start_date": "Apr 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "5 months",
+            "company": "Jasmin Infotech",
+            "company_id": "jasmin-infotech-pvt-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "description": "Learnt and worked upon various Machine Learning algorithms, data visualization. Implemented Time series forecasting algorithm for practical use-case using ARIMA. Gained exposure in Deep learning concepts",
+            "description_html": "Learnt and worked upon various Machine Learning algorithms, data visualization. Implemented Time series forecasting algorithm for practical use-case using ARIMA. Gained exposure in Deep learning concepts <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Digital Tesseract",
+            "company_id": "digital-tesseract",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Reporter",
+            "description_html": null,
+            "duration": "Aug 2019 Jun 2020 11 months",
+            "start_date": "Aug 2019",
+            "end_date": "Jun 2020",
+            "duration_short": "11 months",
+            "company": "The Scholars' Avenue",
+            "company_id": "the-scholars'-avenue",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "description_html": null,
+            "duration": "Aug 2018 Jun 2020 1 year 11 months",
+            "start_date": "Aug 2018",
+            "end_date": "Jun 2020",
+            "duration_short": "1 year 11 months",
+            "company": "Technology Filmmaking and Photography Society, IIT Kharagpur",
+            "company_id": "technology-filmmaking-and-photography-society",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Junior Associate",
+            "description_html": null,
+            "duration": "Jan 2019 May 2019 5 months",
+            "start_date": "Jan 2019",
+            "end_date": "May 2019",
+            "duration_short": "5 months",
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated Btech and Mtech",
+            "field": "Metallurgical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Analytics Head, IIT Tech Ambit. Technology Filmmaking and Photography Society",
+            "description_html": "Activities and Societies: Analytics Head, IIT Tech Ambit. Technology Filmmaking and Photography Society",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Maharishi Vidya Mandir Senior Secondary School",
+            "degree": "class 12",
+            "field": "96.4%",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": "Awarded 0.1% merit certificate in Computer science.School topper in English.",
+            "description_html": "Awarded 0.1% merit certificate in Computer science.School topper in English. <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Differential and Integral Calculus\"},{\"subtitle\":\"-\",\"title\":\"probability and stochastic processes\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jun 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Applied Machine Learning: Foundations"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Stanford Online",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Rhyme.com (Acquired by Coursera)",
+            "title": "Sentiment Analysis with Deep Learning using BERT"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Rhyme.com (Acquired by Coursera)",
+            "title": "Image Data Augmentation with Keras "
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID PGWMCQKK9E4USee credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID HT6PYWCA4YWLSee credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        }
+    ],
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Regression based models to predict flow stress in austenitic stainless steels\",\"start_date\":\"Dec 2021\"}]",
+    "honors_and_awards": null
+}

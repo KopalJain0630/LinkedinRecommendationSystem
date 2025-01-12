@@ -1,0 +1,53 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2015",
+            "subtitle": "National Stock Exchange of India Limited",
+            "title": "NSE's Certification in Financial Markets"
+        },
+        {
+            "meta": "Issued Nov 2014",
+            "subtitle": "Coursera",
+            "title": "Data Analysis and Statistical Inference"
+        }
+    ],
+    "current_company_name": "Niyo Solutions Inc.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Leadership in Action Award",
+            "publication": "American Express",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "Awarded to recognise the potential future leaders in Customer Management domain."
+        },
+        {
+            "title": "Analyst of the Quarter, Q3-2017",
+            "publication": "American Express",
+            "date": "2017-10-01T00:00:00.000Z",
+            "description": "Awarded to top performers across Consumer Risk COE"
+        },
+        {
+            "title": "Innovation in Science Pursuit for Inspired Research (INSPIRE) Scholar",
+            "publication": "Department of Science & Technology (DST), Government of India (GOI)",
+            "date": "2011-07-01T00:00:00.000Z",
+            "description": "INSPIRE Fellowship is offered by the Department of Science & Technology, Govt. of India to the top talent in Science and Technology."
+        }
+    ]
+}

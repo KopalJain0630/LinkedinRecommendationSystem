@@ -1,0 +1,90 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "SDE at Blinkit ||  IIT(BHU), Varanasi",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Blinkit",
+            "company_id": "letsblinkit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 Jul 2024 1 year 1 month",
+            "start_date": "Jul 2023",
+            "end_date": "Jul 2024",
+            "duration_short": "1 year 1 month",
+            "company": "Alltius",
+            "company_id": "alltius",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description": "• Developed social login authentication package which can be directly integrated with different authentication services.• Handled backend system of the platform to allow crypto exchanges & wrote cron jobs to automate payment system.• Migrated REST APIs to GraphQL based endpoints which improved the response time on complex queries by 19%.• Used Django Tenants to implement backend system for a SAAS model & added multiple role access system feature.• Exposure: Python, Django Rest Framework, Django Tenants, GraphQL, AWS Cognito, PostgreSQL",
+            "description_html": "• Developed social login authentication package which can be directly integrated with different authentication services.• Handled backend system of the platform to allow crypto exchanges &amp; wrote cron jobs to automate payment system.• Migrated REST APIs to GraphQL based endpoints which improved the response time on complex queries by 19%.• Used Django Tenants to implement backend system for a SAAS model &amp; added multiple role access system feature.• Exposure: Python, Django Rest Framework, Django Tenants, GraphQL, AWS Cognito, PostgreSQL",
+            "duration": "May 2022 Jul 2023 1 year 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "1 year 3 months",
+            "company": "MatchPoint Solutions",
+            "company_id": "matchpoint-x",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description": "• Optimised video processing service by 33% using Multiprocessing in celery resulting in 19% faster video dubbing.• Used celery chunks for multi-segment video processing and updated the database models to store these segments.• Developed APIs for new features and integrated several services like Vimeo, Google Drive for better UX of product• Migrated the server to Asynchronous Server Gateway Interface to handle multi-processing pools.• Exposure: Python, Django, Django Rest Framework, Celery, PostgreSQL, AWS(EC2)",
+            "description_html": "• Optimised video processing service by 33% using Multiprocessing in celery resulting in 19% faster video dubbing.• Used celery chunks for multi-segment video processing and updated the database models to store these segments.• Developed APIs for new features and integrated several services like Vimeo, Google Drive for better UX of product• Migrated the server to Asynchronous Server Gateway Interface to handle multi-processing pools.• Exposure: Python, Django, Django Rest Framework, Celery, PostgreSQL, AWS(EC2)",
+            "duration": "Sep 2021 Nov 2021 3 months",
+            "start_date": "Sep 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "3 months",
+            "company": "Dübverse",
+            "company_id": "dubverse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description": "• Developed backend for centralized version control system and created a CLI tool to interact with it.• Created an email microservice from scratch, integrated SSO, and deployed using E2 virtual machine on GCP.• Implemented topological sort algorithm to ensure dependency conditions are satisfied and acyclicity is maintained• Optimized the backend architecture (backend for frontend) using Gevent, making it 28% faster.• Exposure: Python, Django, Django Rest Framework, Python Click, PostgreSQL, GCP",
+            "description_html": "• Developed backend for centralized version control system and created a CLI tool to interact with it.• Created an email microservice from scratch, integrated SSO, and deployed using E2 virtual machine on GCP.• Implemented topological sort algorithm to ensure dependency conditions are satisfied and acyclicity is maintained• Optimized the backend architecture (backend for frontend) using Gevent, making it 28% faster.• Exposure: Python, Django, Django Rest Framework, Python Click, PostgreSQL, GCP",
+            "duration": "Apr 2021 Aug 2021 5 months",
+            "start_date": "Apr 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "5 months",
+            "company": "Viga Entertainment Technology",
+            "company_id": "viga-et",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "degree": "Integrated Dual Degree ( B-Tech + M-Tech)",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Blinkit",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Task manager web app\",\"start_date\":\"Jun 2019\",\"end_date\":\"Jul 2019\",\"description\":\"This is a Django based task management web app having the feature of managing multiple users.\"},{\"title\":\"Smart locker (Based on IoT, fully controllable from a bank website)\",\"start_date\":\"May 2019\",\"end_date\":\"Jul 2019\"}]",
+    "honors_and_awards": null
+}

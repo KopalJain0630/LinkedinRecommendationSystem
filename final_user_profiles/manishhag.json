@@ -1,0 +1,61 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2000",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Information Systems\"},{\"subtitle\":\"-\",\"title\":\"Operation Research (I & II)\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Supply Chain and Logistics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Oct 2017",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Jan 2017Expires Jul 2017",
+            "subtitle": "Coursera",
+            "title": "Machine Learning "
+        },
+        {
+            "subtitle": "RoboCup 2017, Japan",
+            "title": "RoboCup 2017 - Participation Certificate"
+        }
+    ],
+    "current_company_name": "Amazon",
+    "publications": "[{\"title\":\"Team Description Paper - KgpKubs \",\"subtitle\":\"RoboCup 2017 Symposium\",\"date\":\"May 2017\",\"description\":\"Team Description Paper describes the work done on the Small Sized League Robot that was qualified for participation at RoboCup 2017, Japan.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"B.Tech Project | Deep Reinforcement Learning for Job Shop Scheduling\",\"start_date\":\"Jul 2018\",\"end_date\":\"Apr 2019\",\"description\":\"This is the outcome of my Bachelor Technical Project. Deep RL Algorithms were experimented to performs Job Shop scheduling in a factory environment. Since RL algorithms are tested over some simulators, one was designed specifically for job shop environment. Check out the github repository for the codes and project report.\"}]",
+    "honors_and_awards": null
+}

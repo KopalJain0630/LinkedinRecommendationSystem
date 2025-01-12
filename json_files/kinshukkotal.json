@@ -1,0 +1,358 @@
+{
+    "id": "kinshukkotal",
+    "name": "Kinshuk Kotal",
+    "city": "Aurangabad, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Data Scientist @ Amex | Ellenox | IIT KGP | NUS",
+    "about": "Interests in Artificial Intelligence, Optimization and Data Mining. Works on developing applications related to Natural language processing and Image processing. Also worked on image classification with tensorflow algorithms. Strong interest in solving complex problems through efficient algorithmic design",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "American Express",
+        "company_id": "american-express",
+        "title": "Data Scientist @ Amex | Ellenox | IIT KGP | NUS"
+    },
+    "experience": [
+        {
+            "title": "American Express",
+            "description_html": null,
+            "duration": "3 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "American Express",
+                    "meta": "Dec 2021 - Present 3 years 1 month",
+                    "duration": "Dec 2021 - Present 3 years 1 month",
+                    "start_date": "Dec 2021",
+                    "end_date": "Present",
+                    "duration_short": "3 years 1 month",
+                    "title": "Data Scientist",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "American Express",
+                    "meta": "Jul 2021 - Dec 2021 6 months",
+                    "duration": "Jul 2021 Dec 2021 6 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "Dec 2021",
+                    "duration_short": "6 months",
+                    "title": "Research Scientist",
+                    "description_html": null
+                }
+            ],
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Startup Scout",
+            "location": "India",
+            "description": "Ellenox is a startup incubator and product lab focused on the Indian ecosystem. We're building a culture of lean innovation by helping early-stage startups get to revenue and scale.",
+            "description_html": "Ellenox is a startup incubator and product lab focused on the Indian ecosystem. We're building a culture of lean innovation by helping early-stage startups get to revenue and scale. <!---->",
+            "duration": "Feb 2023 - Present 1 year 11 months",
+            "start_date": "Feb 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 11 months",
+            "company": "Ellenox",
+            "company_id": "ellenox",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Internship",
+            "description": "• Collaborated with Quality inspection, Software team and performed the requirement analysis, design and development in order to evaluate opportunities to leverage image processing to automate visual quality inspections process on incoming vehicle parts.• Developed a machine learning model in python, OpenCV using concept of Edge Detector, Image Moments, Vector Transformation, Histogram Matching and Convolution for real time defect detection.• Performed test analysis and deployed the machine learning model on Android platform developed using flutter.• Developed a python program for offline prediction using Google Automl output - int8 quantised grap file and label map file.",
+            "description_html": "• Collaborated with Quality inspection, Software team and performed the requirement analysis, design and development in order to evaluate opportunities to leverage image processing to automate visual quality inspections process on incoming vehicle parts.• Developed a machine learning model in python, OpenCV using concept of Edge Detector, Image Moments, Vector Transformation, Histogram Matching and Convolution for real time defect detection.• Performed test analysis and deployed the machine learning model on Android platform developed using flutter.• Developed a python program for offline prediction using Google Automl output - int8 quantised grap file and label map file.",
+            "duration": "Jan 2020 Jun 2020 6 months",
+            "start_date": "Jan 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "6 months",
+            "company": "Ather Energy",
+            "company_id": "ather-energy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Internship",
+            "location": "Singapore",
+            "description": "Project - 1Developed Video Synopsis algorithm to summarize the long duration video in short time for surveillance system. Used Mask - RCNN instance segmentation & object classification to extract the object of interest and superimpose on a stationary background.Project - 2Collaborated in the development of an App for Indoor Localization using wifi and Bluetooth beacons technology. Operated with Pedestrian dead reckoning, magnetic and barometric sensors for indoor tracking purposes. Developed a RESTfull API server running on an Express framework in Node.js to handle HTTP request's methods.",
+            "description_html": "Project - 1Developed Video Synopsis algorithm to summarize the long duration video in short time for surveillance system. Used Mask - RCNN instance segmentation &amp; object classification to extract the object of interest and superimpose on a stationary background.Project - 2Collaborated in the development of an App for Indoor Localization using wifi and Bluetooth beacons technology. Operated with Pedestrian dead reckoning, magnetic and barometric sensors for indoor tracking purposes. Developed a RESTfull API server running on an Express framework in Node.js to handle HTTP request's methods.",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "National University of Singapore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Design Internship",
+            "description": "• Designed a bin for valves of two-wheeler which reduced the rejection rate by 1% and optimized the cost of each bin by 40% • Automated the process of burr removal during steel cap insertion on crankpin which reduced the manpower to 50%",
+            "description_html": "• Designed a bin for valves of two-wheeler which reduced the rejection rate by 1% and optimized the cost of each bin by 40%&nbsp;• Automated the process of burr removal during steel cap insertion on crankpin which reduced the manpower to 50% <!---->",
+            "duration": "Jun 2018 Jul 2018 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "2 months",
+            "company": "Varroc",
+            "company_id": "varroc-global",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Muskan Pahwa",
+            "about": "Project Leader at Axtria",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Karthik Dasari",
+            "about": "Business Partner Analytics Dr Reddys | MBA-IIT Kharagpur |Ex - Axtria, ONGC",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aiswarya Aiju",
+            "about": "Decision Science | Project Lead at Axtria | Data and Analytics Consulting | St. Stephens’s College, Delhi",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aishwarya Baral",
+            "about": "Young Professional at National Rural Livelihood Mission,",
+            "location": "Odisha, India"
+        },
+        {
+            "profile_link": "",
+            "name": "DEEPANKAR SINGH",
+            "about": "Intelligence Officer",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Saksham Taneja",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Gupta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manjot K.",
+            "about": "Project Lead at Axtria || MBA, IIT Delhi",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Astha Jain",
+            "about": "Business Consultant || Anaqua || Professional Services || GATE Qualified",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Rukma Dangey",
+            "about": "Project Leader Decision Science at Axtria - Ingenious Insights",
+            "location": "Gurugram"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree",
+            "field": "Industrial and Systems engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Health",
+            "duration": "Jul 2016 - May 2018 · 1 year 11 months",
+            "duration_short": "1 year 11 months",
+            "end_date": "May 2018",
+            "start_date": "Jul 2016",
+            "subtitle": "National Service Scheme",
+            "title": "Community Volunteer"
+        }
+    ],
+    "followers": 1951.0,
+    "connections": 500.0,
+    "current_company_company_id": "american-express",
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Aurangabad",
+    "linkedin_id": "kinshukkotal",
+    "activity": [
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "India is shocked by Atul Subash's tragic suicide; his wife, Nikita Singhania, works at Accenture Techie in Bengaluru dies by suicide, leaves…",
+            "img": "",
+            "id": "7272498967370719233"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "How to Determine Your Startup's Market Size? The cheat sheet attached below will help 👇 Comment below if you want me to send you a…",
+            "img": "",
+            "id": "7230838376591982593"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "Looking to speak to PhD graduates with UP TO 3 years of industry experience for a Quant Research opportunity in London at a multi-bn$ hedge fund with…",
+            "img": "",
+            "id": "7229067247762231296"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "This is to inform that Pratik Sur , has sent a very abusive, unethical message to me on LinkedIn. LinkedIn This is an abusive message. Request you…",
+            "img": "",
+            "id": "7174829134416654336"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "🔊 Learning about LLMs and GenAI doesn't have to cost a fortune! Check out around 30 top free GenAI courses, taught by pioneers and leading…",
+            "img": "",
+            "id": "7172780777749889024"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "The NCP-Sharadchandra Pawar MP sought to know what steps the government is taking to check money laundering.",
+            "img": "",
+            "id": "7161733428256735232"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "Injecting Knowledge Graphs in RAG A common question we’ve heard from users is how to best include knowledge graphs (KGs) in a RAG pipeline. This…",
+            "img": "",
+            "id": "7157419003353718784"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "GitHub has 372M repositories. 24 repos you can't miss out as a software engineer: Interview preparation: 1. Tech Interview Handbook:…",
+            "img": "",
+            "id": "7156186482183979008"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "Scale AI workloads, for your data, anywhere with IBM’s fit-for purpose data store. ",
+            "img": "",
+            "id": "7142467432031338496"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "Hiring Lead and Senior DS for my teams at Uber - Total Open positions 5 to 8 - Fill this form ->  1. Lead Data Scientist:…",
+            "img": "",
+            "id": "7151216052788432896"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "--CLOSED-- <Not taking anymore applications> Our team at Siemens Energy R&D is looking for a Data Science professional. Roles and responsibilities…",
+            "img": "",
+            "id": "7148547376129933313"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "If you’re a Data Scientist, you should learn how to deploy models in production. Here are 3 books, 3 courses, 3 blogs and 3 podcasts if you want to…",
+            "img": "",
+            "id": "7147845455840780288"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "We are hiring graduate students in our lab! Fully funded PhD and Master’s position (MASc) in Natural Language Processing and Machine Learning are…",
+            "img": "",
+            "id": "7146642701092859904"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "2024 - Strengthen your core understanding of Generative AI, GANs, Diffusion, Audio, and Vision model technologies, along with their…",
+            "img": "",
+            "id": "7146608399189762048"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "Facebook/Meta is hiring for it's engineering offices in London :) Feel free to DM me with your resume if you're interested in a…",
+            "img": "",
+            "id": "7141740392135270401"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "We're going live with the AMA in 15 minutes. Do join in and read about Aadit's journey in building Zepto and his vision of building one of India's…",
+            "img": "",
+            "id": "15"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "We're hiring ML Engineers in the Apple Machine Learning Research (MLR) Team. If you have a strong background in ML engineering and software…",
+            "img": "",
+            "id": "7137694233884336128"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "🚨🚨 New Product Role 🚨🚨 Machine Learning Product Manager Fully Remote B2B SaaS #productmanagement #machinelearning #ProductAmsterdam #MLProduct…",
+            "img": "",
+            "id": "7133476999607521282"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "I’m #hiring for full-time Generative AI roles in Amazon AWS. We're looking for exceptional scientists skilled at deep learning, who are eager to work…",
+            "img": "",
+            "id": "7131539584772964353"
+        },
+        {
+            "interaction": "Liked by Kinshuk Kotal",
+            "link": "",
+            "title": "I went through 4731 companies listed on the stock market, so that you don't have to. Here's the summary: 1) There are 1007 companies with more than…",
+            "img": "",
+            "id": "4731"
+        }
+    ],
+    "linkedin_num_id": 595009403.0,
+    "honors_and_awards": [
+        {
+            "title": "NTSE Scholarship awardee",
+            "publication": "-",
+            "date": "2013-05-01T00:00:00.000Z",
+            "description": "Awarded National Talent Search Scholarship as per merit through “NTSE” held by N.C.E.R.T New Delhi"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

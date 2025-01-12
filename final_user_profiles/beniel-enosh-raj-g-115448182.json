@@ -1,0 +1,94 @@
+{
+    "city": "Chennai, Tamil Nadu, India",
+    "position": "SDE 2 @ Honeywell | IIT Kharagpur'23",
+    "experience": [
+        {
+            "title": "Software Engineer 2",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Quality Engineering Design and Manufacturing",
+            "field": "Engineering/Industrial Management",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Maharishi Vidya Mandir Senior Secondary School",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020Credential ID K29VBRGFKQ6WSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Basic)"
+        },
+        {
+            "meta": "Issued Sep 2019Credential ID YTM82WCQHQGQSee credential",
+            "subtitle": "Coursera",
+            "title": "Using Python to Access Web Data"
+        },
+        {
+            "meta": "Credential ID CGTSL4PWH4Q9See credential",
+            "subtitle": "Coursera",
+            "title": "Divide and Conquer, Sorting and Searching, and Randomized Algorithms"
+        },
+        {
+            "meta": "Credential ID R5iK7HMxJGBgaSbvkSee credential",
+            "subtitle": "JPMorgan Chase & Co.",
+            "title": "Software Engineering Virtual Experience"
+        }
+    ],
+    "current_company_name": "Honeywell",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "National Talent Search Exam (NTSE) Scholar",
+            "publication": "National Council of Education Research and Training (NCERT)",
+            "date": "2016-05-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

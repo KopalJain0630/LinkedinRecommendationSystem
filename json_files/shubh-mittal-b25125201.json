@@ -1,0 +1,637 @@
+{
+    "id": "shubh-mittal-b25125201",
+    "name": "Shubh Mittal",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "Predoc ISB || SDE Intern Scale AI ||  Research Scholar @RIT, @ ANU Canberra, @ Deakin Melbourne and @UNSW || DL Intern at NUS || ML Intern @ IIT-B, UoA || HPAIR || Ex-Vice Chair of IEEE IAS || CSE @ VIT' 24",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Indian School of Business",
+        "title": "Predoc ISB || SDE Intern Scale AI ||  Research Scholar @RIT, @ ANU Canberra, @ Deakin Melbourne and @UNSW || DL Intern at NUS || ML Intern @ IIT-B, UoA || HPAIR || Ex-Vice Chair of IEEE IAS || CSE @ VIT' 24"
+    },
+    "experience": [
+        {
+            "title": "Associate Researcher",
+            "location": "Hyderabad, Telangana, India",
+            "description": "►Conducting research in Corporate Strategy with a focus on empirical methodologies and advanced data analytics.",
+            "description_html": "►Conducting research in Corporate Strategy with a focus on empirical methodologies and advanced data analytics. <!---->",
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Sydney, New South Wales, Australia",
+            "description": "Advisor : Dr. Flora Salim",
+            "description_html": "Advisor : Dr. Flora Salim <!---->",
+            "duration": "May 2024 Jun 2024 2 months",
+            "start_date": "May 2024",
+            "end_date": "Jun 2024",
+            "duration_short": "2 months",
+            "company": "UNSW Sydney",
+            "company_id": "unsw-asia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Rochester Institute of Technology",
+            "location": "New York, United States",
+            "description_html": null,
+            "duration": "5 months",
+            "positions": [
+                {
+                    "subtitle": "Rochester Institute of Technology",
+                    "meta": "Jun 2023 - May 2024 1 year",
+                    "description": "Advisor : Prof. Ashique KhudaBukhsh.►Addressed stereotypes through cyber offender lists from news channels.►Utilized Large Language Models like Mistral 7b, PaLM 2 and GPT for annotations and contextual understanding for political identity projections.[Paper accepted in ASONAM, Calabria]",
+                    "duration": "Jun 2023 May 2024 1 year",
+                    "start_date": "Jun 2023",
+                    "end_date": "May 2024",
+                    "duration_short": "1 year",
+                    "title": "Research Intern",
+                    "description_html": "Advisor : Prof. Ashique KhudaBukhsh.<br>►Addressed stereotypes through cyber offender lists from news channels.<br>►Utilized Large Language Models like Mistral 7b, PaLM 2 and GPT for annotations and contextual understanding for political identity projections.<br><br>[Paper accepted in ASONAM, Calabria] <!---->"
+                },
+                {
+                    "subtitle": "Rochester Institute of Technology",
+                    "meta": "Jan 2024 - Apr 2024 4 months",
+                    "description": "Advisor : Prof. WrightWorked on improving flow correlation attacks on Tor with CNN-MHSA and triplet loss.[Poster accepted in APNET SIGCOMM, Sydney]",
+                    "duration": "Jan 2024 Apr 2024 4 months",
+                    "start_date": "Jan 2024",
+                    "end_date": "Apr 2024",
+                    "duration_short": "4 months",
+                    "title": "Research Intern",
+                    "description_html": "Advisor : Prof. Wright<br>Worked on improving flow correlation attacks on Tor with CNN-MHSA and triplet loss.<br><br>[Poster accepted in APNET SIGCOMM, Sydney] <!---->"
+                }
+            ],
+            "company": "Rochester Institute of Technology",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Prompt Engineer",
+            "description_html": null,
+            "duration": "Jan 2024 Apr 2024 4 months",
+            "start_date": "Jan 2024",
+            "end_date": "Apr 2024",
+            "duration_short": "4 months",
+            "company": "Scale AI",
+            "company_id": "scaleai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "►Conducting research in brain tumor segmentation with SOTA in computer vision and deep learning algorithms.",
+            "description_html": "►Conducting research in brain tumor segmentation with SOTA in computer vision and deep learning algorithms. <!---->",
+            "duration": "Nov 2023 Apr 2024 6 months",
+            "start_date": "Nov 2023",
+            "end_date": "Apr 2024",
+            "duration_short": "6 months",
+            "company": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Visiting Research Fellow (Bachelor Thesis)",
+            "location": "Melbourne, Victoria, Australia",
+            "description": "Topic:  Post-surgery survival prediction after thoracic procedures using Deep LearningAdvsiors :  Dr. Chandan Karmakar and Dr. Shantanu Pal",
+            "description_html": "Topic: Post-surgery survival prediction after thoracic procedures using Deep LearningAdvsiors : Dr. Chandan Karmakar and Dr. Shantanu Pal <!---->",
+            "duration": "Aug 2023 Dec 2023 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Dec 2023",
+            "duration_short": "5 months",
+            "company": "Deakin University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern [Future Research Talent Scholar]",
+            "location": "Canberra, Australian Capital Territory, Australia",
+            "description": "Advisor : Prof. Charles Gretton►Selected as one of the top 7 researchers in the ANU computer science labs globally.►Translated legacy Fortran-based algorithms to C, ensuring computational accuracy. ►Post-translation, I integrated the codes with the C Bounded Model Checker (CBMC) for enhanced verification.►This opportunity allows me to engage in cutting-edge research and collaborate with esteemed professors and scholars in my field.",
+            "description_html": "Advisor : Prof. Charles Gretton►Selected as one of the top 7 researchers in the ANU computer science labs globally.►Translated legacy Fortran-based algorithms to C, ensuring computational accuracy. ►Post-translation, I integrated the codes with the C Bounded Model Checker (CBMC) for enhanced verification.►This opportunity allows me to engage in cutting-edge research and collaborate with esteemed professors and scholars in my field. <!---->",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "The Australian National University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Microintern",
+            "location": "Auckland, New Zealand",
+            "description": "►Proposed solutions to improve the system for accurate street-level address recognition and mapping points of interest. ►The project aimed to identify non-Western locations, refining algorithms to minimize user confusion.",
+            "description_html": "►Proposed solutions to improve the system for accurate street-level address recognition and mapping points of interest. ►The project aimed to identify non-Western locations, refining algorithms to minimize user confusion. <!---->",
+            "duration": "Jul 2023 Jul 2023 1 month",
+            "start_date": "Jul 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "1 month",
+            "company": "The University of Auckland",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "►Engaged in the development of advanced text localization techniques tailored for Indic languages: Hindi, Bengali, and Tamil.►I leveraged state-of-the-art Convolutional Neural Network (CNN) models, specifically trained on vast datasets like Incepnet, VGG-16 and Densenet.",
+            "description_html": "►Engaged in the development of advanced text localization techniques tailored for Indic languages: Hindi, Bengali, and Tamil.►I leveraged state-of-the-art Convolutional Neural Network (CNN) models, specifically trained on vast datasets like Incepnet, VGG-16 and Densenet. <!---->",
+            "duration": "Dec 2022 Jun 2023 7 months",
+            "start_date": "Dec 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "7 months",
+            "company": "Samsung India",
+            "company_id": "samsung-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Placement Coordinator",
+            "location": "Vellore, Tamil Nadu, India",
+            "description_html": null,
+            "duration": "Jul 2022 Jun 2023 1 year",
+            "start_date": "Jul 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "1 year",
+            "company": "Vellore Institute of Technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IEEE IAS VIT",
+            "location": "Vellore, Tamil Nadu, India",
+            "description_html": null,
+            "duration": "2 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "IEEE IAS VIT",
+                    "meta": "Jan 2022 - Dec 2022 1 year",
+                    "description": "I provided guidance to students in the realm of Data Science, assisting them in publishing researchpapers. Our efforts were acknowledged with the prestigious Best Chapter Award in 2022.",
+                    "duration": "Jan 2022 Dec 2022 1 year",
+                    "start_date": "Jan 2022",
+                    "end_date": "Dec 2022",
+                    "duration_short": "1 year",
+                    "title": "Vice Chairperson",
+                    "description_html": "I provided guidance to students in the realm of Data Science, assisting them in publishing research<br>papers. Our efforts were acknowledged with the prestigious Best Chapter Award in 2022. <!---->"
+                },
+                {
+                    "subtitle": "IEEE IAS VIT",
+                    "meta": "Dec 2020 - Dec 2021 1 year 1 month",
+                    "duration": "Dec 2020 Dec 2021 1 year 1 month",
+                    "start_date": "Dec 2020",
+                    "end_date": "Dec 2021",
+                    "duration_short": "1 year 1 month",
+                    "title": "Core Committee Member",
+                    "description_html": null
+                }
+            ],
+            "company": "IEEE IAS VIT",
+            "company_id": "ieeeiasvit",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Deep Learning Intern",
+            "location": "Singapore, Singapore",
+            "description": "Developed a project \"Crop Booster\" along with guidance from HP mentors at NUS Singapore; the model assesses soil fertility and suggests suitable crops based on user-inputted nutrients.",
+            "description_html": "Developed a project \"Crop Booster\" along with guidance from HP mentors at NUS Singapore; the model assesses soil fertility and suggests suitable crops based on user-inputted nutrients. <!---->",
+            "duration": "Jun 2022 Jul 2022 2 months",
+            "start_date": "Jun 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "2 months",
+            "company": "National University of Singapore",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Development Coordinator",
+            "location": "Mysore, Karnataka, India",
+            "description": "►Got trained in Advanced Frontend Development concepts and worked on prototyping.►Developed the Frontend website of the company from the design model provided.►Attended corporate learning and development programs to gain competencies and professional skills.",
+            "description_html": "►Got trained in Advanced Frontend Development concepts and worked on prototyping.►Developed the Frontend website of the company from the design model provided.►Attended corporate learning and development programs to gain competencies and professional skills. <!---->",
+            "duration": "Apr 2021 Aug 2021 5 months",
+            "start_date": "Apr 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "5 months",
+            "company": "Ambher",
+            "company_id": "ambher",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Aman A.",
+            "about": "Software Engineer @Redwood Software ; Ex Piramal Finance, SAP Labs India, Shoproxx pvt ltd",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Arka Pramanik",
+            "about": "SWE-1 @ HPE || Ex SWE Intern @HPE || Ex HPE CTY '23 Intern || Amazon MLSS 22' || Final Year Student @ VIT Vellore - CSE",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Chakladar",
+            "about": "Associate Software Engineer @Shell",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhanesh Shetty",
+            "about": "SDE-1 @ JP Morgan Chase & Co | Prev. Android Developer @ Exam Lounge | Prev. SDE Intern @ UnORG",
+            "location": "Udupi"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Raj",
+            "about": "Digitizing Healthcare @Bajaj Finserv Health | Ex-Research @samsung R&D",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Nandan Deshpande",
+            "about": "Software Test Engineer @ Ather Energy | Technology Enthusiast",
+            "location": "Thane"
+        },
+        {
+            "profile_link": "",
+            "name": "Shruti Shreya",
+            "about": "SDE at Amazon",
+            "location": "Jamshedpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Anish Mittal",
+            "about": "Entrepreneur | Ex-DT Intern @GE Aerospace | VIT'24",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "HARIHARA SUDHAN",
+            "about": "Data scientist at Human Resocia Japan| JLPT N3 Certified || Technical Content Writer at Turing.com || Former Data Analyst Intern at Feynn Labs ||Top 8% in Amazon ML Challenge'23",
+            "location": "Okazaki"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishita Chauhan",
+            "about": "Incoming CS Grad @UMass Amherst | Final year student @VIT, Vellore",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Vellore Institute of Technology",
+    "education": [
+        {
+            "title": "Vellore Institute of Technology",
+            "degree": "Student",
+            "field": "Bachelor of Technology - BTech, Computer Science and Engineering",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2024",
+            "description": "Recipient of Special Achiever Award and Achiever Award for the year 2021 and 2022",
+            "description_html": "Recipient of Special Achiever Award and Achiever Award for the year 2021 and 2022 <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "La Martinere College",
+            "degree": "ISC Computer Science, 98.5% in PCM",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Chinese "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " French "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Japanese "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021Credential ID B391439AD01CSee credential",
+            "subtitle": "HackerRank",
+            "title": "Java Skill Certificate Test"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID 1CBCCAB5F619See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL Basic Assessment Test"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID 1300BEDF53EBSee credential",
+            "subtitle": "HackerRank",
+            "title": "SQL Intermediate Assessment Test"
+        },
+        {
+            "meta": "Issued May 2021Credential ID FF1848A2D62FSee credential",
+            "subtitle": "HackerRank",
+            "title": "Python Skill Assessment Test"
+        },
+        {
+            "meta": "Issued May 2021Credential ID 52700DE7-23D1-A091-4FF7-EA73F28ABC54See credential",
+            "subtitle": "Crazy for Success Foundation",
+            "title": "Social Media Marketing Internship"
+        },
+        {
+            "meta": "Issued Jul 2024Expires Aug 2024",
+            "subtitle": "Indian School of Business",
+            "title": "Econometrics "
+        }
+    ],
+    "recommendations": [
+        "Aman Agarwal “Shubh is a very hard-working and dedicated person. He is always looking forward to maximize his skills and comes up with really innovative ideas and alternatives. His interest in the domain of Machine Learning is a lot appreciated and keeps on finding newer ways to execute his ideas. He is someone who is very focused and keeps working on projects one after the other. He is a great teammate and is always willing to help others. He suggests new directions to explore. He is a person with a vision and inspires his teammates to strive for the same. I admire the way he looks up to success and hope to work and learn a lot more from him. ”",
+        "Tisha Chawla “I got the opportunity to team up with Shubh in various events .Shubh is a very diligent worker who strives to do every task alloted to him with utmost perfection. Not only does he possess good technical knowledge on Web Development and Machine Learning but also has a very approachable and amiable personality.He has excellent managerial skills and tries to use every opportunity provided to him in a wise manner.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Science and Technology",
+            "duration": "Aug 2024 - Aug 2024 · 1 month",
+            "duration_short": "1 month",
+            "end_date": "Aug 2024",
+            "info": "Attended HPAIR ACONF 2024 at Chulalongkorn University, Bangkok, Thailand. Connected with global leaders and motivated delegates to explore solutions for reimagining connectivity in a globalized society.",
+            "start_date": "Aug 2024",
+            "subtitle": "Harvard Project for Asian and International Relations (HPAIR)",
+            "title": "Delegate"
+        },
+        {
+            "cause": "Health",
+            "duration": "Nov 2021 - Present · 3 years 2 months",
+            "duration_short": "3 years 2 months",
+            "end_date": "Present",
+            "info": "As a volunteer at the YRC, I played a pivotal role in orchestrating blood donation camps, tutoringunderprivileged students, and conducting awareness sessions on CASA.",
+            "start_date": "Nov 2021",
+            "subtitle": "Youth Red Cross, VIT",
+            "title": "Community Volunteer"
+        },
+        {
+            "cause": "Education",
+            "duration": "May 2021 - May 2022 · 1 year 1 month",
+            "duration_short": "1 year 1 month",
+            "end_date": "May 2022",
+            "info": "Served as a mentor and inspiration for thousands of students on the Expertrons platform. Sharing my Internship as well as motivating experiences on this platform.",
+            "start_date": "May 2021",
+            "subtitle": "Expertrons",
+            "title": "Education Mentor"
+        },
+        {
+            "cause": "Education",
+            "duration": "Nov 2021 - Nov 2021 · 1 month",
+            "duration_short": "1 month",
+            "end_date": "Nov 2021",
+            "info": "Volunteer for the education drive conducted during the flagship event of Becoming U-Fest.",
+            "start_date": "Nov 2021",
+            "subtitle": "Becoming I Foundation, Vellore chapter",
+            "title": "Volunteer at Becoming U-Fest"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Sep 2022 - Oct 2022 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Oct 2022",
+            "info": "I coordinated Code Run Seek 4.0, an exclusive offline treasure hunt event, a unique collaboration between IEEE-IAS and IEEE-WIE, marking a pioneering post-pandemic initiative at VIT.",
+            "start_date": "Sep 2022",
+            "subtitle": "graVITas VIT Vellore",
+            "title": "Event Coordinator"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Oct 2022 - Nov 2022 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Nov 2022",
+            "info": "Among the top 35 students globally chosen for the 2022 Deakin Blue Marble Program in Geelong, Australia, where I presented my findings, contributing to sustainable development.",
+            "start_date": "Oct 2022",
+            "subtitle": "Deakin University",
+            "title": "Apprentice"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jan 2024 - Jan 2024 · 1 month",
+            "duration_short": "1 month",
+            "end_date": "Jan 2024",
+            "start_date": "Jan 2024",
+            "subtitle": "COMSNETS",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 8239.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "Indian School of Business",
+    "publications": "[{\"title\":\"A secure and light-weight patient survival prediction in Internet of Medical Things framework\",\"subtitle\":\"Wiley Online Library\",\"date\":\"May 31, 2024\",\"description\":\"This study explores predicting postoperative outcomes in major lung resections for primary lung cancer using a dataset from UCI's Machine Learning Repository. Employing ensemble learning classifiers, it found the extra trees classifier achieved 0.92 accuracy with all features, and 0.91 accuracy with selected subjective and objective data. Key features like PRE5, PRE4, and AGE were identified as significant, highlighting the value of feature selection. The findings provide valuable insights for predictive modelling in thoracic surgeries within the IoMT framework.\"},{\"title\":\"SYN-GAN: A robust intrusion detection system using GAN-based synthetic data for IoT security\",\"subtitle\":\"Internet of Things\",\"date\":\"May 10, 2024\",\"description\":\"As technological communication advances, diverse datasets are exchanged across IoT environments, which are vulnerable to attacks and data breaches. To combat these risks, researchers are experimenting with network intrusion detection systems (NIDS). However, data imbalance and high collection costs hinder effective machine learning (ML) model training. Our study addresses this by using 100% synthetic data generated via Generative Adversarial Networks (GAN) for training NIDS ML models. This approach reduces dependency on real-world data, achieving high accuracy and performance across the UNSW-NB15, NSL-KDD, and BoT-IoT datasets, and demonstrating the potential of generative data in cybersecurity.\"},{\"title\":\"MobileNet-GRU fusion for optimizing diagnosis of yellow vein mosaic virus\",\"subtitle\":\"Ecological Informatics\",\"date\":\"March 2, 2024\",\"description\":\"Yellow vein mosaic virus (YVMV) is a destructive plant virus that commonly affects crops, particularly okra, in India. The virus is transmitted by whiteflies and poses significant challenges to agricultural productivity. Infection with YVMV leads to distinct yellow vein patterns on leaves, stunted growth, reduced yield, and ultimately economic losses for farmers. Timely and accurate detection of YVMV is crucial for effective disease management. In this article, we present a novel method that employs advanced deep-learning models to identify YVMV-infected okra plants. The study leverages a dataset of over 2000 okra plant leaves that implements transfer learning models, including MobileNet, EfficientNet, InceptionV3, VGG19, InceptionResNetV2, and ResNet50 and recurrent neural networks (RNN) variants, including Long short-term memory (LSTM), Bidirectional long short-term memory (BiLSTM) and Gated recurrent unit (GRU). Additionally, three hybrid models, combining MobileNet with LSTM, BiLSTM, and GRU, are incorporated to capitalize on the characteristics of both MobileNet and RNNs through superior feature extraction and detection of temporal dependencies. The results demonstrate that the MobileNet model combined with all three RNNs achieves exceptional accuracy, surpassing 99.27%. Notably, the MobileNet model integrated with GRU exhibits the most optimized performance with the least loss and greatest accuracy, facilitating improved disease management strategies and aiding in the yield of crops by reducing the impact of YVMV.\"},{\"title\":\"A Prognostic Framework for Post-Operative Patient Survival Prediction in IoMT\",\"subtitle\":\"Institute of Electrical and Electronics Engineers (IEEE)\",\"date\":\"February 16, 2024\",\"description\":\"The study presents an Internet of Medical Things (IoMT) framework designed to predict patient survival outcomes through the evaluation of a post-thoracic surgery scenario. We employ a multi-layered IoMT framework that integrates various sensors and medical devices for real-time data collection, efficient data transmission, and data analysis. Utilizing a set of eight traditional and ensemble machine learning classifiers, along with neural networks optimized using grid search, we establish a baseline performance for the framework's capability in predicting post-surgical survival rates. However, as individual machine learning classifiers exhibit suboptimal performance across the performance metrics used, we combine the individual strengths of these classifiers to construct a stacking approach. The stacked classifier which incorporates a multi-layer perceptron as the final estimator achieved significant results, including a high accuracy of 0.90, precision of 0.87, and recall of 0.93. These metrics not only indicate a high post-operative survival detection rate but also demonstrate a balance of low bias and high variance performance, ensuring that the model is both accurate and reliable in varying IoMT scenarios.\"},{\"title\":\"Hyperparameter Optimization of Machine Learning Models for Monitoring Menstrual Mental Health\",\"subtitle\":\"Institute of Electrical and Electronics Engineers (IEEE)\",\"date\":\"September 29, 2023\",\"description\":\"Presented at IEEE inC4, this study uses text-mining to analyze women's sentiments during Premenstrual dysphoric disorder (PMDD) and menstrual cycles. By applying various machine learning techniques, it identifies emotional patterns, highlighting the prevalence of negative emotions.\"},{\"title\":\"Performance Comparison of Recurrent Neural Networks for Metamorphic Malware\",\"subtitle\":\"Institute of Electrical and Electronics Engineers (IEEE)\",\"date\":\"September 22, 2023\",\"description\":\"This work was presented at the IEEE ICDSNS conference. Our research introduces a deep learning approach using Bidirectional LSTM (BiLSTM) to detect metamorphic malware, addressing challenges of dataset availability and evolving threats. This approach enhances malware detection and holds potential for broader cyber threat applications.\"},{\"title\":\"IncepForest: A Novel Approach for Sign Language Recognition with Transfer and Ensemble Learning\",\"subtitle\":\"Institute of Electrical and Electronics Engineers (IEEE)\",\"date\":\"August 9, 2023\",\"description\":\"I showcased a paper at the IEEE APSIT Conference, focusing on emerging human-computer interface advancements igniting enthusiasm for hand gesture detection due to its versatility. Our innovation, IncepForest, cleverly merges InceptionResNetV2 and Random Forest, yielding an exceptional hybrid model. Notably, our paper secured the coveted Best Paper Award at the event.\"},{\"title\":\"A Multipronged Approach for Modeling Menopausal Health Using Ensemble Learning\",\"subtitle\":\"Institute of Electrical and Electronics Engineers (IEEE)\",\"date\":\"July 25, 2023\",\"description\":\"My team and I presented this paper at the 58th ICEST Conference held in Serbia, exploring the effectiveness of ensemble learning for sentiment analysis of menopausal experiences on Twitter. Our research holds significance in providing profound insights into women's emotional journeys during menopause.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Crop Booster\",\"start_date\":\"Jun 2022\",\"end_date\":\"Jul 2022\"},{\"title\":\"The Raddiwala\",\"start_date\":\"Jun 2021\",\"end_date\":\"Jul 2021\",\"description\":\"A website to help scrap dealers get notified about the time and location of the registered user to take the scraps.\"},{\"title\":\"Smart Grid and Green Energy Systems (SGGES’21)\",\"start_date\":\"May 2021\",\"end_date\":\"Jul 2021\",\"description\":\"Developer of the website for the Virtual International Conference on Smart Grid and Green Energy Systems (SGGES’21). The conference is a platform for researchers, academicians as well as professionals from all over the world to present, discuss and promote advances in research and practice in the field of smart grid and renewable energy systems.\"},{\"title\":\"RAG App for Interpreting SEC-EDGAR Findings\",\"description\":\"This repository contains a Retrieval-Augmented Generation application designed to efficiently interpret SEC-EDGAR of 3 tickers. It extracts, processes, and analyzes financial documents using Large Language Models [Gemini-pro] to provide actionable financial insights.\"}]",
+    "organizations": null,
+    "location": "Hyderabad",
+    "linkedin_id": "shubh-mittal-b25125201",
+    "activity": [
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "Y Combinator published a new list of startup ideas to build in 2025. For anyone exploring what to build next, I summarized the full list for…",
+            "img": "",
+            "id": "7278065479745744897"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "🌟 Thrilled and humbled to share that our work on Shiksha Copilot has been featured in Satya's note as one of the AI Impact stories of 2024!…",
+            "img": "",
+            "id": "7275521511203991552"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "This week I was one of >10,000 people who descended upon Vancouver for an incredible NeurIPS 2024—the pinnacle of AI conferences! It was an absolute…",
+            "img": "",
+            "id": "7273826409066733569"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "We are super excited to share that our work on Shiksha Copilot has been featured in Satya Nadella’s note as one of the AI Impact stories of 2024!!…",
+            "img": "",
+            "id": "7277017832846999552"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "I am delighted to share that we have two papers accepted in #icassp2025. In one work, we show how multi-modal self supervised learning improve…",
+            "img": "",
+            "id": "7276065071682703360"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "I am delighted about the launch of the Shiksha copilot, a joint collaboration between Microsoft India and Sikshana Foundation, a promising step…",
+            "img": "",
+            "id": "7255155948372029440"
+        },
+        {
+            "interaction": "Shared by Shubh Mittal",
+            "link": "",
+            "title": "Cold emails can open doors you didn’t even know existed. When I was an undergrad, reaching out through cold emails felt intimidating, but it turned…",
+            "img": "",
+            "id": "7278483910446010369"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "Hey Everyone! I’m thrilled to announce that I’ll be joining HackerRank as an Operations Specialist Intern in their Product Team for a 6-month…",
+            "img": "",
+            "id": "7276827186077032448"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "I’m excited to announce that I’ll be offering a new elective on Ubiquitous Computing at IIIT-Delhi! The course offers a comprehensive introduction…",
+            "img": "",
+            "id": "7276893266661318656"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "I am excited to share that I have recently taken up a new product leadership role in M365 Copilot, building on the AI tech we have been developing at…",
+            "img": "",
+            "id": "7276477799136116736"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "🎉 I'm beyond excited to share that I've joined Google as a Software Engineer-II ! 🎉 I'm looking forward to this new journey 🚀, and learning from…",
+            "img": "",
+            "id": "7276270037756203008"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "\"All our dreams can come true, if we have the courage to pursue them.\" After 3 years, 2 internships & 1 scholarship - my dream of working at Google…",
+            "img": "",
+            "id": "7274732120030265344"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "Why I Chose #ISB Over #IIMA—and How It’s Turning Out When I got admits from both ISB Hyderabad and IIM Ahmedabad, I was genuinely in two minds. Both…",
+            "img": "",
+            "id": "7274395439670419456"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "Thank you.",
+            "img": "",
+            "id": "7273390678158565377"
+        },
+        {
+            "interaction": "Liked by Shubh Mittal",
+            "link": "",
+            "title": "Computing just changed forever. Google Quantum AI has unveiled Willow, their most advanced superconducting quantum chip yet. Small enough to fit in…",
+            "img": "",
+            "id": "7272550688386162690"
+        }
+    ],
+    "linkedin_num_id": 863249933.0,
+    "honors_and_awards": [
+        {
+            "title": "Raman Research Award",
+            "publication": "Dean Academic Research",
+            "date": "2024-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Best Paper Award",
+            "publication": "IEEE Advances in Power, Signal, and Information Technology (APSIT) Conference",
+            "date": "2023-07-01T00:00:00.000Z",
+            "description": "My team was awarded the best paper award for the paper titled: \"IncepForest: A Novel Approach for Sign Language Recognition with Transfer and Ensemble Learning\""
+        },
+        {
+            "title": "Achiever Award",
+            "publication": "Vellore Institute of Technology, Vellore",
+            "date": "2022-12-01T00:00:00.000Z",
+            "description": "I received the Achiever award for my remarkable engagement and achievements in national events and competitions throughout India."
+        },
+        {
+            "title": "Special Achiever Award",
+            "publication": "Vellore Institute of Technology, Vellore",
+            "date": "2022-12-01T00:00:00.000Z",
+            "description": "I was honored with the Special Achiever award for my exceptional participation and accolades in international events and conferences worldwide."
+        },
+        {
+            "title": "Top 7 teams in Pitchers",
+            "publication": "InnovatorsQuest VIT",
+            "date": "2021-11-01T00:00:00.000Z",
+            "description": "Pitchers was an ideathon held by InnovatorsQuest VIT. Our team got in the top 7 teams among 200+ submissions."
+        },
+        {
+            "title": "First prize in 'Know India Quiz'",
+            "publication": "Quizionary",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": "Stood first in a quiz organized by 'Quizionary' which tested participant's knowledge about our country India."
+        },
+        {
+            "title": "Third Position in Accountser - An Accountancy Quiz",
+            "publication": "Unitus and Dare2Compete Platform",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": "Got the 3rd Position in an Accountancy Quiz participated by over 300+ participants all over the nation. The quiz tested persons knowledge in fields like accountancy, economics, mathematics, etc."
+        },
+        {
+            "title": "Top 10 in Innoventure among 500+ participants",
+            "publication": "Entrepreneurship Cell of VIT",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": "Awarded for pitching up innovative and startup ideas addressing the real world problems after 3 elimination rounds"
+        },
+        {
+            "title": "Scholarship for Higher Education (SHE) under Innovation in Science pursuit for inspired research (INSPIRE)",
+            "publication": "Government of India",
+            "date": "2020-09-01T00:00:00.000Z",
+            "description": "I was notified by the Department of Science & Technology, Ministry of Education, Government of India that I am being awarded the Scholarship for Higher Education (SHE) under the Innovation in Science Pursuit for Inspired Research (INSPIRE) program. I was selected by the virtue of my performance within top 1% of the Grade XII School Board Examinations in the country across all the State and Central Education Boards for the academic session of 2019-20 (aggregate of 98.50%)!"
+        },
+        {
+            "title": "The D.N. Shukla Medal",
+            "publication": "La Martiniere College",
+            "date": "2020-07-01T00:00:00.000Z",
+            "description": "Awarded to the student who scored the highest marks in Mathematics in the ISC Year 12 examinations (2020) Score: 100"
+        },
+        {
+            "title": "Academic Achievement Awards",
+            "publication": "La Martiniere College",
+            "date": "2020-04-01T00:00:00.000Z",
+            "description": "Awarded to students with highest marks in the subjects: English, STEM, Social Studies, Hindi and Computer Science"
+        },
+        {
+            "title": "Merit-based Scholarship (100%)",
+            "publication": "FIT-JEE",
+            "date": "2018-04-01T00:00:00.000Z",
+            "description": "Was the awarded 100% scholarship for the 2 year FITJEE Preparation Program at Lucknow for my performance on the scholarship examination"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

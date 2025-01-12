@@ -1,0 +1,111 @@
+{
+    "city": "Noida, Uttar Pradesh, India",
+    "position": "Software Engineer III at Google | Ex-Intuit",
+    "experience": [
+        {
+            "title": "Google",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Google",
+                    "meta": "Oct 2024 - Present 3 months",
+                    "duration": "Oct 2024 - Present 3 months",
+                    "start_date": "Oct 2024",
+                    "end_date": "Present",
+                    "duration_short": "3 months",
+                    "title": "Software Engineer III",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Google",
+                    "meta": "Jul 2022 - Oct 2024 2 years 4 months",
+                    "description": "Software Engineer at Google Cloud Dataproc",
+                    "duration": "Jul 2022 Oct 2024 2 years 4 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Oct 2024",
+                    "duration_short": "2 years 4 months",
+                    "title": "Software Engineer II",
+                    "description_html": "Software Engineer at Google Cloud Dataproc <!---->"
+                }
+            ],
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Co-op",
+            "description_html": null,
+            "duration": "Feb 2022 Jul 2022 6 months",
+            "start_date": "Feb 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "6 months",
+            "company": "Intuit",
+            "company_id": "intuit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Intuit",
+            "company_id": "intuit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Coordinator",
+            "description_html": null,
+            "duration": "Aug 2020 Jul 2021 1 year",
+            "start_date": "Aug 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "1 year",
+            "company": "Knuth Programming Hub JIIT Noida",
+            "company_id": "knuthprogramminghubjiitnoida",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Jaypee Institute Of Information Technology",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Mary's Academy, Meerut Cantt.",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Google",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Language Server Protocol\",\"start_date\":\"Aug 2020\",\"end_date\":\"Dec 2020\",\"description\":\"LSP Server built for VSCode client, targeted at dockerfile IDE Tooling\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Google Kickstart Round G",
+            "publication": "Google",
+            "date": "2020-10-01T00:00:00.000Z",
+            "description": "Achieved a Global Rank of 604 in Google's Kick-Start Programming Competition."
+        }
+    ]
+}

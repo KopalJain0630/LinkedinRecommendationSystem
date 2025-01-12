@@ -1,0 +1,57 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "-",
+            "title": "CFA Level1"
+        },
+        {
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        }
+    ],
+    "current_company_name": "GraphEdge Ventures",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "J.C. Ghosh Memorial Prize",
+            "publication": "-",
+            "date": null,
+            "description": "For securing the highest CGPA, in the class at the end of 6th semester."
+        },
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana (KVPY)",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "National Talent Search Examination (NTSE)",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Regional Mathematical Olympiad (RMO)",
+            "publication": "-",
+            "date": null,
+            "description": null
+        }
+    ]
+}

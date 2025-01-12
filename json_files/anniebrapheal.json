@@ -1,0 +1,375 @@
+{
+    "id": "anniebrapheal",
+    "name": "Annie Biby Rapheal",
+    "city": "Stockholm, Stockholm County, Sweden",
+    "country_code": "SE",
+    "position": "Junior Machine Learning Engineer, Tracab",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "TRACAB",
+        "company_id": "tracab",
+        "title": "Junior Machine Learning Engineer, Tracab"
+    },
+    "experience": [
+        {
+            "title": "Junior Machine Learning Engineer",
+            "location": "Stockholm, Stockholm County, Sweden",
+            "description_html": null,
+            "duration": "Sep 2022 - Present 2 years 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 4 months",
+            "company": "TRACAB",
+            "company_id": "tracab",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern R&D",
+            "location": "Stockholm, Stockholm County, Sweden",
+            "description_html": null,
+            "duration": "Jun 2022 Aug 2022 3 months",
+            "start_date": "Jun 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "3 months",
+            "company": "Ericsson",
+            "company_id": "ericsson",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "Nov 2021 Jun 2022 8 months",
+            "start_date": "Nov 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "8 months",
+            "company": "Snappet",
+            "company_id": "snappet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern R&D",
+            "location": "Stockholm, Stockholm County, Sweden",
+            "description": "Project: Network Dimensioning using Bayesian Machine Learning Model• Conducted exploratory data analysis, modeling, and operationalization of a trained predictor for resourceconsumption for one of the network elements.• Operationalized the ML training pipeline using Dataiku’s Data Science Studio (DSS) for integration to webapplication.",
+            "description_html": "Project: Network Dimensioning using Bayesian Machine Learning Model• Conducted exploratory data analysis, modeling, and operationalization of a trained predictor for resourceconsumption for one of the network elements.• Operationalized the ML training pipeline using Dataiku’s Data Science Studio (DSS) for integration to webapplication. <!---->",
+            "duration": "Jun 2021 Aug 2021 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "3 months",
+            "company": "Ericsson",
+            "company_id": "ericsson",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant at Department of Agricultural and Food Engineering, IIT Kharagpur",
+            "description": "Project: Deep Reinforcement Learning for Motion Generation of a Hexapod Robot• Conducted literature review on the state-of-the-art deep reinforcement learning methods for motiongeneration of a multi-legged robot and to gain knowledge on deep reinforcement learning.Project: Modelling the Clay Content using DRS Spectral Data• Developed models for clay content prediction using PLS regression, BPNN and Ensemble Learning Model.• Pre-processed the spectral data using Savitzky-Golay derivatives, Log(1/Ri), multiplicative scatter correction(MSC) and standard normal variate (SNV).• Designed the models combining PLS regression with pre-processing techniques, combining variable selectionalgorithms with BPNN and ensemble learning model by using PLS regression models as base learners.• Analysed the error in prediction models using RMSE, RPD and R2.",
+            "description_html": "Project: Deep Reinforcement Learning for Motion Generation of a Hexapod Robot• Conducted literature review on the state-of-the-art deep reinforcement learning methods for motiongeneration of a multi-legged robot and to gain knowledge on deep reinforcement learning.Project: Modelling the Clay Content using DRS Spectral Data• Developed models for clay content prediction using PLS regression, BPNN and Ensemble Learning Model.• Pre-processed the spectral data using Savitzky-Golay derivatives, Log(1/Ri), multiplicative scatter correction(MSC) and standard normal variate (SNV).• Designed the models combining PLS regression with pre-processing techniques, combining variable selectionalgorithms with BPNN and ensemble learning model by using PLS regression models as base learners.• Analysed the error in prediction models using RMSE, RPD and R2.",
+            "duration": "Jul 2019 Jun 2020 1 year",
+            "start_date": "Jul 2019",
+            "end_date": "Jun 2020",
+            "duration_short": "1 year",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Intern",
+            "description": "Project: Arrow, Bracket and Callout detection Model and Description generation of Balance Sheets • Worked in developing an Arrow, Bracket and Callout detection model (ABC Model) for Accounting Tables, using SSD (single Shot Detection) architecture. • Generated artificial data for ABC model using OpenCV • Developed a module to calculate the performance metrics of the model • Worked in automating the description generation of Balance sheets.Developed the modules for grouping and mapping of table contents using OCR, LSD and self designed module to group contents based on spacing.",
+            "description_html": "Project: Arrow, Bracket and Callout detection Model and Description generation of Balance Sheets • Worked in developing an Arrow, Bracket and Callout detection model (ABC Model) for Accounting Tables, using SSD (single Shot Detection) architecture. • Generated artificial data for ABC model using OpenCV • Developed a module to calculate the performance metrics of the model • Worked in automating the description generation of Balance sheets.Developed the modules for grouping and mapping of table contents using OCR, LSD and self designed module to group contents based on spacing.",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Continual Engine Pvt Ltd",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant at Vinod Gupta School of Management, IIT Kharagpur",
+            "location": "Kharagpur Area, India",
+            "description": "Project II : Stock Market Forecasting using Evolutionary Prediction Model • Developed a Stock Market Prediction Model using Mamdani Fuzzy rule based system (FRBS) in R. • Developed the rule base with RIPPER by converting a regression problem into classification problem using modified Chi-merge discretization. • Tuned the data base using genetic algorithm. • Designed triangular, trapezoidal and Guassian membership functions for FRBS using intervals from discretization. • Studied the effect of membership function on prediction error by monitoring the MAPE for stock price data sets.Project I : Portfolio Optimization Using Multi Objective Genetic Algorithms • Developed a model in python for Optimization of portfolio using multi objective genetic algorithms. • Designed the objective function using risk and return of the portfolio to obtain the pareto optimal front for risk-return trade off • Developed modules for multi objective genetic algorithms Vector Evaluated Genetic algorithm (VEGA), Fuzzy VEGA, Multi Objective Genetic Algorithm (MOGA) and Non-Dominated Sorting Genetic Algorithm (NSGA) by including unity constraint, cardinality constraint, floor constraint and round-a-lot constraint.",
+            "description_html": "Project II : Stock Market Forecasting using Evolutionary Prediction Model • Developed a Stock Market Prediction Model using Mamdani Fuzzy rule based system (FRBS) in R. • Developed the rule base with RIPPER by converting a regression problem into classification problem using modified Chi-merge discretization. • Tuned the data base using genetic algorithm. • Designed triangular, trapezoidal and Guassian membership functions for FRBS using intervals from discretization. • Studied the effect of membership function on prediction error by monitoring the MAPE for stock price data sets.Project I : Portfolio Optimization Using Multi Objective Genetic Algorithms • Developed a model in python for Optimization of portfolio using multi objective genetic algorithms. • Designed the objective function using risk and return of the portfolio to obtain the pareto optimal front for risk-return trade off • Developed modules for multi objective genetic algorithms Vector Evaluated Genetic algorithm (VEGA), Fuzzy VEGA, Multi Objective Genetic Algorithm (MOGA) and Non-Dominated Sorting Genetic Algorithm (NSGA) by including unity constraint, cardinality constraint, floor constraint and round-a-lot constraint.",
+            "duration": "Apr 2018 May 2019 1 year 2 months",
+            "start_date": "Apr 2018",
+            "end_date": "May 2019",
+            "duration_short": "1 year 2 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Cochin Area, India",
+            "description": "Project: Generating Rank of Celebreties and Representing the Causation using Wordcloud • Worked in developing a product to rank celebrities, based on the data collected from various articles in online news. • Designed an algorithm to alert the aberrations in data collections using central limit theorem. • Developed python code to generate bigrams and trigrams from article contents imported using Solr and ranked them using likelihood ratio. Used wordclouds to visualize the data based on the ranking. • Learned and used basic Git commands to integrate the developed modules to work flow.",
+            "description_html": "Project: Generating Rank of Celebreties and Representing the Causation using Wordcloud • Worked in developing a product to rank celebrities, based on the data collected from various articles in online news. • Designed an algorithm to alert the aberrations in data collections using central limit theorem. • Developed python code to generate bigrams and trigrams from article contents imported using Solr and ranked them using likelihood ratio. Used wordclouds to visualize the data based on the ranking. • Learned and used basic Git commands to integrate the developed modules to work flow.",
+            "duration": "Jun 2018 Jul 2018 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "2 months",
+            "company": "Turbolab Technologies",
+            "company_id": "turbolab-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Intern",
+            "location": "Thrissur, Kerala",
+            "description": "Cognitio is an educational start-up. I worked as a part of marketing and content development team and also conducted AISAT 2015 in Thrissur (Kerala) region.",
+            "description_html": "Cognitio is an educational start-up. I worked as a part of marketing and content development team and also conducted AISAT 2015 in Thrissur (Kerala) region. <!---->",
+            "duration": "Dec 2015 Jan 2016 2 months",
+            "start_date": "Dec 2015",
+            "end_date": "Jan 2016",
+            "duration_short": "2 months",
+            "company": "Cognitio Education",
+            "company_id": "cognitio-education",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Simon Jönsson",
+            "about": "Data Science / Machine Learning Engineer consultant at Nexer Insight",
+            "location": "Stockholm"
+        },
+        {
+            "profile_link": "",
+            "name": "Sruti Bhattacharjee",
+            "about": null,
+            "location": "Solna"
+        },
+        {
+            "profile_link": "",
+            "name": "Jose Mathew",
+            "about": "Development Engineer at Scania Group",
+            "location": "Stockholm"
+        },
+        {
+            "profile_link": "",
+            "name": "Ina Odén Österbo",
+            "about": "Project Leader at SciLifeLab Data Centre",
+            "location": "Greater Uppsala Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Mingzhi Liu",
+            "about": "PhD Student at Karolinska Institutet",
+            "location": "Solna"
+        },
+        {
+            "profile_link": "",
+            "name": "Hedvig L.",
+            "about": "Doctoral Researcher | Development Economist",
+            "location": "Greater Malmö Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Mrityunjai Sharma",
+            "about": "Senior Scientist, Nuclear Decommissioning and Waste Management",
+            "location": "Espoo"
+        },
+        {
+            "profile_link": "",
+            "name": "Anubhab Ghosh",
+            "about": "Doctoral Student at KTH Royal Institute of Technology",
+            "location": "Stockholm"
+        },
+        {
+            "profile_link": "",
+            "name": "Emil Rosén",
+            "about": "Machine Learning | AI | Data Science | Founder | PhD",
+            "location": "Stockholm"
+        },
+        {
+            "profile_link": "",
+            "name": "Seyoum Eshetu Birkie",
+            "about": "Associate Professor, Department of Production Engineering (IPU)",
+            "location": "Södertälje"
+        }
+    ],
+    "educations_details": "KTH Royal Institute of Technology",
+    "education": [
+        {
+            "title": "KTH Royal Institute of Technology",
+            "degree": "Master's degree",
+            "field": "Machine Learning",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Agricultural and Food Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Agri Systems and Management",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advanced Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Algorithms-I\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Computational Statistics\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"Mathematics I & II\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Partial Differential Equation \"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Regression and Time Series Model\"},{\"subtitle\":\"-\",\"title\":\"Stochastic Processes in Finance\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Malayalam "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Tamil "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Jun 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Apr 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "recommendations": [
+        "Marcial Gutiérrez “As part of the Ericsson Summer 2021 Internship Program, Annie came to work with us at the Product Development Unit Converged Core to do some Data Science work around using Machine Learning for predictive network resources consumption, as well as operationalizing these results for an internal web application. Annie’s main contribution was on doing the exploratory data analysis, modeling, and operationalization of a trained predictor of resources consumption for one of our products. Her execution throughout the course of the project was outstanding. On the Data Science part, she comprehensively gathered and discussed her insights on the datasets, models’ performance, and interpretability, always providing relevant comparisons and recommendations in every sprint. On the operationalization part, she was able to learn how to use Dataiku’s Data Science Studio (DSS) in a remarkable speed and prepare the ML training pipeline for her datasets in line with the provided requirements and expectations to integrate this with the web application. Along the way, she also made sure that everything was thoroughly documented. I can attribute Annie’s superb results to how structured she is in the way she approaches a problem. Additionally, she possesses great communication skills, using the appropriate technical language, which is also evidence of her level of competency in the area. On top of this, she was a great team player and a very pleasant person to work with. I would definitely recommend Annie for any type of Data Science role due to her ability to quickly understand the problem at hand and approach it in a structured manner, especially if delivering relevant easy to digest and timely results are of utmost importance.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2015 - Apr 2017 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2017",
+            "start_date": "Jul 2015",
+            "subtitle": "National Service Scheme",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 3362.0,
+    "connections": 500.0,
+    "current_company_company_id": "tracab",
+    "current_company_name": "TRACAB",
+    "publications": "[{\"title\":\"A Study on the Effect of Fuzzy Membership Function on Fuzzified RIPPER for Stock Market Prediction\",\"subtitle\":\"International Conference of Machine Learning and Soft Computing 2020\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Deep Reinforcement Learning for Coordinated Motion Planning of a Hexapod Mobile Manipulator\",\"start_date\":\"Jul 2019\",\"end_date\":\"Present\"},{\"title\":\"Stock Market Prediction Model\",\"start_date\":\"Dec 2018\",\"end_date\":\"May 2019\"},{\"title\":\"Optimization of Portfolio using Multi Objective Genetic Algorithms\",\"start_date\":\"Apr 2018\",\"end_date\":\"Nov 2018\"}]",
+    "organizations": null,
+    "location": "Stockholm",
+    "linkedin_id": "anniebrapheal",
+    "activity": [
+        {
+            "interaction": "Liked by Annie Biby Rapheal",
+            "link": "",
+            "title": "… and this was the data storm!! Amazing experience yesterday with the Heroes of Data team and the event we had in our office here at…",
+            "img": "",
+            "id": "7003354335745044480"
+        },
+        {
+            "interaction": "Liked by Annie Biby Rapheal",
+            "link": "",
+            "title": "I’m happy to share that I’m starting a new position as Baseband Software Developer at Ericsson! I will be mainly working with Test Automation. I…",
+            "img": "",
+            "id": "6999651361277526016"
+        },
+        {
+            "interaction": "Liked by Annie Biby Rapheal",
+            "link": "",
+            "title": "The advanced artificial intelligence (AI)-driven PDF Remediation Platform, PREP has introduced its latest capabilities for easy remediation of…",
+            "img": "",
+            "id": "6810911328350298114"
+        },
+        {
+            "interaction": "Liked by Annie Biby Rapheal",
+            "link": "",
+            "title": "When analysing data, we are trained to ignore outliers and focus on metrics like the median. In business, when assessing the competitive landscape…",
+            "img": "",
+            "id": "6803148986938200064"
+        },
+        {
+            "interaction": "Liked by Annie Biby Rapheal",
+            "link": "",
+            "title": "I am delighted to share that I will be joining the Ph.D. Program in Chemical Engineering at the Massachusetts Institute of Technology (MIT) this…",
+            "img": "",
+            "id": "6794585911456800768"
+        },
+        {
+            "interaction": "Liked by Annie Biby Rapheal",
+            "link": "",
+            "title": "Three years ago, coincidentally on #internationalwomensday , I started on my journey to build Continual Engine. Three years hence, we have grown from…",
+            "img": "",
+            "id": "6774583079873871872"
+        },
+        {
+            "interaction": "Liked by Annie Biby Rapheal",
+            "link": "",
+            "title": "Graduated from IIT Kharagpur. Class of 2020.",
+            "img": "",
+            "id": "2020"
+        },
+        {
+            "interaction": "Shared by Annie Biby Rapheal",
+            "link": "",
+            "title": "Graduated!",
+            "img": "",
+            "id": "6770043462202081280"
+        },
+        {
+            "interaction": "Liked by Annie Biby Rapheal",
+            "link": "",
+            "title": "Very excited to see y'all at #DevFestBlr #devfest19. Pranshu Agrawal and I will be talking about why pre-processing is indispensable. Find us at…",
+            "img": "",
+            "id": "6580781256173289472"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Annie Biby Rapheal",
+            "img": "",
+            "id": "6386448274353676288"
+        }
+    ],
+    "linkedin_num_id": 500037576.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

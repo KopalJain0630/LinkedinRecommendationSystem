@@ -1,0 +1,104 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Thapar School of Management",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "&",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "Xebia",
+            "title": "Xethon 2021"
+        }
+    ],
+    "current_company_name": "EY",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Robocop\",\"start_date\":\"Nov 2019\",\"end_date\":\"Feb 2021\",\"description\":\"An Autonomous Robot for real-time target detection, locking and target shooting, patrolling and has a collision avoidance mechanism.\"},{\"title\":\"Smart OCR\",\"start_date\":\"Nov 2020\",\"end_date\":\"Jan 2021\",\"description\":\"OCR that converts an organizational chart in any format into Microsoft excel and any document ofany format into an editable document.\"},{\"title\":\"Visual Recognition Algorithm\",\"start_date\":\"Jun 2020\",\"end_date\":\"Aug 2020\",\"description\":\"A web application build using Flask framework which is used for Digital KYC used in financialinstitutes.\"},{\"title\":\"Smart Cap - GetVision\",\"description\":\"An artificial eye for visually impaired detecting and recognizing faces, objects and expressions inreal-time using Machine Learning and OpenCV techniques.\"},{\"title\":\"Wholesale Bookshop Management\",\"description\":\"Manages a Bookshop using MySql with operations like searching, updating and deletion. Tableswere stored in Oracle database and accessed through SQL queries\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Secured 1st position in the BOSCH AI Hackathon presented by Code gladiators 2021.",
+            "publication": "Code Gladiators, Techgig",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "SIH\"2020 Winner Hardware Edition - under the category open innovation",
+            "publication": "-",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Secured 1st position in EY GDS Hackathon - Hackpions 1.0 under the theme - Image to Text",
+            "publication": "-",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Secured AIR 6th in Flipkart Grid 2.0 Hackathon 2020 (Hardware Edition).",
+            "publication": "Flipkart",
+            "date": "2020-09-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Secured 3rd position in branch.",
+            "publication": "-",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Secured 1st position in the Devfolio HackTU Hackathon 2019 under the category - Machine Learning.",
+            "publication": "-",
+            "date": "2019-11-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Secured 3rd position in Branch.",
+            "publication": "-",
+            "date": "2019-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Secured 3rd position in the Startup Punjab Hackathon Event 2019.",
+            "publication": "-",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Cleared National Level Science Talent Search Examination (NSTSE) with AIR-75.",
+            "publication": "-",
+            "date": "2015-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Merit scholarship holder at Thapar Institute of Engineering and Technology.",
+            "publication": "-",
+            "date": null,
+            "description": "For being among the top 10% students in academics."
+        },
+        {
+            "title": "Winner- Devfolio HackTU Hackethon 2019.",
+            "publication": "-",
+            "date": null,
+            "description": "Category- Machine Learning."
+        }
+    ]
+}

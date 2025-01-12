@@ -1,0 +1,94 @@
+{
+    "city": "Ontario, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Princeton University",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2021",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"ORF 350\",\"title\":\"Analysis of Big Data\"},{\"subtitle\":\"COS 126\",\"title\":\"Computer Science: An Interdisciplinary Approach (Java)\"},{\"subtitle\":\"ORF 363\",\"title\":\"Computing and Optimization for the Physical and Social Sciences (MATLAB, Python)\"},{\"subtitle\":\"ECO 312\",\"title\":\"Econometrics: A Mathematical Approach (R, Stata)\"},{\"subtitle\":\"ORF 335\",\"title\":\"Financial Mathematics (Python, Excel)\"},{\"subtitle\":\"EGR 153\",\"title\":\"Foundations of Engineering: Electricity, Magnetism, and Photonics\"},{\"subtitle\":\"EGR 154\",\"title\":\"Foundations of Engineering: Linear Systems\"},{\"subtitle\":\"EGR 152\",\"title\":\"Foundations of Engineering: Mathematics of Shape and Motion (Matlab)\"},{\"subtitle\":\"EGR 151\",\"title\":\"Foundations of Engineering: Mechanics, Energy, and Waves (Creo)\"},{\"subtitle\":\"EGR 156\",\"title\":\"Foundations of Engineering: Multivariable Calculus\"},{\"subtitle\":\"ORF 245\",\"title\":\"Fundamentals of Statistics (R)\"},{\"subtitle\":\"ORF 445\",\"title\":\"High Frequency Markets: Models and Data Analysis\"},{\"subtitle\":\"ECO 100\",\"title\":\"Intro to Microeconomics\"},{\"subtitle\":\"COS 217\",\"title\":\"Intro to Programming Systems (C)\"},{\"subtitle\":\"SML 201\",\"title\":\"Introduction to Data Science (R)\"},{\"subtitle\":\"ECE 364\",\"title\":\"Machine Learning for Predictive Data Analysis (Python)\"},{\"subtitle\":\"SML 306\",\"title\":\"Machine Learning with Social Data\"},{\"subtitle\":\"MAE 305\",\"title\":\"Mathematics in Engineering I: Ordinary Differential Equations (Mathematica)\"},{\"subtitle\":\"ECO 310\",\"title\":\"Microeconomic Theory: A Mathematical Approach\"},{\"subtitle\":\"ORF 387\",\"title\":\"Networks\"},{\"subtitle\":\"ORF 307\",\"title\":\"Optimization (Python)\"},{\"subtitle\":\"ORF 309\",\"title\":\"Probability and Stochastic Systems\"},{\"subtitle\":\"ORF 405\",\"title\":\"Regression and Applied Time Series (R)\"},{\"subtitle\":\"SML 310\",\"title\":\"Research Projects in Data Science (R, Python)\"},{\"subtitle\":\"CEE 460\",\"title\":\"Risk Analysis\"},{\"subtitle\":\"CEE 262B\",\"title\":\"Structures and the Urban Environment\"},{\"subtitle\":\"POL 245\",\"title\":\"Visualizing Data (R)\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "AT&T",
+            "title": "AT&T Summer Learning Academy Externship"
+        }
+    ],
+    "current_company_name": "German Aerospace Center (DLR)",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"In Search of the Recipe for Hit Songs: Predicting Hit Songs Using Machine Learning\",\"start_date\":\"Apr 2022\",\"end_date\":\"May 2023\",\"description\":\"Advised by Professor Elizaveta Rebrova. Formulated a 100 page machine learning research thesis over a year-long period. Applied multiple regression algorithms (logistic, LASSO, and elastic net), along with Decision Tree and Random Forest models, to a large-scale music data set (Million Song Dataset) and implemented K-fold cross validation for optimal model hyperparameters. Evaluated all 5 models using various classification metrics and identified the relative significance of metadata features compared to audio features in predicting hit song potential with 83% accuracy. Received an A for final senior thesis grade.\"},{\"title\":\"Excessive Positivity in the Sharing Economy: A Case Study with Airbnb Data in 5 US Cities\",\"start_date\":\"Feb 2021\",\"end_date\":\"May 2021\",\"description\":\"Advised by Professor Daisy Yan Huang. Designed semester-long project and completed independent research to produce 30 page report which applies machine learning/regression methods to pinpoint different underlying factors that contribute to a high number of positive reviews on Airbnb. Utilized Random Forest in R for feature selection from 50+ features, applied sentiment analysis using VADER in Python, and trained 4 LASSO regression models in R until an efficient champion model was found.\"},{\"title\":\"Optimism and Employment Success at Harambee\",\"start_date\":\"Jan 2021\",\"end_date\":\"Jan 2021\",\"description\":\"Completed social impact project in Python and worked in a team of 3 to develop metrics, identify patterns, and derive data-based evidence from survey results to inform an international youth employment accelerator's program management where to target resources for extended involvement.\"},{\"title\":\"B^2: Budgeting for Beginners\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"A minimum viable product of a mobile investing app, powered by machine learning, that utilizes market research and the users' financial aspirations to allow for efficient investment.\"},{\"title\":\"Choplery\",\"start_date\":\"Dec 2019\",\"end_date\":\"Jan 2020\",\"description\":\"An eco friendly alternative, centered around tackling plastic waste, for everyday utensils. Transforming between chopsticks, a knife, a fork, a spoon, and a straw, this product revolutionizes how an individual goes about eating their meals. Created a business model, designs, and 3d model with Creo in team of 3.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "John C. Bogle '51 Fellows in Civic Service",
+            "publication": "Pace Center for Civic Engagement",
+            "date": "2020-03-01T00:00:00.000Z",
+            "description": "One of twenty three Princeton first-year students selected for funding to pursue a self-designed summer internship project focused on civic service."
+        },
+        {
+            "title": "Noble Math Aficionado Award",
+            "publication": "Nogales High School",
+            "date": "2019-06-01T00:00:00.000Z",
+            "description": "Nogales High School's Math Department recognizes one senior (from graduating class of approx. 430 students) who has demonstrated strong enthusiasm in the subject throughout his/her high school career."
+        },
+        {
+            "title": "Edison STEM Scholar",
+            "publication": "Southern California Edison",
+            "date": "2019-05-01T00:00:00.000Z",
+            "description": "A $40,000 scholarship is awarded to thirty high school seniors who are empowered to innovate change through STEM."
+        },
+        {
+            "title": "Horatio Alger National Scholar",
+            "publication": "Horatio Alger",
+            "date": "2019-04-01T00:00:00.000Z",
+            "description": "This $25,000 scholarship is annually awarded to 106 high school students throughout the nation who have faced and overcame obstacles in their young lives."
+        },
+        {
+            "title": "Quest for Excellence STEM Award",
+            "publication": "Questbridge",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "Achieving, low-income high school juniors with career interests in STEM are chosen for this award."
+        },
+        {
+            "title": "Hope of America",
+            "publication": "Kiwanis Cal-Nev-Ha Foundation",
+            "date": "2017-07-01T00:00:00.000Z",
+            "description": "The Hope of America award recognizes students for their leadership and character."
+        }
+    ]
+}

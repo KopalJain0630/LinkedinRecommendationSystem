@@ -1,0 +1,118 @@
+{
+    "city": "Hyderabad, Telangana, India",
+    "position": "Microsoft  •  IIT KGP '24  •  Mathematics & Computing",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Developing and maintaining Microsoft Cloud for Sustainability products, resolving critical bugs, optimizing integrations, and streamlining client onboarding to ensure seamless product launches and robust functionality.",
+            "description_html": "Developing and maintaining Microsoft Cloud for Sustainability products, resolving critical bugs, optimizing integrations, and streamlining client onboarding to ensure seamless product launches and robust functionality. <!---->",
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "description": "Led the revamp of the Ed-tech website to enhance user experience and satisfaction, reducing time to market and achieving an increase in user satisfaction.",
+            "description_html": "Led the revamp of the Ed-tech website to enhance user experience and satisfaction, reducing time to market and achieving an increase in user satisfaction. <!---->",
+            "duration": "May 2024 Jul 2024 3 months",
+            "start_date": "May 2024",
+            "end_date": "Jul 2024",
+            "duration_short": "3 months",
+            "company": "AlgoZenith",
+            "company_id": "algozenith",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "Developed a feature in the Microsoft Sustainability Manager App that encourages enterprises to make data-driven decisions and measure the environmental impact of their decisions",
+            "description_html": "Developed a feature in the Microsoft Sustainability Manager App that encourages enterprises to make data-driven decisions and measure the environmental impact of their decisions <!---->",
+            "duration": "May 2023 Jun 2023 2 months",
+            "start_date": "May 2023",
+            "end_date": "Jun 2023",
+            "duration_short": "2 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "IISc Campus, Bengaluru, Karnataka, India",
+            "description": "Developed a robust model that recognizes causal structure in time series and performs equally efficiently even in high noise and distribution shift cases.",
+            "description_html": "Developed a robust model that recognizes causal structure in time series and performs equally efficiently even in high noise and distribution shift cases. <!---->",
+            "duration": "Apr 2021 Aug 2021 5 months",
+            "start_date": "Apr 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "5 months",
+            "company": "National Institute of Advanced Studies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Fellowship Programme - 2021",
+            "description": "Developed a novel unbiased ranking model to solve real-life problems with incomplete data, applying statistical estimation methods and algorithms.",
+            "description_html": "Developed a novel unbiased ranking model to solve real-life problems with incomplete data, applying statistical estimation methods and algorithms. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Indian Statistical Institute, Kolkata",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Science - MS",
+            "field": "Mathematics and Computer Science (Integrated M.Sc.)",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": "Activities and Societies: Fine Arts Cup Captian @ SN/IG Hall of Residence, IIT Kharagpur Gymkhana and Finance Head @ Spectra, IIT Kharagpur",
+            "description_html": "Activities and Societies: Fine Arts Cup Captian @ SN/IG Hall of Residence, IIT Kharagpur Gymkhana and Finance Head @ Spectra, IIT Kharagpur",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Machine Learning by Andrew Ng\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID 7K87MFKU6P87See credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 642R8FTNP5LASee credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID HE3KNPC4JFEXSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 83U6MSZ7AVJNSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "IEEE",
+            "title": "Computer Vision by Winter School of AI and Robotics"
+        }
+    ],
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Privacy Enhanced Conversational AI using Large Language Models\",\"start_date\":\"Aug 2023\",\"end_date\":\"May 2024\",\"description\":\"Developed a highly accurate LLM-based local chatbot that can run on custom sensitive data while ensuring availability and security against data breaches through IPFS and cryptographic techniques\"},{\"title\":\"Comparative Study of Conventional Classifiers & Genetic Algorithms based Classifier\",\"start_date\":\"Jan 2021\",\"end_date\":\"Apr 2021\",\"description\":\"Developed a fully working and efficient feature selection and multi-class classification model using genetic algorithms, and evaluated their efficiency against traditional classifiers by conducting a comparative study\"}]",
+    "honors_and_awards": null
+}

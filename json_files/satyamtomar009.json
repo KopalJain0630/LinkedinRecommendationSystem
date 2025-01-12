@@ -1,0 +1,171 @@
+{
+    "id": "satyamtomar009",
+    "name": "Satyam Tomar",
+    "city": "India",
+    "country_code": "IN",
+    "position": "IIT-KGP '24",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Addverb",
+        "company_id": "addverb",
+        "title": "IIT-KGP '24"
+    },
+    "experience": [
+        {
+            "title": "Research Trainee",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Addverb",
+            "company_id": "addverb",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Tanya Aggarwal",
+            "about": "Software Engineer @ Accolite Digital | Technical Consultant @ Morgan Stanley | Web Developer",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "SAURAV BORAH",
+            "about": "Software Engineer",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "kanika aggarwal",
+            "about": "Mtech_CSE@IITJ, India",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ansh Garg",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshuman Choudhary",
+            "about": "Software Engineer III at Google",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Soni",
+            "about": "System Engineer | TCS | Azure Platform & Kubernetes Service Administrator",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "ABHIPSA SWAIN",
+            "about": null,
+            "location": "Jamshedpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Mehul Sethi",
+            "about": "MSCS student at University of Southern California | Seeking Full Time Software Engineering Roles",
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sargun Bindra",
+            "about": "SDE at JP Morgan",
+            "location": "Patiala"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishtha Gupta",
+            "about": "Associate Consultant at Informatica | Data Governance & Integration Professional | Python Automation Enthusiast",
+            "location": "Delhi, India"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "ENGINEERING",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1523.0,
+    "connections": 500.0,
+    "current_company_company_id": "addverb",
+    "current_company_name": "Addverb",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Computer Vision based Game Setup\",\"description\":\"• Developed a program for any microprocessor operated setup to facilitate a ball-shooting game suitable for exhibitions.• Utilized OpenCV library and Image Processing techniques like canny edge detection, and warp perspective transform.• Added functionality for motion tracking, hit detection, tilt correction, and score calculation based on target accuracy.• Developed a Flask based web application to register players, sort, display, and announce the scores using gtts library.GameTracker (Github)-https://github.com/BruteForce009/vision-game-trackerWebApp (Github)- https://github.com/BruteForce009/Take-an-Aim\"},{\"title\":\"IoT Applications for Precise Agriculture\",\"description\":\"• Built a system of sensing modules as a 61% cheaper alternative to Libelium Smart Agriculture for precision agriculture.• Programmed and deployed the devices to periodically send the sensor data in JSON format via HTTP POST requests.• Developed a full-stack web application for users to register, log in, monitor, sort, visualize and download the CSV data.• Studied the changing environmental variables by processing and plotting the data using NumPy, Pandas & Matplotlib.• Deployed the web application on a Linux-based server to handle the user requests using Nginx, Gunicorn & Supervisor.• Worked on integrating the web application with an existing Django based mobile application, using only one database.Github- https://github.com/BruteForce009/sensors-interface\"},{\"title\":\"Stock & Option Price Analysis\",\"description\":\"• Extracted stock prices from yahoo finance into Pandas dataframe and analyzed their past returns and moving averages.• Used Matplotlib and Seaborn in python to generate instructive visualizations like pair-plot, heat map, and cluster map.• Automated the retrieval and edition of the stock & option price data into an Excel file using Openpyxl and ExcelWriter.• Utilized the data to estimate the European option prices by calculating volatility and using Black-Scholes formulation.\"}]",
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "satyamtomar009",
+    "activity": [
+        {
+            "interaction": "Liked by Satyam Tomar",
+            "link": "",
+            "title": "This is absolutely wild! 🤯 Magnus Carlsen (World #1 chess player) just quit the World Rapid & Blitz Championship as they wouldn’t let him wear jeans…",
+            "img": null,
+            "id": "7278683071548170240"
+        },
+        {
+            "interaction": "Liked by Satyam Tomar",
+            "link": "",
+            "title": "I've hired 200+ employees in the last 6 years. Here's something that no one talks about… When an individual does not perform, employers start…",
+            "img": "",
+            "id": "200"
+        },
+        {
+            "interaction": "Liked by Satyam Tomar",
+            "link": "",
+            "title": "I am so tired of this “sabse bana k chalna chahie, kab kon kam a jaye” - Nahi banana yar. The pretentiousness is so frustrating. Ye banane k…",
+            "img": "",
+            "id": "7277185132376002560"
+        },
+        {
+            "interaction": "Liked by Satyam Tomar",
+            "link": "",
+            "title": "A huge list of technologies listed on your CV is not as important as you might think! A common misconception in the engineering industry is that…",
+            "img": "",
+            "id": "7270739053967204354"
+        },
+        {
+            "interaction": "Liked by Satyam Tomar",
+            "link": "",
+            "title": "🚨 SHOCKING! TMC leader Amrita Ekka's husband Francis Ekka was arrested in a joint operation of NIA, Army & WB police with highly sensitive 'DRDO…",
+            "img": "",
+            "id": "7268551576225505281"
+        },
+        {
+            "interaction": "Liked by Satyam Tomar",
+            "link": "",
+            "title": "HAPPY BIRTHDAY TO THE BEST IN THE WORLD 🐐 The highest-rated chess player ever, Magnus Carlsen has won 17 world championships in all formats, as…",
+            "img": "",
+            "id": "7268535341341421568"
+        }
+    ],
+    "linkedin_num_id": 757396264.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

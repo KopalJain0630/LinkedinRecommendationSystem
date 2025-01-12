@@ -1,0 +1,294 @@
+{
+    "id": "alakh-dixit",
+    "name": "Alakh Dixit",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "MTS @ Adobe | Adobe Research | Anand Rathi Global Finance | IIT Kharagpur '23",
+    "about": "I am a 2023  graduate from IIT Kharagpur with a Dual Degree (B.Tech & M.Tech) in Mining Engineering and Financial Engineering, complemented by a Minor in Mathematics and Computing and a Micro Specialization in Optimization Theory. Currently, I work as a Software Development Engineer (SDE) at Adobe, where I leverage my technical expertise and passion for finance and data analytics to develop innovative solutions. With a strong interest in Machine Learning and Deep Learning, I enjoy tackling real-world challenges and collaborating with diverse teams. I am committed to continuous learning and community engagement, aiming to make a meaningful impact through technology and innovation.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Adobe",
+        "company_id": "adobe",
+        "title": "MTS @ Adobe | Adobe Research | Anand Rathi Global Finance | IIT Kharagpur '23"
+    },
+    "experience": [
+        {
+            "title": "Member of Technical Staff",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Adobe",
+            "company_id": "adobe",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Developed a platform to model and predict NFT prices based on aggregated data of 4.6M transactions on 600k NFTs over a 4-year period• Forecasted price movement of each NFT over a 2-month horizon , outperformed the state-of-the-art literature with higher AUC Scores• Modelled Trader-NFT interactions utilising nodes using NetworkX, extracting metrics like BiRank, PageRank and Degree Centrality• Constructed novel fraud features to detect wash trading and assessed its treatment effect using Causal Forests with metric as average treatment effect• Leveraged XGBoost Regressor to evaluate the demand, performance and volatility scores of each NFT",
+            "description_html": "• Developed a platform to model and predict NFT prices based on aggregated data of 4.6M transactions on 600k NFTs over a 4-year period• Forecasted price movement of each NFT over a 2-month horizon , outperformed the state-of-the-art literature with higher AUC Scores• Modelled Trader-NFT interactions utilising nodes using NetworkX, extracting metrics like BiRank, PageRank and Degree Centrality• Constructed novel fraud features to detect wash trading and assessed its treatment effect using Causal Forests with metric as average treatment effect• Leveraged XGBoost Regressor to evaluate the demand, performance and volatility scores of each NFT",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Adobe",
+            "company_id": "adobe",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "National Students' Space Challenge",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Jul 2020 - May 2021 11 months",
+                    "description": "• Led a team of 60 sub-heads and coordinators and raised funds via corporate relations amounting to a monetary profit of INR 2,00,000• Designed digital marketing campaign through various media houses and organised competitions such as space quiz on Dare2Compete",
+                    "duration": "Jul 2020 May 2021 11 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "11 months",
+                    "title": "Sponsorship and Marketing Head",
+                    "description_html": "• Led a team of 60 sub-heads and coordinators and raised funds via corporate relations amounting to a monetary profit of INR 2,00,000<br>• Designed digital marketing campaign through various media houses and organised competitions such as space quiz on Dare2Compete <!---->"
+                },
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Aug 2019 - Jul 2020 1 year",
+                    "description": "• Led the publicity and execution of the events, and coordinating with over 300+ student ambassadors across the country• Successfully managed the workshops and accommodation of 2000+ students, participating in the India's largest Space-Tech Fest• Worked with a team of 30 members at ground level to ensure the smooth conduction of the fest, seminars, workshops and guest lectures",
+                    "duration": "Aug 2019 Jul 2020 1 year",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year",
+                    "title": "SubHead",
+                    "description_html": "• Led the publicity and execution of the events, and coordinating with over 300+ student ambassadors across the country<br>• Successfully managed the workshops and accommodation of 2000+ students, participating in the India's largest Space-Tech Fest<br>• Worked with a team of 30 members at ground level to ensure the smooth conduction of the fest, seminars, workshops and guest lectures <!---->"
+                },
+                {
+                    "subtitle": "National Students' Space Challenge",
+                    "meta": "Aug 2018 - Aug 2019 1 year 1 month",
+                    "duration": "Aug 2018 Aug 2019 1 year 1 month",
+                    "start_date": "Aug 2018",
+                    "end_date": "Aug 2019",
+                    "duration_short": "1 year 1 month",
+                    "title": "Junior Coordinator",
+                    "description_html": null
+                }
+            ],
+            "company": "National Students' Space Challenge",
+            "company_id": "nssc-iitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Winter Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Created a portfolio consisting of the BankNifty companies and optimised the weights of asset allocation by maximising Sharpe Ratio• Curated a comprehensive report on arbitrage and reverse arbitrage opportunities in the stock-futures market• Formulated a dataset using past 10 years data consisting of features like beta, returns, volatility of Nifty_100 companies from prowessIQ• Developed an LSTM model with 0 FPR to predict the companies that will participate in the Nifty_50 index reconstruction in March'21",
+            "description_html": "• Created a portfolio consisting of the BankNifty companies and optimised the weights of asset allocation by maximising Sharpe Ratio• Curated a comprehensive report on arbitrage and reverse arbitrage opportunities in the stock-futures market• Formulated a dataset using past 10 years data consisting of features like beta, returns, volatility of Nifty_100 companies from prowessIQ• Developed an LSTM model with 0 FPR to predict the companies that will participate in the Nifty_50 index reconstruction in March'21",
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "Anand Rathi Shares and Stock Brokers Ltd",
+            "company_id": "anand-rathi-share-and-stock-brokers-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Internship",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "• Web Scrapped online newspaper articles and blogs relating to e-learning and distance learning during COVID.• Applied different NLP techniques in order to perform sentiment analysis on the dataset.• Interpreted the polarity and subjectivity results obtained using Textblob library in python to gain insights on review of E-learning post pandemic declaration.",
+            "description_html": "• Web Scrapped online newspaper articles and blogs relating to e-learning and distance learning during COVID.• Applied different NLP techniques in order to perform sentiment analysis on the dataset.• Interpreted the polarity and subjectivity results obtained using Textblob library in python to gain insights on review of E-learning post pandemic declaration. <!---->",
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member in Homecoming 2019",
+            "description": "Worked as a Student Member in organizing Homecoming 2019, which welcomed back the batches of 1999, 2004 and 2009 i.e. batches celebrating their 10th, 15th and 20th anniversaries of graduation to have a fun-filled nostalgic 3 days.",
+            "description_html": "Worked as a Student Member in organizing Homecoming 2019, which welcomed back the batches of 1999, 2004 and 2009 i.e. batches celebrating their 10th, 15th and 20th anniversaries of graduation to have a fun-filled nostalgic 3 days. <!---->",
+            "duration": "Jul 2019 Aug 2019 2 months",
+            "start_date": "Jul 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "2 months",
+            "company": "Students'​ Alumni Cell, IIT Kharagpur",
+            "company_id": "sac-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sanjay Motwani",
+            "about": "Product @ Blinkit | Amex | Shipsy | Jupiter Money | Piramal Group | Product Management | IIT Kharagpur",
+            "location": "Ajmer"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Arora",
+            "about": "Lending @ Navi | CFA L2 | FRM P1",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishav Ranjan",
+            "about": "MTS-2 @Adobe | NLP | IIT Bombay",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Murshid K N",
+            "about": "Product Management | Product Development | Pre Final Year at IIT KGP",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Shyam Marjit",
+            "about": "IBM",
+            "location": "Murshidabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Hardik Shah",
+            "about": "Analyst",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dyuwan Shukla",
+            "about": "XLRI Jamshedpur (Dean’s Merit List) | VJTI | P&G Intern | PPIs (Reckitt & ITC) | Citi PPO (UG)",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Chitrita Pant",
+            "about": "Consulting Engineer at Cisco",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritwik Kadu",
+            "about": null,
+            "location": "Bangalore Urban"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech and MTech(Dual Degree)",
+            "field": "Mining and Mineral Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Got an opportunity for the interdisciplinary change from Mining Engineering(MTech) to Financial Engineering(MTech).",
+            "description_html": "Got an opportunity for the interdisciplinary change from Mining Engineering(MTech) to Financial Engineering(MTech). <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "The Shishukunj International School",
+            "start_year": "2010",
+            "end_year": "2017",
+            "description": "CBSE Class 12 : 93% CBSE Class 10 : 9.6CGPA",
+            "description_html": "CBSE Class 12 : 93%CBSE Class 10 : 9.6CGPA <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " French "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Feb 2020Credential ID 157009824570",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        },
+        {
+            "subtitle": "Trinity College London",
+            "title": "Grade 2 Piano"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1681.0,
+    "connections": 500.0,
+    "current_company_company_id": "adobe",
+    "current_company_name": "Adobe",
+    "publications": "[{\"title\":\"Public Opinion about Online Learning During Covid-19: A Sentiment Analysis Approach\",\"subtitle\":\"Sustainability\",\"date\":\"March 1, 2021\",\"description\":\"• Formulated a pipeline to screen the concerned articles from different websites and then scrapped them using BeautifulSoup• Analysed the community sentiment about e-learning post covid flutter by performing sentiment analysis on articles using Textblob library• Visualised the polarity and subjectivity scores of the articles using Seaborn and realised more than 93% of the articles were positive• Reasoned the greater positive sentiment and better subjectivity of the blogs in comparison to those of newspaper articles\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "alakh-dixit",
+    "activity": [
+        {
+            "interaction": "Liked by Alakh Dixit",
+            "link": "",
+            "title": "As I wrap up my first semester of MBA studies, I wanted to take a moment to reflect on the incredible journey I've had so far and share some valuable…",
+            "img": "",
+            "id": "7273581183857258497"
+        },
+        {
+            "interaction": "Liked by Alakh Dixit",
+            "link": "",
+            "title": "🎯 New Milestone Unlocked! 🎯 I'm thrilled to share that I’ve successfully completed the Foundations of Project Management course from Coursera…",
+            "img": "",
+            "id": "7270498635027533824"
+        },
+        {
+            "interaction": "Liked by Alakh Dixit",
+            "link": "",
+            "title": "🌟 New Publication Alert! 🌟 Excited to announce the publication of our latest research paper titled \"Investigating the effect of multiple…",
+            "img": "",
+            "id": "7213806831620505601"
+        },
+        {
+            "interaction": "Liked by Alakh Dixit",
+            "link": "",
+            "title": "While judging a company's culture, most people tend to talk about the number of working hours & the most recent buzzword \"work-life balance\". In my…",
+            "img": "",
+            "id": "7174869029520637952"
+        },
+        {
+            "interaction": "Liked by Alakh Dixit",
+            "link": "",
+            "title": "CocoTree, a mood based food recommendation app, is available for download on the App Store!! I’ve been working on this for a while now and figuring…",
+            "img": "",
+            "id": "7147959674879848448"
+        },
+        {
+            "interaction": "Liked by Alakh Dixit",
+            "link": "",
+            "title": "Today, 20,000+ Zepto Delivery Partners are dressed as Santa Claus - delivering happiness to lakhs of customers on Christmas 🎅. On top of that, they…",
+            "img": "",
+            "id": "20000"
+        }
+    ],
+    "linkedin_num_id": 688393208.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

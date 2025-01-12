@@ -1,0 +1,392 @@
+{
+    "id": "isha25",
+    "name": "Isha .",
+    "city": "Rajasthan, India",
+    "country_code": "IN",
+    "position": "Product @Jai Kisan | Aspiring Product Manager | Fintech | IIT Delhi",
+    "about": "Hands-on experience in end-to-end product development, I bring strategic thinking, stakeholder management, and cross-functional collaboration skills essential for Product Management. I specialize in transforming user insights into actionable product features, driving growth and user engagement through a metrics-driven approach.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Jai Kisan",
+        "company_id": "jai-kisan",
+        "title": "Product @Jai Kisan | Aspiring Product Manager | Fintech | IIT Delhi"
+    },
+    "experience": [
+        {
+            "title": "Jai Kisan",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "1 year 11 months",
+            "positions": [
+                {
+                    "subtitle": "Jai Kisan",
+                    "meta": "Jul 2023 - Present 1 year 6 months",
+                    "description": "• Launched India’s first consumer lending app exclusively for farmers, providing hassle-free credit access.• Developed strategies to make credit accessible, affordable, and easy to use for underserved markets.",
+                    "duration": "Jul 2023 - Present 1 year 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 6 months",
+                    "title": "Associate Product Manager",
+                    "description_html": "• Launched India’s first consumer lending app exclusively for farmers, providing hassle-free credit access.<br>• Developed strategies to make credit accessible, affordable, and easy to use for underserved markets. <!---->"
+                },
+                {
+                    "subtitle": "Jai Kisan",
+                    "meta": "Feb 2023 - Jul 2023 6 months",
+                    "description": "• Empowered farmers by providing solutions for tracking income and expenses, checking eligibility for agricultural govt. schemes, and promoting best farm practices.• Developed and implemented a RAG model-based WhatsApp chatbot for real-time personalized responses on mandi prices, crop diagnosis, and govt schemes.",
+                    "duration": "Feb 2023 Jul 2023 6 months",
+                    "start_date": "Feb 2023",
+                    "end_date": "Jul 2023",
+                    "duration_short": "6 months",
+                    "title": "Product Manager",
+                    "description_html": "• Empowered farmers by providing solutions for tracking income and expenses, checking eligibility for agricultural govt. schemes, and promoting best farm practices.<br>• Developed and implemented a RAG model-based WhatsApp chatbot for real-time personalized responses on mandi prices, crop diagnosis, and govt schemes. <!---->"
+                }
+            ],
+            "company": "Jai Kisan",
+            "company_id": "jai-kisan",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Ensemble - The Choreography Society of IIT Delhi",
+            "location": "New Delhi, Delhi, India",
+            "description_html": null,
+            "duration": "1 year 11 months",
+            "positions": [
+                {
+                    "subtitle": "Ensemble - The Choreography Society of IIT Delhi",
+                    "meta": "May 2022 - May 2023 1 year 1 month",
+                    "description": "Leading a 3-tier team of 20+ members for competing at National Level, performed in Rendezvous and Mood Indigo",
+                    "duration": "May 2022 May 2023 1 year 1 month",
+                    "start_date": "May 2022",
+                    "end_date": "May 2023",
+                    "duration_short": "1 year 1 month",
+                    "title": "Vice President",
+                    "description_html": "Leading a 3-tier team of 20+ members for competing at National Level, performed in Rendezvous and Mood Indigo <!---->"
+                },
+                {
+                    "subtitle": "Ensemble - The Choreography Society of IIT Delhi",
+                    "meta": "Jul 2021 - May 2022 11 months",
+                    "description": "- Set up collaborations with professional dance trainers to organize 5+ sessions focusing on skill-building of team members- Achieved 2x growth across social media channels and secured a 3x increase in participation from female students",
+                    "duration": "Jul 2021 May 2022 11 months",
+                    "start_date": "Jul 2021",
+                    "end_date": "May 2022",
+                    "duration_short": "11 months",
+                    "title": "Director",
+                    "description_html": "- Set up collaborations with professional dance trainers to organize 5+ sessions focusing on skill-building of team members<br>- Achieved 2x growth across social media channels and secured a 3x increase in participation from female students <!---->"
+                }
+            ],
+            "company": "Ensemble - The Choreography Society of IIT Delhi",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product Manager Fellow",
+            "location": "Delhi, India",
+            "description": "Understanding the why, what, and how of product management",
+            "description_html": "Understanding the why, what, and how of product management <!---->",
+            "duration": "Jan 2023 Mar 2023 3 months",
+            "start_date": "Jan 2023",
+            "end_date": "Mar 2023",
+            "duration_short": "3 months",
+            "company": "NextLeap",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Gurugram, Haryana, India",
+            "description": "-Developed Facial Recognition Model to ensure the legitimacy of user logins by checking facial movements",
+            "description_html": "-Developed Facial Recognition Model to ensure the legitimacy of user logins by checking facial movements <!---->",
+            "duration": "Jun 2022 Jul 2022 2 months",
+            "start_date": "Jun 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "2 months",
+            "company": "Com Olho",
+            "company_id": "com-olho",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Manager",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "SuperPe",
+            "company_id": "superpe",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Mentor",
+            "location": "IIT DELHI",
+            "description": "- Mentored 4 freshers and guided them for their smooth transition into IIT Delhi.",
+            "description_html": "- Mentored 4 freshers and guided them for their smooth transition into IIT Delhi. <!---->",
+            "duration": "Nov 2021 Jun 2022 8 months",
+            "start_date": "Nov 2021",
+            "end_date": "Jun 2022",
+            "duration_short": "8 months",
+            "company": "Board for Student Welfare (BSW), IIT Delhi",
+            "company_id": "bsw-iitd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Event Coordinator",
+            "location": "New Delhi, Delhi, India",
+            "description": "- Managed the complete ideation, planning and execution of 5+ events by coordinating with the Marketing, Creative & Security team- Increased 25% YOY registrations by collaborating with National colleges and famous personalities to increase outreach",
+            "description_html": "- Managed the complete ideation, planning and execution of 5+ events by coordinating with the Marketing, Creative &amp; Security team- Increased 25% YOY registrations by collaborating with National colleges and famous personalities to increase outreach <!---->",
+            "duration": "Jul 2021 May 2022 11 months",
+            "start_date": "Jul 2021",
+            "end_date": "May 2022",
+            "duration_short": "11 months",
+            "company": "Rendezvous IITD",
+            "company_id": "rendezvous-iitd",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": null,
+    "educations_details": "Indian Institute of Technology, Delhi",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Bhartiya Sr. Sec. School, Sikar, Rajasthan",
+            "degree": "Mathematics",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jan 2024See credential",
+            "subtitle": "MoEngage",
+            "title": "MoEngage Analytics Expert"
+        },
+        {
+            "meta": "Issued Jan 2024See credential",
+            "subtitle": "MoEngage",
+            "title": "MoEngage Growth Marketing Expert"
+        },
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "Link Group (LNK)",
+            "title": "SQL Essential Training"
+        },
+        {
+            "meta": "Issued Feb 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Becoming a Product Manager: A Complete Guide"
+        },
+        {
+            "meta": "Issued Feb 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Communication for Product Managers"
+        },
+        {
+            "meta": "Issued Feb 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Expert Tips for Answering Common Interview Questions"
+        },
+        {
+            "meta": "Issued Feb 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Interviewing for Product Management Jobs"
+        },
+        {
+            "meta": "Issued Feb 2022See credential",
+            "subtitle": "Link Group (LNK)",
+            "title": "Learn Emotional Intelligence, the Key Determiner of Success"
+        },
+        {
+            "meta": "Issued Aug 2021",
+            "subtitle": "No Help too big",
+            "title": "Marketing internship"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID MFQTKMZTGQSee credential",
+            "subtitle": "Jovian",
+            "title": "Data Analysis with Python: Zero to Pandas."
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Sep 2019 - Feb 2020 · 6 months",
+            "duration_short": "6 months",
+            "end_date": "Feb 2020",
+            "info": "National Association for the Blind (N.A.B.): Helped visually challenged kids in their studies at N.A.B. , R.K. Puram, New Delhi",
+            "start_date": "Sep 2019",
+            "subtitle": "National Service Scheme, IITD",
+            "title": "Student Volunteer"
+        },
+        {
+            "cause": "Environment",
+            "duration": "Mar 2020 - Mar 2020 · 1 month",
+            "duration_short": "1 month",
+            "end_date": "Mar 2020",
+            "info": "Kaizen - Volunteered in the Annual Cultural Festival at NSS IIT Delhi. Created a Sculpture by recycling plastic bags to raise awareness about Plastic Pollution.",
+            "start_date": "Mar 2020",
+            "subtitle": "NSS IIT Delhi",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 3288.0,
+    "connections": 500.0,
+    "current_company_company_id": "jai-kisan",
+    "current_company_name": "Jai Kisan",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Rajasthan",
+    "linkedin_id": "isha25",
+    "activity": [
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "To overthinkers, I know you are thinking about the meeting that went wrong, the presentation that went dull, a colleague who took credit for your…",
+            "img": null,
+            "id": "7277176937905594368"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "I'm super excited to share that I’ll be joining Flipkart next year as an Associate Product Manager (APM), a role I’ve always aspired to…",
+            "img": "",
+            "id": "7276209608807841792"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "Season’s greetings from the #Yulu office! Alongside customary Secret Santa 🎅 celebrations, creative nail art workshops 💅 and a host of fun…",
+            "img": "",
+            "id": "7275864194460041217"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "I once suggested an idea to a colleague. For his area, not mine. Then I completely forgot about it. Months later, my manager applauded me in a…",
+            "img": "",
+            "id": "7276088820750536704"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "On the left is a picture of a hostel from Carleton University. On the right is a picture of a hostel from IIT Bombay the most prestigious institute…",
+            "img": "",
+            "id": "7271414316891828225"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "🚀 We're Hiring! Associate Product Manager (APM) 🚀 Are you a passionate, execution-driven individual eager to make a real impact in the EV industry…",
+            "img": "",
+            "id": "7275879380671741952"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "This is how Cadbury destroyed lakhs of local sweet shops. By 2000, Cadbury was India’s top chocolate maker with a 65% market share. But their…",
+            "img": "",
+            "id": "7274796639175766016"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "Running a business is tough. Running it solo is even tougher. For last 6 years I have been managing consulting work along with long term goal of…",
+            "img": "",
+            "id": "7275529573109321728"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "December 2015. I still remember it like yesterday. It was my first day as a product manager. I sat there staring at my laptop, blank screen, blank…",
+            "img": "",
+            "id": "2015"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "I spoke to a few people last week about their job hunt experiences in 2024 and it confirmed what I believe to be a damaging trend among recruiters…",
+            "img": "",
+            "id": "7275062057681436673"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "This message by Ola Founder Bhavish Aggarwal to his employees is a joke & has forced me to share my critical thoughts on strict WFO culture. While I…",
+            "img": "",
+            "id": "7275167518242041857"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "Dear Connections, Sarvm.ai is hiring for Product Manager Interns ( Remote) Interested candidates, Kindly apply  SarvM.AI…",
+            "img": "",
+            "id": "7274730186229563393"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "Ravi Sir, you’ve beautifully captured the essence of JNV, but this isn’t just your story—it’s the shared experience of every Navodayan. For me, JNV…",
+            "img": "",
+            "id": "7274824941592559617"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "It remains quite baffling that Zomato & Swiggy count the delivery fees charged to the customers as revenue, but not when they have to pay 18% GST on…",
+            "img": "",
+            "id": "7274265666885435392"
+        },
+        {
+            "interaction": "Liked by Isha .",
+            "link": "",
+            "title": "Its been about 10 years since India has been ordering from the likes of Swiggy and Zomato. Rarely an order gone wrong, rarely a location gone…",
+            "img": "",
+            "id": "10"
+        }
+    ],
+    "linkedin_num_id": 811637712.0,
+    "honors_and_awards": [
+        {
+            "title": "1st place in Live Challenge 184 - \"Launching GTM for Yes Madam\"",
+            "publication": "PM School",
+            "date": "2024-03-01T00:00:00.000Z",
+            "description": "YesMadam, launched in 2016, is a platform which enables users to book online salon services at their home. Functioning in 50+ cities, they recently received funding of 1.5 Cr. on Shark Tank India Season 3. Below is my step-by-step approach for solving the challenge- 1. Understand the product and collecting facts about the company 2. Understanding the market whether it’s growing, saturated, or declining and finding any opportunities or gaps 3. Defining the problem statement… Show more"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

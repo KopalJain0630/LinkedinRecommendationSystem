@@ -1,0 +1,76 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Jaypee University of Information Technology",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Agile and Scrum Foundations \"},{\"subtitle\":\"-\",\"title\":\"Business Analyst Foundations\"},{\"subtitle\":\"-\",\"title\":\"VLSI (Integrated Chips Fabrication)\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "ProductHood",
+            "title": "APM Fellowship "
+        },
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "GrowthSchool",
+            "title": "Product Management Mentorship"
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID 1356009See credential",
+            "subtitle": "Scrum Alliance",
+            "title": "Certified Scrum Product Owner® (CSPO®)"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Google",
+            "title": "Google Analytics Individual Qualification"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Technology for Product Managers"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Agile Fundamentals"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Agile Requirements Foundations"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Business Analysis Foundations"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Business Analysis: Business Benefits Realization"
+        }
+    ],
+    "current_company_name": "First Advantage",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Quad Copter and its applications\",\"start_date\":\"Jun 2015\",\"end_date\":\"Jul 2015\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Annalect On the Spot Award",
+            "publication": "Annalect India",
+            "date": "2021-06-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,394 @@
+{
+    "id": "hritwickmanna",
+    "name": "Hritwick Manna",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "SDE-II @Walmart  | IIT KGP '23",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Walmart Global Tech India",
+        "company_id": "walmartglobaltechindia",
+        "title": "SDE-II @Walmart  | IIT KGP '23"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer II",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "1. Authored integration and unit test cases to gain a deep understanding of the backend of the project, successfully increasing test coverage to 95%.2. Developed datasets using multiple techniques and the labelling tool, ensuring high-quality data for project needs.3. Managed labeling tasks from start to finish, including creating detailed instructions for labelers to ensure accuracy and consistency.4. Conducted person count analysis and validation using the YOLO v5 object detection algorithm, improving the accuracy and reliability of detection models.5. Recognized as team runner-up in Walmart's techathon for developing a computer vision solution to identify damaged pallets in the warehouse.",
+            "description_html": "1. Authored integration and unit test cases to gain a deep understanding of the backend of the project, successfully increasing test coverage to 95%.2. Developed datasets using multiple techniques and the labelling tool, ensuring high-quality data for project needs.3. Managed labeling tasks from start to finish, including creating detailed instructions for labelers to ensure accuracy and consistency.4. Conducted person count analysis and validation using the YOLO v5 object detection algorithm, improving the accuracy and reliability of detection models.5. Recognized as team runner-up in Walmart's techathon for developing a computer vision solution to identify damaged pallets in the warehouse.",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Walmart Global Tech India",
+            "company_id": "walmartglobaltechindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Used UNet and MultiResUNet models to improve the generalisation and load performance of shopping cart segmentation.• Investigated potential model performance in a wider range of deployment scenarios.• Based on the results, it was determined that a segmentation model was best suited for cart-corral segmentation, whereas an object detection model was best suited for sparsely placed cart detection.",
+            "description_html": "• Used UNet and MultiResUNet models to improve the generalisation and load performance of shopping cart segmentation.• Investigated potential model performance in a wider range of deployment scenarios.• Based on the results, it was determined that a segmentation model was best suited for cart-corral segmentation, whereas an object detection model was best suited for sparsely placed cart detection. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Walmart Global Tech India",
+            "company_id": "walmartglobaltechindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Python Developer (Machine Learning)",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Developed an object detector for classifying different objects using the YOLO algorithm, used an existing pre-trained Keras YOLO model stored in yolo.h5.• Developed a facial recognition system to authenticate the ID of a person using the ideas of FaceNet and DeepFace, acquired an existing pre-trained model minimizing Triplet loss to 528.143.• Structured a baseline model (Emojifier-V1) using word-embedding to find the most appropriate emoji for a sentence, achieved with an accuracy of 0.969.",
+            "description_html": "• Developed an object detector for classifying different objects using the YOLO algorithm, used an existing pre-trained Keras YOLO model stored in yolo.h5.• Developed a facial recognition system to authenticate the ID of a person using the ideas of FaceNet and DeepFace, acquired an existing pre-trained model minimizing Triplet loss to 528.143.• Structured a baseline model (Emojifier-V1) using word-embedding to find the most appropriate emoji for a sentence, achieved with an accuracy of 0.969.",
+            "duration": "Aug 2020 Sep 2020 2 months",
+            "start_date": "Aug 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "2 months",
+            "company": "CodeSpeedy Technology Private Limited",
+            "company_id": "codespeedy",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Srinivas Balaji",
+            "about": "Data Science Analyst @Accenture AI | Gen AI | IIT KGP'23",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shikhar Mishra",
+            "about": "IIT Kharagpur'23 | Data Scientist",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Farhan T",
+            "about": "Planner",
+            "location": "Abu Dhabi Emirate, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Soham Das",
+            "about": "SDE @Converj | Ex-EntHire",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kanhaiya Agrahari",
+            "about": "SDE-2 | FinTech | Building Trading Platform | IIITM | DSA",
+            "location": "Varanasi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivang Kohli",
+            "about": "Technology Associate @Morgan Stanley || Samsung PRISM",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratham Jain",
+            "about": "Data Scientist at Pramerica Life Insurance",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Priya Bhowmick",
+            "about": "ASDE-2",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "shivani singh",
+            "about": "Retail Engineer at Hpcl-Hindustan Petroleum Corp Limited",
+            "location": "Patna"
+        },
+        {
+            "profile_link": "",
+            "name": "Jaspreet Singh",
+            "about": "Business Analyst || Data Analyst || Conestoga College || Software Engineer@Coforge || AZ-900.",
+            "location": "Greater Toronto Area, Canada"
+        },
+        {
+            "profile_link": "",
+            "name": "Anmol Tripathi",
+            "about": "GLIM Chennai PGPM Co'25 | Senior Tech Analyst at Cint",
+            "location": "Kanpur"
+        },
+        {
+            "profile_link": "",
+            "name": "AMRITA SONY",
+            "about": "Senior Data Analyst at Botree Software International Pvt. Limited",
+            "location": "West Bengal, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahil Mittal",
+            "about": "SWE || VIT’21",
+            "location": "Amritsar"
+        },
+        {
+            "profile_link": "",
+            "name": "Avinash Bhargav Kompalli",
+            "about": "Software Development Engineer at Siemens Healthineers Bangalore",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Mihir Shri",
+            "about": "Software Engineer @ MathWorks | B.tech CSE @ IIITDM Kancheepuram",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Kesarwani",
+            "about": "Data Scientist @DeepTek | Machine Learning Enthusiast💻",
+            "location": "Nainital"
+        },
+        {
+            "profile_link": "",
+            "name": "Aayush Dubey",
+            "about": "Sr Software Engineer at Kearney | Ex-Amadeus",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Riya Thakore",
+            "about": null,
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Prantik Sarkar",
+            "about": "DevOps at Mastercard | Silver Medalist @NIT-S",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Sameer Chachiya",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech • Civil Engineering",
+            "field": "Micro Specialization in AI & ML",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: NSO Athletics",
+            "description_html": "Activities and Societies: NSO Athletics",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV Public School, New Panvel",
+            "degree": "12th - 92.2%",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ryan International School, Navi Mumbai",
+            "degree": "10th - 10 CGPA",
+            "url": "",
+            "start_year": "2003",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS21003\",\"title\":\"Algorithms I\"},{\"subtitle\":\"CS29203\",\"title\":\"Algorithms Laboratory\"},{\"subtitle\":\"AI61005\",\"title\":\"Artificial Intelligence: Foundations And Applications\"},{\"subtitle\":\"AI60004\",\"title\":\"Big Data Processing\"},{\"subtitle\":\"CE31216\",\"title\":\"Construction Planning And Management\"},{\"subtitle\":\"AI61002\",\"title\":\"Deep Learning Foundations And Applications\"},{\"subtitle\":\"BM60023\",\"title\":\"Financial Institutions And Markets\"},{\"subtitle\":\"AI42001\",\"title\":\"Machine Learning Foundations And Applications\"},{\"subtitle\":\"HS30096\",\"title\":\"Market Micro structure\"},{\"subtitle\":\"MA31011\",\"title\":\"Object Oriented Systems Design\"},{\"subtitle\":\"MA39011\",\"title\":\"Object Oriented Systems Design Laboratory\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability And Statistics\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming And Data Structures\"},{\"subtitle\":\"CS19101\",\"title\":\"Programming And Data Structures Tutorial And Laboratory\"},{\"subtitle\":\"SE60002\",\"title\":\"Safety Engineering And Management\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Marathi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Bengali "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Nov 2023Credential ID FYDAPC8H97K9See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Machine Learning in Production"
+        },
+        {
+            "meta": "Issued Jan 2022Credential ID AZ3937327336199See credential",
+            "subtitle": "AlgoZenith",
+            "title": "AZ-201 : Applied Algorithms & Data Structures"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID d739cfec1ca94804a7462390719406efSee credential",
+            "subtitle": "TestDome",
+            "title": "JavaScript, Node.js, and SQL"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID UC-d9d4b13a-33a2-4765-969c-1847f3cfdf54See credential",
+            "subtitle": "Udemy",
+            "title": "The Complete 2020 Web Development Bootcamp"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID C7A9XM7WH684See credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID RHZV7LNK5RACSee credential",
+            "subtitle": "Coursera",
+            "title": "DeepLearning.AI TensorFlow Developer Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID GATVAL325BDPSee credential",
+            "subtitle": "Coursera",
+            "title": "Applied Machine Learning in Python"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID YV9VUBYT4RURSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1549.0,
+    "connections": 500.0,
+    "current_company_company_id": "walmartglobaltechindia",
+    "current_company_name": "Walmart Global Tech India",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"InShorts NewsApp Clone\",\"description\":\"InShorts is a news app that selects the latest and best news from multiple national and international sources and summarizes it to present it in short, crisp words.Tech Stacks Used:-• React-Native• API Integration• Android Studio\"},{\"title\":\"Dance Academy Site\",\"description\":\"• Aimed to collect data from users stored in MongoDB Atlas.• Created with HTML, CSS, and Node.js.• Used the Pug template, which compiles to HTML, making code more readable.• Executed Pug's inheritance property, while accessing different pages.\"},{\"title\":\"ARIMA Time Series Modelling\",\"description\":\"• Designed an ARIMA model which uses time-series data and statistical analysis to interpret the data and determine the future predicted price of a particular company stock [Hero MotoCorp].• Enhanced the model when keeping the ARIMA parameters (p,d,q) to (3,1,0).• Achieved Symmetric mean absolute percentage error: 5.817.\"},{\"title\":\"Trajectory Prediction of Nearby Vehicles\",\"description\":\"• Deployed a trajectory forecasting model which predicts the trajectory/path of nearby vehicles using Convolutional Social Pooling for traffic management.• Handled the technical report for the project.\"}]",
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "hritwickmanna",
+    "activity": [
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "Thrilled to receive a Bravo award from Walmart!🏆 It's an honor to be recognized for my contributions to the team and the company's success. I'm…",
+            "img": "",
+            "id": "7275537992201461760"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "I’m happy to share that I’ve completed Post Graduate in Artificial Intelligence & Machine Learning from The University of Texas at Austin!! I am…",
+            "img": "",
+            "id": "7254829886022852608"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "Join the dynamic team at Walmart! We're currently seeking a seasoned Machine Learning Engineer adept in building web apps, implementing large scale…",
+            "img": "",
+            "id": "7252193698422140928"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "Meet Jayaprakash Harshavardhan, one of the Michigander Scholars from the Michigan Economic Development Corporation! Jayaprakash is a Masters student…",
+            "img": "",
+            "id": "7245114920525070336"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "India is still not ready for teen banking and so this startup, once quite popular is failing badly. FamPay seemed to be tapped into a potential…",
+            "img": "",
+            "id": "7234065522156261377"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "Hey Everyone! I am excited to share that I've officially embarked on my journey in the Master's program in Intelligent Information Systems (MIIS)…",
+            "img": "",
+            "id": "7232077840790282243"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "Thrilled to have hosted Walmart Global Tech India flagship AI event - AI @ Walmart 2024 with Sandip B., Kamiya Motwani and Ankur Lahiri. It was an…",
+            "img": "",
+            "id": "7205846984216223744"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "It was a whirlwind of innovation and insights at AI @ Walmart 2024! Our office was buzzing with renowned speakers and attendees who joined us in…",
+            "img": "",
+            "id": "7203324577614098432"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "Countdown alert! Just two days to go for AI @ Walmart, where we're diving into an exciting future of AI like never before. See you there! For those…",
+            "img": "",
+            "id": "7201496920920383490"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "We don't want PlayStation in 10 min. We don't want gold coins in 10 min. As we all know such use cases don't make sense. But, here Blinkit and Zepto…",
+            "img": "",
+            "id": "7199272837637939200"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "Since joining Walmart as a software developer in July 2023, I've contributed to designing and implementing various applications adhering to the…",
+            "img": "",
+            "id": "7193978257120059392"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "When you ask yourself why it’s hard to get hired in tech now, it’s because we enabled this behavior. Hiring just because a person that wears as a…",
+            "img": "",
+            "id": "7176797687789338624"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "P1-2024: Interview Related: Deep Learning I have been interviewing and guiding folks since my EXL days, and one specific question that I found…",
+            "img": "",
+            "id": "7159940420389507072"
+        },
+        {
+            "interaction": "Liked by Hritwick Manna",
+            "link": "",
+            "title": "Dear Connections, I'm thrilled to share that our team #Rest_in_code has successfully qualified for ICPC Regionals 2023. This being our final attempt,…",
+            "img": "",
+            "id": "7152546080390270977"
+        }
+    ],
+    "linkedin_num_id": 751733853.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

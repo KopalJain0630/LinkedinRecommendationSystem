@@ -1,0 +1,374 @@
+{
+    "id": "sushil-bagate-27793a102",
+    "name": "Sushil Bagate",
+    "city": "India",
+    "country_code": "IN",
+    "position": "Data Scientist | Artist | Engineer",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "EMAlpha",
+        "company_id": "emalpha",
+        "title": "Data Scientist | Artist | Engineer"
+    },
+    "experience": [
+        {
+            "title": "Head of Data Science",
+            "description_html": null,
+            "duration": "Aug 2020 - Present 4 years 5 months",
+            "start_date": "Aug 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 5 months",
+            "company": "EMAlpha",
+            "company_id": "emalpha",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Recommendation System Project",
+            "location": "Kolkata, West Bengal, India",
+            "description": "• Implemented User based & Item based Collaborative Filtering using User Similarity and Item Similarity Matrices to make predictions.• Filtered out the products based on user ratings and found out the correlations between the ratings of various products with the others.• User Product data was generated using the random value generator of numpy. In this model Cosine Similarity (KNN) was Used.",
+            "description_html": "• Implemented User based &amp; Item based Collaborative Filtering using User Similarity and Item Similarity Matrices to make predictions.• Filtered out the products based on user ratings and found out the correlations between the ratings of various products with the others.• User Product data was generated using the random value generator of numpy. In this model Cosine Similarity (KNN) was Used. <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "TEESHOOD",
+            "company_id": "teeshood.com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Marketing Intern",
+            "location": "Pune Area, India",
+            "description": "• Planned and executed all digital marketing, including SEO/SMO, marketing database, email, social media, and advertising campaigns.• Analyzed trends and insights to optimize the spending and performance of the initiatives taken and campaigns launched.• Organized 'Startup and Business Meet N Mixture', which included 3 events viz EduTech, Digital Marketing, and Startup Story.",
+            "description_html": "• Planned and executed all digital marketing, including SEO/SMO, marketing database, email, social media, and advertising campaigns.• Analyzed trends and insights to optimize the spending and performance of the initiatives taken and campaigns launched.• Organized 'Startup and Business Meet N Mixture', which included 3 events viz EduTech, Digital Marketing, and Startup Story. <!---->",
+            "duration": "May 2018 Jun 2018 2 months",
+            "start_date": "May 2018",
+            "end_date": "Jun 2018",
+            "duration_short": "2 months",
+            "company": "IndeedTeach (Platform for Educators)",
+            "company_id": "bro4pro",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ramesh Vellanki",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Chandan Tiwari",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Krishna Rayapati",
+            "about": "Data Scientist | MTech in Data Science & Engineering",
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Suchitra Reddy",
+            "about": "Data Scientist ▶️ ML | NLP | Python | R | SQL | NoSQL | ETL | Hadoop and Spark | Tableau | Flask | DevOps",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitesh P.",
+            "about": "Data Engineer | AWS | PySpark | Python",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Mohammad Ejazuddin",
+            "about": "Data Scientist at Daimler Financial Services",
+            "location": "Maharashtra, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayushi Vimal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Praveen Ramesh",
+            "about": "Machine Learning Engineer at CVS Health - Building GenAI products | Carnegie Mellon University Alumnus | Google Cloud Certified Professional Machine Learning Engineer",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivek Chhabra",
+            "about": "Ex Oracle - Ex Amazon - 5+ years of experience in Data Science",
+            "location": "Burnaby, BC"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudh Singh",
+            "about": "Building Shakti Cloud",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of technology",
+            "field": "Metallurgical Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": "Activities and Societies: Spectra, IIT Kharagpur",
+            "description_html": "Activities and Societies: Spectra, IIT Kharagpur",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": "[{\"subtitle\":\"MA20106\",\"title\":\"PROBABILITY & STOCHASTIC PROCESSES\"},{\"subtitle\":\"CS11001\",\"title\":\"PROGRAMMING AND DATA STRUCTURE\"}]",
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": "-",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Marathi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021Credential ID WM6FNX5GL6RDSee credential",
+            "subtitle": "Coursera",
+            "title": "SQL for Data Science"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 9TR7UQ6DGKYPSee credential",
+            "subtitle": "Coursera",
+            "title": "Data Science Math Skills"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID H7F6WVTLFGU7See credential",
+            "subtitle": "Coursera",
+            "title": "Exploratory Data Analysis with Seaborn"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID JGQCRYX3SJ4LSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning Foundations: A Case Study Approach"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 3W3R2G4Y6AKNSee credential",
+            "subtitle": "Coursera",
+            "title": "Probability and Statistics: To p or not to p?"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID BP38VPLNGRGBSee credential",
+            "subtitle": "Coursera",
+            "title": "Using Python to Interact with the Operating System"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID VNX2JSZAAH8ZSee credential",
+            "subtitle": "Coursera",
+            "title": "Crash Course on Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID HF39HF76TLR9See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning | Stanford"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts (BMC)"
+        },
+        {
+            "meta": "Issued Aug 2019Credential ID UC-H56W231TSee credential",
+            "subtitle": "Udemy",
+            "title": "Python for Data Science and Machine Learning"
+        }
+    ],
+    "recommendations": [
+        "Rahil Tamboli “Sushil is a very sharp, intelligent and hard working professional. He is an active contributor in his role and always looks out for ways to add more value. Overall very flexible and keen on learning new things.”",
+        "LinkedIn User “Happy that he chose to work with me for 2 months directly and boy I had so much to learn from him and that was 2 years back. Always calm and positive about work and the best part is he never ever got irated on the various assignments that were laid out to him. He came up with creative ideas and was always eager to contribute in ways he could possibly do. We are still connected and I still take his help on various assignments instead of 'thora gyan' that I share with him. I wish him all the best for his future endeavours.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Oct 2016 - Present · 8 years 3 months",
+            "duration_short": "8 years 3 months",
+            "end_date": "Present",
+            "info": "In association with Gopali Youth Welfare Society .We  painted wall of Jagriti Vidya Mandir with a vibrant and playful painting offering a soothing sight for the students.",
+            "start_date": "Oct 2016",
+            "subtitle": "Gopali Youth Welfare Society",
+            "title": "Artist"
+        }
+    ],
+    "followers": 4878.0,
+    "connections": 500.0,
+    "current_company_company_id": "emalpha",
+    "current_company_name": "EMAlpha",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"COVID19 Data Analysis Using Python\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"• Imported COVID19 dataset and prepared it for the analysis by dropping columns and aggregating rows.• Decided on and calculating a good measure for our analysis.• Merged two datasets and found correlations among our data.• Visualized our analysis results using Seaborn.\"},{},{\"title\":\"Neural Network Visualizer Web App with Python\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"• Created a Neural Network Visualizer web application using Streamlit, and a simple model server using Keras and Flask. • Used Keras to train a Neural Network model, and used Keras' functional API to create a model with multiple outputs. • Created a web application that will visualize the outputs of all the nodes of all the layers of the neural network for a given input image.\"},{\"title\":\"Nano-indentation Testing for Strain-Rate Sensitivity Analysis | Under: Prof. Debalay Chakrabarti | IITKGP\",\"start_date\":\"Dec 2019\",\"end_date\":\"Mar 2020\",\"description\":\"• Did Constant Strain Rate(CSR) Test at Maximum Strain rate on the specimen to obtain Hardness vs. Depth Curve.• From the obtained curve determined the Depth at which Indentation Depth Effect Vanishes.• For Strain Rate Jump Test, at variable indentation depths, the abrupt changes are made at different indentation strain-rates.• Analyzed the relation between Strain Rate Sensitivity and DBTT (Ductile to Brittle Transition Temperature ).\"},{\"title\":\"Medium Mn Steel for Automotive Application | Under: Prof. Tapas K Bandyopadhyay | IITKGP\",\"start_date\":\"Jul 2018\",\"end_date\":\"Nov 2018\",\"description\":\"• Analyzed the characterization of the forged specimen by SEM image and EBSD(Electron Back scatter Diffraction)phase map.• Examined Optical Micrographs of the specimen annealed for 15 mins, 30 mins, 60 mins, 120 mins at 1273K temperature.• The medium-Mn steels possess raised ductility and it additionally helps in lowering the production cost over the 2nd-generation AHSS.\"}]",
+    "organizations": [
+        {
+            "title": "Spectra IIT Kharagpur",
+            "membership_type": "Governor, Head",
+            "start_date": "Jun 2016",
+            "end_date": "Jul 2020",
+            "description": "Spectra is a fine arts society of IITKGP where we organise events for the children near the campus to develop awareness and skill. We also put a lot of effort to visit their school and color the walls of the school with vibrant and playful painting offering soothing sight for the children.As a Governor:• Maintained a successful record of managing 40 students, Organized major events including ARTBEAT 2019 with a footfall of over5000.• Revived ARTBUD-2018 the art competition for the students from std.1st to 10th from 9 schools in Kharagpur.• Directed, for the first time,Art Attack- Drawing Activity for IIT KGP Alumni in collaboration with Alumni Cell, IIT Kharagpur.• Managed a budget of Rs 50000 and supervised the Logistics of the organized workshops, exhibitions, and other collaborative events.",
+            "membership_number": null
+        }
+    ],
+    "location": null,
+    "linkedin_id": "sushil-bagate-27793a102",
+    "activity": [
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Finance, Geopolitics, Elections, AI, Food & Drinks! It was a pleasure to cohost the EMAlpha-7Chord Dinner Roundtable during the Boston Fintech Week…",
+            "img": "",
+            "id": "7254614510076866560"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "You can add Generative AI to Pandas and chat with your dataset with a single line of code. The PandasAI library allows you to analyze complex data…",
+            "img": "",
+            "id": "7245447210132217856"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Earlier this week, the PBOC implemented various easing measures to support Chinese assets. However, the effectiveness of these steps remains…",
+            "img": "",
+            "id": "7244593767016546305"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "I recently completed an interesting course that I thoroughly enjoyed! Multi Agent Systems, combined with LLMs (Large Language Models), serve as a…",
+            "img": "",
+            "id": "7211965774121377792"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Top posts past week @KleimanIntCon: #Lebanon stock index -13% YTD; #SriLanka sovereign bond avg price high 50s, +5 YTD; #Hungary forint -2%/EUR YTD;…",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Our collaboration with multilingual #ai group EMAlpha on #emergingmarkets elections offered pre-election insights and post-poll projections for…",
+            "img": "",
+            "id": "7204082120472838144"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "India stock market dropped sharply today!: Beth Morrissey had posted EMAlpha's Modi sentiment chart last week (green line) as measured by our…",
+            "img": "",
+            "id": "7203727484314337281"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "How can investors use EMAlpha's Multilingual Gen-AI? Hear from long time market experts Beth Morrissey, Brad Durham, at this Webinar courtesy our…",
+            "img": "",
+            "id": "7194737514207662081"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Sign up for Webinar (Speakers: Brad Durham , Beth Morrissey) & early access to EMAlpha Gen-AI platform:  #ai #hedgefunds…",
+            "img": "",
+            "id": "7193267804240789506"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Join my upcoming live training at O'Reilly on \"Large Language Models in Production\"! 🌟 In this course, you'll learn: ⚡ Cutting-edge techniques…",
+            "img": "",
+            "id": "7189815200865288193"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "TURKEY MUNICIPAL ELECTIONS Turkey’s municipal elections (to be held on 31st March 2024) are highly consequential, with over 61 million voters…",
+            "img": "",
+            "id": "7179203707962605570"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Turkey's municipal election result is a \"surprise\" to those who were depending on mainstream data / news sources for intelligence. Poring over…",
+            "img": "",
+            "id": "7180348359952494593"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Russia election: Why does Putin keep winning? Despite facing extensive sanctions, Russia remains under the watchful eye of fund managers, even…",
+            "img": "",
+            "id": "7174045949915217920"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "Thrilled to welcome Glenn Taitz to EMAlpha as a strategic advisor. Having had the pleasure of witnessing his unmatched expertise during our time at…",
+            "img": "",
+            "id": "7168648708828422144"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "INDONESIA ELECTION Who will be at the helm of the world's 3rd largest democracy? As counting begins, the local polls suggest a victory for Defence…",
+            "img": "",
+            "id": "7163439028443176960"
+        },
+        {
+            "interaction": "Liked by Sushil Bagate",
+            "link": "",
+            "title": "ELECTION DAY It's election day in Pakistan as the country goes to the polls with the most popular candidate, Imran Khan, behind bars. EMAlpha's…",
+            "img": "",
+            "id": "7161244136866492416"
+        }
+    ],
+    "linkedin_num_id": 438273019.0,
+    "honors_and_awards": [
+        {
+            "title": "Maharastra Talent Search Examination Award",
+            "publication": "-",
+            "date": "2011-04-01T00:00:00.000Z",
+            "description": "Awarded State Scholarship Rank 35 In Maharashtra Talent Search Examination (MTSE) for Std. 9th conducted at State Level."
+        },
+        {
+            "title": "Maharastra Talent Search Examination Award",
+            "publication": "-",
+            "date": "2010-04-01T00:00:00.000Z",
+            "description": "Awarded District Scholarship Rank 3 In Maharashtra Talent Search Examination (MTSE) for Std. 8th conducted at State Level."
+        },
+        {
+            "title": "National Talent Search Examination Award",
+            "publication": "-",
+            "date": "2010-01-01T00:00:00.000Z",
+            "description": "Awarded National Talent Search Scholarship(NTSE) as per merit through class 8th National Talent Search Examination, 2010."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

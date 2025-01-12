@@ -1,0 +1,42 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Navi",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Gold Medalist | Inter IIT Tech Meet 11.0",
+            "publication": "Indian Institute of Technology Kanpur",
+            "date": "2023-02-01T00:00:00.000Z",
+            "description": "Won Gold Medal in The Paradime Product Challenge by paradime.io, contributing to IIT Kharagpur winning the General Championship Cup in Inter IIT Tech Meet 2023"
+        },
+        {
+            "title": "Campus Winners at Sprinklr APM Case Challenge",
+            "publication": "Sprinklr",
+            "date": "2022-10-01T00:00:00.000Z",
+            "description": "Contrived a 3-phase VR customer support plan for machine-assisted users and conferred as campus winners of IIT Kharagpur"
+        },
+        {
+            "title": "Finalist at Solvays Business Games 2022",
+            "publication": "Solvays Business School",
+            "date": "2022-03-01T00:00:00.000Z",
+            "description": "Finalist at Solvays Business Games, Europe's largest student case competition, 2022 (top international participants among 55+ nationalities)"
+        }
+    ]
+}

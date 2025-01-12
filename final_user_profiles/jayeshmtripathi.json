@@ -1,0 +1,44 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "National Institute of Technology Raipur",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2021See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Dec 2021See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Nov 2021See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        }
+    ],
+    "current_company_name": "GE HealthCare",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

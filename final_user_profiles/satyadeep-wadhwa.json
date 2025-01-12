@@ -1,0 +1,39 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "ITM Group of Institutions",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ".     ,  ,",
+            "start_year": "2016-05",
+            "end_year": "2019-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2002",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "PwC Acceleration Centers in India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,142 @@
+{
+    "city": "Midnapore, West Bengal, India",
+    "position": "SDE@FinBox | CityMall | Mastercard | IIT KGP | Maths and Computing",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "description_html": null,
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "FinBox",
+            "company_id": "finbox-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "description": "- Scraped businesses data from google maps and stored into s3 for faster access and developed an application to get businesses data.- Worked on backend of an application in Java using Spring boot framework.-",
+            "description_html": "- Scraped businesses data from google maps and stored into s3 for faster access and developed an application to get businesses data.- Worked on backend of an application in Java using Spring boot framework.- <!---->",
+            "duration": "Jul 2022 Aug 2022 2 months",
+            "start_date": "Jul 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "2 months",
+            "company": "Turno",
+            "company_id": "turnoclub",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Gurugram, Haryana, India",
+            "description": "• Developed the backend of Growth Application in Python using FastApi Framework and MongoDb Atlas for database management • Worked on clustering of delivery person using DBSCAN algorithm to identify wrong address and developed frontend in ReactJS• Implemented Ray Casting algorithm in python to check whether the delivery location of user is in urban or rural area for delivery",
+            "description_html": "• Developed the backend of Growth Application in Python using FastApi Framework and MongoDb Atlas for database management • Worked on clustering of delivery person using DBSCAN algorithm to identify wrong address and developed frontend in ReactJS• Implemented Ray Casting algorithm in python to check whether the delivery location of user is in urban or rural area for delivery <!---->",
+            "duration": "Jan 2022 Mar 2022 3 months",
+            "start_date": "Jan 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "3 months",
+            "company": "CityMall",
+            "company_id": "citymall91",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "SDE",
+            "description": "•Fabricated a microservice for a discussion and query forum for company employees to enable the seamless exchange of knowledge•Developed backend of the application in Java (Spring Boot Framework), used Gradle build tool and Oracle for database•Created and implemented a data model for storing forum data and used JPA to persist data between the java object and database•Acheived code coverage of 96.0% using Mockito and Jnuit, achieved a score of 87.46% using Zally Linter for Rest API documentation",
+            "description_html": "•Fabricated a microservice for a discussion and query forum for company employees to enable the seamless exchange of knowledge•Developed backend of the application in Java (Spring Boot Framework), used Gradle build tool and Oracle for database•Created and implemented a data model for storing forum data and used JPA to persist data between the java object and database•Acheived code coverage of 96.0% using Mockito and Jnuit, achieved a score of 87.46% using Zally Linter for Rest API documentation",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Mastercard",
+            "company_id": "mastercard",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Captain",
+            "location": "Kharagpur, West Bengal",
+            "description_html": null,
+            "duration": "Jul 2019 May 2021 1 year 11 months",
+            "start_date": "Jul 2019",
+            "end_date": "May 2021",
+            "duration_short": "1 year 11 months",
+            "company": "Athletics Team of Radha Krishnan Hall of Residence",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Event Subhead",
+            "location": "Kharagpur Area, India",
+            "description": "Worked over 22 students under me and managed various events through the year.",
+            "description_html": "Worked over 22 students under me and managed various events through the year. <!---->",
+            "duration": "Jun 2018 Jul 2019 1 year 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2019",
+            "duration_short": "1 year 2 months",
+            "company": "Rajasthan Cultural Association",
+            "company_id": "rajasthan-cultural-association",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary of Athletics Subcommittee",
+            "location": "Kharagpur Area, India",
+            "description": "Managed an annual budget of INR 3,63,000/- to ensure fulfilment of needs of the institute athletics communityWon Silver medal in both men’s and women’s category in 54th Inter IIT Sports Meet in my tenure",
+            "description_html": "Managed an annual budget of INR 3,63,000/- to ensure fulfilment of needs of the institute athletics communityWon Silver medal in both men’s and women’s category in 54th Inter IIT Sports Meet in my tenure <!---->",
+            "duration": "Apr 2018 Apr 2019 1 year 1 month",
+            "start_date": "Apr 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "1 year 1 month",
+            "company": "Technology Students'​ Gymkhana, IIT Kharagpur",
+            "company_id": "technology-students-gymkhana-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Int. M.Sc. Mathematics and Computing",
+            "field": "Mathematics",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"TRANSFORM CALCULUS\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture And Organization\"},{\"subtitle\":\"-\",\"title\":\"DESIGN & ANALYSIS OF ALGORITHMS\"},{\"subtitle\":\"-\",\"title\":\"DISCRETE MATHEMATICS\"},{\"subtitle\":\"-\",\"title\":\"GENETIC ALGORITHMS IN ENGINEERING PROCESS MODELING\"},{\"subtitle\":\"-\",\"title\":\"Modern Algebra\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented and Systems Design\"},{\"subtitle\":\"-\",\"title\":\"Operation Research\"},{\"subtitle\":\"-\",\"title\":\"PROBABILITY & STATISTICS\"},{\"subtitle\":\"-\",\"title\":\"PROGRAMMING AND DATA STRUCTURES\"},{\"subtitle\":\"-\",\"title\":\"Switching and Finite Automata\"}]",
+    "certifications": null,
+    "current_company_name": "FinBox",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "66th Inter Hall General Championship",
+            "publication": "-",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "Gold in medlay relay, Bronze in 1500m race and bronze in 5000m race."
+        },
+        {
+            "title": "Inter IIT Sports Meet",
+            "publication": "-",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": "Silver Medal in 5000m race at 53rd Inter IIT Sports Meet held at IIT Guwahati."
+        },
+        {
+            "title": "Sangram (Sports Fest of IIT Roorkee)",
+            "publication": "-",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": "Bronze Medal in 5000m race"
+        },
+        {
+            "title": "65th Inter Hall General Championship",
+            "publication": "-",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "Gold in 5000m race and silver in medlay relay"
+        }
+    ]
+}

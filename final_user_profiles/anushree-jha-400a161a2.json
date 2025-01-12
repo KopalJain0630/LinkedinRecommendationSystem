@@ -1,0 +1,115 @@
+{
+    "city": "Tamil Nadu, India",
+    "position": "MSc Computer Science'25 NIT Trichy | Python | SQL | PowerBI | Advance Excel | Machine Learning | Analytics",
+    "experience": [
+        {
+            "title": "Subject Matter Expert -Statistics and Probability",
+            "description": "Helped Students with application of Statistics through various problems",
+            "description_html": "Helped Students with application of Statistics through various problems <!---->",
+            "duration": "Apr 2022 Feb 2023 11 months",
+            "start_date": "Apr 2022",
+            "end_date": "Feb 2023",
+            "duration_short": "11 months",
+            "company": "Chegg Inc.",
+            "company_id": "chegg-inc-",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "location": "Indore, Madhya Pradesh, India",
+            "description_html": null,
+            "duration": "Oct 2020 Nov 2020 2 months",
+            "start_date": "Oct 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "2 months",
+            "company": "Technocolabs Softwares",
+            "company_id": "technocolabs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "Worked on various supervised and unsupervised machine learning algorithm",
+            "description_html": "Worked on various supervised and unsupervised machine learning algorithm <!---->",
+            "duration": "Sep 2020 Oct 2020 2 months",
+            "start_date": "Sep 2020",
+            "end_date": "Oct 2020",
+            "duration_short": "2 months",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "National Institute of Technology, Tiruchirappalli",
+            "degree": "Master of science",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": "Activities and Societies: AI NLP CLUB (Member),Technical Head(Optima)",
+            "description_html": "Activities and Societies: AI NLP CLUB (Member),Technical Head(Optima)",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of Delhi",
+            "degree": "Msc",
+            "field": "Operations Research",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2023",
+            "description": "Drop Out",
+            "description_html": "Drop Out <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of Delhi",
+            "degree": "Bachelor of Science - Bsc(H)",
+            "field": "Statistics",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2022",
+            "description": "Activities and Societies: Enactus(2019-2020):- 1)Part of the event management team. 2)Represented Enactus SRCASW in a Bplan competition at Symbiosis College,Noida. Parastika-The Eco club of the SRCASW(2019-2020):- Part of the creative team. Electives-Python Programming Data Science Artificial Intelligence",
+            "description_html": "Activities and Societies: Enactus(2019-2020):- 1)Part of the event management team. 2)Represented Enactus SRCASW in a Bplan competition at Symbiosis College,Noida. Parastika-The Eco club of the SRCASW(2019-2020):- Part of the creative team.",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St.Joseph's School,Greater Noida",
+            "degree": "India School Certificate Examinations 2019-94%",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2024",
+            "subtitle": "CloudyML",
+            "title": "Machine Learning "
+        },
+        {
+            "meta": "Issued Jan 2023",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "Issued Nov 2024Expires Nov 2024",
+            "subtitle": "HackerRank",
+            "title": "SQL intermediate"
+        },
+        {
+            "meta": "Issued Oct 2024Expires Oct 2024",
+            "subtitle": "HackerRank",
+            "title": "SQL Basic"
+        }
+    ],
+    "current_company_name": "Chegg Inc.",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

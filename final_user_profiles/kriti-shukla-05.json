@@ -1,0 +1,215 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Software Engineer",
+    "experience": [
+        {
+            "title": "HSBC",
+            "description_html": null,
+            "duration": "5 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "HSBC",
+                    "meta": "Feb 2022 - Present 2 years 11 months",
+                    "duration": "Feb 2022 - Present 2 years 11 months",
+                    "start_date": "Feb 2022",
+                    "end_date": "Present",
+                    "duration_short": "2 years 11 months",
+                    "title": "Senior Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "HSBC",
+                    "meta": "Jan 2020 - Feb 2022 2 years 2 months",
+                    "duration": "Jan 2020 Feb 2022 2 years 2 months",
+                    "start_date": "Jan 2020",
+                    "end_date": "Feb 2022",
+                    "duration_short": "2 years 2 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "HSBC",
+                    "meta": "Jul 2019 - Dec 2019 6 months",
+                    "duration": "Jul 2019 Dec 2019 6 months",
+                    "start_date": "Jul 2019",
+                    "end_date": "Dec 2019",
+                    "duration_short": "6 months",
+                    "title": "Trainee Software Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "HSBC",
+            "company_id": "hsbc",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Intern",
+            "location": "Kharagpur, West Bengal",
+            "description": "Project - Linear prediction using Graph Signal Processing",
+            "description_html": "Project - Linear prediction using Graph Signal Processing <!---->",
+            "duration": "Jan 2019 Apr 2019 4 months",
+            "start_date": "Jan 2019",
+            "end_date": "Apr 2019",
+            "duration_short": "4 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Vocational Trainee",
+            "location": "Mumbai, Maharashtra",
+            "description_html": null,
+            "duration": "Dec 2018 Dec 2018 1 month",
+            "start_date": "Dec 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "1 month",
+            "company": "Bharat Electronics Limited",
+            "company_id": "bharat-electronics-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Bhubaneshwar, Orissa",
+            "description": "Project- Building Plan Automation System",
+            "description_html": "Project- Building Plan Automation System <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Bhubaneswar Development Authority (Urban & Housing Development, govt of Odisha)",
+            "company_id": "bhubaneswar-development-authority",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Vocational Trainee",
+            "location": "RTTC,Bhubaneswar",
+            "description_html": null,
+            "duration": "Dec 2017 Dec 2017 1 month",
+            "start_date": "Dec 2017",
+            "end_date": "Dec 2017",
+            "duration_short": "1 month",
+            "company": "Bharat Sanchar Nigam Limited",
+            "company_id": "bsnl",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Vindhyanagar",
+            "description_html": null,
+            "duration": "May 2017 Jun 2017 2 months",
+            "start_date": "May 2017",
+            "end_date": "Jun 2017",
+            "duration_short": "2 months",
+            "company": "NTPC Limited",
+            "company_id": "ntpc",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "International Institute of Information Technology, Bhubaneswar",
+            "degree": "Bachelor's degree",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Vindhyanagar",
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Korba",
+            "degree": "10 CGPA",
+            "url": "",
+            "start_year": "2001",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2023Credential ID GiY6sV",
+            "subtitle": "Google Cloud - Minnesota",
+            "title": "Google Cloud Certified Professional Cloud Architect"
+        },
+        {
+            "meta": "Issued Jun 2023Credential ID 76397965See credential",
+            "subtitle": "Google Cloud",
+            "title": "Professional Cloud Developer"
+        },
+        {
+            "meta": "Issued Oct 2021Credential ID N3HCFUSLRKJDSee credential",
+            "subtitle": "Coursera",
+            "title": "Data Engineering, Big Data, and Machine Learning on GCP Specialization"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID KS872ARS8RZTSee credential",
+            "subtitle": "Coursera",
+            "title": "Architecting with Google Kubernetes Engine Specialization"
+        },
+        {
+            "meta": "Issued Apr 2021Credential ID QTDPW39B6UG4See credential",
+            "subtitle": "Coursera",
+            "title": "Architecting with Google Compute Engine Specialization"
+        },
+        {
+            "meta": "Issued Sep 2019",
+            "subtitle": "Secure Code Warrior",
+            "title": "White belt Certification "
+        },
+        {
+            "meta": "Issued Nov 2017",
+            "subtitle": "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+            "title": "Overview of RS and GIS application"
+        },
+        {
+            "meta": "Issued Sep 2017",
+            "subtitle": "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+            "title": "Geographical Information System (GIS) and Global Navigation Satellite System (GNSS)"
+        },
+        {
+            "meta": "Issued Sep 2017",
+            "subtitle": "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+            "title": "Hyperspectral Remote Sensing and its application"
+        },
+        {
+            "meta": "Issued Aug 2017",
+            "subtitle": "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+            "title": "Basics of Remote Sensing , Geographical Information System and Global Navigation System "
+        },
+        {
+            "meta": "Issued Aug 2017",
+            "subtitle": "Indian Institute of Remote Sensing (IIRS), Indian Space Research Organization (ISRO)",
+            "title": "Remote Sensing and Digital Image Analysis"
+        },
+        {
+            "subtitle": "NPTEL",
+            "title": "Introduction to modern Application Development"
+        },
+        {
+            "subtitle": "International Institute of Information Technology, Bhubaneswar",
+            "title": "Network And System Security"
+        }
+    ],
+    "current_company_name": "HSBC",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Building Plan Automation System\"},{\"title\":\"Implementation of an Intelligent Chatbot to automate communication within an organisation (Dell Codefest 2017)\"},{\"title\":\"Implementation of neural network using VHDL programming\"},{\"title\":\"Platform to learn from disaster under Ministry of Health and Social Welfare (Smart India Hackathon 2018 Grand Finale Software Edition)\"}]",
+    "honors_and_awards": null
+}

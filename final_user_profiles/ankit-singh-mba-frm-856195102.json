@@ -1,0 +1,88 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2003",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2018",
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "FRM( Financial Risk Management) Level2"
+        },
+        {
+            "meta": "Issued Mar 2016",
+            "subtitle": "ForeVision",
+            "title": "Excel For Managers"
+        },
+        {
+            "meta": "Issued Sep 2015See credential",
+            "subtitle": "Finitiatives Learning India Pvt Ltd",
+            "title": "Finance and Banking Fundamentals (India)"
+        },
+        {
+            "subtitle": "KPMG India",
+            "title": "Six Sigma Green Belt"
+        }
+    ],
+    "current_company_name": "TF Holdings",
+    "publications": "[{\"title\":\"PSO Based Optimization Technique for Wireless Optical Communication\",\"subtitle\":\"Asian Journal of Computer and Information Systems (ISSN: 2321 – 5658) Volume 01– Issue 01\",\"date\":\"Jun 2013\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "National Runner Up at Crisil Young Thought Leadership",
+            "publication": "CRISIL Ltd.",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "National Runner for dissertation on topic \" Issues and Challenges in Quantification of Model Risk\""
+        },
+        {
+            "title": "Runner up at Triveni Case Study Challenge",
+            "publication": "-",
+            "date": "2016-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Winner of Circuit Enigma Competition",
+            "publication": "-",
+            "date": "2011-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Campus Finalist at Yes Bank Transformation Series competition",
+            "publication": "-",
+            "date": null,
+            "description": null
+        },
+        {
+            "title": "Campus Runner up at Asian Paints Canvas",
+            "publication": "-",
+            "date": null,
+            "description": null
+        }
+    ]
+}

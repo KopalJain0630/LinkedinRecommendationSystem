@@ -1,0 +1,98 @@
+{
+    "city": "San Francisco, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2018",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2017Credential ID b1ef38002653ba40707179695981f75a13a202c1",
+            "subtitle": "DataCamp",
+            "title": "Intro to Python for Data Science"
+        },
+        {
+            "meta": "Issued Dec 2014See credential",
+            "subtitle": "Coursera",
+            "title": "The Data Scientist’s Toolbox"
+        }
+    ],
+    "current_company_name": "Intuit",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Achiever of the Year (2017 Annual Awards - Team)",
+            "publication": "EXL Analytics",
+            "date": "2018-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Achiever of the Year ( 2016 Annual Awards - Team)",
+            "publication": "EXL Analytics",
+            "date": "2017-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Promising Newcomer (2016 Annual Awards)",
+            "publication": "EXL Analytics",
+            "date": "2017-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Decrypt - Runner Up",
+            "publication": "IIT Kanpur",
+            "date": "2015-09-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "CIMA Global Business Challenge - National Finalists",
+            "publication": "CIMA",
+            "date": "2015-06-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "International Award for Young People (IAYP) Gold Standard",
+            "publication": "International Award Association, The Duke of Edinburgh's Award International Foundation",
+            "date": "2011-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Valeo Innovation Challenge 2015",
+            "publication": "Valeo",
+            "date": null,
+            "description": "Semi Finalists, Top 24 out of 11,321 teams from across 73 countries. Awarded 5000 euros to prototype the proposed TRANSIT(Traffic Regulation using Automated Network for Safe and Intelligent Transport) system for cities with a traffic congestion issue."
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ", ().",
+            "start_year": "2007",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2006",
+            "end_year": "2007",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Machine Learning. Data Analysis in GeoSpatial Technologies. Interoperability and Knowledge Discovery .Digital Image Processing. Applied Mathematics.Principles of Geographic Information System(GIS). Economics . Atmospheric Remote Sensing. \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Mar 2019Credential ID XG5EBMHJFY92See credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Mar 2019Credential ID M8VH6KWVU6J9See credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Dec 2018See credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Jan 2018Credential ID 56CY4CEBZVYTSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jan 2018Credential ID EXAE6YW4DYCTSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jan 2018See credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        }
+    ],
+    "current_company_name": "Surge Classes",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Integrated client-server based interoperable GIS system\",\"start_date\":\"Aug 2015\",\"end_date\":\"Sep 2015\",\"description\":\"Develop an AJAX driven client to query Geospatial Web Services through Geoserver and Google Web Toolkit Integrated Geospatial web services such as WFS, WMS, WCS and SOS using Apache Tomcat, PostGIS and JAVA\"},{\"title\":\"Master's Seminar: Reconstruction of 3D object using Multi-View 2D images \",\"start_date\":\"Feb 2015\",\"end_date\":\"May 2015\",\"description\":\"Reviewed and comparatively analyzed existing algorithms for Reconstruction of complex 3D objectsStudied Tangent Plane Estimation, Moving Least Square Interpolation to reconstruct surface from point cloud\"},{\"title\":\"Fuzzy C-Means Classifier\",\"start_date\":\"Feb 2015\",\"end_date\":\"Apr 2015\",\"description\":\"Implemented unsupervised learning using Fuzzy C-Means to classify land-use/land cover in satellite images. Estimated the areas of each segmented class to quantify land–use and land cover in the image. \"},{\"title\":\"Site Suitability Analysis for New Cell Phone Towers \",\"start_date\":\"Oct 2014\",\"end_date\":\"Nov 2014\",\"description\":\"Devised a GIS based methodology to find an appropriate site for new cell phone towers in IITB campusIdentified suitable sites considering signal strength across the campus, aesthetic value of a location and health\"},{\"title\":\"Spatial Interpolation Analysis ; R\",\"start_date\":\"Sep 2014\",\"end_date\":\"Oct 2014\",\"description\":\"Implemented interpolation using inverse distance weighting, linear trend surface and krigging methods. Analyzed the variations in the outputs of individual models by changing the model input parameters.\"},{\"title\":\"Image Smoothing using Sigma Filter \",\"start_date\":\"Aug 2014\",\"end_date\":\"Sep 2014\",\"description\":\"Designed user friendly and versatile GUI to implement Sigma Filter for smoothing satellite imagesDeveloped MATLAB script to remove speckle noise using sigma filter\"},{\"title\":\"Design of E-patch Wide Beam Wide Band Microstrip Patch Antenna\",\"start_date\":\"Jan 2013\",\"end_date\":\"Apr 2013\",\"description\":\"Modeled using High Frequency Structure Simulator (HFSS); Analyzed simulated results for optimized designDesign specifications:- Frequency: 5.6GHz, Bandwidth: 477MHz, Return Loss: -18db and coaxial probe feedFuture Scope: Application in Wireless Local Area Network (WLAN) over range of 5.4GHz to 5.9GHz\"}]",
+    "honors_and_awards": null
+}

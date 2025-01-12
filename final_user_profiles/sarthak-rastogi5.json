@@ -1,0 +1,56 @@
+{
+    "city": "South Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "University of Washington",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "..",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"ACCTG 215\",\"title\":\"Accounting and Financial Reporting \"},{\"subtitle\":\"MATH 112\",\"title\":\"Business Calculus \"},{\"subtitle\":\"MGMT 200\",\"title\":\"Business Law \"},{\"subtitle\":\"Econ 427\",\"title\":\"Central Banking \"},{\"subtitle\":\"Econ 490\",\"title\":\"Comparative Economic Systems \"},{\"subtitle\":\"CFRM 405\",\"title\":\"Computational Finance and Risk Management \"},{\"subtitle\":\"Econ 382\",\"title\":\"Econometrics\"},{\"subtitle\":\"MGMT 490\",\"title\":\"Human Resource Management\"},{\"subtitle\":\"INFO 200\",\"title\":\"Intellectual Foundations of Informatics\"},{\"subtitle\":\"Econ 301\",\"title\":\"Intermediate Macroeconomics \"},{\"subtitle\":\"Econ 300\",\"title\":\"Intermediate Microeconomics \"},{\"subtitle\":\"Econ 472\",\"title\":\"International Macroeconomics\"},{\"subtitle\":\"QMeth 201\",\"title\":\"Intro to Statistical Methods\"},{\"subtitle\":\"Econ 443\",\"title\":\"Labor Economics \"},{\"subtitle\":\"ACCTG 225\",\"title\":\"Managerial Accounting \"},{\"subtitle\":\"Econ 409\",\"title\":\"Political Economy\"},{\"subtitle\":\"Econ 448\",\"title\":\"Population and Development\"},{\"subtitle\":\"Econ 409\",\"title\":\"Property Rights and Innovation\"},{\"subtitle\":\"-\",\"title\":\"Public Finance\"},{\"subtitle\":\"COM 220 \",\"title\":\"Public Speaking \"},{\"subtitle\":\"Qmeth201\",\"title\":\"Statistical Methods\"}]",
+    "certifications": null,
+    "current_company_name": "Huddle Ventures",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Estimation of Profit-Maximizing Price for One Round of Golf (Academic) \"}]",
+    "honors_and_awards": [
+        {
+            "title": "Dean's List",
+            "publication": "University of Washington",
+            "date": "2018-07-01T00:00:00.000Z",
+            "description": "Summer Quarter 2018"
+        },
+        {
+            "title": "Dean's List",
+            "publication": "University of Washington",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "Spring Quarter 2018"
+        },
+        {
+            "title": "Dean's List",
+            "publication": "University of Washington",
+            "date": "2017-09-01T00:00:00.000Z",
+            "description": "Fall Quarter 2017"
+        },
+        {
+            "title": "Dean's List",
+            "publication": "University of Washington",
+            "date": "2016-12-01T00:00:00.000Z",
+            "description": "Winter Quarter 2016"
+        }
+    ]
+}

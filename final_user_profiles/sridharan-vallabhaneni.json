@@ -1,0 +1,64 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Bangalore",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "&",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2008-05",
+            "end_year": "2013-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2018",
+            "subtitle": "Massachusetts Institute of Technology",
+            "title": "Data Science and Big Data Analytics: Making Data-Driven Decisions"
+        }
+    ],
+    "current_company_name": "Kearney",
+    "publications": "[{\"title\":\"AI 'Transformation' of Oil and Gas Slow in Coming, Huge in Promise\",\"subtitle\":\"AAPG Explorer\",\"date\":\"Mar 2019\"},{\"title\":\"Machine Learning Based Porosity Prediction\",\"subtitle\":\"SPE Digital Week Symposium\",\"date\":\"Sep 2018\"},{\"title\":\"Earth Modeling: A Key Tool to Perform a 3D Sweet Spot Analysis by Integrating Petrophysical and Geophysical Information\",\"subtitle\":\"GCAGS\",\"date\":\"Sep 2017\"},{\"title\":\"Facies and Stratigraphic Interpretation of the Eaglebine Play in Central Texas\",\"subtitle\":\"GCAGS\",\"date\":\"Sep 2016\",\"description\":\"This paper provides a comprehensive understanding of the Eagle Ford-Woodbine stratigraphy and hydrocarbon potential in the active \\\"Eaglebine\\\" play region\"},{\"title\":\"Identification of the sources and pathways of an underground mine seepage by tracer tests\",\"subtitle\":\"47th IWWA ANNUAL CONVENTION\",\"date\":\"Aug 2015\"}]",
+    "patents": "[{\"title\":\"MULTIVARIATE ANALYSIS OF SEISMIC DATA, MICROSEISMIC DATA, AND PETROPHYSICAL PROPERTIES IN FRACTURE MODELING\",\"patents_id\":\"US PCT/US2016/055285\"}]",
+    "projects": "[{\"title\":\"Imperial Barrel Award 2015\",\"start_date\":\"Jan 2015\",\"end_date\":\"Apr 2015\",\"description\":\"Worked as an exploration team representing the Texas A&M University on a global scale competition hosted by AAPG. Successful evaluated the hydrocarbon potential of the study area in the Norwegian North Sea using limited amount of data by performing 3D Seismic Interpretation, Formation Evaluation, Basin modelling and Risk assessment. Key software used during this project include Petrel, Techlog, Trinity (Zetaware), Adobe Illustrator and Ross & Associates risk assessment. The team received an excellent feedback from the judges for the petroleum system analysis and the teamwork.\"},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Geology and Geophysics Graduate Fellowship",
+            "publication": "Texas A&M University",
+            "date": "2014-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Chevron Graduate Fellowship",
+            "publication": "Chevron",
+            "date": "2013-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "INSPIRE Scholarship and Fellowship",
+            "publication": "Department of Science and Technology (DST), India",
+            "date": "2008-07-01T00:00:00.000Z",
+            "description": "5 year scholarship through May 2013"
+        }
+    ]
+}

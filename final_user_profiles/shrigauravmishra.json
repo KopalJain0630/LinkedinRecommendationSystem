@@ -1,0 +1,164 @@
+{
+    "city": "Rajasthan, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Rajasthan Technical University, Kota",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2018-07",
+            "end_year": "2022-07",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Advanced Engineering Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Cloud Computing\"},{\"subtitle\":\"-\",\"title\":\"Compiler Design\"},{\"subtitle\":\"-\",\"title\":\"Cyber Security\"},{\"subtitle\":\"-\",\"title\":\"Data Science\"},{\"subtitle\":\"-\",\"title\":\"Data Structures and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronics\"},{\"subtitle\":\"-\",\"title\":\"Digital marketing\"},{\"subtitle\":\"-\",\"title\":\"Engineering Chemistry\"},{\"subtitle\":\"-\",\"title\":\"Engineering Maths\"},{\"subtitle\":\"-\",\"title\":\"Internet of things\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Programming\"},{\"subtitle\":\"-\",\"title\":\"Specialisation in Python\"},{\"subtitle\":\"Google certified\",\"title\":\"The fundamental of digital marketing\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Dec 2021",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified Innovative Educator"
+        },
+        {
+            "meta": "Issued Nov 2021Credential ID NPTEL21CS68S33670016",
+            "subtitle": "NPTEL",
+            "title": "Design and Analysis of Algorithms"
+        },
+        {
+            "meta": "Issued Nov 2021Credential ID NPTEL21CS89S23670257",
+            "subtitle": "NPTEL",
+            "title": "Introduction to Algorithms and Analysis"
+        },
+        {
+            "meta": "Issued Oct 2021Credential ID NPTEL21CS069S23950218See credential",
+            "subtitle": "NPTEL",
+            "title": "Data Science For Engineer"
+        },
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "Virtusa",
+            "title": "Neural Hack Season 5"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "Indian Society for Technical Education (ISTE) SRM NCR",
+            "title": "SRM ISTE NCR"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID GSF/EOP-06/08-20/218See credential",
+            "subtitle": "GirlScript Bangalore",
+            "title": "Cyber Security"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Code Warriors",
+            "title": "Introduction to Programming Using Python"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "Microsoft Student Inspire",
+            "title": "Microsoft Azure Infrastructure Solutions"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Google Cloud Platform Certified",
+            "title": "Google Cloud Certified Professional Cloud Architect"
+        },
+        {
+            "meta": "Issued Jul 2020",
+            "subtitle": "University of Michigan",
+            "title": "Python Basic"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Edureka",
+            "title": "Python For Data Science"
+        },
+        {
+            "meta": "Issued Jun 2020",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Python For Data Structures"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "SoloLearn",
+            "title": "C++ "
+        },
+        {
+            "meta": "Issued May 2020Credential ID GBR 8DV DRDSee credential",
+            "subtitle": "Google Digital Garage",
+            "title": "Fundamental Of Digital Marketing"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "SoloLearn",
+            "title": "HTML Fundamental"
+        },
+        {
+            "meta": "Issued Mar 2020",
+            "subtitle": "IIEC DOT",
+            "title": "IIEC "
+        },
+        {
+            "meta": "Issued Mar 2020See credential",
+            "subtitle": "Tata Consultancy Services",
+            "title": "Interview Skills"
+        },
+        {
+            "meta": "Issued Sep 2021Expires Sep 2021",
+            "subtitle": "Coursera",
+            "title": "Getting started with python programming"
+        },
+        {
+            "subtitle": "Coursera",
+            "title": "Introduction to Programming Using Python"
+        },
+        {
+            "subtitle": "ISTE",
+            "title": "ISTE MEMBER"
+        },
+        {
+            "subtitle": "Coursera Course Certificates",
+            "title": "Java For Android"
+        }
+    ],
+    "current_company_name": "Infosys",
+    "publications": "[{\"title\":\"Behaviour of Solar System\",\"subtitle\":\"TECHNOVATION 2020\",\"date\":\"December 1, 2020\",\"description\":\"Behavior of Solar System Abstract - The Solar System is made up of all the planets that orbit our Sun. In addition to planets, the Solar System also consists of moons, comets, asteroids, minor planets, dust and gas. The inner solar system contains the Sun, Mercury, Venus, Earth and Mars. The main asteroid belt lies between the orbits of Mars and Jupiter. The planets of the outer solar system are Jupiter, Saturn, Uranus and Neptune (Pluto is now classified as a dwarf planet).\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Machine learning\",\"start_date\":\"Nov 2020\",\"end_date\":\"Aug 2021\"},{\"title\":\"Data science project\",\"start_date\":\"Aug 2020\",\"end_date\":\"Aug 2021\"},{\"title\":\"Unsupervised Machine learning\",\"start_date\":\"Aug 2020\",\"end_date\":\"Aug 2021\",\"description\":\"Unsupervised Machine learning\"},{\"title\":\"Gesture Recognition\",\"start_date\":\"Sep 2019\",\"end_date\":\"Aug 2020\"},{\"title\":\"Decision Tree Algorithm\",\"start_date\":\"Aug 2019\",\"end_date\":\"Aug 2020\",\"description\":\"Explore Decision Tree algorithm\"},{\"title\":\"Supervised Machine learning\",\"start_date\":\"Aug 2019\",\"end_date\":\"Aug 2020\"},{\"title\":\"Twitter Campaign\",\"start_date\":\"Aug 2019\",\"end_date\":\"Aug 2020\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Best News Report Writing",
+            "publication": "Department of Computer Science and Engineering Poornima College of Engineering",
+            "date": "2019-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Line Follower",
+            "publication": "Department Of Computer Science and Engineering Poornima college of engineering",
+            "date": "2018-08-01T00:00:00.000Z",
+            "description": "2nd Prize in Line Follower"
+        },
+        {
+            "title": "District Topper",
+            "publication": "Dainik Jagran|. Hellens School, Sitamarhi",
+            "date": "2017-07-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

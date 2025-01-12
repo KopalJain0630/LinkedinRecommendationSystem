@@ -1,0 +1,149 @@
+{
+    "city": "New York, New York, United States",
+    "position": "Seeking 2025 Summer SDE Internship Opportunities | MS CS at NYU Courant | Ex-Oracle | Distributed Systems | Electronics and Computer Science @ IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "Data Layer Distributed Infrastructure for Database Inmemory",
+            "description_html": "Data Layer Distributed Infrastructure for Database Inmemory <!---->",
+            "duration": "Jul 2021 Aug 2024 3 years 2 months",
+            "start_date": "Jul 2021",
+            "end_date": "Aug 2024",
+            "duration_short": "3 years 2 months",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Intern",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Music Transcription - Converting Piano Audio tunes to their corresponding midi files",
+            "description_html": "Music Transcription - Converting Piano Audio tunes to their corresponding midi files <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "CNERG - Complex Networks Research Group, IIT Kharagpur",
+            "company_id": "iitkgpcnerg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Research Intern",
+            "location": "Japan",
+            "description": "Information Extraction and Knowledge Graph Construction for easy Natural Language Understanding of a Robot",
+            "description_html": "Information Extraction and Knowledge Graph Construction for easy Natural Language Understanding of a Robot <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Kyoto University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Hyderabad Area, India",
+            "description": "Natural Language Processing for evaluating a person's responses in the AI Interview application",
+            "description_html": "Natural Language Processing for evaluating a person's responses in the AI Interview application <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "PerspectAI",
+            "company_id": "perspect-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "Hyderabad Area, India",
+            "description": "Rogue Access Point Detection using Machine Learning Techniques",
+            "description_html": "Rogue Access Point Detection using Machine Learning Techniques <!---->",
+            "duration": "May 2019 May 2019 1 month",
+            "start_date": "May 2019",
+            "end_date": "May 2019",
+            "duration_short": "1 month",
+            "company": "Defence Research and Development Organisation (DRDO)",
+            "company_id": "defence-research-and-development-organisation-drdo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Member",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Aug 2017 Apr 2018 9 months",
+            "start_date": "Aug 2017",
+            "end_date": "Apr 2018",
+            "duration_short": "9 months",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "New York University",
+            "degree": "Master's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2026",
+            "description": "Coursework :- Operating Systems, Advanced Database Systems, Programming Languages",
+            "description_html": "Coursework :- Operating Systems, Advanced Database Systems, Programming Languages <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Minor",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology",
+            "field": "Electronics and Electrical Communication Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV Public School Safilguda",
+            "degree": "Certificate Of Excellence , CBSE",
+            "start_year": "2005",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Analog Electronics\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Calculus\"},{\"subtitle\":\"-\",\"title\":\"Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronics\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Matrix Algebra\"},{\"subtitle\":\"-\",\"title\":\"NLP\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Probability and Stochastic Processes\"},{\"subtitle\":\"-\",\"title\":\"Signals And Systems\"}]",
+    "certifications": [
+        {
+            "meta": "See credential",
+            "subtitle": "University of Michigan",
+            "title": "Applied Machine Learning in Python "
+        },
+        {
+            "subtitle": "deeplearning.ai",
+            "title": "Natural Language Processingin TensorFlow"
+        }
+    ],
+    "current_company_name": "Oracle",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

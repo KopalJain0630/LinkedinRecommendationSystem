@@ -1,0 +1,78 @@
+{
+    "city": "India",
+    "position": "Senior Analyst at Tiger Analytics",
+    "experience": [
+        {
+            "title": "Tiger Analytics",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "Tiger Analytics",
+                    "meta": "Jul 2023 - Present 1 year 6 months",
+                    "duration": "Jul 2023 - Present 1 year 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 6 months",
+                    "title": "Senior Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Tiger Analytics",
+                    "meta": "Jun 2022 - Jul 2023 1 year 2 months",
+                    "duration": "Jun 2022 Jul 2023 1 year 2 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Jul 2023",
+                    "duration_short": "1 year 2 months",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Tiger Analytics",
+            "company_id": "tiger-analytics",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "Jul 2021 Mar 2022 9 months",
+            "start_date": "Jul 2021",
+            "end_date": "Mar 2022",
+            "duration_short": "9 months",
+            "company": "Loyalytics Consulting",
+            "company_id": "loyalytics-ai",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Physics",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Chinmaya International Residential School",
+            "degree": "High School Diploma",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"PH60033\",\"title\":\"Advanced Computational Physics\"},{\"subtitle\":\"-\",\"title\":\"Applied Machine Learning in Python\"},{\"subtitle\":\"-\",\"title\":\"Applied Plotting, Charting & Data Representation in Python\"},{\"subtitle\":\"PH31013\",\"title\":\"Comlplex Analysis\"},{\"subtitle\":\"PH41012\",\"title\":\"Computational Physics \"},{\"subtitle\":\"AI61002\",\"title\":\"Deep Learning Foundations and Applications \"},{\"subtitle\":\"-\",\"title\":\"Differential Calculus\"},{\"subtitle\":\"MA10001\",\"title\":\"Engineering Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Integral Calculus \"},{\"subtitle\":\"-\",\"title\":\"Introduction to Data Science \"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"CS19101\",\"title\":\"Programmimng and Data Structures \"},{\"subtitle\":\"MA31005\",\"title\":\"Real Analysis\"},{\"subtitle\":\"MA20101\",\"title\":\"Transform Calculus \"}]",
+    "certifications": null,
+    "current_company_name": "Tiger Analytics",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

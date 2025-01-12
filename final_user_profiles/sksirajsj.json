@@ -1,0 +1,351 @@
+{
+    "id": "sksirajsj",
+    "name": "Shaik Siraj",
+    "city": "Telangana, India",
+    "country_code": "IN",
+    "position": "SDE @LinkedIn |  Major in Maths and Computer Science @IITKGP",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "LinkedIn",
+        "company_id": "linkedin",
+        "title": "SDE @LinkedIn |  Major in Maths and Computer Science @IITKGP"
+    },
+    "experience": [
+        {
+            "title": "Software Development Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "LIHA - LinkedIn Hiring Assistant As a Software Development Engineer, I worked on multiple projects within LinkedIn\u00e2\u20ac\u2122s Hiring Assistant (LiHA) team, where I contributed to building secure, scalable, and high-performance solutions:\t\u00e2\u20ac\u00a2\tIdentity and Access Management: Developed APIs to ensure secure agent creation and access. \t\u00e2\u20ac\u00a2\tLiHA Activity Tracking: Enabled accurate activity to provide valuable insights into user engagement.\t\u00e2\u20ac\u00a2\tReal-Time: Implemented processes for seamless real-time interactions.\t\u00e2\u20ac\u00a2\tLiHA Metrics: Implemented tracking performance metrics and analytics.In these projects, I implemented Nearline Samza jobs which Brooklyn Data Streams, designed API layers to support front-end integration, and created backend APIs for efficient database interactions. Each solution enhanced LiHA\u00e2\u20ac\u2122s stability, scalability, and overall user experience.Internal Mobility1. Enhanced Recruiter with advanced Internal Jobs features.2. Implemented authorization for Internal Mobility packages.Self Removal of Users1. Developed the Self Removal feature (Backend) in Recruiter, allowing users/admins to self-remove from contracts, triggering email notifications to admins.2. Reduced support escalations and streamlined the user removal process, saving valuable working hours.3. Technologies: Kafka, Samza, REST Architecture.Job Collections1. Led Backend Implementation for Job Collections.2. Collaborated with multiple teams to enhance the Internal Job Board with new job collections similar to LinkedIn Job Collections.",
+            "description_html": "LIHA - LinkedIn Hiring Assistant As a Software Development Engineer, I worked on multiple projects within LinkedIn\u00e2\u20ac\u2122s Hiring Assistant (LiHA) team, where I contributed to building secure, scalable, and high-performance solutions: \u00e2\u20ac\u00a2 Identity and Access Management: Developed APIs to ensure secure agent creation and access.  \u00e2\u20ac\u00a2 LiHA Activity Tracking: Enabled accurate activity to provide valuable insights into user engagement. \u00e2\u20ac\u00a2 Real-Time: Implemented processes for seamless real-time interactions. \u00e2\u20ac\u00a2 LiHA Metrics: Implemented tracking performance metrics and analytics.In these projects, I implemented Nearline Samza jobs which Brooklyn Data Streams, designed API layers to support front-end integration, and created backend APIs for efficient database interactions. Each solution enhanced LiHA\u00e2\u20ac\u2122s stability, scalability, and overall user experience.Internal Mobility1. Enhanced Recruiter with advanced Internal Jobs features.2. Implemented authorization for Internal Mobility packages.Self Removal of Users1. Developed the Self Removal feature (Backend) in Recruiter, allowing users/admins to self-remove from contracts, triggering email notifications to admins.2. Reduced support escalations and streamlined the user removal process, saving valuable working hours.3. Technologies: Kafka, Samza, REST Architecture.Job Collections1. Led Backend Implementation for Job Collections.2. Collaborated with multiple teams to enhance the Internal Job Board with new job collections similar to LinkedIn Job Collections.",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "LinkedIn",
+            "company_id": "linkedin",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Worked in the LinkedIn Talent Solutions Team to develop a custom Internal Employee Profile to assist Internal Mobility.\u00e2\u20ac\u00a2 Worked on the Backend to create APIs to get custom Employee Information Internal to enterprise and store it in Database.\u00e2\u20ac\u00a2 Worked on the Frontend to create a Search Bar and User Interface to display and browse through the Employee Information.",
+            "description_html": "\u00e2\u20ac\u00a2 Worked in the LinkedIn Talent Solutions Team to develop a custom Internal Employee Profile to assist Internal Mobility.\u00e2\u20ac\u00a2 Worked on the Backend to create APIs to get custom Employee Information Internal to enterprise and store it in Database.\u00e2\u20ac\u00a2 Worked on the Frontend to create a Search Bar and User Interface to display and browse through the Employee Information. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "LinkedIn",
+            "company_id": "linkedin",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mentor & Teaching Assistant",
+            "description": "\u00e2\u20ac\u00a2\u00c2\u00a0Resolved 300+ doubts related to Competitive Programming, Data Structures & Algorithms.\u00e2\u20ac\u00a2 Coordinated weekly mentor-mentee meetups to guide them with solutions on how to Improve in CP and motivated them to maintain consistency in practice.\u00e2\u20ac\u00a2\u00c2\u00a0Mentored students throughout their journey of Learning Data Structures and Algorithms to aid their preparation for Tech Interviews.",
+            "description_html": "\u00e2\u20ac\u00a2&nbsp;Resolved 300+ doubts related to Competitive Programming, Data Structures &amp; Algorithms.\u00e2\u20ac\u00a2 Coordinated weekly mentor-mentee meetups to guide them with solutions on how to Improve in CP and motivated them to maintain consistency in practice.\u00e2\u20ac\u00a2&nbsp;Mentored students throughout their journey of Learning Data Structures and Algorithms to aid their preparation for Tech Interviews. <!---->",
+            "duration": "Apr 2022 May 2022 2 months",
+            "start_date": "Apr 2022",
+            "end_date": "May 2022",
+            "duration_short": "2 months",
+            "company": "AlgoZenith",
+            "company_id": "algozenith",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Mentor",
+            "description": "\u00e2\u20ac\u00a2 Student Mentor to six students, part of Student Mentor-Mentee Programme under Dean of Student Affairs.\u00e2\u20ac\u00a2 Coordinated monthly mentor-mentee meetups to guide them with solutions to both academic and non-academic problems.",
+            "description_html": "\u00e2\u20ac\u00a2 Student Mentor to six students, part of Student Mentor-Mentee Programme under Dean of Student Affairs.\u00e2\u20ac\u00a2 Coordinated monthly mentor-mentee meetups to guide them with solutions to both academic and non-academic problems. <!---->",
+            "duration": "Nov 2020 Apr 2022 1 year 6 months",
+            "start_date": "Nov 2020",
+            "end_date": "Apr 2022",
+            "duration_short": "1 year 6 months",
+            "company": "Student Welfare Group, IIT Kharagpur",
+            "company_id": "student-welfare-group-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary Maintainance",
+            "location": "Kharagpur, West Bengal",
+            "description": "\u00e2\u20ac\u00a2 Conducted a survey among 162 boarders regarding their well-being and improvement of infrastructure of HJB Hall of Residence.\u00e2\u20ac\u00a2 Successfully managed and resolved the maintenance problems faced by boarders of HJB Hall of Residence",
+            "description_html": "\u00e2\u20ac\u00a2 Conducted a survey among 162 boarders regarding their well-being and improvement of infrastructure of HJB Hall of Residence.\u00e2\u20ac\u00a2 Successfully managed and resolved the maintenance problems faced by boarders of HJB Hall of Residence <!---->",
+            "duration": "Aug 2019 Apr 2020 9 months",
+            "start_date": "Aug 2019",
+            "end_date": "Apr 2020",
+            "duration_short": "9 months",
+            "company": "Homi Jehangir Bhabha Hall of Residence, IIT Kharagpur",
+            "company_id": "hjb-iitkgp",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shahista Jabeen",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ananya Jain",
+            "about": null,
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Tiwari",
+            "about": "Registry Official at Supreme Court of India",
+            "location": "Allahabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Abraham Carlson Andrews",
+            "about": "Administrative professional with 10+ years'\u00e2\u20ac\u2039 success in different administrative capacities",
+            "location": "The Nilgiris"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshit .",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Prateek Narang",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aastha Sachdeva",
+            "about": null,
+            "location": "Tampa, FL"
+        },
+        {
+            "profile_link": "",
+            "name": "Preeti Pasricha",
+            "about": null,
+            "location": "Thane"
+        },
+        {
+            "profile_link": "",
+            "name": "Puja Ghimire",
+            "about": "Co-founder & CTO | Driving Innovation in Fashion and Technology | Ex-Amazon",
+            "location": "Kathmandu"
+        },
+        {
+            "profile_link": "",
+            "name": "Nidhi Patel",
+            "about": "B.E Electrical Engineer",
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "Shyamaprasad Sinha Ex-IAF",
+            "about": "Ex-Office Administrator at Neuland Laboratories Limited",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Anup Pattnaik",
+            "about": "Lead MLE @Observe.AI | Scalable GenAI | IIT Bombay",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Naveen Jain",
+            "about": "HR | DJ | Video Editor | Filter Creator | Photography | Travel",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushar Aggarwal",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Chouhan",
+            "about": null,
+            "location": "Udaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Mishra",
+            "about": null,
+            "location": "Darjeeling"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhay Karandikar",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Gulshan Gupta",
+            "about": "Scientist at ISRO",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarangam Birru",
+            "about": "Project Manager @ On Device Solutions Ltd. | Leading Successful Projects",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Rajani",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Maths and Computer Science",
+            "field": "CGPA : 8.84",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "\u00e2\u20ac\u00a2 Department Rank 1 in the third semester by securing a perfect 10 SGPA. \u00e2\u20ac\u00a2 Student Mentor, Student Welfare Group IIT Kharagpur. \u00e2\u20ac\u00a2 Secretary Maintenance HJB Hall of Residence. \u00e2\u20ac\u00a2 Member of HJB Open Soft team. \u00e2\u20ac\u00a2 Participated in Inter Hall Sports General Championship in Cricket representing HJB Hall of Residence. \u00e2\u20ac\u00a2 Represented Homi Jehangir Bhabha Hall of Residence in the General Championship, Illumination 2019.",
+            "description_html": "\u00e2\u20ac\u00a2 Department Rank 1 in the third semester by securing a perfect 10 SGPA.\u00e2\u20ac\u00a2 Student Mentor, Student Welfare Group IIT Kharagpur.\u00e2\u20ac\u00a2 Secretary Maintenance HJB Hall of Residence.\u00e2\u20ac\u00a2 Member of HJB Open Soft team.\u00e2\u20ac\u00a2 Participated in Inter Hall Sports General Championship in Cricket representing HJB Hall of Residence.\u00e2\u20ac\u00a2 Represented Homi Jehangir Bhabha Hall of Residence in the General Championship, Illumination 2019. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "MS Junior college",
+            "degree": "Intermediate",
+            "field": "MPC",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": "\u00e2\u20ac\u00a2 Secured Gold Medal for getting the best rank in IIT-JEE Advanced in my college and being the college topper in Intermediate Exams.",
+            "description_html": "\u00e2\u20ac\u00a2&nbsp;Secured Gold Medal for getting the best rank in IIT-JEE Advanced in my college and being the college topper in Intermediate Exams. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Pratibha English Medium High School",
+            "degree": "SSC",
+            "field": "CGPA : 10",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": "\u00e2\u20ac\u00a2 School Pupils Leader (2014-15). \u00e2\u20ac\u00a2 School Topper in the SSC Examination. \u00e2\u20ac\u00a2 Represented my school in many School/Mandal/District level Essay and Speech competitions.",
+            "description_html": "\u00e2\u20ac\u00a2&nbsp;School Pupils Leader (2014-15).\u00e2\u20ac\u00a2&nbsp;School Topper in the SSC Examination.\u00e2\u20ac\u00a2&nbsp;Represented my school in many School/Mandal/District level Essay and Speech competitions. <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Telugu "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jun 2022Credential ID 100See credential",
+            "subtitle": "LinkedIn",
+            "title": "Java 8 Essesntials"
+        },
+        {
+            "meta": "Issued Feb 2021Credential ID YXV8FJ33TXTHSee credential",
+            "subtitle": "Coursera",
+            "title": "Algorithms on Graphs"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID QUPG8ZZQF953See credential",
+            "subtitle": "Coursera",
+            "title": "Object-Oriented Data Structures in C++"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 8LQ4MQQ4Q32JSee credential",
+            "subtitle": "National Research University \u00e2\u20ac\u201d Higher School of Economics",
+            "title": "Introduction to Discrete Mathematics for Computer Science(Specialization)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jun 2018 - Apr 2020 \u00c2\u00b7 1 year 11 months",
+            "duration_short": "1 year 11 months",
+            "end_date": "Apr 2020",
+            "info": "\u00e2\u20ac\u00a2 Organized cloth donation drives under NSS IIT Kharagpur functional at Nachna village.\u00e2\u20ac\u00a2 Taught school students basic subjects like Mathematics, Science at Rural Schools in Kharagpur.",
+            "start_date": "Jun 2018",
+            "subtitle": "National Service Scheme(NSS)",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 2069.0,
+    "connections": 500.0,
+    "current_company_company_id": "linkedin",
+    "current_company_name": "LinkedIn",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Telangana",
+    "linkedin_id": "sksirajsj",
+    "activity": [
+        {
+            "interaction": "Liked by Shaik Siraj",
+            "link": "",
+            "title": "There are some actually good uses for AI tech, but damn if some people don't need to hear this every single day, eh? If you feel attacked by this\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7278148974702653443"
+        },
+        {
+            "interaction": "Liked by Shaik Siraj",
+            "link": "",
+            "title": "Ricky passed an interview he had failed by emailing the Yelp recruiter (emails in the video) Won't always work, but being scrappy can make a big\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7275573182789525504"
+        },
+        {
+            "interaction": "Liked by Shaik Siraj",
+            "link": "",
+            "title": "#Bengaluru Police arrested Nikita, the wife of deceased #BengaluruTechie Subhash Atul, along with her mother and brother, in an abetment to suicide\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7273917246169640960"
+        },
+        {
+            "interaction": "Liked by Shaik Siraj",
+            "link": "",
+            "title": "Codeforces Round 991 (Div 3) This was an enjoyable contest! Got a world rank of 887. Wasn't able to solve the last one (getting WA on test case 2)\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7270483433972199424"
+        },
+        {
+            "interaction": "Liked by Shaik Siraj",
+            "link": "",
+            "title": "This post might offend both ML and Software Engineers! Ever noticed how ML and Software Engineers live in completely different universes? After\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7268608524564213760"
+        }
+    ],
+    "linkedin_num_id": 782726440.0,
+    "honors_and_awards": [
+        {
+            "title": "INSPIRE Scholarship",
+            "publication": "Department of Science and Technology (DST), Government of India",
+            "date": null,
+            "description": "\u00e2\u20ac\u00a2 Recipient of INSPIRE Scholarship \u00e2\u20ac\u00a2 INSPIRE Scholarship for Higher Education (SHE) is a scholarship program implemented by the Department of Science and Technology (DST), Government of India. \u00e2\u20ac\u00a2 It is a scholarship scheme that comes under Innovation in Science Pursuit for Inspired Research (INSPIRE), a flagship program of DST. \u00e2\u20ac\u00a2 INSPIRE Scholarship offers 10,000 scholarships every year."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

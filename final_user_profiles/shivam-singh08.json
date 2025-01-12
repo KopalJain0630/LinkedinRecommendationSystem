@@ -1,0 +1,94 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "..",
+            "start_year": "2008",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Urban Company",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Human pose classification and comparison through time series analysis for weightlifting exercises\",\"start_date\":\"Jan 2022\",\"end_date\":\"May 2022\"},{\"title\":\"Computer Assisted training for sports: A case of Weightlifting\",\"start_date\":\"Aug 2021\",\"end_date\":\"Dec 2021\"},{\"title\":\"AI assisted Yoga trainer\",\"start_date\":\"Jan 2021\",\"end_date\":\"Apr 2021\"},{\"title\":\"Anomaly detection in large scale networks using machine learning\",\"start_date\":\"Sep 2020\",\"end_date\":\"Nov 2020\"},{\"title\":\"Large scale optimization of PDS of grains\",\"start_date\":\"May 2019\",\"end_date\":\"Jul 2019\"}]",
+    "honors_and_awards": [
+        {
+            "title": "KIRTTAN B. BEHERA BEST ALL ROUNDER (BAR) AWARD-(2021-2022)",
+            "publication": "IIT Kharagpur",
+            "date": "2022-09-01T00:00:00.000Z",
+            "description": "Awarded for showcasing best all-round performance amongst 1500+ final year students"
+        },
+        {
+            "title": "Bhandarkar Cup",
+            "publication": "Technology Students' Gymkhana",
+            "date": "2022-04-01T00:00:00.000Z",
+            "description": "Awarded to the Best Outgoing all-rounder who has performed with distinction, particularly in sports."
+        },
+        {
+            "title": "Amrit Barman Memorial Award",
+            "publication": "Technology Students' Gymkhana",
+            "date": "2021-12-01T00:00:00.000Z",
+            "description": "Awarded for excellence in leadership, initiatives and organizational skills at IIT Kharagpur"
+        },
+        {
+            "title": "Umesh Kumar Bhatia Sports Prize",
+            "publication": "IIT Kharagpur",
+            "date": "2021-12-01T00:00:00.000Z",
+            "description": "Adjudged to have performed best in sports in the year 2020-21."
+        },
+        {
+            "title": "Alumni Cup (2019-20) in Sports and Games",
+            "publication": "Technology Students' Gymkhana",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "The non-graduating student who performed with distinction in Sports and Games throughout the year."
+        },
+        {
+            "title": "Prof. B.N. Avasthi Memorial award for Sports",
+            "publication": "IIT Kharagpur",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "Adjudged to be the best sportsperson based on criteria in terms of Inter-IIT/Hall of Residence sports representation, achievements in games & sports, qualities of leadership, excellence, discipline and sportsmanship."
+        },
+        {
+            "title": "KIRTTAN B. BEHERA BEST ALL ROUNDER (BAR) AWARD-(2019-2020)",
+            "publication": "IIT Kharagpur",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "Awarded for showcasing best all-round performance amongst 1400+ 3rd year students"
+        },
+        {
+            "title": "54th Inter IIT Sports meet",
+            "publication": "Inter IIT Sports meet",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "-Broke 100m Inter IIT record to become the FASTEST IITian in the history of all IITs. -Won 3 Gold medals and Overall Gold in Athletics General championship."
+        },
+        {
+            "title": "KIRTTAN B. BEHERA BEST ALL ROUNDER (BAR) AWARD-(2018-2019)",
+            "publication": "IIT Kharagpur",
+            "date": "2019-08-01T00:00:00.000Z",
+            "description": "Awarded for showcasing best all-round performance amongst 1400+ 2nd year students"
+        }
+    ]
+}

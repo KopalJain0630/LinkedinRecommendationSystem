@@ -1,0 +1,152 @@
+{
+    "city": "Ranchi, Jharkhand, India",
+    "position": "Associate at Indus Insights | IIT Kharagpur '24",
+    "experience": [
+        {
+            "title": "Associate",
+            "location": "Gurugram, Haryana, India",
+            "description": "Python, SQL, Excel, Data Science",
+            "description_html": "Python, SQL, Excel, Data Science <!---->",
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Indus Insights",
+            "company_id": "indus-insights",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Engineer",
+            "location": "New Delhi, Delhi, India",
+            "description_html": null,
+            "duration": "Oct 2022 Dec 2022 3 months",
+            "start_date": "Oct 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "3 months",
+            "company": "PsyTech",
+            "company_id": "psytechai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Club, IIT Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "1 year 4 months",
+            "positions": [
+                {
+                    "subtitle": "Business Club, IIT Kharagpur",
+                    "meta": "Sep 2021 - Mar 2022 7 months",
+                    "duration": "Sep 2021 Mar 2022 7 months",
+                    "start_date": "Sep 2021",
+                    "end_date": "Mar 2022",
+                    "duration_short": "7 months",
+                    "title": "Sub-Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Business Club, IIT Kharagpur",
+                    "meta": "Dec 2020 - Sep 2021 10 months",
+                    "description": "B-Club, IIT Kharagpur, is a non-profit organization aiming to familiarize its members, with the technicalities of analytics,finance and consultancy. We strive to enhance our knowledge through in-house sessions, presentations, hands-on workshops and discussions. Matters deliberated vary from practical problems to hypothetical ones. The club serves as an excellent interface among students, professionals, faculty and alumni and develops the members into creative thinkers and strategists much before they step into the big world of business.",
+                    "duration": "Dec 2020 Sep 2021 10 months",
+                    "start_date": "Dec 2020",
+                    "end_date": "Sep 2021",
+                    "duration_short": "10 months",
+                    "title": "Associate",
+                    "description_html": "B-Club, IIT Kharagpur, is a non-profit organization aiming to familiarize its members, with the technicalities of analytics,finance and consultancy. We strive to enhance our knowledge through in-house sessions, presentations, hands-on workshops and discussions. Matters deliberated vary from practical problems to hypothetical ones. The club serves as an excellent interface among students, professionals, faculty and alumni and develops the members into creative thinkers and strategists much before they step into the big world of business."
+                }
+            ],
+            "company": "Business Club, IIT Kharagpur",
+            "company_id": "bclubiitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Junior Executive Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Dec 2020 May 2021 6 months",
+            "start_date": "Dec 2020",
+            "end_date": "May 2021",
+            "duration_short": "6 months",
+            "company": "Gopali Youth Welfare Society",
+            "company_id": "gopali-youth-welfare-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Industrial and Systems Engineering",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Ranchi",
+            "degree": "Class XII",
+            "field": "Science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Ranchi",
+            "degree": "Class X",
+            "field": "95.6%",
+            "url": "",
+            "start_year": "2007",
+            "end_year": "2018",
+            "description": "Activities and Societies: Deputy Head Boy(Primary Wing)",
+            "description_html": "Activities and Societies: Deputy Head Boy(Primary Wing)",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2022Credential ID zdCms6y3p3ovLuyuBnSLjrmbSee credential",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts (BMC)"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID 73ZNKJRLW42VSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Time Value of Money (TVM)"
+        }
+    ],
+    "current_company_name": "Indus Insights",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Among Top 10% Scorers of 49th National Mathematics Talent Contests 2017",
+            "publication": "The Association of Mathematics Teachers of India",
+            "date": "2017-10-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

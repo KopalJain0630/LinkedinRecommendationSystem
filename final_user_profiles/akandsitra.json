@@ -1,0 +1,53 @@
+{
+    "city": "Bangalore Urban, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2023",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2022Expires Jan 2026Credential ID chgn7gm48sqmSee credential",
+            "subtitle": "Chainalysis Inc.",
+            "title": "Chainalysis Ethereum Investigations Certification"
+        },
+        {
+            "meta": "Issued Jan 2022Expires Jan 2026Credential ID d2tj5u9vhxjfSee credential",
+            "subtitle": "Chainalysis Inc.",
+            "title": "Chainalysis Investigation Specialist Certification"
+        },
+        {
+            "meta": "Issued Mar 2021Expires Nov 2024Credential ID 31182828See credential",
+            "subtitle": "ISB Alumni Association",
+            "title": "Chapter Leader"
+        }
+    ],
+    "current_company_name": "Hypernative",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

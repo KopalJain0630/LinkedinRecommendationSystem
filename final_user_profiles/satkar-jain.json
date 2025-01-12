@@ -1,0 +1,136 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "SDE III @Walmart Labs || IIT Guwahati",
+    "experience": [
+        {
+            "title": "Walmart Global Tech India",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "Walmart Global Tech India",
+                    "meta": "Sep 2024 - Present 4 months",
+                    "duration": "Sep 2024 - Present 4 months",
+                    "start_date": "Sep 2024",
+                    "end_date": "Present",
+                    "duration_short": "4 months",
+                    "title": "Software Developer III",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Walmart Global Tech India",
+                    "meta": "Jun 2022 - Present 2 years 7 months",
+                    "duration": "Jun 2022 - Present 2 years 7 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Present",
+                    "duration_short": "2 years 7 months",
+                    "title": "Software Developer II",
+                    "description_html": null
+                }
+            ],
+            "company": "Walmart Global Tech India",
+            "company_id": "walmartglobaltechindia",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Developer Internship",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Walmart Global Tech India",
+            "company_id": "walmartglobaltechindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core team member",
+            "location": "IIT guwahati",
+            "description_html": null,
+            "duration": "Aug 2019 May 2020 10 months",
+            "start_date": "Aug 2019",
+            "end_date": "May 2020",
+            "duration_short": "10 months",
+            "company": "Consulting and Analytics Club,IIT Guwahati",
+            "company_id": "caciitg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "location": "IIT Guwahati",
+            "description": "1) Highway speed checker2) Incoming person counter",
+            "description_html": "1) Highway speed checker2) Incoming person counter <!---->",
+            "duration": "Mar 2019 Jul 2019 5 months",
+            "start_date": "Mar 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "5 months",
+            "company": "electronics club IIT guwahati",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Guwahati",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Chemical engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Guwahati",
+            "degree": "Minor",
+            "field": "Mathematics",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Complex analysis and Partial differential equations \"},{\"subtitle\":\"-\",\"title\":\"IBM applied data science with python\"},{\"subtitle\":\"-\",\"title\":\"Linear algebra \"},{\"subtitle\":\"-\",\"title\":\"Machine learning by standford \"},{\"subtitle\":\"-\",\"title\":\"Neural Networks and Deep Learning\"},{\"subtitle\":\"-\",\"title\":\"Numerical method using Matlab\"},{\"subtitle\":\"-\",\"title\":\"Real analysis \"},{\"subtitle\":\"-\",\"title\":\"Statistics \"},{\"subtitle\":\"-\",\"title\":\"Summer analytics offered by consulting and analytics club, IIT Guwahati\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020Credential ID A8WAFZLCVKTVSee credential",
+            "subtitle": "Coursera",
+            "title": "Data Structures by University of California San Diego"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID U8EZTVPKBQU9See credential",
+            "subtitle": "Coursera",
+            "title": "Natural Language Processing in TensorFlow"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 13937814See credential",
+            "subtitle": "DataCamp",
+            "title": "Advanced NLP with spaCy"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID D8BJMBPF32YSSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID HD4VTS7F7BRVSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Cognitive Class",
+            "title": "Python for data science "
+        }
+    ],
+    "current_company_name": "Walmart Global Tech India",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Text document search engine\",\"start_date\":\"Apr 2020\",\"end_date\":\"Apr 2020\",\"description\":\"A search engine with three-step process Query filtering, Query Augmentation, and Document scoring. Query Augmentation was done through synonyms generation. Document embedding was obtained using the Skip-Gram model. Then Document score was calculated by multiplying cosine similarity of the document and query embedding with unigramBM25 score.\"},{\"title\":\"Hangout web app\",\"start_date\":\"Feb 2020\",\"end_date\":\"Mar 2020\",\"description\":\"A machine-learning model deployed on the web using Django which can predict a match between people based on a series of questions. And then recommend them movies similar to what they both like.\"},{\"title\":\"Data extraction using web scrapping\",\"start_date\":\"Dec 2019\",\"end_date\":\"Dec 2019\",\"description\":\"Scraped the weather data from dateandtime website for my other project using python.\"},{\"title\":\"Predicting Indian Engineer salary\",\"start_date\":\"Oct 2019\",\"end_date\":\"Oct 2019\",\"description\":\"Engineer's previous history performance dataset was used in predicting salary, analyzing the factors affecting Salaries like college CPI, 12th grades, and many different factors and then devising model using Xgboost and hyperparameter tunning using RandomizedSearchCV.\"}]",
+    "honors_and_awards": null
+}

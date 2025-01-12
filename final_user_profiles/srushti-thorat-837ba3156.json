@@ -1,0 +1,89 @@
+{
+    "city": "Midnapore Sadar, India",
+    "position": "Analyst @ Accenture.AI | IIT Kharagpur'22",
+    "experience": [
+        {
+            "title": "Data Science Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Working in supply chain analytics",
+            "description_html": "Working in supply chain analytics <!---->",
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Accenture",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Anomaly Detection",
+            "description_html": null,
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Tata Consultancy Services Research and Innovation",
+            "company_id": "tata-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning and Analytics",
+            "description": "•Improved the accuracy of the Crop Yield Prediction model by using RNN, Random Forest, Linear Regression, KNN .•Hyperparameter Optimization using GridsearchCV and ensembled different sets of models to get maximum accuracy.•Prepared a DashBoard using Dash by Plotly showcasing the crop yield data of different types of crops of various Counties of United States in tabular, graphical and on the Map of United States.",
+            "description_html": "•Improved the accuracy of the Crop Yield Prediction model by using RNN, Random Forest, Linear Regression, KNN .•Hyperparameter Optimization using GridsearchCV and ensembled different sets of models to get maximum accuracy.•Prepared a DashBoard using Dash by Plotly showcasing the crop yield data of different types of crops of various Counties of United States in tabular, graphical and on the Map of United States. <!---->",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Vega MX Inc.",
+            "company_id": "vegamx",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Application of Machine Learning in Prediction of Tractor Fuel Consumption",
+            "description": "•Developed Fuel Consumption prediction model for 20-48 horsepower range tractor, with tractor's PTO power, Engine Speed at no load (rpm), Engine speed drop at the load (rpm), and Throttle Setting as input features.•Trained Radial Basis Neural Network(RBNN), Levenberg Neural Network, and Linear Regression model for prediction and function approximation.•Achieved best results with RBNN, with a coefficient of determination(R_squared) as 0.85 for training and 0.81 for testing dataset also RMSE of 0.545 on training and 0.80 on testing.",
+            "description_html": "•Developed Fuel Consumption prediction model for 20-48 horsepower range tractor, with tractor's PTO power, Engine Speed at no load (rpm), Engine speed drop at the load (rpm), and Throttle Setting as input features.•Trained Radial Basis Neural Network(RBNN), Levenberg Neural Network, and Linear Regression model for prediction and function approximation.•Achieved best results with RBNN, with a coefficient of determination(R_squared) as 0.85 for training and 0.81 for testing dataset also RMSE of 0.545 on training and 0.80 on testing.",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Text Clustering on Accident Dataset of a Steel Power Plant",
+            "description": "•Studied Natural Language ToolKit for handling, pre-processing the textual data of accidents.•Used CountVectorizer to build a vocabulary of words and gauged the importance of words using Tf-Idf Transform .•Clustered the data using K-Means clustering to generate insights on the cause of occurrences of accident.",
+            "description_html": "•Studied Natural Language ToolKit for handling, pre-processing the textual data of accidents.•Used CountVectorizer to build a vocabulary of words and gauged the importance of words using Tf-Idf Transform .•Clustered the data using K-Means clustering to generate insights on the cause of occurrences of accident. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology",
+            "field": "Agricultural Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Accenture",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

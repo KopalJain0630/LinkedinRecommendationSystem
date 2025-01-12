@@ -1,0 +1,212 @@
+{
+    "id": "architnanda22",
+    "name": "Archit Nanda",
+    "city": "India",
+    "country_code": "IN",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Slick",
+        "company_id": "weareslick"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Kalpesh Rathi",
+            "about": "Morgan Stanley | IIT Bombay'22 | CFA All Levels Cleared",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Kamal",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritwik Kadu",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddhesh Pawar",
+            "about": "Researching Fairness and Accountability in multimodal, multicultural LLMs",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Varun Jha",
+            "about": "Software@Jaguar Land Rover | IIT Bombay '22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Gupta",
+            "about": "Graduate Student at Rutgers University",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Arindam Roy",
+            "about": "Ex-APM, Investor | IIT Bombay",
+            "location": "Berhampore"
+        },
+        {
+            "profile_link": "",
+            "name": "Mrityunjay Kumar",
+            "about": "Product @Tata Digital | IITB",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Aaryan Jaiswal",
+            "about": "American Express | IIT Bombay",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Suraj Sahoo",
+            "about": "Product @ MOFSL | IIT Bombay | E-Cell IITB",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Bombay",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". '  ,",
+            "start_year": "2003",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jul 2017 - May 2018 · 11 months",
+            "duration_short": "11 months",
+            "end_date": "May 2018",
+            "info": "• Completed 80 hours of volunteer work under the National Service Scheme (NSS) IIT Bombay which involved ideation of solutions to social issues & teaching a group of40+ students at Vidya, NIOS",
+            "start_date": "Jul 2017",
+            "subtitle": "NSS IIT Bombay",
+            "title": "Volunteer, Educational Outreach"
+        }
+    ],
+    "followers": 7383.0,
+    "connections": 500.0,
+    "current_company_company_id": "weareslick",
+    "current_company_name": "Slick",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Cyclex\",\"start_date\":\"Aug 2020\",\"end_date\":\"Nov 2020\",\"description\":\"Machine Design course project under Prof. Shantanu TripathiCyclex is a device that can store kinetic energy from a bike during downslopes, and use it to assist the rider while traversing difficult terrain or upslopes. In essence, it provides the features of a conventional e-bike without requiring any external energy whatsoever, thus being a very green solution.It can be retrofitted onto any regular bicycle, and significantly undercuts entry-level e-bikes in terms of cost while being superior in performance.https://youtu.be/ggDkIBrrtGkhttps://drive.google.com/file/d/1e1t7mYiDQdeVoWw5ikmWRLRZiJvyvqyg/viewSmart System- Assisted in defining the need for product, mission and vision of the team through extensive research on existing products / technologies- Ideated and deployed the entire smart system from scratch - Researched the options and technologies available for smart system for the product based on principles like Regenerative braking and object detection through images - Conducted detailed research on the use of different types of sensors in Smart system and their viability for our product- Simulated the entire smart system & assisted in its integration with other subsystems- Analyzed the usage scenarios for Smart system and ideated on extreme situations and how that will impact the product- Participated in video and presentation making - Presented a functional animation of Smart subsystem in the product explanation video\"},{\"title\":\"Production Factor Analysis\",\"start_date\":\"Mar 2019\",\"end_date\":\"May 2019\",\"description\":\"• Extracted the CPI & WPI data for beverage manufacturing companies to normalize the sales, capital & labour• Performed regressions to confirm that labour & capital are complimenting in nature, for this particular industry\"},{\"title\":\"Industrial Visit - H&R Johnson Tile Manufacturing Plant\",\"start_date\":\"Oct 2018\",\"end_date\":\"Oct 2018\",\"description\":\"• Visited & observed processes used to manufacture tiles in H&R Johnson Tiles Plant and Endura R&D Centre • Prepared and presented a presentation about the working of the manufacturing plant, in front of a crowd of 160+\"},{\"title\":\"Bluetooth Controlled Racing Bot\",\"start_date\":\"Sep 2017\",\"end_date\":\"Oct 2018\",\"description\":\"• Received the Best Design Award for introducing shock-ups and conveyor belts for the first time ever • Used ATTINY2313A (Integrated Circuit) for the bot to conquer all terrains and obstacles in the course\"},{\"title\":\"Hand Written Digits Recognizer\",\"start_date\":\"May 2018\",\"end_date\":\"Jul 2018\",\"description\":\"• Implemented a One-vs-All Logistic Regression for recognizing hand-written digits in the MNIST dataset • Trained neural networks using back-propagation algorithm and achieved an accuracy of 95.3%\"},{\"title\":\"Remote Controlled Plane\",\"start_date\":\"Oct 2017\",\"end_date\":\"Nov 2017\",\"description\":\"• Designed prototypes of a Remote Controlled Plane by optimizing wing load, wing shape & aerodynamic lift • Standardized the final model from scratch by putting together it’s mechanical and electrical subsystems • Controlled and tested a time bound successful flight of the final model in an open environment\"}]",
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "architnanda22",
+    "activity": [
+        {
+            "interaction": "Liked by Archit Nanda",
+            "link": "",
+            "title": "2022 shoot :) Bounce Infinity",
+            "img": "",
+            "id": "7274830504174960640"
+        },
+        {
+            "interaction": "Shared by Archit Nanda",
+            "link": "",
+            "title": "Hiring for HR & Talent Acquisition Specialist 🙌 And you get an iPhone 15 for a successful referral - just DM the profile on LinkedIn or…",
+            "img": "",
+            "id": "7272189994792828928"
+        },
+        {
+            "interaction": "Liked by Archit Nanda",
+            "link": "",
+            "title": "\"Is this TAM large enough?\" | \"What to build & What to buy?\" | \"Why is Cashflow > Ebitda\" | \"How to stop paying the Google tax\" Breaking down the…",
+            "img": "",
+            "id": "7270676231572865027"
+        },
+        {
+            "interaction": "Liked by Archit Nanda",
+            "link": "",
+            "title": "🚀 Exciting News! Medial Raises $500K in Pre-Series A Funding 🎉 We’re thrilled to announce that Medial has successfully raised $500,000 in our…",
+            "img": "",
+            "id": "7270329071346040833"
+        },
+        {
+            "interaction": "Liked by Archit Nanda",
+            "link": "",
+            "title": "We’re 2 months into running limited advertisements on Fizz, and the results have been nothing short of ELECTRIC. In a recent campaign, Sidney Marsh,…",
+            "img": "",
+            "id": "7269781435505369088"
+        },
+        {
+            "interaction": "Liked by Archit Nanda",
+            "link": "",
+            "title": "Join the Airlearn Social team.",
+            "img": "",
+            "id": "7269619677318787072"
+        },
+        {
+            "interaction": "Liked by Archit Nanda",
+            "link": "",
+            "title": "Medial just hit 100k users! We've been silently building the core of our product and improving all the metrics that matter. Great retention, good…",
+            "img": "",
+            "id": "7268250583344525312"
+        }
+    ],
+    "linkedin_num_id": 374154700.0,
+    "honors_and_awards": [
+        {
+            "title": "All India Rank - 724",
+            "publication": "IIT-JEE",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "KVPY Fellow",
+            "publication": "IISc Bangalore",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Qualified for IMOTC (International Mathematics Olympiad Training Camp)",
+            "publication": "HBCSE",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "NTSE Fellowship",
+            "publication": "NCERT, Govt. of India",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "First Position in North-West Region (RMO)",
+            "publication": "-",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

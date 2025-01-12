@@ -1,0 +1,64 @@
+{
+    "city": "Odisha, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "National Institute of Technology Rourkela",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Apr 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Azure Machine Learning Development: Part 1"
+        },
+        {
+            "meta": "Issued Apr 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Azure Machine Learning Development: Part 2"
+        },
+        {
+            "meta": "Issued Apr 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Generative AI vs. Traditional AI"
+        },
+        {
+            "meta": "Issued Apr 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Generative AI: Introduction to Large Language Models"
+        },
+        {
+            "meta": "Issued Apr 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Introduction to Prompt Engineering for Generative AI"
+        }
+    ],
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

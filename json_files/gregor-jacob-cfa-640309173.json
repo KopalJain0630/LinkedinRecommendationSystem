@@ -1,0 +1,330 @@
+{
+    "id": "gregor-jacob-cfa-640309173",
+    "name": "Gregor Jacob, CFA",
+    "city": "India",
+    "country_code": "IN",
+    "position": "Amex | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "American Express",
+        "company_id": "american-express",
+        "title": "Amex | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "American Express",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "American Express",
+                    "meta": "Feb 2024 - Present 11 months",
+                    "duration": "Feb 2024 - Present 11 months",
+                    "start_date": "Feb 2024",
+                    "end_date": "Present",
+                    "duration_short": "11 months",
+                    "title": "Assistant Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "American Express",
+                    "meta": "Jan 2022 - Feb 2024 2 years 2 months",
+                    "description": "Assigning Credit Limits for Consumer Cards",
+                    "duration": "Jan 2022 Feb 2024 2 years 2 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Feb 2024",
+                    "duration_short": "2 years 2 months",
+                    "title": "Analyst",
+                    "description_html": "Assigning Credit Limits for Consumer Cards <!---->"
+                }
+            ],
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Manager- Business Intelligence unit",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Reduced fraud in mobile and Internet banking",
+            "description_html": "Reduced fraud in mobile and Internet banking <!---->",
+            "duration": "Aug 2021 Jan 2022 6 months",
+            "start_date": "Aug 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "6 months",
+            "company": "Axis Bank",
+            "company_id": "axis-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "description": "Received PPO",
+            "description_html": "Received PPO <!---->",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Axis Bank",
+            "company_id": "axis-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sub Head -Tech Team",
+            "description": "Made the nation wide prelims website of spring fest using PHP with PDO and MVC architecture.Made the mobile version of the Spring Fest 2019 website using React ,Redux and Axios",
+            "description_html": "Made the nation wide prelims website of spring fest using PHP with PDO and MVC architecture.Made the mobile version of the Spring Fest 2019 website using React ,Redux and Axios <!---->",
+            "duration": "Jul 2018 Apr 2019 10 months",
+            "start_date": "Jul 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "10 months",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Nilay Pathak",
+            "about": "Application Engineer @ Oracle | Full Stack Application Development | IIT KGP",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Susmita Mazumdar",
+            "about": "Software Engineer Machine Learning @Google | SWE Intern @ Uber | IIT Kharagpur",
+            "location": "West Bengal, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Mandal",
+            "about": "Member of Technical Staff II @Adobe | Maths and Computing '21, IIT Kharagpur",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashutosh Sameer",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Kukreti",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Chanikya Vibhushan Bathini",
+            "about": "Lead Product Manager- Technical at Mastercard",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nirranjen Chandirasekaran",
+            "about": "Insights Analyst at Commonwealth Bank| Machine Learning | Data Science solutions | Analytics | Consulting",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sandeep Pattanayak",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Muthukumar M",
+            "about": "Project Manager, CSPO®, CSM®",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Dipak Kumar Tiwari",
+            "about": null,
+            "location": "Hyderabad"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: Spring Fest,Inter IIT Athletics and Weightlifting",
+            "description_html": "Activities and Societies: Spring Fest,Inter IIT Athletics and Weightlifting",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Saraswathi Vidyanikethan Public School - India",
+            "degree": "93.4%",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vidyodaya School - India",
+            "degree": "10.0 CGPA",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2024",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level 3"
+        },
+        {
+            "meta": "Issued Oct 2023",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) level 2"
+        },
+        {
+            "meta": "Issued Jan 2022See credential",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level 1"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2721.0,
+    "connections": 500.0,
+    "current_company_company_id": "american-express",
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "gregor-jacob-cfa-640309173",
+    "activity": [
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "We at Swish have raised $2M from Accel and leading industry operators to deliver delight in 10 minutes! Swish began with a bold goal - to deliver…",
+            "img": null,
+            "id": "7264504770810253312"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Excited to share that I have started a new position as Senior Data Analyst within Business Banking & Blueprint vertical at American Express, based in…",
+            "img": "",
+            "id": "7263975647142686720"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Today, American Express reported its third-quarter 2024 financial results, delivering strong EPS of $3.49 and its 10th consecutive quarter of record…",
+            "img": "",
+            "id": "7253007468480331777"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "We delivered our biggest order yesterday. We've been delivering 10-minute Swish delights for a while now, but yesterday we got to serve the amazing…",
+            "img": "",
+            "id": "7244223975445155840"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Each year on 9/11, we remember those we lost, including 11 American Express colleagues, by placing roses alongside their names engraved on the Eleven…",
+            "img": "",
+            "id": "7239633979123924995"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Colleagues from #TeamAmex India recently hit the road to personally thank our incredible merchant partners, both large and small, across the country.…",
+            "img": "",
+            "id": "7236650821868822529"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "𝟮𝟬𝟭𝟳: Failed to launch my first startup. 𝟮𝟬𝟭𝟴: Started my second startup but faced financial hardships. 𝟮𝟬𝟭𝟵: Had to shut down my…",
+            "img": "",
+            "id": "7232628595918061568"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Hi Linkedin family! Major career update: I’ve joined Indian Institute of Management Ahmedabad (IIM Ahmedabad) for their flagship PGP programme…",
+            "img": "",
+            "id": "7208846314535555074"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "We just opened one of our biggest employee campuses globally, in Bengaluru, India - which can accommodate ~8000 professionals. An ultramodern campus…",
+            "img": "",
+            "id": "7202179509901504512"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "I lost my father when I was very young. And every day was a struggle since then. In those days my only thought was \"How can I free my family from…",
+            "img": "",
+            "id": "7189134417573916673"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Hi everyone! It gives me immense pride and joy to share with you all that I have successfully cleared CFA Level-1. This is just a milestone in the…",
+            "img": "",
+            "id": "7181723439894773761"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Congratulations to Anna Marrs, Group President of Global Commercial Services and Credit & Fraud Risk, who was named to Barron's 2024 list of the 100…",
+            "img": "",
+            "id": "7181726392206655488"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Iterate AI got a Forbes mention, and I almost cried. Again! —————— My first 2 weeks in San Francisco were tough. So much so, that I called Saksham…",
+            "img": "",
+            "id": "7180594812666933248"
+        },
+        {
+            "interaction": "Liked by Gregor Jacob, CFA",
+            "link": "",
+            "title": "Every 2nd person in India is an engineer or a management graduate. Why then are we still struggling to build world-beating cos? Engineering/Mgmt…",
+            "img": "",
+            "id": "7179708428456452096"
+        }
+    ],
+    "linkedin_num_id": 690525264.0,
+    "honors_and_awards": [
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana Fellow",
+            "publication": "-",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "SX"
+        },
+        {
+            "title": "National Talent Search Examination Scholar",
+            "publication": "-",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

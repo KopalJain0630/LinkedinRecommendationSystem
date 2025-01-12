@@ -1,0 +1,82 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian School of Business",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2011",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "..",
+            "start_year": "2008",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "McKinsey & Company",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Hindustan Unilever Limited: TechSpark\",\"description\":\"National Finalist and Campus Winners( IIT Kharagpur), in the Pan IIT technical competition, TechSpark organised by Hindustan Unilever Limited. Conceptualized an end-to-end solution for reusing and/or disposing 28 billion sachets produced annually by HUL. The solution involved collection, segregation and transformation into reusable products generating large-scale skilled/unskilled employment in a country like India and reducing waste deposition thereby saving the environment.\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "ISB Dean List",
+            "publication": "-",
+            "date": "2020-05-01T00:00:00.000Z",
+            "description": "Awarded to top 10% of the batch (900+ students) based on academic excellence."
+        },
+        {
+            "title": "ISB Merit List",
+            "publication": "ISB",
+            "date": "2020-05-01T00:00:00.000Z",
+            "description": "Placed amongst top 10% of the batch (900 students) based on academic performance"
+        },
+        {
+            "title": "P&G Emerging Leader",
+            "publication": "P&G",
+            "date": "2019-05-01T00:00:00.000Z",
+            "description": "Placed among top 75 potential business leaders amongst top 8 BSchools"
+        },
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana (KVPY) Scholarship (Top 0.1% )",
+            "publication": "IISc Bangalore",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": "Awarded KVPY Scholarship, conferred to 150 students(Top 0.1 %) nationwide by DST, Govt of India"
+        },
+        {
+            "title": "Innovation in Science Pursued for Inspired Research (INSPIRE) Scholarship (Top 1% )",
+            "publication": "DST, Govt. of India",
+            "date": "2013-01-01T00:00:00.000Z",
+            "description": "Awarded by Govt. of India for distinctive performance (Top 1%) in the field of Sciences"
+        },
+        {
+            "title": "2nd International Mathematics Olympiad (Top 0.1%)",
+            "publication": "Science Olympiad Foundation",
+            "date": "2012-01-01T00:00:00.000Z",
+            "description": "Global Rank: 146 (Top 0.1%)"
+        },
+        {
+            "title": "Techspark - Pan India Product Development Competition",
+            "publication": "Hindustan Unilever Limited",
+            "date": null,
+            "description": "National Finalist (beating 200+ teams nationwide ) and Winner - IIT Kharagpur Chapter."
+        }
+    ]
+}

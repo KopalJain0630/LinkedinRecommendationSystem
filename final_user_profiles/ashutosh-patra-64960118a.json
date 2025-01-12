@@ -1,0 +1,132 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Technical Program Manager @Dozee",
+    "experience": [
+        {
+            "title": "Technical Program Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Dozee",
+            "company_id": "dozeehealth",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Cognizant",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Cognizant",
+                    "meta": "Oct 2022 - Sep 2023 1 year",
+                    "duration": "Oct 2022 Sep 2023 1 year",
+                    "start_date": "Oct 2022",
+                    "end_date": "Sep 2023",
+                    "duration_short": "1 year",
+                    "title": "Programmer Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Cognizant",
+                    "meta": "Oct 2021 - Oct 2022 1 year 1 month",
+                    "duration": "Oct 2021 Oct 2022 1 year 1 month",
+                    "start_date": "Oct 2021",
+                    "end_date": "Oct 2022",
+                    "duration_short": "1 year 1 month",
+                    "title": "Programmer Analyst Trainee",
+                    "description_html": null
+                }
+            ],
+            "company": "Cognizant",
+            "company_id": "cognizant",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product Management Fellowship",
+            "location": "India",
+            "description_html": null,
+            "duration": "Oct 2022 Dec 2022 3 months",
+            "start_date": "Oct 2022",
+            "end_date": "Dec 2022",
+            "duration_short": "3 months",
+            "company": "NextLeap",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Trainee",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Mar 2021 Jul 2021 5 months",
+            "start_date": "Mar 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "5 months",
+            "company": "MediaMint",
+            "company_id": "mediamint",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Institute of Techncal Education & Research",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "kendriya vidyalaya Bhubaneswar",
+            "degree": "pcm(computer science)",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2023Credential ID CF0C494C2C43See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL (Intermediate) Certificate"
+        },
+        {
+            "meta": "Issued Dec 2022See credential",
+            "subtitle": "NextLeap",
+            "title": "Product Manager Fellowship"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID A4D45B486038See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL (Basic) Certificate"
+        },
+        {
+            "subtitle": "Institute of Techncal Education & Research",
+            "title": "core Java"
+        },
+        {
+            "subtitle": "Udemy",
+            "title": "python "
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "LinkedIn",
+            "title": "pytorch essential training"
+        }
+    ],
+    "current_company_name": "Dozee",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

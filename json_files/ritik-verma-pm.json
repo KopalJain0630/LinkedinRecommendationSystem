@@ -1,0 +1,536 @@
+{
+    "id": "ritik-verma-pm",
+    "name": "Ritik Verma",
+    "city": "Bhopal, Madhya Pradesh, India",
+    "country_code": "IN",
+    "position": "Developer | Product | Research | Google DSC Lead'21 | Machine Learning Enthusiast",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Incture",
+        "company_id": "incture",
+        "title": "Developer | Product | Research | Google DSC Lead'21 | Machine Learning Enthusiast"
+    },
+    "experience": [
+        {
+            "title": "Incture",
+            "location": "Bhubaneswar, Odisha, India",
+            "description_html": null,
+            "duration": "1 year 4 months",
+            "positions": [
+                {
+                    "subtitle": "Incture",
+                    "meta": "Feb 2024 - Present 11 months",
+                    "duration": "Feb 2024 - Present 11 months",
+                    "start_date": "Feb 2024",
+                    "end_date": "Present",
+                    "duration_short": "11 months",
+                    "title": "Associate Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Incture",
+                    "meta": "Sep 2023 - Feb 2024 6 months",
+                    "duration": "Sep 2023 Feb 2024 6 months",
+                    "start_date": "Sep 2023",
+                    "end_date": "Feb 2024",
+                    "duration_short": "6 months",
+                    "title": "Data Analyst Trainee",
+                    "description_html": null
+                }
+            ],
+            "company": "Incture",
+            "company_id": "incture",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product Manager",
+            "location": "Arizona, United States",
+            "description_html": null,
+            "duration": "Jul 2023 Sep 2023 3 months",
+            "start_date": "Jul 2023",
+            "end_date": "Sep 2023",
+            "duration_short": "3 months",
+            "company": "Matt Young Media",
+            "company_id": "matt-young-media",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Research",
+            "description_html": null,
+            "duration": "Jun 2022 Aug 2022 3 months",
+            "start_date": "Jun 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "3 months",
+            "company": "NVIDIA",
+            "company_id": "nvidia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Manager",
+            "description": "• Led a team of product designers, developers, Cloud Practitioners, and marketers, and collaborated daily with cross-functional teams to identify, design, and test the Labs.• Optimized and Managed website to gather Users• Worked on Cloud Functions and developed content including Short Videos, Blogs, Articles, Talks, and certification courses for users after scheduling meets using Agile.",
+            "description_html": "• Led a team of product designers, developers, Cloud Practitioners, and marketers, and collaborated daily with cross-functional teams to identify, design, and test the Labs.• Optimized and Managed website to gather Users• Worked on Cloud Functions and developed content including Short Videos, Blogs, Articles, Talks, and certification courses for users after scheduling meets using Agile. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "QwikSkills",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Developer Student Clubs",
+            "location": "JUET, India",
+            "description_html": null,
+            "duration": "3 months",
+            "positions": [
+                {
+                    "subtitle": "Developer Student Clubs",
+                    "meta": "Jul 2021 - Jun 2022 1 year",
+                    "description": "• Managing and hosting workshops that help students learn new skills and fill in knowledge gaps• Provides a community for local tech enthusiasts and students to grow, solve community problems, and socialize",
+                    "duration": "Jul 2021 Jun 2022 1 year",
+                    "start_date": "Jul 2021",
+                    "end_date": "Jun 2022",
+                    "duration_short": "1 year",
+                    "title": "Google DSC Lead",
+                    "description_html": "• Managing and hosting workshops that help students learn new skills and fill in knowledge gaps<br>• Provides a community for local tech enthusiasts and students to grow, solve community problems, and socialize <!---->"
+                },
+                {
+                    "subtitle": "Google Developer Student Clubs",
+                    "meta": "Apr 2022 - May 2022 2 months",
+                    "duration": "Apr 2022 May 2022 2 months",
+                    "start_date": "Apr 2022",
+                    "end_date": "May 2022",
+                    "duration_short": "2 months",
+                    "title": "Machine Learning Facilitator",
+                    "description_html": null
+                }
+            ],
+            "company": "Developer Student Clubs",
+            "company_id": "developerstudents",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "The Institution of Electronics and Telecommunication Engineers (IETE)",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "The Institution of Electronics and Telecommunication Engineers (IETE)",
+                    "meta": "Aug 2021 - May 2022 10 months",
+                    "duration": "Aug 2021 May 2022 10 months",
+                    "start_date": "Aug 2021",
+                    "end_date": "May 2022",
+                    "duration_short": "10 months",
+                    "title": "Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "The Institution of Electronics and Telecommunication Engineers (IETE)",
+                    "meta": "Aug 2019 - Aug 2021 2 years 1 month",
+                    "duration": "Aug 2019 Aug 2021 2 years 1 month",
+                    "start_date": "Aug 2019",
+                    "end_date": "Aug 2021",
+                    "duration_short": "2 years 1 month",
+                    "title": "Technocreative Volunteer",
+                    "description_html": null
+                }
+            ],
+            "company": "The Institution of Electronics and Telecommunication Engineers (IETE)",
+            "company_id": "iete-newdelhi",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "GirlScript Foundation",
+            "location": "Madhya Pradesh, India",
+            "description_html": null,
+            "duration": "2 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "GirlScript Foundation",
+                    "meta": "Sep 2021 - Apr 2022 8 months",
+                    "duration": "Sep 2021 Apr 2022 8 months",
+                    "start_date": "Sep 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "8 months",
+                    "title": "Regional Head - MP",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "GirlScript Foundation",
+                    "meta": "Apr 2020 - Aug 2021 1 year 5 months",
+                    "duration": "Apr 2020 Aug 2021 1 year 5 months",
+                    "start_date": "Apr 2020",
+                    "end_date": "Aug 2021",
+                    "duration_short": "1 year 5 months",
+                    "title": "Chapter Leader - Girlscript Guna",
+                    "description_html": null
+                }
+            ],
+            "company": "GirlScript Foundation",
+            "company_id": "girlscript-foundation",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Mentor - Machine Learning",
+            "description_html": null,
+            "duration": "Sep 2021 Dec 2021 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "4 months",
+            "company": "GirlScript Winter of Contributing",
+            "company_id": "girlscript-winter-of-contributing",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Lead Data Science Instructor",
+            "description": "Berkeley Coding Academy (BCA) teaches Python, Data Science, Machine Learning, and AI to teens and adults from around the world.",
+            "description_html": "Berkeley Coding Academy (BCA) teaches Python, Data Science, Machine Learning, and AI to teens and adults from around the world. <!---->",
+            "duration": "Jun 2021 Aug 2021 3 months",
+            "start_date": "Jun 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "3 months",
+            "company": "Berkeley Coding Academy",
+            "company_id": "berkeleycodingacademy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "description": "Gurugram Police in pursuit of excellence for its Cyber Crime Detection Unit and covered area under internship like:Social Media Crimes, Email Crime, Online Frauds, Website hacking, Mobile Crimes and their securities.",
+            "description_html": "Gurugram Police in pursuit of excellence for its Cyber Crime Detection Unit and covered area under internship like:Social Media Crimes, Email Crime, Online Frauds, Website hacking, Mobile Crimes and their securities. <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Gurugram Police GPCSSI 2021",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern - LUSIP",
+            "description": "Stock price prediction using Deep Learning",
+            "description_html": "Stock price prediction using Deep Learning <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "The LNM Institute of Information Technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "JUET representative",
+            "location": "United States",
+            "description": "Selected as a top representative across the world and in India. Represented how Tech initiatives work in India and MENA region.",
+            "description_html": "Selected as a top representative across the world and in India. Represented how Tech initiatives work in India and MENA region. <!---->",
+            "duration": "Sep 2020 Nov 2020 3 months",
+            "start_date": "Sep 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "3 months",
+            "company": "MIT Arab Conference",
+            "company_id": "mitscitech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Writer",
+            "location": "New Delhi, Delhi",
+            "description": "Utilized exceptional writing, editing, and proofreading skills to produce engaging and errorfree content.",
+            "description_html": "Utilized exceptional writing, editing, and proofreading skills to produce engaging and errorfree content.  <!---->",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Webgross",
+            "company_id": "webgross",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rupesh Garhwal",
+            "about": "Engineering @ Bajaj Finserv Health | Backend | ICPC 2020 Regionalist | Knight @ Leetcode",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Parag Patil",
+            "about": "Software Engineer at Microsoft",
+            "location": "Kolhapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Anjali Patle",
+            "about": "SWE 2 @Microsoft | Former SDE Intern @Amazon | GHC'21 Scholar | B. Tech. CSE '22 @NIT Raipur",
+            "location": "Raipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Samyak Jain",
+            "about": "SDE 1 at Navi | Golang | Springboot | Java | Kotlin | RDBMS | Kafka | Backend developer",
+            "location": "Dharamshala"
+        },
+        {
+            "profile_link": "",
+            "name": "Shrey Singh",
+            "about": "Specialist Programmer at Infosys | React | JavaScript | jQuery",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Bhardwaj",
+            "about": "SDE @Amazon • ex Vymo • DUCS",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aadi Deshpande",
+            "about": "UChicago MSFM 2025 Candidate | Seeking Summer 2025 Internship in Quantitative Finance",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Lahari Challa",
+            "about": "DevOps Software Engineering Intern @Align Technology | Natural Language Processing | Machine Learning | AWS Cloud Computing | MSCS @Arizona State University",
+            "location": "Tempe, AZ"
+        },
+        {
+            "profile_link": "",
+            "name": "Sinny Sah",
+            "about": "Project Manager at Givni Pvt Ltd",
+            "location": "Bihar, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Pavini Jain",
+            "about": "Associate Technical Consultant @Oracle FSS",
+            "location": "Uttar Pradesh, India"
+        }
+    ],
+    "educations_details": "Jaypee University of Engineering and Technology",
+    "education": [
+        {
+            "title": "Jaypee University of Engineering and Technology",
+            "degree": "Bachelor of Technology",
+            "field": "Computer Science and Engineering ( specialization in AI and ML)",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 6.0,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023Credential ID DB4CCL5WZF7MSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Software Product Management"
+        },
+        {
+            "meta": "Issued Jun 2023Credential ID 3859FC9VEPLPSee credential",
+            "subtitle": "Coursera",
+            "title": "Software Processes and Agile Practices"
+        },
+        {
+            "meta": "Issued May 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Managing Project Stakeholders"
+        },
+        {
+            "meta": "Issued Dec 2022Credential ID GWTM8MB7VY3USee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Agile Development and Scrum (with Honors)"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID 140143705",
+            "subtitle": "Management & Strategy Institute",
+            "title": "Lean Six Sigma White Belt Certification (LGBC)"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID 140143332",
+            "subtitle": "Management & Strategy Institute",
+            "title": "Project Management Essentials Certified (PMEC)"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID THAGNvArnw",
+            "subtitle": "The Council for Six Sigma Certification (CSSC)",
+            "title": "Six Sigma White Belt Certification"
+        },
+        {
+            "meta": "Issued Nov 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Building Deep Learning Applications with Keras 2.0"
+        },
+        {
+            "meta": "Issued Aug 2021",
+            "subtitle": "Digital India Programme",
+            "title": "AI For All"
+        },
+        {
+            "meta": "Issued Apr 2021Credential ID 5Qn0U21M2F79901v68See credential",
+            "subtitle": "GUVI Geek Networks, IITM Research Park",
+            "title": "Build a Face Recognition Application"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID JSV99MKK9PTKSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID Afji4X68U53kNFMy8vYW7RHC53FC",
+            "subtitle": "LinkedIn",
+            "title": "SQL Essential Training"
+        },
+        {
+            "meta": "Issued Apr 2020",
+            "subtitle": "World Health Organization",
+            "title": "Infection Prevention and Control(IPC) for Novel Coronavirus(COVID-19)"
+        }
+    ],
+    "recommendations": [
+        "Tushar Nath “I mentored Ritik during his product management internship at MYM. He's quick to understand new concepts and good at turning ideas into plans. Ritik has a solid grasp of user needs and how they fit with business goals. He communicates well with different teams and is always eager to learn. What stood out was how he took feedback on board and used it to improve his work. For a newcomer to product management, Ritik showed promise. He's hardworking and works well in a team. I think he'd be a good addition to any product team looking for fresh talent.”",
+        "Imam Dahir Dan-Azumi “I worked briefly with Ritik, and despite the limited time, I did enjoyed the experience. I am looking forward to witnessing the remarkable achievements he is bound to achieve in the future.”"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "May 2020 - Jan 2021 · 9 months",
+            "duration_short": "9 months",
+            "end_date": "Jan 2021",
+            "start_date": "May 2020",
+            "subtitle": "Coding Ninjas",
+            "title": "Campus Ambassador"
+        },
+        {
+            "cause": "Health",
+            "duration": "Jun 2020 - Present · 4 years 7 months",
+            "duration_short": "4 years 7 months",
+            "end_date": "Present",
+            "start_date": "Jun 2020",
+            "subtitle": "ActionAid India",
+            "title": "Volunteer"
+        },
+        {
+            "cause": "Arts and Culture",
+            "duration": "Sep 2019 - May 2020 · 9 months",
+            "duration_short": "9 months",
+            "end_date": "May 2020",
+            "start_date": "Sep 2019",
+            "subtitle": "JUET Youth Club, JYC",
+            "title": "Music Volunteer"
+        },
+        {
+            "cause": "Education",
+            "duration": "Apr 2020 - Sep 2020 · 6 months",
+            "duration_short": "6 months",
+            "end_date": "Sep 2020",
+            "start_date": "Apr 2020",
+            "subtitle": "Coding Elements",
+            "title": "Campus Ambassador"
+        },
+        {
+            "cause": "Education",
+            "duration": "Mar 2020 - May 2020 · 3 months",
+            "duration_short": "3 months",
+            "end_date": "May 2020",
+            "start_date": "Mar 2020",
+            "subtitle": "National Engineering Olympiad",
+            "title": "Campus Coordinator"
+        },
+        {
+            "cause": "Arts and Culture",
+            "duration": "Sep 2019 - Present · 5 years 4 months",
+            "duration_short": "5 years 4 months",
+            "end_date": "Present",
+            "start_date": "Sep 2019",
+            "subtitle": "JUET Youth Club, JYC",
+            "title": "Fashion Wing(CCC) Volunteer"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Aug 2019 - May 2020 · 10 months",
+            "duration_short": "10 months",
+            "end_date": "May 2020",
+            "start_date": "Aug 2019",
+            "subtitle": "IETE",
+            "title": "Technocreative Volunteer @ISF JUET"
+        },
+        {
+            "cause": "Education",
+            "duration": "Jun 2020 - Sep 2020 · 4 months",
+            "duration_short": "4 months",
+            "end_date": "Sep 2020",
+            "start_date": "Jun 2020",
+            "subtitle": "CipherSchools",
+            "title": "Campus Ambassador"
+        },
+        {
+            "cause": "Education",
+            "duration": "Nov 2021 - Present · 3 years 2 months",
+            "duration_short": "3 years 2 months",
+            "end_date": "Present",
+            "start_date": "Nov 2021",
+            "subtitle": "Jaypee University of Engineering and Technology",
+            "title": "Creative Head (JUET Alumni Association)"
+        }
+    ],
+    "followers": 3292.0,
+    "connections": 500.0,
+    "current_company_company_id": "incture",
+    "current_company_name": "Incture",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bhopal",
+    "linkedin_id": "ritik-verma-pm",
+    "activity": [
+        {
+            "interaction": "Liked by Ritik Verma",
+            "link": "",
+            "title": "How to Sound Like an Alpha at Work! Visit #ChetChat YouTube Channel to Learn English in an Easy and Interesting Way ✅ #shortsvideos #reels…",
+            "img": "",
+            "id": "7238826083976966145"
+        },
+        {
+            "interaction": "Liked by Ritik Verma",
+            "link": "",
+            "title": "🎉 Exciting Day at JUET CSE Club Orientation 🚀 Today, I had the incredible opportunity to attend the orientation of the CSE club at my college…",
+            "img": "",
+            "id": "7105951734534946816"
+        },
+        {
+            "interaction": "Liked by Ritik Verma",
+            "link": "",
+            "title": "When you're talking to google in 2080? Person: Hey Google, how's it going? Google: Oh, I'm doing well, thank you for asking. I have all of your…",
+            "img": "",
+            "id": "7007052551703441408"
+        },
+        {
+            "interaction": "Liked by Ritik Verma",
+            "link": "",
+            "title": "Hey #connections Finally completed my journey as an Open Source 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 at Hacktoberfest '22 organized by DigitalOcean, Appwrite…",
+            "img": "",
+            "id": "6992110747702976512"
+        }
+    ],
+    "linkedin_num_id": 753172373.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": "Oliver Wyman | IIM Ahmedabad",
+    "experience": [
+        {
+            "title": "Oliver Wyman",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "Oliver Wyman",
+                    "meta": "May 2024 - Present 8 months",
+                    "duration": "May 2024 - Present 8 months",
+                    "start_date": "May 2024",
+                    "end_date": "Present",
+                    "duration_short": "8 months",
+                    "title": "Senior Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Oliver Wyman",
+                    "meta": "Jan 2024 - Apr 2024 4 months",
+                    "duration": "Jan 2024 Apr 2024 4 months",
+                    "start_date": "Jan 2024",
+                    "end_date": "Apr 2024",
+                    "duration_short": "4 months",
+                    "title": "Senior Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Oliver Wyman",
+                    "meta": "Jun 2022 - Dec 2023 1 year 7 months",
+                    "duration": "Jun 2022 Dec 2023 1 year 7 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Dec 2023",
+                    "duration_short": "1 year 7 months",
+                    "title": "Consultant",
+                    "description_html": null
+                }
+            ],
+            "company": "Oliver Wyman",
+            "company_id": "oliver-wyman",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Intern, CorpFin",
+            "description_html": null,
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Vedanta Resources Limited",
+            "company_id": "vedanta-group",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Internship Trainee",
+            "location": "Kochi, Kerala, India",
+            "description_html": null,
+            "duration": "Apr 2018 May 2018 2 months",
+            "start_date": "Apr 2018",
+            "end_date": "May 2018",
+            "duration_short": "2 months",
+            "company": "Kochi Metro Rail Ltd",
+            "company_id": "metrorailkochi",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Management Ahmedabad",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "National Institute of Technology Calicut",
+            "degree": "Bachelor of Technology",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": "Gold Medalist, 2020 batch",
+            "description_html": "Gold Medalist, 2020 batch <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya (JNV) Ernakulam",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Oliver Wyman",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Gold Medalist",
+            "publication": "National Institute of Technology Calicut",
+            "date": "2020-11-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Samsung Star Scholar",
+            "publication": "Samsung India Limited",
+            "date": "2020-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "PM Fellow",
+            "publication": "PM Foundation, Cochin",
+            "date": "2014-12-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

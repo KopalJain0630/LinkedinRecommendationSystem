@@ -1,0 +1,100 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Science",
+            "url": "",
+            "start_year": "2014-08",
+            "end_year": "2021-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2010-08",
+            "end_year": "2013-07",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "(),",
+            "start_year": "2001-08",
+            "end_year": "2005-07",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"ANN & Deep Learning\"},{\"subtitle\":\"-\",\"title\":\"Advanced Analytics\"},{\"subtitle\":\"-\",\"title\":\"Applied Statistics\"},{\"subtitle\":\"-\",\"title\":\"Data Mining\"},{\"subtitle\":\"-\",\"title\":\"Decision Models\"},{\"subtitle\":\"-\",\"title\":\"Foundations of Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Principles and Applications of Remote Sensing\"},{\"subtitle\":\"-\",\"title\":\"Research Methodologies\"},{\"subtitle\":\"-\",\"title\":\"Technology Management\"},{\"subtitle\":\"-\",\"title\":\"Time Series Analysis and Forecasting\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Apr 2022See credential",
+            "subtitle": "NASSCOM",
+            "title": "NASSCOM DeepTech Club - Startup Badge"
+        },
+        {
+            "meta": "Issued Apr 2020",
+            "subtitle": "Esri",
+            "title": "Spatial Data Science: The New Frontier in Analytics"
+        },
+        {
+            "meta": "Issued Jul 2019",
+            "subtitle": "Gdańsk University of Technology",
+            "title": "International Summer School on Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2019",
+            "subtitle": "Eurac Research",
+            "title": "SPLIT REMOTE SENSING® PROFESSIONAL SUMMER SCHOOL 2019"
+        },
+        {
+            "meta": "Issued Dec 2015",
+            "subtitle": "Toyohashi University of Technology",
+            "title": "Sakura Exchange Program in Science"
+        },
+        {
+            "meta": "Issued Jun 2015",
+            "subtitle": "Microsoft",
+            "title": "The 2015 Summer School on Machine Learning"
+        },
+        {
+            "meta": "Issued Nov 2013",
+            "subtitle": "GoodAgile",
+            "title": "Agile Project Management"
+        },
+        {
+            "meta": "Issued Oct 2013",
+            "subtitle": "Udacity",
+            "title": "How To Build a Startup - The Lean LaunchPad"
+        },
+        {
+            "meta": "Issued Jun 2012",
+            "subtitle": "Asian Institute of Technology",
+            "title": "International Immersion Program"
+        },
+        {
+            "meta": "Issued Feb 2012",
+            "subtitle": "Operational Excellence , Lexmark International",
+            "title": "Six Sigma Black Belt"
+        },
+        {
+            "meta": "Issued Jan 2012",
+            "subtitle": "Minitab",
+            "title": "Quality Trainer"
+        },
+        {
+            "meta": "Issued Aug 2013Expires Aug 2015Credential ID 000274398",
+            "subtitle": "Scrum Alliance",
+            "title": "SCRUM Master Certification"
+        }
+    ],
+    "current_company_name": "NeuroPixel.AI Labs",
+    "publications": "[{\"title\":\"Development of new Index based supervised algorithm for separation of Built-Up and River Sand pixels from Landsat7 imagery: Comparison of performance with SVM\",\"subtitle\":\"IEEE\",\"date\":\"July 17, 2022\"},{\"title\":\"A comprehensive study to understand the relationship of urbanization and population density with GRACE ΔTWS for selected study regions in India during 2003-2017\",\"subtitle\":\"EarthArXiv\",\"date\":\"October 24, 2020\"},{\"title\":\"Development of New Index-Based Methodology for Extraction of Built-Up Area From Landsat7 Imagery: Comparison of Performance With SVM, ANN, and Existing Indices\",\"subtitle\":\"IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 2, pp. 1592-1603, Feb. 2021\"},{\"title\":\"Prediction of GWL with the help of GRACE TWS for unevenly spaced time series data in India : Analysis of comparative performances of SVR, ANN and LRM\",\"subtitle\":\"Journal of Hydrology,Volume 558, March 2018, Pages 647–658\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

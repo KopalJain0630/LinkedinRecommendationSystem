@@ -1,0 +1,38 @@
+{
+    "city": "Seattle, Washington, United States",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Credential ID Candidate ID: 8702483",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA)"
+        },
+        {
+            "subtitle": "Sanjay Saraf Educational Institute Pvt Ltd (SSEI)",
+            "title": "Financial modelling"
+        },
+        {
+            "subtitle": "Sanjay Saraf Educational Institute Pvt Ltd (SSEI)",
+            "title": "Microsoft Excel"
+        },
+        {
+            "subtitle": "International Agency for Research on Cancer / World Health Organization",
+            "title": "RIO+24 program Volunteer and Merit Holder"
+        }
+    ],
+    "current_company_name": "Signzy",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"A study on the Pricing and Valuation of Derivative Instruments\",\"start_date\":\"Feb 2020\",\"end_date\":\"Apr 2020\"}]",
+    "honors_and_awards": [
+        {
+            "title": "INSPIRE AWARDS",
+            "publication": "Government of India",
+            "date": null,
+            "description": null
+        }
+    ]
+}

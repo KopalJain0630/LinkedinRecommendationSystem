@@ -1,0 +1,122 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": ".",
+    "experience": [
+        {
+            "title": "Product Manager",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Consumer Finance | BNPL | Smart EMI | Digital Strategy | Data | Growth",
+            "description_html": "Consumer Finance | BNPL | Smart EMI | Digital Strategy | Data | Growth <!---->",
+            "duration": "Jan 2023 - Present 2 years",
+            "start_date": "Jan 2023",
+            "end_date": "Present",
+            "duration_short": "2 years",
+            "company": "Kotak Mahindra Bank",
+            "company_id": "kotak-mahindra-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Product Manager",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Securities | MarkTech | CleverTap",
+            "description_html": "Securities | MarkTech | CleverTap <!---->",
+            "duration": "Aug 2021 Jan 2023 1 year 6 months",
+            "start_date": "Aug 2021",
+            "end_date": "Jan 2023",
+            "duration_short": "1 year 6 months",
+            "company": "IIFL (India Infoline Group)",
+            "company_id": "iifl",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Sep 2018 Apr 2019 8 months",
+            "start_date": "Sep 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "8 months",
+            "company": "Vidyasagar Hall of Residence, IIT Kharagpur",
+            "company_id": "vidyasagar-hall-of-residence",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "location": "Kharagpur",
+            "description_html": null,
+            "duration": "2017 2018 1 year",
+            "start_date": "2017",
+            "end_date": "2018",
+            "duration_short": "1 year",
+            "company": "American Association of Petroleum Geologists (AAPG)",
+            "company_id": "american-association-of-petroleum-geologists-aapg",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Assistant Publicity Manager",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Aug 2016 Apr 2017 9 months",
+            "start_date": "Aug 2016",
+            "end_date": "Apr 2017",
+            "duration_short": "9 months",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "CSRL Super 30",
+            "degree": "JEE Coaching",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "RSAcademy",
+            "degree": "12th grade",
+            "field": "8GPA",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya Jatiya Bidyalaya",
+            "degree": "10th Board",
+            "field": "8GPA",
+            "start_year": "2007",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Engineering Drawing\"},{\"subtitle\":\"-\",\"title\":\"HS Economics\"},{\"subtitle\":\"-\",\"title\":\"Petroleum Economics\"},{\"subtitle\":\"-\",\"title\":\"Product Development\"},{\"subtitle\":\"-\",\"title\":\"Programing and Data structure\"},{\"subtitle\":\"-\",\"title\":\"programing data structures\"},{\"subtitle\":\"-\",\"title\":\"seismic methods of prospecting\"},{\"subtitle\":\"-\",\"title\":\"seismology\"}]",
+    "certifications": null,
+    "current_company_name": "Kotak Mahindra Bank",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

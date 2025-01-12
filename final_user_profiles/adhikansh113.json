@@ -1,0 +1,114 @@
+{
+    "city": "Midnapore Sadar, India",
+    "position": "SDE II @ Amazon | Computer Science and Engineering, IIT Kharagpur '22",
+    "experience": [
+        {
+            "title": "Amazon",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Amazon",
+                    "meta": "Jun 2024 - Present 7 months",
+                    "duration": "Jun 2024 - Present 7 months",
+                    "start_date": "Jun 2024",
+                    "end_date": "Present",
+                    "duration_short": "7 months",
+                    "title": "Software Development Engineer II",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Amazon",
+                    "meta": "Jul 2022 - Jun 2024 2 years",
+                    "duration": "Jul 2022 Jun 2024 2 years",
+                    "start_date": "Jul 2022",
+                    "end_date": "Jun 2024",
+                    "duration_short": "2 years",
+                    "title": "Software Development Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Worked on project Sirius to match and evaluate the daily crawled attributes from Amazon's competitors’ websites.• Designed an AWS CloudFormation infrastructure to build an automated profile to process daily crawled attributes.• Developed Lambda functions to automatically parse listings from daily crawl and push into Simple Queue Service• Created a workflow to authenticate matching of competitor’s product listing to corresponding Amazon product.",
+            "description_html": "• Worked on project Sirius to match and evaluate the daily crawled attributes from Amazon's competitors’ websites.• Designed an AWS CloudFormation infrastructure to build an automated profile to process daily crawled attributes.• Developed Lambda functions to automatically parse listings from daily crawl and push into Simple Queue Service• Created a workflow to authenticate matching of competitor’s product listing to corresponding Amazon product. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Toronto, Ontario, Canada",
+            "description": "• Worked on providing digital marketing Campaign insights based on the data provided by a medium sized eCommerce client.• Allocated budgets to optimize cross-campaign marketing expenditure by Attribution modeling using LSTM with attention.• Ran budget simulations to compare ROI wrt Last Touch Attribution and Logistic Regression baselines.",
+            "description_html": "• Worked on providing digital marketing Campaign insights based on the data provided by a medium sized eCommerce client.• Allocated budgets to optimize cross-campaign marketing expenditure by Attribution modeling using LSTM with attention.• Ran budget simulations to compare ROI wrt Last Touch Attribution and Logistic Regression baselines. <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "PredictivEye Inc.",
+            "company_id": "predictiveye",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Bengaluru Area, India",
+            "description": "• Worked on the product mooID , which involved using computer vision for identifying cattle.• Developed a siamese network for generating embeddings to perform identification using muzzle prints for dataset consisting of 152 cattle classes.",
+            "description_html": "• Worked on the product mooID , which involved using computer vision for identifying cattle.• Developed a siamese network for generating embeddings to perform identification using muzzle prints for dataset consisting of 152 cattle classes. <!---->",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Stellapps Technologies Private Limited",
+            "company_id": "stellapps-technologies-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Sub Head, Web Team",
+            "location": "Kharagpur Area, India",
+            "description": "• Designed the website for the Nationwide Preliminary Rounds for Spring Fest 2019 using ReactJS library and HTML frontend which saw the maximum participation from 12 cities.• Developed the merchandise website which solely responsible for selling the official merchandise of Spring Fest 2019 using PHP & MVC framework.• Developed the sponsors website using PHP, Javascript and HTML.",
+            "description_html": "• Designed the website for the Nationwide Preliminary Rounds for Spring Fest 2019 using ReactJS library and HTML frontend which saw the maximum participation from 12 cities.• Developed the merchandise website which solely responsible for selling the official merchandise of Spring Fest 2019 using PHP &amp; MVC framework.• Developed the sponsors website using PHP, Javascript and HTML. <!---->",
+            "duration": "Jun 2018 Feb 2019 9 months",
+            "start_date": "Jun 2018",
+            "end_date": "Feb 2019",
+            "duration_short": "9 months",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": "Activities and Societies: Quizzing, CodeClub, Open Source Development",
+            "description_html": "Activities and Societies: Quizzing, CodeClub, Open Source Development",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms-I\"},{\"subtitle\":\"-\",\"title\":\"Algorithms-II\"},{\"subtitle\":\"-\",\"title\":\"Compilers\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Computer Organization and Architecture\"},{\"subtitle\":\"-\",\"title\":\"Cryptography and Network Security\"},{\"subtitle\":\"-\",\"title\":\"Distributed Systems\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Systems\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"},{\"subtitle\":\"-\",\"title\":\"Theory of Computation\"}]",
+    "certifications": null,
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Random Forests inspired RNN\",\"start_date\":\"May 2019\",\"end_date\":\"Present\",\"description\":\"● Ongoing project under Prof Jial Hoque Paik to improve the performance of LSTMs by decreasing the complexity of forward and backward propagation and the possible overfitting seen in case of smaller datasets.● Working to combine RNN’s ability to use sequential information with ensemble based prediction seen in Random Forests.\"},{\"title\":\"Airline Management System\",\"start_date\":\"Feb 2019\",\"end_date\":\"Apr 2019\",\"description\":\"● Developed a complete Java applet for the automation of the Airline Booking System, with buying to updating flight details and flight capacity integrated in the application.● Used MySQL for database management, implemented the frontend using Java, and backend using JDBC.\"},{\"title\":\"Search Engine for Legal Documents\",\"start_date\":\"Feb 2019\",\"end_date\":\"Apr 2019\",\"description\":\"● Web application for handling law related queries for Inter Hall Open Soft competition, using Flask for backend, MySQL as database framework.● Developed an NLP based search engine for browsing past cases useful for both lawyers and common people. Performed document indexing using whoosh and filtered results using BM25 algorithm.● Awarded Gold for the application, offered a research project under Dr. Saptarshi Ghosh for the same.\"}]",
+    "honors_and_awards": null
+}

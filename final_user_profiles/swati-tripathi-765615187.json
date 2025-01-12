@@ -1,0 +1,89 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer @ Palo Alto Networks",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "Palo Alto Networks",
+            "company_id": "palo-alto-networks",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Programmer Analyst Trainee",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jan 2022 Apr 2022 4 months",
+            "start_date": "Jan 2022",
+            "end_date": "Apr 2022",
+            "duration_short": "4 months",
+            "company": "Cognizant",
+            "company_id": "cognizant",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Internship",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "In this internship, I worked as a software intern, where my responsibility included developing an e-learning platform using ReactJS. Apart from it I also learnt the skill of wireframing on Figma.",
+            "description_html": "In this internship, I worked as a software intern, where my responsibility included developing an e-learning platform using ReactJS. Apart from it I also learnt the skill of wireframing on Figma. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Marksman Technologies Pvt. Ltd.",
+            "company_id": "marksman-technologies-pvt.-ltd.",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Development and Designing Intern",
+            "description_html": null,
+            "duration": "Mar 2021 Apr 2021 2 months",
+            "start_date": "Mar 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "2 months",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Amity University, Gautam Budh Nagar",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "CSE",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: President of Data Science Club, Vice President of STROKES (Art Club), Member of AMIMUN (Amity International Model United Nations Club), DSC Amity, Elite Networking Club, Institution Innovation Council,",
+            "description_html": "Activities and Societies: President of Data Science Club, Vice President of STROKES (Art Club), Member of AMIMUN (Amity International Model United Nations Club), DSC Amity, Elite Networking Club, Institution Innovation Council,",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Chiranjiv Bharti School - India",
+            "degree": "Intermediate",
+            "field": "Xth: (10CGPA), XIIth: (95.6%)",
+            "url": "",
+            "start_year": "2004",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Palo Alto Networks",
+    "publications": "[{\"title\":\"Telemedicine: An application of cloud computing\",\"subtitle\":\"Recent Trends in Communication and Electronics\",\"date\":\"June 30, 2021\",\"description\":\"Cloud Computing is part of the ongoing digital revolution and has found its application in many fields. One such domain is Telemedicine in Healthcare. Providing instant and quality medical services at any time irrespective of patient’s location to everyone is the aim of any healthcare industry. To realize this goal telemedicine is playing a crucial role. But there are many challenges that continue to impede the growth of Telehealth services. Moreover, Telemedicine is not a new concept but it has only recently seen to gain popularity with improvement in the IT industry and adoption of cloud computing. It is not wrong to say cloud computing is the key for Telemedicine to effectively get utilized. This article briefly presents what is Telemedicine and how Cloud Computing has impacted it to boost its popularity. The importance, benefits, challenges and statistics of people adopting the services of Telemedicine is also …\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Sankhya | Mental Maths Quiz Website\",\"start_date\":\"Mar 2021\",\"end_date\":\"Mar 2021\",\"description\":\"It is a mental math quiz website made using HTML, CSS and JavaScript. Here, the task is simple that when a user presses the start button then he/she needs to solve as many questions as possible within the given time limit.\"},{\"title\":\"Corona Catch | Game Written in Python\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"This is a game in which you have to shoot as many Coronavirus as possible that are falling on the ground before they touch the grey line on the screen. It is written in Python using Pygame module.\"},{\"title\":\"Amivents | College Club Information | Android Application\",\"start_date\":\"Apr 2020\",\"end_date\":\"May 2020\",\"description\":\"It is an android application written in Java that users can use to view information about any club in their college, find its social handle, contact address, or events the club is hosting or has hosted.\"}]",
+    "honors_and_awards": null
+}

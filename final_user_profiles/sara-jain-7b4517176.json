@@ -1,0 +1,222 @@
+{
+    "id": "sara-jain-7b4517176",
+    "name": "Sara Jain",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "Software Engineer @ Google | IIT KGP'22",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Google",
+        "company_id": "google",
+        "title": "Software Engineer @ Google | IIT KGP'22"
+    },
+    "experience": [
+        {
+            "title": "Google",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "Google",
+                    "meta": "Nov 2024 - Present 2 months",
+                    "duration": "Nov 2024 - Present 2 months",
+                    "start_date": "Nov 2024",
+                    "end_date": "Present",
+                    "duration_short": "2 months",
+                    "title": "Software Engineer III",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Google",
+                    "meta": "Jul 2022 - Nov 2024 2 years 5 months",
+                    "duration": "Jul 2022 Nov 2024 2 years 5 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Nov 2024",
+                    "duration_short": "2 years 5 months",
+                    "title": "Software Engineer II",
+                    "description_html": null
+                }
+            ],
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Member, Software Team",
+            "description_html": null,
+            "duration": "Mar 2019 Apr 2022 3 years 2 months",
+            "start_date": "Mar 2019",
+            "end_date": "Apr 2022",
+            "duration_short": "3 years 2 months",
+            "company": "Swarm Robotics IIT KGP",
+            "company_id": "swarm-robotics-iit-kgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Akamai Technologies",
+            "company_id": "akamai-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "description_html": null,
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Codejudge Inc.",
+            "company_id": "codejudge-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Indian Statistical Institute, Kolkata",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rashmi Rekha Borah",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Kumar Gour",
+            "about": null,
+            "location": "Dabra"
+        },
+        {
+            "profile_link": "",
+            "name": "Jainil Gada",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Priya Garg",
+            "about": "SDE at Google | Ex-MTS at Adobe| SDE Intern at Microsoft'20 |Ami-Hacks'20 Winner |DTU'21",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Tate",
+            "about": "Software Engineer",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Dhulipala",
+            "about": "SDE II Amazon | Golang, Python, C#, Java, React | ASU Alum, CS @ IIT Dhanbad | Ex - SWE @ Robinhood, Tesla, Yahoo, Nutanix, Kroger | GHC23",
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Akash Singla",
+            "about": "SDE II at Amazon",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhaval M.",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Deekshitha Mayya",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Ram Choudhary",
+            "about": null,
+            "location": "Jaipur"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Industrial Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sushila Birla Girls School, Kolkata",
+            "degree": "High School Diploma",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Analytics\"},{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Image Processing\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Operation Research\"},{\"subtitle\":\"-\",\"title\":\"Optimization and Heuristic Methods\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"}]",
+    "languages": [
+        {
+            "subtitle": "-",
+            "title": " English "
+        },
+        {
+            "subtitle": "-",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1463.0,
+    "connections": 500.0,
+    "current_company_company_id": "google",
+    "current_company_name": "Google",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "sara-jain-7b4517176",
+    "activity": [
+        {
+            "interaction": "Liked by Sara Jain",
+            "link": "",
+            "title": "Yes, graduated! \u00e2\u0153\u2026 I'm now officially an alumnus of McGill University and Mila - Quebec Artificial Intelligence Institute! Some people see - Us\u00e2\u20ac\u00a6",
+            "img": null,
+            "id": "7270617968848343042"
+        }
+    ],
+    "linkedin_num_id": 699998392.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

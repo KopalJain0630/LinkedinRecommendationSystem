@@ -1,0 +1,168 @@
+{
+    "city": "Ann Arbor, Michigan, United States",
+    "position": "PhD CSE UMich | Dual Degree CSE IIT Kgp'2022",
+    "experience": [
+        {
+            "title": "Research Intern",
+            "location": "Delhi, India",
+            "description": "Worked on Online Randomized Algorithm Design on k-server problem variant",
+            "description_html": "Worked on Online Randomized Algorithm Design on k-server problem variant <!---->",
+            "duration": "May 2021 Aug 2021 4 months",
+            "start_date": "May 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "4 months",
+            "company": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Server Technology Summer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Worked as a part of ExaCC Database Unit Team. The project focused on improving network security and authentication over databases using a new authentication scheme.",
+            "description_html": "Worked as a part of ExaCC Database Unit Team. The project focused on improving network security and authentication over databases using a new authentication scheme. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Bergen, Norway",
+            "description": "Design of Exact Exponential Algorithms for Graph Theoretical Problems",
+            "description_html": "Design of Exact Exponential Algorithms for Graph Theoretical Problems <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "University of Bergen (UiB)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Research Intern",
+            "location": "Bengalore",
+            "description": "Worked as resarch intern on Approximation Algorithms, Computer Science and Automation Department IISC Bangalore.",
+            "description_html": "Worked as resarch intern on Approximation Algorithms, Computer Science and Automation Department IISC Bangalore. <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Indian Institute of Science (IISc)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "Bengaluru Area, India",
+            "description": "Worked on Approximation Algorithms and Copmutational Geometry at Computer Science and Automation IISc Bangalore.",
+            "description_html": "Worked on Approximation Algorithms and Copmutational Geometry at Computer Science and Automation IISc Bangalore. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Science (IISc)",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "University of Michigan",
+            "degree": "Doctor of Philosophy - PhD",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2027",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree ( BTech + MTech )",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": "Department Rank-5 University Rank-8",
+            "description_html": "Department Rank-5University Rank-8 <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV Public School Hamirpur",
+            "degree": "Secondary Education",
+            "field": "Mathematics And Sciences",
+            "start_year": "2009",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Indian Institute of Technology, Delhi",
+    "publications": "[{\"title\":\"Tight Approximation Algorithms for Two Dimensional Guillotine Strip Packing\",\"subtitle\":\"The 49th EATCS International Colloquium on Automata, Languages and Programming (ICALP) 2022\",\"date\":\"June 1, 2022\",\"description\":\"(3⁄2 + ε)-Polynomial time approximation algorithm for the 2 Dimensional Strip problem in a Guillotine Separable arrangement, complementing the lower bound of (3⁄2 + o(ε)). Also, formulated PPTAS (Pseudo-Polynomial Time Approximation Scheme) for the same.\"},{\"title\":\"On Guillotine Separable Packings for the Two-dimensional Geometric Knapsack Problem\",\"subtitle\":\"SoCG’21 (37th International Symposium on Computational Geometry)\",\"date\":\"February 11, 2021\",\"description\":\"The paper has been accepted at SoCG’21 (37th International Symposium on Computational Geometry). - Designed an Approximation Algorithm (PPTAS) for a of 2-Dimensional Guillotine Geometric Knapsack.- Improved previous best approximation factor for both weighted and cardinality cases of the problem.- Co Authors : Dr. Arindam Khan (CSA, Indian Institute of Science (IISc), Bangalore), Andreas Wiese (U of Chille), Arnab Maiti (IIT Kharagpur)\"},{\"title\":\"On Parameterized Complexity of Liquid Democracy\",\"subtitle\":\"CALDAM’21 (7 th Annual International Conference on Algorithms and Discrete Applied Mathematics)\",\"date\":\"February 11, 2021\",\"description\":\"Published at CALDAM’21 (7th Annual International Conference on Algorithms and Discrete Applied Mathematics)• Designed Parameterized Algorithms for Computational Social Choice Theory problem of Liquid Democracy.• Proved hardness results employing standard complexity reductions and branch & conquer techniques.• Provided an LP formulation and polynomial time algorithm for a variant of Liquid Democracy.• Co Authors: Prof. Palash Dey (Computer Science Department, IIT Kharagpur), Arnab Maiti\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Parameterized Complexity of Nash Equilibrium of Networked Public Good Games\",\"start_date\":\"Jan 2021\",\"end_date\":\"May 2022\",\"description\":\"• Algorithmic analysis of PSNE for Game-Theoretic Problem of Networked Public Good Games.• Established parameterized hardness and formulated Slicewise polynomial and Fixed-Parameter Tractable algorithms.\"},{\"title\":\"Image Augmentation and Auxiliary Loss Duo\",\"start_date\":\"Jul 2021\",\"end_date\":\"Dec 2021\",\"description\":\"• Reproduced AAAI021 paper on Improving Sample Efficiency in Model-Free Reinforcement Learning• Implemented and experimented with a new model based on image reconstruction and augmentation.\"},{},{\"title\":\"HTTP Authentication\",\"start_date\":\"May 2021\",\"end_date\":\"Jul 2021\",\"description\":\"Implemented Java Library for secure HTTP Message Authentication using Java Cryptography Architecture\"},{},{\"title\":\"The Art Gallery Problem: A Survey\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jan 2021\",\"description\":\"Submitted to ACM Computing Surveys Journal• Studied NP-hardness, ∃R − Completeness and bounds on multiple variants of Art Gallery problem,• Analyzed numerous approximation and parameterized algorithms for the Art Gallery Problem.\"},{},{},{\"title\":\"Gaussian Process Kernels Survey\",\"start_date\":\"Aug 2020\",\"end_date\":\"Nov 2020\",\"description\":\"A term project on Local and Global Approximation techniques for Gaussian Process Kernels, followed by experiments on numerous approximation prevailing techniques.\"},{\"title\":\"Parameterized Complexity of Margin of Victory\",\"start_date\":\"Jan 2020\",\"end_date\":\"Jun 2020\",\"description\":\"Advised by Prof. Palash• Formulated algorithms for Game-Theoretic problem of computing Margin of Victory for tournament solutions.• Contrived parameterized algorithms with parameters including tree-width for the NP-Hard problem\"},{\"title\":\"RISC Processor\",\"start_date\":\"Jul 2019\",\"end_date\":\"Nov 2019\",\"description\":\"Developed a Reduced Instruction Set Computer Processor and simulated on FPGA Spartan 3 boards using VERILOG\"},{\"title\":\"TinyC Compiler\",\"start_date\":\"Jul 2019\",\"end_date\":\"Nov 2019\",\"description\":\"Implemented a Compiler for language TinyC, a subset of C with a reduced subset of functionalities with a parser and lexer with output as non-optimized machine-level assembly language instructions using Yacc, BISON, FLEX, C, C++\"},{},{\"title\":\"Shoten : An e-BookStore\",\"start_date\":\"Jan 2019\",\"end_date\":\"Apr 2019\",\"description\":\"Full Stack development of online bookstore employing HTML, CSS, JSP and MySQL\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Computer Science Department Rank 5",
+            "publication": "-",
+            "date": "2022-05-01T00:00:00.000Z",
+            "description": "Department Rank of 5 in the Computer Science and Engineering Department, IIT Kharagpur"
+        },
+        {
+            "title": "University Rank 8",
+            "publication": "-",
+            "date": "2022-05-01T00:00:00.000Z",
+            "description": "University Rank of 8 at Indian Institute of Technology (IIT) Kharagpur."
+        },
+        {
+            "title": "GATE Scholar",
+            "publication": "IIT Kharagpur",
+            "date": "2021-06-01T00:00:00.000Z",
+            "description": "Awarded GATE Scholarship for Teaching Assistantship at CSE, Kharagpur based on GPA."
+        },
+        {
+            "title": "Department Change Awardee",
+            "publication": "IIT Kharagpur",
+            "date": "2018-07-01T00:00:00.000Z",
+            "description": "Changed Department to Computer Science (in the first year) by qualifying in the top 10 out of 1300 students at IIT Kharagpur."
+        },
+        {
+            "title": "SJVN Merit Scholar",
+            "publication": "Satluj Jal Vidyut Nigam (SJVN) Ltd.",
+            "date": "2017-06-01T00:00:00.000Z",
+            "description": "An awardee of SJVN Merit Scholarship for performance in CBSE Senior Secondary Examination"
+        },
+        {
+            "title": "Regional Mathematics Olympiad",
+            "publication": "Homi Bhabha Centre for Science Education Tata Institute of Fundamental Research",
+            "date": "2016-08-01T00:00:00.000Z",
+            "description": "RMO or Regional Math Olympiad is the first round of mathematics contest (in India) leading to the prestigious International Mathematics Olympiad.The students who qualify in INMO are directly invited to the interview of I.S.I. (Indian Statistical Institute) and C.M.I. (Chennai Mathematics Institute) the two leading mathematics institutes in India (that is the INMO awardees are not required to take the entrance test of these institutes)."
+        },
+        {
+            "title": "National Talent Search Examination Scholar",
+            "publication": "NCERT",
+            "date": "2015-11-01T00:00:00.000Z",
+            "description": "Selected among 750 (General) students all over India for the NTSE scholarship on merit basis annually. (Secured Rank 1 in the state of Himachal Pradesh). National Talent Search Examination popularly known as NTSE is conducted by National Council of Educational Research and Training (NCERT) for identifying talented students who want to pursue higher education in Science and Social Studies streams."
+        },
+        {
+            "title": "RIMC Enterance Exam",
+            "publication": "RIMC(Rashtriya Indian Military College)",
+            "date": "2012-06-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "NSTSE(National Level Science Talent Search Examination)",
+            "publication": "Unified Council",
+            "date": null,
+            "description": "NSTSE is a diagnostic test which helps students improve their overall learning ability and educational performance. Consecutively secured 1sT state rank(Himchal Pradesh) in classes 8th ,9th ,10th,11th(2013-16)"
+        }
+    ]
+}

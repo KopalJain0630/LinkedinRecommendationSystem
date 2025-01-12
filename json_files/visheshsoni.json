@@ -1,0 +1,518 @@
+{
+    "id": "visheshsoni",
+    "name": "Vishesh Soni",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Product Manager at HiLabs | IIT(BHU) | AI B2B SaaS",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "HiLabs",
+        "company_id": "hilabsinc",
+        "title": "Product Manager at HiLabs | IIT(BHU) | AI B2B SaaS"
+    },
+    "experience": [
+        {
+            "title": "HiLabs",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "HiLabs",
+                    "meta": "Jan 2024 - Present 1 year",
+                    "description": "- Currently leading a 0-1 initiative for solving the problem of misclassified NPAR Claims through Gen AI based Issue Prediction and Root Cause Analysis models- Working with CXOs, and senior leadership for designing new use cases by extensive market research and customer interviews, deciding GTM, preparing sales deck and pitching to the existing/new clients- Led R&D of new attributes, anomaly detection algorithm improvements, and managed multiple customers, POCs & RFPs, leading to 50% ARR growth, acquiring 4 new enterprise customers, and making HiLabs the go-to solution for managing Provider Data Quality in US.- Led cross functional team of 18 members to redesign and launch the configurable MCheck Provider application for all the enterprise clients, reducing the implementation cost and time drastically for onboarding new clients and shipping new features to the existing clients- Led Design System development from scratch and shipped within 6 months for its application in 10+ Products' Development at HiLabs, reducing the Frontend Product development cost and time by approximately 50%",
+                    "duration": "Jan 2024 - Present 1 year",
+                    "start_date": "Jan 2024",
+                    "end_date": "Present",
+                    "duration_short": "1 year",
+                    "title": "Product Manager",
+                    "description_html": "- Currently leading a 0-1 initiative for solving the problem of misclassified NPAR Claims through Gen AI based Issue Prediction and Root Cause Analysis models<br>- Working with CXOs, and senior leadership for designing new use cases by extensive market research and customer interviews, deciding GTM, preparing sales deck and pitching to the existing/new clients<br>- Led R&amp;D of new attributes, anomaly detection algorithm improvements, and managed multiple customers, POCs &amp; RFPs, leading to 50% ARR growth, acquiring 4 new enterprise customers, and making HiLabs the go-to solution for managing Provider Data Quality in US.<br>- Led cross functional team of 18 members to redesign and launch the configurable MCheck Provider application for all the enterprise clients, reducing the implementation cost and time drastically for onboarding new clients and shipping new features to the existing clients<br>- Led Design System development from scratch and shipped within 6 months for its application in 10+ Products' Development at HiLabs, reducing the Frontend Product development cost and time by approximately 50%"
+                },
+                {
+                    "subtitle": "HiLabs",
+                    "meta": "Jun 2022 - Dec 2023 1 year 7 months",
+                    "description": "- Worked on designing and solving use cases involving inaccurate data prediction, Provider data augmentation, source/target system data errors, migration errors, data explosion identification, root cause analysis, etc. for the potential/existing healthcare clients- Developed Product-led sales strategy to optimize the sales cycle and quicker value realization for the potential customers in POC phase- Spearheaded Product implementation for key accounts for MCheck Provider client by coordinating with cross-functional teams to implement ML based solutions as per client requirements- Managed a Data Automation and Reconciliation Product end-to-end for a Fortune 20 Healthcare client. It helped in reducing the TAT for Provider Data Updates to Provider database from 7 days to 1 day with more than 95% accuracy- Received Special Recognition award from CEO for driving business growth by delivering POC results for acquiring a Top Fortune 200 Healthcare client",
+                    "duration": "Jun 2022 Dec 2023 1 year 7 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Dec 2023",
+                    "duration_short": "1 year 7 months",
+                    "title": "Associate Product Manager - I",
+                    "description_html": "- Worked on designing and solving use cases involving inaccurate data prediction, Provider data augmentation, source/target system data errors, migration errors, data explosion identification, root cause analysis, etc. for the potential/existing healthcare clients<br>- Developed Product-led sales strategy to optimize the sales cycle and quicker value realization for the potential customers in POC phase<br>- Spearheaded Product implementation for key accounts for MCheck Provider client by coordinating with cross-functional teams to implement ML based solutions as per client requirements<br>- Managed a Data Automation and Reconciliation Product end-to-end for a Fortune 20 Healthcare client. It helped in reducing the TAT for Provider Data Updates to Provider database from 7 days to 1 day with more than 95% accuracy<br>- Received Special Recognition award from CEO for driving business growth by delivering POC results for acquiring a Top Fortune 200 Healthcare client"
+                }
+            ],
+            "company": "HiLabs",
+            "company_id": "hilabsinc",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Team: OLA DASH, Role: Data Scientist InternOLA Dash was the quick commerce arm of ANI Technologies Pvt. Ltd. It focused on 10 minutes delivery of groceries and food items. - Improved the Product Discovery for users by focusing on search and filter capabilities- Worked on extracting the attributes from a Product title using Name Entity Recognition models.- Experimented with multiple NER models using BERT, Bi-LSTM, CRF & spacy to ship various models with better accuracy, handing multiple scenarios/edge-cases.",
+            "description_html": "Team: OLA DASH, Role: Data Scientist InternOLA Dash was the quick commerce arm of ANI Technologies Pvt. Ltd. It focused on 10 minutes delivery of groceries and food items. - Improved the Product Discovery for users by focusing on search and filter capabilities- Worked on extracting the attributes from a Product title using Name Entity Recognition models.- Experimented with multiple NER models using BERT, Bi-LSTM, CRF &amp; spacy to ship various models with better accuracy, handing multiple scenarios/edge-cases.",
+            "duration": "Jan 2022 Mar 2022 3 months",
+            "start_date": "Jan 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "3 months",
+            "company": "Ola",
+            "company_id": "olacabs-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst",
+            "description": "- Developed a dashboard to analyze channel-wise revenue performance, enabling performance tracking and identification of the top revenue growth channels- Forecasted key business metrics by channel for performance analysis in Southeast Asian (SEA) markets- Created real-time, detailed dashboard of key business metrics at the Hub, Channel, and Property levels to facilitate data drill-down and effective revenue performance management",
+            "description_html": "- Developed a dashboard to analyze channel-wise revenue performance, enabling performance tracking and identification of the top revenue growth channels- Forecasted key business metrics by channel for performance analysis in Southeast Asian (SEA) markets- Created real-time, detailed dashboard of key business metrics at the Hub, Channel, and Property levels to facilitate data drill-down and effective revenue performance management <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "OYO",
+            "company_id": "oyo-rooms",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Thingqbator Internship Program- Learning Track",
+            "location": "India",
+            "description": "Product Design Intern- Collaborated with a team of four to address the communication gap faced by individuals who are deaf or mute, employing the Design Thinking process.- Conducted surveys with over 100 deaf/mute individuals, their relatives, and interpreters from various countries to develop user personas and identify key pain points.- Identified the challenges in the quality educational resources availability for the majority of the deaf/mute community.- After prioritizing from proposed solutions, we finalized the concept of a browser extension that translates speech to sign language from any video, enabling deaf/mute individuals to learn from online content.",
+            "description_html": "Product Design Intern- Collaborated with a team of four to address the communication gap faced by individuals who are deaf or mute, employing the Design Thinking process.- Conducted surveys with over 100 deaf/mute individuals, their relatives, and interpreters from various countries to develop user personas and identify key pain points.- Identified the challenges in the quality educational resources availability for the majority of the deaf/mute community.- After prioritizing from proposed solutions, we finalized the concept of a browser extension that translates speech to sign language from any video, enabling deaf/mute individuals to learn from online content.",
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "Project DEFY",
+            "company_id": "projectdefy",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Kushal Kirpalani Idnani",
+            "about": "Robotics Engineer",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishant Jain",
+            "about": "Vendor Manager @ Cocoblu || Ex IBO, Bosch",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manmohan Raju",
+            "about": "Founder of Gayathri Cement Pipes & Shri Infra. BE (IEM) Graduate from Sir MVIT.",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vinod Balasubramanian",
+            "about": "Product Strategy & Management at Mercedes-Benz",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vrijesh N G",
+            "about": "Application Development Senior Analyst at Accenture",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumit Kumar",
+            "about": "Program Manager | Tata.ev | BlueMint LBS x TMTC",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Ranga Sudharshan",
+            "about": "Research Associate at DCMB, University of Michigan | IIT(BHU) Alum",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Sharayu Thosar",
+            "about": null,
+            "location": "King of Prussia, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Kishan Parekh",
+            "about": "Product @ Builder.ai",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Arnab Chattopadhyay",
+            "about": "Developer Associate @SAP Labs | NIT Warangal | Deep learning | Web Dev",
+            "location": "Warangal"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+    "education": [
+        {
+            "title": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "degree": "B.tech",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: E Cell, Business Club, ShARE & SAE Club",
+            "description_html": "Activities and Societies: E Cell, Business Club, ShARE &amp; SAE Club",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "ShARE - Growing a new generation of leaders",
+            "degree": "Leadership Program of Excellence",
+            "field": "Consulting & Management",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": "Activities and Societies: Learning Unit: Mobility Startup Project Manager ShARE is an international student network and think tank, connecting over 1,000 members across 40+ campuses in 15 countries. The Future Leaders Program is a dynamic program that starts with an online training course in business consulting, followed by global consulting competitions and real-world consulting projects with local and global startups, NGOs, and corporations. Winner of Strategy Consulting Competition in Asia(2020)",
+            "description_html": "Activities and Societies: Learning Unit: Mobility Startup Project Manager",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sadhana Vidhya Niketan, Bhind (M.P.)",
+            "degree": "Higher Secondary",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "City Central School, Bhind(M.P.)",
+            "degree": "High School",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Agile Foundations"
+        },
+        {
+            "meta": "Issued Jun 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Product Management: Building a Product Roadmap"
+        },
+        {
+            "meta": "Issued Jun 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Product Management: Building a Product Strategy"
+        },
+        {
+            "meta": "Issued Jul 2021",
+            "subtitle": "Doremon Den",
+            "title": "Product Management Bootcamp"
+        },
+        {
+            "meta": "Issued Oct 2020Credential ID JEXCLF2GYLAYSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Oct 2020Credential ID XFDWFWWKF5DSSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparametertuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Oct 2020Credential ID AK2CN5A5GNEYSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Oct 2020Credential ID 4BVWG9RVWR29See credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "ConceptOwl",
+            "title": "Concept Owl Learning BootCamp"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID #14878467See credential",
+            "subtitle": "DataCamp",
+            "title": "Cluster Analysis in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14786980See credential",
+            "subtitle": "DataCamp",
+            "title": "Analyzing police Activity with Pandas"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID #14841705See credential",
+            "subtitle": "DataCamp",
+            "title": "Case Study: School Budgeting with Machine Learning in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14257111See credential",
+            "subtitle": "DataCamp",
+            "title": "Data Cleaning in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 157490See credential",
+            "subtitle": "DataCamp",
+            "title": "Data Scientist with Python Track"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14630112See credential",
+            "subtitle": "DataCamp",
+            "title": "Exploratory Data Analysis in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14353674See credential",
+            "subtitle": "DataCamp",
+            "title": "Intermediate Data Visualization with Seaborn"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14648511See credential",
+            "subtitle": "DataCamp",
+            "title": "Intermediate Importing Data in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14238748See credential",
+            "subtitle": "DataCamp",
+            "title": "Introduction to Importing Data in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID #14827012See credential",
+            "subtitle": "DataCamp",
+            "title": "Machine Learning with Tree-Based Models in Python"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14649253See credential",
+            "subtitle": "DataCamp",
+            "title": "Python Data Science Toolbox (Part 1)"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14656765See credential",
+            "subtitle": "DataCamp",
+            "title": "Python Data Science Toolbox (Part 2)"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 153568See credential",
+            "subtitle": "DataCamp",
+            "title": "Python Programming Track"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14642339See credential",
+            "subtitle": "DataCamp",
+            "title": "Statistical Thinking in Python (Part 1)"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 14661529See credential",
+            "subtitle": "DataCamp",
+            "title": "Statistical Thinking in Python (Part2)"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID #14662129See credential",
+            "subtitle": "DataCamp",
+            "title": "Supervised Learning with sci-kit learn"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID #14785972See credential",
+            "subtitle": "DataCamp",
+            "title": "Unsupervised Learning in Python"
+        },
+        {
+            "meta": "Issued May 2020Credential ID SSwSgLyQuwusiCPkhSee credential",
+            "subtitle": "InsideSherpa",
+            "title": "Accenture Discovery Program Virtual Internship"
+        },
+        {
+            "meta": "Issued May 2020Credential ID #13786479See credential",
+            "subtitle": "DataCamp",
+            "title": "Data Manipulation with pandas"
+        },
+        {
+            "meta": "Issued May 2020Credential ID #14143809See credential",
+            "subtitle": "DataCamp",
+            "title": "Introduction to Data Visualization with Matplotlib"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 14149325See credential",
+            "subtitle": "DataCamp",
+            "title": "Introduction to Data Visualization with Seaborn"
+        },
+        {
+            "subtitle": "ShARE - Growing a new generation of leaders",
+            "title": "Leadership Program of Excellence 2019-2021"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Aug 2020 - May 2021 · 10 months",
+            "duration_short": "10 months",
+            "end_date": "May 2021",
+            "info": "- Led a 30-member team to promote Entrepreneurship through mentorship program, incubator cohorts, workshops and competitions- Increased participation by 200%, engaging 300+ students and supporting the launch of 10+ startups at the institute",
+            "start_date": "Aug 2020",
+            "subtitle": "E-Cell IIT BHU",
+            "title": "Core Member - Startup Assistance Program (SAP) Head"
+        }
+    ],
+    "followers": 4801.0,
+    "connections": 500.0,
+    "current_company_company_id": "hilabsinc",
+    "current_company_name": "HiLabs",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"DIC Terrace Farming Robot\",\"start_date\":\"Sep 2019\",\"end_date\":\"Jan 2020\",\"description\":\"A low-cost, portable and eﬃcient Agrobot which can be used in high terrain areas to augment the production and automate labour-intensive operations like seeding, weeding, spraying, ploughing and harvesting. Agrobot aims to increase farm productivity and at the same time, reducing the cost for farmers, hence making it economically feasible and viable. Moreover, the  Agrobot will be upscaled to perform the tasks of Pesticide sprayer, Weed management & Soil Moisture Sensing.\"}]",
+    "organizations": null,
+    "location": "Pune",
+    "linkedin_id": "visheshsoni",
+    "activity": [
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Had the honor to meet Prime Minister Narendra Modi. We had a great conversation about the potential for AI adoption in India and across the world…",
+            "img": "",
+            "id": "7278787108079616000"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Razorpay is awarding ₹1 lakh worth of ESOPs to each of its 3,000 employees on its 10th anniversary. In a world where toxic work culture has…",
+            "img": "",
+            "id": "1"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Tiktok's Monolith paper is a must read (and it's open source). It shows that you don't need a social graph to make an addictive product if you nail…",
+            "img": "",
+            "id": "7275714081875968000"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "We often end up confusing desire and attachment as the same thing. Desire is wanting things, and it’s good as that’s what drives one forward. But…",
+            "img": "",
+            "id": "7274060707057274881"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "You won't believe this story about my TATA 1mg APM deck—a project I'm incredibly proud of, which I crafted in just 6 hours and managed to get…",
+            "img": "",
+            "id": "7274063207890100224"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "In the initial stages of the road mapping exercise, many PMs create a list of items that need to be done and rush into prioritization meetings with…",
+            "img": "",
+            "id": "7273965033460523010"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "I need a proper vacation, just to catch up on everything I’ve been saving to read or watch later. Everyday, I add 5 things to it and remove 0 :)",
+            "img": "",
+            "id": "7273553790866268161"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Recently, a “human ad” for the food delivery startup, Swish, is going viral on social media. Bengaluru-based Swish is a rapid food delivery platform…",
+            "img": "",
+            "id": "7272135476981981184"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Unacademy turned 9 yesterday ❤️❤️❤️",
+            "img": "",
+            "id": "9"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Did y'all see the new Pricing announcement from Figma? This is getting extreme. Earlier this year, dev mode was moved to a paid plan. Now a new…",
+            "img": "",
+            "id": "7272294423391088640"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Relying on your job for meaning is extremely risky a) as you age, your abilities decline; b) your job can be rendered less valuable over time; c)…",
+            "img": "",
+            "id": "7272461925563678720"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "The most ubiquitous & costliest trap for product managers is the assumption that sounding clever is the same as being right.",
+            "img": "",
+            "id": "7272308171552034816"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Money flows to storytellers with actionable ideas. Money accumulates with those whose stories turn out to be true and useful.",
+            "img": "",
+            "id": "7272246325776125952"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "There's a tendency to delay learning something new because you're too busy with your day job. Know that such a learn-all-you-want-to day will never…",
+            "img": "",
+            "id": "7272179288148197376"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "Our holiday gift to you: Sora is here.  Now you can generate entirely new videos from text, bring images to life, or extend, remix,…",
+            "img": "",
+            "id": "7271954906595401730"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "HiLabs' NetworkIQ solution has transformed how a multi-market plan optimizes network adequacy and development by leveraging AI technology for gap…",
+            "img": "",
+            "id": "7271922778386182144"
+        },
+        {
+            "interaction": "Liked by Vishesh Soni",
+            "link": "",
+            "title": "When the dark gets even darker :) Very slyly, Zepto has removed platform fees charges from the price summary page and moved it to the items cost…",
+            "img": "",
+            "id": "7271780852064264193"
+        }
+    ],
+    "linkedin_num_id": 685525626.0,
+    "honors_and_awards": [
+        {
+            "title": "Product Management Competition",
+            "publication": "Doremon Den",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": "- Critiqued 'Customer Profile Page' feature of OkCredit App based on Business objective and User types of the app. - Suggested UI Improvements, Customer Segmentation based on Credit history, and Automatic Reminder Notification features for increasing engagement. - Prioritized features and Designed metrics to track the performance of the suggested features. - Stood 2nd in the Competition seeing the participation from all over India."
+        },
+        {
+            "title": "Share Consulting Competition 2020",
+            "publication": "ShARE - Growing a new generation of leaders",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "Consulted a French auto-maker on the future of electric 3-wheelers in India. - Researched for the different ways of manufacturing used by various brands in India to reduce the Total cost of ownership(TCO) of the electric 3-wheelers. - Analysed the battery-swap technique from a technology, business and regulatory standpoint and recommended Electric Vehicles as a Service (EVaaS) Business model. - Stood 1st in Asia in the competition, judged by ex BCG Consultant."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

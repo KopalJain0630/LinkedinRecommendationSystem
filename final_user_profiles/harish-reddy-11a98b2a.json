@@ -1,0 +1,44 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "IIT Bombay",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2019Credential ID KTXX4NBLAGEJSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Feb 2019Credential ID XTAT3ANGSJPZSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Feb 2019Credential ID C7ZUWVHCH6QXSee credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Credential ID coursera.org/verify/2NCMN39JBXU8See credential",
+            "subtitle": "Coursera",
+            "title": "Build a Modern Computer from First Principles: From Nand to Tetris"
+        }
+    ],
+    "current_company_name": "Stable Money",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,285 @@
+{
+    "id": "ankanbiswas7",
+    "name": "Ankan Biswas",
+    "city": "Kolkata, West Bengal, India",
+    "country_code": "IN",
+    "position": "Data Scientist (AI Research) @Fractal || Publications @NeurIPS, @ICLR || 99.99 %ile CAT '22 || ex ML-Research @MIT, @SUSTech",
+    "about": "I just love numbers.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Fractal",
+        "company_id": "fractal-analytics",
+        "title": "Data Scientist (AI Research) @Fractal || Publications @NeurIPS, @ICLR || 99.99 %ile CAT '22 || ex ML-Research @MIT, @SUSTech"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Fractal",
+            "company_id": "fractal-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "\u00e2\u20ac\u00a2 Performed Marketing Mix Modelling (MMM) to understand how marketing activities are driving the profatibility of multiple products of a CPG company and how to allocate their marketing budget.\u00e2\u20ac\u00a2 Identified the key sales drivers (marketing media, price, competition, covid impact on sales and other macroeconomic factors).\u00e2\u20ac\u00a2 Simulated S-curves to describe, visualize and predict business performance progressively over time,with an aim to increase ROI.",
+            "description_html": "\u00e2\u20ac\u00a2 Performed Marketing Mix Modelling (MMM) to understand how marketing activities are driving the profatibility of multiple products of a CPG company and how to allocate their marketing budget.\u00e2\u20ac\u00a2 Identified the key sales drivers (marketing media, price, competition, covid impact on sales and other macroeconomic factors).\u00e2\u20ac\u00a2 Simulated S-curves to describe, visualize and predict business performance progressively over time,with an aim to increase ROI. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Fractal",
+            "company_id": "fractal-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "NLP Intern",
+            "location": "United States",
+            "description": "Supervisors: Dr Kiran Garimella (IDSS, MIT); Prof Aaditya Dar (ISB Hyderabad); Ms Vasundhara Sirnate (The Polis Project)\u00e2\u20ac\u00a2 Built a text classifier to identify incidents of violence in news articles over past 20 years from The Times of India.\u00e2\u20ac\u00a2 Did topic modelling to discover the different topics covered in the news and analyse their trends over time. Also used the same to filter out topics related to non-violence and thus reduce the degree of imbalance in the data.\u00e2\u20ac\u00a2 Used Named Entity Recognition(NER) to identify the number of fatalities involved in the cases of violent incidents.",
+            "description_html": "Supervisors: Dr Kiran Garimella (IDSS, MIT); Prof Aaditya Dar (ISB Hyderabad); Ms Vasundhara Sirnate (The Polis Project)\u00e2\u20ac\u00a2 Built a text classifier to identify incidents of violence in news articles over past 20 years from The Times of India.\u00e2\u20ac\u00a2 Did topic modelling to discover the different topics covered in the news and analyse their trends over time. Also used the same to filter out topics related to non-violence and thus reduce the degree of imbalance in the data.\u00e2\u20ac\u00a2 Used Named Entity Recognition(NER) to identify the number of fatalities involved in the cases of violent incidents.",
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Massachusetts Institute of Technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst Intern",
+            "location": "Shenzhen, Guangdong, China",
+            "description": "\u00e2\u20ac\u00a2 Dataset related to attributes of different kinds of pollutants that were collected from several industrial sites across the city.\u00e2\u20ac\u00a2 Analyzed patterns in data and applied hierarchical clustering on them on the basis of pollution level, similar site codes, etc.\u00e2\u20ac\u00a2 Used wavelet spectral analysis on time series data to detect and analyze peak values, irregularities and possible outliers.",
+            "description_html": "\u00e2\u20ac\u00a2 Dataset related to attributes of different kinds of pollutants that were collected from several industrial sites across the city.\u00e2\u20ac\u00a2 Analyzed patterns in data and applied hierarchical clustering on them on the basis of pollution level, similar site codes, etc.\u00e2\u20ac\u00a2 Used wavelet spectral analysis on time series data to detect and analyze peak values, irregularities and possible outliers. <!---->",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Southern University of Science & Technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Kolkata, West Bengal, India",
+            "description": "\u00e2\u20ac\u00a2 A task based on the balanced binary classification of congestion type in the telecommunication network of a city.\u00e2\u20ac\u00a2 Used Recursive Feature Elimination to identify which attributes contribute the most towards predicting the target variable.\u00e2\u20ac\u00a2 Achieved an accuracy of 91% on unseen data using the final trained model based on XGBoost tuned with gridsearchCV .",
+            "description_html": "\u00e2\u20ac\u00a2 A task based on the balanced binary classification of congestion type in the telecommunication network of a city.\u00e2\u20ac\u00a2 Used Recursive Feature Elimination to identify which attributes contribute the most towards predicting the target variable.\u00e2\u20ac\u00a2 Achieved an accuracy of 91% on unseen data using the final trained model based on XGBoost tuned with gridsearchCV . <!---->",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "insAnalytics",
+            "company_id": "insanalytics",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Dhruvil Shah",
+            "about": "SDE @ AWS Managed Streaming Kafka (MSK)",
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sachin Kumar",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Daksh Trehan",
+            "about": "Senior Lead Engineer @ kipi.ai | M.Tech'22-24 @ BITS Pilani | Data Scientist | Certified Snowflake Snowpro Advanced: Data Scientist | Tableau Certified Associate Consultant | Certified Tableau Desktop Specialist |",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ramya V",
+            "about": "Seeking job opportunities | Data Engineering, AWS, Azure, GCP, Big Data, Pyspark, Hadoop, ETL, ELT, SQL, Snowflake, Spark, Collibra, Data Governance, Data modeling, Data Science, Data Profiling, Tableau, PowerBI",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Aravind CR",
+            "about": "Data Scientist at Albert Invent",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Arnav Oberoi",
+            "about": "Data Scientist at Epsilon",
+            "location": "Naperville, IL"
+        },
+        {
+            "profile_link": "",
+            "name": "Sahil Malhotra",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Suyash Sonawane",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranjal Saxena",
+            "about": "Lead Data Scientist | NLP, LLMs, RAG, Generative AI, Deep Learning, Python",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Param Raval",
+            "about": null,
+            "location": "Montreal, QC"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Rastogi",
+            "about": "Ex-GT || Ex-Dhruva || CA Finalist || B.Com(H)",
+            "location": "Shahadara"
+        },
+        {
+            "profile_link": "",
+            "name": "Aayushi Pareek",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Anubhav Majumdar",
+            "about": "Software Development Engineer at PwC",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Soumya Sristi",
+            "about": "Digital Marketing Senior Associate | Bachelor of Commerce, Online Marketing",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshath Varugeese",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mamta Mishra",
+            "about": "Senior Software Engineer @VCTI | Telecom BSS/OSS |Singleview | Perl, Unix, SQL, EPM, Rating, and Billing",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Krati Agarwal",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Tejas Khare",
+            "about": null,
+            "location": "Ottawa, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Kumar Mallik",
+            "about": "Member of Focus Group on AI for Natural Disaster Management, under ITU, WMO and UNEP",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated B.Tech + M.Tech",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Institute Students' Senate Quiz Club",
+            "description_html": "Activities and Societies: Institute Students' Senate Quiz Club",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "South Point High School, Kolkata",
+            "degree": "High School",
+            "field": "Science",
+            "url": "",
+            "start_year": "2003",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Machine Learning A-Z\u00e2\u201e\u00a2: Hands-On Python & R In Data Science\"},{\"subtitle\":\"MA20106\",\"title\":\"Probability and Stochastic Processes \"},{\"subtitle\":\"15.071\",\"title\":\"The Analytics Edge | MIT OCW\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Bengali "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Artificial Intelligence Foundations: Neural Networks"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Mar 2020 \u00c2\u00b7 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Mar 2020",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Member"
+        }
+    ],
+    "followers": 1843.0,
+    "connections": 500.0,
+    "current_company_company_id": "fractal-analytics",
+    "current_company_name": "Fractal",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Kolkata",
+    "linkedin_id": "ankanbiswas7",
+    "activity": [
+        {
+            "interaction": "Liked by Ankan Biswas",
+            "link": "",
+            "title": "Pleased to note that my name appears in both lists (2023-specific and career) of the top 2% researchers in the world compiled by Stanford University\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "2024"
+        }
+    ],
+    "linkedin_num_id": 823659373.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

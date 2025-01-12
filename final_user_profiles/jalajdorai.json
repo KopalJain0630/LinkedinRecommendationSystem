@@ -1,0 +1,76 @@
+{
+    "city": "Kharagpur, India",
+    "position": "Dev | Indie Hacker",
+    "experience": [
+        {
+            "title": "Product Developer",
+            "description": "#3 Product of the Week on Devhunt.orgAn AI-powered No-Code tool to build your SaaS, AI tool, or any web app in days—not months. Stop wasting time setting up everything & leverage AI to build your startup today!",
+            "description_html": "#3 Product of the Week on Devhunt.orgAn AI-powered No-Code tool to build your SaaS, AI tool, or any web app in days—not months. Stop wasting time setting up everything &amp; leverage AI to build your startup today! <!---->",
+            "duration": "Jan 2024 - Present 1 year",
+            "start_date": "Jan 2024",
+            "end_date": "Present",
+            "duration_short": "1 year",
+            "company": "NextWrapper",
+            "company_id": "nextwrapper",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Developer",
+            "description": "#4 Product of the Day on PH#3 Product of the week Education on PHGenerate presentations, quizzes, and essays in seconds not hours.An AI-powered tool for creating stunning PowerPoint presentations, quizzes, and Essays in just minutes.",
+            "description_html": "#4 Product of the Day on PH#3 Product of the week Education on PHGenerate presentations, quizzes, and essays in seconds not hours.An AI-powered tool for creating stunning PowerPoint presentations, quizzes, and Essays in just minutes. <!---->",
+            "duration": "Jan 2024 - Present 1 year",
+            "start_date": "Jan 2024",
+            "end_date": "Present",
+            "duration_short": "1 year",
+            "company": "KindlePPT",
+            "company_id": "kindleppt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Freelance Web Developer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jan 2022 - Present 3 years",
+            "start_date": "Jan 2022",
+            "end_date": "Present",
+            "duration_short": "3 years",
+            "company": "Freelance",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "description": "Worked on machine learning algorithm like support vector machine and k-means algorithm Compared the efficiency of SVM vs 3-layer neural network",
+            "description_html": "Worked on machine learning algorithm like support vector machine and k-means algorithm Compared the efficiency of SVM vs 3-layer neural network <!---->",
+            "duration": "Jun 2019 Jul 2019 2 months",
+            "start_date": "Jun 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "2 months",
+            "company": "AITS",
+            "company_id": "aitechsystems",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "NextWrapper",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"A Next.js Authentication starter template\",\"description\":\"A Next.js Authentication starter template (password reset, email validation and oAuth). Includes Stack Auth, MongoDB, Lemon Squeezy, tailwindcss and shadcn-ui\"},{\"title\":\"MacOS Clone\",\"description\":\"This project is a macOS clone built using React and TypeScript with the aim of recreating the familiar and intuitive user interface of macOS within a web application. Leveraging React's component-based architecture, TypeScript's type safety, and the sleek design of macOS, the application delivers a seamless and responsive user experience. Users can interact with macOS-like windows, menus, and toolbars, offering cross-platform compatibility and the convenience of a familiar operating system directly in their web browser. The project showcases various features, including a weather app with geolocation-based forecasts, a wallpaper selection window for switching desktop backgrounds, a custom context menu, and a system navigation bar. Smooth animations are incorporated using Framer Motion, enhancing the overall user experience. The motivation behind this project is to provide users with a web application that offers the usability and productivity-enhancing features of macOS. The project is open to contributions, and the developer welcomes collaboration to add or enhance features. It is important to note that all rights to images, products, and names used in this project belong to Apple Inc., and it is utilized solely for educational purposes.\"}]",
+    "honors_and_awards": null
+}

@@ -1,0 +1,39 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "International Management Institute, Kolkata",
+            "url": "",
+            "start_year": "2018-04",
+            "end_year": "2020-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014-04",
+            "end_year": "2017-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Internshala Trainings",
+            "title": "Advanced Excel"
+        },
+        {
+            "subtitle": "British Council",
+            "title": "Business Communication"
+        }
+    ],
+    "current_company_name": "The Mattress Store",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

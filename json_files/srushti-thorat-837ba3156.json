@@ -1,0 +1,278 @@
+{
+    "id": "srushti-thorat-837ba3156",
+    "name": "Srushti Thorat",
+    "city": "Midnapore Sadar, India",
+    "country_code": "IN",
+    "position": "Analyst @ Accenture.AI | IIT Kharagpur'22",
+    "about": "I have a keen interest in data science and also working towards improving my skills in the same. I am also looking forward to a career in this field and solving some real-life problems.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Accenture",
+        "company_id": "accenture",
+        "title": "Analyst @ Accenture.AI | IIT Kharagpur'22"
+    },
+    "experience": [
+        {
+            "title": "Data Science Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Working in supply chain analytics",
+            "description_html": "Working in supply chain analytics <!---->",
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Accenture",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Anomaly Detection",
+            "description_html": null,
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Tata Consultancy Services Research and Innovation",
+            "company_id": "tata-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning and Analytics",
+            "description": "•Improved the accuracy of the Crop Yield Prediction model by using RNN, Random Forest, Linear Regression, KNN .•Hyperparameter Optimization using GridsearchCV and ensembled different sets of models to get maximum accuracy.•Prepared a DashBoard using Dash by Plotly showcasing the crop yield data of different types of crops of various Counties of United States in tabular, graphical and on the Map of United States.",
+            "description_html": "•Improved the accuracy of the Crop Yield Prediction model by using RNN, Random Forest, Linear Regression, KNN .•Hyperparameter Optimization using GridsearchCV and ensembled different sets of models to get maximum accuracy.•Prepared a DashBoard using Dash by Plotly showcasing the crop yield data of different types of crops of various Counties of United States in tabular, graphical and on the Map of United States. <!---->",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Vega MX Inc.",
+            "company_id": "vegamx",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Application of Machine Learning in Prediction of Tractor Fuel Consumption",
+            "description": "•Developed Fuel Consumption prediction model for 20-48 horsepower range tractor, with tractor's PTO power, Engine Speed at no load (rpm), Engine speed drop at the load (rpm), and Throttle Setting as input features.•Trained Radial Basis Neural Network(RBNN), Levenberg Neural Network, and Linear Regression model for prediction and function approximation.•Achieved best results with RBNN, with a coefficient of determination(R_squared) as 0.85 for training and 0.81 for testing dataset also RMSE of 0.545 on training and 0.80 on testing.",
+            "description_html": "•Developed Fuel Consumption prediction model for 20-48 horsepower range tractor, with tractor's PTO power, Engine Speed at no load (rpm), Engine speed drop at the load (rpm), and Throttle Setting as input features.•Trained Radial Basis Neural Network(RBNN), Levenberg Neural Network, and Linear Regression model for prediction and function approximation.•Achieved best results with RBNN, with a coefficient of determination(R_squared) as 0.85 for training and 0.81 for testing dataset also RMSE of 0.545 on training and 0.80 on testing.",
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Text Clustering on Accident Dataset of a Steel Power Plant",
+            "description": "•Studied Natural Language ToolKit for handling, pre-processing the textual data of accidents.•Used CountVectorizer to build a vocabulary of words and gauged the importance of words using Tf-Idf Transform .•Clustered the data using K-Means clustering to generate insights on the cause of occurrences of accident.",
+            "description_html": "•Studied Natural Language ToolKit for handling, pre-processing the textual data of accidents.•Used CountVectorizer to build a vocabulary of words and gauged the importance of words using Tf-Idf Transform .•Clustered the data using K-Means clustering to generate insights on the cause of occurrences of accident. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Robin Singh",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Manasi Arun",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Samiksha Garg",
+            "about": "Software Engineer @Microsoft",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjal Magdum",
+            "about": "Associate Consultant",
+            "location": "Kolhapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Snehal Ambade",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Goyal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Surya Pratap Kahar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditi Sharma",
+            "about": "Manager - Process Technology Group | Process Improvement in Ductile Pipe Industry",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratima Nagare",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Paridhi Sachdeva",
+            "about": "Computer Scientist at Adobe | DTU'20",
+            "location": "Noida"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology",
+            "field": "Agricultural Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1100.0,
+    "connections": 500.0,
+    "current_company_company_id": "accenture",
+    "current_company_name": "Accenture",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Midnapore Sadar",
+    "linkedin_id": "srushti-thorat-837ba3156",
+    "activity": [
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "I had the wonderful opportunity to represent Sheradil Foundation at the ACIW #CharityMela, hosted at Trident Hotel, BKC, Mumbai. It was inspiring to…",
+            "img": null,
+            "id": "7262154315698446336"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "An amazing and exhilarating three days at #Nykaaland2.0! We welcomed over 25,000 beauty lovers to India’s biggest beauty playground, filled with…",
+            "img": "",
+            "id": "7257363640016674816"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "🌏Using UPI in Singapore last year!🇸🇬 Lost my international payment-enabled debit card last year here. Was wondering about alternatives when my…",
+            "img": "",
+            "id": "7259109780789559296"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "Interesting SQL Interview Question : Problem Statement: You are given a dataset of stock prices with columns stock_id, date, and price. For each…",
+            "img": "",
+            "id": "7262139892699144192"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "✨ Had a fantastic first day at Shaw Halls as a Food Service Assistant! ✨ It's true—no job is small. Every role holds its own value, and today I got…",
+            "img": "",
+            "id": "7250601703757000704"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "Gone too soon 😢 Not because of his age, but because the world needed him longer - Growing up in the steel city of Jamshedpur, I am the output of…",
+            "img": "",
+            "id": "7249984542319489024"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "This is a picture I will cherish forever. Such a great man and a great mind. Blessed to have known him. Om Shanthi",
+            "img": "",
+            "id": "7249996941005111298"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "I am hiring a couple of SWEs for my team in Bangalore. Someone with 1. roughly 2 to 6 years of experience 2. systems background (storage…",
+            "img": "",
+            "id": "7245292955731681280"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "Hiring Alert📢: Group Product Manager Zepto Zepto is looking for an experienced Group Product Manager (GPM) to lead multiple product charters in…",
+            "img": "",
+            "id": "7244608199062921216"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "IIT KGP is delighted to share that Ms. Arundhati Sinha Roy & Ms. Neha Rai, Research Scholar under the supervision of Dr. Anwesha Aditya, Assistant…",
+            "img": "",
+            "id": "7201470311400161280"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "I am delighted to announce that I’ll be starting a new journey as a Machine Learning Summer 2024 Intern at American Family Insurance beginning on May…",
+            "img": "",
+            "id": "7198117735732568064"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "A customer from #Jaipur has made headlines by purchasing a brand new #Ather450 #ElectricScooter using only Rs 10 #coins. The #CEO of #AtherEnergy…",
+            "img": "",
+            "id": "1"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "Them: Will AI replace my job? Me: AI is your coding copilot, not your career coffin. I get this question in EVERY conversation with…",
+            "img": "",
+            "id": "7140944975596363777"
+        },
+        {
+            "interaction": "Liked by Srushti Thorat",
+            "link": "",
+            "title": "Greetings Connections, After an amazing time at Nomura, it gives me immense excitement and joy to announce that I've Joined OSTC as a Quantitative…",
+            "img": "",
+            "id": "7132352089699041280"
+        }
+    ],
+    "linkedin_num_id": 630007531.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

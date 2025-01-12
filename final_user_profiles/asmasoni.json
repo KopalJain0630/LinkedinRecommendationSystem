@@ -1,0 +1,104 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "PPO Holder, Business Consultant, EY-P | MBA -  Strategy and Leadership, BITSoM '23 | B. Tech. - Computer Science, NIT Raipur '18",
+    "experience": [
+        {
+            "title": "Business Consultant",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2023 - Present 1 year 8 months",
+            "start_date": "May 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 8 months",
+            "company": "EY-Parthenon",
+            "company_id": "ey-parthenon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Consulting Intern",
+            "location": "India",
+            "description_html": null,
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "EY",
+            "company_id": "ernstandyoung",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Functional and Industrial Analytics Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "1. Pricing Analysis (Business Analysis)2. Covid Impact Exploration (Data Analysis and Development)3. Pill Identification (Image Processing, Deep Learning)",
+            "description_html": "1. Pricing Analysis (Business Analysis)2. Covid Impact Exploration (Data Analysis and Development)3. Pill Identification (Image Processing, Deep Learning) <!---->",
+            "duration": "Jul 2020 Jul 2021 1 year 1 month",
+            "start_date": "Jul 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "1 year 1 month",
+            "company": "Accenture AI",
+            "company_id": "accenture",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Data Analyst",
+            "location": "Pune Area, India",
+            "description": "1. Offline Signature Verification using Deep Learning (Development)2. Table Extraction from blurred image pdfs using image processing and xml parsing approaches (Image Processing)3. News Segmentation and Extraction from e-papers (Image Processing)4. Ad Removal from news videos (Deep Learning)5. Recommendation Systems on GCP (Cloud)6. Sales Prediction (Retail Use Case, Business Analysis)7. Loan Defaulter Prediction (Bank Use Case, Data Analysis)8. Sentiment Analysis of Product Reviews (NLP)",
+            "description_html": "1. Offline Signature Verification using Deep Learning (Development)2. Table Extraction from blurred image pdfs using image processing and xml parsing approaches (Image Processing)3. News Segmentation and Extraction from e-papers (Image Processing)4. Ad Removal from news videos (Deep Learning)5. Recommendation Systems on GCP (Cloud)6. Sales Prediction (Retail Use Case, Business Analysis)7. Loan Defaulter Prediction (Bank Use Case, Data Analysis)8. Sentiment Analysis of Product Reviews (NLP)",
+            "duration": "Jul 2018 Jul 2020 2 years 1 month",
+            "start_date": "Jul 2018",
+            "end_date": "Jul 2020",
+            "duration_short": "2 years 1 month",
+            "company": "Datametica Solutions Private Limited",
+            "company_id": "datametica-birds",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Android Developer Intern",
+            "location": "Raipur Area, India",
+            "description": "Back End Android Developer for Feedback Module.",
+            "description_html": "Back End Android Developer for Feedback Module. <!---->",
+            "duration": "May 2016 Jul 2016 3 months",
+            "start_date": "May 2016",
+            "end_date": "Jul 2016",
+            "duration_short": "3 months",
+            "company": "poetcard",
+            "company_id": "poetcard",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "BITSoM - BITS School of Management",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "National Institute of Technology Raipur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": "Activities and Societies: Sanskriti-The Cultural Committee Go Green-The Environment Care Committee",
+            "description_html": "Activities and Societies: Sanskriti-The Cultural Committee Go Green-The Environment Care Committee",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "EY-Parthenon",
+    "publications": "[{\"title\":\"Truck Hall: Riding with the Tide\",\"subtitle\":\"Emerald Group Publishing\",\"date\":\"December 4, 2023\",\"description\":\"A Strategy Case Study on a Logistics company on how to grow and pivot their business\"},{\"title\":\"Time and feature specific sentiment analysis of product reviews\",\"subtitle\":\"IEEE\",\"date\":\"2020\"},{\"title\":\"Analyzing Sentiments of Product Reviews Based on Features\",\"subtitle\":\"IEEE\",\"date\":\"December 3, 2018\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Smart Prospect Retail Use Case\",\"start_date\":\"Jul 2018\",\"end_date\":\"Oct 2018\",\"description\":\"A Machine Learning Project, Internal Project.\"},{\"title\":\"Age Specific Product Review Sentiment Analysis\",\"start_date\":\"Jan 2018\",\"end_date\":\"May 2018\",\"description\":\"Feature Specific Sentiment Analysis of Product Reviews, considering aging factor.\"},{\"title\":\"Feature Specific Product Review Sentiment Analysis\",\"start_date\":\"Jul 2017\",\"end_date\":\"Nov 2017\",\"description\":\"Feature Specific Sentiment Analysis on Product Review Dataset.\"},{\"title\":\"Twitter Sentiment Analysis\",\"start_date\":\"Jul 2017\",\"end_date\":\"Sep 2017\",\"description\":\"Twitter Crawling and tweet Sentiment Analysis in Python.\"},{\"title\":\"Truck Hall: Riding with the Tide\",\"description\":\"A strategy case study of a logistic firm on how to grow and where to pivot their business.\"},{},{}]",
+    "honors_and_awards": null
+}

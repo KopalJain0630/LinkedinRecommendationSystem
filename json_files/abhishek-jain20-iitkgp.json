@@ -1,0 +1,398 @@
+{
+    "id": "abhishek-jain20-iitkgp",
+    "name": "Abhishek Jain",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Engineer 2 | Designing Reliable Automotive Systems",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Jaguar Land Rover India",
+        "company_id": "jlrindia",
+        "title": "Software Engineer 2 | Designing Reliable Automotive Systems"
+    },
+    "experience": [
+        {
+            "title": "Jaguar Land Rover India",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "Jaguar Land Rover India",
+                    "meta": "Jul 2023 - Present 1 year 6 months",
+                    "description": "Health Management• Developed a Diagnostic Fault Manager in C++ tailored for automotive systems, effectively managing Diagnostic Trouble Codes (DTCs) and seamlessly interfacing with error handlers to ensure dependable vehicle diagnostics• Engineered a highly reliable Safe Fault Manager in C++ for automotive ECUs, integrating PHM watchdog monitoring to promptly initiate recovery protocols upon detecting critical system failures, enhancing operational resilience.• Implemented an efficient Asynchronous Service Finder in C++ using Lambda functions, optimizing connection establishment across diverse automotive interfaces to support responsive system functionality.• Utilized Google Test and gMock frameworks to conduct rigorous Unit Testing for automotive software, meticulously validating functionality and ensuring adherence to industry standards through dynamic interface simulation.• Led comprehensive end-to-end testing on actual vehicles, ensuring flawless communication and functionality validation, pivotal in achieving regulatory compliance and readiness for certification in automotive environments.",
+                    "duration": "Jul 2023 - Present 1 year 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 6 months",
+                    "title": "Software Engineer 2",
+                    "description_html": "Health Management<br>• Developed a Diagnostic Fault Manager in C++ tailored for automotive systems, effectively managing Diagnostic Trouble Codes (DTCs) and seamlessly interfacing with error handlers to ensure dependable vehicle diagnostics<br>• Engineered a highly reliable Safe Fault Manager in C++ for automotive ECUs, integrating PHM watchdog monitoring to promptly initiate recovery protocols upon detecting critical system failures, enhancing operational resilience.<br>• Implemented an efficient Asynchronous Service Finder in C++ using Lambda functions, optimizing connection establishment across diverse automotive interfaces to support responsive system functionality.<br>• Utilized Google Test and gMock frameworks to conduct rigorous Unit Testing for automotive software, meticulously validating functionality and ensuring adherence to industry standards through dynamic interface simulation.<br>• Led comprehensive end-to-end testing on actual vehicles, ensuring flawless communication and functionality validation, pivotal in achieving regulatory compliance and readiness for certification in automotive environments."
+                },
+                {
+                    "subtitle": "Jaguar Land Rover India",
+                    "meta": "Mar 2022 - Jun 2023 1 year 4 months",
+                    "description": "Model in Loop/ Software in Loop• Implemented comprehensive end-to-end process, leveraging Behave framework, to seamlessly manage test scheduling, execution & report generation, empowering stakeholders to effortlessly conduct Gherkin-based tests on SiL rigs• Engineered test framework facilitating gateway testing and seamlessly integrated it with different vehicle carlines that empowers left shifting and significantly reduce testing efforts• Created GUI using PyQt5, enabling users to select different configurations & efficiently stack multiple tests• Conceptualized an optimized folder structure & aligned the Simulink model, resulting in the creation of a Git repository to elevate developer synergy in integrating the incoming plant models from suppliers• Executed automated and streamlined solutions to eliminate repetitive tasks, enhancing overall operational efficiency",
+                    "duration": "Mar 2022 Jun 2023 1 year 4 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "1 year 4 months",
+                    "title": "Graduate Software Engineer Trainee",
+                    "description_html": "Model in Loop/ Software in Loop<br>• Implemented comprehensive end-to-end process, leveraging Behave framework, to seamlessly manage test scheduling, execution &amp; report generation, empowering stakeholders to effortlessly conduct Gherkin-based tests on SiL rigs<br>• Engineered test framework facilitating gateway testing and seamlessly integrated it with different vehicle carlines that empowers left shifting and significantly reduce testing efforts<br>• Created GUI using PyQt5, enabling users to select different configurations &amp; efficiently stack multiple tests<br>• Conceptualized an optimized folder structure &amp; aligned the Simulink model, resulting in the creation of a Git repository to elevate developer synergy in integrating the incoming plant models from suppliers<br>• Executed automated and streamlined solutions to eliminate repetitive tasks, enhancing overall operational efficiency"
+                }
+            ],
+            "company": "Jaguar Land Rover India",
+            "company_id": "jlrindia",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Development Engineer",
+            "description": "Jio Cattle Management System | IoT based device for cattle heat montioring• Developed a heartbeat type database ping feature and reconnection mechanism based on different retrial strategies• Responsible for day-to-day backend changes and bug fixes in the Data Collector microservice of JCMS project• Developed robust statistical algorithm for the prediction of heat events in milk producing cattle using the basic features",
+            "description_html": "Jio Cattle Management System | IoT based device for cattle heat montioring• Developed a heartbeat type database ping feature and reconnection mechanism based on different retrial strategies• Responsible for day-to-day backend changes and bug fixes in the Data Collector microservice of JCMS project• Developed robust statistical algorithm for the prediction of heat events in milk producing cattle using the basic features <!---->",
+            "duration": "Jul 2021 Mar 2022 9 months",
+            "start_date": "Jul 2021",
+            "end_date": "Mar 2022",
+            "duration_short": "9 months",
+            "company": "Jio",
+            "company_id": "jio",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Gopali Youth Welfare Society",
+            "description_html": null,
+            "duration": "2 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "Gopali Youth Welfare Society",
+                    "meta": "Jun 2020 - Mar 2021 10 months",
+                    "duration": "Jun 2020 Mar 2021 10 months",
+                    "start_date": "Jun 2020",
+                    "end_date": "Mar 2021",
+                    "duration_short": "10 months",
+                    "title": "Human Resource Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Gopali Youth Welfare Society",
+                    "meta": "Mar 2019 - Jun 2020 1 year 4 months",
+                    "duration": "Mar 2019 Jun 2020 1 year 4 months",
+                    "start_date": "Mar 2019",
+                    "end_date": "Jun 2020",
+                    "duration_short": "1 year 4 months",
+                    "title": "Sponsorship Team Head",
+                    "description_html": null
+                }
+            ],
+            "company": "Gopali Youth Welfare Society",
+            "company_id": "gopali-youth-welfare-society",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product Management Intern",
+            "description": "• Validated hypothesis using users feedback to narrow down the critical areas for improvement of customer experience• Developed the PRD of DiZest & ZestMoney Premium focused on improving customer engagement, targeting 6 Mn+ customers• Led ideation of Zest Bills & presented user-centric analysis to stakeholders to create a better ecosystem for merchant partners• Segmented customer onboarding & journey into detailed user stories (Agile development) for successful implementation",
+            "description_html": "• Validated hypothesis using users feedback to narrow down the critical areas for improvement of customer experience• Developed the PRD of DiZest &amp; ZestMoney Premium focused on improving customer engagement, targeting 6 Mn+ customers• Led ideation of Zest Bills &amp; presented user-centric analysis to stakeholders to create a better ecosystem for merchant partners• Segmented customer onboarding &amp; journey into detailed user stories (Agile development) for successful implementation <!---->",
+            "duration": "Apr 2020 Jul 2020 4 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "4 months",
+            "company": "ZestMoney",
+            "company_id": "zestmoney",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Summer Intern",
+            "location": "IIT Kharagpur",
+            "description": "• Built ensembled architecture using RF, RNN, linear regression for yield prediction & improved accuracy from 90.9% to 96.9%• Classified data into three groups based on temperature zones & preprocessed data having 8 features using the standard scaler• Implemented Grid search and Randomized search for hyperparameter tuning of Random Forest and Optuna framework for RNN",
+            "description_html": "• Built ensembled architecture using RF, RNN, linear regression for yield prediction &amp; improved accuracy from 90.9% to 96.9%• Classified data into three groups based on temperature zones &amp; preprocessed data having 8 features using the standard scaler• Implemented Grid search and Randomized search for hyperparameter tuning of Random Forest and Optuna framework for RNN <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "VegaMX Inc.",
+            "company_id": "vegamx",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Bhavya Rai",
+            "about": "Analyst @Citi | IIT Kharagpur",
+            "location": "West Bengal, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sai Harshit",
+            "about": "PhD School of Aeronautics and Astronautics",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Alok Bharti",
+            "about": "Product @Brick&Bolt | Litifer | GYWS | IIT Kharagpur",
+            "location": "Kharagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Arora",
+            "about": "Lending @ Navi | CFA L2 | FRM P1",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kamal Dhull",
+            "about": "Product Manager at PhonePe | IIT Ropar",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ranjeet Shah",
+            "about": "SQL | Power Bi | Python | Business Analyst | Data Analyst | IITKGP'2020",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Priyadarshi",
+            "about": "IIT Kharagpur",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Nama",
+            "about": "Data Scientist @ ZS | NLP | Gen AI | IIT Kharagpur' 21",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Teerath kumar",
+            "about": "5th Year UG at IIT Kharagpur",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Nikhil Popli",
+            "about": null,
+            "location": "Hisar"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshdeep Bhatia",
+            "about": "American Express | Ex-ABInBev | IIT-KGP",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ekta Bareja",
+            "about": "Deloitte USI || SRCC'21 || B.Com(Hons)",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Govind Kumar Gupta",
+            "about": "Analytics Manager at GroupM | IITKGP",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Jakendra Somarwal",
+            "about": "Senior Manager | Cross-sell Analytics @ Axis Bank | IIT Kharagpur",
+            "location": "Nagaur"
+        },
+        {
+            "profile_link": "",
+            "name": "Avi Mehta",
+            "about": "Software Engineer ll @PayPal (Braintree)",
+            "location": "Austin, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Tiyasha Mitra",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Jain",
+            "about": "Process Engineer Birla Carbon",
+            "location": "Ambala"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanjay Motwani",
+            "about": "Product @ Blinkit | Amex | Shipsy | Jupiter Money | Piramal Group | Product Management | IIT Kharagpur",
+            "location": "Ajmer"
+        },
+        {
+            "profile_link": "",
+            "name": "Satyam Raj",
+            "about": "IIMA PGP'25 | Strategy& | CAT 2022- 99.96%ile | Tata Steel | IIESTS '21",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sargam Choudhary",
+            "about": "Policy Student at TISS, Mumbai | Econ Major from Hansraj | Podcaster | Enactus India | CPRG | Canara Bank",
+            "location": "Delhi, India"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"BM60112\",\"title\":\"Corporate Finance and Financial Accounting\"},{\"subtitle\":\"EP60011\",\"title\":\"Design Driven Innovation \"},{\"subtitle\":\"MA21007\",\"title\":\"Design and Analysis of Algorithms\"},{\"subtitle\":\"HS20001\",\"title\":\"Economics\"},{\"subtitle\":\"EP60020\",\"title\":\"Foundations of Entrepreneurship\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"MA31020\",\"title\":\"Regression and Time Series Model\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        },
+        {
+            "subtitle": "Coursera",
+            "title": "Machine Learning "
+        },
+        {
+            "meta": "Credential ID 1900064756See credential",
+            "subtitle": "National Institute of Securities Markets",
+            "title": "Research Analyst "
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Apr 2018 - Mar 2019 · 1 year",
+            "duration_short": "1 year",
+            "end_date": "Mar 2019",
+            "start_date": "Apr 2018",
+            "subtitle": "Gopali Youth Welfare Society",
+            "title": "Senior Executive Member"
+        },
+        {
+            "cause": "Children",
+            "duration": "Jul 2017 - Apr 2019 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2019",
+            "info": "Led a team of 70 responsible for creating awareness in 2 villages and teaching students in 4 different schools.",
+            "start_date": "Jul 2017",
+            "subtitle": "National Service Scheme",
+            "title": "Unit Leader"
+        }
+    ],
+    "followers": 3505.0,
+    "connections": 500.0,
+    "current_company_company_id": "jlrindia",
+    "current_company_name": "Jaguar Land Rover India",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Behavior Modeling & Behavior Profiling | Healthcare Analytics\",\"start_date\":\"Sep 2020\",\"end_date\":\"Dec 2020\",\"description\":\"• Worked on Behavior Modeling & Behavior Profiling for planning preventive care through health trackers and smartphones• Employed feature selection techniques for selecting important features to improve performance and reduce computation time• Classified the coming stream of sensor data into originally defined behavioral classes using Machine Learning classifiers\"},{\"title\":\"Dynamic Pricing of Omnichannel Inventories\",\"start_date\":\"May 2019\",\"end_date\":\"Oct 2019\",\"description\":\"•Formulated an expression for price optimization in the presence of cross channel interaction in demand and supply•Applied pricing policy based on the partition of store inventories that estimated the way shared resources are utilized•Solved above computationally tractable mixed-integer linear programming problem through IBM CPLEX Optimization Studio•Applied Metaheuristic algorithms which reduced the computational time thereby improving the scalability of the problem\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "abhishek-jain20-iitkgp",
+    "activity": [
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "SDE 1/2,3 Frontend And Backend developer Wanted! 🛑 We are actively hashtag#hiring for a SDE 1,2/3 Front end /Backend developers for Gurugram…",
+            "img": "",
+            "id": "123"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "Had a brilliant philosophical post planned, but then remembered—recruiters gotta recruit... Flipkart is hiring for SDE2 and UI2 roles. Interested?…",
+            "img": "",
+            "id": "7271535793561583616"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "Update: No longer providing referral Hi folks, Rubrik is hiring for SWE and senior SWE roles in Bangalore office. Job description available on…",
+            "img": "",
+            "id": "7271178830529085440"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "When I lived in the US, Black Friday was the event of the year. People camped outside stores overnight to be the first to get the Black Friday…",
+            "img": "",
+            "id": "7267060992616873984"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "Flipkart is hiring an SDE 2 with 2- 4 years of experience to join our team. We're seeking a skilled backend engineer with a background in…",
+            "img": "",
+            "id": "7267064702214508544"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "We at p0, are hiring for backend engineers. If you have 6-9 years of experience and you are ready for a 1-10 journey, we would love to speak to you.…",
+            "img": "",
+            "id": "7266723318806769664"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "Thanks to all my friends and linkedIn network for your referrals and applications. We’re considering applications submitted till EOD 11/20. We’ll…",
+            "img": "",
+            "id": "7264208593782992896"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "🎉 We are delighted to welcome Bhavya Gupta as our newest addition to our engineering cohort at Rippling! 🚀 Joining us from Slice, Bhavya Gupta…",
+            "img": "",
+            "id": "7256732463803031561"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "If you are looking to contribute to a good, active, and deep-tech OSS project, you will find DiceDB pretty neat. We have opened many interesting…",
+            "img": "",
+            "id": "7238749792506368000"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "This is \"How I use to practice LeetCode 3 years back\" A nostalgic memory hit, when I saw my notebook 😭 Had spent #hours, #days, #nights practicing…",
+            "img": "",
+            "id": "7237780865773174785"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "My sister just hired a wedding social media manager to document her wedding, who will post live stories, candid photos, and trending reels in real…",
+            "img": "",
+            "id": "7233734561082327040"
+        },
+        {
+            "interaction": "Liked by Abhishek Jain",
+            "link": "",
+            "title": "Consulting at McKinsey/Bain/BCG was the most sought after job when I was graduating from BSchool But my batchmates who stayed on the longest in one…",
+            "img": "",
+            "id": "7232996409287864321"
+        }
+    ],
+    "linkedin_num_id": 611693179.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

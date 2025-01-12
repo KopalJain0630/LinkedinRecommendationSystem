@@ -1,0 +1,38 @@
+{
+    "city": "India",
+    "position": "IIT-KGP '24",
+    "experience": [
+        {
+            "title": "Research Trainee",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Addverb",
+            "company_id": "addverb",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "ENGINEERING",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Addverb",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Computer Vision based Game Setup\",\"description\":\"• Developed a program for any microprocessor operated setup to facilitate a ball-shooting game suitable for exhibitions.• Utilized OpenCV library and Image Processing techniques like canny edge detection, and warp perspective transform.• Added functionality for motion tracking, hit detection, tilt correction, and score calculation based on target accuracy.• Developed a Flask based web application to register players, sort, display, and announce the scores using gtts library.GameTracker (Github)-https://github.com/BruteForce009/vision-game-trackerWebApp (Github)- https://github.com/BruteForce009/Take-an-Aim\"},{\"title\":\"IoT Applications for Precise Agriculture\",\"description\":\"• Built a system of sensing modules as a 61% cheaper alternative to Libelium Smart Agriculture for precision agriculture.• Programmed and deployed the devices to periodically send the sensor data in JSON format via HTTP POST requests.• Developed a full-stack web application for users to register, log in, monitor, sort, visualize and download the CSV data.• Studied the changing environmental variables by processing and plotting the data using NumPy, Pandas & Matplotlib.• Deployed the web application on a Linux-based server to handle the user requests using Nginx, Gunicorn & Supervisor.• Worked on integrating the web application with an existing Django based mobile application, using only one database.Github- https://github.com/BruteForce009/sensors-interface\"},{\"title\":\"Stock & Option Price Analysis\",\"description\":\"• Extracted stock prices from yahoo finance into Pandas dataframe and analyzed their past returns and moving averages.• Used Matplotlib and Seaborn in python to generate instructive visualizations like pair-plot, heat map, and cluster map.• Automated the retrieval and edition of the stock & option price data into an Excel file using Openpyxl and ExcelWriter.• Utilized the data to estimate the European option prices by calculating volatility and using Black-Scholes formulation.\"}]",
+    "honors_and_awards": null
+}

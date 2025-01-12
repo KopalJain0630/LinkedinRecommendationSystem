@@ -1,0 +1,40 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2021",
+            "subtitle": "Udemy",
+            "title": "Selenium WebDriver with Java"
+        },
+        {
+            "meta": "Credential ID 001192602",
+            "subtitle": "Scrum Alliance",
+            "title": "Certified Scrum Product Owner (CSPO)"
+        },
+        {
+            "subtitle": "Scrum.org",
+            "title": "Certified ScrumMaster (CSM)"
+        },
+        {
+            "subtitle": "Taylor Associates, London, United Kingdom",
+            "title": "Introduction to Financial Markets"
+        },
+        {
+            "subtitle": "ISTQB - International Software Testing Qualifications Board",
+            "title": "ISTQB"
+        },
+        {
+            "subtitle": "NCFM Share Market Training Insitute",
+            "title": "NCFM - Beginners module"
+        }
+    ],
+    "current_company_name": "Mastercard",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

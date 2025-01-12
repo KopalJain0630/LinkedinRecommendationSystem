@@ -1,0 +1,369 @@
+{
+    "id": "rishotics",
+    "name": "Rishabh Gupta",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Rize • Goldman Sachs • IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Rize Labs",
+        "company_id": "rize-labs",
+        "title": "Rize • Goldman Sachs • IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Chief Executive Officer",
+            "description_html": null,
+            "duration": "Feb 2023 - Present 1 year 11 months",
+            "start_date": "Feb 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 11 months",
+            "company": "Rize Labs",
+            "company_id": "rize-labs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2021 Nov 2022 1 year 5 months",
+            "start_date": "Jul 2021",
+            "end_date": "Nov 2022",
+            "duration_short": "1 year 5 months",
+            "company": "Goldman Sachs",
+            "company_id": "goldman-sachs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "Australia",
+            "description_html": null,
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "UNSW",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka",
+            "description_html": null,
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Visiting Researcher",
+            "location": "Sydney, New South Wales, Australia",
+            "description_html": null,
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "University of Sydney",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "United States",
+            "description_html": null,
+            "duration": "May 2018 Oct 2018 6 months",
+            "start_date": "May 2018",
+            "end_date": "Oct 2018",
+            "duration_short": "6 months",
+            "company": "Kent State University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Associate",
+            "location": "Kanpur Area, India",
+            "description_html": null,
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Semester Intern",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Aug 2017 Dec 2017 5 months",
+            "start_date": "Aug 2017",
+            "end_date": "Dec 2017",
+            "duration_short": "5 months",
+            "company": "mBreath",
+            "company_id": "mbreath",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shivangi Sharma",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Adnaan Nazir",
+            "about": null,
+            "location": "Srinagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Shaili Shah",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Khyati Jain",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Gupta",
+            "about": "Strat Tech Lead @ DE Shaw",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhairya Sandhyana",
+            "about": null,
+            "location": "Seoul, South Korea"
+        },
+        {
+            "profile_link": "",
+            "name": "Saphal Patro",
+            "about": "SWE @ Bloomberg",
+            "location": "Jersey City, NJ"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh De",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Ujjawal ..",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vansh Pahwa",
+            "about": null,
+            "location": "Greater Delhi Area"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Applied Geology | Computer Science and Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2021",
+            "description": "Activities and Societies: Captain : Inter Hall Hardware Modelling, Actor at Pravah : Hindi Technology Dramatics Society",
+            "description_html": "Activities and Societies: Captain : Inter Hall Hardware Modelling, Actor at Pravah : Hindi Technology Dramatics Society",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "mercy memorial school",
+            "start_year": "2000",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization\"},{\"subtitle\":\"-\",\"title\":\"Neural Networks and Deep Learning\"},{\"subtitle\":\"CS21003\",\"title\":\"Algorithm - I\"},{\"subtitle\":\"CS29003 \",\"title\":\"Algorithms Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Goldman Sachs MyLearning - CF&O Core Analyst Track 2021\"},{\"subtitle\":\"-\",\"title\":\"Machine learning in Medicine \"},{\"subtitle\":\"-\",\"title\":\"Operation Research \"},{\"subtitle\":\"MA20104\",\"title\":\"Probability And Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures \"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures Lab\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "duration": "Aug 2016 - Present · 8 years 5 months",
+            "duration_short": "8 years 5 months",
+            "end_date": "Present",
+            "start_date": "Aug 2016",
+            "subtitle": "National Service Scheme",
+            "title": "Fundraising Assistant"
+        }
+    ],
+    "followers": 1996.0,
+    "connections": 500.0,
+    "current_company_company_id": "rize-labs",
+    "current_company_name": "Rize Labs",
+    "publications": "[{\"title\":\"Evaluation of deep learning models for multi-step ahead time series prediction\",\"subtitle\":\"arXiv preprint arXiv:2103.14250\",\"date\":\"March 24, 2021\",\"description\":\"Time series prediction with neural networks have been focus of much research in the past few decades. Given the recent deep learning revolution, there has been much attention in using deep learning models for time series prediction, and hence it is important to evaluate their strengths and weaknesses. In this paper, we present an evaluation study that compares the performance of deep learning models for multi-step ahead time series prediction. Our deep learning methods compromise of simple recurrent neural networks, long short term memory (LSTM) networks, bidirectional LSTM, encoder-decoder LSTM networks, and convolutional neural networks. We also provide comparison with simple neural networks use stochastic gradient descent and adaptive gradient method (Adam) for training. We focus on univariate and multi-step-ahead prediction from benchmark time series datasets and compare with results from from the literature. The results show that bidirectional and encoder-decoder LSTM provide the best performance in accuracy for the given time series problems with different properties.\"},{\"title\":\"Delhi air quality prediction using LSTM deep learning models with a focus on COVID-19 lockdown\",\"subtitle\":\"arXiv preprint arXiv:2102.10551\",\"date\":\"January 24, 2021\",\"description\":\"Air pollution has a wide range of implications on agriculture, economy, road accidents, and health. In this paper, we use novel deep learning methods for short-term (multi-step-ahead) air-quality prediction in selected parts of Delhi, India. Our deep learning methods comprise of long short-term memory (LSTM) network models which also include some recent versions such as bidirectional-LSTM and encoder-decoder LSTM models. We use a multivariate time series approach that attempts to predict air quality for 10 prediction horizons covering total of 80 hours and provide a long-term (one month ahead) forecast with uncertainties quantified. Our results show that the multivariate bidirectional-LSTM model provides best predictions despite COVID-19 impact on the air-quality during full and partial lockdown periods. The effect of COVID-19 on the air quality has been significant during full lockdown; however, there was unprecedented growth of poor air quality afterwards.\"},{\"title\":\"A Proposal of FPGA-based Low Cost and Power Efficient Autonomous Fruit Harvester\",\"subtitle\":\"6th International Conference on Control, Automation and Robotics (ICCAR 2020)\",\"date\":\"Apr 2020\",\"description\":\"The significant contribution of our work is:-• Development of a power-efficient bot which is enabled by FPGA, a low-power embedded system which shows an optimization in both power consumption and performance in Deep Neural Networks (DNNs) applications.• The biggest challenges for the cost-effective robotic-fruit plucker are detection, i.e. determining the location of each fruit and detaching them from the plant without harming the plant in the absence of costly sensors and processing unit.• We demonstrate a simple and effective vision-based algorithm for fruit, a 3D localization, and a grasp selection method.\"},{\"title\":\"Deep reinforcement learning for variability prediction in latent heat flux from low-cost meteorological parameters\",\"subtitle\":\"Optics and Photonics for Advanced Dimensional Metrology, International Society for Optics and Photonics\",\"date\":\"Mar 2020\",\"description\":\"Predicting cropland latent heat flux (LHF) from commonly measured low-cost meteorological parameters (MPs) like net solar radiation, soil and air temperature, vapor pressure deficit, wind speed, and canopy temperature of the crops is essential for modeling crop production and managing water resources economically. In this treatise, we explore the deep reinforcement learning framework for short-term LHF trend estimation from the above MPs. The problem is reformulated as a classification problem, where each MP is acquired for a cost, and the objective is to optimize the trade-off between the predicted trend error and the relative MP acquisition cost. A sequential trend forecasting problem is evaluated via Q-learning with a linear guesstimate and a deep Q-learning scheme via neural network, where the distinct actions are the individual request for the MP values, and each episode is terminated by anticipating a trend. The proposed methodology is validated on the acquired farm-data, collected from the field experiments conducted on the cropland monitoring sites at Bidhan Chandra Krishi Viswavidyalaya State Agricultural University, Kalyani, West Bengal, India. The three non-rice crops, namely the yellow Sarson (mustard), potato, and green-gram, are studied owing to their similar energy balance partitioning patterns.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Prize DAO\",\"start_date\":\"Mar 2022\",\"description\":\"At Prize DAO we will be solving the problem for hackers who are taking part in hackathons and not able to claim their prizes. Many times hackers are not provided with their fair share of bounty prizes which they deserve as a reward for winning the hackathon.\"},{\"title\":\"Battle Arena\",\"start_date\":\"Feb 2022\",\"end_date\":\"Mar 2022\",\"description\":\"Battle Arena allows gaming enthusiasts (and even non-gaming enthusiasts) to bet on their favourite professional teams participating in E-Games World Tournaments with a single button.\"},{\"title\":\"A Proposal of FPGA-based Low Cost and Power Efficient Autonomous Fruit Harvester\",\"start_date\":\"Sep 2019\",\"end_date\":\"Jan 2020\",\"description\":\"• Increased the efficiency of fruit plucking process by decreasing the total amount of man-hours and cost of harvesting by 54% and 48% respectively• Integrated computer vision algorithms for fruit detection by training a computationally efficient Binarized Neural Network (BNN) on MS COCO dataset• Extracted real-world coordinates of detected fruits in 3D using point cloud estimation and depth data acquired from a Microsoft X-box Kinect• Achieved classification accuracy of 95.8% on the BNN for fruit identification; network gave 30 FPS on a low cost &computationally primitive FPGA board\"},{\"title\":\"Development of an autonomous Unmanned Aerial Vehicle for the continuous chemical pollutants mapping of an area\",\"start_date\":\"Jul 2018\",\"end_date\":\"Jan 2019\",\"description\":\"• Integrated hardware sensors with software components for chemical pollutants and particulate matter data acquisition • Implemented control algorithms using PIXHAWK flight controller and Raspberry Pi 3 for the stabilisation of flight\"},{\"title\":\"Using Stroke width Transformation to understand hand written text of a document.\",\"start_date\":\"Mar 2018\",\"end_date\":\"May 2018\",\"description\":\"Using SWT to identify first the different strokes and then applying connected components to form letters using threshold values.\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "rishotics",
+    "activity": [
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Exactly six months back, I left my well-paying job to start something new. After Pillow shut down, Ujjwal, Saran and I went on our own separate…",
+            "img": "",
+            "id": "7225837632268730368"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Looking back while transitioning to Venture capital as a career path, I had many questions about the field. If you’re on a similar path, I’ve shared…",
+            "img": "",
+            "id": "7227251555735846913"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "\"I changed the prompt but I think it's causing regressions elsewhere\" \"I want to try out Claude and see if it works better than GPT-4 for my…",
+            "img": "",
+            "id": "7181524663192227842"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Thrilled to unveil how Treetology is revolutionizing corporate sustainability efforts! 🌿✨ Imagine every product your company sells transforming…",
+            "img": "",
+            "id": "7184515244579328000"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Ever felt butterflies fluttering in your stomach before a big moment? Or a knot in your gut when things go south? It's not just in your head—your…",
+            "img": "",
+            "id": "7172508328944627712"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "On my way to ETH Denver and doing Huddle01 call with Shashank Shekhar Singh (in Bangalore,India)💫☁️ The upload and download speed is super slow but…",
+            "img": "",
+            "id": "7168074578383110145"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Immutable zkEVM Mainnet Early Access is live! The future of gaming is here with the launch of Immutable zkEVM Mainnet, powered by Polygon…",
+            "img": "",
+            "id": "7157855354066817024"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "🧠 How can you get an LLM to perform better at complex reasoning tasks? A prompting technique that can significantly improve an LLM's ability to do…",
+            "img": "",
+            "id": "7157850204065427456"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Athina AI (YC W23) now supports all the Ragas metrics natively 🚀 Ragas is a framework with SoTA metrics for evaluating RAG pipelines. - Context…",
+            "img": "",
+            "id": "7156745106308395008"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Proud to report that FiddleCube is featured in the Y Combinator Top Generative AI Startups List for 2024!! ",
+            "img": "",
+            "id": "7156821118589267968"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "🌐 Exciting News from Intersec Dubai 2024! 🚀 Thrilled to share the success of Bidaal, our AI-IoT startup, at Intersec Dubai - the global hub for…",
+            "img": "",
+            "id": "7158332591530463233"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "It was lovely meeting all the builders in the crypto ecosystem during my trip to Bangalore. The future is looking incredibly bright for entrepreneurs…",
+            "img": "",
+            "id": "7153477399668502528"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "A recent graduate didn't show up for the interview that was on the calendar after an initial screening and didn't even have the courtesy to respond…",
+            "img": "",
+            "id": "7151584779103014912"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Decentralized sequencer friendly consensus algorithms for zk rollups: Today I delivered a talk on my thoughts on consensus protocols for…",
+            "img": "",
+            "id": "7153263897590833152"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Hey LinkedIn fam, I am elated to announce that I am joining my new role at Kalaari Capital as a Venture Capital fellow. Eagerly anticipating the…",
+            "img": "",
+            "id": "7154831303270383616"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "With all the razzmatazz around Bitcoin ETFs... #bitcoinetf",
+            "img": "",
+            "id": "7148773603931545601"
+        },
+        {
+            "interaction": "Liked by Rishabh Gupta",
+            "link": "",
+            "title": "Large Language Models (LLMs) like ChatGPT are transforming our society, but major privacy concerns remain. 🤷 At Zama, we believe that Fully…",
+            "img": "",
+            "id": "7148347687698948099"
+        }
+    ],
+    "linkedin_num_id": 257527120.0,
+    "honors_and_awards": [
+        {
+            "title": "Katan Protocol",
+            "publication": "Worldcoin",
+            "date": "2022-05-01T00:00:00.000Z",
+            "description": "Won the \"Worldcoin(World ID) pool prize\" at ETH Global's Hack Money 2022"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

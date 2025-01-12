@@ -1,0 +1,29 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019-01",
+            "end_year": "2024-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"MA21007\",\"title\":\"DESIGN & ANALYSIS OF ALGORITHMS\"},{\"subtitle\":\"MA20104\",\"title\":\"PROBABILITY & STATISTICS\"},{\"subtitle\":\"MA41011\",\"title\":\"THEORY OF OPERATING SYSTEMS\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        }
+    ],
+    "current_company_name": "Evva Health",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

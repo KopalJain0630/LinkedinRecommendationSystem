@@ -1,0 +1,355 @@
+{
+    "id": "simchopra",
+    "name": "Sim Chopra",
+    "city": "Ontario, California, United States",
+    "country_code": "US",
+    "position": null,
+    "about": "I am a recent Princeton University graduate, with a Bachelor of Science in Engineering…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "German Aerospace Center (DLR)",
+        "company_id": "dlr"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Akshat Shah",
+            "about": null,
+            "location": "Dallas, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Sierra Skelly",
+            "about": null,
+            "location": "San Diego, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Komal Agrawal",
+            "about": null,
+            "location": "Greater Chicago Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Nazirah Ahmad",
+            "about": "Communications Manager at EMC Communications",
+            "location": "New York City Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Karine Pagus",
+            "about": null,
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Carly Burstein",
+            "about": null,
+            "location": "Greater Boston"
+        },
+        {
+            "profile_link": "",
+            "name": "Cason Kinnard",
+            "about": "Marketing Director at Chick-Fil-A",
+            "location": "Nashville Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Bethany Wilterdink",
+            "about": null,
+            "location": "Greater Chicago Area"
+        },
+        {
+            "profile_link": "",
+            "name": "David Pantera",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Nanbo Li",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Sebastian Riera",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Haley Newbanks",
+            "about": null,
+            "location": "Dallas, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Brittany Junkins",
+            "about": null,
+            "location": "Tampa, FL"
+        },
+        {
+            "profile_link": "",
+            "name": "Ryan Budd",
+            "about": null,
+            "location": "Atlanta, GA"
+        },
+        {
+            "profile_link": "",
+            "name": "Chimezie Ebiriekwe",
+            "about": null,
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Caroline Camp",
+            "about": null,
+            "location": "Atlanta, GA"
+        },
+        {
+            "profile_link": "",
+            "name": "Siran Xie",
+            "about": null,
+            "location": "Los Angeles Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Corey Braccialini",
+            "about": null,
+            "location": "Denver, CO"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhumika Bhandari",
+            "about": null,
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Akanksha Chauhan",
+            "about": null,
+            "location": "Austin, Texas Metropolitan Area"
+        }
+    ],
+    "educations_details": "Princeton University",
+    "education": [
+        {
+            "title": "Princeton University",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2021",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": "[{\"subtitle\":\"ORF 350\",\"title\":\"Analysis of Big Data\"},{\"subtitle\":\"COS 126\",\"title\":\"Computer Science: An Interdisciplinary Approach (Java)\"},{\"subtitle\":\"ORF 363\",\"title\":\"Computing and Optimization for the Physical and Social Sciences (MATLAB, Python)\"},{\"subtitle\":\"ECO 312\",\"title\":\"Econometrics: A Mathematical Approach (R, Stata)\"},{\"subtitle\":\"ORF 335\",\"title\":\"Financial Mathematics (Python, Excel)\"},{\"subtitle\":\"EGR 153\",\"title\":\"Foundations of Engineering: Electricity, Magnetism, and Photonics\"},{\"subtitle\":\"EGR 154\",\"title\":\"Foundations of Engineering: Linear Systems\"},{\"subtitle\":\"EGR 152\",\"title\":\"Foundations of Engineering: Mathematics of Shape and Motion (Matlab)\"},{\"subtitle\":\"EGR 151\",\"title\":\"Foundations of Engineering: Mechanics, Energy, and Waves (Creo)\"},{\"subtitle\":\"EGR 156\",\"title\":\"Foundations of Engineering: Multivariable Calculus\"},{\"subtitle\":\"ORF 245\",\"title\":\"Fundamentals of Statistics (R)\"},{\"subtitle\":\"ORF 445\",\"title\":\"High Frequency Markets: Models and Data Analysis\"},{\"subtitle\":\"ECO 100\",\"title\":\"Intro to Microeconomics\"},{\"subtitle\":\"COS 217\",\"title\":\"Intro to Programming Systems (C)\"},{\"subtitle\":\"SML 201\",\"title\":\"Introduction to Data Science (R)\"},{\"subtitle\":\"ECE 364\",\"title\":\"Machine Learning for Predictive Data Analysis (Python)\"},{\"subtitle\":\"SML 306\",\"title\":\"Machine Learning with Social Data\"},{\"subtitle\":\"MAE 305\",\"title\":\"Mathematics in Engineering I: Ordinary Differential Equations (Mathematica)\"},{\"subtitle\":\"ECO 310\",\"title\":\"Microeconomic Theory: A Mathematical Approach\"},{\"subtitle\":\"ORF 387\",\"title\":\"Networks\"},{\"subtitle\":\"ORF 307\",\"title\":\"Optimization (Python)\"},{\"subtitle\":\"ORF 309\",\"title\":\"Probability and Stochastic Systems\"},{\"subtitle\":\"ORF 405\",\"title\":\"Regression and Applied Time Series (R)\"},{\"subtitle\":\"SML 310\",\"title\":\"Research Projects in Data Science (R, Python)\"},{\"subtitle\":\"CEE 460\",\"title\":\"Risk Analysis\"},{\"subtitle\":\"CEE 262B\",\"title\":\"Structures and the Urban Environment\"},{\"subtitle\":\"POL 245\",\"title\":\"Visualizing Data (R)\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "AT&T",
+            "title": "AT&T Summer Learning Academy Externship"
+        }
+    ],
+    "recommendations": [
+        "“Few people have the opportunity to work with someone as talented as Sim. During the iXperience data science bootcamp, we were tasked with developing actionable insights for a South African youth employment agency. In just 2 weeks, Sim displayed unparalleled intellectual curiosity and technical abilities. I was impressed her ability not only identify connections in our dataset, but to then test those hypothesis with efficient and maintainable code. Sim is a reliable team player and will be a asset to any company! ” Show less"
+    ],
+    "volunteer_experience": [
+        {
+            "cause": "Civil Rights and Social Action",
+            "duration": "Jan 2020 - May 2023 · 3 years 5 months",
+            "duration_short": "3 years 5 months",
+            "end_date": "May 2023",
+            "info": "As a Fields Fellow and trained peer leader, I work with other fellows to educate and advocate for my campus community in relation to diversity, inclusion, and social justice through peer-facilitated workshops, trainings, and dialogues.",
+            "start_date": "Jan 2020",
+            "subtitle": "Princeton University",
+            "title": "Fellow: Carl A. Fields Center for Equality and Cultural Understanding Fields Fellowship"
+        },
+        {
+            "cause": "Civil Rights and Social Action",
+            "duration": "Jul 2020 - Aug 2020 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Aug 2020",
+            "start_date": "Jul 2020",
+            "subtitle": "Harvard University",
+            "title": "Get Out the Vote (GOTV) Initiative Participant"
+        }
+    ],
+    "followers": 1670.0,
+    "connections": 500.0,
+    "current_company_company_id": "dlr",
+    "current_company_name": "German Aerospace Center (DLR)",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"In Search of the Recipe for Hit Songs: Predicting Hit Songs Using Machine Learning\",\"start_date\":\"Apr 2022\",\"end_date\":\"May 2023\",\"description\":\"Advised by Professor Elizaveta Rebrova. Formulated a 100 page machine learning research thesis over a year-long period. Applied multiple regression algorithms (logistic, LASSO, and elastic net), along with Decision Tree and Random Forest models, to a large-scale music data set (Million Song Dataset) and implemented K-fold cross validation for optimal model hyperparameters. Evaluated all 5 models using various classification metrics and identified the relative significance of metadata features compared to audio features in predicting hit song potential with 83% accuracy. Received an A for final senior thesis grade.\"},{\"title\":\"Excessive Positivity in the Sharing Economy: A Case Study with Airbnb Data in 5 US Cities\",\"start_date\":\"Feb 2021\",\"end_date\":\"May 2021\",\"description\":\"Advised by Professor Daisy Yan Huang. Designed semester-long project and completed independent research to produce 30 page report which applies machine learning/regression methods to pinpoint different underlying factors that contribute to a high number of positive reviews on Airbnb. Utilized Random Forest in R for feature selection from 50+ features, applied sentiment analysis using VADER in Python, and trained 4 LASSO regression models in R until an efficient champion model was found.\"},{\"title\":\"Optimism and Employment Success at Harambee\",\"start_date\":\"Jan 2021\",\"end_date\":\"Jan 2021\",\"description\":\"Completed social impact project in Python and worked in a team of 3 to develop metrics, identify patterns, and derive data-based evidence from survey results to inform an international youth employment accelerator's program management where to target resources for extended involvement.\"},{\"title\":\"B^2: Budgeting for Beginners\",\"start_date\":\"Jul 2020\",\"end_date\":\"Jul 2020\",\"description\":\"A minimum viable product of a mobile investing app, powered by machine learning, that utilizes market research and the users' financial aspirations to allow for efficient investment.\"},{\"title\":\"Choplery\",\"start_date\":\"Dec 2019\",\"end_date\":\"Jan 2020\",\"description\":\"An eco friendly alternative, centered around tackling plastic waste, for everyday utensils. Transforming between chopsticks, a knife, a fork, a spoon, and a straw, this product revolutionizes how an individual goes about eating their meals. Created a business model, designs, and 3d model with Creo in team of 3.\"}]",
+    "organizations": [
+        {
+            "title": "Leadership Enterprise for a Diverse America (LEDA)",
+            "membership_type": "Cohort 14 Scholar",
+            "start_date": "Apr 2018",
+            "end_date": "Present",
+            "description": "LEDA recruits 100 exceptional high school juniors who spend seven weeks the following summer at the Aspects of Leadership Summer on Princeton's campus. LEDA Scholars receive guidance and mentorship during their senior and college years.",
+            "membership_number": null
+        },
+        {
+            "title": "Scholars Institute Fellows Program (SIFP)",
+            "membership_type": "Mentee",
+            "start_date": "Jul 2019",
+            "end_date": "May 2023",
+            "membership_number": null
+        },
+        {
+            "title": "Scripps College Academy (SCA)",
+            "membership_type": "Cohort 15 Scholar",
+            "start_date": "Apr 2017",
+            "end_date": "May 2023",
+            "description": "SCA is an intensive, multi-year program for high-achieving and first-generation women. Scholars are recruited their sophomore year of high school and spend two weeks on Scripps College's campus. After the summer residential program, scholars engage in weekend activities such as science research, ACT preparation, and faculty-led book clubs.",
+            "membership_number": null
+        }
+    ],
+    "location": "Ontario",
+    "linkedin_id": "simchopra",
+    "activity": [
+        {
+            "interaction": "Liked by Sim Chopra",
+            "link": "",
+            "title": "I'm very excited to share a couple of…",
+            "img": "",
+            "id": "7169795263249809408"
+        },
+        {
+            "interaction": "Liked by Sim Chopra",
+            "link": "",
+            "title": "As recruiting starts to ramp up again…",
+            "img": "",
+            "id": "6828174688099934208"
+        },
+        {
+            "interaction": "Liked by Sim Chopra",
+            "link": "",
+            "title": "Fall recruiting is here! Now is when…",
+            "img": "",
+            "id": "6828069393222782976"
+        },
+        {
+            "interaction": "Liked by Sim Chopra",
+            "link": "",
+            "title": "If you are a 2023 graduate looking for…",
+            "img": "",
+            "id": "6823256689320497153"
+        },
+        {
+            "interaction": "Liked by Sim Chopra",
+            "link": "",
+            "title": "This is just… 🤯 Apple is more…",
+            "img": "",
+            "id": "6826489046357852160"
+        },
+        {
+            "interaction": "Liked by Sim Chopra",
+            "link": "",
+            "title": "⚡️ I’m excited to announce the August…",
+            "img": "",
+            "id": "2021"
+        },
+        {
+            "interaction": "Liked by Sim Chopra",
+            "link": "",
+            "title": "3 years ago, my mom 𝐛𝐫𝐨𝐤𝐞 𝐢𝐧𝐭𝐨…",
+            "img": "",
+            "id": "6819332674080120832"
+        },
+        {
+            "interaction": "Liked by Sim Chopra",
+            "link": "",
+            "title": "🚨🚨 Resume Booster Alert!! 🚨🚨 As…",
+            "img": "",
+            "id": "6815840848459243520"
+        }
+    ],
+    "linkedin_num_id": 827738401.0,
+    "honors_and_awards": [
+        {
+            "title": "John C. Bogle '51 Fellows in Civic Service",
+            "publication": "Pace Center for Civic Engagement",
+            "date": "2020-03-01T00:00:00.000Z",
+            "description": "One of twenty three Princeton first-year students selected for funding to pursue a self-designed summer internship project focused on civic service."
+        },
+        {
+            "title": "Noble Math Aficionado Award",
+            "publication": "Nogales High School",
+            "date": "2019-06-01T00:00:00.000Z",
+            "description": "Nogales High School's Math Department recognizes one senior (from graduating class of approx. 430 students) who has demonstrated strong enthusiasm in the subject throughout his/her high school career."
+        },
+        {
+            "title": "Edison STEM Scholar",
+            "publication": "Southern California Edison",
+            "date": "2019-05-01T00:00:00.000Z",
+            "description": "A $40,000 scholarship is awarded to thirty high school seniors who are empowered to innovate change through STEM."
+        },
+        {
+            "title": "Horatio Alger National Scholar",
+            "publication": "Horatio Alger",
+            "date": "2019-04-01T00:00:00.000Z",
+            "description": "This $25,000 scholarship is annually awarded to 106 high school students throughout the nation who have faced and overcame obstacles in their young lives."
+        },
+        {
+            "title": "Quest for Excellence STEM Award",
+            "publication": "Questbridge",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "Achieving, low-income high school juniors with career interests in STEM are chosen for this award."
+        },
+        {
+            "title": "Hope of America",
+            "publication": "Kiwanis Cal-Nev-Ha Foundation",
+            "date": "2017-07-01T00:00:00.000Z",
+            "description": "The Hope of America award recognizes students for their leadership and character."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

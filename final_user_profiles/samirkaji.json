@@ -1,0 +1,30 @@
+{
+    "city": "Menlo Park, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Santa Clara University",
+            "url": "",
+            "start_year": "2005",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1994",
+            "end_year": "1998",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Allocate",
+    "publications": "[{\"title\":\"Small Giants; Micro VC\",\"subtitle\":\"CB Insights\",\"date\":\"August 4, 2015\",\"description\":\"An update of the ever evolving Micro-VC landscape\"},{\"title\":\"Where is Micro-VC going\",\"subtitle\":\"CB Insights\",\"date\":\"September 4, 2014\",\"description\":\"Views on the Micro-VC market\"},{\"title\":\"Understanding Fund leverage\",\"subtitle\":\"NVCA\",\"date\":\"October 29, 2012\",\"description\":\"Discussion about Capital Call lines of credit for VC and PE funds\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,287 @@
+{
+    "id": "venkata-sai-gunda",
+    "name": "Venkata Sai Gunda",
+    "city": "Tempe, Arizona, United States",
+    "country_code": "US",
+    "position": "Humana | ASU | IIT Kharagpur | Mitacs",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Humana",
+        "company_id": "humana",
+        "title": "Humana | ASU | IIT Kharagpur | Mitacs"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist 1",
+            "location": "Louisville, Kentucky, United States",
+            "description_html": null,
+            "duration": "May 2024 Aug 2024 4 months",
+            "start_date": "May 2024",
+            "end_date": "Aug 2024",
+            "duration_short": "4 months",
+            "company": "Humana",
+            "company_id": "humana",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "description_html": null,
+            "duration": "Jan 2023 May 2023 5 months",
+            "start_date": "Jan 2023",
+            "end_date": "May 2023",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Researcher",
+            "location": "Concordia University, Montreal, Quebec, Canada",
+            "description_html": null,
+            "duration": "May 2022 Jan 2023 9 months",
+            "start_date": "May 2022",
+            "end_date": "Jan 2023",
+            "duration_short": "9 months",
+            "company": "Mitacs",
+            "company_id": "mitacs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Researcher",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Aug 2021 May 2022 10 months",
+            "start_date": "Aug 2021",
+            "end_date": "May 2022",
+            "duration_short": "10 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Hrishika Pathak",
+            "about": "mechanical engineer",
+            "location": "Guwahati"
+        },
+        {
+            "profile_link": "",
+            "name": "Arpit Roy",
+            "about": "Accomplished Computer Science Graduate | Dedicated Software Engineer | Customer-Focused Solutions | Passionate about XR Technology",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanya Seth",
+            "about": "Marketing Team Lead at Paytm",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Ramu Mohan",
+            "about": "Relationship Manager - SME, at State Bank of India",
+            "location": "Kottayam"
+        },
+        {
+            "profile_link": "",
+            "name": "Gaurav Singh",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivani Bansal",
+            "about": null,
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Yoshita Bardhan",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "CA Jenil Shah",
+            "about": "GST | Compliance » Advisory » Litigation",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhupendra Bokade",
+            "about": "Real Estate Appraiser | Civil Engineer",
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "Vijay Patidar",
+            "about": "Research Analyst",
+            "location": "Indore"
+        }
+    ],
+    "educations_details": "Arizona State University",
+    "education": [
+        {
+            "title": "Arizona State University",
+            "degree": "Master's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": "Courses: Statistical Machine Learning Data Mining Artificial Intelligence",
+            "description_html": "Courses:Statistical Machine LearningData MiningArtificial Intelligence <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Telugu "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2643.0,
+    "connections": 500.0,
+    "current_company_company_id": "humana",
+    "current_company_name": "Humana",
+    "publications": "[{\"title\":\"JITBoost: Boosting Just-In-Time Defect Prediction Using Boolean Combination of Classifiers\",\"subtitle\":\"IEEE International Conference on Software Quality, Reliability, and Security (QRS 2023)\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"GenAI for Education - Innovation Academy ASU\",\"description\":\"• Developed an AI-powered education tool featuring a Subject Matter Expert, Recommendation system, and Exam prep aid• Designed a SME with LangChain and GPT-4, FAISS vector database and RAG for context-aware content generation.• Built Recommender and Aid, using few-shot prompting for adaptive MCQs, and LLM-based summarization and skill matching\"},{\"title\":\"Investigating Effectiveness of PINNs, DeepONets in Modeling Dynamical Systems\",\"description\":\"• Identified drawbacks in PINNs and DeepONets through 100+ experiments with 10,000 simulations of damped pendulum system• Proposed iterative inference for high-frequency ranges, reducing MSE by 800% and boosting accuracy in extended time periods\"}]",
+    "organizations": null,
+    "location": "Tempe",
+    "linkedin_id": "venkata-sai-gunda",
+    "activity": [
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "Today I graduated with my Master’s in Data Science from Indiana University. I’m so grateful for the awesome people I’ve met in Bloomington and for…",
+            "img": "",
+            "id": "7276326202938695680"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "On the left is a picture of a hostel from Carleton University. On the right is a picture of a hostel from IIT Bombay the most prestigious institute…",
+            "img": "",
+            "id": "7271414316891828225"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "🎉 Exciting Career Update! I’m super excited to share some big milestones in my journey: First, I recently graduated from Arizona State University…",
+            "img": "",
+            "id": "7274602996146016256"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "𝐖𝐨𝐮𝐥𝐝 𝐘𝐨𝐮 𝐏𝐚𝐲 ₹11,000 𝐟𝐨𝐫 𝐚 𝐖𝐚𝐭𝐞𝐫 𝐁𝐨𝐭𝐭𝐥𝐞? 🤔 Last year, Stanley 1913 generated a jaw-dropping ₹6,500 crore in revenue…",
+            "img": "",
+            "id": "7271770601306894337"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "If this isn't racism, then what is it?",
+            "img": "",
+            "id": "7273584726269992962"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "High Court of Allahabad should take suo motu cognizance against alleged Family Court Judge, Jaunpur who demanded Rs 5 lakhs bribe from a man to…",
+            "img": "",
+            "id": "7272263770771513345"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "Finally, peaceful protest is the only democratic way left! Sad that appellate authorities (Chairman, IIT Council and others) are not doing anything…",
+            "img": "",
+            "id": "7270379572544569344"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "🎓 Graduating International Students: Don't Miss This Crucial Health Opportunity! 🌟 As we approach year-end, here's a vital reminder that could…",
+            "img": "",
+            "id": "7269424041621340161"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "🚀 Excited to Begin My Journey in AI at IIT Ropar! 🚀 Thrilled to announce that I’ve joined the Minor in Artificial Intelligence (AI) program…",
+            "img": "",
+            "id": "7268955233655943168"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "Excited to share that my team won 3rd place in the 2024 Humana-Mays Healthcare Analytics Case Competition, competing against over 280 teams…",
+            "img": "",
+            "id": "7265038539564679169"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "From gmail.com ➡ google.com 😊 I’m thrilled to share that I’ve joined Google as a Software Engineer on the Media Generator Infrastructure team at…",
+            "img": "",
+            "id": "7263861833093062656"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "I’m happy to share that I’ve obtained a new certification: AWS Certified Solutions Architect – Associate from Amazon Web Services (AWS)! This…",
+            "img": "",
+            "id": "7259756238580703232"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "I gave AI control of my computer and asked it to \"solve homework 1 of Stanford discrete math class (Math 61DM)\". It found the problem set…",
+            "img": "",
+            "id": "7257568225150816256"
+        },
+        {
+            "interaction": "Liked by Venkata Sai Gunda",
+            "link": "",
+            "title": "I’m thrilled to announce that I’ve rejoined Fidelity Investments as a Senior AI/ML Engineer! It’s an honor to return to a company that values…",
+            "img": "",
+            "id": "7257038462736908288"
+        }
+    ],
+    "linkedin_num_id": 822450203.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

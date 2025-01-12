@@ -1,0 +1,392 @@
+{
+    "id": "satyam-behera-916084114",
+    "name": "SATYAM BEHERA",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Strategy| Product Management| Business Analyst| Payments & Financial Solutions | Machine Learning | Mastercard| Ex-ExxonMobil",
+    "about": "Motivated, hard working, constantly pushing to apply learning in industry context to drive effective solutions.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Mastercard",
+        "company_id": "mastercard",
+        "title": "Strategy| Product Management| Business Analyst| Payments & Financial Solutions | Machine Learning | Mastercard| Ex-ExxonMobil"
+    },
+    "experience": [
+        {
+            "title": "Mastercard",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "3 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Mastercard",
+                    "meta": "Dec 2023 - Present 1 year 1 month",
+                    "description": "- Developed go-to-market strategies for merchant offers across various card products.- Led initiatives to increase contactless payment adoption, impacting cardholder behavior and driving significant revenue growth.- Analyzed cardholder behavior data to identify key industry trends and opportunities, generating millions in revenue.- Expertise in identifying opportunities, analyzing costs and revenues, and implementing data-driven strategies.",
+                    "duration": "Dec 2023 - Present 1 year 1 month",
+                    "start_date": "Dec 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 1 month",
+                    "title": "Senior Specialist",
+                    "description_html": "- Developed go-to-market strategies for merchant offers across various card products.<br>- Led initiatives to increase contactless payment adoption, impacting cardholder behavior and driving significant revenue growth.<br>- Analyzed cardholder behavior data to identify key industry trends and opportunities, generating millions in revenue.<br>- Expertise in identifying opportunities, analyzing costs and revenues, and implementing data-driven strategies. <!---->"
+                },
+                {
+                    "subtitle": "Mastercard",
+                    "meta": "Apr 2022 - Nov 2023 1 year 8 months",
+                    "duration": "Apr 2022 Nov 2023 1 year 8 months",
+                    "start_date": "Apr 2022",
+                    "end_date": "Nov 2023",
+                    "duration_short": "1 year 8 months",
+                    "title": "Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Mastercard",
+                    "meta": "Nov 2021 - Apr 2022 6 months",
+                    "description": "• Building robust system on identifying features that significantly impact the spend behavior on credit and debit cards. Using both transaction data in combination with the survey data to factor in current and future expectations of consumers.• Indentification of travellers based on historical spending characteristics and segmenting for targeting products.",
+                    "duration": "Nov 2021 Apr 2022 6 months",
+                    "start_date": "Nov 2021",
+                    "end_date": "Apr 2022",
+                    "duration_short": "6 months",
+                    "title": "Analytics Consultant",
+                    "description_html": "• Building robust system on identifying features that significantly impact the spend behavior on credit and debit cards. Using both transaction data in combination with the survey data to factor in current and future expectations of consumers.<br><br>• Indentification of travellers based on historical spending characteristics and segmenting for targeting products. <!---->"
+                }
+            ],
+            "company": "Mastercard",
+            "company_id": "mastercard",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Machine Learning Consultant",
+            "description": "Model Development, Forecasting",
+            "description_html": "Model Development, Forecasting <!---->",
+            "duration": "Oct 2020 Nov 2021 1 year 2 months",
+            "start_date": "Oct 2020",
+            "end_date": "Nov 2021",
+            "duration_short": "1 year 2 months",
+            "company": "WorldQuant Predictive",
+            "company_id": "worldquant-predictive",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Materials and Corrosion Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "● Worked on identifying the effect of different welding parameters on girth welding hardness for sour service applications● Analyzing the validity of welding parameters based on ASME,",
+            "description_html": "● Worked on identifying the effect of different welding parameters on girth welding hardness for sour service applications● Analyzing the validity of welding parameters based on ASME, <!---->",
+            "duration": "Jul 2019 Sep 2020 1 year 3 months",
+            "start_date": "Jul 2019",
+            "end_date": "Sep 2020",
+            "duration_short": "1 year 3 months",
+            "company": "ExxonMobil",
+            "company_id": "exxonmobil",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative Research Consultant",
+            "description": "As Research Consultant on Websim, which is a quantitative algorithmic trading research platform● Created more than 200 trading signals(Alphas) which are used in the real market.● Used Linear regression, Correlation, Z-score, Rank, Mean, Median, Variance as some of the many statistical tools.● Alphas created using Base (Price Volume) data, Fundamental data, Sentiment data, Relationship data, News Sentiment data, Analyst estimates data set.",
+            "description_html": "As Research Consultant on Websim, which is a quantitative algorithmic trading research platform● Created more than 200 trading signals(Alphas) which are used in the real market.● Used Linear regression, Correlation, Z-score, Rank, Mean, Median, Variance as some of the many statistical tools.● Alphas created using Base (Price Volume) data, Fundamental data, Sentiment data, Relationship data, News Sentiment data, Analyst estimates data set. <!---->",
+            "duration": "Jan 2019 Oct 2019 10 months",
+            "start_date": "Jan 2019",
+            "end_date": "Oct 2019",
+            "duration_short": "10 months",
+            "company": "WorldQuant",
+            "company_id": "worldquant",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Case Study Team Captain",
+            "location": "IIT Kharagpur",
+            "description": "Structured and organized the Bronze winning team representing Patel Hall in the Inter Hall Case study Competition.",
+            "description_html": "Structured and organized the Bronze winning team representing Patel Hall in the Inter Hall Case study Competition. <!---->",
+            "duration": "Jul 2018 Jul 2019 1 year 1 month",
+            "start_date": "Jul 2018",
+            "end_date": "Jul 2019",
+            "duration_short": "1 year 1 month",
+            "company": "Patel Hall Of Residence",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Part of Kharagpur Data Analysis Group",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Aug 2018 May 2019 10 months",
+            "start_date": "Aug 2018",
+            "end_date": "May 2019",
+            "duration_short": "10 months",
+            "company": "Kharagpur Data Analysis Group, IIT Kharagpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary Patel Hall Of Residence",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Sep 2016 Jul 2017 11 months",
+            "start_date": "Sep 2016",
+            "end_date": "Jul 2017",
+            "duration_short": "11 months",
+            "company": "Self-employed",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ran Vijay Singh",
+            "about": "Data Science | TransUnion CIBIL | IIT-Kanpur",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Raj",
+            "about": "FRM || Goldman Sachs || WorldQuant || University of Alberta || IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Raunak Bardia",
+            "about": "Researcher, Scientific Simulations, AI for Science",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshit Mishra",
+            "about": null,
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Gurupadu S",
+            "about": "Product Specialist: Retail Footwear - Foam - Flooring/ Polyurethane Foam / Polyurethane Adhesives/ Water Based Adhesives/ Hot Melts / Polymer Characterization",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ghata Nirmal",
+            "about": "Researcher at Shell",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishnu Sivadasan, PhD",
+            "about": "Computational Science | Scientific Modeling| Machine Learning | Optimization | Image Analysis",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Vijitha Periyasamy",
+            "about": "PhD student",
+            "location": "Ames, IA"
+        },
+        {
+            "profile_link": "",
+            "name": "Vishal Metri",
+            "about": "Siemens EDA",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Narsaria",
+            "about": "Researcher at Shell",
+            "location": "Midnapore Sadar"
+        }
+    ],
+    "educations_details": "Indian Institute of Management, Calcutta",
+    "education": [
+        {
+            "title": "Indian Institute of Management, Calcutta",
+            "degree": "PGDBA",
+            "field": "Business Analytics",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Statistical Institute, Kolkata",
+            "degree": "Postgraduate Degree",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Metallurgical Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ispat English Medium School,Rourkela",
+            "degree": "12th",
+            "field": "ISC",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": "Activities and Societies: Active Sports person-Volleyball, Football, Cricket.Counsellor.Volunteer.",
+            "description_html": "Activities and Societies: Active Sports person-Volleyball, Football, Cricket.Counsellor.Volunteer.",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ispat English Medium School",
+            "degree": "ICSE",
+            "field": "Science",
+            "start_year": "2012",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Design and Analysis of Algorithm\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"}]",
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2273.0,
+    "connections": 500.0,
+    "current_company_company_id": "mastercard",
+    "current_company_name": "Mastercard",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Predictive Modelling for Calculation of Slab Reheating time for Hot Rolling of Stainless Steel\",\"start_date\":\"May 2018\",\"end_date\":\"Jul 2018\",\"description\":\"Analyzed the working of slab re-heating furnace and developed new features that affected total reheating time by 6%. Applied ensemble models to predict the total residence time of each slab inside the re-heating furnace, created a sequence of steel grades with least residence time.Created an interactive user interface using Shiny-R to load the data and get the required time for reheating\"},{\"title\":\"Reinforced Navigation System\",\"start_date\":\"Jan 2018\",\"end_date\":\"May 2018\",\"description\":\"Developed a navigation system using reinforcement learning to find the shortest path in real-time by applying the gaussian fuzzy function to vectorize the sensors input and used it to find the optimized path. Created a dynamic simulation environment to train on the model developed using kivy platformand enhanced the model utilizing Q-Learning to map situation-action pairs into action to obtain the final optimized path\"},{\"title\":\"Forecasting Accidents In Industry by Time Series Analysis\",\"start_date\":\"May 2017\",\"end_date\":\"Jul 2017\",\"description\":\"Analysed the time dependencies of accidents in the steel industry and performed univariate analysis of data and used models like ARIMA and neural networks to forecast the future possibilities of these accidents. Improved the forecasting methods by lowering the training time by implementing ELM network model\"}]",
+    "organizations": null,
+    "location": "Pune",
+    "linkedin_id": "satyam-behera-916084114",
+    "activity": [
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "𝗜𝗺𝗮𝗴𝗶𝗻𝗲 Unacademy'𝘀 𝗱𝗲𝘀𝗽𝗲𝗿𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗮𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 - 𝗧𝗵𝗲𝘆 𝗽𝗮𝗶𝗱 𝗦𝗮𝗺𝗮𝘆 𝗥𝗮𝗶𝗻𝗮 𝘁𝗼 𝗰𝗼𝗺𝗲 𝗼𝗻 𝘁𝗵𝗲𝗶𝗿…",
+            "img": "",
+            "id": "7272842916434210817"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "RBI's Dilemma: Inflation vs Growth RBI's decisions are like Domino effect - one move can trigger a series of events impacting the whole…",
+            "img": "",
+            "id": "7268526847309570048"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "Earlier this week, I was honored to participate in the Mastercard Investor Community Meeting at the New York Stock Exchange. This event marked an…",
+            "img": "",
+            "id": "7263165169051078656"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "I’m thrilled to share some exciting news! Mastercard is partnering with TheFork, a Tripadvisor company, Europe’s top restaurant booking platform, to…",
+            "img": "",
+            "id": "7259927702504185856"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "Celebrating Chhath and Hoping for Fewer Code Crashes! ☀️🔧 🌅 Happy Chhath Puja to All! 🌞 As we gear up for Chhath Puja, where we thank the Sun…",
+            "img": "",
+            "id": "7260229887657934848"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "🇺🇸 The U.S. Economic \"Boom\" - A Mirage? As the U.S. heads into elections, its economy appears strong on the surface, with nearly 3% growth for…",
+            "img": "",
+            "id": "7259532808006610945"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "Here I am having problems picking up a momo with chopsticks. And #spacex has just like that caught a giant building falling down with the brilliant…",
+            "img": "",
+            "id": "7255500564661248000"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "I am pleased to share my experience as a Technical Mentor at the Gen AI Exchange Hackathon by Google, supported by MEITY Startup Hub and Startup…",
+            "img": "",
+            "id": "7254175669020995585"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "People are at the heart of everything we do. Mastercard’s opening of our new Pune Tech Hub this week was an amazing celebration of that. The event…",
+            "img": "",
+            "id": "7252659580810199041"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "Officially kicked off my master's at #CMU, and I'm already two months behind on updates( & assignments :) ). Guess that's grad school for you(*insert…",
+            "img": "",
+            "id": "7249897724689424384"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "So Air India express has started advertisinf in overhead bins. Good. But to my PM/PMM head, this leads to zero outcome for the advertiser and the…",
+            "img": "",
+            "id": "7248710657695514624"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "Career update: After 5.5 outstanding years, 30 September 2024 marked my last working day at #ExxonMobil. It’s been an amazing journey filled with…",
+            "img": "",
+            "id": "7247340095341494273"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "Shocked to hear Anna’s dad statement. Anna was reaching to her PG at 1:30am in night. She was forced to stay in office till 12:30 by her Assistant…",
+            "img": "",
+            "id": "7243620832311156736"
+        },
+        {
+            "interaction": "Liked by SATYAM BEHERA",
+            "link": "",
+            "title": "Asset Managers (AMC’s). 📍Broader Role of an Asset Manager or Fund Manager or some call Portfolio Manager is to implement a fund's investment…",
+            "img": "",
+            "id": "7241239597500776448"
+        }
+    ],
+    "linkedin_num_id": 477931554.0,
+    "honors_and_awards": [
+        {
+            "title": "National Talent Search Examintion (NTSE)",
+            "publication": "NCERT",
+            "date": "2011-10-01T00:00:00.000Z",
+            "description": "National Talent Search Examination is a national-level scholarship program in India to identify and recognize students with high intellect and academic talent. It is one of the most prestigious exams in India awarded only to 1000 students with a scholarship of Rs 240000 per annum."
+        },
+        {
+            "title": "ZS Young Data Science Challenge 2018 | Top 20",
+            "publication": "-",
+            "date": null,
+            "description": "Adjudged among the top 20 participants from over 5000 participants across India in a 65 hours duration challenge. Forecasted the sales using Elman and Random Forest models obtaining SMAPE of 21%"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

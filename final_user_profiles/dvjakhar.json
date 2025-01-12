@@ -1,0 +1,49 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer @ Meesho | Backend - Monetization | IIT BHU'22 | Expert At Codeforces | AI Enthusiast",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Working in the Ads Ranking Team- Handling high throughput, low latency systems serving 50K QPS.- Microservice migration from Java to GoLang for better performance, scalability and ease of use.- Serving as primary on-call to mitigate potential issues and maintain the high throughput systems.- Collaboration with Product, Business, Data Science, and Tech Teams.",
+            "description_html": "Working in the Ads Ranking Team- Handling high throughput, low latency systems serving 50K QPS.- Microservice migration from Java to GoLang for better performance, scalability and ease of use.- Serving as primary on-call to mitigate potential issues and maintain the high throughput systems.- Collaboration with Product, Business, Data Science, and Tech Teams. <!---->",
+            "duration": "Dec 2023 - Present 1 year 1 month",
+            "start_date": "Dec 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 1 month",
+            "company": "Meesho",
+            "company_id": "meesho",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "MATRIX, Sikar",
+            "degree": "JEE",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Meesho",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

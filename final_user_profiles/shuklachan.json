@@ -1,0 +1,22 @@
+{
+    "city": "New York, New York, United States",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "Dale Carnegie",
+            "title": "Dale Carnegie Course"
+        },
+        {
+            "subtitle": "Toastmasters International",
+            "title": "Visionary Communication "
+        }
+    ],
+    "current_company_name": "AIG",
+    "publications": "[{\"title\":\"How Can Automating the Right Processes at the Right Time Save Money\",\"subtitle\":\"IEEE\"},{\"title\":\"How Can Breaking Down Departmental Silos Positively Impact Technology Optimization\",\"subtitle\":\"INFORMS\"},{\"title\":\"Prediction of minimum fluidization velocity for fine tailings materials\",\"subtitle\":\"Elsevier\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

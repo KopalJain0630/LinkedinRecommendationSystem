@@ -1,0 +1,103 @@
+{
+    "city": "Jodhpur, Rajasthan, India",
+    "position": "Data Analyst || SQL, Power BI, Python, Dbt || NAT 4Q (JLPT N4) Certified.",
+    "experience": [
+        {
+            "title": "Junior Data Analyst",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "May 2023 - Present 1 year 8 months",
+            "start_date": "May 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 8 months",
+            "company": "SupplyCopia",
+            "company_id": "supplycopia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Analyst",
+            "location": "New Delhi, Delhi, India",
+            "description": "- Actively engaged in stakeholder meetings to collaboratively shape robust go-to-market strategies.- Conducted comprehensive market analysis, assessing operational performance and recommending growth metrics, resulting in a 10% to 20% increase in customer retention.- Worked on coordinating and implementing outsourcing of digital marketing partners.- Led the establishment of a comprehensive vendor database, generating and nurturing leads. Facilitated end-to-end onboarding processes.- Prioritized the backlog effectively by communicating with stakeholders and users ensuring the balance between the company's vision as well as customer pain points.",
+            "description_html": "- Actively engaged in stakeholder meetings to collaboratively shape robust go-to-market strategies.- Conducted comprehensive market analysis, assessing operational performance and recommending growth metrics, resulting in a 10% to 20% increase in customer retention.- Worked on coordinating and implementing outsourcing of digital marketing partners.- Led the establishment of a comprehensive vendor database, generating and nurturing leads. Facilitated end-to-end onboarding processes.- Prioritized the backlog effectively by communicating with stakeholders and users ensuring the balance between the company's vision as well as customer pain points.",
+            "duration": "May 2022 Sep 2022 5 months",
+            "start_date": "May 2022",
+            "end_date": "Sep 2022",
+            "duration_short": "5 months",
+            "company": "Stybuzz",
+            "company_id": "stybuzz",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Contributor",
+            "description_html": null,
+            "duration": "Aug 2021 Dec 2021 5 months",
+            "start_date": "Aug 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "5 months",
+            "company": "GirlScript Winter of Contributing",
+            "company_id": "girlscript-winter-of-contributing",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Participant",
+            "description_html": null,
+            "duration": "Jun 2021 Sep 2021 4 months",
+            "start_date": "Jun 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "4 months",
+            "company": "The Uplift Project",
+            "company_id": "upliftproject",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Sharda University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "-Active involvement in hackathons, research paper publications, and patent publications. -Received a scholarship based on my academic merit during the second, third, and fourth years of my BTech program.",
+            "description_html": "-Active involvement in hackathons, research paper publications, and patent publications.-Received a scholarship based on my academic merit during the second, third, and fourth years of my BTech program. <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2022Credential ID 915DFFA261FDSee credential",
+            "subtitle": "HackerRank",
+            "title": "Python (Basic)"
+        },
+        {
+            "meta": "Issued Sep 2022Credential ID F7140AF81894See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL (Basic)"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID 22080048040171",
+            "subtitle": "Senmon Kyouiku Publishing Co., Ltd.",
+            "title": "Japanese Language NAT-TEST 4Q"
+        },
+        {
+            "meta": "Issued Apr 2022Credential ID 22040048050180",
+            "subtitle": "Senmon Kyouiku Publishing Co., Ltd.",
+            "title": "Japanese Language NAT-TEST 5Q"
+        },
+        {
+            "meta": "Issued Aug 2023Expires Aug 2025Credential ID 79892647See credential",
+            "subtitle": "dbt Labs",
+            "title": "dbt Fundamentals"
+        }
+    ],
+    "current_company_name": "SupplyCopia",
+    "publications": "[{\"title\":\"A Detailed Review on Object Detection Algorithms\",\"subtitle\":\"IEEE\",\"date\":\"May 24, 2023\",\"description\":\"This study focuses on reviewing the available algorithms to assist in the detection of object based on time and accuracy. The end result will help to identify the best available algorithm that can achieve faster object detection. The algorithms taken for the review process are CNN (Convolutional Neural Networks), RCNN, Fast CNN, Faster RCNN, Single shot, YOLO (You Only Look Once).\"}]",
+    "patents": "[{\"title\":\"SYSTEM AND METHOD TO IDENTIFY VEHICLES VIOLATING PROTOCOLS\",\"date_issued\":\"March 11, 2022\",\"patents_id\":\"202111029998\",\"description\":\"The present invention provides a system and method based on image sensing and analysis of vehicular policy compliance status. One or more image sensor captures images of the body of the vehicle with an emphasis on the standard template compliance of registration plate rules. The vehicle is categorized on a plurality of parameters such as dimensions of alphanumeric characters on the registration plate, the absolute prohibition of any other language or symbols except registration marks, light, heavy, and moderate-sized vehicle embodiments. Different embodiments of the present disclosure are assigned to perform the procedures implicating data sensing, processing, comparison and alert transmission. Images are analysed and compared with stored dataset of standard policies in the database, pertaining to vehicular compliance with road transport and highway norms.\"}]",
+    "projects": null,
+    "honors_and_awards": null
+}

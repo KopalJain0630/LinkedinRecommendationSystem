@@ -1,0 +1,62 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Institute of Management Technology, Nagpur",
+            "url": "",
+            "start_year": "2020-08",
+            "end_year": "2022-03",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "'    , ,",
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". ' ,",
+            "start_year": "2004",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2024",
+            "subtitle": "Zycus",
+            "title": "Prompt Engineering Basics & Practices"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID RCtK6gCamZ",
+            "subtitle": "The Council for Six Sigma Certification (CSSC)",
+            "title": "Lean Six Sigma White Belt Certification"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID UC-192922c6-e377-4328-b63b-d507ae52a8fbSee credential",
+            "subtitle": "Udemy",
+            "title": "Certified Six Sigma Yellow Belt "
+        }
+    ],
+    "current_company_name": "Zycus",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"safety in school bus transportation systems\",\"start_date\":\"Jul 2017\",\"end_date\":\"Jul 2018\"},{\"title\":\"Virtual wireless dancing bells\",\"start_date\":\"Dec 2016\",\"end_date\":\"Jul 2017\"}]",
+    "honors_and_awards": null
+}

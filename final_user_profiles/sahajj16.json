@@ -1,0 +1,176 @@
+{
+    "city": "Austin, Texas, United States",
+    "position": "Wireless Engineer at Apple | Georgia Tech | ECE | NIT Durgapur",
+    "experience": [
+        {
+            "title": "Wireless Design Engineer",
+            "location": "Austin, Texas, United States",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Apple",
+            "company_id": "apple",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Research Assistant",
+            "location": "Atlanta, Georgia, United States",
+            "description": "Statistical channel characterization and system performance of THz (140-160 GHz, 200-220 GHz & 140-220 GHz) Device-to-Device communication systems.Simulated and conducted experiments for energy efficient channel coding for Cutaneous and Deep Tissue Biotelemetry applications.Data processing and analysis for RF channel measurement campaigns performed using a VNA.",
+            "description_html": "Statistical channel characterization and system performance of THz (140-160 GHz, 200-220 GHz &amp; 140-220 GHz) Device-to-Device communication systems.Simulated and conducted experiments for energy efficient channel coding for Cutaneous and Deep Tissue Biotelemetry applications.Data processing and analysis for RF channel measurement campaigns performed using a VNA. <!---->",
+            "duration": "Aug 2023 Jul 2024 1 year",
+            "start_date": "Aug 2023",
+            "end_date": "Jul 2024",
+            "duration_short": "1 year",
+            "company": "Georgia Tech School of Electrical & Computer Engineering",
+            "company_id": "ga-institute-of-technology-school-of-electrical-computer-engineering",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Wireless Machine Learning Intern",
+            "location": "Bellevue, Washington, United States",
+            "description": "Developed an ML model to predict mmWave coverage based on sub-6 GHz RF characteristics (RSRP, SINR, distance and bearing) for NR-DC. Achieved an accuracy of 75 % and mean error less than 0.1.Performed data visualization, preparation and cleaning from over 12 million data points, for the ML model.Analyzed different beamforming solutions (SRS, PMI, Eigen-based etc.) for massive MIMO radios by various vendors.Discussed and presented the work to the CTO, VPs, senior directors and the senior leadership team.",
+            "description_html": "Developed an ML model to predict mmWave coverage based on sub-6 GHz RF characteristics (RSRP, SINR, distance and bearing) for NR-DC. Achieved an accuracy of 75 % and mean error less than 0.1.Performed data visualization, preparation and cleaning from over 12 million data points, for the ML model.Analyzed different beamforming solutions (SRS, PMI, Eigen-based etc.) for massive MIMO radios by various vendors.Discussed and presented the work to the CTO, VPs, senior directors and the senior leadership team.",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "T-Mobile",
+            "company_id": "t-mobile",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "IASc Research Fellow",
+            "location": "Delhi, India",
+            "description": "Studied game theory and optimization techniques for resource allocation in wireless communication channels.",
+            "description_html": "Studied game theory and optimization techniques for resource allocation in wireless communication channels. <!---->",
+            "duration": "Sep 2021 Dec 2021 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "4 months",
+            "company": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Researcher",
+            "location": "Montreal, Quebec, Canada",
+            "description": "Implemented a behavioral model to capture the non-linearities of communication system after studying various modelling techniques of hardware impairments and distortions. Took into account a uniform distribution of 10 degree phase anomaly.Simulated bit error rate and sum-rate in MATLAB, incorporating the behavioral model and phase errors.",
+            "description_html": "Implemented a behavioral model to capture the non-linearities of communication system after studying various modelling techniques of hardware impairments and distortions. Took into account a uniform distribution of 10 degree phase anomaly.Simulated bit error rate and sum-rate in MATLAB, incorporating the behavioral model and phase errors. <!---->",
+            "duration": "May 2021 Sep 2021 5 months",
+            "start_date": "May 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "5 months",
+            "company": "Institut national de la recherche scientifique",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "Roorkee, Uttarakhand, India",
+            "description": "Devised an optimal algorithm to use fewer phase shifters for hybrid beamcombining in massive MIMO systems. Attained an increment of around 12 % throughput gain. The complexity calculated was 50 % lower than the algorithm suggested.",
+            "description_html": "Devised an optimal algorithm to use fewer phase shifters for hybrid beamcombining in massive MIMO systems. Attained an increment of around 12 % throughput gain. The complexity calculated was 50 % lower than the algorithm suggested. <!---->",
+            "duration": "Apr 2020 Aug 2020 5 months",
+            "start_date": "Apr 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "5 months",
+            "company": "Indian Institute of Technology, Roorkee",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Georgia Institute of Technology",
+            "degree": "Master of Science - MS",
+            "field": "Electrical and Computer Engineering",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": "Activities and Societies: Intramural official at Campus Recreation Center (CRC). Graduate Research Assistant (GRA) at Bioelectronics, Wireless and Nanotechnology Systems (BioWiNS) group. Thesis Advisor: Dr. Seun Sangodoyin.",
+            "description_html": "Activities and Societies: Intramural official at Campus Recreation Center (CRC). Graduate Research Assistant (GRA) at Bioelectronics, Wireless and Nanotechnology Systems (BioWiNS) group.",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "National Institute of Technology Durgapur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Communication Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Activities and Societies: Training and Placement Representative (TPR) for ECE. President of ECE Students' Society (ECESS). Teaching Volunteer at Bihari More Education Project (BMEP). Thesis Advisor: Dr. Aniruddha Chandra",
+            "description_html": "Activities and Societies: Training and Placement Representative (TPR) for ECE. President of ECE Students' Society (ECESS). Teaching Volunteer at Bihari More Education Project (BMEP).",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "M. C. Kejriwal Vidyapeeth",
+            "degree": "CISCE",
+            "field": "General Studies",
+            "start_year": "2004",
+            "end_year": "2018",
+            "description": "Activities and Societies: Computer Club and Football Club",
+            "description_html": "Activities and Societies: Computer Club and Football Club",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"ECE 6100\",\"title\":\"Advanced Computer Architecture\"},{\"subtitle\":\"ECE612\",\"title\":\"Advanced Digital Communication\"},{\"subtitle\":\"ECE 8803\",\"title\":\"Advanced Wireless Networks\"},{\"subtitle\":\"ECC401\",\"title\":\"Analog Communication\"},{\"subtitle\":\"ECE712\",\"title\":\"Analog IC Design\"},{\"subtitle\":\"ECC601\",\"title\":\"Antenna and Wave Propagation\"},{\"subtitle\":\"ECE610\",\"title\":\"Artificial Intelligence and Soft Computing\"},{\"subtitle\":\"ECE724\",\"title\":\"Biomedical Instrumentation\"},{\"subtitle\":\"ECE 6110\",\"title\":\"CAD for Communication Networks\"},{\"subtitle\":\"CSO743\",\"title\":\"Computer Networks\"},{\"subtitle\":\"EEC431\",\"title\":\"Control Systems\"},{\"subtitle\":\"ECE 6260\",\"title\":\"Data Compression and Modelling\"},{\"subtitle\":\"CSO542\",\"title\":\"Database Management System\"},{\"subtitle\":\"ECC402\",\"title\":\"Digital Circuits and Systems\"},{\"subtitle\":\"ECC501\",\"title\":\"Digital Communication\"},{\"subtitle\":\"ECC603\",\"title\":\"Digital Signal Processing\"},{\"subtitle\":\"MAO441\",\"title\":\"Discrete Mathematics\"},{\"subtitle\":\"HSC631\",\"title\":\"Economics and Management Accountancy\"},{\"subtitle\":\"ECC403\",\"title\":\"Electromagnetic Theory and Transmission lines\"},{\"subtitle\":\"ECC302\",\"title\":\"Electronic Devices and Circuits-I\"},{\"subtitle\":\"ECC504\",\"title\":\"Electronic Devices and Circuits-II\"},{\"subtitle\":\"MSO851\",\"title\":\"Investment Management and Stock Market\"},{\"subtitle\":\"CS 7641\",\"title\":\"Machine Learning\"},{\"subtitle\":\"MGT 6772\",\"title\":\"Managing Resources of Technological Firms\"},{\"subtitle\":\"MSO841\",\"title\":\"Marketing Research and Analytics\"},{\"subtitle\":\"ECC503\",\"title\":\"Microprocessors and Microcontrollers\"},{\"subtitle\":\"ECE722\",\"title\":\"Microwave Circuits and Techniques\"},{\"subtitle\":\"ECC502\",\"title\":\"Microwave Engineering\"},{\"subtitle\":\"ECC301\",\"title\":\"Network Analysis & Synthesis\"},{\"subtitle\":\"ECE 6604\",\"title\":\"Personal and Mobile Communication\"},{\"subtitle\":\"PHC331\",\"title\":\"Physics of Semiconductor\"},{\"subtitle\":\"MSC731\",\"title\":\"Principles of Management\"},{\"subtitle\":\"ECE 6601\",\"title\":\"Random Processes\"},{\"subtitle\":\"ECC303\",\"title\":\"Signals & Systems\"},{\"subtitle\":\"ECE 6001\",\"title\":\"Technology Entrepreneurship\"},{\"subtitle\":\"ECC602\",\"title\":\"VLSI Design\"},{\"subtitle\":\"ECE810\",\"title\":\"Wireless Communication\"},{\"subtitle\":\"ECE 6610\",\"title\":\"Wireless Networks\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2023Credential ID 57672112See credential",
+            "subtitle": "CITI Program",
+            "title": "RCR Basic Course"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID NPTEL20EE58S51810236",
+            "subtitle": "NPTEL",
+            "title": "Principles of Signal Estimation for MIMO/OFDM Wireless Communication"
+        },
+        {
+            "meta": "Issued Nov 2020Credential ID VT89KTPK5GTK",
+            "subtitle": "Coursera",
+            "title": "Financial Markets"
+        },
+        {
+            "meta": "Issued Jan 2020",
+            "subtitle": "Central Tool Room & Training Centre",
+            "title": "VLSI"
+        },
+        {
+            "meta": "Issued Dec 2019",
+            "subtitle": "MathWorks",
+            "title": "MATLAB Onramp"
+        },
+        {
+            "meta": "Issued Nov 2019Credential ID NPTEL19EE54S62070062",
+            "subtitle": "NPTEL",
+            "title": "Microelectronics: Devices to Circuits"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID UC-IHBHP6JF",
+            "subtitle": "Udemy",
+            "title": "Arduino "
+        }
+    ],
+    "current_company_name": "Apple",
+    "publications": "[{\"title\":\"Transmission and Reflection Properties of Glass Types at 140, 200, 325, and 450 GHz\",\"subtitle\":\"IEEE AP-S/INC-USNC-URSI\",\"date\":\"September 30, 2024\"},{\"title\":\"Channel Modeling for 60 GHz Fixed mmWave O2I and O2O Uplink with Angular Misalignment\",\"subtitle\":\"IEEE Antennas and Wireless Propagation Letters (AWPL)\",\"date\":\"February 13, 2024\"},{\"title\":\"Beam Combining in Massive MIMO System under Non-Linear Hardware Impairments\",\"subtitle\":\"IEEE Wireless Communications and Networking Conference (WCNC)\",\"date\":\"May 16, 2022\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Performance Analysis of LTE Scheduling Algorithms.\",\"start_date\":\"Apr 2023\",\"end_date\":\"May 2023\",\"description\":\"Analysed different scheduling algorithms in LTE such as Round Robin, Proportional Fair, Priority Set Scheduler and Blind Equal Throughput using the metrics of average throughput and fairness. The entire simulation was performed using ns-3 considering near cell, far cell, stationary UEs, mobile UEs and heavy load scenarios.\"},{},{\"title\":\"Multi-Radar Fall Detection in NLOS Conditions.\",\"start_date\":\"Feb 2023\",\"end_date\":\"Apr 2023\",\"description\":\"Proposed a novel fall detection method that uses two mmWave radars in nonline-of-sight (NLoS) conditions, where one of the two radars is blocked by an object in the environment. The method employed a combination of point coordinate and doppler values obtained from the point cloud data of the radars. Target identification is done using DBSCAN, the largest cluster in a frame being identified as the subject. A novel heuristic-based algorithm was proposed to detect fall events, where a fall event is classified as the subject falling down on the ground and remaining there for a certain amount of time. We conducted experiments in various fall and non-fall scenarios with different subjects and the results provided fall detection rate of 80% for LoS cases and 88% for NLoS cases when two radars are used, while maintaining a false alarm rate of just 23% for non-falls.\"},{},{},{},{\"title\":\"Personalized Hotel Recommender using Sentiment Analysis\",\"start_date\":\"Sep 2022\",\"end_date\":\"Dec 2022\",\"description\":\"Used both supervised (Multi-class Logistic Regression, Multinomial Naive Bayes, and Support Vector Machine) and Unsupervised (KMeans, Gaussian Mixture Models(GMM), and Hierarchical Clustering) learning algorithms to recommend hotels based on user aspect and past reviews. Employed supervised learning for sentiment analysis and unsupervised for clustering of aspects in reviews. Achieved an accuracy of about 75% for former and Davies-Bouldin index of 0.43 for latter.\"},{},{},{},{},{\"title\":\"Precoding Technique Analysis for Massive MIMO Systems\",\"start_date\":\"Sep 2022\",\"end_date\":\"Dec 2022\",\"description\":\"Analyzed different precoding algorithms in Massive MIMO to reduce system complexity. Considered multicell Minimum Mean Squared Error (M-MMSE), Single-cell Minimum Mean Squared Error (S-MMSE), Regularized Zero-Forcing (R-ZF), Zero Forcing (ZF) and Maximal Ratio transmission (MR) precoding schemes. Also, explored uplink-downlink duality theory to choose the precoding vectors in downlink channel.\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Indian Academy of Sciences Summer Research Fellowship Award",
+            "publication": "Indian Academy of Science (IASc); Indian National Science Academy (INSA); National Academy of Science, India (NASI)",
+            "date": "2021-07-01T00:00:00.000Z",
+            "description": "Awarded the prestigious Summer Research Fellowship of the three Indian Science Academies and was given the opportunity to conduct a Research Internship under Prof. Manav Bhatnagar, IIT Delhi."
+        },
+        {
+            "title": "Certificate of Excellence",
+            "publication": "M. C. Kejriwal Vidyapeeth",
+            "date": "2018-06-01T00:00:00.000Z",
+            "description": "Awarded for scoring a perfect 100 in Mathematics and an overall score of 96.25% in ISC 2018"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Wells Fargo | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Wells Fargo",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "1 year 5 months",
+            "positions": [
+                {
+                    "subtitle": "Wells Fargo",
+                    "meta": "Aug 2024 - Present 5 months",
+                    "duration": "Aug 2024 - Present 5 months",
+                    "start_date": "Aug 2024",
+                    "end_date": "Present",
+                    "duration_short": "5 months",
+                    "title": "Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Wells Fargo",
+                    "meta": "Aug 2023 - Jul 2024 1 year",
+                    "duration": "Aug 2023 Jul 2024 1 year",
+                    "start_date": "Aug 2023",
+                    "end_date": "Jul 2024",
+                    "duration_short": "1 year",
+                    "title": "Program Associate",
+                    "description_html": null
+                }
+            ],
+            "company": "Wells Fargo",
+            "company_id": "wellsfargo",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "Jun 2022 Jul 2022 2 months",
+            "start_date": "Jun 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "2 months",
+            "company": "ePayLater",
+            "company_id": "epaylater",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Engineering Intern",
+            "location": "Mumbai Metropolitan Region",
+            "description_html": null,
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "LTI - Larsen & Toubro Infotech",
+            "company_id": "l&t-infotech",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Undergraduate",
+            "field": "Artificial Intelligence/Biotechnology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Baldwin Boys High School",
+            "degree": "96%",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "coding ninjas",
+            "title": "Competitive Programming"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Coding Ninjas India",
+            "title": "Data Structures in C++"
+        },
+        {
+            "meta": "Issued Feb 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Capstone: Retrieving, Processing, and Visualizing Data with Python"
+        },
+        {
+            "meta": "Issued Feb 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Python for Everybody- Specialization"
+        },
+        {
+            "meta": "Issued Feb 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Using Databases with Python"
+        },
+        {
+            "meta": "Issued Jan 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Using Python to Access Web Data"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        },
+        {
+            "meta": "Issued Sep 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Financial Markets"
+        }
+    ],
+    "current_company_name": "Wells Fargo",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

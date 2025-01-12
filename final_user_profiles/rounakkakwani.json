@@ -1,0 +1,93 @@
+{
+    "city": "Berlin, Berlin, Germany",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Kellogg Executive Education",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2021See credential",
+            "subtitle": "Udacity",
+            "title": "AI Product Manager - Nanodegree Program"
+        },
+        {
+            "meta": "Issued Jun 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Artificial Intelligence Foundations: Machine Learning"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID 001039868",
+            "subtitle": "Scrum Alliance",
+            "title": "Certified Scrum Product Owner (CSPO)"
+        },
+        {
+            "meta": "Issued Oct 2019See credential",
+            "subtitle": "LinkedIn",
+            "title": "Agile Software Development"
+        },
+        {
+            "meta": "Issued Oct 2019See credential",
+            "subtitle": "LinkedIn",
+            "title": "Scrum: Advanced"
+        },
+        {
+            "meta": "Issued Nov 2016See credential",
+            "subtitle": "LinkedIn",
+            "title": "SQL Programming"
+        }
+    ],
+    "current_company_name": "Wolt",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Bandido of the Day - Hustle Award",
+            "publication": "noon.com",
+            "date": "2020-11-01T00:00:00.000Z",
+            "description": "Recognition for managing the custom integration of noon pay with noon.com with a lot of unknowns, still keeping the launch timelines intact"
+        },
+        {
+            "title": "Make a Difference Award",
+            "publication": "ANZ team Pitney Bowes",
+            "date": "2018-08-01T00:00:00.000Z",
+            "description": "Recognition of hard work and significant contribution to the successful launch of 'SendPro' Shipping SaaS solution in Australia and New Zealand markets."
+        },
+        {
+            "title": "Fast-tracker",
+            "publication": "Zinnov Management Consulting",
+            "date": "2016-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Spot Award",
+            "publication": "Zinnov Management Consulting",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Team Recognition Award",
+            "publication": "Zinnov Management Consulting",
+            "date": "2015-11-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

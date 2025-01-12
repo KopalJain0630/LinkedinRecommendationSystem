@@ -1,0 +1,74 @@
+{
+    "city": "Midnapore Sadar, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018-06",
+            "end_year": "2023-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"AI60004\",\"title\":\"Big Data Processing\"},{\"subtitle\":\"CS61061\",\"title\":\"Data Analytics\"},{\"subtitle\":\"AI61002\",\"title\":\"Deep Learning Foundations and Applications\"},{\"subtitle\":\"AI42001\",\"title\":\"Machine Learning Foundations and Applications\"},{\"subtitle\":\"MA10001\",\"title\":\"Mathematics-1\"},{\"subtitle\":\"MA10002\",\"title\":\"Mathematics-2\"},{\"subtitle\":\"CS60075\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"MA20103\",\"title\":\"Partial Differential Equations\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"EP60003\",\"title\":\"Product Development\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"CS19001\",\"title\":\"Programming and Data Structures Tutorial and Laboratory\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Apr 2023See credential",
+            "subtitle": "AlgoExpert",
+            "title": "AlgoExpert"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "AlgoZenith",
+            "title": "Applied Algorithms & Data Structures"
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Udacity",
+            "title": "Deep Learning Nanodegree"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "IBM",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "IBM",
+            "title": "Data Analysiswith Python"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "IBM",
+            "title": "Data Visualization with Python"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "IBM",
+            "title": "Python for Data Science and AI"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Complete Python Bootcamp"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "IEEE",
+            "title": "Winter School of AI"
+        },
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Indian Cyber Security Solutions",
+            "title": "Data Analytics"
+        }
+    ],
+    "current_company_name": "Rootquotient",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Jira 2.0 | An Autonomous Project Management Suite\",\"start_date\":\"Apr 2024\",\"end_date\":\"Jun 2024\",\"description\":\"• Crafted a Lambda which triggers upon the project’s FRD upload into S3, andcreates user stories and tasks by leveraging Llama3 running in a private EC2• Facilitated Event Bridge to consume Slack messages periodically, then usedthe LLM through Flask APIs to compile task’s status and assignment updates• Employed SES to dispatch task update approvals to stakeholders, thereuponinvoking issue tracker’s APIs to reflect corresponding changes in the backlog\"},{\"title\":\"DeployX | UI Deployment Automation\",\"start_date\":\"Jan 2024\",\"end_date\":\"Mar 2024\",\"description\":\"• Built an API server with a private RDS, which queues build jobs, and streamslogs to Kafka for ingesting into ClickHouse, accessible as a polling endpoint• Provisioned an auto‐scaled ECS cluster, which runs an ECR image in Fargate,to process the build job for the given codebase, and dump the artifacts to S3• Developed a reverse proxy for the deployed UI builds, to stream static assetsfrom S3, mapping the projects’s subdomain to the S3 key with an RDS query\"},{\"title\":\"Fundraiser Management System\",\"start_date\":\"Nov 2023\",\"end_date\":\"Dec 2023\",\"description\":\"• Modeled project, donor & payment endpoints, with JWT auth, serializer, Joivalidation middleware layers, adopted S3 pre‐signed URLs for media uploads• Penned UTs for models & controllers and acceptance test suites for the APIendpoints, maintaining a 90% above code coverage, with Jest and SuperTest• Ensured application’s reliability with MongoDB Replica Sets, in PM2 clustermode with APM, leveraging Nginx as a web server and Route53 name server\"},{\"title\":\"Recommerce Platform for Community Marketplace\",\"start_date\":\"Dec 2022\",\"end_date\":\"Mar 2023\",\"description\":\"• Developed a recommerce platform with order, seller, search, and chatfeatures using React for the UI and an Express server for the backend• Integrated payment gateway via Stripe, social logins with Google/Facebookauthentication APIs, and cart using Redux state management• Employed Azure MySQL server for databases, the Storage service for mediafiles, and deployed the application on a Virtual Machine\"},{},{\"title\":\"Sentiment analysis for COVID-19 crisis\",\"start_date\":\"Sep 2020\",\"end_date\":\"Nov 2020\",\"description\":\"• Used a dataset of 179000 tweets and performed exploratory data analysis to analyse various temporal and spatial trends in the dataset• Used word to vector embedding and padding sequences for converting text to the encoded form for feeding to the model• Built a network with RNN and LSTM layers and output followed by the Softmax function to predict the sentiment of the input textGuide: Prof. Ram Babu Roy\"},{\"title\":\"Corporate reputation or corporate brand and SME financial performence\",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\",\"description\":\"• Analysed various financial models of researches conducted and done the literature review of 9 research articles to find the relationship between corporate reputation and financial performance of small and medium-sized enterprises (SMEs).• Made concluding insights for indices such as Brand Identity Development, Internal Branding, Brand Performance, Brand Orientation, Brand Awareness, Brand Credibility and Brand Communication in relation with Financial Performance.Guide: Dr. Titas Bhattacharjee\"},{},{},{\"title\":\"Cheaper and more effective ways of production of vermicompost\",\"start_date\":\"Jul 2019\",\"end_date\":\"Dec 2019\",\"description\":\"• Researched and found out the maximum efficient way of preparation of vermicompost.• Estimated the entire cost breakup and profitability of making such plant in Gopali, a nearby village to IIT Kharagpur campus, as per all the availability factors.Guide: Prof. Mrigank Sharad\"},{}]",
+    "honors_and_awards": null
+}

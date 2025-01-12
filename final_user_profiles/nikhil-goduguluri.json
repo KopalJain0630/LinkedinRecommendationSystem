@@ -1,0 +1,53 @@
+{
+    "city": "Rochester, New York, United States",
+    "position": "Data Analyst",
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "Electrical Engineering",
+            "url": "",
+            "description": "Dual Degree (B.Tech+M.Tech) in Electrical Engineering with Instrumentation and signal processing as M.Tech specialization. Micro specialization in Artificial intelligence and it's applications.",
+            "description_html": "Dual Degree (B.Tech+M.Tech) in Electrical Engineering with Instrumentation and signal processing as M.Tech specialization. Micro specialization in Artificial intelligence and it's applications. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of Rochester",
+            "degree": "Master's degree",
+            "field": "Data Science",
+            "url": "",
+            "description": "Courses: Statistical Machine Learning, Computational Introduction to Statistics, Time Series Analysis & Forecasting, Design and Analysis of Efficient Algorithms, Database Systems, Data Mining",
+            "description_html": "Courses: Statistical Machine Learning, Computational Introduction to Statistics, Time Series Analysis &amp; Forecasting, Design and Analysis of Efficient Algorithms, Database Systems, Data Mining <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Feb 2023See credential",
+            "subtitle": "Coursera",
+            "title": "Supervised Machine Learning: Regression and Classification"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID ZXF5NYX8EQFQSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID DEBQVMGTJBHSSee credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        },
+        {
+            "meta": "Issued Sep 2023Expires Sep 2026Credential ID SV6Y876KW1BEQ2G3See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "Amazon Web Services Cloud Practitioner"
+        }
+    ],
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

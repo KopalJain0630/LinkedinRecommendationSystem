@@ -1,0 +1,51 @@
+{
+    "city": "Greater Delhi Area",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Ahmedabad",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Z47",
+    "publications": "[{\"title\":\"LED Technology Based Low Cost Electronic Security\",\"subtitle\":\"Texas Instruments India University Forum\",\"date\":\"Apr 2011\",\"description\":\"Innovated a completely new hardware module for robust line of sight data communication using LEDs that is 10 times cheaper than existing technologies, with no compromise on speed and performance.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Special Mention in Technology (IIT Kharagpur)",
+            "publication": "Indian Institute of Technology, Kharagpur",
+            "date": "2012-04-01T00:00:00.000Z",
+            "description": "1 of 6 students at IIT Kharagpur to be conferred this award for their outstanding contribution to technology during their stay at the institute."
+        },
+        {
+            "title": "National Talent Search Examination (NTSE) Scholar",
+            "publication": "NCERT, Government of India",
+            "date": "2008-08-01T00:00:00.000Z",
+            "description": "One out of 1,000 students across the country to receive this scholarship."
+        }
+    ]
+}

@@ -1,0 +1,398 @@
+{
+    "id": "amit-kumar-iitkgp",
+    "name": "AMIT KUMAR",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "GMET @ Jaguar Land Rover | Aerospace Engineering | IIT KHARAGPUR",
+    "about": "A cross-industrial enthusiast, finding ways to incorporate Artificial Intelligence in Core Mechanical Systems. Converting garbage data into something recyclable and reusable data for satisfying the appetite of machine learning model. In addition, innovating, researching, designing and developing cool mech products.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Jaguar Land Rover",
+        "company_id": "jaguar-land-rover_1",
+        "title": "GMET @ Jaguar Land Rover | Aerospace Engineering | IIT KHARAGPUR"
+    },
+    "experience": [
+        {
+            "title": "Graduate Mechatronics Engineer Trainee",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Jaguar Land Rover",
+            "company_id": "jaguar-land-rover_1",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Remote",
+            "description": "\u00e2\u20ac\u00a2 Reviewed various literature on the inverse design of airfoils. Programmed a code to download all the airfoil coordinates available online on the UIUC database.\u00e2\u20ac\u00a2 Integrated the Python code with Xfoil software to run the simulation on about 1200 airfoils to produce and save the pressure distribution plots.\u00e2\u20ac\u00a2 Developed Convolutional Neural Network and Deep Neural Network model to predict airfoil shape from the Cp plot with high accuracy.",
+            "description_html": "\u00e2\u20ac\u00a2 Reviewed various literature on the inverse design of airfoils. Programmed a code to download all the airfoil coordinates available online on the UIUC database.\u00e2\u20ac\u00a2 Integrated the Python code with Xfoil software to run the simulation on about 1200 airfoils to produce and save the pressure distribution plots.\u00e2\u20ac\u00a2 Developed Convolutional Neural Network and Deep Neural Network model to predict airfoil shape from the Cp plot with high accuracy. <!---->",
+            "duration": "Dec 2020 Mar 2021 4 months",
+            "start_date": "Dec 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "4 months",
+            "company": "Summer Research Fellowship Program",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Second Senate Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Second Senate Member represents the Hall of Residence in students' decision making body of IIT Kharagpur : Students' Senate.- Responsible for smooth functioning of Hall's activities, logistics and welfare.- Proposed and managed the team for Hall's first-ever website.- Pandemic brought in special demand for online activities for students' engagement and stress management",
+            "description_html": "Second Senate Member represents the Hall of Residence in students' decision making body of IIT Kharagpur : Students' Senate.- Responsible for smooth functioning of Hall's activities, logistics and welfare.- Proposed and managed the team for Hall's first-ever website.- Pandemic brought in special demand for online activities for students' engagement and stress management <!---->",
+            "duration": "Jul 2020 Mar 2021 9 months",
+            "start_date": "Jul 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "9 months",
+            "company": "Meghnad Saha Hall of Residence, Indian Institute of Technology Kharagpur",
+            "company_id": "meghnad-saha-hall-of-residence-indian-institute-of-technology-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Flight Controls Research Internship",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "This Research Internship focused on developing Guidance Law for intercepting a target. During initial stages, reviewed literature and simulated them in MATLAB and Python. Later on, developed a PN Guidance Law to intercept a moving target in 2D space with constraints on terminal impact angle and look-angle.",
+            "description_html": "This Research Internship focused on developing Guidance Law for intercepting a target. During initial stages, reviewed literature and simulated them in MATLAB and Python. Later on, developed a PN Guidance Law to intercept a moving target in 2D space with constraints on terminal impact angle and look-angle. <!---->",
+            "duration": "May 2020 Jul 2020 3 months",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary of Technology",
+            "location": "IIT Kharagpur",
+            "description": "General Secretary of Technology looks after managing of events like Product design, Ad design, Data analytics etc. for Open IIT and General Championship, organizing meetings, preparation of agenda, managing of team, budget and survey of projects.",
+            "description_html": "General Secretary of Technology looks after managing of events like Product design, Ad design, Data analytics etc. for Open IIT and General Championship, organizing meetings, preparation of agenda, managing of team, budget and survey of projects. <!---->",
+            "duration": "Jul 2019 Apr 2020 10 months",
+            "start_date": "Jul 2019",
+            "end_date": "Apr 2020",
+            "duration_short": "10 months",
+            "company": "Meghnad Saha Hall of Residence, Indian Institute of Technology Kharagpur",
+            "company_id": "meghnad-saha-hall-of-residence-indian-institute-of-technology-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Engineering Intern",
+            "location": "IIT KHARAGPUR",
+            "description": "This internship concentrated mainly on simulations of Contra-Rotating Propellers on CFX and Ansys. The work included looking out for optimum performance of propellers with different loading cases. Apart from this mesh independence was checked on Turbogrid 17.0 version of Ansys.",
+            "description_html": "This internship concentrated mainly on simulations of Contra-Rotating Propellers on CFX and Ansys. The work included looking out for optimum performance of propellers with different loading cases. Apart from this mesh independence was checked on Turbogrid 17.0 version of Ansys. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "AIRAVAT Research Group, IIT KHARAGPUR",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "ADITYA .",
+            "about": "Researcher - Gas Turbine Technology",
+            "location": "Bedford"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Pandey",
+            "about": "Building Payment Network Globally | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shobhit Mishra",
+            "about": "Quant Researcher at JP Morgan Chase & Co. | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ruthu S Sanketh",
+            "about": "Associate @BCG | Chicago Booth Scholar",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "AVN Ravi",
+            "about": "Guidance Navigation & Control Laws Engineer at Kadet Defence Systems (P) Ltd.",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sai Kiran Kasi",
+            "about": "Strategic Analyst | Data Enthusiast | Pursuing New Challenges",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanhita Padia",
+            "about": "Marketing & Communications Specialist - Australia",
+            "location": "Brisbane, QLD"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitin Deshpande",
+            "about": null,
+            "location": "Cupertino, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "S.M. Yousuf",
+            "about": "Safety Data Intelligence Specialist at Qatar Airways | ex Airbus | ex IATA | ex IndiGo",
+            "location": "Doha, Qatar"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajinkya Jagtap",
+            "about": "Aeronautical Analyst III",
+            "location": "Nashik"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech (Hons) and Master's Degree",
+            "field": "Aerospace, Aeronautical and Astronautical/Space Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Narayana Junior College - India",
+            "degree": "Telangana State Board of Intermediate Education",
+            "field": "Science (PCM)",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Harvest Public School",
+            "degree": "Central Board of Secondary Education (CBSE)",
+            "field": "10.00 / 10.00",
+            "start_year": "2012",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Global Initiative for Academic Networks (GIAN) | Aeroelasticity and Unsteady Aerodynamics in Turbomachinery\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Telugu "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " odia "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2020Credential ID 8CP7GGKPXRG6See credential",
+            "subtitle": "Coursera",
+            "title": "Computer Vision - Image Basics with OpenCV and Python"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID EDVUD4NQ94ZKSee credential",
+            "subtitle": "Coursera",
+            "title": "Computer Vision - Object Detection with OpenCV and Python"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID Y6NLSYSQM3N4See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID T2L9PHNK3BPPSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jan 2020Credential ID 977AF008-0C77-53B6-2F9E-5A7C2D64E2F2See credential",
+            "subtitle": "Internshala",
+            "title": "DATA SCIENCE"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1900.0,
+    "connections": 500.0,
+    "current_company_company_id": "jaguar-land-rover_1",
+    "current_company_name": "Jaguar Land Rover",
+    "publications": "[{\"title\":\"Impact Angle Constrained Time-Optimal Guidance Law for Stationary Target Interception in 3D\",\"subtitle\":\"Guidance, Navigation, and Control, AIAA Conference, San Diego\",\"date\":\"January 5, 2022\"},{\"title\":\"Inverse Design of Airfoils Using Convolutional Neural Network and Deep Neural Network\",\"subtitle\":\"Gas Turbine India Conference, ASME, Online\",\"date\":\"December 15, 2021\"},{\"title\":\"Electric Propulsion System for Airavat - The Roadable Vehic\",\"subtitle\":\"National Aerospace Propulsion Conference (NAPC), Bengaluru\",\"date\":\"December 17, 2020\"},{\"title\":\"Shear Deformation of Ferro-Fluid Droplet under uniform Magnetic Field in a Hele-Shaw Cell\",\"subtitle\":\"Proceedings of the 8th International and 47th National Conference on Fluid Mechanics and Fluid Power (FMFP)\",\"description\":\"\u00e2\u20ac\u00a2 Simulated the model of ferrofluid in Hele-Shaw cell in the presence of Magnetic field using inbuilt Magnetohydrodynamics module of ANSYS software.\u00e2\u20ac\u00a2 Analyzed the behaviour of ferrofluid bubble in Hele-Shaw cell in the presence of various external Magnetic field using Image Processing Toolkit of MATLAB.\u00e2\u20ac\u00a2 Calculated instantaneous position coordinates and velocity of the ferrofluid bubble in Hele-Shaw in presence of magnetic field using Image Processing Techniques.\"}]",
+    "patents": null,
+    "projects": [
+        {
+            "title": "Digital Twin of Packed Bed Cryogenic Energy Storage System",
+            "start_date": "May 2020",
+            "end_date": "Dec 2020",
+            "description": "\u00e2\u20ac\u00a2 Developed digital twin of CES System in MATLAB and Simulink which read data from sensors and mimicked the practical system with 0.05 error.\u00e2\u20ac\u00a2 Solved PDE of heat exchange and analyzed the generated temperature profile of bed and fluid to enhance the accuracy and generalized the MATLAB code.\u00e2\u20ac\u00a2 Processed the results to represent the effect of mass flow rate, alumina packed bed parameters graphically and analyzed it qualitatively and quantitatively."
+        },
+        {},
+        {
+            "title": "INSTITUTE CHALLENGE RESEARCH PROJECT",
+            "start_date": "May 2019",
+            "end_date": "Aug 2020",
+            "description": "This project involves designing and developing electrical propulsion system. The tasks which we look upon are designing of ducted fan consisting of contra rotating propellers and optimizing the engine performance."
+        },
+        {
+            "title": "Path Detection of Launched Vehicle",
+            "start_date": "Jan 2019",
+            "end_date": "Mar 2019",
+            "description": "Under this project we focused on determining the trajectory of projected body using fourth order Runge Kutta Algorithm. The algorithm was used for solving the equations of motion of the projected body. We accurately determined the trajectory and its attribute considering flat earth in resisting atmosphere. We then extended it to the trajectory determination considering round earth and exponential density model of atmosphere."
+        }
+    ],
+    "organizations": null,
+    "location": "Hyderabad",
+    "linkedin_id": "amit-kumar-iitkgp",
+    "activity": [
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "At 5 AM on my 20th birthday in December 2023, Prof. Ravi Banavar introduced me to Prof. Anastasia Bizyaeva with a problem statement starting a common\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7278139927668641792"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "Artificial Intelligence is redefining industries, offering opportunities to enhance productivity, efficiency, and customer experience. However\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7277193935242862592"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "xTerra Robotics, in collaboration with Bitgreen Technolabz, participated in the AICTE Training And Learning (ATAL) Faculty Development Programme on\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7277711341409222656"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "You can literally buy a private plane for luxury car or metro 1BHK money. I thought planes run in 50+ crores.",
+            "img": "",
+            "id": "7275722971837513728"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "To Dalai Lama, Thank you for being a source of strength. You make me feel stronger. Thank you for choosing India as your home. India is better\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7274998868755279872"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "On the left is a picture of a hostel from Carleton University. On the right is a picture of a hostel from IIT Bombay the most prestigious institute\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7271414316891828225"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "Today I had an opportunity to teach 1st grade kids on simple drawing techniques using basic shapes.. Highly active, noisy but learning really\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7275826287506530304"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "Excited to share that our project \"Audionostics\" has been selected as a finalist at the 19th edition of Tata Innovista, the Tata Group's annual\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7275842455625768960"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "The fourth term of the Post Graduate Programme in Management for Senior Executives ISB PGPMAX at the Indian School of Business was remarkable\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7274847069553487872"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "Presented poster at Geometry workshop at IISc",
+            "img": "",
+            "id": "7273351918670761984"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "\"I want to become the youngest chess champion in the world,\" declared an 11-year-old Gukesh. Fast forward seven years and he is now the world's\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7272987999062085632"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "\"Weekend Drives - Landrover \" Born in 1948, the \" Land Rover Series I \" was a revolutionary vehicle that redefined versatility and adventure. Built\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7271534870202318848"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "An amazing week experiencing our Bengalaru site in India - plus a visit to TATA colleagues at TCS and TATA Elxsi - such great hospitality and meeting\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7269269930938621952"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "Today I had the opportunity to see Jaguar's show car in person in Miami. I won't discuss the marketing strategy, but rather the model itself. I was\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7270964892512202752"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "Today marks the conclusion of an incredible journey as a fall intern at Tesla. Working with the Cell Engineering team, I had the unique opportunity\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7271037492374515712"
+        },
+        {
+            "interaction": "Liked by AMIT KUMAR",
+            "link": "",
+            "title": "Year ending group picture with some good news. Debabrat Biswal is going to IIT Chennai for postdoc. New postdoc member Hrusikesh Barik, Ph. D. joined\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7270991933634686977"
+        }
+    ],
+    "linkedin_num_id": 675762371.0,
+    "honors_and_awards": [
+        {
+            "title": "Student Poster Competition",
+            "publication": "ASME 2019 Gas Turbine India Conference",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "The conference was organised by International Gas Turbine Institute at IIT Madras. The poster concerning with the design and computational analysis of electric engine was presented at this conference."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

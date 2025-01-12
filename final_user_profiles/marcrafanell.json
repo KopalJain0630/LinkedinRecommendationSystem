@@ -1,0 +1,57 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "IESE Business School",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "NEOM",
+    "publications": "[{\"title\":\"American Farmland Bubble (...Again)?\",\"date\":\"June 11, 2015\",\"description\":\"This study has the goal to determine if there is evidence or not to argue for the existence of abubble in the U.S. Farmland in current times. To doso, we look both at historical backgroundand compare the 1980s crisis with the current situation (Section 2). We also question thevaluation models employed, researching some alternatives and explaining its implications(Section 3). With the aim to further understand the complexity of irrational behaviors inmarkets, we describe the three main categories of bubbles and fads (Section 4). Finally, wecarry an empirical analysis, looking at the descriptive statistics of the main factorsinfluencing farmland values and their evolution during the last two decades, as well asexamining an OLS regression model that uses Illinois farmland data to check for evidence infavor of the existence of an irrational bubble (Section 5).All in all, we conclude that there is no evidence to claim for the existence of an irrationalbubble. Nonetheless, we believe that the U.S. Farmland market might be immersing in agrowing rational bubble, supported by the expected profitability of its underlying economicdeterminants. That still should be handled with caution by regulators and investors since aswitch in some independent factors could dramatically change the agricultural real estatevalues, and that would have important consequences on the economic performance of manyfarmers and landlords.\"},{\"title\":\"Sistema Espanyol de Pensions (Catalan)\",\"date\":\"May 2011\",\"description\":\"\\\"I en aquest context, l’augment de la esperança de vida és un gran assoliment; i alhora, finançar jubilacions llargues, un gran repte.\\\"\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Honors at the Bachelor's Final Year Thesis",
+            "publication": "Universitat Pompeu Fabra",
+            "date": "2015-06-01T00:00:00.000Z",
+            "description": "Awarded with Honors on the Bachelors'​ Final Year Thesis by the jury of Universitat Pompeu Fabra. The project was tutored by Marta Alonso and it can be found in my publications under the name of \"American Farmland Bubble (...Again)?\""
+        },
+        {
+            "title": "Winner of the 10th UPF Debating Society",
+            "publication": "Universitat Pompeu Fabra",
+            "date": "2012-03-01T00:00:00.000Z",
+            "description": "Winner, with my team, of a the 10th UPF Debating Society. The UPF Debating Society is the internal league of academic debates organized by the Economic Faculty."
+        },
+        {
+            "title": "Awarded with the Adam Smith Prize",
+            "publication": "TecnoCampus",
+            "date": "2011-07-01T00:00:00.000Z",
+            "description": "Awarded with the first “Adam Smith Prize\" on its 6th edition for the best research project in Economics in Catalonia. The awarded research project: \"Treball de Recerca, Sistema Espanyol de Pensions\". (You can find it on my Publications) "
+        }
+    ]
+}

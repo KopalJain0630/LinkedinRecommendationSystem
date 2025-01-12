@@ -1,0 +1,120 @@
+{
+    "city": "Enschede, Overijssel, Netherlands",
+    "position": "PhD candidate @ University of Twente | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Mechanical Design Engineer II",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2023 Sep 2024 1 year 3 months",
+            "start_date": "Jul 2023",
+            "end_date": "Sep 2024",
+            "duration_short": "1 year 3 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Aerial Robotics Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "4 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Aerial Robotics Kharagpur",
+                    "meta": "Sep 2021 - Jul 2023 1 year 11 months",
+                    "duration": "Sep 2021 Jul 2023 1 year 11 months",
+                    "start_date": "Sep 2021",
+                    "end_date": "Jul 2023",
+                    "duration_short": "1 year 11 months",
+                    "title": "Group Coordinator",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Aerial Robotics Kharagpur",
+                    "meta": "Mar 2019 - Jul 2023 4 years 5 months",
+                    "duration": "Mar 2019 Jul 2023 4 years 5 months",
+                    "start_date": "Mar 2019",
+                    "end_date": "Jul 2023",
+                    "duration_short": "4 years 5 months",
+                    "title": "Hardware Team member",
+                    "description_html": null
+                }
+            ],
+            "company": "Aerial Robotics Kharagpur",
+            "company_id": "aerial-robotics-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Mechanical Engineering Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "description": "As a part of my summer research Internship at the UAV lab, IISc,  I have worked on the Design and Analysis of a Hybrid Vertical Take-Off and Landing(VTOL) UAV from scratch.",
+            "description_html": "As a part of my summer research Internship at the UAV lab, IISc, I have worked on the Design and Analysis of a Hybrid Vertical Take-Off and Landing(VTOL) UAV from scratch. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Science (IISc)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij Campus Affiliate",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "Sep 2018 Jan 2019 5 months",
+            "start_date": "Sep 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "5 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "University of Twente",
+            "degree": "Doctor of Philosophy - PhD",
+            "field": "Computational Fluid Dynamics",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2028",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech. + M.Tech.)",
+            "field": "Aerospace engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Honeywell",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

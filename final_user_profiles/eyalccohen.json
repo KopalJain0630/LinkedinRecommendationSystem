@@ -1,0 +1,51 @@
+{
+    "city": "Beverly Hills, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Santa Monica College",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020",
+            "subtitle": "Forbes",
+            "title": "Forbes 30 Under 30 2021 - Marketing & Advertising"
+        },
+        {
+            "meta": "Issued Nov 2019See credential",
+            "subtitle": "LinkedIn",
+            "title": "Customer Experience: Journey Mapping"
+        },
+        {
+            "meta": "Issued Nov 2019See credential",
+            "subtitle": "LinkedIn",
+            "title": "Social Media Marketing: Real Estate"
+        },
+        {
+            "meta": "Issued Aug 2020Expires Aug 2021See credential",
+            "subtitle": "Drift",
+            "title": "Conversational Marketing Certified"
+        }
+    ],
+    "current_company_name": "Chloe",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,54 @@
+{
+    "city": "Singapore, Singapore",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Bombay",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "GOHIBE",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Coupled Neurons (Studying Synchrony)\",\"start_date\":\"Apr 2014\",\"end_date\":\"Jul 2014\",\"description\":\"To study synchrony in nature & find the fundamental neural network responsible for the same across simple & complex species. For ex, fireflies flashing, humans clapping hands, drosophila flies beating wings etc. Got some interesting/fascinating results, but couldn’t find the motivation to publish. Realised research requires a lot more patience to truly observe the impact of your work. Didn’t have that back then :)\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Best Intern Award",
+            "publication": "Flipkart",
+            "date": "2015-07-01T00:00:00.000Z",
+            "description": "Amongst 60 interns across all functions (finance, retail, product development etc)."
+        },
+        {
+            "title": "Aditya Birla Scholar",
+            "publication": "Aditya Birla Group",
+            "date": "2012-09-01T00:00:00.000Z",
+            "description": "The Aditya Birla Scholarship Programme is the Group's way of pursuing Mr. Aditya Vikram Birla's ideals of spawning leaders with a passion to excel. Attained through fostering outstanding academic excellence and humane leadership values, in partnership with select IITs, BITS (Pilani), IIMs, XLRI and law campuses. Judges : Mr. Rajat Gupta, Senior Partner, Mckinsey & Co. Prof. Vijay Singh, National Co-ordinator, Science Olympiads Homi Bhabha Centre for Science Education Tata… Show more"
+        },
+        {
+            "title": "Gold Medal, National Olympiads",
+            "publication": "HBCSE, Department of Science and Technology",
+            "date": "2012-06-01T00:00:00.000Z",
+            "description": "All India Rank 2 in Indian National Physics Olympiad 2012. Top 35 in Indian National Junior Science Olympiad 2010."
+        },
+        {
+            "title": "KVPY Fellow",
+            "publication": "Government of India",
+            "date": "2011-09-01T00:00:00.000Z",
+            "description": "All India Rank - 14"
+        },
+        {
+            "title": "NTSE Scholar",
+            "publication": "Government of India",
+            "date": "2008-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

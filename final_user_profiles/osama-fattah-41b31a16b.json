@@ -1,0 +1,69 @@
+{
+    "city": "Hyderabad, Telangana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Birla Institute of Technology and Science, Pilani",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Basics of Computer Programming\"},{\"subtitle\":\"-\",\"title\":\"Computer Graphics\"},{\"subtitle\":\"-\",\"title\":\"Engineering Graphics\"},{\"subtitle\":\"-\",\"title\":\"Fluid Dynamics\"},{\"subtitle\":\"-\",\"title\":\"Fundamentals of Finance and Accounting\"},{\"subtitle\":\"-\",\"title\":\"General Biology\"},{\"subtitle\":\"-\",\"title\":\"General Chemistry\"},{\"subtitle\":\"-\",\"title\":\"Google Garage - Digital Marketing\"},{\"subtitle\":\"-\",\"title\":\"Humanistic Theory of Science and Technology\"},{\"subtitle\":\"-\",\"title\":\"IC engines\"},{\"subtitle\":\"-\",\"title\":\"Kinematics and dynamics of Machines\"},{\"subtitle\":\"-\",\"title\":\"Linear algebra\"},{\"subtitle\":\"-\",\"title\":\"Machine Design and Drawing\"},{\"subtitle\":\"-\",\"title\":\"Material Sciences\"},{\"subtitle\":\"-\",\"title\":\"Mechanical oscillations and waves\"},{\"subtitle\":\"-\",\"title\":\"Mechanics of Solids\"},{\"subtitle\":\"MF F311\",\"title\":\"Mechatronics\"},{\"subtitle\":\"-\",\"title\":\"Probability and statistics\"},{\"subtitle\":\"-\",\"title\":\"Production Techniques I\"},{\"subtitle\":\"-\",\"title\":\"Remote sensing and Image processing\"},{\"subtitle\":\"-\",\"title\":\"Technical Report Writing\"},{\"subtitle\":\"-\",\"title\":\"Thermodynamics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Oct 2022Credential ID 5LL64X6FEFF6See credential",
+            "subtitle": "INSEAD",
+            "title": "Blockchain and Business: Applications and Implications"
+        },
+        {
+            "meta": "Issued Oct 2022See credential",
+            "subtitle": "NASBA",
+            "title": "Cryptocurrency Foundations (2018)"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID HCZWTL36NX7USee credential",
+            "subtitle": "INSEAD",
+            "title": "Introduction to Blockchain Technologies"
+        },
+        {
+            "meta": "Issued Oct 2022See credential",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified: Azure Fundamentals"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID VU6KZ8PEVGTPSee credential",
+            "subtitle": "INSEAD",
+            "title": "Transacting on the Blockchain"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID Q56WKN6JK7SGSee credential",
+            "subtitle": "Coursera",
+            "title": "Innovating with Data and Google Cloud"
+        },
+        {
+            "meta": "Issued Aug 2022Credential ID 47Q75BM5RRA8See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Digital Transformation with Google Cloud"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID AEBGG49M53EBSee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Neural Networks and Deep learning"
+        }
+    ],
+    "current_company_name": "PwC India",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Prosthetics Designing for hand Amputees\",\"start_date\":\"May 2020\",\"end_date\":\"Present\",\"description\":\"Working on affordable advanced prosthetics for amputees\"},{\"title\":\"Confidential\",\"start_date\":\"Jan 2021\",\"end_date\":\"Apr 2021\",\"description\":\"A confidential project for DRDO\"},{\"title\":\"Hyperloop Braking and Stability Mechanism\",\"start_date\":\"Aug 2020\",\"end_date\":\"Sep 2020\"},{\"title\":\"Improving the efficiency of a Cement grinding process\",\"start_date\":\"May 2020\",\"end_date\":\"Jul 2020\"},{\"title\":\"Variety predictor\",\"start_date\":\"Apr 2020\",\"end_date\":\"May 2020\",\"description\":\"I have written a program which takes in the train and target dataset provided (which is the data collected from the users who have bought the wine)and gives out the predicted variety of wine of the test data set\"},{\"title\":\"Motion Capture Software Development\",\"start_date\":\"Mar 2020\",\"end_date\":\"May 2020\",\"description\":\"My project is about creating a motion capture Software to read the kinematic movements of an objects in real time and project a 3D rendered model of the subjectThe project has various application including in the gaming industry, medical industry, military training, sports, manufacturing industry ect.\"},{\"title\":\"ROCKER-BOGIE MECHANISM\",\"start_date\":\"Feb 2020\",\"end_date\":\"May 2020\"},{\"title\":\"Using Deep learning to predict the probability of a post getting viral on the internet\",\"start_date\":\"Mar 2020\",\"end_date\":\"Mar 2020\"},{\"title\":\"Designing and Modelling an EV\",\"start_date\":\"Feb 2020\",\"end_date\":\"Mar 2020\"},{\"title\":\"Delivery Drone design and development\",\"start_date\":\"May 2019\",\"end_date\":\"Nov 2019\"},{\"title\":\"Developing a market entry strategy\",\"start_date\":\"Feb 2019\",\"end_date\":\"May 2019\",\"description\":\"This was a part of the pitch deck we created for investors\"},{\"title\":\"Developing  on/off valve circuit for delivery of coolant, based on the temperature requirement in machining/manufacturing process\",\"description\":\"We have used the Arduino to set a signal limit to the temperature by using the input voltage given by the thermistor, when the maximum temperature is reached we make the coolant circulate faster with the help of a coolant pump and maintain an optimum temperature.\"},{\"title\":\"Robotic arm\"}]",
+    "honors_and_awards": null
+}

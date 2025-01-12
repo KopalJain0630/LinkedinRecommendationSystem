@@ -1,0 +1,36 @@
+{
+    "city": "Gurgaon, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian School of Business",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2001",
+            "end_year": "2005",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "end_year": "2001",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Competent Communicator & Leader with Toastmasters\"}]",
+    "certifications": null,
+    "current_company_name": "Bharat Founder School",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

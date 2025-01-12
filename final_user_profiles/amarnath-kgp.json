@@ -1,0 +1,116 @@
+{
+    "city": "Greater Hyderabad Area",
+    "position": "Data Scientist at App Orchid | IIT KGP '22",
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Dec 2024 - Present 1 month",
+            "start_date": "Dec 2024",
+            "end_date": "Present",
+            "duration_short": "1 month",
+            "company": "App Orchid Inc",
+            "company_id": "app-orchid-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Engineer",
+            "location": "Greater Hyderabad Area",
+            "description": "I am a data science engineer with experience in developing and deploying AI/ML solutions for large-scale, real-world applications. Throughout my career, I have worked on integrating machine learning models, automation, and MLOps frameworks to optimize workflows, automate processes, and drive insights in semiconductor manufacturing. I am highly skilled in leveraging cloud platforms like Google Kubernetes Engine (GKE) for scalable deployments and Apache Airflow for pipeline automation.- Spearheaded the development of a Retrieval-Augmented Generation (RAG) system, enhancing chatbot functionality using natural language processing and language models.- Deployed cutting-edge machine learning models for wafer defect classification and yield management, improving decision-making accuracy and enhancing quality analysis.- Implemented CI/CD pipelines and scalable cloud-based solutions to support continuous improvement and rapid model deployment.- Automated key manufacturing processes, including Defects per Million (DPM) monitoring and root cause analysis, improving efficiency and streamlining workflows.",
+            "description_html": "I am a data science engineer with experience in developing and deploying AI/ML solutions for large-scale, real-world applications. Throughout my career, I have worked on integrating machine learning models, automation, and MLOps frameworks to optimize workflows, automate processes, and drive insights in semiconductor manufacturing. I am highly skilled in leveraging cloud platforms like Google Kubernetes Engine (GKE) for scalable deployments and Apache Airflow for pipeline automation.- Spearheaded the development of a Retrieval-Augmented Generation (RAG) system, enhancing chatbot functionality using natural language processing and language models.- Deployed cutting-edge machine learning models for wafer defect classification and yield management, improving decision-making accuracy and enhancing quality analysis.- Implemented CI/CD pipelines and scalable cloud-based solutions to support continuous improvement and rapid model deployment.- Automated key manufacturing processes, including Defects per Million (DPM) monitoring and root cause analysis, improving efficiency and streamlining workflows.",
+            "duration": "Jun 2022 Nov 2024 2 years 6 months",
+            "start_date": "Jun 2022",
+            "end_date": "Nov 2024",
+            "duration_short": "2 years 6 months",
+            "company": "Micron Technology",
+            "company_id": "micron-technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Worked on an Automation Tool which converts the source code from Oracle PL/SQL to Snowflake SQL using ANTLR with Python     • Increased the ANTLR parse-tree-walker performance by 15% by restructuring the ANTLR grammar and simplifying ATN graphs     • Tested the converted language semantics with relevant data from database and made required changes to grammar and listener functions     • Started work on improving the tool using Neural Machine Translation (seq2seq model with a transformer architecture)",
+            "description_html": "• Worked on an Automation Tool which converts the source code from Oracle PL/SQL to Snowflake SQL using ANTLR with Python • Increased the ANTLR parse-tree-walker performance by 15% by restructuring the ANTLR grammar and simplifying ATN graphs • Tested the converted language semantics with relevant data from database and made required changes to grammar and listener functions • Started work on improving the tool using Neural Machine Translation (seq2seq model with a transformer architecture)",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "TEKsystems",
+            "company_id": "teksystems",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Volunteer",
+            "location": "IIT Kharagpur",
+            "description": "The National Service Scheme (NSS) is a Central Sector Scheme of Government of India, Ministry of Youth Affairs & Sports. It provides the opportunity to the student youth of Technical Institution, Graduate & Post Graduate at colleges and University level of India to take part in various government-led community service activities & programmes.The sole aim of the NSS is to provide hands-on experience to young students in delivering community service.",
+            "description_html": "The National Service Scheme (NSS) is a Central Sector Scheme of Government of India, Ministry of Youth Affairs &amp; Sports. It provides the opportunity to the student youth of Technical Institution, Graduate &amp; Post Graduate at colleges and University level of India to take part in various government-led community service activities &amp; programmes.The sole aim of the NSS is to provide hands-on experience to young students in delivering community service. <!---->",
+            "duration": "Aug 2017 Jul 2019 2 years",
+            "start_date": "Aug 2017",
+            "end_date": "Jul 2019",
+            "duration_short": "2 years",
+            "company": "National Service Scheme",
+            "company_id": "national-service-scheme",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary Strategy Cup",
+            "location": "IIT Kharagpur",
+            "description": "Technology Students’ Gymkhana is the hub of the numerous extra-curricular and co-curricular activities in IIT Kharagpur ranging from sports to socio-cultural. The Gymkhana is managed by the students, for the students, under the guidance and active participation of the faculty and staff members.The moto of Technology Students'​ Gymkhana is YOGAH KARMASU KAUSALAM which in English means \"Perfection in action is Yoga\"​. Our goal is to bring overall development in IITians through cultivating and nurturing their extra-curricular talents",
+            "description_html": "Technology Students’ Gymkhana is the hub of the numerous extra-curricular and co-curricular activities in IIT Kharagpur ranging from sports to socio-cultural. The Gymkhana is managed by the students, for the students, under the guidance and active participation of the faculty and staff members.The moto of Technology Students'​ Gymkhana is YOGAH KARMASU KAUSALAM which in English means \"Perfection in action is Yoga\"​. Our goal is to bring overall development in IITians through cultivating and nurturing their extra-curricular talents",
+            "duration": "Apr 2018 Apr 2019 1 year 1 month",
+            "start_date": "Apr 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "1 year 1 month",
+            "company": "Technology Students'​ Gymkhana, IIT Kharagpur",
+            "company_id": "technology-students-gymkhana-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Int. MSc",
+            "field": "Physics",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": "Activities and Societies: Field Hockey, Student Representative Major - Integrated Master of Science, Physics Micro Specialization - Artificial Intelligence and it's Applications",
+            "description_html": "Activities and Societies: Field Hockey, Student Representative",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Chaitanya College of Education",
+            "degree": "Andhra Pradesh Board of Intermediate Education",
+            "field": "96.9%",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Vijayavani Vidhyanikethan High School",
+            "degree": "Andhra Pradesh Board of Secondary Education",
+            "field": "9.7/10.0 CGPA",
+            "start_year": "2002",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Deep Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"High Performance Computing\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning Foundations and Applications\"},{\"subtitle\":\"-\",\"title\":\"Neuro Science\"},{\"subtitle\":\"-\",\"title\":\"Operating System\"},{\"subtitle\":\"-\",\"title\":\"Partial Differential Equations\"},{\"subtitle\":\"-\",\"title\":\"Physics of Semiconductor Devices\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Product Development\"},{\"subtitle\":\"-\",\"title\":\"Speech Recognition and Natural Language Processing\"}]",
+    "certifications": null,
+    "current_company_name": "App Orchid Inc",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

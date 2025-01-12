@@ -1,0 +1,367 @@
+{
+    "id": "aaditya-sanjay-b-a62630a0",
+    "name": "Aaditya Sanjay B.",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Brookfield | Guild Capital | L.E.K. Consulting | Institute Order of Merit IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Brookfield Asset Management",
+        "company_id": "brookfield",
+        "title": "Brookfield | Guild Capital | L.E.K. Consulting | Institute Order of Merit IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Analyst",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "Real Estate Investments",
+            "description_html": "Real Estate Investments <!---->",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Brookfield Asset Management",
+            "company_id": "brookfield",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate",
+            "description_html": null,
+            "duration": "Jan 2022 Jul 2023 1 year 7 months",
+            "start_date": "Jan 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "1 year 7 months",
+            "company": "Guild Capital",
+            "company_id": "guild-capital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "L.E.K. Consulting",
+            "location": "Mumbai Metropolitan Region",
+            "description_html": null,
+            "duration": "2 years 6 months",
+            "positions": [
+                {
+                    "subtitle": "L.E.K. Consulting",
+                    "meta": "Apr 2021 - Jan 2022 10 months",
+                    "duration": "Apr 2021 Jan 2022 10 months",
+                    "start_date": "Apr 2021",
+                    "end_date": "Jan 2022",
+                    "duration_short": "10 months",
+                    "title": "Associate Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "L.E.K. Consulting",
+                    "meta": "Oct 2020 - Apr 2021 7 months",
+                    "duration": "Oct 2020 Apr 2021 7 months",
+                    "start_date": "Oct 2020",
+                    "end_date": "Apr 2021",
+                    "duration_short": "7 months",
+                    "title": "Senior Associate",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "L.E.K. Consulting",
+                    "meta": "Aug 2019 - Apr 2021 1 year 9 months",
+                    "duration": "Aug 2019 Apr 2021 1 year 9 months",
+                    "start_date": "Aug 2019",
+                    "end_date": "Apr 2021",
+                    "duration_short": "1 year 9 months",
+                    "title": "Associate",
+                    "description_html": null
+                }
+            ],
+            "company": "L.E.K. Consulting",
+            "company_id": "lekconsulting",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Intern",
+            "location": "Bangalore",
+            "description_html": null,
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Visa",
+            "company_id": "visa",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Placement Coordinator",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "May 2017 Apr 2018 1 year",
+            "start_date": "May 2017",
+            "end_date": "Apr 2018",
+            "duration_short": "1 year",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Delegate",
+            "location": "Cologne Area, Germany",
+            "description_html": null,
+            "duration": "Mar 2018 Mar 2018 1 month",
+            "start_date": "Mar 2018",
+            "end_date": "Mar 2018",
+            "duration_short": "1 month",
+            "company": "World Business Dialogue",
+            "company_id": "worldbusinessdialogue",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Edmonton, Canada Area",
+            "description_html": null,
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "University of Alberta",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Robotix Society",
+            "location": "Indian Institute of Technology Kharagpur",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Technology Robotix Society",
+                    "meta": "2016 - 2017 1 year",
+                    "duration": "2016 2017 1 year",
+                    "start_date": "2016",
+                    "end_date": "2017",
+                    "duration_short": "1 year",
+                    "title": "Finance & Events Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Robotix Society",
+                    "meta": "2015 - 2016 1 year",
+                    "duration": "2015 2016 1 year",
+                    "start_date": "2015",
+                    "end_date": "2016",
+                    "duration_short": "1 year",
+                    "title": "Subhead",
+                    "description_html": null
+                }
+            ],
+            "company": "Technology Robotix Society",
+            "company_id": "technology-robotix-society",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Ahmedabad Area, India",
+            "description_html": null,
+            "duration": "Nov 2016 Dec 2016 2 months",
+            "start_date": "Nov 2016",
+            "end_date": "Dec 2016",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Management Ahmedabad",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Instructor",
+            "location": "Indian Institute of Technology Kharagpur",
+            "description_html": null,
+            "duration": "Jul 2015 Jul 2016 1 year 1 month",
+            "start_date": "Jul 2015",
+            "end_date": "Jul 2016",
+            "duration_short": "1 year 1 month",
+            "company": "Kharagpur Robotics and Artificial Intelligence Group",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineering Intern",
+            "location": "Pune",
+            "description_html": null,
+            "duration": "May 2016 Jun 2016 2 months",
+            "start_date": "May 2016",
+            "end_date": "Jun 2016",
+            "duration_short": "2 months",
+            "company": "WordsMaya",
+            "company_id": "wordsmaya",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Soham Saha",
+            "about": "MBA Candidate at Stanford GSB | MSD (Merck & Co) | L.E.K. Consulting | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayushi Srivastava",
+            "about": "Investments at Elevation Capital | IIMA Gold Medallist",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Jagesh Golwala",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishtha Gupta",
+            "about": "BCG | IIT Delhi",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratham Mehta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Raj",
+            "about": "BCG | Goldman Sachs | Nomura",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Anusha Sharan",
+            "about": null,
+            "location": "Sweden"
+        },
+        {
+            "profile_link": "",
+            "name": "Roshan Tathed",
+            "about": "Executive in Residence | Harvard MBA, IIT Bombay",
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Yuvika Motwani",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh Prasad",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated M.Sc.",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jog Education Trusts P. Jog College of Science & Commerce, Mayur Colony ,Kothrud, . Pune 411 038.",
+            "degree": "Higher Secondary Certificate, Maharashtra State Board of Secondary and Higher Secondary Education",
+            "start_year": "2011",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Crescent High School, Pune",
+            "degree": "Secondary School Certificate, Maharashtra State Board of Secondary and Higher Secondary Education",
+            "start_year": "2001",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4558.0,
+    "connections": 500.0,
+    "current_company_company_id": "brookfield",
+    "current_company_name": "Brookfield Asset Management",
+    "publications": "[{\"title\":\"A Fuzzy Logic System to Analyze a Student\u00e2\u20ac\u2122s Lifestyle.\",\"subtitle\":\"9th International Conference on Advanced Computational Intelligence, ICACI 2017, (Doha, Qatar)\",\"date\":\"Feb 2017\",\"description\":\"Developed an Android application which uses Google Maps API and fuzzy logic to analyzea person\u00e2\u20ac\u2122s lifestyle based on their GPS data and provides user-specific recommendations.Guided by Prof. Barai. Peer reviewed as the best project.\"}]",
+    "patents": null,
+    "projects": [
+        {
+            "title": "Pixelate, Computer Vision Event, Techfest, IIT Bombay",
+            "start_date": "Dec 2015",
+            "end_date": "Present",
+            "description": "\u00e2\u20ac\u00a2 Built an image processing autonomous robot using OpenCV and C++ capable of identifying and traversing the path as well as detecting the shapes and colors of objects on the path and reaching the destination.\u00e2\u20ac\u00a2 Finished 5th among 50+ teams from India & south-east Asia."
+        },
+        {
+            "title": "Traffic Signal Follower, IEEE",
+            "start_date": "Dec 2015",
+            "description": "\u00e2\u20ac\u00a2 Mentor of a project of building a robot which can sense traffic signal lights and traverseaccordingly.\u00e2\u20ac\u00a2 Taught computer vision in C++ to 50+ students, over a one week workshop."
+        },
+        {},
+        {},
+        {},
+        {
+            "title": "E-Retailing in India, Case Study, Open IIT",
+            "start_date": "Oct 2015",
+            "description": "\u00e2\u20ac\u00a2 Presented a detailed report of whether small scale e-commerce websites still remain relevant in the current Indian E-commerce market which is hugely dominated by large e-commerce players. Proposed strategies for the same.\u00e2\u20ac\u00a2 Awarded Silver."
+        },
+        {
+            "title": "code.fun.do, Overnight Hackathon, Microsoft",
+            "start_date": "Aug 2015",
+            "end_date": "Present",
+            "description": "\u00e2\u20ac\u00a2 Developed a mobile application using C# and XAML which will help students revise notes by randomly displaying the most optimal note based on their retention level."
+        },
+        {
+            "title": "Projal, Product Design, Open IIT",
+            "start_date": "Aug 2015",
+            "description": "\u00e2\u20ac\u00a2 Conceptualized, designed and presented an innovative product PROJAL which will savepeople from drowning automatically by sensing change in the pressure. \u00e2\u20ac\u00a2 Secured Gold."
+        },
+        {
+            "title": "AUGHIT, Computer Vision Event, IIT Kharagpur",
+            "start_date": "Jan 2015",
+            "end_date": "Present",
+            "description": "\u00e2\u20ac\u00a2 Built an image processing robot using OpenCV, C++ and Arduino which plays the breakout game using augmented reality. \u00e2\u20ac\u00a2 Awarded Best Fresher among 35+ teams."
+        },
+        {
+            "title": "Object Tracking Robot, IEEE, Texas Instruments",
+            "start_date": "Dec 2014",
+            "description": "\u00e2\u20ac\u00a2 Accomplished the project of building a robot which tracks different objects and performsobject-specific tasks using augmented reality, over a one week workshop."
+        },
+        {
+            "title": "Student English Support",
+            "start_date": "May 2016",
+            "end_date": "Jun 2016",
+            "description": "\u00e2\u20ac\u00a2 Developed a software for one of the top 10 innovative educational start-ups in India which assist more than 100 students daily to learn English on a chat-based platform.\u00e2\u20ac\u00a2 The software was an application of Natural Langauge Processing developed using Python, NLTK and Stanford NLP with an objective to partially replace an English tutor.\u00e2\u20ac\u00a2 It was developed from scratch & was tested over 1000+ user test-cases across different modules. It attained a maximum efficiency of 93.4% while maintained 87.6% on aggregate."
+        }
+    ],
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "aaditya-sanjay-b-a62630a0",
+    "activity": null,
+    "linkedin_num_id": 359874794.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2020",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"MSO 202\",\"title\":\"Complex Analysis\"},{\"subtitle\":\"IME 672\",\"title\":\"Data Mining & Knowledge Discovery\"},{\"subtitle\":\"ESO 207\",\"title\":\"Data Structures & Algorithms\"},{\"subtitle\":\"ECO 764\",\"title\":\"Financial Econometrics\"},{\"subtitle\":\"ME 231\",\"title\":\"Fluid Mechanics\"},{\"subtitle\":\"ESC 101\",\"title\":\"Fundamentals of Computing\"},{\"subtitle\":\"ME 341\",\"title\":\"Heat & Mass Transfer\"},{\"subtitle\":\"ESC 201\",\"title\":\"Introduction to Electronics\"},{\"subtitle\":\"CS 771\",\"title\":\"Introduction to Machine Learning\"},{\"subtitle\":\"IME 625\",\"title\":\"Introduction to Stochastic Processes and Their Applications\"},{\"subtitle\":\"MTH 102\",\"title\":\"Linear Algebra and Ordinary Differential Equation\"},{\"subtitle\":\"ECO 221\",\"title\":\"Macroeconomics\"},{\"subtitle\":\"ECO 261\",\"title\":\"Mathematical Economics\"},{\"subtitle\":\"ECO 101\",\"title\":\"Microeconomics\"},{\"subtitle\":\"ME 627\",\"title\":\"Non Linear Vibrations\"},{\"subtitle\":\"IME 605\",\"title\":\"Operation Research for Management\"},{\"subtitle\":\"MSO 203\",\"title\":\"Partial Differential Equation\"},{\"subtitle\":\"MSO 201\",\"title\":\"Probability & Statistics\"},{\"subtitle\":\"MTH 101\",\"title\":\"Real analysis & Vector Calculus\"},{\"subtitle\":\"ME 352\",\"title\":\"Theory of Machines\"},{\"subtitle\":\"CS698X\",\"title\":\"Topics In Probabilistic Modelling and Inference\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Oct 2023",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA)"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID 2WHFVEJQEKEUSee credential",
+            "subtitle": "Indian School of Business",
+            "title": "Trading Strategies in Emerging Market Specialization"
+        },
+        {
+            "meta": "Issued Dec 2019",
+            "subtitle": "Harvard US-India Initiative",
+            "title": "Delegate"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID NCFM-00001328151See credential",
+            "subtitle": "ALPHABETA INC",
+            "title": "Equity & Portfolio Management"
+        }
+    ],
+    "current_company_name": "MakeMyTrip",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Predict Crop Production in India in a given year\",\"start_date\":\"Sep 2020\",\"end_date\":\"Dec 2020\",\"description\":\"OBJECTIVE: Predict the various crop production in different states and in different season in India given dataset of production of various crops in each season in different states over previous yearsSTRATEGY: Analyzed different attributes of the dataset & cleaned the data to remove data entry with incomplete data. Preprocessed the data using correlation coefficient to identify highly correlated attributes and remove the redundant ones to reduce attributes and used Inter-quartile range to remove the outliers from the data. Generated new relevant feature attributes from given attributes and used Z Score normalization to transform the data. Visualized the data using correlation heat map, box plots, bar graphs and line charts to analyze the historic production of various crops. Implemented 4 regression models - Linear Regression, Decision Tree, KNN- Regression & SVM Regression to predict crop production in following scenarios:1) Predicting overall crop production of particular crop in India in a year 2) Predicting production of a particular crop in a particular season3) Predicting production of a particular crop in a particular state4) Predicting production of a particular crop in a particular state in a particular seasonAnalyzed the prediction accuracy using Mean Squared Error (MSE) & Explained Variance Score. RESULTS: Overall, linear Regression outperformed other algorithms and had better prediction results in all the cases. Secondly, both the metrics gave similar results or ranked the algorithm in similar manner in most of the cases. Training data had decent accuracy in each case without much variation for all the cases.A general trend can also be observed that as we keep on specifying a greater number of attributes the prediction accuracy on validation set also increases.\"},{\"title\":\"Impact of different flexible flaps on power and lift of rotary blades\",\"start_date\":\"May 2019\",\"end_date\":\"Jul 2019\",\"description\":\"OBJECTIVE: Measure the flexural rigidity of 4 samples and study the effect of lift and power when used as flaps in the rotary bladesSTRATEGY: Calculated deflection using line loads and find Young’s Modulus using narrow beam theory approximation for each sample. Load Cell was used to measure the force and IR Speed Sensor was used to measure the RPM speed of rotary blades. Lift and Power was measured at 800 RPM for samples from force components & formula for spanwise and chordwise casesRESULTS: The sample with maximum rigidity produced 50% more lift at 25% more power when attached Chordwise to the blades. The sample with maximum rigidity was most efficient compared to baseline blade when attached spanwise to the blades\"}]",
+    "honors_and_awards": null
+}

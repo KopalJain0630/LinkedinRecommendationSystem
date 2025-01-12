@@ -1,0 +1,81 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Product Manager • Ex-Creditail • Ex-Ola Electric • IIT KGP",
+    "experience": [
+        {
+            "title": "Product Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Zero-to-one journey building a payments and credit product for small-medium businesses. Moved business and product metrics. Launched and driving the products across mobile, web, and WhatsApp-based platforms.",
+            "description_html": "Zero-to-one journey building a payments and credit product for small-medium businesses. Moved business and product metrics. Launched and driving the products across mobile, web, and WhatsApp-based platforms. <!---->",
+            "duration": "Nov 2022 Apr 2024 1 year 6 months",
+            "start_date": "Nov 2022",
+            "end_date": "Apr 2024",
+            "duration_short": "1 year 6 months",
+            "company": "Creditail",
+            "company_id": "creditail",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Product Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2022 Nov 2022 5 months",
+            "start_date": "Jul 2022",
+            "end_date": "Nov 2022",
+            "duration_short": "5 months",
+            "company": "Ola Electric",
+            "company_id": "olaelectric",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Understanding user sentiments, and suggesting changes for improved user experience of the Sequoia-backed startup.• Established and scaled up NPS collection by 20% MoM; led to 3 key process changes to solve major user detraction issues.• Co-led a team of 8 to run user research on 2000+ users; presented insights to business vertical, leading to 5% increase in NPS.• Conceptualized lead categorization witnessing 70% adoption rate, enabling counselors to prioritize and serve users efficiently.• Piloted an experiment, getting 50% utilization rate, to add slot-booking feature in web app with current 14% D7 retention.",
+            "description_html": "Understanding user sentiments, and suggesting changes for improved user experience of the Sequoia-backed startup.• Established and scaled up NPS collection by 20% MoM; led to 3 key process changes to solve major user detraction issues.• Co-led a team of 8 to run user research on 2000+ users; presented insights to business vertical, leading to 5% increase in NPS.• Conceptualized lead categorization witnessing 70% adoption rate, enabling counselors to prioritize and serve users efficiently.• Piloted an experiment, getting 50% utilization rate, to add slot-booking feature in web app with current 14% D7 retention.",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Leap Finance",
+            "company_id": "leap-global-education",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Operations Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "Expanding business of the fast-paced, pre-seed stage startup providing end-to-end kitchen aide with 2500+ cook partners.• Onboarded 600+ cook partners by strategizing & launching a referral program and 2 competitions in the budget of INR 20K.• Established area-wise networks for customer leads by expanding target area by 50%; led to a 20% increase in customer pool.• Ideated and organized 3 events to engage 300+ cook partners; implemented attendance tracking system to enhance service.",
+            "description_html": "Expanding business of the fast-paced, pre-seed stage startup providing end-to-end kitchen aide with 2500+ cook partners.• Onboarded 600+ cook partners by strategizing &amp; launching a referral program and 2 competitions in the budget of INR 20K.• Established area-wise networks for customer leads by expanding target area by 50%; led to a 20% increase in customer pool.• Ideated and organized 3 events to engage 300+ cook partners; implemented attendance tracking system to enhance service. <!---->",
+            "duration": "Nov 2020 Dec 2020 2 months",
+            "start_date": "Nov 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "2 months",
+            "company": "ChefKart",
+            "company_id": "chefkart",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech + M.Tech)",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": "Activities and Societies: • Students' Senate • Pandit Madan Mohan Malaviya Hall Of Residence • Institute Wellness Group,Technology Students' Gymkhana, IIT Kharagpur • Megalith IIT Kharagpur (Departmental Fest) • Rajasthan Cultural Association IIT Kharagpur • National Service Scheme IIT Kharagpur Academic Information: • B.Tech in Civil Engineering. • M.Tech in Environmental Engineering and Management Extra-Curricular Activities: Elections: Contested for the post of Vice-President, highest student representative position; garnered 47% (2939) votes. Delivered Statement of Purpose, broadcast live with 6K+ views, defended 3 proposals for 13k member electorate. • Case Study: Qualified among top 200 Int’l teams (1300 regd.) in Solvay Business Game 2021, Europe’s biggest… Show more",
+            "description_html": "Activities and Societies: • Students' Senate • Pandit Madan Mohan Malaviya Hall Of Residence • Institute Wellness Group,Technology Students' Gymkhana, IIT Kharagpur • Megalith IIT Kharagpur (Departmental Fest) • Rajasthan Cultural Association IIT Kharagpur • National Service Scheme IIT Kharagpur",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"EP60040\",\"title\":\"Engineering B Plan Development\"},{\"subtitle\":\"HS60010\",\"title\":\"Industrial Relations\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability & Statistics\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming & Data Structures\"},{\"subtitle\":\"CS19001\",\"title\":\"Programming & Data Structures Laboratory\"},{\"subtitle\":\"MA20101\",\"title\":\"Transform Calculus\"}]",
+    "certifications": null,
+    "current_company_name": "Creditail",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Masters Dissertation\",\"start_date\":\"Aug 2021\",\"end_date\":\"Apr 2022\",\"description\":\"Applying machine learning algorithms to predict aerosol optical depth (AOD) used for estimating visibility in a region.• Extracted 20-year meteorological data of 9 parameters, pre-processed by removing outliers using Z Score and normalization.• Performed exploratory analysis by plotting correlation matrix, selecting relevant features for better AOD prediction accuracy.• Employed Random Forest, SVM and ANN algorithm and performed hyperparameter tuning; selected model based on RMSE.\"},{\"title\":\"Pro bono service in rural areas of Jaswantgarh, Rajasthan during COVID-19 (Self-Project)\",\"start_date\":\"Jul 2020\",\"end_date\":\"Aug 2020\",\"description\":\"Explored and learned about some primary on-ground challenges, took initiatives to solve them and serve the community.• Initiated 50+ households' survey; ideated action points with Surajmal Taparia Trust to help the 40% poverty-stricken families.• Raised donations of INR 10L to build houses for 7 needy families; initiated construction activities with the shoestring budget.• Educated and assisted 30 families on rainwater harvesting, helping cope up with the irregular supply of 65 LPCD tap water.\"},{\"title\":\"Optimising Biogas Plant (Prof B Bhattacharya)\",\"start_date\":\"Oct 2018\",\"end_date\":\"Nov 2018\",\"description\":\"• Conceptualized & Proposed a plan for construction of biogas plant which can replace LPG cylinders saving Rs.11,164/day.• Ascertained a conversion of 1250 kg of food wastages generated from 22 halls of residence into 345 kg of biogas.• Stipulated all the potential hazards due to the lack of proper earthing & maintenance of the plant for its safe execution inside the campus.\"},{\"title\":\"Spot Speedy Study (Prof Sudeshna Mitra)\",\"start_date\":\"Oct 2018\",\"end_date\":\"Nov 2018\",\"description\":\"• Collected and analysed the speed data of more than 100 vehicles of different categories at a given location for different time periods.• Interpreted 85th percentile, Mean, Variance & standard deviation of speed & suggested improvement of roads considering safety.\"}]",
+    "honors_and_awards": null
+}

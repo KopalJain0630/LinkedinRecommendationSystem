@@ -1,0 +1,57 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Masters' Union",
+            "url": "",
+            "start_year": "2022-06",
+            "end_year": "2023-09",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016-08",
+            "end_year": "2019-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-",
+            "start_year": "2014-06",
+            "end_year": "2016-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Introduction To Marketing (University of Pennsylvania)\"},{\"subtitle\":\"-\",\"title\":\"Successful Negotiation: Essential Strategies and Skills (University of Michigan)\"}]",
+    "certifications": [
+        {
+            "meta": "Issued May 2020",
+            "subtitle": "Google",
+            "title": "Digital Unlocked: The Fundamentals Of Digital Marketing"
+        }
+    ],
+    "current_company_name": "Antler",
+    "publications": "[{\"title\":\"A World on Hold : A Living Record of the Global Pandemic (ranked #4 in Amazon's best-seller list)\",\"subtitle\":\"Om Books International\",\"date\":\"July 1, 2022\",\"description\":\"Through twenty diverse and compelling experiences of individuals living through an unprecedented global pandemic, A World on Hold chronicles a historic period which brought the whole world to a standstill. It documents the voices of not only the well-heeled and privileged – parliamentarian and author Shashi Tharoor, actor Vidya Balan, celebrity chef Shilarna Vaze and celebrated editor Nonita Kalra – but also those whose voices and stories were relegated to mere numbers: an anonymous police officer, a migrant worker, a gravedigger, a cabin crew member and even a Covid-19 human challenge volunteer, among others.\"},{\"title\":\"The Trouble With Comparisons in Grief\",\"subtitle\":\"The Wire\",\"date\":\"April 28, 2021\",\"description\":\"As the pandemic brought India and the world to a standstill, a collective sense of loss and disillusionment took over the world. Humanity underwent a historic shift. From healthcare, hospitality, and aviation to frontline work, politics and entertainment – 2020 upended life as we knew it. And, it introduced a particular kind of pain. This article explores the concept of, what I call, ‘pandemic grief’.\"},{\"title\":\"It Was Always You\",\"subtitle\":\"Rupa Publications\",\"date\":\"February 19, 2016\",\"description\":\"1. Key endorsement by Dr. Shashi Tharoor: “Divita is a 17-year-old girl with a rare gift to excel.”2. Gained recognition as the youngest author in India to be published by a nationally-renowned publisher, Rupa Publications3. Received endorsements by DNA (newspaper) and Producer, NH8\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Created an MVP for an AI Product\",\"start_date\":\"Oct 2022\",\"end_date\":\"Present\",\"description\":\"1. Successfully built an MVP (including costing model and wireframe) for an Artificial Intelligence driven solution for incoming job applicants, automating CV, portfolio and interview preparation materials2. Ideated and executed within 2 weeks, acquiring first set of customers\"},{\"title\":\"Founded and ran a profitable business in 6 weeks\",\"start_date\":\"Jul 2022\",\"end_date\":\"Present\",\"description\":\"Co-founded and ran drop-shipping business selling unique, budget-friendly apple accessories that generated revenue of INR 1L+ in 6 weeks.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Merit-Based Scholarship: Rajni Thethi Scholarship for Women",
+            "publication": "-",
+            "date": "2022-06-01T00:00:00.000Z",
+            "description": "The Rajni Thethi Scholarship for Women extends support to deserving female candidates with impressive academic and/or professional track record, along with the drive and potential to emerge as an industry leader."
+        },
+        {
+            "title": "Outstanding Student of the Year Award",
+            "publication": "-",
+            "date": "2016-03-01T00:00:00.000Z",
+            "description": "Awarded to students who display exceptional initiative-taking in out-class activities. Chosen based on: My debut novel, published at the age of 17"
+        }
+    ]
+}

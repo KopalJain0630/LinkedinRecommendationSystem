@@ -1,0 +1,50 @@
+{
+    "city": "United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Ahmedabad",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2013",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2007",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "GARP",
+            "title": "Financial Risk Management (FRM) "
+        }
+    ],
+    "current_company_name": "Emaar",
+    "publications": "[{\"title\":\"Carrier Suppressed Modulation for Brillouin Gain Spectrum Analysis\",\"subtitle\":\"Optics Info Base\",\"date\":\"June 24, 2012\",\"description\":\"We characterize the temperature dependent gain spectrum of Stimulated Brillouin scattering in an optical fiber by using a probe signal generated through carrier suppressed modulation. Probe amplification with pulsed pump is analyzed using these results.\"},{\"title\":\"Investigation of stimulated Brillouin scattering spectra of an optical fiber with use of a frequency modulated laser\",\"subtitle\":\"SPIE\",\"date\":\"November 13, 2011\",\"description\":\"We demonstrate a method to characterize the gain spectrum of Stimulated Brillouin scattering in an optical fiber by using two tunable CW laser sources. Brillouin amplifier configuration is used, in which one laser is used to create SBS in the fiber and frequency modulated light from a second laser is launched from the other end of the fiber in order to extract the SBS gain spectrum. Experimental results are presented to demonstrate the gain bandwidth and the Brillouin frequency shift. Experiments at larger pump powers indicate the invocation of second-order Brillouin scattering in the forward direction. This method discussed to extract the gain spectrum of the fiber does not warrant the use of high-speed modulator or detectors, and does not use heterodyne measurements.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Optical Fiber sensor through brillouin gain spectrum analysis\",\"start_date\":\"May 2007\",\"description\":\"Rs.20 Million project sponsored by Department of Information Technology, Government of IndiaDeveloped an optical fiber sensor capable of sensing temperature and strain over long distancesRs.20,000 Grant for Innovative Student Project by Industrial Consultancy & Sponsored Research\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Most Innovative Student Project Award",
+            "publication": "Indian Institute of Technology, Madras",
+            "date": "2011-11-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

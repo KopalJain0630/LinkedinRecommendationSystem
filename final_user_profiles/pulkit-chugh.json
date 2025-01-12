@@ -1,0 +1,222 @@
+{
+    "city": "Delhi, India",
+    "position": "ISB Co’25 || Associate Consultant at Trinity Life Sciences || CFA L3 Cleared || DTU'22",
+    "experience": [
+        {
+            "title": "Trinity Life Sciences",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Trinity Life Sciences",
+                    "meta": "Jul 2023 - Mar 2024 9 months",
+                    "duration": "Jul 2023 Mar 2024 9 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Mar 2024",
+                    "duration_short": "9 months",
+                    "title": "Associate Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Trinity Life Sciences",
+                    "meta": "Jun 2022 - Jul 2023 1 year 2 months",
+                    "duration": "Jun 2022 Jul 2023 1 year 2 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Jul 2023",
+                    "duration_short": "1 year 2 months",
+                    "title": "Associate",
+                    "description_html": null
+                }
+            ],
+            "company": "Trinity Life Sciences",
+            "company_id": "trinitylifesciences",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Intern",
+            "description_html": null,
+            "duration": "May 2021 Aug 2021 4 months",
+            "start_date": "May 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "4 months",
+            "company": "University of Waterloo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "description_html": null,
+            "duration": "May 2020 Mar 2021 11 months",
+            "start_date": "May 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "11 months",
+            "company": "XLRI Jamshedpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Analytics Intern",
+            "description_html": null,
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Atom",
+            "company_id": "atomei",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Natural Language Processing Intern",
+            "description_html": null,
+            "duration": "Dec 2019 Jan 2020 2 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jan 2020",
+            "duration_short": "2 months",
+            "company": "National Informatics Centre, MeitY",
+            "company_id": "nicmeity",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian School of Business",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Technological University (Formerly DCE)",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "CFA Institute",
+            "degree": "Chartered Financial Analyst (CFA)",
+            "field": "Fundamental Analysis",
+            "start_year": "2021",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "CMT Association, Inc.",
+            "degree": "Chartered Market Technician (CMT)",
+            "field": "Technical Analysis",
+            "start_year": "2021",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Corporate Finance Institute® (CFI)",
+            "degree": "Financial Modeling and Valuation Analyst (FMVA)",
+            "field": "Financial Modeling",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "HANS RAJ MODEL SCHOOL",
+            "degree": "CBSE Class XII",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"Duke University\",\"title\":\"Business Metrics for Data Driven Companies\"},{\"subtitle\":\"UC Davis \",\"title\":\"Fundamentals of Visualization with Tableau\"},{\"subtitle\":\"UC Davis\",\"title\":\"SQL for Data Science \"},{\"subtitle\":\"Indian School of Business\",\"title\":\"Trading Basics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Oct 2022",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level 2"
+        },
+        {
+            "meta": "Issued Jan 2022",
+            "subtitle": "CMT Association, Inc.",
+            "title": "Chartered Market Technician - Level II"
+        },
+        {
+            "meta": "Issued Oct 2021",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Level 1"
+        },
+        {
+            "meta": "Issued Jul 2021",
+            "subtitle": "CMT Association, Inc.",
+            "title": "Chartered Market Technician - Level I (CMT)"
+        },
+        {
+            "meta": "Issued Jan 2021See credential",
+            "subtitle": "Corporate Finance Institute® (CFI)",
+            "title": "Financial Modeling and Valuation Analyst (FMVA)"
+        },
+        {
+            "meta": "Issued Oct 2020",
+            "subtitle": "CFA Institute",
+            "title": "CFA Institute Investment Foundations Program"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "The Wharton School",
+            "title": "Business Analytics Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "IBM",
+            "title": "Data Science Professional Certificate"
+        },
+        {
+            "meta": "Issued Jul 2020",
+            "subtitle": "Google Analytics for Business",
+            "title": "Google Analytics Individual Qualification (GAIQ)"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "Tableau Software",
+            "title": "Tableau Data Scientist"
+        },
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "KPMG",
+            "title": "Data Analytics: Data Quality Assessment, Insights and Presentation"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Yale University",
+            "title": "Financial Markets"
+        }
+    ],
+    "current_company_name": "Trinity Life Sciences",
+    "publications": "[{\"title\":\"Friction Stir Processing (FSP) Of Surface Composites used in Aerospace and Automobile Components\",\"subtitle\":\"IARJSET\",\"date\":\"March 3, 2021\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "MITACS Globalink Research Intern 2021",
+            "publication": "MITACS",
+            "date": null,
+            "description": null
+        }
+    ]
+}

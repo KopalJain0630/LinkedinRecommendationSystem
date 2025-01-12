@@ -1,0 +1,128 @@
+{
+    "city": "Nawada, Bihar, India",
+    "position": "IIT Kharapur'24 | Ex-QR Intern @ JPMC | ADSYS | Data Analysis | Quant | Statistics | ML & DL",
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "description_html": null,
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Turing",
+            "company_id": "turingcom",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quantitative Researcher",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Developed a UI based tool for P&L Attribution (PLA) test to assess Value at Risk (VaR) model performance for any set of Risk Factors• ES Report Generation for upside VaR  across all portfolios",
+            "description_html": "• Developed a UI based tool for P&amp;L Attribution (PLA) test to assess Value at Risk (VaR) model performance for any set of Risk Factors• ES Report Generation for upside VaR across all portfolios <!---->",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "JPMorgan Chase & Co.",
+            "company_id": "jpmorganchase",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Statistics Intern",
+            "description": "Detecting and Classifying blood cells using Image Preprocessing and Deep Learning",
+            "description_html": "Detecting and Classifying blood cells using Image Preprocessing and Deep Learning <!---->",
+            "duration": "Jun 2022 Aug 2022 3 months",
+            "start_date": "Jun 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "3 months",
+            "company": "Adsys",
+            "company_id": "adsysmed",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kshitij, IIT Kharagpur",
+            "location": "West Bengal, India",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Aug 2021 - Aug 2022 1 year 1 month",
+                    "description": "• Leading the Core Organizing Team to successfully organise Kshitij - 2022, the Asia's largest virtual techno-management conference.",
+                    "duration": "Aug 2021 Aug 2022 1 year 1 month",
+                    "start_date": "Aug 2021",
+                    "end_date": "Aug 2022",
+                    "duration_short": "1 year 1 month",
+                    "title": "Events Head",
+                    "description_html": "• Leading the Core Organizing Team to successfully organise Kshitij - 2022, the Asia's largest virtual techno-management conference.<br> <!---->"
+                },
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Sep 2020 - Aug 2021 1 year",
+                    "description": "• Member of the Core Organizing Team and in charge of public communications, corporate relations, and alumni interactions with Events Management.• Raised INR 1.75 lacs in total alumni funding for the technical symposium from Bengaluru (Karnataka).",
+                    "duration": "Sep 2020 Aug 2021 1 year",
+                    "start_date": "Sep 2020",
+                    "end_date": "Aug 2021",
+                    "duration_short": "1 year",
+                    "title": "Core Organising Team Member",
+                    "description_html": "• Member of the Core Organizing Team and in charge of public communications, corporate relations, and alumni interactions with Events Management.<br>• Raised INR 1.75 lacs in total alumni funding for the technical symposium from Bengaluru (Karnataka). <!---->"
+                },
+                {
+                    "subtitle": "Kshitij, IIT Kharagpur",
+                    "meta": "Sep 2019 - Aug 2020 1 year",
+                    "duration": "Sep 2019 Aug 2020 1 year",
+                    "start_date": "Sep 2019",
+                    "end_date": "Aug 2020",
+                    "duration_short": "1 year",
+                    "title": "Kshitij Campus Affiliate",
+                    "description_html": null
+                }
+            ],
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (BTech + MTech)",
+            "field": "Chemical Engineering + Micro in AI",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Nardiganj College,Nawada , Bihar",
+            "degree": "Intermediate",
+            "field": "88.6%",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Gyan Bharti Model Residential Complex, Nawada ,Bihar",
+            "degree": "Matriculation",
+            "start_year": "2007",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Turing",
+    "publications": "[{\"title\":\"Social Media Sentiment Analysis of Impacts of COVID on Mothers and Children\",\"subtitle\":\"INTERNATIONAL CONFERENCE ON INDUSTRIAL ENGINEERING & ANALYTICS 2024\",\"description\":\"To fight the spread of negative opinion on social media following a pandemic and build a proactive public health presence\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

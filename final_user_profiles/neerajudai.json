@@ -1,0 +1,31 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Guwahati",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ". . .  -",
+            "start_year": "2004",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "House of X",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Parallel MAPsort and Parallel QuickSort using pThreads, OpenMP and MPI\",\"start_date\":\"Jul 2012\",\"end_date\":\"Nov 2012\",\"description\":\"•Guidance :- Dr. Gaurav Trivedi, Assistant Professor, EEE Dept. IIT Guwahati, Dr. Kalpesh Kapoor, Assistant Professor, Department of Mathematics, IIT Guwahati and Parallel and High Performance Computing Experts of Intel.•Implemented advanced sorting techniques for parallel processors using High Performance Computing APIs such as pthread, OpenMP and MPI.\"},{\"title\":\"YAP - Yet Another Platform\",\"start_date\":\"Jan 2012\",\"end_date\":\"Jul 2012\",\"description\":\"•Guidance :- Dr. Harshal B. Nemade, Professor, EEE Dept. IIT Guwahati,•Conceptualized and implemented an Omni purpose computing device. The beauty of it lies in its versatility, flexibility and scalable architecture.•It was a two tier architecture, with core and various shields. Based on the shield that is attached, the device could function as a security alarm, home automation unit, robot motherboard, barcode scanner, Smart card/RFID reader, etc.\"},{},{\"title\":\"Geothermal Energy Piles\",\"description\":\"•Guidance- Dr. Anil Kumar Mishra, Assistant Professor, Civil Eng. Dept. IIT Guwahati•Brief Synopsis- Geothermal Energy can be a best alternative of the conventional sources of energy which are being used at present and the intelligent and managed use of it can cut down almost 33% of a country’s energy budget.•Analysed the use of technology and its pros and cons in various parts of the world and submitted a paper and detailed report in the Civil Eng. Dept. IIT Guwahati.\"}]",
+    "honors_and_awards": null
+}

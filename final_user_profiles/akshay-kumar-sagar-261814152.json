@@ -1,0 +1,38 @@
+{
+    "city": "Meerut, Uttar Pradesh, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"ARTIFICIAL INTELLIGENCE AND HIGH-PERFORMANCE COMPUTING\"},{\"subtitle\":\"-\",\"title\":\"HANDS-ON WORKSHOP ON HIGH PERFORMANCE COMPUTING IN BIOINFORMATICS\"},{\"subtitle\":\"-\",\"title\":\"HANDS-ON WORKSHOP ON THE BASICS OF HIGH PERFORMANCE COMPUTING\"},{\"subtitle\":\"-\",\"title\":\"International SST Users' Symposium & GHRSST Science Team Meeting (GHRSST24)\"},{\"subtitle\":\"-\",\"title\":\"NASA’s PACE Mission: Observation, Data and Opportunities for Ocean and Atmospheric Sciences 03 August 2023 at Singapore.\"},{\"subtitle\":\"-\",\"title\":\"NASA’s Workshop: Introduction to Satellite Validation using Worldwide AERONET Measurements on 03 August 2023 in Singapore\"},{\"subtitle\":\"-\",\"title\":\"Python Programming\"},{\"subtitle\":\"-\",\"title\":\"Training in-person for SST Users: GHRSST specified/formatted products: Which SST products in GHRSST specification are the most suitable for me?\"},{\"subtitle\":\"-\",\"title\":\"cources on computer concepts\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jun 2018Expires Jul 2018",
+            "subtitle": "Sunrise Technologies",
+            "title": "python programming"
+        },
+        {
+            "meta": "Issued Jun 2015Expires Jun 2016",
+            "subtitle": "Indian Army",
+            "title": "National Cadet Core 'C' cert"
+        },
+        {
+            "meta": "Issued Jun 2013Expires Jun 2015",
+            "subtitle": "Indian Army",
+            "title": "National Cadet Core 'B' cert"
+        },
+        {
+            "meta": "Issued Aug 2011Expires Aug 2011",
+            "subtitle": "Kendriya Vidyalaya Sangathan - India",
+            "title": "Kendriya Vidyalaya Sangthan Sports Meet"
+        },
+        {
+            "subtitle": "National Institute of Electronics and Information Technology (NIELIT)",
+            "title": "cource on computer concepts"
+        }
+    ],
+    "current_company_name": null,
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Long term Analysis of Tropical Cyclones and Extreme events over the Northern Indian Ocean\",\"start_date\":\"Jan 2020\",\"description\":\"Long-term Analysis of TC activity over the NIO regions using the machine learning technique on different time scales and identifying the regions responsible for cyclogenesis.\"},{\"title\":\"Spatial and Temporal Changes in Methane Emissions over India from 2003 - 2012.\",\"start_date\":\"Jul 2018\",\"end_date\":\"Jul 2019\",\"description\":\"Analysis of the Spatial and Temporal change in methane emission from agricultural activities and other anthropogenic activities over Indian region since last 10 years using GOSAT & ENVISAT Data.\"},{\"title\":\"Automatic Railway Crossing Controller\",\"start_date\":\"Dec 2016\",\"end_date\":\"May 2017\",\"description\":\"The Aim of this project was to design an automatic railway crossing system by using micro-controllerand magnetic sensor. Sensor is used for finding the distance of the Train at a fixed distance . These sensor is placedso that whenever a train passes it, Sensor Generate a low signal pulse that is received by the microcontroller, passesto the Circuit which give us the information about the train and close or open the railway crossing.\"}]",
+    "honors_and_awards": null
+}

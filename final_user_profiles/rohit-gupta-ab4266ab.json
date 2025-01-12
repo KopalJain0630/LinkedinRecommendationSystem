@@ -1,0 +1,59 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Birla Institute of Technology and Science, Pilani",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2014",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Business Analysis and Valuation\"},{\"subtitle\":\"-\",\"title\":\"Derivatives and Risk Management\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematical Structures\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Fundamentals of Finance\"},{\"subtitle\":\"-\",\"title\":\"Fuzzy Logic\"},{\"subtitle\":\"-\",\"title\":\"Numerical Analysis\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Programming\"},{\"subtitle\":\"-\",\"title\":\"Organisational Psychology\"},{\"subtitle\":\"-\",\"title\":\"Stastistics\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Apr 2019",
+            "subtitle": "Udemy",
+            "title": "Python for Financial Analysis and Algorithmic Trading"
+        },
+        {
+            "meta": "Issued Apr 2019",
+            "subtitle": "Udemy",
+            "title": "The Complete Financial Analysis Course"
+        },
+        {
+            "meta": "Issued Apr 2019",
+            "subtitle": "Udemy",
+            "title": "The Complete Investment Banking Course"
+        },
+        {
+            "meta": "Issued Jul 2018",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        }
+    ],
+    "current_company_name": "Turing",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Application of Differential Equation in Option Pricing\",\"start_date\":\"Sep 2018\",\"end_date\":\"Dec 2018\",\"description\":\"A review and detailed research on various models with all-time advancements in the field of Average Option Pricing.Simulation, comparison and Analysis of Asian option pricing models\"},{\"title\":\"Designing Rainwater Harvesting System using GIS and GA\",\"start_date\":\"Sep 2018\",\"end_date\":\"Dec 2018\",\"description\":\"Proposed a solution for cost optimization of laying pipes for rainwater collection system through satellite images.Path obtained from images containing storage-tanks and number of junctions with their position is optimized using genetic algorithm.\"},{\"title\":\"Cryptocurrency\",\"start_date\":\"Jan 2018\",\"end_date\":\"May 2018\",\"description\":\"Portfolio Management in Cryptocurrency\"},{\"title\":\"Application of Fuzzy Logic in Computer Engineering\",\"start_date\":\"Sep 2017\",\"end_date\":\"Dec 2017\",\"description\":\"Application of Fuzzy Logic in Washing Machines and Air Conditioner.Introduction of Fuzzy Controllers for variable dirt type and dirt degree in Washing Machines and variable temperature in Air Conditioner with a feedback mechanism.\"},{\"title\":\"ANANT- CubeSat\",\"start_date\":\"Oct 2014\",\"end_date\":\"Dec 2016\",\"description\":\"Implemented kernel on a FPGA for a cube satellite. Implemented operating system on a radiation hardened board using advanced C++ language\"}]",
+    "honors_and_awards": [
+        {
+            "title": "INSPIRE SCHOLARSHIP",
+            "publication": "Government of India",
+            "date": null,
+            "description": null
+        }
+    ]
+}

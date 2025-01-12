@@ -1,0 +1,36 @@
+{
+    "city": "Manchester, England, United Kingdom",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Avado",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1998",
+            "end_year": "2000",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2021See credential",
+            "subtitle": "CIPD",
+            "title": "Level 5 Certificate in Human Resources Management"
+        }
+    ],
+    "current_company_name": "Priority Recruitment",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

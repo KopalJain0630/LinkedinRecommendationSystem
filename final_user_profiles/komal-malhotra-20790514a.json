@@ -1,0 +1,68 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Institute of Management Technology, Ghaziabad",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "( )",
+            "start_year": "2017",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2004",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Financial Accounting\"},{\"subtitle\":\"-\",\"title\":\"Financial Management\"},{\"subtitle\":\"-\",\"title\":\"Financial Modelling and Derivatives\"},{\"subtitle\":\"-\",\"title\":\"International Business Management\"},{\"subtitle\":\"-\",\"title\":\"Investment Analysis and Portfolio Management\"},{\"subtitle\":\"-\",\"title\":\"Investment Banking and Financial Services\"},{\"subtitle\":\"-\",\"title\":\"Project Management\"},{\"subtitle\":\"-\",\"title\":\"Research Methodology\"}]",
+    "certifications": [
+        {
+            "subtitle": "Scrum.org",
+            "title": "Professional Scrum Master"
+        }
+    ],
+    "current_company_name": "NatWest Group",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "National Semi Finalists - L’Oréal Sustainability Challenge 2021",
+            "publication": "L’Oréal Sustainability Challenge 2021",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "1st position in Finance Trading Event, Traction 2019",
+            "publication": "-",
+            "date": "2019-02-01T00:00:00.000Z",
+            "description": "Annual Fest of Delhi Technological University"
+        },
+        {
+            "title": "2nd position in Science Open Merit Examination (SOMT) 2015",
+            "publication": "-",
+            "date": null,
+            "description": "15,000+ students appearing each year in Delhi"
+        },
+        {
+            "title": "Merit in English & Hindi Elocution and Recitation",
+            "publication": "-",
+            "date": null,
+            "description": "Consecutively won in 6th, 7th, 8th, 9th, 10th, 11th and 12th grade"
+        }
+    ]
+}

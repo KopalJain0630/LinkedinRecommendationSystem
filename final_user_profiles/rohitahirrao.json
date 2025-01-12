@@ -1,0 +1,104 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Embedded Software Engineer @ SEDEMAC | \nEE @ IIT KGP | \nCinephile | I Trek infrequently, play Table Tennis frequently",
+    "experience": [
+        {
+            "title": "Embedded Software Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "SEDEMAC",
+            "company_id": "sedemac-mechatronics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Master Thesis",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Project Title: Development of Embedded Software Architecture for a Battery Management Systemused in Hybrid Electric VehiclesUnder the guidance of Prof. Siddhartha Mukhopadhyay, HoD, EE, IIT Kharagpur",
+            "description_html": "Project Title: Development of Embedded Software Architecture for a Battery Management Systemused in Hybrid Electric VehiclesUnder the guidance of Prof. Siddhartha Mukhopadhyay, HoD, EE, IIT Kharagpur <!---->",
+            "duration": "Aug 2022 Jul 2023 1 year",
+            "start_date": "Aug 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "1 year",
+            "company": "Department of Electrical Engineering, IIT Kharagpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Governor",
+            "description": "One of the best things I did in college :)",
+            "description_html": "One of the best things I did in college :) <!---->",
+            "duration": "Aug 2020 Aug 2021 1 year 1 month",
+            "start_date": "Aug 2020",
+            "end_date": "Aug 2021",
+            "duration_short": "1 year 1 month",
+            "company": "Technology Filmmaking and Photography Society, IIT Kharagpur",
+            "company_id": "technology-filmmaking-and-photography-society",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "GreedyGame",
+            "company_id": "greedygame-media",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "description_html": null,
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "OMI",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "description_html": null,
+            "duration": "Aug 2019 Aug 2020 1 year 1 month",
+            "start_date": "Aug 2019",
+            "end_date": "Aug 2020",
+            "duration_short": "1 year 1 month",
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B. Tech + M. Tech)",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Writing, Filmmaking, Table Tennis, International Relations, Case Studies",
+            "description_html": "Activities and Societies: Writing, Filmmaking, Table Tennis, International Relations, Case Studies",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "subtitle": "HelloPM",
+            "title": "Product Management"
+        }
+    ],
+    "current_company_name": "SEDEMAC",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

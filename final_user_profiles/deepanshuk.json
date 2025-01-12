@@ -1,0 +1,32 @@
+{
+    "city": "Mountain View, California, United States",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Google",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Star Award",
+            "publication": "Microsoft",
+            "date": "2019-08-01T00:00:00.000Z",
+            "description": "Star award for successfully landing Feature Success Framework"
+        },
+        {
+            "title": "Spot Award",
+            "publication": "MAQ Software",
+            "date": "2013-12-01T00:00:00.000Z",
+            "description": "Spot award for excellent teamwork and delivering Usage Cube"
+        },
+        {
+            "title": "Grant Award - University level",
+            "publication": "MDU Rohtak",
+            "date": "2012-04-01T00:00:00.000Z",
+            "description": "3rd Rank in cInsanity test held by university among 52 engineering colleges"
+        }
+    ]
+}

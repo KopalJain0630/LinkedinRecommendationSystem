@@ -1,0 +1,48 @@
+{
+    "city": "Jaipur, Rajasthan, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Guwahati",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Computer Organization and Architecture\"},{\"subtitle\":\"-\",\"title\":\"Data Structures and Algorithms \"},{\"subtitle\":\"-\",\"title\":\"Database Management Systems and Lab\"},{\"subtitle\":\"-\",\"title\":\"Financial Engineering\"},{\"subtitle\":\"-\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Probabillity and Random Processes\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Feb 2021See credential",
+            "subtitle": "Google",
+            "title": "Google HashCode 2021"
+        }
+    ],
+    "current_company_name": "Oracle",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Codeforces Handler\",\"description\":\"As a developer, I have created a Chrome extension called \\\"Codeforces Handler\\\" to enhance the user experience on the Codeforces website. The extension includes several useful features, such as a progress tracker for an everyday target number of problems based on the user's input, as well as an upcoming contest link. Users can also access their last five wrong verdict submissions and receive recommended problems based on varied difficulties like weak topics, daily practice, easy, medium, and more. Additionally, I added a dark mode feature to ensure a better user experience during nighttime browsing. This project showcases my ability to develop useful and intuitive tools for users, as well as my understanding of front-end web development techniques.\"},{\"title\":\"Intern Placement CCD Portal\",\"description\":\"As a member of the Student’s Web Committee at IIT-Guwahati, I developed the Centre for Career Development Portal using Django for the backend. This project was designed to automate the remark system during the placement procedure, and it includes various features such as searching, addition, modification, and removal of companies, their remarks, and respective POCs. The platform enables a streamlined placement process and simplifies communication between students and potential employers. My contributions to this project helped ensure the smooth functioning of the placement process at IIT-Guwahati, and I gained valuable experience in web development and project management.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "KVPY Fellowship",
+            "publication": "-",
+            "date": null,
+            "description": "Awarded Fellowship with top 1%."
+        },
+        {
+            "title": "Olympiad Medalist",
+            "publication": "-",
+            "date": null,
+            "description": "NSEC Qualified with Top 1%."
+        },
+        {
+            "title": "Strategy Storm",
+            "publication": "-",
+            "date": null,
+            "description": "Won 2nd prize at UDGAM, Entrepreneur Cell IITG"
+        }
+    ]
+}

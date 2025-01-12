@@ -1,0 +1,30 @@
+{
+    "city": "Bremen, Bremen, Germany",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2002",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1999",
+            "end_year": "2002",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Aldott TechSolution",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Patents\",\"description\":\"I hold 18 patents in various fields, here is 5 from Wind Turbine Controllers and Wind farm optimizations\"}]",
+    "honors_and_awards": null
+}

@@ -1,0 +1,49 @@
+{
+    "city": "Mysuru, Karnataka, India",
+    "position": "IITKGP'22",
+    "experience": [
+        {
+            "title": "Backend Developer Intern",
+            "description": "• Worked on building an ERP SaaS system in manufacturing industry especially for the travellers.• Deployed Application Performance Monitor(APM) to visualize the data from API calls of the system. Debug and lint the code and implemented the models in Django web framework as suggested by the frontend team.",
+            "description_html": "• Worked on building an ERP SaaS system in manufacturing industry especially for the travellers.• Deployed Application Performance Monitor(APM) to visualize the data from API calls of the system. Debug and lint the code and implemented the models in Django web framework as suggested by the frontend team. <!---->",
+            "duration": "Jun 2021 Jul 2021 2 months",
+            "start_date": "Jun 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "2 months",
+            "company": "Shoes on Loose",
+            "company_id": "shoes-on-loose",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya (JNV)",
+            "degree": "science",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Shoes on Loose",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

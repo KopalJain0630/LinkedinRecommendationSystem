@@ -1,0 +1,254 @@
+{
+    "id": "parshadsuthar",
+    "name": "Parshad Suthar",
+    "city": "Columbia, Missouri, United States",
+    "country_code": "US",
+    "position": "Pursuing PhD in Computer Science at Scalable Data Science (SDS) Lab at University Of Missouri-Columbia",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "University of Missouri-Columbia",
+        "title": "Pursuing PhD in Computer Science at Scalable Data Science (SDS) Lab at University Of Missouri-Columbia"
+    },
+    "experience": [
+        {
+            "title": "University of Missouri-Columbia",
+            "location": "Columbia, Missouri, United States",
+            "description_html": null,
+            "duration": "1 year",
+            "positions": [
+                {
+                    "subtitle": "University of Missouri-Columbia",
+                    "meta": "Jan 2024 - Present 1 year",
+                    "description": "Currently, I am working on a project funded by MU-Coulter, where we are applying deep learning for the early detection of dysplasia in IBD patients.",
+                    "duration": "Jan 2024 - Present 1 year",
+                    "start_date": "Jan 2024",
+                    "end_date": "Present",
+                    "duration_short": "1 year",
+                    "title": "Graduate Research Assistant",
+                    "description_html": "Currently, I am working on a project funded by MU-Coulter, where we are applying deep learning for the early detection of dysplasia in IBD patients. <!---->"
+                },
+                {
+                    "subtitle": "University of Missouri-Columbia",
+                    "meta": "Jan 2024 - Present 1 year",
+                    "description": "I am working as Teaching Assistant for the CS 3530 UNIX Operating System.",
+                    "duration": "Jan 2024 - Present 1 year",
+                    "start_date": "Jan 2024",
+                    "end_date": "Present",
+                    "duration_short": "1 year",
+                    "title": "Graduate Teaching Assistant",
+                    "description_html": "I am working as Teaching Assistant for the CS 3530 UNIX Operating System. <!---->"
+                }
+            ],
+            "company": "University of Missouri-Columbia",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Graduate Assistant",
+            "location": "Columbia, Missouri, United States",
+            "description": "As a Graduate Assistant, I supported students in the Inside Sales Lab and helped them improve their skills.Contributed to efficient class scheduling, minimized conflicts by maintaining the class timetable, and optimized course offerings. Played a vital role in gathering and analyzing student feedback to enhance curriculum and improve the overall learning experience for faculty and students.",
+            "description_html": "As a Graduate Assistant, I supported students in the Inside Sales Lab and helped them improve their skills.Contributed to efficient class scheduling, minimized conflicts by maintaining the class timetable, and optimized course offerings. Played a vital role in gathering and analyzing student feedback to enhance curriculum and improve the overall learning experience for faculty and students. <!---->",
+            "duration": "Aug 2022 Dec 2023 1 year 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Dec 2023",
+            "duration_short": "1 year 5 months",
+            "company": "University of Missouri Trulaske College of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Finance Data Science Intern",
+            "location": "Columbia, Missouri, United States",
+            "description": "Developed internal software solutions using Python, Node.js, and other technologies to create user-friendly tools, streamlining processes, and boosting productivity by up to 15%. Utilized SQL queries for data insights, including tax collections from specific locations.Executed a project seamlessly integrating ArcGIS and SQL data for spatial analysis, empowering informed decision-making. Proficiently employed Excel for data manipulation and analysis tasks, contributing to data-driven decisions and efficiency gains.",
+            "description_html": "Developed internal software solutions using Python, Node.js, and other technologies to create user-friendly tools, streamlining processes, and boosting productivity by up to 15%. Utilized SQL queries for data insights, including tax collections from specific locations.Executed a project seamlessly integrating ArcGIS and SQL data for spatial analysis, empowering informed decision-making. Proficiently employed Excel for data manipulation and analysis tasks, contributing to data-driven decisions and efficiency gains.",
+            "duration": "Oct 2022 Jul 2023 10 months",
+            "start_date": "Oct 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "10 months",
+            "company": "City of Columbia, Missouri",
+            "company_id": "city-of-columbia-missouri",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Student Assistant",
+            "location": "Columbia, Missouri, United States",
+            "description": "Developed an informational retrieval system using deep learning to process 20,000+ digitized handwritten notary documents, with experiments conducted on Cloudlab. Utilized knowledge graphs, RDFs, and SPARQL queries for data storage in Blazegraph.Enhanced data retrieval and ranking using Blazegraph's capabilities for processing 17th-century Spanish-American notary records, extracting characters with deep learning. Managed and retrieved data efficiently using Blazegraph, benefiting from features like Bulk Data Loader and FullTextSearch. Experiments ran on Cloudlab with multiple nodes.",
+            "description_html": "Developed an informational retrieval system using deep learning to process 20,000+ digitized handwritten notary documents, with experiments conducted on Cloudlab. Utilized knowledge graphs, RDFs, and SPARQL queries for data storage in Blazegraph.Enhanced data retrieval and ranking using Blazegraph's capabilities for processing 17th-century Spanish-American notary records, extracting characters with deep learning. Managed and retrieved data efficiently using Blazegraph, benefiting from features like Bulk Data Loader and FullTextSearch. Experiments ran on Cloudlab with multiple nodes.",
+            "duration": "Jan 2022 Jul 2022 7 months",
+            "start_date": "Jan 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "7 months",
+            "company": "University of Missouri-Columbia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Indore, Madhya Pradesh, India",
+            "description": "Built resilient Java applications with Spring, Hibernate, and front-end tech. Utilized AWS Lambda and DynamoDB for scalable, secure client-specific solutions. Collaborated with cross-functional teams to design and develop highly scalable software components, incorporating cutting-edge technologies such as React.js, Angular.js, AWS Elastic Beanstalk, and CloudFormation. This joint effort included implementing performance optimizations like caching strategies and database query enhancements, resulting in a notable 20% boost in system performance. Additionally, comprehensive testing ensured accurate validation of system functionality, contributing to improved response times and scalability.",
+            "description_html": "Built resilient Java applications with Spring, Hibernate, and front-end tech. Utilized AWS Lambda and DynamoDB for scalable, secure client-specific solutions. Collaborated with cross-functional teams to design and develop highly scalable software components, incorporating cutting-edge technologies such as React.js, Angular.js, AWS Elastic Beanstalk, and CloudFormation. This joint effort included implementing performance optimizations like caching strategies and database query enhancements, resulting in a notable 20% boost in system performance. Additionally, comprehensive testing ensured accurate validation of system functionality, contributing to improved response times and scalability.",
+            "duration": "Aug 2019 Jul 2021 2 years",
+            "start_date": "Aug 2019",
+            "end_date": "Jul 2021",
+            "duration_short": "2 years",
+            "company": "Webdev Technologies Limited",
+            "company_id": "webdev-technologies-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Vadodara Area, India",
+            "description": "Worked on a Cloud-Based Enterprise Resource Planning (ERP) system primarily aimed at local vendors. The project focused on streamlining business processes and enhancing operational efficiency for local vendors who cannot afford expensive computing services.Utilized a range of technologies, including Java, Angular, JS, SQL, and AWS technologies like AWS Lambda, EC2, and more, in the development of a Cloud-Based Enterprise Resource Planning (ERP) system. The project was focused on streamlining business processes and enhancing operational efficiency for local vendors.",
+            "description_html": "Worked on a Cloud-Based Enterprise Resource Planning (ERP) system primarily aimed at local vendors. The project focused on streamlining business processes and enhancing operational efficiency for local vendors who cannot afford expensive computing services.Utilized a range of technologies, including Java, Angular, JS, SQL, and AWS technologies like AWS Lambda, EC2, and more, in the development of a Cloud-Based Enterprise Resource Planning (ERP) system. The project was focused on streamlining business processes and enhancing operational efficiency for local vendors.",
+            "duration": "Jan 2019 Jun 2019 6 months",
+            "start_date": "Jan 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "6 months",
+            "company": "SoftSages Technology",
+            "company_id": "softsages-technology",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": null,
+    "educations_details": "University of Missouri-Columbia",
+    "education": [
+        {
+            "title": "University of Missouri-Columbia",
+            "degree": "Doctor of Philosophy - PhD",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of Missouri-Columbia",
+            "degree": "Master's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Amity University",
+            "degree": "Post Graduate Diploma",
+            "field": "Data Science",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "ITM Vocational University, Vadodara",
+            "degree": "Bachelor of Technology",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2019",
+            "subtitle": "Coursera",
+            "title": "Customer Analytics from Wharton Business School"
+        },
+        {
+            "meta": "Issued Nov 2018",
+            "subtitle": "Google Digital Training",
+            "title": "Digital Marketing"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 5787.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "University of Missouri-Columbia",
+    "publications": "[{\"title\":\"Accurate Classification of Dysplasia in Inflammatory Bowel Disease Patients Using Deep Learning.\",\"subtitle\":\"IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI 2024)\",\"date\":\"September 25, 2024\"},{\"title\":\"KGSAR: A Knowledge Graph-Based Tool for Managing Spanish Colonial Notary Records\",\"subtitle\":\"21st International Semantic Web Conference (ISWC 2022)\",\"date\":\"July 31, 2022\"},{\"title\":\"Analysis of various Lung Cancer Detection Methods\",\"subtitle\":\"International Journal of Research in Electronics and Computer Engineering\",\"date\":\"February 10, 2021\"},{\"title\":\"The Comparison of Classification Methods for the Diabetic Prediction\",\"subtitle\":\"International Journal of Research in Electronics and Computer Engineering\",\"date\":\"August 19, 2020\"}]",
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Columbia",
+    "linkedin_id": "parshadsuthar",
+    "activity": [
+        {
+            "interaction": "Liked by Parshad Suthar",
+            "link": "",
+            "title": "It was an honor to serve as Technical Program Co-Chair for the 2024 IEEE Biomedical and Health Informatics Conference ( in…",
+            "img": "",
+            "id": "7262935307098992641"
+        },
+        {
+            "interaction": "Shared by Parshad Suthar",
+            "link": "",
+            "title": "Honored to present our paper, “Accurate Classification of Dysplasia in Inflammatory Bowel Disease Patients Using Deep Learning,” with my co-author…",
+            "img": "",
+            "id": "7262861109479522305"
+        },
+        {
+            "interaction": "Liked by Parshad Suthar",
+            "link": "",
+            "title": "Great to see my PhD students Ahmad Tamim H. and Parshad Suthar present our paper at IEEE BHI 2024 in Houston, TX. Congratulations to them and my…",
+            "img": "",
+            "id": "7262264550681378816"
+        },
+        {
+            "interaction": "Liked by Parshad Suthar",
+            "link": "",
+            "title": "Thank you for the feature, Mizzou College of Agriculture, Food and Natural Resources - CAFNR ",
+            "img": "",
+            "id": "7250757662420676608"
+        },
+        {
+            "interaction": "Liked by Parshad Suthar",
+            "link": "",
+            "title": "The hole that this friendship has now left with me, I will spend the rest of my life trying to fill. Grief is the price to pay for love. Goodbye, my…",
+            "img": "",
+            "id": "7249898886834651137"
+        },
+        {
+            "interaction": "Liked by Parshad Suthar",
+            "link": "",
+            "title": "Had the incredible opportunity to visit Caterpillar's Edwards Demonstration & Learning Center in Peoria! 🚜 Got to see some amazing CAT machine…",
+            "img": "",
+            "id": "7247675174127386627"
+        },
+        {
+            "interaction": "Liked by Parshad Suthar",
+            "link": "",
+            "title": "To my network, here’s a little refresher I wrote of who I am, and where I currently stand: *clears voice* 🎤 I’m sending out my resume, check out my…",
+            "img": "",
+            "id": "7242886636483612672"
+        },
+        {
+            "interaction": "Liked by Parshad Suthar",
+            "link": "",
+            "title": "Mizzou Engineering’s Praveen Rao has received a 2024 Outstanding Reviewer Award at the 40th Institute of Electrical and Electronics Engineers…",
+            "img": "",
+            "id": "7193686030720385026"
+        }
+    ],
+    "linkedin_num_id": 612777475.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

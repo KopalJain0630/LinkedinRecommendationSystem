@@ -1,0 +1,93 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Mumbai",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1997",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2017",
+            "subtitle": "National Skill Development Corporation",
+            "title": "PRINCE 2 Foundation & Practitioner"
+        },
+        {
+            "meta": "Issued May 2016",
+            "subtitle": "QEdge Technologies - India",
+            "title": "ARIS BPM Tool"
+        },
+        {
+            "meta": "Issued Mar 2015",
+            "subtitle": "Indian Institute of Quantitative Finance",
+            "title": "Advanced Excel Modelling & VBA"
+        },
+        {
+            "meta": "Issued Feb 2015",
+            "subtitle": "BMGI",
+            "title": "Advanced Consulting"
+        },
+        {
+            "meta": "Issued Dec 2014",
+            "subtitle": "INSTITUTO HISPANIA",
+            "title": "Basic Spanish"
+        },
+        {
+            "meta": "Issued Jul 2013",
+            "subtitle": "Micro Pro LLC",
+            "title": "Web Based Application using J2EE and Oracle"
+        },
+        {
+            "meta": "Issued Jan 2013",
+            "subtitle": "HP",
+            "title": "ASP.net"
+        },
+        {
+            "meta": "Issued Mar 2012",
+            "subtitle": "BHB Robotics & Embedded System",
+            "title": "Autonomous Robotics"
+        },
+        {
+            "subtitle": "QEdge Technologies - India",
+            "title": "ARIS BPM"
+        },
+        {
+            "subtitle": "CORETECH",
+            "title": "First Line Mangers Program"
+        }
+    ],
+    "current_company_name": "Kotak Securities",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Core Banking\",\"start_date\":\"Jan 2014\",\"end_date\":\"Jun 2014\",\"description\":\"Compiled & devised a core banking solutions website with all basic transactions and functionalitiesSpearheaded a team for requirement specifications of the project by analysing needs of the clientHighest grade awarded to our project during evaluationOptimized transaction processing for the Core Banking website\"},{},{},{\"title\":\"E-Commerce\",\"start_date\":\"Jul 2013\",\"end_date\":\"Dec 2013\",\"description\":\"Conceptualized and designed an E-commerce online shopping websiteFeasibility Analysis by choosing the best operational components to optimize the viability of the projectSuccessfully implemented & delivered a ‘zero defect project’ in a limited time periodAwarded an excellent grade for the project by the Head of Department (IT) of CIEM\"},{},{}]",
+    "honors_and_awards": null
+}

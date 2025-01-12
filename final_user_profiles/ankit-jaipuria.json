@@ -1,0 +1,80 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-     é",
+            "start_year": "2017",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1999",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2020Credential ID 4MDSVVQWJYNQSee credential",
+            "subtitle": "Duke University",
+            "title": "Mastering Data Analysis in Excel"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID MJ4GUJ2V9EF5See credential",
+            "subtitle": "Duke University",
+            "title": "Duke University Business Metrics for Data-Driven Companies"
+        }
+    ],
+    "current_company_name": "ZYOD",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "BW 40u40",
+            "publication": "BW Disrupt",
+            "date": "2024-08-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Forbes 30u30",
+            "publication": "Forbes",
+            "date": "2024-05-01T00:00:00.000Z",
+            "description": ""
+        },
+        {
+            "title": "Entrepreneurs Today 30u30",
+            "publication": "Entrepreneurs Today",
+            "date": "2023-01-01T00:00:00.000Z",
+            "description": ""
+        },
+        {
+            "title": "Summer Undergraduate Research Award",
+            "publication": "IRD, IIT Delhi",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": "Conferred the principal research grant by Industrial R&D Unit of IIT Delhi"
+        },
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana (KVPY)",
+            "publication": "Government of India",
+            "date": "2013-12-01T00:00:00.000Z",
+            "description": "Awarded the fellowship by DST, Govt. of India"
+        }
+    ]
+}

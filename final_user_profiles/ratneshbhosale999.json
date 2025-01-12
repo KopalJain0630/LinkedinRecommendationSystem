@@ -1,0 +1,244 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Strategy & Data Science @DTDC Express | IIT Kharagpur '23",
+    "experience": [
+        {
+            "title": "DTDC Express Limited",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "1 year 7 months",
+            "positions": [
+                {
+                    "subtitle": "DTDC Express Limited",
+                    "meta": "Apr 2024 - Present 9 months",
+                    "description": "•  Led Central War Room Team for Diwali Peak Planning, formulated Volume Forecasts for 500+ facilities using an ML Model, identified Supply Chain Bottlenecks, and coordinated with zonal teams to resolve issues.• Developed Capacity Planning model for Rakhi and Diwali Peak Planning using Forecasted Volume for 500 facilities & 13K franchises, ensuring effective resource allocation and accurate peak volume forecasts during surge events.",
+                    "duration": "Apr 2024 - Present 9 months",
+                    "start_date": "Apr 2024",
+                    "end_date": "Present",
+                    "duration_short": "9 months",
+                    "title": "Senior Manager - Strategy & Planning, Data Science",
+                    "description_html": "• Led Central War Room Team for Diwali Peak Planning, formulated Volume Forecasts for 500+ facilities using an ML Model, identified Supply Chain Bottlenecks, and coordinated with zonal teams to resolve issues.<br>• Developed Capacity Planning model for Rakhi and Diwali Peak Planning using Forecasted Volume for 500 facilities &amp; 13K franchises, ensuring effective resource allocation and accurate peak volume forecasts during surge events. <!---->"
+                },
+                {
+                    "subtitle": "DTDC Express Limited",
+                    "meta": "Jun 2023 - Apr 2024 11 months",
+                    "description": "• Created a Random Forest based predictive model to evaluate the delay probability of consignments in transit, achieving a 92% accuracy rate. This model empowered the Control Tower team to effectively identify high-risk consignments.• Implemented a Gaussian Mixture Model (GMM) to cluster origin-destination pairs for predicting SLA buffer days, resulting in 18% reduction in TAT buffer days, enhancing operational efficiency and optimizing resource management.• Spearheaded a nationwide Workforce Optimization project utilizing a Queuing Theory model, achieving a 12% reduction in labor costs while integrating Manpower Productivity Metrics through a Time Motion Study.",
+                    "duration": "Jun 2023 Apr 2024 11 months",
+                    "start_date": "Jun 2023",
+                    "end_date": "Apr 2024",
+                    "duration_short": "11 months",
+                    "title": "Management Trainee - Transformation and Ops Strategy",
+                    "description_html": "• Created a Random Forest based predictive model to evaluate the delay probability of consignments in transit, achieving a 92% accuracy rate. This model empowered the Control Tower team to effectively identify high-risk consignments.<br>• Implemented a Gaussian Mixture Model (GMM) to cluster origin-destination pairs for predicting SLA buffer days, resulting in 18% reduction in TAT buffer days, enhancing operational efficiency and optimizing resource management.<br>• Spearheaded a nationwide Workforce Optimization project utilizing a Queuing Theory model, achieving a 12% reduction in labor costs while integrating Manpower Productivity Metrics through a Time Motion Study."
+                }
+            ],
+            "company": "DTDC Express Limited",
+            "company_id": "dtdc-express-limited",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Associate",
+            "location": "Remote",
+            "description": "Supervisors: Prof. MS Mahapatra and Prof. Manoj Kumar Tiwari, Director of IIM Mumbai.• Collaborated in the development of a sophisticated Demand Forecasting Model for the Capacity Planning team of a leading cement manufacturing company, specifically targeting Q1 and Q2 of FY 2024, Optimized and Planned Inventory Management for all Hubs and strategically align Production with sales team insights.• Tailored zone-specific, month-specific, and phase-specific forecasting models with meticulous attention to detail to align precisely with the unique operational dynamics, preferences, and strategic objectives of the organization.• Achieved exceptional forecasting accuracy with an Average MAPE (Mean Absolute Percentage Error) of 7% by expertly leveraging advanced techniques, including Facebook Prophet and AutoRegression models.",
+            "description_html": "Supervisors: Prof. MS Mahapatra and Prof. Manoj Kumar Tiwari, Director of IIM Mumbai.• Collaborated in the development of a sophisticated Demand Forecasting Model for the Capacity Planning team of a leading cement manufacturing company, specifically targeting Q1 and Q2 of FY 2024, Optimized and Planned Inventory Management for all Hubs and strategically align Production with sales team insights.• Tailored zone-specific, month-specific, and phase-specific forecasting models with meticulous attention to detail to align precisely with the unique operational dynamics, preferences, and strategic objectives of the organization.• Achieved exceptional forecasting accuracy with an Average MAPE (Mean Absolute Percentage Error) of 7% by expertly leveraging advanced techniques, including Facebook Prophet and AutoRegression models.",
+            "duration": "Feb 2023 May 2023 4 months",
+            "start_date": "Feb 2023",
+            "end_date": "May 2023",
+            "duration_short": "4 months",
+            "company": "Indian Institute of Management Mumbai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Analyst",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐨𝐫: Prof. Adrijit Goswami, Department of Mathematics and Computing, IIT Kharagpur.- Explored the use of Deep Reinforcement Learning in dynamically allocating assets in a portfolio in order to solve the Tactical Allocation Problem (TAA)-  Implemented RL algorithms like Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), and Deep Deterministic Policy Gradient (DDPG)",
+            "description_html": "𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐨𝐫: Prof. Adrijit Goswami, Department of Mathematics and Computing, IIT Kharagpur.- Explored the use of Deep Reinforcement Learning in dynamically allocating assets in a portfolio in order to solve the Tactical Allocation Problem (TAA)- Implemented RL algorithms like Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), and Deep Deterministic Policy Gradient (DDPG) <!---->",
+            "duration": "May 2022 May 2023 1 year 1 month",
+            "start_date": "May 2022",
+            "end_date": "May 2023",
+            "duration_short": "1 year 1 month",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Amazon ML Summer School '22",
+            "description": "- Selected in this integrated learning course with practical industry applications through an immersive experience with Amazon Scientist- Inculcated knowledge about some key ML topics including Supervised Learning, Deep Neural Networks, Dimensionality Reduction, Unsupervised Learning, Probabilistic Graphical Models, and Sequential Learning",
+            "description_html": "- Selected in this integrated learning course with practical industry applications through an immersive experience with Amazon Scientist- Inculcated knowledge about some key ML topics including Supervised Learning, Deep Neural Networks, Dimensionality Reduction, Unsupervised Learning, Probabilistic Graphical Models, and Sequential Learning <!---->",
+            "duration": "Jul 2022 Jul 2022 1 month",
+            "start_date": "Jul 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "1 month",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Eastern European Machine Learning Summer School '22",
+            "location": "Vilnius, Vilniaus, Lithuania",
+            "description": "- Selected for Eastern European ML Summer School aims to promote topics around machine learning and artificial intelligence and to encourage research in these fields",
+            "description_html": "- Selected for Eastern European ML Summer School aims to promote topics around machine learning and artificial intelligence and to encourage research in these fields <!---->",
+            "duration": "Jul 2022 Jul 2022 1 month",
+            "start_date": "Jul 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "1 month",
+            "company": "EEML",
+            "company_id": "ee-ml",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern: Machine Learning",
+            "location": "Pune, Maharashtra, India",
+            "description": "• Formulated Unsupervised Autoencoder models to detect Anomalies in a real-world dataset, facilitating the identification of engine oil end-of-life conditions and significantly enhancing maintenance prediction accuracy.• Employed various autoencoder models, including Deep Autoencoder and Denoising Autoencoder, to assess their effectiveness in determining engine oil end-of-life. This analysis utilized 8 engine cycles from data of over 50,000 vehicles, providing enhanced insights and indications to users regarding optimal oil change intervals for each cycle.• Facilitated comprehensive comparisons that led to a 20% improvement in maintenance scheduling accuracy, ultimately reducing downtime for vehicle users and significantly enhancing overall operational efficiency and reliability.• Executed a variety of statistical tests, including Z-score, Modified Z-score, Interquartile Range (IQR), Boxplot, and Histogram analysis, to establish precise thresholds and criteria for identifying engine oil end-of-life conditions.",
+            "description_html": "• Formulated Unsupervised Autoencoder models to detect Anomalies in a real-world dataset, facilitating the identification of engine oil end-of-life conditions and significantly enhancing maintenance prediction accuracy.• Employed various autoencoder models, including Deep Autoencoder and Denoising Autoencoder, to assess their effectiveness in determining engine oil end-of-life. This analysis utilized 8 engine cycles from data of over 50,000 vehicles, providing enhanced insights and indications to users regarding optimal oil change intervals for each cycle.• Facilitated comprehensive comparisons that led to a 20% improvement in maintenance scheduling accuracy, ultimately reducing downtime for vehicle users and significantly enhancing overall operational efficiency and reliability.• Executed a variety of statistical tests, including Z-score, Modified Z-score, Interquartile Range (IQR), Boxplot, and Histogram analysis, to establish precise thresholds and criteria for identifying engine oil end-of-life conditions.",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "KPIT",
+            "company_id": "kpit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Kharagpur Data Analytics Group",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Kharagpur Data Analytics Group",
+                    "meta": "May 2021 - Jul 2022 1 year 3 months",
+                    "description": "◦  Mentored 5 mentees as part of the Mentor Mentees program, and was responsible for their advancement in ML◦ Organized Machine Learning Workshop, Held an interactive session on boosting with more than 500 students◦ Organized real-world Data Science Hackathon, sponsored by redBus, experienced more than 1000 participants◦ Started working on the initiative ’AI Weekly,’ a series of knowledge-based content for all ML/AI aficionados that would be released weekly, and uploaded a blog with code for Logistic Regression online",
+                    "duration": "May 2021 Jul 2022 1 year 3 months",
+                    "start_date": "May 2021",
+                    "end_date": "Jul 2022",
+                    "duration_short": "1 year 3 months",
+                    "title": "Senior Member",
+                    "description_html": "◦ Mentored 5 mentees as part of the Mentor Mentees program, and was responsible for their advancement in ML<br>◦ Organized Machine Learning Workshop, Held an interactive session on boosting with more than 500 students<br>◦ Organized real-world Data Science Hackathon, sponsored by redBus, experienced more than 1000 participants<br>◦ Started working on the initiative ’AI Weekly,’ a series of knowledge-based content for all ML/AI aficionados that would be released weekly, and uploaded a blog with code for Logistic Regression online"
+                },
+                {
+                    "subtitle": "Kharagpur Data Analytics Group",
+                    "meta": "Oct 2020 - May 2021 8 months",
+                    "description": "◦ Organized Workshop in which topics such as Python Basics, NumPy, Pandas, Matplotlib, and Seaborn were taught◦ Taught freshers Seaborn and Matplotlib libraries through hands-on live sessions using Google Colaboratory◦ Organized various events like AI Paper Reading Sessions, Summer AI challenge, Kharagpur Data Science Hackathon",
+                    "duration": "Oct 2020 May 2021 8 months",
+                    "start_date": "Oct 2020",
+                    "end_date": "May 2021",
+                    "duration_short": "8 months",
+                    "title": "Core Team Member",
+                    "description_html": "◦ Organized Workshop in which topics such as Python Basics, NumPy, Pandas, Matplotlib, and Seaborn were taught<br>◦ Taught freshers Seaborn and Matplotlib libraries through hands-on live sessions using Google Colaboratory<br>◦ Organized various events like AI Paper Reading Sessions, Summer AI challenge, Kharagpur Data Science Hackathon <!---->"
+                }
+            ],
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research Intern (Finance)",
+            "location": "Cranfield, England, United Kingdom",
+            "description": "𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐨𝐫: Prof. Abhijeet Ghadge- Worked on AI/Big Data Analytics challenges aligned with financial analytics and risk assessment.",
+            "description_html": "𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐨𝐫: Prof. Abhijeet Ghadge- Worked on AI/Big Data Analytics challenges aligned with financial analytics and risk assessment. <!---->",
+            "duration": "Mar 2022 May 2022 3 months",
+            "start_date": "Mar 2022",
+            "end_date": "May 2022",
+            "duration_short": "3 months",
+            "company": "Cranfield School of Management",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "32nd Annual POMS International Conference '22",
+            "description": "• Presented LightGBM prediction model which combines LightGBM algorithm and meticulous feature engineering processing for accurate sales forecasting• Presented analysis of various ML algorithms for the prediction of flight delay prediction tasks and presented an in-depth analysis of air flight delay trends • Addressed uses of ML algorithms in the selection of an appropriate feeding policy for an automated inventory assembly line to optimize time and cost",
+            "description_html": "• Presented LightGBM prediction model which combines LightGBM algorithm and meticulous feature engineering processing for accurate sales forecasting• Presented analysis of various ML algorithms for the prediction of flight delay prediction tasks and presented an in-depth analysis of air flight delay trends • Addressed uses of ML algorithms in the selection of an appropriate feeding policy for an automated inventory assembly line to optimize time and cost <!---->",
+            "duration": "Apr 2022 Apr 2022 1 month",
+            "start_date": "Apr 2022",
+            "end_date": "Apr 2022",
+            "duration_short": "1 month",
+            "company": "Production and Operations Management Society (POMS)",
+            "company_id": "pomsociety",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern (ML and Optimization)",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐨𝐫: Prof. Manoj Kumar Tiwari, Director of IIM Mumbai (NITIE). - The projects were focused on using optimization techniques and Machine Learning algorithms to optimize processes in a variety of fields.",
+            "description_html": "𝐒𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐨𝐫: Prof. Manoj Kumar Tiwari, Director of IIM Mumbai (NITIE). - The projects were focused on using optimization techniques and Machine Learning algorithms to optimize processes in a variety of fields. <!---->",
+            "duration": "Sep 2021 Apr 2022 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "8 months",
+            "company": "Indian Institute of Management Mumbai",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Department of Mechanical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: Senior Member, Kharagpur Data Analytics Group (KDAG) 𝐌𝐚𝐣𝐨𝐫 - Manufacturing Science and Engineering 𝐌𝐢𝐜𝐫𝐨 - Artificial Intelligence and Applications (GPA: 9.33) 𝐃𝐞𝐩𝐚𝐫𝐭𝐦𝐞𝐧𝐭 - Mechanical Engineering",
+            "description_html": "Activities and Societies: Senior Member, Kharagpur Data Analytics Group (KDAG)",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "MGTSM'S ARTS,SCIENCE & COMMERCE COLLEGE, CHOPDA.",
+            "degree": "11th and 12th",
+            "field": "Science",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Vivekananda Vidyalaya Chopda",
+            "degree": "10th",
+            "field": "95.60%",
+            "start_year": "2007",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"CD66001\",\"title\":\"Accelerated Data Science\"},{\"subtitle\":\"AI61005\",\"title\":\"Artificial Intelligence Foundation and Application\"},{\"subtitle\":\"AI60006\",\"title\":\"Dependable and Secure AI-ML\"},{\"subtitle\":\"HS20001\",\"title\":\"Economics\"},{\"subtitle\":\"IM60006\",\"title\":\"Logistics System and Management\"},{\"subtitle\":\"AI42001\",\"title\":\"Machine Learning Foundations and Applications\"},{\"subtitle\":\"AI60002\",\"title\":\"Machine Learning for Earth System Sciences\"},{\"subtitle\":\"MA10001\",\"title\":\"Mathematics-1\"},{\"subtitle\":\"MA10002\",\"title\":\"Mathematics-II\"},{\"subtitle\":\"IM21003\",\"title\":\"Operations Research 1\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structure\"},{\"subtitle\":\"CS19001\",\"title\":\"Programming and Data Structure Tutorials and Laboratory\"},{\"subtitle\":\"MA31020\",\"title\":\"Regression and Time Series Models\"},{\"subtitle\":\"MF30003\",\"title\":\"Robots and Computer Controlled Machines\"},{\"subtitle\":\"MF41601\",\"title\":\"Soft Computing\"},{\"subtitle\":\"MA20001\",\"title\":\"Transform Calculus\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2021Credential ID GN9HP6M3C9ZESee credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID LDRTDOKYTO",
+            "subtitle": "iB Hubs",
+            "title": "Data Structure and Algorithms"
+        },
+        {
+            "meta": "Issued Mar 2020Credential ID W9PE5MUK4X26See credential",
+            "subtitle": "University of California, Santa Cruz",
+            "title": "C++ for C Programmers"
+        }
+    ],
+    "current_company_name": "DTDC Express Limited",
+    "publications": "[{\"title\":\"Advances in Air Cargo Financing Using a Consortium Blockchain\",\"subtitle\":\"IFAC-PapersOnLine\",\"date\":\"October 26, 2022\",\"description\":\"- The paper presented at conference held at Nantes, France.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Portfolio Management using Deep Reinforcement Learning | Bachelor Thesis Dissertation, IIT Kharagpur\",\"start_date\":\"Jul 2022\",\"end_date\":\"May 2023\",\"description\":\"(Supervisor: Dr. Adrijit Goswami, Department of Mathematics, IIT Kharagpur)• Explored the use of Deep Reinforcement Learning in dynamically allocating assets in a portfolio in order to solve the Tactical Allocation Problem (TAA)• Implemented RL algorithms like Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO), and Deep Deterministic Policy Gradient (DDPG) •Built strategic naïve models based on the equal weight allocation and the maximum Sharpe Ratio for comparison with the DRL models using backtesting•Achieved 37.3% return (Sharpe ratio of 1.11) for A2C, 35.4% return (Sharpe ratio of 1.11) for PPO, and 32.6% return (Sharpe ratio of 1.08) for DDPG\"},{},{},{\"title\":\"Multi-Modal Demand Forecasting of New Fashion Products\",\"start_date\":\"Mar 2022\",\"end_date\":\"May 2022\",\"description\":\"(Supervisor: Prof. Manoj Kumar Tiwari, Director NITIE Mumbai)Investigated the effectiveness of Google Trends against textual translations of visual aspects to predict the sales of fashion items with no available data• Examined the Italian fast fashion company Nunalie's historical dataset, which includes data on 5577 new items from 100 stores from 2016 to 2019• Developed RESNET-50 model for extracting features, BERT with clustering to extract text embeddings, Additive Regression model for forecasting• Sales of items were predicted using LightGBM for 12 quarters. Achieved 0.0027 MSE on the test dataset. Results compared with Neural Network model\"},{},{\"title\":\"Development of MINLP model for Ventilator Distribution using CRO and PSO\",\"start_date\":\"Jan 2022\",\"end_date\":\"Apr 2022\",\"description\":\"(Supervisor: Prof. Manoj Kumar Tiwari, Director of NITIE Mumbai)Objective: To implement Ant Colony Optimization and Particle Swarm Optimization to minimize TDLT◦ Developed an MINLP model using ACO and PSO to minimize the TDLT of the ventilator and designing the structure of the supply chain distribution network by changing the different model parameters\"},{\"title\":\"Plant Mix Model for Leading Consulting Firm\",\"start_date\":\"Dec 2021\",\"end_date\":\"Feb 2022\",\"description\":\"Objective: To develop and implement a data-driven tool to simulate changes by shifting production of assets sub-assemblies between plants to help reduce idle hours and optimize headcount and to simulate the financial impact◦ Worked on a data-driven tool to identify the financial impact and capacity usage in plants and to Optimize capacity and resource utilization to drive 1M$ Business impact using linear programming and machine learning◦ Worked on a strategy building tool that will save the company from a massive reduction in demand in the oil and gas sector, which will result in high idle hours and low liquidity in manufacturing plants\"},{\"title\":\"First Mile/Last Mile Optimization for Leading Logistics Company\",\"start_date\":\"Oct 2021\",\"end_date\":\"Nov 2021\",\"description\":\"Objective: To create a model to recommend the optimal mix, right outing, cut off time for deliveries and pickups◦ Developed a model using Python for finding out the right vehicle against the right load mix and for creating a pincode level route optimization using longitudes and latitudes and analyzing the current state efficiency◦ Solved Vehicle Routing Problem with simultaneous deliveries and pickups using Gurobi and GeoPy Libraries\"},{},{\"title\":\"Manpower Optimization with Shift Scheduling for Leading Airline Firm\",\"start_date\":\"Sep 2021\",\"end_date\":\"Oct 2021\",\"description\":\"Objective: To plan and optimize hourly allocations of airport workers, as well as to reduce the number of workers◦ Developed model to minimize the number of personnel working at the airport facility in accordance with the company’s demand using linear programming and machine learning algorithms and scheduled them in hourly shifts◦ Minimized maximum number of manhours each day at all bases throughout a three-month period using real data\"},{\"title\":\"Book Recommendation using KNN\",\"start_date\":\"Apr 2021\",\"end_date\":\"Apr 2021\",\"description\":\"• Created a book recommendation algorithm using K-Nearest Neighbors, used the dataset having 1.1 million ratings of 270000 books by90000 users, hosted a project on Github, the model takes the name of the book as input and predicts five most relevant books to a user• Preprocessed the dataset, prepared the dataset for KNN, formed a model using sklearn library, and recommended 5 books using an algorithm\"},{\"title\":\"SMS Spam Detection\",\"start_date\":\"Feb 2021\",\"end_date\":\"Feb 2021\",\"description\":\"Created a machine learning model that classifies SMS messages as either 'ham' or 'spam' and hosted the given project on Github• Preprocessed data, modeled using Embedding layer, LSTM RNN architecture, and Dense layer, trained the model on 4179 messages andgained the 98.80% validation accuracy and 98.15% test accuracy, takes a message as input, and predicted whether a message is a spam\"},{\"title\":\"Sentiment Analysis\",\"start_date\":\"Mar 2020\",\"end_date\":\"Mar 2020\",\"description\":\"• Created a model which predicts the sentiment of movie review using LSTM, model predicts whether the review is positive or negative• Preprocessed the data, used TensorFlow and Keras, encoded and decoded reviews, trained model using RMSprop optimizer and predictedmovie review sentiment with 88% validation set accuracy and 85% test set accuracy, hosted the project on Github\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Selected for HPAIR '23",
+            "publication": "The Harvard Project for Asian and International Relations",
+            "date": "2023-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

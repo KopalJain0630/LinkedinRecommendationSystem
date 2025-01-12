@@ -1,0 +1,41 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management Bangalore",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2023",
+            "subtitle": "Scaled Agile, Inc.",
+            "title": "Certified SAFe® Product Owner / Product Manager"
+        },
+        {
+            "meta": "Issued Aug 2023",
+            "subtitle": "Scaled Agile, Inc.",
+            "title": "Certified SAFe® Agilist"
+        }
+    ],
+    "current_company_name": "Landmark Group",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Analog Implementation of the Lorenz Attractor\",\"start_date\":\"Jul 2012\",\"description\":\"The Lorenz Attractor is a deterministic chaotic system based on three differential equations, three constants, and three initial conditions. A circuit was made using basic analog components that would allow us to adjust the initial conditions and constants. The circuit could successfully mimic the attractor's characteristics. The attractor represents the behavior of gas at any given time.and could be used in weather forecast systems. This also finds applications in fields like data encoding and information security.\"},{}]",
+    "honors_and_awards": null
+}

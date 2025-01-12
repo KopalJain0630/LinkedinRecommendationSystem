@@ -1,0 +1,419 @@
+{
+    "id": "vishalupadhyay29",
+    "name": "Vishal Upadhyay",
+    "city": "Irving, Texas, United States",
+    "country_code": "US",
+    "position": "Specialist Programmer-Infosys| AWS Certified | Former Intern At Defence Research and Development Organization (DRDO), Ministry Of Defence",
+    "posts": [
+        {
+            "title": "#infosys (STG- INDIA) is hiring specialist programmers (Min 3 YoE) and Senior technologists (7 YoE) power programmers for multiple roles from 3 YoE…",
+            "attribution": "Posted by Vishal Upadhyay",
+            "img": "",
+            "link": "",
+            "interaction": "Posted by Vishal Upadhyay",
+            "id": "uKkG"
+        },
+        {
+            "title": "Infosys (STG INDIA- Power programmers) is hiring python developers with at least 7 years of experience. Pls get in touch if you're interested…",
+            "attribution": "Posted by Vishal Upadhyay",
+            "img": "",
+            "link": "",
+            "interaction": "Posted by Vishal Upadhyay",
+            "id": "ZVR1"
+        }
+    ],
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Infosys",
+        "company_id": "infosys",
+        "title": "Specialist Programmer-Infosys| AWS Certified | Former Intern At Defence Research and Development Organization (DRDO), Ministry Of Defence"
+    },
+    "experience": [
+        {
+            "title": "Infosys",
+            "location": "Richardson, Texas, United States",
+            "description_html": null,
+            "duration": "2 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Infosys",
+                    "meta": "Apr 2024 - Present 9 months",
+                    "description": "Client - Yahoo MailWorked on the core Mail Backend architecture which handles the entire lifecycle of an email. Right from the initial draft phase to sending it and rendering it to the user. Middle tier mail architecture for all the service logic, handling total mail transactions. With almost 1 billion user visits per day (on Yahoo), this project includes high scalability, resilience, and immense tolerance. Tools: Jenkins, Screwdriver, Jira, Yamas Dashboard for monitoring, Splunk, Athenz for authentication.Technologies: JAVA, Bash, MySQL, Hibernate, Mockito, TestNG, HTML, Jersey framework, REST APIs, Google Guice, Google Guava, Maven, Git, Kubereneres, Docker.Cloud: GCP, AWSMy responsibilities included Development and integration of new features (JAVA), end to end testing using TestNG, Mockito, jdk upgrades, fix any bugs in production according to the SLA, monitoring of the worldwide deployments.Writing bash script and screwdriver jobs for deployment and CI/CD. • Development, Unit Testing and Integration Testing using TestNG in a test driven development environment• High code quality standards with multiple tools like Checkstyle, PMD. Spotbugs.• Owning an entire feature cycle, from development, testing, deployment and world-wide push to the deployment monitoring..",
+                    "duration": "Apr 2024 - Present 9 months",
+                    "start_date": "Apr 2024",
+                    "end_date": "Present",
+                    "duration_short": "9 months",
+                    "title": "Specialist Programmer",
+                    "description_html": "Client - Yahoo Mail<br>Worked on the core Mail Backend architecture which handles the entire lifecycle of an email. Right from the initial draft phase to sending it and rendering it to the user. Middle tier mail architecture for all the service logic, handling total mail transactions. With almost 1 billion user visits per day (on Yahoo), this project includes high scalability, resilience, and immense tolerance. <br>Tools: Jenkins, Screwdriver, Jira, Yamas Dashboard for monitoring, Splunk, Athenz for authentication.<br>Technologies: JAVA, Bash, MySQL, Hibernate, Mockito, TestNG, HTML, Jersey framework, REST APIs, Google Guice, Google Guava, Maven, Git, Kubereneres, Docker.<br>Cloud: GCP, AWS<br>My responsibilities included Development and integration of new features (JAVA), end to end testing using TestNG, Mockito, jdk upgrades, fix any bugs in production according to the SLA, monitoring of the worldwide deployments.<br>Writing bash script and screwdriver jobs for deployment and CI/CD. <br>• Development, Unit Testing and Integration Testing using TestNG in a test driven development environment<br>• High code quality standards with multiple tools like Checkstyle, PMD. Spotbugs.<br>• Owning an entire feature cycle, from development, testing, deployment and world-wide push to the deployment monitoring.."
+                },
+                {
+                    "subtitle": "Infosys",
+                    "meta": "Aug 2022 - Mar 2024 1 year 8 months",
+                    "description": "Client - Yahoo IncWorked on a migration framework to migrate 1.2 Million users from a different provider to Yahoo servers. This included moving all the mails, Calendar and contacts of all the users with proper validation at each step. This project was entirely deployed on AWS. I worked on building multiple modules, upgrading multiple existing modules, writing Unit tests and integration tests for end to end testing of the entire framework, writing screwdriver jobs and bash scripts for CI/CD, Integration of Opentelemetry with Yamas dashboard for continuous collation and rendering of massive production metrics, Integration of Splunk with the project for logging and continuous monitoring in production and fixes which were needed along with it.This was an end to end product experience from development to testing to deployment to monitoring till the entire project was completed and all 1.2M users migrated. I added some extra features like automation of the triggering of the migration at regular intervals, automation of generation of reports and all of this accomplished from scratch on AWS. Tools: Screwdriver, Yamas dashboard, Splunk, Jira, Athenz. Technologies: JAVA, Python, Bash, MySQL, Hibernate, Mockito, TestNG, HTML, Jersey framework, REST APIs, Google Guice, Google Guava, Maven, Git, Kubereneres, Docker.Cloud: AWS",
+                    "duration": "Aug 2022 Mar 2024 1 year 8 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Mar 2024",
+                    "duration_short": "1 year 8 months",
+                    "title": "Specialist Programmer",
+                    "description_html": "Client - Yahoo Inc<br>Worked on a migration framework to migrate 1.2 Million users from a different provider to Yahoo servers. This included moving all the mails, Calendar and contacts of all the users with proper validation at each step. This project was entirely deployed on AWS. I worked on building multiple modules, upgrading multiple existing modules, writing Unit tests and integration tests for end to end testing of the entire framework, writing screwdriver jobs and bash scripts for CI/CD, Integration of Opentelemetry with Yamas dashboard for continuous collation and rendering of massive production metrics, Integration of Splunk with the project for logging and continuous monitoring in production and fixes which were needed along with it.<br>This was an end to end product experience from development to testing to deployment to monitoring till the entire project was completed and all 1.2M users migrated. I added some extra features like automation of the triggering of the migration at regular intervals, automation of generation of reports and all of this accomplished from scratch on AWS. <br>Tools: Screwdriver, Yamas dashboard, Splunk, Jira, Athenz. <br>Technologies: JAVA, Python, Bash, MySQL, Hibernate, Mockito, TestNG, HTML, Jersey framework, REST APIs, Google Guice, Google Guava, Maven, Git, Kubereneres, Docker.<br>Cloud: AWS"
+                }
+            ],
+            "company": "Infosys",
+            "company_id": "infosys",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "GenC Next",
+            "location": "Kolkata, West Bengal, India",
+            "description_html": null,
+            "duration": "Feb 2022 Jul 2022 6 months",
+            "start_date": "Feb 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "6 months",
+            "company": "Cognizant",
+            "company_id": "cognizant",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Intern",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description_html": null,
+            "duration": "Apr 2021 May 2021 2 months",
+            "start_date": "Apr 2021",
+            "end_date": "May 2021",
+            "duration_short": "2 months",
+            "company": "Defence Research and Development Organisation (DRDO)",
+            "company_id": "defence-research-and-development-organisation-drdo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Campus Ambassador",
+            "location": "Kolkata",
+            "description": "Campus ambassador at Internshala Student Partner program 15.",
+            "description_html": "Campus ambassador at Internshala Student Partner program 15. <!---->",
+            "duration": "Sep 2019 Nov 2019 3 months",
+            "start_date": "Sep 2019",
+            "end_date": "Nov 2019",
+            "duration_short": "3 months",
+            "company": "Internshala",
+            "company_id": "internshala",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Akshat Jain",
+            "about": "Full Stack Developer || Web Developer CollegeDunia || DealBuzz Founder",
+            "location": "Rajasthan, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Gagan Thakur",
+            "about": "Senior Data Analyst @ EY l Engineer | ETL | Data Insights | SQL | Alteryx | Power BI | Advanced Excel",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Radhesh Khanna",
+            "about": "Systems Software Developer - II, Cloud Enablement Team @ BlackBerry - QNX, IoT CoE Hyderabad",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashutosh ..",
+            "about": "Senior Analyst (Crypto Trading) at Fidelity Digital Assets",
+            "location": "Jersey City, NJ"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Verma",
+            "about": "Subject Matter Expert at Chegg India",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Bahram Hashmi",
+            "about": "Big Data Engineer at Accenture",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushar Tripathi",
+            "about": "Python | Flask | Power BI |Data Analytics | Web Development",
+            "location": "Prayagraj"
+        },
+        {
+            "profile_link": "",
+            "name": "Charan T.",
+            "about": "iOS developer",
+            "location": "New York City Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshal Shinde",
+            "about": "Trainee analyst at Principal global services",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Debleena Debnath",
+            "about": "Analyst at Capgemini",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Heritage Institute of Technology",
+    "education": [
+        {
+            "title": "Heritage Institute of Technology",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Ranchi",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV Kapil Dev Public School",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 2.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Nov 2022",
+            "subtitle": "Infosys",
+            "title": "Infosys Certified Angular Professional"
+        },
+        {
+            "meta": "Issued Nov 2022",
+            "subtitle": "Infosys",
+            "title": "Infosys certified AWS Cloud Practitionar"
+        },
+        {
+            "meta": "Issued Nov 2022",
+            "subtitle": "Infosys",
+            "title": "Infosys Certified AWS Developer Associate"
+        },
+        {
+            "meta": "Issued Nov 2022",
+            "subtitle": "Infosys",
+            "title": "Infosys Certified AWS Solutions Architect Associate"
+        },
+        {
+            "meta": "Issued Sep 2022",
+            "subtitle": "Infosys",
+            "title": "Infosys Certified Spring Microservices Developer"
+        },
+        {
+            "meta": "Issued Aug 2022",
+            "subtitle": "Infosys",
+            "title": "Infosys Certified Java Programmer"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID UC-ff50a519-4264-4035-8ae7-0f4acc70f155See credential",
+            "subtitle": "Udemy",
+            "title": "Agile Project Management, Agile Delivery"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID UC-e62a010c-c22e-4b75-aa65-8bd4fed1bed0See credential",
+            "subtitle": "Udemy",
+            "title": "Dev"
+        },
+        {
+            "meta": "Issued Mar 2022See credential",
+            "subtitle": "EF International Language Campuses",
+            "title": "EF Standard English Test (Common European Framework of Reference)"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID UC-629ea338-2437-4f74-9226-f8159254dce3See credential",
+            "subtitle": "Udemy",
+            "title": "Javascript"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID UC-232c8cf6-7edf-478d-8149-e3166588863fSee credential",
+            "subtitle": "Udemy",
+            "title": "Responsive Web Design"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID BW77T3YGSFYKSee credential",
+            "subtitle": "University of London",
+            "title": "Responsive Website Basics: Code with HTML, CSS, and JavaScript"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID VABQ22GG46VWSee credential",
+            "subtitle": "University of Michigan",
+            "title": "Building Web Applications in PHP"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID UNWBWZNS94TLSee credential",
+            "subtitle": "University of Michigan",
+            "title": "Introduction to Structured Query Language (SQL)"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Accenture",
+            "title": "Artificial Intelligence"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Griffith University",
+            "title": "Big Data Analytics"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 5-6932682-1016",
+            "subtitle": "Tata Consultancy Services",
+            "title": "Career Edge - Knockdown the Lockdown"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Accenture",
+            "title": "Digital Skills In Retail"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "University of Leed",
+            "title": "Evidence And Data Collection For Problem Solving"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "University of Leeds",
+            "title": "Social Media Marketing"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Accenture",
+            "title": "User Experience"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "University of Leeds",
+            "title": "User Experience For Mobile Apps"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Accenture",
+            "title": "Web Analytics"
+        },
+        {
+            "meta": "Issued Nov 2022Expires Nov 2025Credential ID XZQZ97HKRJQ4QFCESee credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Cloud Practitioner"
+        }
+    ],
+    "recommendations": [
+        "Anup Tripathi “I had the pleasure of working with Vishal for almost a year, during which time he proved to be a hardworking, industrious, resourceful, and analytical engineer. He excelled in delivering high-quality backend code in Java and independently analyzing, debugging, and fixing issues in complex, business-critical systems. His clarity of thought and focus on problem-solving and business goals were commendable. Vishal was also dedicated to continuous learning and mentoring his team members. He has excellent communication skills and was awarded multiple times for his performance. He would be an exceptional addition to any team.”",
+        "Swaraj Desai “I had the pleasure of working closely with Vishal for a project. During this time, I was consistently impressed by their dedication, professionalism, and exceptional skills in Java, Linux and other technologies.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 1165.0,
+    "connections": 500.0,
+    "current_company_company_id": "infosys",
+    "current_company_name": "Infosys",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Irving",
+    "linkedin_id": "vishalupadhyay29",
+    "activity": [
+        {
+            "interaction": "Posted by Vishal Upadhyay",
+            "link": "",
+            "title": "#infosys (STG- INDIA) is hiring specialist programmers (Min 3 YoE) and Senior technologists (7 YoE) power programmers for multiple roles from 3 YoE…",
+            "img": "",
+            "id": "7264291269596651520"
+        },
+        {
+            "interaction": "Posted by Vishal Upadhyay",
+            "link": "",
+            "title": "Infosys (STG INDIA- Power programmers) is hiring python developers with at least 7 years of experience. Pls get in touch if you're interested…",
+            "img": "",
+            "id": "7264272397988503552"
+        },
+        {
+            "interaction": "Liked by Vishal Upadhyay",
+            "link": "",
+            "title": "Hi all! I’m excited to share that I’ve developed a simple Spring Boot application to calculate taxes under the New Tax Regime for the current…",
+            "img": "",
+            "id": "7240775204145168385"
+        },
+        {
+            "interaction": "Liked by Vishal Upadhyay",
+            "link": "",
+            "title": "Clients these days are demanding more skilled coders , who are full stack developers. Gone are the days of basic System Engineers skills. Scale Up…",
+            "img": "",
+            "id": "7234417066701668352"
+        },
+        {
+            "interaction": "Liked by Vishal Upadhyay",
+            "link": "",
+            "title": "It’s always exciting to meet and interact with Shaji our own Group Head of HR. Shaji Mathew ,Jaiprakash R, Joe George , Ananthavel Elangovan",
+            "img": "",
+            "id": "7226513417849692161"
+        },
+        {
+            "interaction": "Liked by Vishal Upadhyay",
+            "link": "",
+            "title": "And I became the first woman engineer of all my extended family!! ✨ Completed my B.Tech degree in Electronics and Communication engineering from…",
+            "img": "",
+            "id": "7217462374952259585"
+        }
+    ],
+    "linkedin_num_id": 583998873.0,
+    "honors_and_awards": [
+        {
+            "title": "Metals and Materials Quiz",
+            "publication": "IIM (The Indian Institute Of Metals) Ranchi Chapter",
+            "date": "2017-08-01T00:00:00.000Z",
+            "description": "Second runner up in Metals and Materials quiz organised by IIM Ranchi chapter"
+        },
+        {
+            "title": "Inter School State Level Quiz Competition",
+            "publication": "Birla Institute Of Technology Mesra",
+            "date": "2017-07-01T00:00:00.000Z",
+            "description": "First runner up in Anurag Singh Memorial Inter school state Level Quiz Competition"
+        },
+        {
+            "title": "National Inter School General Quiz",
+            "publication": "Delhi Public School Bokaro",
+            "date": "2017-04-01T00:00:00.000Z",
+            "description": "Second Runner up in National Inter School General Quiz competition held at Delhi Public School Bokaro."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

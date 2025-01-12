@@ -1,0 +1,131 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": "Blinkit | Ex-Goldman Sachs | DTU'21",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Mar 2023 - Present 1 year 10 months",
+            "start_date": "Mar 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 10 months",
+            "company": "Blinkit",
+            "company_id": "letsblinkit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2021 Feb 2023 1 year 9 months",
+            "start_date": "Jun 2021",
+            "end_date": "Feb 2023",
+            "duration_short": "1 year 9 months",
+            "company": "Goldman Sachs",
+            "company_id": "goldman-sachs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "description_html": null,
+            "duration": "Jan 2021 Feb 2021 2 months",
+            "start_date": "Jan 2021",
+            "end_date": "Feb 2021",
+            "duration_short": "2 months",
+            "company": "COGNECTO",
+            "company_id": "cognecto",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technical Head",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Jan 2019 Dec 2020 2 years",
+            "start_date": "Jan 2019",
+            "end_date": "Dec 2020",
+            "duration_short": "2 years",
+            "company": "SITE DTU",
+            "company_id": "site-dtu",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "Bengaluru, Karnataka",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Goldman Sachs",
+            "company_id": "goldman-sachs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "University Student Internship Program",
+            "description_html": null,
+            "duration": "Jan 2019 Apr 2019 4 months",
+            "start_date": "Jan 2019",
+            "end_date": "Apr 2019",
+            "duration_short": "4 months",
+            "company": "Delhi Technological University (Formerly DCE)",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Developer",
+            "description_html": null,
+            "duration": "Dec 2018 Jan 2019 2 months",
+            "start_date": "Dec 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "2 months",
+            "company": "GMR Group",
+            "company_id": "gmr-group",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Delhi Technological University (Formerly DCE)",
+            "degree": "Bachelor of Technology",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: National Service Scheme DTU, Society for Information Technology Engineers DTU, Panache the Fashion Society DTU CGPA - 8.79/10.00",
+            "description_html": "Activities and Societies: National Service Scheme DTU, Society for Information Technology Engineers DTU, Panache the Fashion Society DTU",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Shaheed Rajpal DAV Public School - India",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": "Grade: 94.6% CBSE Boards National Topper in Mathematics with a score of 100/100",
+            "description_html": "Grade: 94.6%CBSE Boards National Topper in Mathematics with a score of 100/100 <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Indirapuram",
+            "url": "",
+            "start_year": "2003",
+            "end_year": "2015",
+            "description": "CGPA: 10.00/10.00",
+            "description_html": "CGPA: 10.00/10.00 <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Blinkit",
+    "publications": "[{\"title\":\"Toxic Speech Detection using Traditional Machine Learning Models and BERT and fastText Embedding with Deep Neural Networks\",\"subtitle\":\"5th International Conference on Computing Methodologies and Communication (ICCMC) 2021, IEEE\",\"date\":\"May 6, 2021\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

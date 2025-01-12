@@ -1,0 +1,403 @@
+{
+    "id": "parshu-ram-410082170",
+    "name": "Parshu Ram",
+    "city": "New Delhi, Delhi, India",
+    "country_code": "IN",
+    "position": "Software Engineer-II @ Nielsen | Ex- Monarch Tractor (Enlume Tech) | IIT Kharagpur | Big Data, Python, Django, AWS, System Design",
+    "about": "🌟 Experienced Python Developer with a strong background in backend API development, cloud computing, and machine learning. Proficient in Python, Flask, Django, Pandas, NumPy, and TensorFlow, with hands-on experience in AWS services like Lambda, EC2, S3, RDS, and RedShift. Passionate about leveraging technology to solve real-world problems. Effective communicator with proven leadership skills, adept at collaborating with cross-functional teams to deliver impactful solutions. Experienced in developing live-streaming solutions for driver-less tractor systems, achieving low latency and enhancing real-time user engagement.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Nielsen",
+        "company_id": "nielsen",
+        "title": "Software Engineer-II @ Nielsen | Ex- Monarch Tractor (Enlume Tech) | IIT Kharagpur | Big Data, Python, Django, AWS, System Design"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer-II",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "Nielsen",
+            "company_id": "nielsen",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Led backend API development and microservices architecture using Python and Flask, ensuring scalability and efficiency for the Monarch Tractor Project.• Implemented serverless components with AWS Lambda functions, optimizing system performance and resource utilization.• Integrated MQTT service for real-time communication among tractor components, facilitating seamless data exchange and synchronization.• Optimized SQL queries with SqlAlchemy and MySQL databases, resulting in significant improvements in query performance.• Developed low-latency tractor live-streaming service using WebRTC.• Contributed to the development of the cloud-based platform for managing remote computing devices in the Intrapolis project, focusing on scalability and productivity enhancements.",
+            "description_html": "• Led backend API development and microservices architecture using Python and Flask, ensuring scalability and efficiency for the Monarch Tractor Project.• Implemented serverless components with AWS Lambda functions, optimizing system performance and resource utilization.• Integrated MQTT service for real-time communication among tractor components, facilitating seamless data exchange and synchronization.• Optimized SQL queries with SqlAlchemy and MySQL databases, resulting in significant improvements in query performance.• Developed low-latency tractor live-streaming service using WebRTC.• Contributed to the development of the cloud-based platform for managing remote computing devices in the Intrapolis project, focusing on scalability and productivity enhancements.",
+            "duration": "Sep 2021 Oct 2024 3 years 2 months",
+            "start_date": "Sep 2021",
+            "end_date": "Oct 2024",
+            "duration_short": "3 years 2 months",
+            "company": "EnLume Inc",
+            "company_id": "enlume",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description": "•  Deployed custom ML algorithm using Python and it’s modules.• Design and development of Computer Vision real world problem, face mask detection, Hand Gesture detection, Speed of car estimation using Machine learning algorithm, Deep learning, CNN, Keras, Tensorflow, TesseractOCR and Create Endpoint Rest API using Django and flsk.•  Developing custom summarization model to summarize using Deep Learning.",
+            "description_html": "• Deployed custom ML algorithm using Python and it’s modules.• Design and development of Computer Vision real world problem, face mask detection, Hand Gesture detection, Speed of car estimation using Machine learning algorithm, Deep learning, CNN, Keras, Tensorflow, TesseractOCR and Create Endpoint Rest API using Django and flsk.• Developing custom summarization model to summarize using Deep Learning. <!---->",
+            "duration": "Aug 2020 Sep 2021 1 year 2 months",
+            "start_date": "Aug 2020",
+            "end_date": "Sep 2021",
+            "duration_short": "1 year 2 months",
+            "company": "Rocket Flyer Technology Private Limited",
+            "company_id": "rocket-flyer-technology-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "location": "Kharagpur, West Bengal, India",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Jul 2018 - Jun 2020 2 years",
+                    "description": "• Proposed and discussed a brief list of measures towards the betterment of PG students in senate council.• Mentored freshmen PG in academic,extra-academic and personal issues ,to aid smooth transition into IIT Kharagpur culture.",
+                    "duration": "Jul 2018 Jun 2020 2 years",
+                    "start_date": "Jul 2018",
+                    "end_date": "Jun 2020",
+                    "duration_short": "2 years",
+                    "title": "PG Representative of Earth System Science and Technology, IIT KGP [July-2018 to 2020]",
+                    "description_html": "• Proposed and discussed a brief list of measures towards the betterment of PG students in senate council.<br>• Mentored freshmen PG in academic,extra-academic and personal issues ,to aid smooth transition into IIT Kharagpur culture. <!---->"
+                },
+                {
+                    "subtitle": "Indian Institute of Technology, Kharagpur",
+                    "meta": "Jul 2018 - Jun 2020 2 years",
+                    "description": "• Helping in coordinating activities of the career development center in the academic session 2018- 2020.• Conducting the session for the students to aware the students for better career related decision and communicating between the Career Development Center (CDC) and the students community.",
+                    "duration": "Jul 2018 Jun 2020 2 years",
+                    "start_date": "Jul 2018",
+                    "end_date": "Jun 2020",
+                    "duration_short": "2 years",
+                    "title": "M.Tech Desk ( CORAL IIT Kharagur) [July-2018 to 2020]",
+                    "description_html": "• Helping in coordinating activities of the career development center in the academic session 2018- 2020.<br>• Conducting the session for the students to aware the students for better career related decision and communicating between the Career Development Center (CDC) and the students community. <!---->"
+                }
+            ],
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Project Engineer",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "• Experienced data analyst with 1 year at Unistal Systems Pvt. Ltd.• Skilled in interpreting and analyzing data to drive growth and inform decision-making.• Proficient in process-oriented approaches to achieve organizational objectives.",
+            "description_html": "• Experienced data analyst with 1 year at Unistal Systems Pvt. Ltd.• Skilled in interpreting and analyzing data to drive growth and inform decision-making.• Proficient in process-oriented approaches to achieve organizational objectives. <!---->",
+            "duration": "Feb 2017 Feb 2018 1 year 1 month",
+            "start_date": "Feb 2017",
+            "end_date": "Feb 2018",
+            "duration_short": "1 year 1 month",
+            "company": "Unistal Systems Pvt. Ltd.",
+            "company_id": "unistal-global",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Ishita Doshi",
+            "about": null,
+            "location": "Sunnyvale, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Archit Agarwal",
+            "about": "Software Development Engineer ll at Amazon",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Sajal Kaushik",
+            "about": null,
+            "location": "Bellevue, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Subham Das",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Swapnil G.",
+            "about": "SDE-II @Amazon | Computer Science Undergrad, NIT bhopal",
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Anmol Jain",
+            "about": "SDE-2 @ Amazon | Ex- Flipkart | DCE ‘20",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayank Maheshwari",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Akanksha Singh",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Lokesh Ravindranathan",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anumalasetty Prasanth",
+            "about": "Software Development Engineer 2 at Amazon",
+            "location": "Kota"
+        },
+        {
+            "profile_link": "",
+            "name": "Nirav Pithadiya",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kajal Gosaliya",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gopal Garg",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Shyam Bajaj",
+            "about": "SDE-II at Amazon | NITB'20",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Lakshay Goyal",
+            "about": "SDE 2 at Amazon",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Saksham Bathla",
+            "about": null,
+            "location": "Seattle, WA"
+        },
+        {
+            "profile_link": "",
+            "name": "Smriti Bhati",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Supriya Priyadarshani",
+            "about": null,
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "Jay Deep Khandelwal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vivek Awasthi",
+            "about": null,
+            "location": "Noida"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Earth Science System And Technology",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Veer Bahadur Singh Purvanchal University, Jaunpur",
+            "degree": "B.tech",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SV Inter College Allahabad Uttar Pradesh",
+            "degree": "Intermediate",
+            "field": "Mathematics and Computer Science",
+            "start_year": "2011",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SV Inter College Allahabad Uttar Pradesh",
+            "degree": "High School",
+            "field": "Mathematics",
+            "start_year": "2009",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Sep 2024Credential ID UC-f48cadce-eb0c-41d3-ac61-15f4a97e917eSee credential",
+            "subtitle": "Udemy",
+            "title": "Mastering the System Design"
+        },
+        {
+            "meta": "Issued Sep 2024Credential ID UC-757b8d9c-6d37-45ef-a7c7-7a1ef5cb94f0See credential",
+            "subtitle": "Udemy",
+            "title": "Ultimate AWS Certified Cloud Practitioner"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Essential Math for Machine Learning: Python Edition"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning Django"
+        },
+        {
+            "meta": "Issued Oct 2020",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jan 2020See credential",
+            "subtitle": "Applied AI Course",
+            "title": "Applied Machine learning Online Course"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "Coursera",
+            "title": "Programming for everybody (Getting started with Python)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1245.0,
+    "connections": 500.0,
+    "current_company_company_id": "nielsen",
+    "current_company_name": "Nielsen",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Message Spam or Ham Classification (NLP)\",\"start_date\":\"Aug 2021\",\"end_date\":\"Present\",\"description\":\"• The goal of this project is to use Data science to accurately classify whether a message is spam or not.• I have implemented CountVectorizer for data modeling exercise. I used Naive bayes, Decision tree and SVM classification model for getting good result. All of them SVM model was 98.7% accurate and f1-score-96%, recall-93%, precision-98% and Compared the results with Naive bayes and Decision tree classifier.\"},{\"title\":\"Pneumonia Detection using CNN (Transfer learning)\",\"start_date\":\"Jun 2021\",\"end_date\":\"Jun 2021\",\"description\":\"• Built a system use transfer learning using VGG16 model and customize our model to predict whether a person has Pneumonia or not. Implemented using ImageDataGenerator and keras. The model was 94.5% accurate.\"},{\"title\":\"Stock Market Prediction using LSTM (Deep NLP)\",\"start_date\":\"Apr 2021\",\"end_date\":\"May 2021\",\"description\":\"• Performed for predicting stock prices is using a long short-term memory neural network (LSTM) for time series forecasting. LSTM model have 98.7% accurate and f1-score-96%, recall-93%, precision-98.\"},{\"title\":\"License Plate Recognition System: Computer Vision (ANPR)\",\"start_date\":\"Oct 2020\",\"end_date\":\"Oct 2020\",\"description\":\"• The aim of this Automatic Number Plate Recognition (ANPR) system is to detect the number plate and fetch the text of number plate.• I have used Haar-cascades per-trained XML file which containing feature of number plate. And used TesseractOCR (Pytesseract) to detect the text.\"},{\"title\":\"Personal Portfolio Python with Django\",\"start_date\":\"May 2020\",\"end_date\":\"Jun 2020\",\"description\":\"◦ Technologies Used: Employed an array of technologies including Python, Django, HTML5, CSS3, and JavaScript.◦ Architectural Pattern: Implemented the project using Django’s MVT (Model-View-Template) architecture, leveragingits logic to render templates and incorporate static files such as CSS, JavaScript, and images.◦ UI Development: Created a dynamic and visually interactive UI by utilizing Python 3, HTML5, CSS3, JavaScript,Django, and the MVT architecture.\"},{\"title\":\"Movie Recommendation System using Collaborative filtering (R-NN)\",\"start_date\":\"May 2020\",\"end_date\":\"May 2020\",\"description\":\"• The objective of this recommender system machine learning algorithm is to offer “relevant” suggestions to users.• Building recommender system to give relevant suggestion I have used Scikit-learn’s CountVectorizer, Cosine-similarity and K- nearest neighbor algorithm.\"},{\"title\":\"M.tech | Observational analysis of Intensity and Track of Cyclone formed over North Indian Ocean (NIO) during years (1980-2020)\",\"start_date\":\"Sep 2019\",\"end_date\":\"Apr 2020\",\"description\":\"• Aim of this Project is to identify trends of Intensity and track of cyclone.• Analysis of past 40 year data from Indian Meteorological Department (IMD) to identify the trends of variation of cyclone events on North Indian Ocean and its basin Bay of Bengal & Arabian Sea. Along with I also track the path of cyclone over the ocean and land by using latitude and longitude coordinates.• I have used mainly python programming languages and its module like pandas, NumPy, matplotlib, Seaborn, and SciPy.\"}]",
+    "organizations": null,
+    "location": "New Delhi",
+    "linkedin_id": "parshu-ram-410082170",
+    "activity": [
+        {
+            "interaction": "Liked by Parshu Ram",
+            "link": "",
+            "title": "BHOOKR ? Know more about the startup that serves protein-rich meal in Hyderabad? #protein #fibre #gym #food #hyderabad #startup #growing",
+            "img": "",
+            "id": "7275121203143495681"
+        },
+        {
+            "interaction": "Liked by Parshu Ram",
+            "link": "",
+            "title": "This is India’s first Elephant Hospital! #ElephantHospital #WildlifeSOS #Compassion #ElephantRescue #WildlifeCare #WildlifeProtection #AnimalRights…",
+            "img": "",
+            "id": "7278386648659226624"
+        },
+        {
+            "interaction": "Liked by Parshu Ram",
+            "link": "",
+            "title": "Thrilled and honored to receive another prestigious award at Bentley Systems —this being my third, and from another department! It’s a true testament…",
+            "img": "",
+            "id": "7273290670360961024"
+        },
+        {
+            "interaction": "Liked by Parshu Ram",
+            "link": "",
+            "title": "Pleased to share that I have successfully completed the following Microsoft certifications: ✅ DP-203: Azure Data Engineer Associate ✅ DP-900:…",
+            "img": "",
+            "id": "7270400549559107584"
+        },
+        {
+            "interaction": "Liked by Parshu Ram",
+            "link": "",
+            "title": "Growth from 2011 to 2024 in terms of my salary in INR after tax deduction 2011: 20k/month 2014: 50k/month 2017: 85k/month 2018: 99k/month 2019:…",
+            "img": "",
+            "id": "2011"
+        },
+        {
+            "interaction": "Liked by Parshu Ram",
+            "link": "",
+            "title": "Just finished the course “Django Essential Training” by Leticia Portella! Check it out:  #django.",
+            "img": "",
+            "id": "7261258409746784256"
+        },
+        {
+            "interaction": "Liked by Parshu Ram",
+            "link": "",
+            "title": "Just finished the course “Building a Personal Portfolio with Django” by Nick Walter! Check it out:  #django.",
+            "img": "",
+            "id": "7261237524491051009"
+        },
+        {
+            "interaction": "Liked by Parshu Ram",
+            "link": "",
+            "title": "Just finished the course “Python Data Structures: Trees” by Ryan Mitchell! Check it out:  #datastructures #python.",
+            "img": "",
+            "id": "7259054470884438016"
+        }
+    ],
+    "linkedin_num_id": 680974284.0,
+    "honors_and_awards": [
+        {
+            "title": "Awarded MHRD Teaching Assistantship at IIT Kharagpur",
+            "publication": "-",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": "Awarded MHRD Teaching Assistantship at IIT Kharagpur for Programming and Data Analysis for 2 years from 2018-2020."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

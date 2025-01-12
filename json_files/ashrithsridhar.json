@@ -1,0 +1,431 @@
+{
+    "id": "ashrithsridhar",
+    "name": "Ashrith Sridhar",
+    "city": "Tempe, Arizona, United States",
+    "country_code": "US",
+    "position": "MS CS at ASU | SWE Intern @ Sapient | Software Development, AI/ML Engineer, Data Science | Founder and Tech Lead at Team Hasiru",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Sapient",
+        "company_id": "sapientbio",
+        "title": "MS CS at ASU | SWE Intern @ Sapient | Software Development, AI/ML Engineer, Data Science | Founder and Tech Lead at Team Hasiru"
+    },
+    "experience": [
+        {
+            "title": "Sapient",
+            "location": "San Diego, California, United States",
+            "description_html": null,
+            "duration": "7 months",
+            "positions": [
+                {
+                    "subtitle": "Sapient",
+                    "meta": "Aug 2023 - Dec 2023 5 months",
+                    "description": "• DataHub data catalog integration• Future endeavors include building LLMs(Large Language Models) to cater to the needs of the company",
+                    "duration": "Aug 2023 Dec 2023 5 months",
+                    "start_date": "Aug 2023",
+                    "end_date": "Dec 2023",
+                    "duration_short": "5 months",
+                    "title": "Software Engineering Intern",
+                    "description_html": "• DataHub data catalog integration<br>• Future endeavors include building LLMs(Large Language Models) to cater to the needs of the company <!---->"
+                },
+                {
+                    "subtitle": "Sapient",
+                    "meta": "Jun 2023 - Aug 2023 3 months",
+                    "description": "• ​​Conducted comprehensive requirement-gathering by understanding the primary concerns of stakeholders, resulting in the development of a tailored DataHub model.• Set up Docker environments for testing and deployment.• Authored Python scripts compliant with industry standards, employing libraries like Pydantic for custom data validation. Ensured \"pythonic\" coding practices, emphasizing clean and efficient code.• Integrated DataHub with Sapient's existing code repositories, ensuring scalability and seamless metadata ingestion.• Utilized SOLID principles in software design for code flexibility and adaptability.• Gained hands-on UI/UX experience using Figma, designing web pages with an emphasis on user-centric data visualizations.• Collaborated across various departments, enhancing cross-functional communication and team coordination.",
+                    "duration": "Jun 2023 Aug 2023 3 months",
+                    "start_date": "Jun 2023",
+                    "end_date": "Aug 2023",
+                    "duration_short": "3 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": "• ​​Conducted comprehensive requirement-gathering by understanding the primary concerns of stakeholders, resulting in the development of a tailored DataHub model.<br>•&nbsp;Set up Docker environments for testing and deployment.<br>• Authored Python scripts compliant with industry standards, employing libraries like Pydantic for custom data validation. Ensured \"pythonic\" coding practices, emphasizing clean and efficient code.<br>•&nbsp;Integrated DataHub with Sapient's existing code repositories, ensuring scalability and seamless metadata ingestion.<br>• Utilized SOLID principles in software design for code flexibility and adaptability.<br>•&nbsp;Gained hands-on UI/UX experience using Figma, designing web pages with an emphasis on user-centric data visualizations.<br>• Collaborated across various departments, enhancing cross-functional communication and team coordination."
+                }
+            ],
+            "company": "Sapient",
+            "company_id": "sapientbio",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Technical Lead",
+            "location": "Bengaluru Area, India",
+            "description": "As the Tech Lead, I have overseen our web development projects primarily utilizing the Django framework as part of our tech stack. Leveraging PostgreSQL for our database needs, I've successfully spearheaded the creation of a Progressive Web App (PWA) to enhance mobile user experience.",
+            "description_html": "As the Tech Lead, I have overseen our web development projects primarily utilizing the Django framework as part of our tech stack. Leveraging PostgreSQL for our database needs, I've successfully spearheaded the creation of a Progressive Web App (PWA) to enhance mobile user experience. <!---->",
+            "duration": "Aug 2022 Sep 2023 1 year 2 months",
+            "start_date": "Aug 2022",
+            "end_date": "Sep 2023",
+            "duration_short": "1 year 2 months",
+            "company": "Team Hasiru",
+            "company_id": "team-hasiru",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Product Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "As an Associate Product Manager, I was in-charge of an AI product which the company successfully launched later. I was later on given responsibilities of testing the products. I performed unit testing and QA. Furthermore, I successfully delivered software automations and web scraping in Python using Selenium. I also got my hands dirty with Data Analytics using Python with modules like Pandas, NumPy, Matplotlib and Ngram. Last but not the least, on my journey in the company I developed a software using Python for HR management.",
+            "description_html": "As an Associate Product Manager, I was in-charge of an AI product which the company successfully launched later. I was later on given responsibilities of testing the products. I performed unit testing and QA. Furthermore, I successfully delivered software automations and web scraping in Python using Selenium. I also got my hands dirty with Data Analytics using Python with modules like Pandas, NumPy, Matplotlib and Ngram. Last but not the least, on my journey in the company I developed a software using Python for HR management.",
+            "duration": "Feb 2022 Jul 2022 6 months",
+            "start_date": "Feb 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "6 months",
+            "company": "Saarthi.ai",
+            "company_id": "saarthi-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Reviewed the current Fintech sector in the country and researched the key possibilities. Conducted extensive study on market, did competitor analysis, and drew meaningful conclusions. Used data analytics tools to extract and analyze data to deduce user choices. Made prototypes of apps that various products will use.",
+            "description_html": "Reviewed the current Fintech sector in the country and researched the key possibilities. Conducted extensive study on market, did competitor analysis, and drew meaningful conclusions. Used data analytics tools to extract and analyze data to deduce user choices. Made prototypes of apps that various products will use. <!---->",
+            "duration": "Nov 2020 Jul 2021 9 months",
+            "start_date": "Nov 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "9 months",
+            "company": "LazyPay",
+            "company_id": "lazypay",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "description": "A bunch of Blockchain enthusiasts spreading the idea of Blockchain among people and building a platform for Blockchain to unveil it's latent magic.",
+            "description_html": "A bunch of Blockchain enthusiasts spreading the idea of Blockchain among people and building a platform for Blockchain to unveil it's latent magic. <!---->",
+            "duration": "May 2020 Nov 2020 7 months",
+            "start_date": "May 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "7 months",
+            "company": "BChain Dynamics",
+            "company_id": "bchaindynamics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Writer",
+            "location": "Bengaluru Area, India",
+            "description": "Content Writer and Culural Events Organizer",
+            "description_html": "Content Writer and Culural Events Organizer <!---->",
+            "duration": "May 2019 Sep 2019 5 months",
+            "start_date": "May 2019",
+            "end_date": "Sep 2019",
+            "duration_short": "5 months",
+            "company": "Dialogues",
+            "company_id": "dialoguesspace",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Dev Intern",
+            "location": "Bangalore",
+            "description": "Interned as a Web Developer for PESU I/O and designed a couple of pages.",
+            "description_html": "Interned as a Web Developer for PESU I/O and designed a couple of pages. <!---->",
+            "duration": "Nov 2018 Jan 2019 3 months",
+            "start_date": "Nov 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "3 months",
+            "company": "PES University",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Gaurang Ghinaiya",
+            "about": "Provide Startups 🚀 or businesses 🏢 to inadequate the technology gap in their organization | CEO at Nexios Technologies LLP | IT Consulting | Web & Mobile app development | ERP | CRM",
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhaumin Chorera",
+            "about": null,
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr. Padmini Bollineni",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr. Milind Kumar Audichya",
+            "about": "Helping people and businesses to grow more through technology Learner for Life, Educator, Researcher, Technocrat, Expert Freelancer",
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "Navrang Oza",
+            "about": "Founder at Acespritech Solutions Pvt Ltd",
+            "location": "Gandhinagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Aniket Bajpai",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Mr Khan",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritish Venkat Jogi",
+            "about": "Innovation is Passion",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Anuraag Kashyap",
+            "about": "Venture Building, Business Consulting, Marketing & Strategy | IIM Kozhikode | Stanford Certified - Design Thinking | GGSIPU | Cambridge",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Varun Bhutani",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratik Dixit",
+            "about": "Founder & CEO at Cannas Technologies Private Limited | Entrepreneur | Software Engineer | Business Analyst",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Kantanu Kundu ☁",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Praveen Rangu",
+            "about": null,
+            "location": "Greater Hyderabad Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Anirudh Rajgarhia",
+            "about": "Serial Entrepreneur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Prashant Singh",
+            "about": "Managing Director at Exosis Technology Pvt. ltd.",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravi Shankar Singh",
+            "about": "President at GenNext Software Solutions, Inc",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Utkarsh Thakkar",
+            "about": "Delivering Enterprise Solutions | Angel Investor",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Gauri Bansal",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr. (hc) Rishi Bansal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Thiru Moorthi",
+            "about": "Managing Directer at ISS",
+            "location": "Coimbatore"
+        }
+    ],
+    "educations_details": "Arizona State University",
+    "education": [
+        {
+            "title": "Arizona State University",
+            "degree": "Master of Science - MS",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": "Learning in depth about a plethora of fields like Artificial Intelligence, Machine Learning, Blockchain, Database Systems and Software Engineering.",
+            "description_html": "Learning in depth about a plethora of fields like Artificial Intelligence, Machine Learning, Blockchain, Database Systems and Software Engineering. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "PES University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "RV PU College",
+            "degree": "Pre-Degree",
+            "field": "PCME",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Kumaran's Children's Home - CBSE",
+            "start_year": "2004",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2024Credential ID U8YVXJEA6R2GSee credential",
+            "subtitle": "Coursera",
+            "title": "Advanced Data Engineering"
+        },
+        {
+            "meta": "Issued Aug 2024Credential ID UJEM0N1NAI1DSee credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Cloud Technical Essentials"
+        },
+        {
+            "meta": "Issued Aug 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Deploying Django Apps: Make Your Site Go Live"
+        },
+        {
+            "meta": "Issued Aug 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Django Essential Training"
+        },
+        {
+            "meta": "Issued Aug 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Python Data Structures and Algorithms"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1116.0,
+    "connections": 500.0,
+    "current_company_company_id": "sapientbio",
+    "current_company_name": "Sapient",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Tempe",
+    "linkedin_id": "ashrithsridhar",
+    "activity": [
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "I’m excited to announce that I’ve rejoined KPMG India as a VAPT Consultant for the esteemed Digital Trust-Cyber Defense & IR team. It's a homecoming…",
+            "img": "",
+            "id": "7272252500211052545"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "Do you have career goals? Ready for a better job or to pursue a new career path? Impacted by layoffs and interested in networking or upskilling…",
+            "img": "",
+            "id": "7117986741902327809"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "💥 Looking for an experienced Debug Technician to join a cutting-edge company that designs and manufacturers radar systems to autonomous machines 💥…",
+            "img": "",
+            "id": "7199452265932312578"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "Why Aerotek? Aerotek is a part of Allegis Group, the #1 Staffing Agency in the United States. We are a privately held organization with 250+ offices…",
+            "img": "",
+            "id": "7254910452034359297"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "Do you currently live in the Los Angeles, Orange or San Diego County areas? Have you previously served in the military? The USC Center for…",
+            "img": "",
+            "id": "7049873285139886080"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "#Dallas #DataEngineers I have a new position for you. It is a Senior position 5-days in-office, local to the area. You must be local as the…",
+            "img": "",
+            "id": "7264309706960072705"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "We are currently hiring for several roles in our Spokane office. We are hiring recruiters, customer care representative (customer service) and long…",
+            "img": "",
+            "id": "6797660110651969536"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "Lorena Kanzki",
+            "img": "",
+            "id": "6722200545362354176"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "I am so excited to share that I have been promoted to Professional Recruiter at Insight Global! Thank you to everyone who has supported me…",
+            "img": "",
+            "id": "7202026316785700865"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Ashrith Sridhar",
+            "img": "",
+            "id": "6927070733697171456"
+        },
+        {
+            "interaction": null,
+            "link": "",
+            "title": "Liked by Ashrith Sridhar",
+            "img": "",
+            "id": "7085391722318336002"
+        },
+        {
+            "interaction": "Liked by Ashrith Sridhar",
+            "link": "",
+            "title": "Reflecting on an incredible experience last week at TEKsystems Elevate to Elite Talent Delivery Conference, I am filled with gratitude and…",
+            "img": "",
+            "id": "7193360550649602053"
+        }
+    ],
+    "linkedin_num_id": 175746859.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

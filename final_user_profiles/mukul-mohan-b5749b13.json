@@ -1,0 +1,62 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": "Manager at Reserve Bank of India (RBI)",
+    "experience": [
+        {
+            "title": "Manager",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Apr 2018 - Present 6 years 9 months",
+            "start_date": "Apr 2018",
+            "end_date": "Present",
+            "duration_short": "6 years 9 months",
+            "company": "Reserve Bank of India (RBI)",
+            "company_id": "reservebankofindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Design Engineer",
+            "description_html": null,
+            "duration": "Aug 2013 Jan 2015 1 year 6 months",
+            "start_date": "Aug 2013",
+            "end_date": "Jan 2015",
+            "duration_short": "1 year 6 months",
+            "company": "Redpine Signals",
+            "company_id": "redpine-signals",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "degree": "Master of Technology (M.Tech.)",
+            "field": "Microelectronics and VLSI Design",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "field": "Electrical and Electronics Engineering",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Reserve Bank of India (RBI)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

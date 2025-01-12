@@ -1,0 +1,312 @@
+{
+    "id": "samir-kumar-1a0b42190",
+    "name": "Samir Kumar",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "SDE-1 at Kotak | Graduate IIT Kharagpur '23",
+    "about": "Motivated and results-oriented Software Developer with one year of experience, specializing in CRM platform development using Salesforce. Successfully contributed to the enhancement and maintenance of the CRM system at Kotak Mahindra Bank, optimizing client management processes and improving operational efficiency. Proficient in Javascript, Apex, and SQL, with a strong understanding of data integration and workflow automation. Committed to continuous learning and excited to advance my expertise in emerging technologies and softwares. Seeking to leverage my skills and experience to drive innovative solutions in a dynamic team environment.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Kotak Mahindra Bank",
+        "company_id": "kotak-mahindra-bank",
+        "title": "SDE-1 at Kotak | Graduate IIT Kharagpur '23"
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Built a Lead Management System on Salesforce to track leads and opportunities.• Built an API for Data Archival on AWS using S3 bucket and Dynamodb.• Tested security policies using Azure on mobile apps to prevent data leakage.• Analysed data on Salesforce using CRM Analytics.",
+            "description_html": "• Built a Lead Management System on Salesforce to track leads and opportunities.• Built an API for Data Archival on AWS using S3 bucket and Dynamodb.• Tested security policies using Azure on mobile apps to prevent data leakage.• Analysed data on Salesforce using CRM Analytics. <!---->",
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Kotak Mahindra Bank",
+            "company_id": "kotak-mahindra-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Pune, Maharashtra, India",
+            "description": "• Built a hotdesking android application to book conference rooms in different offices using Android Studio in Java with minimum Android 9.• Implemented CRUD operation on various app pages in order to facilitate the login and parameters like office, city, floor plans and seats.• Implemented XML for UI development and libraries like Retrofit, Volley, RxJava and Gson to build multiple fragments on different pages.",
+            "description_html": "• Built a hotdesking android application to book conference rooms in different offices using Android Studio in Java with minimum Android 9.• Implemented CRUD operation on various app pages in order to facilitate the login and parameters like office, city, floor plans and seats.• Implemented XML for UI development and libraries like Retrofit, Volley, RxJava and Gson to build multiple fragments on different pages. <!---->",
+            "duration": "Jun 2022 Aug 2022 3 months",
+            "start_date": "Jun 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "3 months",
+            "company": "Persistent Systems",
+            "company_id": "persistent-systems",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Created an end-to-end full IIOT Web Application to display the temperature and pressure of a greenhouse plant using dedicated sensors.• Acquired the sensors data through a RTCU gateway using a serial port and stored it temporarily in the persistent Extended FLASH memory.• Published the data to cloud using MQTT Protocol and analyzed it to trigger an alert in case the temperature or pressure crosses threshold.",
+            "description_html": "• Created an end-to-end full IIOT Web Application to&nbsp;display the temperature and pressure of a greenhouse plant using dedicated sensors.• Acquired the sensors data through a&nbsp;RTCU gateway using a serial port and stored it temporarily&nbsp;in the persistent Extended FLASH&nbsp;memory.• Published the data to cloud using MQTT Protocol and analyzed it to trigger an alert in case the temperature or&nbsp;pressure crosses threshold. <!---->",
+            "duration": "Nov 2021 Dec 2021 2 months",
+            "start_date": "Nov 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "2 months",
+            "company": "Mindtree",
+            "company_id": "mindtreeltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Developed multiple new functional components for an online virtual classroom platform featuring real-time interactions with the clients.• Restructured the existing page layout and structures, and redesigned the existing user interface for better user engagement and retention.• Fixed substantial amount of bugs in the existing javascript application and provided alternate methods for the deprecated modules.",
+            "description_html": "• Developed multiple new functional components for an online virtual classroom platform featuring real-time interactions with the clients.• Restructured the existing page layout and structures, and redesigned the existing user interface for better user engagement and retention.• Fixed substantial amount of bugs in the existing javascript application and provided alternate methods for the deprecated modules. <!---->",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "Wizork",
+            "company_id": "homelearnindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Kolkata Area, India",
+            "description": "• Gained understanding of latest Machine Learning and Artificial Intelligence models suitable for the given data by studying research papers.• Built different Machine Learning models and advanced them into Deep Learning and Neural networks and tested them on test dataset.• Used Clustering and PCA models, as they performed best on test data, to detect anomaly trends in the pallet plant load distribution data.",
+            "description_html": "• Gained understanding of latest Machine Learning and Artificial Intelligence models suitable for the given data by studying&nbsp;research papers.• Built different Machine Learning models and advanced them into Deep Learning and Neural networks and tested them on test dataset.• Used Clustering and PCA models, as they performed best on test data, to detect anomaly trends&nbsp;in the pallet plant load distribution data. <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "Larsen & Toubro",
+            "company_id": "larsen-&-toubro-limited",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Rujuta Ranshing",
+            "about": "Systems Engineer at Rheem | M.S. Mechanical Engineering (Purdue University) | Robotics & Automation Enthusiast | ROS, Python, Raspberry Pi",
+            "location": "Atlanta, GA"
+        },
+        {
+            "profile_link": "",
+            "name": "Gokul Prakash",
+            "about": "Machine Learning Engineer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Phanindra Korlepara",
+            "about": "IISc '26 CS | Vestas R&D | NITW '21 Mech",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Naman Walia",
+            "about": "M.Eng Aerospace | Seeking Opportunities in Aerospace & Mechanical Industry | FEA CFD Analyst | MATLAB Developer",
+            "location": "Ottawa, ON"
+        },
+        {
+            "profile_link": "",
+            "name": "Deept Madhav",
+            "about": "IP SME | Clarivate | DTU 2020",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Shah",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Hemanth Sankar",
+            "about": "Production Engineer",
+            "location": "Kerala, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Handa",
+            "about": "Software Engineer at Blinkit | Ex-Byjus | Ex-Toppr | IITBBS '21 Gold Medallist",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ramamurthi Gopalakrishnan",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual (B.Tech+M.Tech)",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Gold in Opensoft General Championship, Silver in Open IIT Data Analytics",
+            "description_html": "Activities and Societies: Gold in Opensoft General Championship, Silver in Open IIT Data Analytics",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Ruby Park",
+            "degree": "Mathematics and Computer Science",
+            "url": "",
+            "description": "Activities and Societies: Came second in Physics Quiz and Third in Chemistry Quiz, Selected for Second Round in SMTE",
+            "description_html": "Activities and Societies: Came second in Physics Quiz and Third in Chemistry Quiz, Selected for Second Round in SMTE",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"MA20104\",\"title\":\"PROBABILITY & STATISTICS\"},{\"subtitle\":\"CS11001\",\"title\":\"PROGRAMMING AND DATA STRUCTURE\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID V8STQA3AFE42See credential",
+            "subtitle": "University of Maryland",
+            "title": "Software Security"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 8H3U4GCXAURNSee credential",
+            "subtitle": "The Hong Kong University of Science and Technology",
+            "title": "Full Stack Web and Multiplatform Mobile App Development Specialization"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 77QQUTGME39LSee credential",
+            "subtitle": "The Hong Kong University of Science and Technology",
+            "title": "Full-Stack Web Development with React Specialization"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID CN5NSPUDC65USee credential",
+            "subtitle": "deeplearning.ai",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID FET8C2BYZWGXSee credential",
+            "subtitle": "Vanderbilt University",
+            "title": "Introduction to Programming with MATLAB"
+        },
+        {
+            "meta": "Issued Dec 2019Credential ID AULULR5E36YRSee credential",
+            "subtitle": "Stanford Online",
+            "title": "Algorithms Specialization"
+        },
+        {
+            "meta": "Issued Dec 2019Credential ID CXUGQLBPV2UTSee credential",
+            "subtitle": "Atlassian",
+            "title": "Version Control with Git"
+        },
+        {
+            "meta": "Issued Oct 2019Credential ID EQG8GJPXVH43See credential",
+            "subtitle": "Stanford Online",
+            "title": "Machine Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Jul 2018 - Jul 2020 · 2 years 1 month",
+            "duration_short": "2 years 1 month",
+            "end_date": "Jul 2020",
+            "info": "• Helped to spread knowledge and teaching students of schools in villages• Helped in constructing roads and toilets in villages• Collected old clothes, raised funds and distributed to the needy people• Donated blood",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Volunteer"
+        }
+    ],
+    "followers": 1043.0,
+    "connections": 500.0,
+    "current_company_company_id": "kotak-mahindra-bank",
+    "current_company_name": "Kotak Mahindra Bank",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Fast Food Restaurant Website\",\"start_date\":\"Mar 2022\",\"end_date\":\"Mar 2022\",\"description\":\"• Designed and implemented multiple functional components like the landing page, menu, cart and checkout of a fast food chain web app.• Built a modernized hybrid cloud architecture using an EC2 instance that acts as a data center and an EKS Kubernetes cluster that acts as a public cloud on separate VPCs, connected them using a load balancer for distribution and redirection of workloads (non/essential services).• Built REST APIs for customer, vendor and infrastructure related activities, Postman tested and integrated them with the client-side app.\"},{\"title\":\"Multiplatform Mobile Application\",\"start_date\":\"Jun 2020\",\"end_date\":\"Dec 2020\",\"description\":\"•Developed a multiplatform mobile application to post, comment, save and share content and pages with peers on the application.•Used Express, NodeJS and MongoDB for server-side development along with React Native in Expo platform for client-side development.•Used BCrypt hashing for password encryption, postman for API testing, JWT for authentication and Mongoose as data abstraction layer.\"},{\"title\":\"Artificial Intelligence\",\"start_date\":\"May 2019\",\"end_date\":\"Jul 2019\",\"description\":\"A detailed research on various fields of AI and Machine Learning\"}]",
+    "organizations": [
+        {
+            "title": "Lal Bahadur Shastri Hall of Residence",
+            "membership_type": "Secretary, Technology",
+            "start_date": "Aug 2019",
+            "end_date": "Jul 2020",
+            "membership_number": null
+        }
+    ],
+    "location": "Mumbai",
+    "linkedin_id": "samir-kumar-1a0b42190",
+    "activity": [
+        {
+            "interaction": "Liked by Samir Kumar",
+            "link": "",
+            "title": "ChatGPT is just the beginning! Use these 10 websites to finish hours of work in minutes. 1. ResumeMaker Build Prefect Resume with AI 🔗…",
+            "img": "",
+            "id": "7261346619172794368"
+        },
+        {
+            "interaction": "Liked by Samir Kumar",
+            "link": "",
+            "title": "How Generative AI Will Enhance The Supply Chain?? Sourcing & Managing Suppliers: Generative AI can add value to the supplier selection process, and…",
+            "img": "",
+            "id": "7174737790906109952"
+        },
+        {
+            "interaction": "Liked by Samir Kumar",
+            "link": "",
+            "title": "My team is hiring!! I am looking for software engineers with ML/AI/GenAI experience. My team is developing next-generation software systems at the…",
+            "img": "",
+            "id": "7165869960693493760"
+        },
+        {
+            "interaction": "Liked by Samir Kumar",
+            "link": "",
+            "title": "#Hiring #Intel. Fresher & Experienced 2024. Our Team has collected the Open Opportunities at Intel. CTC Rs 7 Lakh to 24 Lakh - January 2024…",
+            "img": "",
+            "id": "7150701695889465344"
+        },
+        {
+            "interaction": "Liked by Samir Kumar",
+            "link": "",
+            "title": "Thank you DESIRE FOUNDATION for an amazing learning experience! #machinelearning #workshops",
+            "img": "",
+            "id": "6730069360527994880"
+        }
+    ],
+    "linkedin_num_id": 755291784.0,
+    "honors_and_awards": [
+        {
+            "title": "Inter Hall 2021-2022 || Technology || Open Soft",
+            "publication": "Technology Students' Gymkhana IIT Kharagpur",
+            "date": "2022-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Hacktoberfest 2020",
+            "publication": "DigitalOcean",
+            "date": "2020-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Silver Medal in Open IIT Data Analytics",
+            "publication": "Technology Students' Gymkhana IIT Kharagpur",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,414 @@
+{
+    "id": "shivam-singh-55b25317b",
+    "name": "Shivam Singh",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": "SDE 2 @Quince | Prev @Zomato | IIT KGP@2022",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Quince",
+        "company_id": "onequince",
+        "title": "SDE 2 @Quince | Prev @Zomato | IIT KGP@2022"
+    },
+    "experience": [
+        {
+            "title": "SDE 2",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "Quince",
+            "company_id": "onequince",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Engineer I",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Jun 2022 Aug 2024 2 years 3 months",
+            "start_date": "Jun 2022",
+            "end_date": "Aug 2024",
+            "duration_short": "2 years 3 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Frontend Developer",
+            "location": "New York, United States",
+            "description": "Created responsive and dynamic Frontend of Quaffles ( and Lively app ( using React and Bootstrap, which went into production.1. Used google places API and Autocomplete widget to integrate google maps in the application and used Speech to Text API on the server-side to convert audio notes to text.2. Created real-time Chat screen’s frontend and backend using Web Socket API and added infinite scroll effect on the chat screen and other screens using Intersection Observer API.3. Setup service worker to send notifications to the users and push messages and used background sync and cache API to create an offline-first web application.4. Created animations used GSAP tweens and timelines and also used Popper.js to create tooltips.",
+            "description_html": "Created responsive and dynamic Frontend of Quaffles ( and Lively app ( using React and Bootstrap, which went into production.1. Used google places API and Autocomplete widget to integrate google maps in the application and used Speech to Text API on the server-side to convert audio notes to text.2. Created real-time Chat screen’s frontend and backend using Web Socket API and added infinite scroll effect on the chat screen and other screens using Intersection Observer API.3. Setup service worker to send notifications to the users and push messages and used background sync and cache API to create an offline-first web application.4. Created animations used GSAP tweens and timelines and also used Popper.js to create tooltips.",
+            "duration": "Apr 2021 Jul 2021 4 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "4 months",
+            "company": "Quaffles",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "United States",
+            "description": "Played an integral role as a Frontend Developer in the MVP launch of an application to build a world-class virtual live entertainment platform.• Design the entire UI for the MVP launch using ReactJS in Typescript and Sasswith pages routed through Reach Router and extensively used Material-UI• Components and Component API to achieve the desired and Responsive Web UI.• Integrated all the UI developed with Backend making Fetch API calls toGET/POST the data and used Redux along with React Hooks to manage dataacross various components & used Formik with Yup to validate form data.• Implemented end-to-end Razorpay payment gateway where the amountchanges depending on the number of seats selected by the user in the UI andtested Razorpay Webhooks with temporary NodeJS Backend.• Used Jest Framework to write frontend tests and Framer Motion library tocreate desired Animations in the UI.",
+            "description_html": "Played an integral role as a Frontend Developer in the MVP launch of an application to build a world-class virtual live entertainment platform.• Design the entire UI for the MVP launch using ReactJS in Typescript and Sasswith pages routed through Reach Router and extensively used Material-UI• Components and Component API to achieve the desired and Responsive Web UI.• Integrated all the UI developed with Backend making Fetch API calls toGET/POST the data and used Redux along with React Hooks to manage dataacross various components &amp; used Formik with Yup to validate form data.• Implemented end-to-end Razorpay payment gateway where the amountchanges depending on the number of seats selected by the user in the UI andtested Razorpay Webhooks with temporary NodeJS Backend.• Used Jest Framework to write frontend tests and Framer Motion library tocreate desired Animations in the UI.",
+            "duration": "Oct 2020 Mar 2021 6 months",
+            "start_date": "Oct 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "6 months",
+            "company": "Neoshows",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary Basketball",
+            "location": "Kharagpur Area, India",
+            "description": "• Elected by an Electorate of over 12,000 Students to Chair the Basketball Sub-Committee• Successfully organized Inter Hostel Basketball General Championship 2019 with the participation of 22 Hostels• Efficiently resolved the Athletes concerns by communicating problems and negotiating with the Gymkhana officials• Projected and Efficiently managed the total Budget of INR 0.25 M for the year-long activities of the Sub-Committee• Initiated the first-ever Women's Basketball Workshop to increase Girls Participation and Freshers Basketball tournament• Headed first-ever recreational activity Zeal & Pomp aimed at building coordination among Inter IIT Contingent• Organized practice matches of Inter IIT Team with Air Force Basketball Team and Kolkata Basketball Club",
+            "description_html": "• Elected by an Electorate of over 12,000 Students to Chair the Basketball Sub-Committee• Successfully organized Inter Hostel Basketball General Championship 2019 with the participation of 22 Hostels• Efficiently resolved the Athletes concerns by communicating problems and negotiating with the Gymkhana officials• Projected and Efficiently managed the total Budget of INR 0.25 M for the year-long activities of the Sub-Committee• Initiated the first-ever Women's Basketball Workshop to increase Girls Participation and Freshers Basketball tournament• Headed first-ever recreational activity Zeal &amp; Pomp aimed at building coordination among Inter IIT Contingent• Organized practice matches of Inter IIT Team with Air Force Basketball Team and Kolkata Basketball Club",
+            "duration": "Apr 2018 Mar 2019 1 year",
+            "start_date": "Apr 2018",
+            "end_date": "Mar 2019",
+            "duration_short": "1 year",
+            "company": "Technology Students'​ Gymkhana, IIT Kharagpur",
+            "company_id": "technology-students-gymkhana-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Amarnath Reddy Mukkamalla",
+            "about": "Data Scientist at App Orchid | IIT KGP '22",
+            "location": "Greater Hyderabad Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Aalok Agrawal",
+            "about": "Product Engineer@Sprinklr | MITACS GRI '22 @UoR, Canada | Final year Electrical Engineering @IIT Kharagpur | Minor in Computer Science and Engineering | Micro in Artificial Intelligence and Applications",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Jain",
+            "about": "Associate Data Scientist @ PayU | IIT Kanpur",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Apurv Chandel",
+            "about": "Software Developer at Shaadi.com",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Meghashrita Das",
+            "about": "CS PhD @University of Massachusetts Amherst (CICS) | IIT Kharagpur'24 UG| Charpak lab scholar'23 @INRIA Paris-Sorbonne | MITACS GRI'22 | RI @Univ Dublin | Quantum Information and Network Architecture",
+            "location": "Amherst, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sahil Jain",
+            "about": "Programmer Analyst at Cognizant",
+            "location": "Gwalior"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Agrawal",
+            "about": "Computer Science Graduate",
+            "location": "Madhya Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Manvita Joshi",
+            "about": "Software Engineer @ JP Morgan Chase & Co.",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "kunal .",
+            "about": "Advanced Software developer at Amdocs",
+            "location": "Aurangabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Piyush Goyal",
+            "about": "Data Engineer at Google | Ex - Optum, Paytm | PEC'21",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Bragatheswaran M",
+            "about": "Software Engineer | WIFI | Linux Kernel | Member of Embedded & IOT at iQube Innovation Center",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddharth Gandhi",
+            "about": "Quantitative Analytics Specialist at Wells Fargo | IIT Kharagpur’23",
+            "location": "Surat"
+        },
+        {
+            "profile_link": "",
+            "name": "Bindu H S",
+            "about": "Product intern - ttec | Product enthusiast | BITSoM'24(Bits Pilani) | Ex - Accenture | NIE'20",
+            "location": "Karnataka, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Bharat Kumar Sharma",
+            "about": "TRC Associate 2 at RSM USI | Ex EY",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Devashish Shetty",
+            "about": "Assistant Software Engineer at Tata Consultancy Services",
+            "location": "Washim"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakash Choudhary",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Yuvraj Gagneja",
+            "about": null,
+            "location": "Jalandhar"
+        },
+        {
+            "profile_link": "",
+            "name": "Dheeraj Agarwal",
+            "about": "Application Developer @ Oracle | IIT KANPUR",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarah Qutbi",
+            "about": "IIM Sambalpur MBA '25",
+            "location": "Bhopal"
+        },
+        {
+            "profile_link": "",
+            "name": "Saloni Ajmera",
+            "about": "Inside Sales Account Manager - Dell Technologies | IMI New Delhi (2020-22)",
+            "location": "New Delhi"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Graduation",
+            "field": "Integrated MSc Chemistry",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Minor",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS21003\",\"title\":\"Algorithms - I\"},{\"subtitle\":\"CS60045\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"MA21007\",\"title\":\"Design And Analysis of Algorithms\"},{\"subtitle\":\"CS60092\",\"title\":\"Information Retrieval \"},{\"subtitle\":\"CS60050\",\"title\":\"Machine Learning\"},{\"subtitle\":\"CS60075\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"MA41011\",\"title\":\"Theory of operating system\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2019Credential ID KGYVRDLQDSLPSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks by deeplearning.ai on Coursera"
+        },
+        {
+            "meta": "Issued Jul 2019",
+            "subtitle": "Coursera",
+            "title": "Deep Learning, a 5-course specialization by deeplearning.ai on Coursera"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID XPCUNHRN8PHMSee credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models by deeplearning.ai on Coursera"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID SYKB54YFGNLCSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization by deeplearning.ai on Coursera"
+        },
+        {
+            "meta": "Issued May 2019Credential ID LNQ9VRGSBNVHSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning by Stanford University on Coursera"
+        },
+        {
+            "meta": "Issued May 2019Credential ID 9PNDWE8E5XU7See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning by deeplearning.ai on Coursera"
+        },
+        {
+            "meta": "Issued May 2019Credential ID R3QUXUXE3XDNSee credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python) by University of Michigan on Coursera"
+        },
+        {
+            "meta": "Issued May 2019Credential ID 98TP6EWWKYB4See credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures by University of Michigan on Coursera"
+        },
+        {
+            "meta": "Issued Mar 2019Credential ID EMMHC3NDDE7ASee credential",
+            "subtitle": "Coursera",
+            "title": "The Data Scientist’s Toolbox by Johns Hopkins University on Coursera"
+        },
+        {
+            "meta": "Credential ID JNFLMHFHXW6HSee credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects by deeplearning.ai on Coursera"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2932.0,
+    "connections": 500.0,
+    "current_company_company_id": "onequince",
+    "current_company_name": "Quince",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Gurugram",
+    "linkedin_id": "shivam-singh-55b25317b",
+    "activity": [
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "How to ace the system design interview (without luck): One of the best things you can do to become good at system design is to read case…",
+            "img": "",
+            "id": "7277311955546124288"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "🏆 Honored to Receive the Best Presentation Award! 🏆 I am thrilled to share that I was awarded the Best Presentation at the 8th International…",
+            "img": "",
+            "id": "7275218792975130626"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "It’s not about knowing everything off the top of your head, it’s about how you approach problems and find solutions. 😊 #interview #leetcode…",
+            "img": "",
+            "id": "7273893375093669888"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "If you want to become good at system design (in 1 month), then learn these case studies: 1. How YouTube Was Able to Support 2.49 Billion Users With…",
+            "img": "",
+            "id": "7272600105742909440"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "There are 27 million software engineers. But only a fraction of them know the most valuable tech newsletters. Here are my 14 favorite newsletters…",
+            "img": "",
+            "id": "27"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "Best system design articles for your weekend 🚀 1. Airbnb's service building journey :  2. Evernote's architecture :…",
+            "img": "",
+            "id": "7268917763371331584"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "Quince just launched caviar, and it would make the chicest gift for your clients this holiday season! #corporategifting #holidaygifts #clientgifts…",
+            "img": "",
+            "id": "7264710447285563392"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "System Design Algorithms Every Engineer Should Know. 👇 Or may be - Good to know. 😉 1. 𝐁𝐥𝐨𝐨𝐦 𝐅𝐢𝐥𝐭𝐞𝐫 ◾ A space-efficient probabilistic…",
+            "img": "",
+            "id": "7259376386212044800"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "Ok so… Here’s where ChatGPT is going to start failing… Is the AI trend a Bubble? In order for (us developers), troubleshoot errors in systems, and…",
+            "img": "",
+            "id": "7256493948087476224"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "9 GitHub Repositories to Boost Your Software Engineering Career (bookmark them): 1/ System design: ↳  2/ Developer…",
+            "img": "",
+            "id": "7258108560121769984"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "30 Blogs to Learn 30 System Design Concepts: 1) Scalability:  2) Availability:  3) CAP Theorem:…",
+            "img": "",
+            "id": "30"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "Congrats to Quince for winning the 2024 LTK Best Performance Strategy Award! This award recognizes top-performing campaigns with a strategic Creator…",
+            "img": "",
+            "id": "2024"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "Diljit Dosanj Delhi's show was a disaster Deepinder Goyal Zomato we could not even get a glimpse of Diljit from gold. A few of my experiences in…",
+            "img": "",
+            "id": "7256224806587518976"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "The power of putting the customer first and providing an amazing customer experience. That is how you drive loyalty. Amazing work Quince and the CX…",
+            "img": "",
+            "id": "7257776610219630592"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "56 Amazing resources to level up your system design as a software engineer • Amazing Technical Blogs ► System Design Newsletter…",
+            "img": "",
+            "id": "7256279960120627200"
+        },
+        {
+            "interaction": "Liked by Shivam Singh",
+            "link": "",
+            "title": "👉 If API GATEWAY a Single entry point, how does it handle millions of requests per second? 👉 How API GATEWAY is different from Load Balancer? Does…",
+            "img": "",
+            "id": "7246050541363994624"
+        }
+    ],
+    "linkedin_num_id": 714257495.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

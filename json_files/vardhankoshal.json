@@ -1,0 +1,186 @@
+{
+    "id": "vardhankoshal",
+    "name": "Vardhan Koshal",
+    "city": "Gurugram, Haryana, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "I love working on products that are enjoyed widely. Right now, building a more intuitive…",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Tortoise",
+        "company_id": "tortoisebenefits"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Prerna Kalra",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Yashwant Lodha",
+            "about": "Co-Founder, PayNearby",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Aseem Sen Gupta",
+            "about": "Co-Founder at Guardian Capital | Zomato | IIM L",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Aarav Bhatia",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Winny Patro",
+            "about": null,
+            "location": "Greater Hyderabad Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Amit Trivedi",
+            "about": "Bharti Airtel",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankit Gera",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dushyant Agarwal",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurav Gandhi",
+            "about": null,
+            "location": "Gurgaon"
+        }
+    ],
+    "educations_details": null,
+    "education": null,
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 22457.0,
+    "connections": 500.0,
+    "current_company_company_id": "tortoisebenefits",
+    "current_company_name": "Tortoise",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Code for India - Financial Literacy game\",\"start_date\":\"May 2014\",\"description\":\"Front end development - Modelling of game data in structured JSON data, HTML templating using Handlebar.js, User interfacing using Twitter bootstrap.js.\"},{},{},{\"title\":\"Sleep Not Ok Please\",\"start_date\":\"Mar 2014\",\"description\":\"This was our winning hack in Linkedin India Hackday. Driver fatigue causes 1000s of deaths every year. The objective of our hack was to prevent these deaths by providing an alert to the driver whenever they doze off.The solution contains the following elements- An Android Application that has access to the Front (Selfie) camera in your phone- When turned-ON the application can either run on the foreground or as a service- The App would randomly capture images of the driver every 10s. - Using OpenCV for Android, we detect the position and state of the eye- If the eye is closed, the app would immediately trigger an alarm - A loud beep sound- The application can also be paired with smart watches (Pebble) to give a buzzing alert to the driver.This application makes sense as many people mount their smartphones in a dock to act as a Navigation assistant.\"},{}]",
+    "organizations": null,
+    "location": "Gurugram",
+    "linkedin_id": "vardhankoshal",
+    "activity": [
+        {
+            "interaction": "Liked by Vardhan Koshal",
+            "link": "",
+            "title": "Having spoken to 100+ SaaS startups that are focused on enterprise segment, I've noticed a clear pattern: the distinction between B2B and B2C…",
+            "img": "",
+            "id": "7272633851569479681"
+        },
+        {
+            "interaction": "Liked by Vardhan Koshal",
+            "link": "",
+            "title": "Here’s the final list of winners of the CRED lifetime cashback giveaway: Dr. Aditi Chourasia Lifetime cashback earned on CRED: ₹5,420 Cashback won:…",
+            "img": "",
+            "id": "7277310577167814658"
+        },
+        {
+            "interaction": "Liked by Vardhan Koshal",
+            "link": "",
+            "title": "Gasping for Air. Sometime in 2014 I took the elevator down a hotel in Beijing to go for a walk. The receptionist brought a N95 Mask. I stepped out…",
+            "img": "",
+            "id": "7276770998773800961"
+        },
+        {
+            "interaction": "Shared by Vardhan Koshal",
+            "link": "",
+            "title": "Known only to the founders themselves or involved investors and close team members, the journey is really tough. The ecosystem opposes any change…",
+            "img": "",
+            "id": "7276879078190657536"
+        },
+        {
+            "interaction": "Shared by Vardhan Koshal",
+            "link": "",
+            "title": "The usual inspiration is often useless but more entertaining because of story value. It focuses on a smooth narrative rather than covering the real…",
+            "img": "",
+            "id": "7275755401042698241"
+        },
+        {
+            "interaction": "Shared by Vardhan Koshal",
+            "link": "",
+            "title": "The only factor that can help weather the otherwise painful and usually fatal storm of building a startup is an invested team of talented people with…",
+            "img": "",
+            "id": "7275391075341451264"
+        },
+        {
+            "interaction": "Liked by Vardhan Koshal",
+            "link": "",
+            "title": "Auth0, while feature-rich, often demands additional customization for enterprise SSO and multi-tenant environments, adding complexity and cost. Scale…",
+            "img": "",
+            "id": "7257626468728365056"
+        }
+    ],
+    "linkedin_num_id": 50606307.0,
+    "honors_and_awards": [
+        {
+            "title": "Winner of LinkedIn \"India Hackday Bangalore 2014\"",
+            "publication": "LinkedIn",
+            "date": "2014-03-01T00:00:00.000Z",
+            "description": "With more than 100,000 crashes and 1550 annual deaths in US caused during driving in fatigued/ lack of sleep conditions. Our team created an Android based application for detection of drowsy eyes of drivers and alerting them to prevent such accidents."
+        },
+        {
+            "title": "The Hottest Global Startup of 2013",
+            "publication": "Forbes",
+            "date": "2013-12-01T00:00:00.000Z",
+            "description": "Quoting Forbes: With the help of expert judges, we have brought together a list of seven international startups that made an impact around the world this year. Meet the new, innovative companies shaking up their sector’s norms. Link Here: "
+        },
+        {
+            "title": "Best B-Plan in India",
+            "publication": "iDream Contest by Reliance Commercial FInance and Fever 104 FM",
+            "date": "2012-10-01T00:00:00.000Z",
+            "description": "Placed 1st in South Zone and 2nd in India for my Business Plan in iDream Business Plan Contest, organized by Reliance Commercial Finance and Fever 104 FM. More than 90,000 applications were received from across India. "
+        },
+        {
+            "title": "Best Start-Up Idea",
+            "publication": "Start-Up Weekend Bangalore",
+            "date": "2012-09-01T00:00:00.000Z",
+            "description": "Placed 3rd in Start-Up Weekend Bangalore, Sep'12 for my idea on optimizing vehicle usage \"Ride In My Car\". More Here: "
+        },
+        {
+            "title": "Top Team, Business Plan Competition",
+            "publication": "IIT Kharagpur",
+            "date": "2007-02-01T00:00:00.000Z",
+            "description": "Part of a three member team. Framed a revival strategy for declining foreign vehicular company which was being taken over by an Indian firm."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

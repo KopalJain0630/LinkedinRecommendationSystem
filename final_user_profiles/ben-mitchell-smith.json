@@ -1,0 +1,87 @@
+{
+    "city": "London, England, United Kingdom",
+    "position": "Commercial Strategy Manager at Barclays",
+    "experience": [
+        {
+            "title": "Barclays",
+            "location": "London, England, United Kingdom",
+            "description_html": null,
+            "duration": "3 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "Barclays",
+                    "meta": "Oct 2023 - Present 1 year 3 months",
+                    "duration": "Oct 2023 - Present 1 year 3 months",
+                    "start_date": "Oct 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 3 months",
+                    "title": "Commercial Strategy Manager - AVP",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Barclays",
+                    "meta": "Aug 2021 - Sep 2023 2 years 2 months",
+                    "duration": "Aug 2021 Sep 2023 2 years 2 months",
+                    "start_date": "Aug 2021",
+                    "end_date": "Sep 2023",
+                    "duration_short": "2 years 2 months",
+                    "title": "Barclays Analyst Graduate Programme",
+                    "description_html": null
+                }
+            ],
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Marketing Intern",
+            "location": "Reading, England, United Kingdom",
+            "description_html": null,
+            "duration": "Jul 2019 Jul 2020 1 year 1 month",
+            "start_date": "Jul 2019",
+            "end_date": "Jul 2020",
+            "duration_short": "1 year 1 month",
+            "company": "HP UK",
+            "company_id": "hp-uk",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "University of Liverpool",
+            "degree": "Bachelor of Arts",
+            "field": "Marketing",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2022Credential ID 09863129-01-SLLPSee credential",
+            "subtitle": "APMG International",
+            "title": "AgilePM® Foundation"
+        },
+        {
+            "meta": "Issued Nov 2022Credential ID 09864407-01-HAHQSee credential",
+            "subtitle": "APMG International",
+            "title": "AgilePM® Practitioner"
+        },
+        {
+            "meta": "Issued Feb 2017",
+            "subtitle": "Driver and Vehicle Licensing Agency (DVLA)",
+            "title": "Full UK Driving Licence"
+        }
+    ],
+    "current_company_name": "Barclays",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

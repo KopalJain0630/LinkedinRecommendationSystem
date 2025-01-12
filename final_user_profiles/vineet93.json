@@ -1,0 +1,82 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Calcutta",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "1997",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2016",
+            "subtitle": "Bloomberg",
+            "title": "Bloomberg Market Concepts (BMC)"
+        },
+        {
+            "subtitle": "Institute and Faculty of Actuaries",
+            "title": "Actuary"
+        },
+        {
+            "subtitle": "Global Association of Risk Professionals (GARP)",
+            "title": "FRM"
+        },
+        {
+            "subtitle": "National Stock Exchange of India Limited",
+            "title": "NSE Certified Market Professional"
+        }
+    ],
+    "current_company_name": "ApnaMart",
+    "publications": "[{\"title\":\"Portfolio Insurance and Leverage based strategies\",\"subtitle\":\"TEST Magazine\",\"date\":\"May 2020\",\"description\":\"Created an advanced CPPI and Structured Note for Indian equity and bond markets. Concluded a significant improvement using 15yrs backtest.\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Corrected Risk Measure\",\"start_date\":\"Aug 2015\",\"description\":\"Formulated a mathematical model for calculating the portfolio risk, with an aim to reduce expected shortfall and value at risk as compared to that of empirical variance method.\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Winner - CARR Challenge IIT Kharagpur",
+            "publication": "Risk Latte",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": "Won 1st prize and an entry to the Global Finals held at New York."
+        },
+        {
+            "title": "Gold Certificate",
+            "publication": "Bloomberg Institute",
+            "date": "2014-11-01T00:00:00.000Z",
+            "description": "Certified for being in the top 5% of all the takers of Bloomberg Aptitude Test"
+        },
+        {
+            "title": "Semi Finalist",
+            "publication": "Dell Social Innovation Challenge",
+            "date": "2013-03-01T00:00:00.000Z",
+            "description": "Ideated a portal for unorganized workers, called Rozgaar Solutions."
+        },
+        {
+            "title": "Honor Board of Trade Mogul",
+            "publication": "Hertshten Group (Futures First)",
+            "date": null,
+            "description": "All time Rank 1 from IIT kharagpur and overall 6th among thousands of participants all over the globe."
+        }
+    ]
+}

@@ -1,0 +1,408 @@
+{
+    "id": "shikhar902",
+    "name": "Shikhar Mishra",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "IIT Kharagpur'23 | Data Scientist",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Info Edge India Ltd",
+        "company_id": "info-edge-india-ltd",
+        "title": "IIT Kharagpur'23 | Data Scientist"
+    },
+    "experience": [
+        {
+            "title": "Data Scientist Intern",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "Worked under Seeker Search (Naukri.com) - Autosuggester Team- Build a realtime dashboard to monitor it's performance and key metrics- Implemented Autosuggester suggesting algorithms and worked on to make it live",
+            "description_html": "Worked under Seeker Search (Naukri.com) - Autosuggester Team- Build a realtime dashboard to monitor it's performance and key metrics- Implemented Autosuggester suggesting algorithms and worked on to make it live <!---->",
+            "duration": "Apr 2022 Jun 2022 3 months",
+            "start_date": "Apr 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "3 months",
+            "company": "Info Edge India Ltd",
+            "company_id": "info-edge-india-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Artificial Intelligence Intern",
+            "location": "Hong Kong SAR",
+            "description": "Developed Hand gestures and facial emotion recognition model for Moodie.AI (World’s smartest AI communication & presentation training platform)",
+            "description_html": "Developed Hand gestures and facial emotion recognition model for Moodie.AI (World’s smartest AI communication &amp; presentation training platform) <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Datality Lab Limited",
+            "company_id": "datalitylab",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "Project Title : Body Landmark Detection Worked on the deep learning optimization techniques popularly known as knowledge distillation to reduce the validation error between the predicted value and the ground truth.",
+            "description_html": "Project Title : Body Landmark Detection Worked on the deep learning optimization techniques popularly known as knowledge distillation to reduce the validation error between the predicted value and the ground truth. <!---->",
+            "duration": "Feb 2021 Jul 2021 6 months",
+            "start_date": "Feb 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "6 months",
+            "company": "University of Nottingham Malaysia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Kharagpur Data Analytics Group (KDAG) is aimed at bringing Data Analytics and Machine Learning enthusiasts together under the umbrella of a single society.",
+            "description_html": "Kharagpur Data Analytics Group (KDAG) is aimed at bringing Data Analytics and Machine Learning enthusiasts together under the umbrella of a single society. <!---->",
+            "duration": "Oct 2020 Jun 2021 9 months",
+            "start_date": "Oct 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "9 months",
+            "company": "Kharagpur Data Analytics Group",
+            "company_id": "kdag",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Python Developer - Machine Learning Intern",
+            "location": "West Bengal, India",
+            "description": "Implemented Speech Emotion Recognition model using and Handwritten digits recognition model using TensorFlow and thus, contributed in the code repository of \"CodeSpeedy - Coding Solution & Software Development\".",
+            "description_html": "Implemented Speech Emotion Recognition model using and Handwritten digits recognition model using TensorFlow and thus, contributed in the code repository of \"CodeSpeedy - Coding Solution &amp; Software Development\". <!---->",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "CodeSpeedy Technology Private Limited",
+            "company_id": "codespeedy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Scour Depth Prediction - Research Project",
+            "description": "• Explored around 200+ research papers to fetch over 3000 data points for Scour depth cases of steady currents and waves• Extracted significant features out of all given features using Pearson corr. matrix, chi-squared methods and feature_importance tool of XGBoost    Regressor• Employed regression models such as Gradient Boost, XGBoost, RF and LightGBM followed by ensemble method of Voting Regressor• Developed a public-use website using flask which enables an user to input the significant features consecutively estimating the scour depth as an output",
+            "description_html": "• Explored around 200+ research papers to fetch over 3000 data points for Scour depth cases of steady currents and waves• Extracted significant features out of all given features using Pearson corr. matrix, chi-squared methods and feature_importance tool of XGBoost  Regressor• Employed regression models such as Gradient Boost, XGBoost, RF and LightGBM followed by ensemble method of Voting Regressor• Developed a public-use website using flask which enables an user to input the significant features consecutively estimating the scour depth as an output",
+            "duration": "Feb 2020 Jul 2020 6 months",
+            "start_date": "Feb 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "6 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analytics Intern",
+            "location": "New Delhi, Delhi, India",
+            "description": "- Explored the ETL of Ab-initio(a big data analytics), covered concepts includes GDE, EME, Data Profiler, Component Library, data warehousing & OLTP. - Analyzed the tools of Qlik view & performed data analysis on a movie database including number of movies acted, movies over time, total durations, etc",
+            "description_html": "- Explored the ETL of Ab-initio(a big data analytics), covered concepts includes GDE, EME, Data Profiler, Component Library, data warehousing &amp; OLTP. - Analyzed the tools of Qlik view &amp; performed data analysis on a movie database including number of movies acted, movies over time, total durations, etc <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Bharti Airtel",
+            "company_id": "airtel",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision Winter Workshop",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Introduced to various filters, edge detection ,object detection and path planning algorithms using suitable data structures.",
+            "description_html": "Introduced to various filters, edge detection ,object detection and path planning algorithms using suitable data structures. <!---->",
+            "duration": "Dec 2019 Dec 2019 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "1 month",
+            "company": "Technology Robotix",
+            "company_id": "technology-robotix-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sai Lokesh",
+            "about": "Software Engineer @ PayU | BTech in Computer science with Big Data Analytics",
+            "location": "Andhra Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Eshwar Nukala",
+            "about": "sde @Google | previous Microsoft, IIT Guwahati.",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Kinjal Parikh",
+            "about": "Summer Intern at Walmart Labs",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Manav Nitin Kapadnis",
+            "about": "MS NLP (MIIS) @ CMU LTI | Institute Order of Merit | Publications @ TMLR, NAACL 2024, EMNLP 2024 2023, AAAI 2022 | CoML @ Inria, Paris | SONY Research | EECS @ IIT KGP",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Kumar",
+            "about": null,
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Yash Agrawal",
+            "about": "SDE @ Bidgely | AI4Schools | IIT Kharagpur '23",
+            "location": "Sundargarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Mansi Uniyal",
+            "about": "Research Fellow@Microsoft Research | IITKGP",
+            "location": "Ghaziabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Debajit Chakraborty",
+            "about": null,
+            "location": "Austin, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranay Nama",
+            "about": "Cloud Strategy at Deloitte USI",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ram Bub",
+            "about": "Newfold Digital | ICICI Bank | IIT Bombay 21",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Keerat Kaur Guliani",
+            "about": null,
+            "location": "Canada"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinav Roy",
+            "about": "Ryan Fellow, PhD student | Materials Science and Engineering | Northwestern University",
+            "location": "Evanston, IL"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhilekh Sharma",
+            "about": "SAP Analytics Cloud | Technical Lead, HCL Tech | IIT Bombay",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepanshu Dashora",
+            "about": "Senior Machine Learning Engineer @ Rapid Acceleration Partners | Deep Learning | Computer Vision | Natural Language Processing | LangChain | LLMs",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Duhita Wani",
+            "about": "Building CareDale | IIT Kharagpur '23",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohan Shah",
+            "about": "MS in Machine Learning @ CMU | CSE IITB '22",
+            "location": "Pittsburgh, PA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashutosh Kar",
+            "about": "Associate Software Engineer @ Highradius | Full Stack Development | Java | Js | Python | C | C++",
+            "location": "Odisha, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sourya Roy",
+            "about": "SWE @ UiPath || ACM ICPC Regionalist 2020 || ECE, IIT Kharagpur.",
+            "location": "Budge Budge-I"
+        },
+        {
+            "profile_link": "",
+            "name": "Pankaj Singh",
+            "about": "Innovating with Conscience to Empower and Elevate",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "ABHISHEK SINGH RATHORE",
+            "about": null,
+            "location": "Roorkee"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree(B.tech + M.tech)",
+            "field": "8.23/10",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "- Micro specialization in Artificial Intelligence and Applications ~RK Hall Of Residence ~",
+            "description_html": "- Micro specialization in Artificial Intelligence and Applications ~RK Hall Of Residence ~ <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020Credential ID 7N8PNCZZURQNSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID UC-1c4d0753-3d9b-4087-b0e2-9d7452d70d6bSee credential",
+            "subtitle": "Udemy",
+            "title": "Data Structures and Algorithms!"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID UC-135b5e8c-7fed-43ea-a6da-b56adbfad826See credential",
+            "subtitle": "Udemy",
+            "title": "Deep Learning A-Z™: Hands-On Artificial Neural Networks!"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Disaster and Humanitarian Relief",
+            "duration": "Jul 2018 - Apr 2020 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2020",
+            "start_date": "Jul 2018",
+            "subtitle": "NATIONAL CADET CORPS - India",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 950.0,
+    "connections": 500.0,
+    "current_company_company_id": "info-edge-india-ltd",
+    "current_company_name": "Info Edge India Ltd",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "shikhar902",
+    "activity": [
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "Happy to witness in yesterday's the sharing session in #LTE_Expo_2024 featuring the Principal and English Panel Teacher from HKSKH Bishop Hall…",
+            "img": "",
+            "id": "7272780529647673345"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "RIP to Dr. Singh, the legend who gave those of us born after 1991 a liberalized India India's GDP has grown 10x since you helped save the country…",
+            "img": "",
+            "id": "7278278370675617792"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "जो नेता नारे नहीं, बल्कि समाधान देते हैं, वही सच्चे नेता होते हैं। डॉ. मनमोहन सिंह जी ने देश को धर्म और जाति में बांटने के बजाय उसके उत्थान के लिए…",
+            "img": "",
+            "id": "7278299340081684483"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "Pain will never leave you. Sadness will never leave you. Difficulties will never leave you. The only thing that might leave you… are your harsh…",
+            "img": "",
+            "id": "7275102538197073921"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "Nutrition as a Career: What to Know 🥗💼 We spoke with a nutritionist who shared insights on the qualifications required and the earning potential…",
+            "img": "",
+            "id": "7276567166341058560"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "The internet as we know it will be dead, as it becomes a dumpster of AI content. Look at all the posts, comments, images, videos, podcasts, and…",
+            "img": "",
+            "id": "7277677791662297088"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "It was great to speak to Chandra R. Srikanth at #GreenBharat2024 yesterday. Some thoughts on work life balance 🙂😉 The youth don’t count hours…",
+            "img": "",
+            "id": "7273627565632729088"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "At just 17, he built an Agriculture Robot to ease farmers' challenges! Meet Utkarsh Sen from Madhya Pradesh, who is carving a unique niche in the…",
+            "img": "",
+            "id": "7274427089863200769"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "You can literally get paid to fight the climate crisis. Right now, the sustainability industry is desperate for skilled people. The demand for…",
+            "img": "",
+            "id": "7275005570909093889"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "India’s health movement is going global! The packaged food crisis is not just an Indian issue, it’s a global issue. In April 2023, I made a…",
+            "img": "",
+            "id": "7268903631108616192"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "Life Is Beautiful ❤️ Life has many sides. It’s not just happy or sad. It’s full of different moments that shape us. Some days are easy. Things go…",
+            "img": "",
+            "id": "7270376406394564609"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "#1 on Spotify because of the BeerBiceps Media World Private Limited community 👑 Thank you for all the love & support. Onto bigger championship…",
+            "img": "",
+            "id": "7271093624094752768"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "Brought back some fond memories from #Fuzhou_City of #Fujian_Province this week, after returning from its 'Second Chinese Overseas Talent Conference…",
+            "img": "",
+            "id": "7275912453870252032"
+        },
+        {
+            "interaction": "Liked by Shikhar Mishra",
+            "link": "",
+            "title": "As a long-time YouTube Premium member, I recently updated the YouTube app on my Android device and noticed a few changes that have been quite…",
+            "img": "",
+            "id": "7274044834540077057"
+        }
+    ],
+    "linkedin_num_id": 676559320.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

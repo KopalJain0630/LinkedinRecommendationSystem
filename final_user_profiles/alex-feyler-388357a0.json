@@ -1,0 +1,51 @@
+{
+    "city": "United Kingdom",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Imperial College Business School",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2022",
+            "subtitle": "General Assembly",
+            "title": "Product management "
+        },
+        {
+            "meta": "Issued May 2021",
+            "subtitle": "LEANSTACK",
+            "title": "Lean Stack Coach (Ash Maurya)"
+        },
+        {
+            "meta": "Issued Feb 2021",
+            "subtitle": "IDEO U",
+            "title": "IDEO: Ideas to Action"
+        },
+        {
+            "meta": "Issued Sep 2020",
+            "subtitle": "IDEO U",
+            "title": "IDEO: Designing a business"
+        }
+    ],
+    "current_company_name": "Angel Invest",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,61 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Bain & Company",
+    "publications": "[{\"title\":\"FRET-Based Probe for High-Throughput DNA Intercalator Drug Discovery and In Vivo Imaging\",\"subtitle\":\"ACS Sensors\",\"date\":\"May 23, 2021\"},{\"title\":\"The future of healthcare has arrived: how Middle East healthcare players can respond\",\"subtitle\":\"Strategy&\",\"date\":\"April 6, 2021\"},{\"title\":\"Machine learning based classification of cells into chronological stages using single-cell transcriptomics\",\"subtitle\":\"Nature Scientific Reports\",\"date\":\"November 21, 2018\"},{\"title\":\"Label-free detection of microvesicles and proteins by the bundling of gliding microtubules\",\"subtitle\":\"ACS NanoLetters\",\"date\":\"Dec 2017\"},{\"title\":\"Tetrazine-trans-cyclooctene-mediated conjugation of antibodies to microtubules facilitates sub-picomolar protein detection\",\"subtitle\":\"ACS Bioconjugate Chemistry\",\"date\":\"Mar 2017\"},{\"title\":\"Kinesin-1 expressed in insect cells improves microtubule in vitro gliding performance, long-term stability and guiding efficiency in nanostructures\",\"subtitle\":\"IEEE Transactions on Nanobioscience\",\"date\":\"Jan 2016\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Dresden International PhD Fellowship",
+            "publication": "-",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "Awarded to outstanding PhD students based on performance evaluation at the end of 1st year. Includes salary and an independent yearly budget of 10,000 Euros."
+        },
+        {
+            "title": "Khorana Scholar (Indo-US Scientific Program)",
+            "publication": "Govt. of India, Indo-US Science and Technology Exchange Forum, Univ. of Wisconsin-Madison",
+            "date": "2012-05-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Indian Academy of Sciences - Summer Research Fellowship",
+            "publication": "Indian Academy of Sciences",
+            "date": "2011-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "National Fellowship (KVPY)",
+            "publication": "Dept. of Science and Technology, Govt. of India",
+            "date": "2010-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "INSPIRE Fellowship",
+            "publication": "Dept. of Science and Technology, Govt. of India",
+            "date": "2009-01-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

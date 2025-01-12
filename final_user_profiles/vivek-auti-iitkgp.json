@@ -1,0 +1,300 @@
+{
+    "id": "vivek-auti-iitkgp",
+    "name": "Vivek Auti",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "American Express | IIMB'24 | IIT KGP'22",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "American Express",
+        "company_id": "american-express",
+        "title": "American Express | IIMB'24 | IIT KGP'22"
+    },
+    "experience": [
+        {
+            "title": "Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "May 2024 - Present 8 months",
+            "start_date": "May 2024",
+            "end_date": "Present",
+            "duration_short": "8 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Head of Sponsorship",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jan 2023 Mar 2024 1 year 3 months",
+            "start_date": "Jan 2023",
+            "end_date": "Mar 2024",
+            "duration_short": "1 year 3 months",
+            "company": "IIM Bangalore's Vista",
+            "company_id": "iimbvista",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Apr 2023 May 2023 2 months",
+            "start_date": "Apr 2023",
+            "end_date": "May 2023",
+            "duration_short": "2 months",
+            "company": "American Express",
+            "company_id": "american-express",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Analyst",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Unbxd Inc",
+            "company_id": "unbxd-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "General Secretary, Social and Cultural",
+            "description_html": null,
+            "duration": "Jan 2021 May 2021 5 months",
+            "start_date": "Jan 2021",
+            "end_date": "May 2021",
+            "duration_short": "5 months",
+            "company": "MMM Hall of Residence, IIT Kharagpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "upGrad",
+            "company_id": "ueducation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter School",
+            "description_html": null,
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Management Ahmedabad",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shivam Shrivastava",
+            "about": "Microsoft | Data and Applied Scientist | 2x Expert Kaggle | Expert Codeforces | 5 star Codechef | IIT KGP",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bharat Chaudhary",
+            "about": "Software Engineer @ Wells Fargo| IIT Kharagpur'22 | FarEye | Persistent Systems",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rebekah Abigail Awungshi",
+            "about": "Editorial Coordinator at Carnegie India",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Bhatnagar",
+            "about": "Correspondent at NDTV Profit",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Misbah Khan",
+            "about": "Media Professional | Strategic Communication | Lifestyle Content Creator | Passionate About Social Change",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajesh saini",
+            "about": "Journalist",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Himadri Saha",
+            "about": "PhD student @ UzK | Astronomical Instrumentation | ECE, IIT KGP '23",
+            "location": "Cologne"
+        },
+        {
+            "profile_link": "",
+            "name": "Sakshi Sharma",
+            "about": "Building Marketing Mind",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Yatharth Sikka",
+            "about": "Journalist @ Organiser, PhD (Research Scholar)",
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Mona Dixit",
+            "about": null,
+            "location": "New Delhi"
+        }
+    ],
+    "educations_details": "Indian Institute of Management Bangalore",
+    "education": [
+        {
+            "title": "Indian Institute of Management Bangalore",
+            "degree": "PGPBA",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "KEDGE Business School",
+            "degree": "Master of Business Administration - MBA",
+            "field": "Student Exchange- France",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya Vidyalaya",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2427.0,
+    "connections": 500.0,
+    "current_company_company_id": "american-express",
+    "current_company_name": "American Express",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": [
+        {
+            "title": "Awaaz, IIT Kharagpur",
+            "membership_type": "Senior Reporter",
+            "start_date": "Aug 2018",
+            "end_date": "Present",
+            "membership_number": null
+        }
+    ],
+    "location": "Pune",
+    "linkedin_id": "vivek-auti-iitkgp",
+    "activity": [
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "Happy to share that I have been nominated by my colleagues to be on the Board of Governors of Indian Institute of Management Bangalore. It is an\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7267557933196943360"
+        },
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "Don\u00e2\u20ac\u2122t miss out on the amazing moments from IIMCom's Delhi and Mumbai meet, where nearly 150 alumni came together for an unforgettable\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7262320819840634880"
+        },
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "Have been following the Ernst and Young case for two days. That nobody from EY attended Anna\u00e2\u20ac\u2122s funeral hits hard, given the dedication she showed to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7242339457973026816"
+        },
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "I'm thrilled to announce that I've begun my exchange semester at KEDGE Business School. Excited to embrace a multicultural learning experience!",
+            "img": "",
+            "id": "7241841106697539584"
+        },
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "I am elated to share that i will be working at Fast Retailing- CEO Office, Tokyo starting this month. My sincere gratitude to the entire Uniqlo and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7237109672384561152"
+        },
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "Hey everyone! Happy to share that I've become an Expert on Kaggle :) Had joined this platform 5 years back but never was consistent at it. My\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7230472366085038080"
+        },
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "Hey Folks! I took part in a Codeforces Round after a long time! It was super fun. The round was a div 4 contest. I was able to solve all the problems\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7226639065952006144"
+        },
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "\u00f0\u0178\u0152\u0178 Join us at Vista 2024 as we welcome the versatile Ms. Sahiba Bali, an actor, marketeer, and creator! \u00f0\u0178\u0161\u20ac On August 10th, dive into \"Redefining &\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7226242411851636738"
+        },
+        {
+            "interaction": "Liked by Vivek Auti",
+            "link": "",
+            "title": "We are pleased to share that Prof. Trilochan Sastry from the Decision Sciences area, will be felicitated by the Bangalore Chamber of Industry and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7216001864453005312"
+        }
+    ],
+    "linkedin_num_id": 690517423.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

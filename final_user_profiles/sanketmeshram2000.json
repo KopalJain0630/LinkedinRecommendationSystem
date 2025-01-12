@@ -1,0 +1,36 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithm -I \"},{\"subtitle\":\"-\",\"title\":\"Algorithm -II\"},{\"subtitle\":\"-\",\"title\":\"Algorithmic Game Theory\"},{\"subtitle\":\"-\",\"title\":\"Combinatorics and Computing \"},{\"subtitle\":\"-\",\"title\":\"Compilers\"},{\"subtitle\":\"-\",\"title\":\"Computer Organization Architecture\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Formal Language Automata Theory\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "ICPC - International Collegiate Programming Contest",
+            "title": "ICPC ID"
+        }
+    ],
+    "current_company_name": "Pace Stock Broking Services Pvt. Ltd.",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Distributed Online Store\",\"start_date\":\"Jan 2021\",\"end_date\":\"Apr 2021\",\"description\":\"• Developed an Online store with decentralized database, following Sequential Consistency and active replication.• Implemented atomic multicast to achieve Sequential Consistency, where requests are sent to database server in round robin fashion.• Hosted 7 nodes (5 backend database server and 2 web server) on multiple AWS ec2 instances to achieve fault-tolerance in demo.\"},{\"title\":\"Networks\",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\",\"description\":\"• Implemented a server where multiple clients can request for same or different services and the server serves them concurrently.• Implemented a simple proxy server over TCP and a simple HTTP Proxy Server.• Built support for reliable communication over an unreliable link where the unreliable link is implemented with a UDP socket.\"},{\"title\":\"Operating Systems\",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\",\"description\":\"• Implemented a rudimentary shell running on Linux, multiple producer-consumer system using shared memory and a virtual round-robin CPU scheduler using threads.• Modified PintOS to run user programs with arguments and system calls.\"},{\"title\":\"KGP RISC\",\"start_date\":\"Sep 2019\",\"end_date\":\"Nov 2019\",\"description\":\"• Designed a 32-bit 5 stage pipelined CPU with MIPS-based ISA on verilog and configured on FPGA for hardware implementation.\"},{\"title\":\"TinyC Compiler\",\"start_date\":\"Aug 2019\",\"end_date\":\"Nov 2019\",\"description\":\"• Developed an assembly-code generating compiler for TinyC, a stripped-down version of the C language.• Implemented a lexical analyser using flex, a semantic parser & TAC generator using bison and created an x86 assembly code generator.\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "ICPC 2019",
+            "publication": "Baylor ICPC",
+            "date": "2019-12-01T00:00:00.000Z",
+            "description": "• Qualified for Kharagpur and Amritapuri regionals with Rank 59th among 4500 Indian teams. • Finished 33rd in Amritapuri regionals out of 350 Teams. Received Honorable Mention. • Finished 61st in regionals out of 121 Teams."
+        }
+    ]
+}

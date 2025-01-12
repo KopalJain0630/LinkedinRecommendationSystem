@@ -1,0 +1,43 @@
+{
+    "city": "San Francisco, California, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Madras",
+            "url": "",
+            "start_year": "2009",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2024-09",
+            "end_year": "2024-12",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Dexponent",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Power Line Communication for Home Automation\",\"start_date\":\"Jul 2012\",\"end_date\":\"Apr 2013\",\"description\":\"Using the network of electrical power lines in a building to send carrier signals and optimize the electrical consumption of the building\"},{},{\"title\":\"IITMSAT\",\"start_date\":\"May 2010\",\"end_date\":\"Jul 2012\",\"description\":\"The project’s scientific goal is to study the energy spectrum of charged particles in the upper ionosphere and understand the effects of solar storms, lightning storms and seismic activity\"}]",
+    "honors_and_awards": [
+        {
+            "title": "National Chemistry Olympiad Merit",
+            "publication": "National Standard Examination in Chemistry",
+            "date": "2008-12-01T00:00:00.000Z",
+            "description": " Top 1% National Chemistry Olympiad Merit List"
+        },
+        {
+            "title": "National Physics Olympiad Merit",
+            "publication": "National Standard Examination in Physics",
+            "date": "2008-12-01T00:00:00.000Z",
+            "description": " Top 1% National Merit List"
+        }
+    ]
+}

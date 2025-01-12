@@ -1,0 +1,30 @@
+{
+    "city": "India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Ahmedabad",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Flexiple",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Pattern Recognition\",\"start_date\":\"Aug 2011\",\"end_date\":\"Dec 2011\",\"description\":\"Creating an efficient MATLAB code to be converted to an assembly language code, to extract the serial number from a currency note.\"},{\"title\":\"ECG Filter\",\"start_date\":\"Jan 2011\",\"end_date\":\"May 2011\",\"description\":\"Design implementation of a band stop filter to be used for ECGs, developed on a DSP Kit using Code Composer Studio.\"},{\"title\":\"Microprocessor-based Electric Oven Control\",\"start_date\":\"Jan 2010\",\"end_date\":\"May 2010\",\"description\":\"Implemented a microprocessor based code and interface design for the functioning of an electric oven.\"},{\"title\":\"Photo Pad\",\"start_date\":\"Feb 2010\",\"end_date\":\"Mar 2010\",\"description\":\"A low-cost LED-based apparatus which traces the movement on a board, and displays it on a screen.\"}]",
+    "honors_and_awards": null
+}

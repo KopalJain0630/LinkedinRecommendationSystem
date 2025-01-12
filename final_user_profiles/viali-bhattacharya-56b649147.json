@@ -1,0 +1,72 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "Senior Associate (Tech Lead)",
+    "experience": [
+        {
+            "title": "Senior Associate",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Oct 2021 - Present 3 years 3 months",
+            "start_date": "Oct 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 3 months",
+            "company": "Cognizant",
+            "company_id": "cognizant",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "description_html": null,
+            "duration": "Jul 2016 Sep 2021 5 years 3 months",
+            "start_date": "Jul 2016",
+            "end_date": "Sep 2021",
+            "duration_short": "5 years 3 months",
+            "company": "TCG Digital",
+            "company_id": "tcgdigital",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Adamas University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "computer science and engineering",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2024Credential ID 4962474",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified Marketing Cloud Administrator "
+        },
+        {
+            "meta": "Issued Nov 2023Credential ID 3843123",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified Data cloud consultant "
+        },
+        {
+            "meta": "Issued Mar 2023Credential ID 3077207",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified Platform Developer I"
+        },
+        {
+            "meta": "Issued Nov 2015",
+            "subtitle": "Oil and Natural Gas Corporation Limited (ONGC)",
+            "title": "Seismic Data Conversion in Java J2EE "
+        }
+    ],
+    "current_company_name": "Cognizant",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

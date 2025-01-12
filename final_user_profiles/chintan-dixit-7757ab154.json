@@ -1,0 +1,31 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": null,
+    "courses": "[{\"subtitle\":\"EE 725\",\"title\":\"Computational Electromagnetics\"},{\"subtitle\":\"EE 655 (Sit through)\",\"title\":\"Computer Aided Power System Analysis\"},{\"subtitle\":\"EE 651 (Sit Through)\",\"title\":\"Digital Protection of Power System\"},{\"subtitle\":\"EE 657 (Sit through)\",\"title\":\"Electric Drives\"},{\"subtitle\":\"-\",\"title\":\"Electrical Machine Modelling & Analysis\"},{\"subtitle\":\"EE 686 (Sit through)\",\"title\":\"HVDC\"},{\"subtitle\":\"EE 653\",\"title\":\"Power Electronics- I\"},{\"subtitle\":\"-\",\"title\":\"Power System Dynamics & Control\"},{\"subtitle\":\"-\",\"title\":\"Power System Restructuring\"},{\"subtitle\":\"EE 747 (Sit through)\",\"title\":\"Power System Transients\"},{\"subtitle\":\"EE 687\",\"title\":\"Switchgear Principles\"},{\"subtitle\":\"EE 350 (Sit Through)\",\"title\":\"Technical Communication\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Feb 2021Credential ID ecell2021",
+            "subtitle": "E-Cell, IIT Bombay",
+            "title": "E-SUMMIT' 21, E-Cell IIT Bombay"
+        },
+        {
+            "meta": "Issued Jan 2021Credential ID ecell2021",
+            "subtitle": "E-Cell IIT Bombay",
+            "title": "EnPro Workshop"
+        }
+    ],
+    "current_company_name": null,
+    "publications": "[{\"title\":\"Field Investigation for Application of Existing FDS Based Moisture Diagnostic Tools for Power Transformer Insulation System\",\"subtitle\":\"Conference on Intelligent Computing and Control System ( ICICCS 2019)\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Circuit Simulation of Ferrite Materials\",\"start_date\":\"May 2022\",\"end_date\":\"Oct 2022\",\"description\":\"• Literature survey on core loss modelling using circuit simulation of ferrite core• Frequency response of basic circuit parameters like R, L, C, R-L series, R-C series, R-L-C series have been studied• The frequency response of ferrite cores for different grades and geometries have been studied using three case studies• A laboratory-based experimental setup has been developed for the measurement of the circuit parameters for differentgrades of ferrite cores CF199 / T4016, CF199 / T5020, CF197 / T5020• A laboratory-based experimental setup has been developed for the measurement of B-H loop at 10 kHz.Future scope:◦ Complex permeability based circuit modeling can be explored, which helps to estimate power losses at differentfrequencies◦ The core loss values obtained using this method can be further used for analyzing the behavior of ferrites\"},{\"title\":\"Recruitment for Secretariat for Societal Solutions\",\"start_date\":\"Nov 2021\",\"end_date\":\"Apr 2022\",\"description\":\"Recruitment for Secretariat for Societal Solutions[Guide: Prof. Bakul Rao, Dept of CTARA, IIT Bombay, Project: PRAYOG]1. Developed a data pipelines and automating the ETL Process for scraping the periodic government data2. Developed a scraping code using Python, and created RAW data repository for PRAYOG [Python Libraries: Selenium Web driver, Numpy, Pandas]3. Data visualization and Dashboard creation using Apache Superset for PRAYOG4. Collaborating with teams cross-functionally in various parts of PRAYOG\"},{\"title\":\"Transformer Health Assessment Tracker\",\"start_date\":\"Jan 2020\",\"end_date\":\"Mar 2021\",\"description\":\"Development of software to determine the health index of a power transformers based of available test data1. This project is guided by Prof. S. V. Kulkarni, Dept of EE, IIT Bombay2. This is a consultancy project of Prof. S. V. Kulkarni for Adani Electricity Mumbai Limited (AEML)3. Developed a logic to determine health index based on available test data (Dissolved gas analysis, Oil quality parameters, Furan content) for power transformers4. Developed a GUI (Software) using PyQt5 and Python with functionalities of generating a report, export and import test data, health index trend plot (Python Libraries : PyQt5, Numpy, Matplotlib, Pickle, Python-dox)5. Testing / Verification of a developed algorithm and software on few additional transformers6. Suggest an overall future plan for scale-up with an additional features\"},{},{\"title\":\"Calculation of dielectric losses in lossy capacitor using FEMM (EE725: Major Project)\",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\"},{},{\"title\":\"Conversion of Coordinate Systems (EE725: Minor Project)\",\"start_date\":\"Jan 2020\",\"end_date\":\"Apr 2020\"},{},{\"title\":\"Transformer Insulation Diagnostics through Dielectric Frequency Response Method (ME Thesis)\",\"start_date\":\"Jul 2018\",\"end_date\":\"Jun 2019\",\"description\":\"Worked with Gujarat Energy Transmission Corporation Limited (GETCO) on various condition monitoring and advanced diagnostic techniques of a power transformersThe work involves the systematic studies of dielectric frequency response of transformer insulation.The parameters such as a insulation geometry, moisture content, ageing will be focused and models related to this parameters will be explored with field investigation of application of existing FDS based moisture diagnostics tool for power transformer insulation systems.\"},{},{\"title\":\"Sweep Frequency Response Analysis (SFRA)- ME (Seminar)\",\"start_date\":\"May 2018\",\"end_date\":\"Nov 2018\",\"description\":\"1. Reviewed literatures on techniques to access health of power transformers2. Reviewed literatures on Sweep Frequency response analysis for power transformers3. Different test configurations, FRA plots were studied.4. On field testing of SFRA for power transformers with Gujrat Energy Transmission Corporation Limited (GETCO) were conducted.\"},{},{\"title\":\"Controlled Switching of transmission lines\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Gold Medal",
+            "publication": "Investment & Precision Casting Ltd.",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "A gold medal has been awarded for the top rank in post graduate studies in electrical engineering at SSEC, Bhavnagar. A certificate for the best M.E. student has also been awarded during the same tenure"
+        }
+    ]
+}

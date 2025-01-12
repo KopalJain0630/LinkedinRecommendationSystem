@@ -1,0 +1,328 @@
+{
+    "id": "rohitahirrao",
+    "name": "Rohit Ahirrao",
+    "city": "Pune, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Embedded Software Engineer @ SEDEMAC | \nEE @ IIT KGP | \nCinephile | I Trek infrequently, play Table Tennis frequently",
+    "about": "Skilling up intensively with the aspiration of building something impactful one day.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "SEDEMAC",
+        "company_id": "sedemac-mechatronics",
+        "title": "Embedded Software Engineer @ SEDEMAC | \nEE @ IIT KGP | \nCinephile | I Trek infrequently, play Table Tennis frequently"
+    },
+    "experience": [
+        {
+            "title": "Embedded Software Engineer",
+            "location": "Pune, Maharashtra, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "SEDEMAC",
+            "company_id": "sedemac-mechatronics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Master Thesis",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Project Title: Development of Embedded Software Architecture for a Battery Management Systemused in Hybrid Electric VehiclesUnder the guidance of Prof. Siddhartha Mukhopadhyay, HoD, EE, IIT Kharagpur",
+            "description_html": "Project Title: Development of Embedded Software Architecture for a Battery Management Systemused in Hybrid Electric VehiclesUnder the guidance of Prof. Siddhartha Mukhopadhyay, HoD, EE, IIT Kharagpur <!---->",
+            "duration": "Aug 2022 Jul 2023 1 year",
+            "start_date": "Aug 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "1 year",
+            "company": "Department of Electrical Engineering, IIT Kharagpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Governor",
+            "description": "One of the best things I did in college :)",
+            "description_html": "One of the best things I did in college :) <!---->",
+            "duration": "Aug 2020 Aug 2021 1 year 1 month",
+            "start_date": "Aug 2020",
+            "end_date": "Aug 2021",
+            "duration_short": "1 year 1 month",
+            "company": "Technology Filmmaking and Photography Society, IIT Kharagpur",
+            "company_id": "technology-filmmaking-and-photography-society",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "GreedyGame",
+            "company_id": "greedygame-media",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "description_html": null,
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "OMI",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "description_html": null,
+            "duration": "Aug 2019 Aug 2020 1 year 1 month",
+            "start_date": "Aug 2019",
+            "end_date": "Aug 2020",
+            "duration_short": "1 year 1 month",
+            "company": "International Relations Cell, IIT Kharagpur",
+            "company_id": "international-relations-cell-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Apoorva Vashisth",
+            "about": "Robotics and RL PhD Student @ Purdue University, WL",
+            "location": "West Lafayette, IN"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubhra Mishra",
+            "about": "Reinventing Quality Inspections with AI | ex - P&G, Facebook (Meta)",
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sankalp Srivastava",
+            "about": "Software Engineer at Microsoft | IIT Kharagpur '22",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Singh",
+            "about": "Economics | Booth School of Business, The University of Chicago | IIT Kharagpur'23",
+            "location": "Chicago, IL"
+        },
+        {
+            "profile_link": "",
+            "name": "Suman Kumari",
+            "about": "PE/VC ~ Zephyr Peacock | IIT KGP",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishita Lade",
+            "about": "Fractal Analytics | IIT Kharagpur",
+            "location": "Nagpur"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabh Srivastava",
+            "about": "McKinsey & Co. | BCG | IIMC'24 | IITKGP'22",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Md Areeb Hussain",
+            "about": "Software Engineering MTS @Salesforce | IIT Kharagpur",
+            "location": "Ranchi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sudhir Singh Bhadauria",
+            "about": "Data Science Analyst at Accenture",
+            "location": "Midnapore Sadar"
+        },
+        {
+            "profile_link": "",
+            "name": "Arjav Rastogi",
+            "about": "IIT KGP 2023",
+            "location": "Meerut"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B. Tech + M. Tech)",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Writing, Filmmaking, Table Tennis, International Relations, Case Studies",
+            "description_html": "Activities and Societies: Writing, Filmmaking, Table Tennis, International Relations, Case Studies",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "subtitle": "HelloPM",
+            "title": "Product Management"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1460.0,
+    "connections": 500.0,
+    "current_company_company_id": "sedemac-mechatronics",
+    "current_company_name": "SEDEMAC",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Pune",
+    "linkedin_id": "rohitahirrao",
+    "activity": [
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "Attention all industry contacts! Greetings from the Department of Electrical Engineering, IIT Kharagpur! The campus placement season is in full swing…",
+            "img": "",
+            "id": "7272229985967329280"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "India’s next big export may not be in SaaS or consumer tech, but 2,000 Cr quiet deeptech SEDEMAC SD’s founder returned from the US to teach in…",
+            "img": "",
+            "id": "7271427518908309504"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "What Ellie said! Honored to be on with the best -- Ellie Artone & Vidyut Ghuwalewala and grateful for our team, clients & creators for trusting us at…",
+            "img": "",
+            "id": "7270789506692251650"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "✨ Exciting News! ✨ Thrilled to join the FedEx Center of Advanced Logistics and Focused Analytics in Mumbai (IIT Bombay-FedEx ALFA), collaborating…",
+            "img": "",
+            "id": "7267143533730385920"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐭𝐡𝐞 𝐌𝐚𝐬𝐭𝐞𝐫𝐬 𝐢𝐧 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐟𝐫𝐨𝐦 Dartmouth College Today is a day of immense pride…",
+            "img": "",
+            "id": "7265363391014146049"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "Episode #39: Machine Learning and Robotics with Rutav Shah, PhD Student at UT Austin: In this episode, I sit down with ⁠Rutav Shah⁠, a first-year…",
+            "img": "",
+            "id": "39"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "Hey everyone! Reflolabs is hiring Founding Engineers and Interns (Fullstack, AI)! We’re on a mission to transform global supply chains by…",
+            "img": "",
+            "id": "7263131441155190784"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "> INR 50cr TTM (trailing twelve months) PBT (profit before tax) is a good measure it seems of \"sustainable profitability\". Data shared in the Govt…",
+            "img": "",
+            "id": "7262034038071173121"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "Glad to share the we are now in the cohort of the top 4000 companies in India by PBT, out of approximately a million companies (that's 0.4%) with INR…",
+            "img": "",
+            "id": "7262027790567305216"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "Missing home this Diwali? Same here. 🎆💔 But then I got a sweet surprise with my morning chai from Swish! Just when I thought my day couldn’t get…",
+            "img": "",
+            "id": "7257376005118427137"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "And we are trending #1!!!!",
+            "img": "",
+            "id": "1"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "You know what really gets me excited? Watching entrepreneurs figure things out when times are tough. It's wild seeing someone keep their cool when…",
+            "img": "",
+            "id": "7255477021873446913"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "Eight years ago, I traded the safety of an IIT degree for the vibrant chaos of Mumbai’s film industry, and today I've never been surer of my decision…",
+            "img": "",
+            "id": "7255446163875639297"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "“How does it feel to ship your first product?” Short answer: 🤩🥳🥹🥵😌🤕 Shipping the first product feels like a mix of pride, relief, and…",
+            "img": "",
+            "id": "7251204555281944577"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "Shared our experience on \"Building Successful Protos\" at Tata Management Training Centre (TMTC Pune). This session was part of the Immersion Program…",
+            "img": "",
+            "id": "7249806044116226048"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "SEDEMAC celebrates crossing 6 million vehicles equipped with our cutting-edge sensorless ISG & EFI ECUs, a testament to our leadership in advanced…",
+            "img": "",
+            "id": "7243854132250333185"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "Teamed up with Krushnasis Pradhan to submit our first ASIC as part of Tiny Tapeout 8. Tiny Tapeout is an educational project that aims to make it…",
+            "img": "",
+            "id": "7240973182180962304"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "We got featured in Outlook Traveller! Our first of dares into making a feature length documentary has not stopped rewarding us even after 8 years.…",
+            "img": "",
+            "id": "7228984872520843264"
+        },
+        {
+            "interaction": "Liked by Rohit Ahirrao",
+            "link": "",
+            "title": "I’m happy to share that I’m starting a new position as Data Scientist at FERO.AI!",
+            "img": "",
+            "id": "7227192804228124672"
+        }
+    ],
+    "linkedin_num_id": 765731000.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

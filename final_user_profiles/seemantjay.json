@@ -1,0 +1,95 @@
+{
+    "city": "Gurugram, Haryana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Banking Theory and Practices\"},{\"subtitle\":\"-\",\"title\":\"Computer Integrated Manufacturing\"},{\"subtitle\":\"-\",\"title\":\"Design of Machine Elements\"},{\"subtitle\":\"-\",\"title\":\"Economics\"},{\"subtitle\":\"-\",\"title\":\"Non Traditional Manufacturing Process\"},{\"subtitle\":\"-\",\"title\":\"Operation Research\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Production Design and Process Planning\"},{\"subtitle\":\"-\",\"title\":\"Simulation\"},{\"subtitle\":\"-\",\"title\":\"Soft Computing\"},{\"subtitle\":\"-\",\"title\":\"Work System Design\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Mar 2014",
+            "subtitle": "Ministry of Defense,Government of India",
+            "title": "B Certificate National Cadet Corps"
+        },
+        {
+            "meta": "Issued Jun 2013Credential ID C-NTV2JNYYQV",
+            "subtitle": "Dassault Systèmes SolidWorks Corporation",
+            "title": "Cleared Certified SolidWorks Associate Examination"
+        }
+    ],
+    "current_company_name": "Aakash Technology Innovation Lab",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Robocup- Small Size League\",\"start_date\":\"Feb 2013\",\"description\":\"•Designed and fabricated automated robots for participation in Federation of International Robot-Soccer Association (FIRA)•Part of the team which represented India in 18th FIRA ROBOWORLD CUP & CONGRESS KL 2013, Malaysia•Developed and optimized chip kicker mechanism simulating the chip shot used for Small Size League MiroSot , Robocup\"},{\"title\":\"IEEE certified project to design an autonomous robot “Lumous”\",\"start_date\":\"Dec 2012\",\"description\":\"A project on an autonomous robot capable of moving towards maximum light source, and hence traversing through a particular light gradient. The project was conducted by Kharagpur Robosoccer Students’ Group and certified by IEEE.\"},{},{},{\"title\":\"Code-O-Soccer\",\"start_date\":\"Apr 2015\",\"end_date\":\"Mar 2016\",\"description\":\"•Spearheaded a team of 20 members to conduct Code-o-soccer at national level•Conceptualized, designed and successfully launched this unique and inspiring event •Executed operations focused around logistical planning, sponsorship and publicity of the event\"},{\"title\":\"Assembly line optimization - General Motors\",\"start_date\":\"May 2015\",\"end_date\":\"Jul 2015\",\"description\":\"•Data mining using SQL and further analyzing to perceive faulty avenues; improvising the quality of JIT orders by 34%•Delineated tool management method for MEI machine to optimise cost of tool repairing; achieved 60% reduction in cost•Streamlined MEI assembly line by minimising the operational workflow to reduce assembly time by 70%•Formulated blueprint of Huvitz unit to optimise work flow, ensuring installation of machinery at appropriate points•Devised a system for MEI lens cutting machine so that it can be operated in offline mode\"},{\"title\":\"Line Balancing at Tappet Assembly\",\"start_date\":\"May 2014\",\"end_date\":\"Jul 2014\",\"description\":\"•Acquired skills pertaining to nuances of Tappet assembly and analyzed the factors that affect the Tappet line in Power Train•Devised strategies for tappet line troubleshooting and introduced cam bore measuring gauge as a proposal •Proposed solution resolved the problem to a great extent increasing the First time quality of tappet line by 60%•Comprehended the quality issues at Care Station in HOT Test Cell and improved the quality by 15%\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Hall Color - Case Study, Ad Design, Hardware Modelling",
+            "publication": "Rajendra Prasad Hall of Residence, IIT Kharagpur",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Gold in Hardware Modelling, Inter IIT Tech Meet 2016",
+            "publication": "Indian Institute of Technology - Mandi",
+            "date": "2016-02-01T00:00:00.000Z",
+            "description": "- BRUTE-Bomb Retrieval and Universal Terrain Explorer is a prototype six-wheeled all-terrain rover with the objectives of bomb/IED disposal and accessing unchartered terrain. The six wheels are independently driven and controlled to allow for the rocker bogie differential bar drive to act as an active traction control. -On-board BRUTE is a kevlar based fire and shock proof bomb-box with an integrated gripping mechanism to dispose bombs and resist shock-waves in case of detonation. -… Show more"
+        },
+        {
+            "title": "Finalists at Empressario-2016",
+            "publication": "NASSCOM - 10000 StartUps",
+            "date": "2016-01-01T00:00:00.000Z",
+            "description": "-Empresario is the annual business model competition organised by Entrepreneurship Cell, IIT Kharagpur in association with International Business Model Competition (IBMC). -Pitched my entrepreneurial venture to experienced, varied and distinguished investor pool and Industry Leaders. -Conceptualised a Business Model that is function oriented and is aimed at improvising sustainability of both consumption and production. -Designed prototypes based on meeting diverse consumer… Show more"
+        },
+        {
+            "title": "Bronze in Mirosot, RoboWorld Cup 2015, Daejeon, Korea",
+            "publication": "Federation of International Robosoccer Association(FIRA)",
+            "date": "2015-08-01T00:00:00.000Z",
+            "description": "Led the team of 9 undergraduates who developed soccer playing robots to represent India and won 'Bronze'​ in the RoboWorld Cup 2015 organised by the Federation of International Robosoccer Association(FIRA) at Daejeon, South Korea. The team has been developing advanced robot soccer players under the Kharagpur RoboSoccer Students'​ Group (KRSSG) for the last five years. FIRA is one of the world's most prestigious robo-soccer championship and its Mirosot League is fiercely competed for."
+        },
+        {
+            "title": "B Certificate National Cadet Corps",
+            "publication": "Ministry of Defense,Government of India",
+            "date": "2014-04-01T00:00:00.000Z",
+            "description": "Cleared NCC B Certificate Examination 2014 held under the authority of Ministry of Defense, Government of India"
+        },
+        {
+            "title": "Silver - Hardware Modelling and Exhibition",
+            "publication": "Technology General Championship, IIT Kharagpur",
+            "date": "2014-04-01T00:00:00.000Z",
+            "description": "Developed a Hexapod inspired from insects that can traverse through various topologies acting as a disaster management contraption and secured 2nd position in inter-hall hardware exhibition"
+        },
+        {
+            "title": "Bhadwar Cup",
+            "publication": "Rajendra Prasad Hall of Residence",
+            "date": "2014-03-01T00:00:00.000Z",
+            "description": "Was awarded the BHADWAR CUP for the best performance among 26 secretaries in Rajendra Prasad Hall of Residence for the session 2013-2014"
+        },
+        {
+            "title": "Path Finder",
+            "publication": "Samudra- Manthan, OENA Department Technical Fest, IIT Kharagpur",
+            "date": "2014-03-01T00:00:00.000Z",
+            "description": "Runner Up in the event Path Finder of Samudra- Manthan, OENA Department Technical Fest"
+        },
+        {
+            "title": "Lumos",
+            "publication": "Kshitij, IIT Kharagpur",
+            "date": "2013-02-01T00:00:00.000Z",
+            "description": "Secured 2nd position among 100 participants in ‘LUMOS’ competition in Kshitij 2013, IIT Kharagpur"
+        },
+        {
+            "title": "Certified SolidWorks Associate Examination",
+            "publication": "Dassault Systèmes SolidWorks Corporation",
+            "date": "2013-01-01T00:00:00.000Z",
+            "description": "Cleared Certified SolidWorks Associate Examination conducted by Dassault Systèmes SolidWorks Corporation in 2013"
+        }
+    ]
+}

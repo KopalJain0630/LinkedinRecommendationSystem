@@ -1,0 +1,603 @@
+{
+    "id": "sayanvc",
+    "name": "Sayan Ghosh - OG Capital",
+    "city": "India",
+    "country_code": "IN",
+    "position": "Loves building companies (2x), helping founders (24x7), playing chess (8x8) and investing to deliver 10x returns",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Ortella Global Capital - OG Capital, India's only fund that co-builds companies",
+        "company_id": "theogcapital0",
+        "title": "Loves building companies (2x), helping founders (24x7), playing chess (8x8) and investing to deliver 10x returns"
+    },
+    "experience": [
+        {
+            "title": "Co-Founder",
+            "description_html": null,
+            "duration": "Jan 2024 - Present 1 year",
+            "start_date": "Jan 2024",
+            "end_date": "Present",
+            "duration_short": "1 year",
+            "company": "Ortella Global Capital - OG Capital, India's only fund that co-builds companies",
+            "company_id": "theogcapital0",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor",
+            "description": "Invested in a couple of dozen very early stage startups across SaaS, consumer/tech, fintech and other sectors",
+            "description_html": "Invested in a couple of dozen very early stage startups across SaaS, consumer/tech, fintech and other sectors <!---->",
+            "duration": "Mar 2021 - Present 3 years 10 months",
+            "start_date": "Mar 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 10 months",
+            "company": "Various startups",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor",
+            "description_html": null,
+            "duration": "Jun 2021 - Present 3 years 7 months",
+            "start_date": "Jun 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 7 months",
+            "company": "upGrad",
+            "company_id": "ueducation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor (exited)",
+            "description_html": null,
+            "duration": "Dec 2019 - Present 5 years 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 1 month",
+            "company": "Lenskart.com",
+            "company_id": "lenskart-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor (exited)",
+            "description_html": null,
+            "duration": "Dec 2019 - Present 5 years 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 1 month",
+            "company": "bigbasket.com",
+            "company_id": "bigbasket-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor (exited)",
+            "description_html": null,
+            "duration": "Dec 2019 - Present 5 years 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 1 month",
+            "company": "BYJU'S",
+            "company_id": "byjus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor",
+            "description_html": null,
+            "duration": "Sep 2021 - Present 3 years 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 4 months",
+            "company": "SpotDraft",
+            "company_id": "spotdraft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor",
+            "description_html": null,
+            "duration": "Jun 2022 - Present 2 years 7 months",
+            "start_date": "Jun 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 7 months",
+            "company": "Amnic",
+            "company_id": "amnic",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor",
+            "description_html": null,
+            "duration": "Dec 2021 - Present 3 years 1 month",
+            "start_date": "Dec 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 1 month",
+            "company": "Spry Movement App",
+            "company_id": "sprypt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor",
+            "description_html": null,
+            "duration": "Apr 2021 - Present 3 years 9 months",
+            "start_date": "Apr 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 9 months",
+            "company": "Grip Invest",
+            "company_id": "gripinvest",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor",
+            "description_html": null,
+            "duration": "Mar 2022 - Present 2 years 10 months",
+            "start_date": "Mar 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 10 months",
+            "company": "ZippMat",
+            "company_id": "zippmat",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor",
+            "description_html": null,
+            "duration": "Apr 2023 - Present 1 year 9 months",
+            "start_date": "Apr 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 9 months",
+            "company": "Praxia",
+            "company_id": "praxiatech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor (Limited Partner)",
+            "description_html": null,
+            "duration": "Jan 2020 - Present 5 years",
+            "start_date": "Jan 2020",
+            "end_date": "Present",
+            "duration_short": "5 years",
+            "company": "Stellaris Venture Partners",
+            "company_id": "stellaris-venture-partners",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor (Limited Partner)",
+            "description_html": null,
+            "duration": "Jun 2021 - Present 3 years 7 months",
+            "start_date": "Jun 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 7 months",
+            "company": "Prime Venture Partners",
+            "company_id": "primevp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor (Limited Partner)",
+            "description_html": null,
+            "duration": "Jun 2020 - Present 4 years 7 months",
+            "start_date": "Jun 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 7 months",
+            "company": "Endiya Partners",
+            "company_id": "endiya-partners",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor",
+            "description_html": null,
+            "duration": "Dec 2019 - Present 5 years 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 1 month",
+            "company": "Shadowfax",
+            "company_id": "shadowfax",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor",
+            "description_html": null,
+            "duration": "Dec 2019 - Present 5 years 1 month",
+            "start_date": "Dec 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 1 month",
+            "company": "NephroPlus",
+            "company_id": "nephroplus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor",
+            "description_html": null,
+            "duration": "Aug 2020 - Present 4 years 5 months",
+            "start_date": "Aug 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 5 months",
+            "company": "Chaldal.com",
+            "company_id": "chaldalcom",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investor",
+            "description_html": null,
+            "duration": "Jun 2020 - Present 4 years 7 months",
+            "start_date": "Jun 2020",
+            "end_date": "Present",
+            "duration_short": "4 years 7 months",
+            "company": "AgroStar",
+            "company_id": "agrostar-in",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor",
+            "description_html": null,
+            "duration": "Jun 2021 - Present 3 years 7 months",
+            "start_date": "Jun 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 7 months",
+            "company": "Zemé",
+            "company_id": "zemefresh",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Venture Investments (Funds and Directs)",
+            "location": "New Delhi Area, India",
+            "description": "Invested in early/growth stage companies and Funds",
+            "description_html": "Invested in early/growth stage companies and Funds <!---->",
+            "duration": "Dec 2019 Jun 2023 3 years 7 months",
+            "start_date": "Dec 2019",
+            "end_date": "Jun 2023",
+            "duration_short": "3 years 7 months",
+            "company": "IFC - International Finance Corporation",
+            "company_id": "ifclinkedin",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investment Associate",
+            "description_html": null,
+            "duration": "Jul 2017 Dec 2019 2 years 6 months",
+            "start_date": "Jul 2017",
+            "end_date": "Dec 2019",
+            "duration_short": "2 years 6 months",
+            "company": "Kaizenvest",
+            "company_id": "kaizenvest",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investment Banking Associate",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "May 2016 Jun 2017 1 year 2 months",
+            "start_date": "May 2016",
+            "end_date": "Jun 2017",
+            "duration_short": "1 year 2 months",
+            "company": "Avendus Capital",
+            "company_id": "avendus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer MBA Intern - Corporate Banking",
+            "location": "Bangalore",
+            "description": "Corporate Banking - International Clients Group",
+            "description_html": "Corporate Banking - International Clients Group <!---->",
+            "duration": "Apr 2015 May 2015 2 months",
+            "start_date": "Apr 2015",
+            "end_date": "May 2015",
+            "duration_short": "2 months",
+            "company": "Kotak Mahindra Bank",
+            "company_id": "kotak-mahindra-bank",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Pratik Poddar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Sovani",
+            "about": "Equity Investor",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Manasi Shah",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sohil Shah",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Swati Murarka",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nayan Bader",
+            "about": "VP at Warburg Pincus | Wharton | IIT-Bombay",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ruchin Kulkarni",
+            "about": "Something new ✨",
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sandeep Prasad",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Misra",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Varun Sanghavi",
+            "about": "Director at Apis Partners",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Jaishankar",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaidhehi Ravindran",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Gurnoor Kaur",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nanika Kakkar",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Yagnesh Sanghrajka",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Pranav Marwah",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh Singh",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sreekanth Perepu",
+            "about": "Founding Partner, 108 Capital",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Chhugani",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Durva Mathure",
+            "about": "Empowering Small Businesses to Succeed Locally | MBA Kellogg",
+            "location": "San Francisco, CA"
+        }
+    ],
+    "educations_details": "Faculty of Management Studies - University of Delhi",
+    "education": [
+        {
+            "title": "Faculty of Management Studies - University of Delhi",
+            "degree": "Master of Business Administration (MBA)",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Institute of Actuaries of India",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Heritage Institute Of Technology",
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 30808.0,
+    "connections": 500.0,
+    "current_company_company_id": "theogcapital0",
+    "current_company_name": "Ortella Global Capital - OG Capital, India's only fund that co-builds companies",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "sayanvc",
+    "activity": [
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "There is a secret! 🤫 but we don't have any! Because we believe that trust begins with honesty, and that’s why every step of what we do is crystal…",
+            "img": "",
+            "id": "7278028119331000320"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "It’s crazy how impactful Mukesh Ambani’s 3yr old acquisition of Strands Life Sciences has turned out to be 🙏🙏 He acquired a sizable stake in it…",
+            "img": "",
+            "id": "7277907936830439427"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "I have been seeing and listening to so many founders' pitches these days and going through as many decks! So, I thought I would write about some…",
+            "img": "",
+            "id": "7277914047168094209"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "In 2010, just 22 years old, yet to finish my engineering degree and dreaming of entrepreneurship, I had no connections, no roadmap, and plenty of…",
+            "img": "",
+            "id": "2010"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": " As many as 342 PE deals were sealed in the country as of Dec. 16, only a slight mark down from 357 in 2023, show data…",
+            "img": "",
+            "id": "7277188018820587520"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "Ending the year on a sweet note with the news of the publication of my paper on 'Rāga Yoga - Exploring the Healing Power of Indian Classical Music…",
+            "img": "",
+            "id": "7276936190182731776"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "Angel Investor: Before Pandemic Vs After Pandemic 💸 Before and During the Pandemic: Le Angel Investor: I’m an angel investor. I specialize in…",
+            "img": "",
+            "id": "7276897488505085952"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "I have spent the last few months going through hundreds of Investment decks and founder pitches. While we have science and methods to evaluate…",
+            "img": "",
+            "id": "7276852009633243136"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "#LinkedinUnwrapped The best is yet to come! Here’s to an even brighter 2025. 🎊 #YearInReview #Gratitude #LookingForward 📊 My 2024 LinkedIn stats…",
+            "img": "",
+            "id": "7276834757328392192"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "Exhilarating week in Capetown with everyone at SuperReturn and with my colleagues at the IFC at the IFC Equity Event. A big thank you to George Odo…",
+            "img": "",
+            "id": "7271887713694318593"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "I was talking to a senior guy at SBI Cards, who blew me away by sharing how Vistara’s merger with Air India has given the Tata group much more…",
+            "img": "",
+            "id": "7276569636286906368"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "Highlights of the last week in the Indian startup ecosystem. From fundings, IPOs and new VC fund launches to acquisitions.",
+            "img": "",
+            "id": "7276524915413893120"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "Very seldom you come across founders that are so passionate and 'true' to their brand - I found both in Sreejith Moolayil and Puru Gupta Was…",
+            "img": "",
+            "id": "7276250664899375104"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "upGrad, a leading skilling and learning platform, reported gross revenue of ₹1,876 crore for FY24, with total income standing at ₹1,547 crore after…",
+            "img": "",
+            "id": "7274318617314279424"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "New-Age Men's grooming brands FY24 financials: Bombay Shaving Company leads the pack via Entrackr",
+            "img": "",
+            "id": "7275488462672158720"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "Isn’t life all about numbers and targets? As I turned 40 this July, I took a step back to reflect on my health. While the inevitable weight gain…",
+            "img": "",
+            "id": "7276117531755520001"
+        },
+        {
+            "interaction": "Liked by Sayan Ghosh - OG Capital",
+            "link": "",
+            "title": "Over the past decade, True Elements has made healthy eating not just a trend but a lifestyle, positively impacting countless lives along the way…",
+            "img": "",
+            "id": "7275380284387180544"
+        }
+    ],
+    "linkedin_num_id": 170055065.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

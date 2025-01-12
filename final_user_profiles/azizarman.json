@@ -1,0 +1,41 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "North South University",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Internet and web technology\"},{\"subtitle\":\"-\",\"title\":\"Programming Language Concept \"},{\"subtitle\":\"-\",\"title\":\"Software Engineering\"},{\"subtitle\":\"-\",\"title\":\"VLSI Chip Design\"},{\"subtitle\":\"-\",\"title\":\"Verilog HDL\"}]",
+    "certifications": [
+        {
+            "subtitle": "ACM, Association for Computing Machinery",
+            "title": "Recognition of Service Award"
+        }
+    ],
+    "current_company_name": "Jatri",
+    "publications": "[{\"title\":\"Structural fracture detection and vibration monitoring system using WSN and Zigbee\",\"subtitle\":\"International conference on Cloud Computing and Internet of things(CCIOT) 2018,Singapore\",\"date\":\"Oct 2018\"},{\"title\":\"Automated Mobile Robot with RFID Scanner and Self Obstacle Avoiding System\",\"subtitle\":\"International Journal of Pure and Applied Mathematics (IJPAM).\",\"date\":\"February 27, 2018\",\"description\":\"Journal\"},{\"title\":\"Automated Mobile Robot with RFID Scanner and Self Obstacle Avoiding System\",\"subtitle\":\"International Conference on Inventive Computing Inventive Computing Systems and Applications (ICICSA 2018).\",\"date\":\"December 19, 2017\"},{\"title\":\"Automated Mobile Robot with QR Scanner and Self Obstacle Avoiding System\",\"subtitle\":\"4th International Conference on Networking, Systems and Security (4th NSysS 2017)\",\"date\":\"November 29, 2017\",\"description\":\"Poster\"},{\"title\":\"Machine Cognition of Violence in Videos using Novel Outlier-Resistant VLAD*\",\"subtitle\":\"https://ieeexplore.ieee.org/document/8614186\",\"description\":\"*This paper has been accepted to International Conference on Machine Learning and Applications (ICMLA) 2018T. Deb, A. Arman, and A. Firoze, “Machine Cognition of Violence in Videos using Novel Outlier-Resistant VLAD.”\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Structural fracture detection and vibration monitoring system using WSN and Zigbee\",\"start_date\":\"Jun 2018\",\"end_date\":\"Dec 2018\"},{\"title\":\"Automated Mobile Robot with RFID Scanner and Self Obstacle Avoiding System\"},{},{},{\"title\":\"Student Project directory\"},{\"title\":\"Web based Home Rental application\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Champion",
+            "publication": "IEEE",
+            "date": null,
+            "description": "Champion of IEEE Day hackathon 2017"
+        },
+        {
+            "title": "Finalist",
+            "publication": "-",
+            "date": null,
+            "description": "Finalist of ICT EXPO 2017.The Project was Home Automation App"
+        }
+    ]
+}

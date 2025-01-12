@@ -1,0 +1,446 @@
+{
+    "id": "jsethi7133",
+    "name": "Jayant Sethi",
+    "city": "India",
+    "country_code": "IN",
+    "position": "Engineer",
+    "about": "I am a highly motivated professional with a B.Tech in Computer Science and Engineering. With 4+ years of experience in IT industry, I've honed my skills as a System Engineer, contributing to the card payments domain with expertise in GoLang, database solutions, and agile teamwork. My internships encompass building chatbots, providing pro bono consulting, and leading large-scale projects. Beyond work, I've spearheaded technical initiatives, represented my college in competitions, and engaged in diverse volunteering efforts. My passion for sustainability, innovation, and creative problem-solving drives my personal and professional pursuits. Let's connect and explore collaborative opportunities!",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Infosys",
+        "company_id": "infosys",
+        "title": "Engineer"
+    },
+    "experience": [
+        {
+            "title": "Infosys",
+            "description_html": null,
+            "duration": "2 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "Infosys",
+                    "meta": "Apr 2021 - May 2023 2 years 2 months",
+                    "description": "• Worked with the organization’s top client in the card payments domain.• Built APIs and microservices for different use cases of Data Access Layer in GoLang.• Worked on Database Availability, Sharding and Data Replication solutions.• Created robust automated test cases and test plans which helped to fine-tune the functionality of the features delivered.• Contributed to database schema designs, POCs and test strategies.• Worked in agile teams.",
+                    "duration": "Apr 2021 May 2023 2 years 2 months",
+                    "start_date": "Apr 2021",
+                    "end_date": "May 2023",
+                    "duration_short": "2 years 2 months",
+                    "title": "System Engineer",
+                    "description_html": "• Worked with the organization’s top client in the card payments domain.<br>• Built APIs and microservices for different use cases of Data Access Layer in GoLang.<br>• Worked on Database Availability, Sharding and Data Replication solutions.<br>• Created robust automated test cases and test plans which helped to fine-tune the functionality <br>of the features delivered.<br>• Contributed to database schema designs, POCs and test strategies.<br>• Worked in agile teams. <!---->"
+                },
+                {
+                    "subtitle": "Infosys",
+                    "meta": "Nov 2020 - Mar 2021 5 months",
+                    "description": "• Successfully completed training in Full Stack Java with Angular.• Completed assigned training project in the e-commerce domain.• Contributed to the front-end development of an e-commerce website as part of training project.",
+                    "duration": "Nov 2020 Mar 2021 5 months",
+                    "start_date": "Nov 2020",
+                    "end_date": "Mar 2021",
+                    "duration_short": "5 months",
+                    "title": "System Engineer Trainee",
+                    "description_html": "• Successfully completed training in Full Stack Java with Angular.<br>• Completed assigned training project in the e-commerce domain.<br>• Contributed to the front-end development of an e-commerce website as part of training project. <!---->"
+                }
+            ],
+            "company": "Infosys",
+            "company_id": "infosys",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Literary Club of HMRITM",
+            "location": "Delhi",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "Literary Club of HMRITM",
+                    "meta": "Aug 2020 - Feb 2021 7 months",
+                    "description": "With my experience as an Executive Board member of the Literary Club of HMRITM, I provided non-binding strategic advice to the then Executive Board.",
+                    "duration": "Aug 2020 Feb 2021 7 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "Feb 2021",
+                    "duration_short": "7 months",
+                    "title": "Founder | Advisory Board Member",
+                    "description_html": "With my experience as an Executive Board member of the Literary Club of HMRITM, I provided non-binding strategic advice to the then Executive Board. <!---->"
+                },
+                {
+                    "subtitle": "Literary Club of HMRITM",
+                    "meta": "Mar 2018 - Aug 2020 2 years 6 months",
+                    "description": "• Started this student-led club in my college to develop a passion among students towards literature and to encourage informed discourse along with critical thinking skills.• Handled and organized different types of events and sessions online as well as offline.• The club was recognized among the top 7 'Young Adult and Children's Book Community' globally by Global Book Community Awards in 2020. • As an Executive Board member, I polished my leadership, management, teamwork and problem-solving skills.",
+                    "duration": "Mar 2018 Aug 2020 2 years 6 months",
+                    "start_date": "Mar 2018",
+                    "end_date": "Aug 2020",
+                    "duration_short": "2 years 6 months",
+                    "title": "Founder | Executive Board Member",
+                    "description_html": "• Started this student-led club in my college to develop a passion among students towards literature and to encourage informed discourse along with critical thinking skills.<br>• Handled and organized different types of events and sessions online as well as offline.<br>• The club was recognized among the top 7 'Young Adult and Children's Book Community' globally by Global Book Community Awards in 2020. <br>• As an Executive Board member, I polished my leadership, management, teamwork and problem-solving skills."
+                }
+            ],
+            "company": "Literary Club of HMRITM",
+            "company_id": "literary-club-of-hmritm",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Pro Bono Consultant",
+            "description": "• Provided pro bono consulting services to a London based Virtual Reality startup to mitigate the impact of COVID-19 on the business operations.• Conducted a data-driven market and competitor analysis to create a detailed revenue-increasing strategy.• Provided insights to restructure operations to strategically reposition in the post-Covid world economy.",
+            "description_html": "• Provided pro bono consulting services to a London based Virtual Reality startup to mitigate the impact of COVID-19 on the business operations.• Conducted a data-driven market and competitor analysis to create a detailed revenue-increasing strategy.• Provided insights to restructure operations to strategically reposition in the post-Covid world economy. <!---->",
+            "duration": "Sep 2020 Nov 2020 3 months",
+            "start_date": "Sep 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "3 months",
+            "company": "Unlock Consultancy",
+            "company_id": "unlock-consultancy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneur In Residence",
+            "location": "Delhi, India",
+            "description": "• Conducted data-driven market research to provide insights on launching new communities.• Worked with the design team to research and design Minimum Viable Product.• Handled and organized multiple events for the company with the Operations team.",
+            "description_html": "• Conducted data-driven market research to provide insights on launching new communities.• Worked with the design team to research and design Minimum Viable Product.• Handled and organized multiple events for the company with the Operations team. <!---->",
+            "duration": "Feb 2020 Nov 2020 10 months",
+            "start_date": "Feb 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "10 months",
+            "company": "Comunev",
+            "company_id": "comunev",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Trainee",
+            "location": "Noida Area, India",
+            "description": "• Built a chatbot in Python using Natural Language processing libraries.• The chatbot used a regular expression-based parser to perform tasks like sentence classification and information extraction.",
+            "description_html": "• Built a chatbot in Python using Natural Language processing libraries.• The chatbot used a regular expression-based parser to perform tasks like sentence classification and information extraction. <!---->",
+            "duration": "Jun 2019 Aug 2019 3 months",
+            "start_date": "Jun 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "3 months",
+            "company": "Tata Consultancy Services",
+            "company_id": "tata-consultancy-services",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project Head",
+            "location": "Delhi",
+            "description": "• Headed 4 teams and developed robust processes to conduct large scale data collection and analysis.• Helped a regional public office to get on-ground insights from the beneficiaries of the policies.",
+            "description_html": "• Headed 4 teams and developed robust processes to conduct large scale data collection and analysis.• Helped a regional public office to get on-ground insights from the beneficiaries of the policies. <!---->",
+            "duration": "Jun 2018 Jul 2018 2 months",
+            "start_date": "Jun 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "2 months",
+            "company": "Forum For Democracy, Delhi",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Field Researcher",
+            "location": "Delhi",
+            "description": "• Forum for Democracy aims to help and assist regional governments, political parties and public bodies in policy making through on-ground research and modern data analysis. It helped a national political party and a regional public office to get the on-ground insights from the beneficiaries of the policies. • As a Field Research Scholar, I have interacted with hundreds of citizens and gathered data to know about the civic issues that they face, documented it and analyzed it with simultaneously spreading awareness among citizens.",
+            "description_html": "• Forum for Democracy aims to help and assist regional governments, political parties and public bodies in policy making through on-ground research and modern data analysis. It helped a national political party and a regional public office to get the on-ground insights from the beneficiaries of the policies. • As a Field Research Scholar, I have interacted with hundreds of citizens and gathered data to know about the civic issues that they face, documented it and analyzed it with simultaneously spreading awareness among citizens.",
+            "duration": "Mar 2018 Apr 2018 2 months",
+            "start_date": "Mar 2018",
+            "end_date": "Apr 2018",
+            "duration_short": "2 months",
+            "company": "Forum For Democracy, Delhi",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Akarsh Singh A",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Shiv Soni",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Chanchal Singh",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Sandeep Raut - Digital Strategist",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Atul Ghosh",
+            "about": "Brand Experience | Consumer Engagement | Cheil | SAMSUNG Group",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Nimish Sanghi",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aarnav Jindal",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhaskar M.",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sarthak Singh",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "atul gupta",
+            "about": "Founder at DigiQRT",
+            "location": "Lucknow"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Jha",
+            "about": null,
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Hardik Gupta",
+            "about": "Building in web3 | Gaming | Founder",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "V. Shankar",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Manasa Rajesh",
+            "about": null,
+            "location": "Los Angeles, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Vasu Dev",
+            "about": "IIT-Gauhati | General Manager Tech @JetsetGo India | Tech Consultant | |Public Speaker | Business Strategist",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rangarajan (Ranga) Sriraman",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ramanshu Mahaur",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Sourav S.",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Debaditya Shome",
+            "about": "Applied Scientist II at Homebase | Vector Scholar in AI | MITACS Graduate Fellow | MASc (AI) @QueensU | Prev: Intern@Vector, SHL, Samsung, MITACS",
+            "location": "Toronto, ON"
+        }
+    ],
+    "educations_details": "Guru Gobind Singh Indraprastha University",
+    "education": [
+        {
+            "title": "Guru Gobind Singh Indraprastha University",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2020",
+            "description": "Activities and Societies: Awaaz-The Dramatics Society of HMRITM, Literary Club of HMRITM",
+            "description_html": "Activities and Societies: Awaaz-The Dramatics Society of HMRITM, Literary Club of HMRITM",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Hansraj Model School",
+            "start_year": "2001",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID Q52 PYF B5PSee credential",
+            "subtitle": "Google Digital Garage ",
+            "title": "The Fundamentals of Digital Marketing"
+        },
+        {
+            "meta": "Issued Jul 2018",
+            "subtitle": "Kodding Info Services P. Ltd(Microsoft Partner Network), Delhi",
+            "title": "Machine Learning using Python"
+        },
+        {
+            "meta": "Issued Sep 2017",
+            "subtitle": "Indian Institute of Technology, Kharagpur",
+            "title": "Introduction To Machine Learning"
+        },
+        {
+            "meta": "Issued Sep 2017",
+            "subtitle": "Indian Institute of Technology, Madras",
+            "title": "Programming, Data Structures and Algorithms Using Python"
+        },
+        {
+            "meta": "Issued Feb 2017",
+            "subtitle": "Revert Technology Pvt. Ltd., Cognizance, IIT Roorkee",
+            "title": "Core Java With Android"
+        },
+        {
+            "meta": "Issued Jan 2017",
+            "subtitle": "Indian Institute of Technology, Madras",
+            "title": "Introduction To Modern Application Development"
+        },
+        {
+            "meta": "Issued Dec 2016",
+            "subtitle": "Nucleus Computers Ltd.",
+            "title": "PHP with Wordpress"
+        },
+        {
+            "meta": "Issued Nov 2016",
+            "subtitle": "National Institute for Entrepreneurship and Small Business Development",
+            "title": "Entrepreneurship Development Programme"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Environment",
+            "duration": "Jun 2017 - Aug 2022 · 5 years 3 months",
+            "duration_short": "5 years 3 months",
+            "end_date": "Aug 2022",
+            "info": "WE MEAN TO CLEAN (WMTC) is a Delhi-NCR based volunteer group conducting spotfixes, cleanup drives, native tree plantation and waste management awareness programs in the region. WMTC volunteers are a team of highly motivated people from different walks of life - ranging from students to working professionals - who want to realize the dream of a clean Delhi and a clean India - Swachh Bharat. We believe that keeping our city and country clean is not only the responsibility of government alone but…\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          WE MEAN TO CLEAN (WMTC) is a Delhi-NCR based volunteer group conducting spotfixes, cleanup drives, native tree plantation and waste management awareness programs in the region. WMTC volunteers are a team of highly motivated people from different walks of life - ranging from students to working professionals - who want to realize the dream of a clean Delhi and a clean India - Swachh Bharat. We believe that keeping our city and country clean is not only the responsibility of government alone but that of citizens like us too! Hence, we engage in 'shramdaan' or donation of effort on a weekly/ fortnightly basis.\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Jun 2017",
+            "subtitle": "We Mean To Clean",
+            "title": "Volunteer"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jan 2017 - Feb 2017 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Feb 2017",
+            "info": "As an NSS volunteer, I worked to spread awareness and taught a wide range of people about the cashless economy and different types of digital payment methods in order to realize the future of Digital India.",
+            "start_date": "Jan 2017",
+            "subtitle": "National Service Scheme",
+            "title": "Student Volunteer"
+        },
+        {
+            "cause": "Health",
+            "duration": "Mar 2020 - Jun 2020 · 4 months",
+            "duration_short": "4 months",
+            "end_date": "Jun 2020",
+            "info": "Worked with United Nations Volunteers (UNV) India to promote volunteering and fight against COVID-19.",
+            "start_date": "Mar 2020",
+            "subtitle": "UNV India",
+            "title": "V-Force Volunteer"
+        }
+    ],
+    "followers": 3571.0,
+    "connections": 500.0,
+    "current_company_company_id": "infosys",
+    "current_company_name": "Infosys",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Mental Healthcare Portal\",\"start_date\":\"Feb 2020\",\"end_date\":\"Apr 2020\"},{},{},{},{\"title\":\"Bio-Nom\",\"start_date\":\"Sep 2019\",\"end_date\":\"Oct 2019\",\"description\":\"Bio-Nom is an object detection android application which detects 90 different objects in real time.\"},{},{},{},{\"title\":\"FormBot\",\"start_date\":\"Jun 2019\",\"end_date\":\"Aug 2019\"},{\"title\":\"Sustainable Water Optimization and Management\",\"start_date\":\"Mar 2019\",\"end_date\":\"Mar 2019\",\"description\":\"A website which uses machine learning algorithms to sustainably manage water in different parts of various states in India.\"},{\"title\":\"Moody\",\"start_date\":\"Jun 2018\",\"end_date\":\"Jul 2018\",\"description\":\"Moody is a sentimental analysis project which was created to analyze sentiments of different people on various social media platforms regarding different products, services and policies to take informed decisions.\"},{},{\"title\":\"Quiz Game\",\"start_date\":\"Dec 2015\",\"end_date\":\"Dec 2015\",\"description\":\"This quiz was developed to help students in preparation of their exams by improving their concepts in different subjects.\"},{}]",
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "jsethi7133",
+    "activity": null,
+    "linkedin_num_id": 629955408.0,
+    "honors_and_awards": [
+        {
+            "title": "Story writing competition winner",
+            "publication": "Inklings - The Literary Society of Shaheed Rajguru College of Applied Sciences for Women",
+            "date": "2020-09-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "E-Yantra Robotics Competition 2019-20",
+            "publication": "Indian Institute of Technology, Bombay",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "The e-Yantra Robotics Competition uses a Project-Based Learning (PBL) approach to impart (i) knowledge on concepts in Embedded systems and Robotics (ii) real-world problem solving skills and (iii) hands-on learning. The competition is conducted completely online over a period of 4-5 months. During this period Teams work on Tasks – each Task being a step in the learning/problem-solving process. Through this competition, students are not only learning and exploring… Show more"
+        },
+        {
+            "title": "Official Youth Delegate",
+            "publication": "Embassy of Czech Republic to India and Confederation of Young Leaders",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Smart India Hackathon 2019 Finalist",
+            "publication": "-",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "Smart India Hackathon is a non-stop digital product development competition, where problems are posed to technology students for innovative solutions. It: i) Harnesses creativity & expertise of students ii) Sparks institute-level hackathons iii) Builds funnel for ‘Startup India’ campaign iv) Crowd-source solutions for improving governance and quality of life v) Provides opportunity to citizens to provide innovative solutions to India’s daunting problems"
+        },
+        {
+            "title": "Kabaddi Winner",
+            "publication": "HMR Institute of Technology and Management",
+            "date": "2018-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Youth Delegate",
+            "publication": "Embassy of Venezuela to India and Confederation of Young Leaders",
+            "date": "2018-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Youth Parliamentarian",
+            "publication": "Dainik Jagran Youth Parliament",
+            "date": "2018-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Delegate",
+            "publication": "Delhi International Model United Nations",
+            "date": "2018-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "IT Captain",
+            "publication": "Hansraj Model School",
+            "date": "2016-02-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

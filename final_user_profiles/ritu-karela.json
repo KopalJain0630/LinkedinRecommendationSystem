@@ -1,0 +1,52 @@
+{
+    "city": "Jaipur, Rajasthan, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Malaviya National Institute of Technology Jaipur",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "... . . ,",
+            "start_year": "2008",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2023See credential",
+            "subtitle": "Scrum.org",
+            "title": "Professional Scrum Master™ I (PSM I)"
+        },
+        {
+            "meta": "Issued Feb 2022Credential ID 196525727See credential",
+            "subtitle": "Atlassian",
+            "title": "Confluence Fundamentals"
+        },
+        {
+            "meta": "Issued Dec 2021Credential ID 188369409See credential",
+            "subtitle": "Atlassian",
+            "title": "Jira Fundamentals"
+        },
+        {
+            "meta": "Issued Mar 2022Expires Mar 2025See credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Certified Cloud Practitioner"
+        }
+    ],
+    "current_company_name": "Gainsight",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

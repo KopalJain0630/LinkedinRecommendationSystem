@@ -1,0 +1,41 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute Of Information Technology",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2013Expires Jun 2013Credential ID HP/STP-13/2013/N3037",
+            "subtitle": "Hewlett Packard Education Services",
+            "title": "Hewlett-Packard certification on Linux Administration with Scripting"
+        },
+        {
+            "meta": "Issued May 2012Expires Jun 2012Credential ID HP/STP-12/ALD/385",
+            "subtitle": "Hewlett Packard Education Services",
+            "title": "Hewlett Packard (HP) certificate for training in Core Java"
+        }
+    ],
+    "current_company_name": "Coupang",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Text and Graphic Separation for an OCR\",\"start_date\":\"Feb 2014\",\"description\":\"The project aims at developing the system which could take a page of text book as input, identify and separate the text and non-text regions from it. Non-text region include graphics like image and table. Project helped to increase efficiency of OCR.Technology Used: OpenCV (Visual Studio), C++.Role: Front end design and programming.\"},{},{},{\"title\":\"Hindi Spell Corrector\",\"start_date\":\"Sep 2013\",\"description\":\"The project aims at developing the system which could take a Hindi word as an input, correcting the typographical errors and providing closest correct word with few suggestions.Technology Used: Java (Netbeans) [Applets].Efficiency: 85% (Tested on 7000+ words).Role: Front end design and programming.\"},{},{},{\"title\":\"Budget Approval System\",\"start_date\":\"Feb 2013\",\"description\":\"Project aims at providing an interface to an employee in an organisation to request and approve the financial transactions.Technology Used: Java (Netbeans), Database and OOM Concepts [Applets, Swing, JDBC].Role: Programming and GUI implementation.\"}]",
+    "honors_and_awards": null
+}

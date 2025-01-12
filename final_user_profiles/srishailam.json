@@ -1,0 +1,140 @@
+{
+    "city": "Hyderabad, Telangana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "& ,  , , ,",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2012-07",
+            "end_year": "2014-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2002",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"EE60032\",\"title\":\"Analog Signal Processing\"},{\"subtitle\":\"U18EC305\",\"title\":\"Analog Circuits\"},{\"subtitle\":\"-\",\"title\":\"Analog IC design\"},{\"subtitle\":\"-\",\"title\":\"Analog communication systems\"},{\"subtitle\":\"-\",\"title\":\"CMOS Digital VLSI Design\"},{\"subtitle\":\"U18EE611\",\"title\":\"Control Systems\"},{\"subtitle\":\"-\",\"title\":\"Digital IC design \"},{\"subtitle\":\"U18EC603\",\"title\":\"Digital Signal Processing and its Applications\"},{\"subtitle\":\"-\",\"title\":\"Digital communication systems\"},{\"subtitle\":\"-\",\"title\":\"Digital electronics\"},{\"subtitle\":\"U18EC502C\",\"title\":\"Electronic Measurements and Instrumentation\"},{\"subtitle\":\"-\",\"title\":\"Electronic devices and circuits\"},{\"subtitle\":\"U18MH301\",\"title\":\"Engineering Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Industrial Instrumentation\"},{\"subtitle\":\"U18EC505 \",\"title\":\"Linear Integrated Circuits and Applications\"},{\"subtitle\":\"U18MH602\",\"title\":\"Management Economics and Accountancy\"},{\"subtitle\":\"U18EC506\",\"title\":\"Microprocessors and Microcontrollers\"},{\"subtitle\":\"EE60100\",\"title\":\"Mixed Signal Circuits and Systems-on-Chip \"},{\"subtitle\":\"U18EE312\",\"title\":\"Network theory\"},{\"subtitle\":\"U18OE303A\",\"title\":\"Object Oriented Programming\"},{\"subtitle\":\"EE60098\",\"title\":\"Programmable and Embedded Systems\"},{\"subtitle\":\"-\",\"title\":\"Programming in C\"},{\"subtitle\":\"-\",\"title\":\"Pulse and Digital Circuits\"},{\"subtitle\":\"-\",\"title\":\"Real time embedded systems\"},{\"subtitle\":\"-\",\"title\":\"Real time signal processing\"},{\"subtitle\":\"U18EC304\",\"title\":\"Signals and systems\"},{\"subtitle\":\"U18EC306\",\"title\":\"Switching Theory and Logic Design\"},{\"subtitle\":\"U18EC605\",\"title\":\"VLSI Circuits and Systems\"},{\"subtitle\":\"-\",\"title\":\"VLSI Interconnects\"},{\"subtitle\":\"-\",\"title\":\"Verilog coding\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2023See credential",
+            "subtitle": "Siemens Digital Industries Software",
+            "title": "Tessent Integrated Flow - v22.16"
+        },
+        {
+            "meta": "Issued Aug 2023See credential",
+            "subtitle": "Siemens Digital Industries Software",
+            "title": "Tessent Scan and ATPG - v22.16"
+        },
+        {
+            "meta": "Issued Aug 2023See credential",
+            "subtitle": "Siemens Digital Industries Software",
+            "title": "Tessent Shell Automation - v22.16"
+        },
+        {
+            "meta": "Issued Aug 2023See credential",
+            "subtitle": "Siemens Digital Industries Software",
+            "title": "Tessent Streaming Scan Network - v22.16"
+        },
+        {
+            "meta": "Issued Mar 2021",
+            "subtitle": "Probe, NIT Trichy",
+            "title": "CPU Design using Verilog"
+        },
+        {
+            "meta": "Issued Dec 2020",
+            "subtitle": "Silicon Institute of Technology (SIT), Bhubaneswar",
+            "title": "Nanotechnology and Embedded Seystems, NES-2020"
+        },
+        {
+            "meta": "Issued Sep 2020",
+            "subtitle": "NPTEL",
+            "title": "CMOS Digital VLSI Design"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID UC-d7dacfe0-f1b6-4c87-8a5e-949891314908See credential",
+            "subtitle": "Udemy",
+            "title": "VSD - Signal Integrity "
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID UC-ef2dda86-6022-420a-bf40-d93c7e94c948See credential",
+            "subtitle": "Udemy",
+            "title": "VSD - Static Timing Analysis "
+        },
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Maven Silicon",
+            "title": "VLSI Deign Methodologies"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 022011649",
+            "subtitle": "Maven Silicon",
+            "title": "VLSI System on Chip Design"
+        },
+        {
+            "meta": "Issued Sep 2017",
+            "subtitle": "RoboSpecies Technologies Pvt. Ltd.",
+            "title": "Robo-zest 16"
+        },
+        {
+            "meta": "Issued Nov 2016",
+            "subtitle": "ISTE",
+            "title": "Workshop on DIGITAL IMAGE PROCESSING & ITS APPLICATIONS"
+        },
+        {
+            "meta": "Issued Sep 2016",
+            "subtitle": "ISTE",
+            "title": "Certificate of Merit in TECHBUZZ "
+        },
+        {
+            "meta": "Issued Jun 2016",
+            "subtitle": "Bharat Sanchar Nigam Limited",
+            "title": "Basic Telecommunication"
+        }
+    ],
+    "current_company_name": "AMD",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Power MOSFET segmentation in Current-mode Hysteretic Controlled DC-DC Buck Converters\",\"start_date\":\"Jul 2020\",\"end_date\":\"Apr 2021\",\"description\":\"Improved power efficiency of the DC-DC buck converter by using power MOSFET segmentation technique over a wide range of load current with improvement in transient response.\"},{\"title\":\"Designed real time automatic GSM based starter for motor pump\",\"start_date\":\"Jun 2020\",\"end_date\":\"Jul 2020\",\"description\":\"Designed an Automatic SMS based starter for motor pump . It is used by farmers who have fields far away from their home.\"},{\"title\":\"AHB to APB bridge for AMBA protol using RTL\",\"start_date\":\"May 2020\",\"end_date\":\"Jun 2020\",\"description\":\"Designed AHB to APB bridge for Advanced Micro controller Bus Architecture using RTL coding in SoC.\"},{\"title\":\"Designed signal conditioning circuit for LVDT \",\"start_date\":\"Feb 2020\",\"end_date\":\"May 2020\",\"description\":\"Designed accurate signal condition circuit and interfaced with LCD for Linear Variable Displacement Transducer.\"},{\"title\":\"Automatic dam gate control system by using ARM \",\"start_date\":\"Jul 2017\",\"end_date\":\"May 2018\",\"description\":\"Designed an automatic dam gate control system by using ARM\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Secued rank in top 10 among 120 students in under graduation",
+            "publication": "-",
+            "date": "2018-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Secured 1st rank among 1000 students in Junior college",
+            "publication": "-",
+            "date": "2014-06-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Secured rank in top 3 among 500 students in class 10 in 2012",
+            "publication": "-",
+            "date": "2012-06-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

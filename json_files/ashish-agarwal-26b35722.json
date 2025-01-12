@@ -1,0 +1,283 @@
+{
+    "id": "ashish-agarwal-26b35722",
+    "name": "Ashish Agarwal",
+    "city": "Delhi, India",
+    "country_code": "IN",
+    "position": "Buying | Merchandising | Planning",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "name": "Aditya Birla Fashion and Retail Ltd.",
+        "company_id": "abfrl",
+        "title": "Buying | Merchandising | Planning"
+    },
+    "experience": [
+        {
+            "title": "Buying Manager",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description_html": null,
+            "duration": "Mar 2023 - Present 1 year 10 months",
+            "start_date": "Mar 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 10 months",
+            "company": "Aditya Birla Fashion and Retail Ltd.",
+            "company_id": "abfrl"
+        },
+        {
+            "title": "Retail Planner",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2021 Feb 2023 1 year 8 months",
+            "start_date": "Jul 2021",
+            "end_date": "Feb 2023",
+            "duration_short": "1 year 8 months",
+            "company": "Reliance Retail",
+            "company_id": "reliance-retail"
+        },
+        {
+            "title": "Ethos Watch Boutiques",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "4 years 4 months",
+            "positions": [
+                {
+                    "subtitle": "Ethos Watch Boutiques",
+                    "meta": "Apr 2019 - Apr 2021 2 years 1 month",
+                    "duration": "Apr 2019 Apr 2021 2 years 1 month",
+                    "start_date": "Apr 2019",
+                    "end_date": "Apr 2021",
+                    "duration_short": "2 years 1 month",
+                    "title": "Senior Merchandise Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Ethos Watch Boutiques",
+                    "meta": "Jan 2017 - Mar 2019 2 years 3 months",
+                    "duration": "Jan 2017 Mar 2019 2 years 3 months",
+                    "start_date": "Jan 2017",
+                    "end_date": "Mar 2019",
+                    "duration_short": "2 years 3 months",
+                    "title": "Merchandise Manager",
+                    "description_html": null
+                }
+            ],
+            "company": "Ethos Watch Boutiques",
+            "company_id": "ethoswatchboutiques",
+            "company_logo_url": null
+        },
+        {
+            "title": "Senior Retail Planner",
+            "location": "Gurgaon, India",
+            "description_html": null,
+            "duration": "Jun 2015 May 2016 1 year",
+            "start_date": "Jun 2015",
+            "end_date": "May 2016",
+            "duration_short": "1 year",
+            "company": "Benetton Group",
+            "company_id": "benetton-group"
+        },
+        {
+            "title": "Production Lead - Supply Chain",
+            "description_html": null,
+            "duration": "Apr 2014 Jun 2015 1 year 3 months",
+            "start_date": "Apr 2014",
+            "end_date": "Jun 2015",
+            "duration_short": "1 year 3 months",
+            "company": "Decathlon Sports India",
+            "company_id": "decathlon-sports-india"
+        },
+        {
+            "title": "Merchandiser",
+            "location": "Gurgaon",
+            "description_html": null,
+            "duration": "May 2013 Apr 2014 1 year",
+            "start_date": "May 2013",
+            "end_date": "Apr 2014",
+            "duration_short": "1 year",
+            "company": "Impulse",
+            "company_id": "impulse-co-in"
+        },
+        {
+            "title": "Internship",
+            "location": "Gurgaon, India",
+            "description_html": null,
+            "duration": "Feb 2013 May 2013 4 months",
+            "start_date": "Feb 2013",
+            "end_date": "May 2013",
+            "duration_short": "4 months",
+            "company": "Jabong",
+            "company_id": "jabong"
+        },
+        {
+            "title": "Internship",
+            "description_html": null,
+            "duration": "Aug 2010 Feb 2011 7 months",
+            "start_date": "Aug 2010",
+            "end_date": "Feb 2011",
+            "duration_short": "7 months",
+            "company": "Northern Railway",
+            "company_id": "northern-railway"
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "name": "Zahira Khatoon",
+            "about": "Catagory Manager - General Merchandise",
+            "location": "Mumbai"
+        },
+        {
+            "name": "Krishna Dasan",
+            "about": "Merchandising Team Manager | Fashion Technology, Retail Buying",
+            "location": "New Delhi"
+        },
+        {
+            "name": "Mayuresh Bhargava",
+            "about": "Buying & Merchandising Professional",
+            "location": "South Delhi"
+        },
+        {
+            "name": "Sumedha Rawat",
+            "about": "Merchandise Manager at lotus trends pvt ltd",
+            "location": "Delhi, India"
+        },
+        {
+            "name": "Sangita Rawal",
+            "about": "LIFE ADVISOR AND FINANCIAL PLANNER WITH STATE BANK OF INDIA [ Merchandise Manager /Freelanced as Consultant ]",
+            "location": "Mumbai"
+        },
+        {
+            "name": "Gaurav Uppal",
+            "about": "Merchandise Manager at richa global Exports Private Limited",
+            "location": "Gurgaon"
+        },
+        {
+            "name": "Mohit Kalra",
+            "about": "Sourcing & Merchandising",
+            "location": "Faridabad"
+        },
+        {
+            "name": "Abhijeet Kumar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Rohan Tiwari",
+            "about": null,
+            "location": "Gurgaon"
+        },
+        {
+            "name": "Sahil Arora",
+            "about": "Global Sourcing, Merchandising, Operations & Product Lifecycle management for fashion products.",
+            "location": "Gautam Buddha Nagar"
+        }
+    ],
+    "educations_details": "National Institute of Fashion Technology Delhi",
+    "education": [
+        {
+            "title": "National Institute of Fashion Technology Delhi",
+            "degree": "Master's Degree",
+            "field": "Retail Management",
+            "start_year": "2011",
+            "end_year": "2013",
+            "description": "Activities and Societies: Participated in design contest organized by Maruti in NIFT, New Delhi.",
+            "description_html": "Activities and Societies: Participated in design contest organized by Maruti in NIFT, New Delhi."
+        },
+        {
+            "title": "Guru Gobind Singh Indraprastha University",
+            "degree": "Bachelor's degree",
+            "field": "Mechanical Engineering",
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null
+        },
+        {
+            "title": "Greenfields public school",
+            "start_year": "1994",
+            "end_year": "2006",
+            "description": "Activities and Societies: --> Inter school Cricket tournament --> Nukkar Natak, by Echo Club",
+            "description_html": "Activities and Societies: --&gt; Inter school Cricket tournament --&gt; Nukkar Natak, by Echo Club"
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued May 2020Credential ID 703-16283902See credential",
+            "subtitle": "Alison",
+            "title": "E-Commerce - Introduction to Internet Marketing Strategies for Businesses"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 703-16283902See credential",
+            "subtitle": "Alison",
+            "title": "Google Analytics"
+        }
+    ],
+    "recommendations": [
+        "Vipindas MS “Ashish is a smart professional, I would say. His expertise in retail planning and buying and in depth analytical mindset would denefitely be the greatest assets for any role he is given with. ”"
+    ],
+    "volunteer_experience": null,
+    "followers": 1395.0,
+    "connections": 500.0,
+    "current_company_company_id": "abfrl",
+    "current_company_name": "Aditya Birla Fashion and Retail Ltd.",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Emerging Mobile Applications in Retail to maximize the growth of sales\",\"start_date\":\"Feb 2013\",\"description\":\"Skill Used: 1) Photoshop, Picasa2) Online Documentations3) Interview from market peopleRole Description: 1) Research data & analyzing facts2) Building Design frame work model for mobile application3) Cost analysis4) ROI calculations5) Consumer SurveyProject Details: To bring in a mobile application to enhance the growth of retail.1) Help to grow business using mobile technology.2) Cost Analysis in bringing a mobile application\"},{\"title\":\"Designing of Automated Packing System\",\"start_date\":\"May 2012\",\"description\":\"Skill Used: 1) Solid works Software2) Strategic planning3) Statistical Analysis4) Cost PlanningRole Description: Tool used SOLID WORKS to develop the packing system which will help increase the packing capacity to almost double.Project Details: Designing of Automated Packing System--> To help increase the efficiency in packing department.--> Increase in productivity.--> Reduction of man- power--> Low cost high efficiency\"}]",
+    "organizations": null,
+    "location": "Delhi",
+    "linkedin_id": "ashish-agarwal-26b35722",
+    "activity": [
+        {
+            "interaction": "Liked by Ashish Agarwal",
+            "title": "Happy to announce that I have completed 5 years with Uniqlo in India. It's been quite an interesting, challenging yet very rewarding journey seeing…",
+            "id": "5"
+        },
+        {
+            "interaction": "Liked by Ashish Agarwal",
+            "title": "Our next category to cover in the Re-Hub COMPASS Index Q3 2024 is the Watch and Jewelry Category. Q3 is important for the category given the QiXi…",
+            "id": "7250081122989092864"
+        },
+        {
+            "interaction": "Liked by Ashish Agarwal",
+            "title": "This past week was particularly exhilarating. Our teams had the pleasure of connecting with nearly 150 customers during our Fall 2024 APAC Sales…",
+            "id": "7242906533724880898"
+        },
+        {
+            "interaction": "Liked by Ashish Agarwal",
+            "title": "Naayaab is redefining how we view traditional arts and crafts, presenting them in a new light that honors their legacy while showcasing their…",
+            "id": "7236691386949918721"
+        }
+    ],
+    "linkedin_num_id": 78498227.0,
+    "honors_and_awards": [
+        {
+            "title": "Fastest SPL",
+            "publication": "Decathlon Sports India",
+            "date": "2014-06-01T00:00:00.000Z",
+            "description": "Decreasing Lead time for maximum number of models."
+        },
+        {
+            "title": "Business Merchant",
+            "publication": "Manager",
+            "date": "2013-10-01T00:00:00.000Z",
+            "description": "Increasing Business growth by introducing new suppliers."
+        },
+        {
+            "title": "Best Team Player",
+            "publication": "School",
+            "date": "2006-08-01T00:00:00.000Z",
+            "description": "Best team player performance award for inter school Cricket tournament."
+        }
+    ]
+}

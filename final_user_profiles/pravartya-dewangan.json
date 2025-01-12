@@ -1,0 +1,115 @@
+{
+    "city": "Bhilai, Chhattisgarh, India",
+    "position": "Data Engineer @ Jaguar Land Rover | Amazon | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Jaguar Land Rover India",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 4 months",
+            "positions": [
+                {
+                    "subtitle": "Jaguar Land Rover India",
+                    "meta": "Sep 2024 - Present 4 months",
+                    "duration": "Sep 2024 - Present 4 months",
+                    "start_date": "Sep 2024",
+                    "end_date": "Present",
+                    "duration_short": "4 months",
+                    "title": "Data Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Jaguar Land Rover India",
+                    "meta": "Sep 2022 - Sep 2024 2 years 1 month",
+                    "duration": "Sep 2022 Sep 2024 2 years 1 month",
+                    "start_date": "Sep 2022",
+                    "end_date": "Sep 2024",
+                    "duration_short": "2 years 1 month",
+                    "title": "Graduate Software Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "Jaguar Land Rover India",
+            "company_id": "jlrindia",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Mentor",
+            "location": "IIT Kharagpur",
+            "description": "Fundaes to the Freshers about campus life and academic to extra-curricular ratio time management.",
+            "description_html": "Fundaes to the Freshers about campus life and academic to extra-curricular ratio time management. <!---->",
+            "duration": "Jul 2019 May 2022 2 years 11 months",
+            "start_date": "Jul 2019",
+            "end_date": "May 2022",
+            "duration_short": "2 years 11 months",
+            "company": "Student Welfare Group, IIT Kharagpur",
+            "company_id": "student-welfare-group-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Worked on the Project titled Storage Agnostic Configuration Manager which aimed to provide a capability of AWS System Manager to create, manage and quickly deploy application configurations.",
+            "description_html": "Worked on the Project titled Storage Agnostic Configuration Manager which aimed to provide a capability of AWS System Manager to create, manage and quickly deploy application configurations. <!---->",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Embedded Team Member",
+            "location": "Kharagpur Area, India",
+            "description": "• Soldering the components, fabrication, and routing on Eagle for FPGA-based Autonomous Bots playing soccer.• Current sensing for the protection of motor drivers and Battery Management System for 12V DC Battery.",
+            "description_html": "• Soldering the components, fabrication, and routing on Eagle for FPGA-based Autonomous Bots playing soccer.• Current sensing for the protection of motor drivers and Battery Management System for 12V DC Battery. <!---->",
+            "duration": "Dec 2018 Dec 2019 1 year 1 month",
+            "start_date": "Dec 2018",
+            "end_date": "Dec 2019",
+            "duration_short": "1 year 1 month",
+            "company": "Kharagpur Robosoccer Students Group",
+            "company_id": "kharagpur-robosoccer-students-group",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree (B.Tech + M.Tech)",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "BSP SSS 10 ,Bhilai",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Minor",
+            "field": "Computer Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Jaguar Land Rover India",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

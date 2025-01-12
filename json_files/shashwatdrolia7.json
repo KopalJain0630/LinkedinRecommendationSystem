@@ -1,0 +1,601 @@
+{
+    "id": "shashwatdrolia7",
+    "name": "Shashwat Drolia",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Analyst at Citigroup | IIT Kharagpur",
+    "posts": [
+        {
+            "title": "M7 Demystified: How I got in as a college senior!",
+            "img": "",
+            "link": "",
+            "created_at": "2024-02-23T00:00:00.000Z",
+            "interaction": null,
+            "id": "8vtpc"
+        }
+    ],
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Citi",
+        "company_id": "citi",
+        "title": "Analyst at Citigroup | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Citi",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "1 year 5 months",
+            "positions": [
+                {
+                    "subtitle": "Citi",
+                    "meta": "Aug 2024 - Present 5 months",
+                    "duration": "Aug 2024 - Present 5 months",
+                    "start_date": "Aug 2024",
+                    "end_date": "Present",
+                    "duration_short": "5 months",
+                    "title": "Senior Business Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Citi",
+                    "meta": "Aug 2023 - Aug 2024 1 year 1 month",
+                    "duration": "Aug 2023 Aug 2024 1 year 1 month",
+                    "start_date": "Aug 2023",
+                    "end_date": "Aug 2024",
+                    "duration_short": "1 year 1 month",
+                    "title": "Business Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Citi",
+            "company_id": "citi",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Yatri",
+            "location": "India",
+            "description": "Travelled 8,000 kms across 12 states in 15 days on a train with 525 fellow yatris from different walks of life to learn about social enterprise in tier 2 & 3 cities of India",
+            "description_html": "Travelled 8,000 kms across 12 states in 15 days on a train with 525 fellow yatris from different walks of life to learn about social enterprise in tier 2 &amp; 3 cities of India <!---->",
+            "duration": "Nov 2024 Nov 2024 1 month",
+            "start_date": "Nov 2024",
+            "end_date": "Nov 2024",
+            "duration_short": "1 month",
+            "company": "Jagriti Yatra",
+            "company_id": "jagritiyatra",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "Mumbai, Los Angeles, Munich",
+            "description_html": null,
+            "duration": "Jun 2023 Jul 2023 2 months",
+            "start_date": "Jun 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "2 months",
+            "company": "EMK Capital",
+            "company_id": "emkcapital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Teaching Assistant",
+            "location": "Kharagpur",
+            "description": "Machine Learning Foundations and Applications",
+            "description_html": "Machine Learning Foundations and Applications <!---->",
+            "duration": "Jan 2023 Apr 2023 4 months",
+            "start_date": "Jan 2023",
+            "end_date": "Apr 2023",
+            "duration_short": "4 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investment Analyst",
+            "location": "Gurugram, Singapore",
+            "description_html": null,
+            "duration": "Aug 2022 Oct 2022 3 months",
+            "start_date": "Aug 2022",
+            "end_date": "Oct 2022",
+            "duration_short": "3 months",
+            "company": "Riverwalk Holdings",
+            "company_id": "riverwalk-holdings",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Fellow",
+            "location": "Hanover, NH, United States",
+            "description_html": null,
+            "duration": "Jul 2022 Jul 2022 1 month",
+            "start_date": "Jul 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "1 month",
+            "company": "Tuck Business Bridge Program at Dartmouth",
+            "company_id": "tuck-business-bridge-program",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investment Analyst",
+            "location": "Gurugram",
+            "description": "Developed firm's investment thesis on HR-Tech and participated in the seed investments in Riyalto (Fullstack marketplace), User Study (SaaS), NinePointer (Ed-Tech) and Coffeee.io (HR-Tech)",
+            "description_html": "Developed firm's investment thesis on HR-Tech and participated in the seed investments in Riyalto (Fullstack marketplace), User Study (SaaS), NinePointer (Ed-Tech) and Coffeee.io (HR-Tech) <!---->",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Riverwalk Holdings",
+            "company_id": "riverwalk-holdings",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst (Portfolio, Origination & Data Science)",
+            "location": "London, Mumbai, Singapore",
+            "description_html": null,
+            "duration": "May 2021 Oct 2021 6 months",
+            "start_date": "May 2021",
+            "end_date": "Oct 2021",
+            "duration_short": "6 months",
+            "company": "EMK Capital",
+            "company_id": "emkcapital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Strategy - CEO's Office",
+            "location": "Bengaluru",
+            "description_html": null,
+            "duration": "Jul 2021 Aug 2021 2 months",
+            "start_date": "Jul 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "2 months",
+            "company": "Vedantu",
+            "company_id": "vedantu",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "International Delegate",
+            "location": "Stanford, California",
+            "description": "Selected as 1/30 international students among 1000+ applicants for being part of the global ASES community, the Entrepreneurial Students Summit and the annual Hackathon at Stanford University.",
+            "description_html": "Selected as 1/30 international students among 1000+ applicants for being part of the global ASES community, the Entrepreneurial Students Summit and the annual Hackathon at Stanford University. <!---->",
+            "duration": "Apr 2021 Apr 2021 1 month",
+            "start_date": "Apr 2021",
+            "end_date": "Apr 2021",
+            "duration_short": "1 month",
+            "company": "Stanford ASES",
+            "company_id": "asesstanford",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "location": "Mumbai",
+            "description_html": null,
+            "duration": "Oct 2020 Dec 2020 3 months",
+            "start_date": "Oct 2020",
+            "end_date": "Dec 2020",
+            "duration_short": "3 months",
+            "company": "EY-Parthenon",
+            "company_id": "ey-parthenon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "UTSIP Fellow",
+            "location": "Kashiwa, Japan",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "The University of Tokyo",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Harsha Potluri",
+            "about": "Private Equity Analyst @ EMK Capital | strategy and investing",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Kirti Dabas",
+            "about": "Researcher @ SINTEF M.SC Neurocognitive Psychology, Carl Von Ossietzky University of Oldenburg & University of Oslo, Norway#Digitalhealth #Behavioralinterventions",
+            "location": "Oldenburg"
+        },
+        {
+            "profile_link": "",
+            "name": "Shangeth Rajaa",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajhans C.",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakhar Gaur",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Diksha Bhutani",
+            "about": "Analyst | ESG Client Coverage | ESG Research | MSCI",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sanya M.",
+            "about": null,
+            "location": "North Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sankalp Arora",
+            "about": "Founder @ Macrogoogol | Master’s in Robotics & AI | Innovating Machine Learning for Real-World Impact",
+            "location": "Edinburgh"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhritiman Debbarman",
+            "about": "Manager - Talent Intelligence & Insights Specialist | Talent Intelligence Enthusiast",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Siddarth Chandar",
+            "about": null,
+            "location": "Gurugram"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "Artificial Intelligence (M.Tech) | Ocean Engineering (B.Tech)",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Institute Silver Medallist Minor: Mathematics & Computing Micro: Entrepreneurship & Innovation Activities and societies: Entrepreneurship Cell, RK Hall - Case Study, English Elocution",
+            "description_html": "Institute Silver MedallistMinor: Mathematics &amp; ComputingMicro: Entrepreneurship &amp; InnovationActivities and societies: Entrepreneurship Cell, RK Hall - Case Study, English Elocution <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "The Tuck School of Business at Dartmouth",
+            "degree": "The Business Bridge Program",
+            "field": "Business Administration and Management",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2022",
+            "description": "Tuck Bridge Scholar (Full scholarship) at the on-campus summer program for STEM undergrads Coursework: Accounting, Managerial Economics, Corporate Finance, Strategy & Innovation, Marketing, Business Ethics, Negotiation",
+            "description_html": "Tuck Bridge Scholar (Full scholarship) at the on-campus summer program for STEM undergradsCoursework: Accounting, Managerial Economics, Corporate Finance, Strategy &amp; Innovation, Marketing, Business Ethics, Negotiation <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Modern Vidya Niketan School, Sector-17",
+            "degree": "CBSE XII",
+            "field": "Non-Medical",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": "Recipient of Shri Gopal Sharma Scholarship for Academic Excellence",
+            "description_html": "Recipient of Shri Gopal Sharma Scholarship for Academic Excellence <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ryan International School",
+            "degree": "CBSE X",
+            "field": "10/10",
+            "start_year": "2004",
+            "end_year": "2016",
+            "description": "Activities and Societies: Student Parliament 2014-16, Quizzing, Chess and Fine Arts Recipient of \"Excellence in Academics\", \"Best All-Rounder Student\" and \"Maths Wiz Kid\" awards",
+            "description_html": "Activities and Societies: Student Parliament 2014-16, Quizzing, Chess and Fine Arts",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Economic Empowerment",
+            "duration": "Aug 2018 - Apr 2020 · 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Apr 2020",
+            "start_date": "Aug 2018",
+            "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+            "title": "Intern | Associate | Manager"
+        },
+        {
+            "cause": "Science and Technology",
+            "duration": "Jan 2021 - Jan 2021 · 1 month",
+            "duration_short": "1 month",
+            "end_date": "Jan 2021",
+            "start_date": "Jan 2021",
+            "subtitle": "Harvard Project for Asian and International Relations (HPAIR)",
+            "title": "Delegate"
+        },
+        {
+            "cause": "Health",
+            "duration": "May 2020 - Oct 2020 · 6 months",
+            "duration_short": "6 months",
+            "end_date": "Oct 2020",
+            "start_date": "May 2020",
+            "subtitle": "Combat COVID-19 | An IIT KGP students' Initiative",
+            "title": "Founding Team"
+        },
+        {
+            "cause": "Social Services",
+            "duration": "Jul 2018 - Apr 2020 · 1 year 10 months",
+            "duration_short": "1 year 10 months",
+            "end_date": "Apr 2020",
+            "start_date": "Jul 2018",
+            "subtitle": "National Service Scheme",
+            "title": "Community Volunteer"
+        },
+        {
+            "cause": "Education",
+            "duration": "Jan 2020 - Jun 2023 · 3 years 6 months",
+            "duration_short": "3 years 6 months",
+            "end_date": "Jun 2023",
+            "start_date": "Jan 2020",
+            "subtitle": "Course Hero",
+            "title": "Mathematics Tutor"
+        },
+        {
+            "cause": "Education",
+            "duration": "Oct 2020 - Apr 2023 · 2 years 7 months",
+            "duration_short": "2 years 7 months",
+            "end_date": "Apr 2023",
+            "start_date": "Oct 2020",
+            "subtitle": "Student Welfare Group, IIT Kharagpur",
+            "title": "Student Mentor"
+        },
+        {
+            "cause": "Arts and Culture",
+            "duration": "Jan 2019 - Feb 2019 · 2 months",
+            "duration_short": "2 months",
+            "end_date": "Feb 2019",
+            "start_date": "Jan 2019",
+            "subtitle": "Spring Fest",
+            "title": "Crew Member"
+        }
+    ],
+    "followers": 2852.0,
+    "connections": 500.0,
+    "current_company_company_id": "citi",
+    "current_company_name": "Citi",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "shashwatdrolia7",
+    "activity": [
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "The ex-quants in China dropped the best open-source LLM in the world: DeepSeek V3! — 671B params, 37B active MoE — On par with 3.5 Sonnet and 4o —…",
+            "img": "",
+            "id": "7278125943754211329"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "\"I went from selling 20L of products per day to watching my generational-wealth dream crumble under Amazon\" An e-commerce founder's shared the story…",
+            "img": "",
+            "id": "7277926995227824130"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "All-in-One Guide to Venture Capital Valuation Method. What an investor wants from a startup, a successful exit. They seek a return equal to multiple…",
+            "img": "",
+            "id": "7277584395232829442"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "Computer science in college vastly underprepares you for a real software job. The Missing Semester of Your CS Education from MIT is my favorite…",
+            "img": "",
+            "id": "7276644634229940225"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "Hi folks, The last few weeks were amazing as I was invited to deliver a lightning talk at the Meta HQ in Menlo Park, California, as a part of the…",
+            "img": "",
+            "id": "7276214667545296896"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "After 6 years, BERT, the workhorse of encoder models, finally gets a replacement: 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗠𝗼𝗱𝗲𝗿𝗻𝗕𝗘𝗥𝗧! 🤗 We talk a lot about…",
+            "img": "",
+            "id": "6"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "Founders suck at saying no to investors when they are not ready. VCs are always evaluating even if they mean to \"catch-up\". Letting an investor…",
+            "img": "",
+            "id": "7275110469378392064"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "Someone will make $10M+ in 2025 just by rebuilding existing mobile apps Here's the exact playbook they'll use (save this): 1) Find apps people…",
+            "img": "",
+            "id": "2025"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "One of YC's largest consumer startups was paying an ad consultant 310k/yr to monitor competitor ad strategies Gemini + o1 completely replaced them…",
+            "img": "",
+            "id": "7274487206876975104"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "Recently, a kid broke into one of our homes. We could’ve been mad….but honestly? We get it.",
+            "img": "",
+            "id": "7272482753051291648"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "15 days journey memorable for lifetime- Jagriti Yatra 2024 I am thrilled to share that I was part of this year's Jagriti yatra, a transformative 15…",
+            "img": "",
+            "id": "7270151230964846593"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "What started as hosting house parties and a passion for mixology has grown into BusinessBar, a full-time passion project. At BusinessBar, we bring…",
+            "img": "",
+            "id": "7267152962668371968"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "🔎One of my most favorite GenAI Products at Booking.com is - surprise - not a chatbot!🔎 A couple months ago we launched 🦸 Smart Filters 🦸 -…",
+            "img": "",
+            "id": "7263847383245975552"
+        },
+        {
+            "interaction": "Liked by Shashwat Drolia",
+            "link": "",
+            "title": "With campaigns like this, print appears to be evolving into something new: experiential marketing. By asking the reader to wipe the milk off the…",
+            "img": "",
+            "id": "7263779101990100992"
+        }
+    ],
+    "linkedin_num_id": 693422745.0,
+    "honors_and_awards": [
+        {
+            "title": "Winner | Biz Gyan Tree B-Plan Competition",
+            "publication": "Jagriti Yatra",
+            "date": "2024-11-01T00:00:00.000Z",
+            "description": "• Won the annual Social Enterprise Business Plan Competition among 50+ teams in Jagriti Yatra"
+        },
+        {
+            "title": "Best B.Tech Project Award",
+            "publication": "IIT Kharagpur",
+            "date": "2022-12-01T00:00:00.000Z",
+            "description": "• Awarded for the best bachelor's thesis project"
+        },
+        {
+            "title": "IIT KGP Alumni Foundation Scholarship",
+            "publication": "IIT KGP Foundation",
+            "date": "2022-05-01T00:00:00.000Z",
+            "description": "• Selected 1/12 for a $4,000 grant among all the Undergrads and Postgrads at IIT Kharagpur"
+        },
+        {
+            "title": "Jnan Chandra Ghosh Endowment Prize",
+            "publication": "IIT Kharagpur",
+            "date": "2021-12-01T00:00:00.000Z",
+            "description": "• Awarded for consistently being the DR-1"
+        },
+        {
+            "title": "Prof. J. P. Ghosh Memorial Award",
+            "publication": "IIT Kharagpur",
+            "date": "2021-12-01T00:00:00.000Z",
+            "description": "• Awarded a grant of INR 10,000 for the best academic performance (10/10) in the toughest depth course in 3rd year"
+        },
+        {
+            "title": "Winner | Adhhyayan Socio Innovation Case Challenge",
+            "publication": "Dalmia Group",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": "• Won the National Case Challenge on Improving Gross Enrollment ratio in Indian Higher Education, spanning across 3 rounds and among 250+ teams across India and received a prize of INR 30,000"
+        },
+        {
+            "title": "1ˢᵗ Runner-up | Penn Blockchain Crypto Investing Competition",
+            "publication": "University of Pennsylvania & IBM",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "• Achieved a portfolio return rate of 78.9% in cryptocurrency trading during the 2-weeks long virtual trading competition to secure the 2ⁿᵈ position and a prize of $200"
+        },
+        {
+            "title": "National Finalist | Case-O-Crypt Case Study Competition",
+            "publication": "Ramjas College, Delhi University",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": "• Stood among the top-6 out of 350+ teams in the National Case Study Competition, spanning across 3 rounds: Aptitude Quiz, Market Entry Case Study and Case Interview"
+        },
+        {
+            "title": "Global Finalist | Hack Makers #BuildwithAI Showcase",
+            "publication": "Google Cloud, AWS, IBM & Oracle",
+            "date": "2020-08-01T00:00:00.000Z",
+            "description": "• Selected among the International Top-50 teams out of 4000+ participants and 300+ submissions from 70+ countries for the final round for our ML-based healthcare web-application"
+        },
+        {
+            "title": "National Top-40 | Realme Paysa UPI Hackathon",
+            "publication": "NPCI, FinShell & HDFC Bank",
+            "date": "2020-05-01T00:00:00.000Z",
+            "description": "• Selected among the National Top-40 among 4000+ participating teams consisting of students and professionals across India for building an innovative prototype of a Unified Payments Interface (UPI) app"
+        },
+        {
+            "title": "1ˢᵗ Runner-up | Samudramanthan Case Study Competition",
+            "publication": "SagarMala, Ministry of Shipping (Government of India)",
+            "date": "2020-03-01T00:00:00.000Z",
+            "description": "• Formulated solutions for a live case to leverage the inland waterways and coastal shipping for domestic freight in India to secure the 2ⁿᵈ position among 150+ teams and recieved a cash prize of INR 10,000"
+        },
+        {
+            "title": "UTSIP Fellowship",
+            "publication": "University of Tokyo, Japan",
+            "date": "2020-03-01T00:00:00.000Z",
+            "description": "• Selected among the top 25 students worldwide for the prestigious University of Tokyo Summer Internship Program and Scholarship (UTSIP) of JPY 110,000"
+        },
+        {
+            "title": "ME Challenge: Data Architecture Hackathon | 1ˢᵗ Runner-up",
+            "publication": "Manthan Software Services",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "• Stood 2ⁿᵈ among 500+ teams across India and recieved a prize of INR 50,000 • Conceptualized a digital platform based on Blockchain and smart contracts for user data privacy and monetization"
+        },
+        {
+            "title": "National Standard Examination in Astronomy",
+            "publication": "Indian Association of Physics Teachers (IAPT)",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "• Qualified for the Indian National Astronomy Olympiad (INAO) being among the Top-8 in the state"
+        },
+        {
+            "title": "NTSE Scholarship",
+            "publication": "NCERT, Government of India",
+            "date": "2016-06-01T00:00:00.000Z",
+            "description": "• Recipient of the annually recurring scholarship from high school to PhD for academic excellence, for being among the top 1000 out of ~1Mn students in secondary school (X)"
+        },
+        {
+            "title": "Certificate of Merit",
+            "publication": "CBSE",
+            "date": "2016-05-01T00:00:00.000Z",
+            "description": "• Awarded the Certificate of Merit for exceptional performance in All India Secondary School Examination 2016"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

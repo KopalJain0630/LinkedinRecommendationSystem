@@ -1,0 +1,31 @@
+{
+    "city": "New York, New York, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Georgia Institute of Technology",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2000",
+            "end_year": "2004",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Nomura",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

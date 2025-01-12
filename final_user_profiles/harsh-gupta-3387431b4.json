@@ -1,0 +1,74 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Maulana Azad National Institute of Technology",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "..",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ".",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Design Thinking: Understanding the Process"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID nlcert4lthex3q6tcp8t45See credential",
+            "subtitle": "NextLeap",
+            "title": "Associate Product Manager Fellowship"
+        },
+        {
+            "meta": "Issued Jan 2022",
+            "subtitle": "Udemy",
+            "title": "Business Intelligence Analyst "
+        }
+    ],
+    "current_company_name": "Sprinklr",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Visualising the probability of employees’ absenteeism using Software Integration\",\"start_date\":\"Jan 2022\",\"end_date\":\"Feb 2022\",\"description\":\"-Data cleaning on Employee Absenteeism Database was performed in Python (Jupyter Notebook) and absenteeism probability is determined.-Connection will be established between Jupyter Notebook and MYSQL Workbench and data will be transferred to MYSQL Workbench for securing the prediction model and ease in visualization.-Visualization will be done on Tableau, showing the probabilities of employees’ absenteeism depending on various categorical variables.\"},{\"title\":\"Using a company’s employee database to create a dashboard, visualising it’s gender representation year by year with the help of SQL and Tableau.\",\"start_date\":\"Apr 2021\",\"end_date\":\"May 2021\",\"description\":\"Breakdown between the male and female employees working in the company each year then comparing the number of male managers to the number of female managers from different departments for every year starting from 1990.Compared the average salary of female versus male employees in the entire company.Using stored procedure, obtained the average male and female salary per department within a certain salary range,when range input is given by the user.\"},{\"title\":\"Synthesis and Characterization of Sic/C composite using Spark Plasma Sintering method.\",\"start_date\":\"Sep 2020\",\"end_date\":\"Apr 2021\",\"description\":\"A Silicon Carbide/Carbon(SiC/C) Composite is synthesized via Spark Plasma Sintering technique.The synthesized composite is then characterized using XRD for determining its crystal structure and distribution of reinforcement in matrix.SEM was done on the composite for studying the microstructure and topography of the material.\"},{\"title\":\"Synthesis and characterization of Aluminium Metal Matrix Composite reinforced with Silicon Carbide Fibers\",\"start_date\":\"Jan 2020\",\"end_date\":\"Mar 2020\",\"description\":\"Reinforcement of SiC fibres in Al matrix using Stir Casting method. Characterization of the formed composite: Hardness test,tensile test and microstructural analysis using XRD & SEM .\"}]",
+    "honors_and_awards": [
+        {
+            "title": "International Olympiad of Mathematics",
+            "publication": "-",
+            "date": "2008-01-01T00:00:00.000Z",
+            "description": "School Rank 2, State Rank 26 and International Rank 692"
+        },
+        {
+            "title": "International English Olympiad",
+            "publication": "-",
+            "date": null,
+            "description": "State rank 13 and International rank 260"
+        },
+        {
+            "title": "National Science Olympiad",
+            "publication": "-",
+            "date": null,
+            "description": "Merit in \"12th National Science Olympiad\", with AIR 685 in the final round of the competition held at National Level in Delhi"
+        }
+    ]
+}

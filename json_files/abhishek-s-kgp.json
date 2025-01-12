@@ -1,0 +1,224 @@
+{
+    "id": "abhishek-s-kgp",
+    "name": "Abhishek Singh",
+    "city": "India",
+    "country_code": "IN",
+    "position": "Trader at Axxela | IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Axxela",
+        "company_id": "axxela-research-and-analytics",
+        "title": "Trader at Axxela | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Financial Analyst",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Axxela",
+            "company_id": "axxela-research-and-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Consultant",
+            "location": "India",
+            "description_html": null,
+            "duration": "Apr 2023 - Present 1 year 9 months",
+            "start_date": "Apr 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 9 months",
+            "company": "WorldQuant",
+            "company_id": "worldquant",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Visiting Student Researcher",
+            "location": "Coventry, England, United Kingdom",
+            "description_html": null,
+            "duration": "Jun 2023 Sep 2023 4 months",
+            "start_date": "Jun 2023",
+            "end_date": "Sep 2023",
+            "duration_short": "4 months",
+            "company": "University of Warwick",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Stanford, California, United States",
+            "description_html": null,
+            "duration": "May 2023 Sep 2023 5 months",
+            "start_date": "May 2023",
+            "end_date": "Sep 2023",
+            "duration_short": "5 months",
+            "company": "Stanford University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Research Analyst",
+            "location": "India",
+            "description_html": null,
+            "duration": "Apr 2023 Jun 2023 3 months",
+            "start_date": "Apr 2023",
+            "end_date": "Jun 2023",
+            "duration_short": "3 months",
+            "company": "WiJungle",
+            "company_id": "wijungle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Finance and ML Intern",
+            "location": "Ottawa, Canada",
+            "description_html": null,
+            "duration": "Apr 2022 Oct 2022 7 months",
+            "start_date": "Apr 2022",
+            "end_date": "Oct 2022",
+            "duration_short": "7 months",
+            "company": "University of Ottawa",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Arjun kaushik",
+            "about": "Developer",
+            "location": "Uttar Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jagruti Metaliya",
+            "about": "Web Developer | Laravel | CodeIgniter | Reactjs | React Native",
+            "location": "Gandhinagar"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Sharma",
+            "about": "Software Developer at National E-Governance Division | DIC",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Raj Kaushik",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Marmat",
+            "about": "React Native Developer Android - IOS | React Js | Javascript | Typescript",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Bhatnagar",
+            "about": "Software Engineer @ Optum | Full-Stack Development | .Net | SQL | Azure",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Raghavendra Pratap Singh",
+            "about": "Software Engineer",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Yashvi Mahapatra",
+            "about": "Software Engineer",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Vaibhav Gupta",
+            "about": "Senior Web Developer at Dotsquares",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Himanshi Negi",
+            "about": "Junior SharePoint Developer at WSP in India",
+            "location": "Delhi, India"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master's degree",
+            "field": "Economics",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "University of Warwick",
+            "degree": "Visiting Student Researcher",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2021See credential",
+            "subtitle": "WorldQuant University",
+            "title": "Applied Data Science II: Machine Learning & Statistical Analysis (with honors)"
+        },
+        {
+            "meta": "Issued Jun 2021See credential",
+            "subtitle": "WorldQuant University",
+            "title": "Applied Data Science I: Scientific Computing & Python (with honors)"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID SS8B4P7MTCP3See credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Front-End Web UI Frameworks and Tools: Bootstrap 4"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID 56F2BKAQGRDTSee credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "HTML, CSS, and JavaScript for Web Developers"
+        }
+    ],
+    "recommendations": [
+        "Viraj Madke “Abhishek is a very dedicated person and takes deadlines very seriously. He is very friendly and works especially well in a team. If you are in a pinch, he'll always try to help you.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 1222.0,
+    "connections": 500.0,
+    "current_company_company_id": "axxela-research-and-analytics",
+    "current_company_name": "Axxela",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "abhishek-s-kgp",
+    "activity": null,
+    "linkedin_num_id": 574854960.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

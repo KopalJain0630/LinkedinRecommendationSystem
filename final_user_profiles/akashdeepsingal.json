@@ -1,0 +1,43 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Institute of Maritime Studies Goa",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2006",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Effective Public Speaking\"}]",
+    "certifications": [
+        {
+            "subtitle": "NUSI Maritime Academy Goa",
+            "title": "Elementary First Aid"
+        },
+        {
+            "subtitle": "NUSI Maritime academy Goa",
+            "title": "Fire Prevention and Fire Fighting"
+        },
+        {
+            "subtitle": "NUSI Maritime Academy Goa",
+            "title": "Personal Survival Techniques"
+        }
+    ],
+    "current_company_name": "Jar",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Design of Seat Track for a conceptual plane\",\"start_date\":\"Jan 2010\",\"description\":\"Hands on experience on live project ‘Preliminary Design of Seat Track for a conceptual plane being developed by Infosys'. It involved study of various loads acting on the seat track of the plane. Analyzing the bending moment and shear force according to given parameters. Find out critical cases for design purpose. To select the suitable material, cross section and finalize the dimensions of the seat track keeping in mind the strength to weight ratio for design.\"},{},{}]",
+    "honors_and_awards": null
+}

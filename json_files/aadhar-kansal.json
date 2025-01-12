@@ -1,0 +1,347 @@
+{
+    "id": "aadhar-kansal",
+    "name": "Aadhar Kansal",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "SDE at Blinkit ||  IIT(BHU), Varanasi",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Blinkit",
+        "company_id": "letsblinkit",
+        "title": "SDE at Blinkit ||  IIT(BHU), Varanasi"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Blinkit",
+            "company_id": "letsblinkit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 Jul 2024 1 year 1 month",
+            "start_date": "Jul 2023",
+            "end_date": "Jul 2024",
+            "duration_short": "1 year 1 month",
+            "company": "Alltius",
+            "company_id": "alltius",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description": "• Developed social login authentication package which can be directly integrated with different authentication services.• Handled backend system of the platform to allow crypto exchanges & wrote cron jobs to automate payment system.• Migrated REST APIs to GraphQL based endpoints which improved the response time on complex queries by 19%.• Used Django Tenants to implement backend system for a SAAS model & added multiple role access system feature.• Exposure: Python, Django Rest Framework, Django Tenants, GraphQL, AWS Cognito, PostgreSQL",
+            "description_html": "• Developed social login authentication package which can be directly integrated with different authentication services.• Handled backend system of the platform to allow crypto exchanges &amp; wrote cron jobs to automate payment system.• Migrated REST APIs to GraphQL based endpoints which improved the response time on complex queries by 19%.• Used Django Tenants to implement backend system for a SAAS model &amp; added multiple role access system feature.• Exposure: Python, Django Rest Framework, Django Tenants, GraphQL, AWS Cognito, PostgreSQL",
+            "duration": "May 2022 Jul 2023 1 year 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "1 year 3 months",
+            "company": "MatchPoint Solutions",
+            "company_id": "matchpoint-x",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description": "• Optimised video processing service by 33% using Multiprocessing in celery resulting in 19% faster video dubbing.• Used celery chunks for multi-segment video processing and updated the database models to store these segments.• Developed APIs for new features and integrated several services like Vimeo, Google Drive for better UX of product• Migrated the server to Asynchronous Server Gateway Interface to handle multi-processing pools.• Exposure: Python, Django, Django Rest Framework, Celery, PostgreSQL, AWS(EC2)",
+            "description_html": "• Optimised video processing service by 33% using Multiprocessing in celery resulting in 19% faster video dubbing.• Used celery chunks for multi-segment video processing and updated the database models to store these segments.• Developed APIs for new features and integrated several services like Vimeo, Google Drive for better UX of product• Migrated the server to Asynchronous Server Gateway Interface to handle multi-processing pools.• Exposure: Python, Django, Django Rest Framework, Celery, PostgreSQL, AWS(EC2)",
+            "duration": "Sep 2021 Nov 2021 3 months",
+            "start_date": "Sep 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "3 months",
+            "company": "Dübverse",
+            "company_id": "dubverse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "description": "• Developed backend for centralized version control system and created a CLI tool to interact with it.• Created an email microservice from scratch, integrated SSO, and deployed using E2 virtual machine on GCP.• Implemented topological sort algorithm to ensure dependency conditions are satisfied and acyclicity is maintained• Optimized the backend architecture (backend for frontend) using Gevent, making it 28% faster.• Exposure: Python, Django, Django Rest Framework, Python Click, PostgreSQL, GCP",
+            "description_html": "• Developed backend for centralized version control system and created a CLI tool to interact with it.• Created an email microservice from scratch, integrated SSO, and deployed using E2 virtual machine on GCP.• Implemented topological sort algorithm to ensure dependency conditions are satisfied and acyclicity is maintained• Optimized the backend architecture (backend for frontend) using Gevent, making it 28% faster.• Exposure: Python, Django, Django Rest Framework, Python Click, PostgreSQL, GCP",
+            "duration": "Apr 2021 Aug 2021 5 months",
+            "start_date": "Apr 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "5 months",
+            "company": "Viga Entertainment Technology",
+            "company_id": "viga-et",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Palak Thapar",
+            "about": "Engineer @ Samsung Electronics | Software Developer | Android Developer | Web Developer",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Soubhagya Ranjan Das",
+            "about": "Analyst @ Deloitte",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Vinay Kumar Jain",
+            "about": "DC Analyst @Deloitte USI ||Intern at Vaaan Infra||TIET'23",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Tirthesh Sohani",
+            "about": "Embedded Systems Engineer at Atomberg Technologies",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Tharun Nayak",
+            "about": "Data Scientist @Microsoft AI | Python, Tensorflow | Mathematics and Computing IIT BHU",
+            "location": "Varanasi"
+        },
+        {
+            "profile_link": "",
+            "name": "Atharva Adhav",
+            "about": "Software Engineer @Arista Networks",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Neel Gadikar",
+            "about": "SPJIMR, PGDM 2024-2026 | Associate Solution Leader @ Brane Enterprises Pvt Ltd | AI Solutions, Robotics | Addverb Technologies | Samsung R&D",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Soni",
+            "about": "System Engineer | TCS | Azure Platform & Kubernetes Service Administrator",
+            "location": "Indore"
+        },
+        {
+            "profile_link": "",
+            "name": "Divyanshu Pandey",
+            "about": "Salesforce Developer | 5X Salesforce Certified | Computer Science",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "RITESH NIKAM",
+            "about": "Bigdata Engineer at TCS",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Amogh Sinkar",
+            "about": "Software Engineer At JP Morgan Chase & Co.",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Tamojit Sarkar",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhupendra Singh Yadav",
+            "about": "MTS-2@Tessell",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Swadeep .",
+            "about": "Cybersecurity Graduate Student | AI/ML Enthusiast | Open to Opportunities",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Dhall",
+            "about": "Associate Technical Consultant @ Adobe |Ex-Research Intern'24 @ISRO SAC | Ex-Summer Intern'23 @Adobe | Samsung Prism Research Intern | Ex-Team Captain and Avionics Engineer at Team Sammard",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Rakshit Kadam",
+            "about": "Software Engineering Intern | Ex-SDE at Amazon (AWS) | Intern at Google & Arista Networks | Competitive Coding(Codeforces Candidate Master) | MSCS at Purdue University",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Mulagapaka",
+            "about": "Student",
+            "location": "Visakhapatnam"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhijeet Chatterjee",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ataj Singh",
+            "about": "Associate Consultant at Capgemini",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanshu Agarwal",
+            "about": "SDE @HubbleMoney",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+    "education": [
+        {
+            "title": "Indian Institute of Technology (Banaras Hindu University), Varanasi",
+            "degree": "Integrated Dual Degree ( B-Tech + M-Tech)",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": [
+        "Vibhanshu Abhishek “Aadhar was a part of the amazing Alltius engineering team. It was a pleasure to have Aadhar work with us. His dedication and engineering prowess were highly appreciated. He would be great in any team! All the best.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 2371.0,
+    "connections": 500.0,
+    "current_company_company_id": "letsblinkit",
+    "current_company_name": "Blinkit",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Task manager web app\",\"start_date\":\"Jun 2019\",\"end_date\":\"Jul 2019\",\"description\":\"This is a Django based task management web app having the feature of managing multiple users.\"},{\"title\":\"Smart locker (Based on IoT, fully controllable from a bank website)\",\"start_date\":\"May 2019\",\"end_date\":\"Jul 2019\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "aadhar-kansal",
+    "activity": [
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "IIT (BHU) has achieved a remarkable feat by securing 73 patents in 2024, effectively averaging one patent grant every five days. This accomplishment…",
+            "img": "",
+            "id": "7265625386028285953"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "When I finished high school, I planned to pursue my undergraduate studies in the U.S., but circumstances led me to change my course. Instead, I…",
+            "img": "",
+            "id": "7251456710849011712"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "If you're going to ITC Vegas, I'll be waiting with my Alltius teammates at Booth B2. I'm proud of what our team has built and planned for the booth…",
+            "img": "",
+            "id": "7250217223175213056"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "On this Teacher’s Day, IIT (BHU), Varanasi extends our deepest respect and gratitude towards all teachers for shaping the youth of India. On this…",
+            "img": "",
+            "id": "7237329765928427520"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "#CypherWinner🏆 Thrilled to win the #CypherBuzz Contest at India's Largest AI Summit #Cypher2023 representing Shell Grateful for the opportunity…",
+            "img": "",
+            "id": "7118899184304357376"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "On the occasion of the 78th Independence Day, Professor Amit Patra, Director of IIT (BHU), extended his warmest felicitations to the entire institute…",
+            "img": "",
+            "id": "7229806391127908352"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "Professor Amit Patra, Director of the Indian Institute of Technology (BHU), Varanasi, made a courtesy visit to Professor Sudhir Kumar Jain, the…",
+            "img": "",
+            "id": "7197238767080923136"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "Greetings Connections! With the blessings of Mahadev, I am excited to announce that I have been offered admission to the flagship Post Graduate…",
+            "img": "",
+            "id": "7189657601511415808"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "Today marks a significant milestone as we celebrate 105 years of brilliance and heritage at the Institute. Founded by the illustrious visionary…",
+            "img": "",
+            "id": "7163386717285142528"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "The Training and Placement Cell, Indian Institute of Technology (BHU) Varanasi, conducted its placement drive for the academic session 2023-24, which…",
+            "img": "",
+            "id": "7159886546077126656"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "This Republic Day, IIT(BHU) echoes with the vibrant chorus of resilience and progress! We remember the freedom fighters who paved the way, the…",
+            "img": "",
+            "id": "7156488428786700289"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "🚀 Exploring Exciting Opportunities in Software Development! 🚀 Hello LinkedIn community, I hope this post finds you well. I am , a passionate…",
+            "img": "",
+            "id": "7152217457670144000"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "The Prime Minister's Research Fellowship (PMRF) is a prestigious initiative in India aimed at nurturing research talent in various disciplines. It…",
+            "img": "",
+            "id": "7150424225357422592"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "As CEO of Alltius, I’ve spent a lot of time talking to business leaders about AI. During the start of the year 2023, my conversations centered on the…",
+            "img": "",
+            "id": "7148127700061216768"
+        },
+        {
+            "interaction": "Liked by Aadhar Kansal",
+            "link": "",
+            "title": "We are thrilled to introduce you to our incredible team member, Aadhar Kansal, a recent graduate from Indian Institute of Technology (Banaras Hindu…",
+            "img": "",
+            "id": "7143827660299771904"
+        }
+    ],
+    "linkedin_num_id": 685808664.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

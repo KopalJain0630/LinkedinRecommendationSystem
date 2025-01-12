@@ -1,0 +1,74 @@
+{
+    "city": "Dubai, Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Ivey Business School at Western University",
+            "url": "",
+            "start_year": "2018-03",
+            "end_year": "2019-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2004",
+            "end_year": "2008",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2019",
+            "subtitle": "The Marquee Group",
+            "title": "Financial Modeling: Building a Financial Model; Capital Structure (LBO) Modeling; Merger Modeling"
+        },
+        {
+            "meta": "Issued Jan 2018",
+            "subtitle": "CFA Institute",
+            "title": "CFA Level 2 Passed"
+        },
+        {
+            "meta": "Issued Sep 2017",
+            "subtitle": "Evalueserve",
+            "title": "Managers Development Program "
+        },
+        {
+            "meta": "Issued Jul 2017Expires Jul 2022",
+            "subtitle": "Graduate Management Admission Council™ (GMAC™)",
+            "title": "GMAT - 710"
+        },
+        {
+            "subtitle": "IIBF",
+            "title": "Certified Assosiate of Indian institute of banking (CAIIB)"
+        }
+    ],
+    "current_company_name": "Monitor Deloitte",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "MBA Leaders Scholarship in Value Investing",
+            "publication": "Ben Graham Center of Value Investing, Ivey Business School",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "Awarded annually based on academic achievement and demonstrated community leadership. The recipient will have demonstrated a strong interest in Value Investing and the intention to enroll in the MBA course in Value Investing at Ivey"
+        },
+        {
+            "title": "Richard Ivey Excellence Award",
+            "publication": "Ivey Business School",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "The Richard Ivey Excellence Award is presented to an outstanding incoming candidate to the Ivey MBA Program, recognizing academic achievement and leadership potential."
+        },
+        {
+            "title": "Scotiabank MBA Leaders Scholarship",
+            "publication": "Scotiabank",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "The Scotiabank MBA Leaders Scholarship is annually presented to a student entering the MBA program at the Ivey Business School, based on academic performance and community involvement. The successful candidate will exhibit evidence of character, energy and leadership potential. This award is made possible through the generosity of Scotiabank."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "city": "Deoband, Uttar Pradesh, India",
+    "position": "Software Engineer | ReactJs | React-Native | Javascript | Typescript",
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description": "● Performed code optimizations, resulting in a 10% improvement in website performance and responsiveness.● Successfully integrated RESTful APIs, improving data communication efficiency and reducing data retrieval time by 15%.● Collaborated in code reviews, resulting in a 20% increase in code quality metrics and maintainability.● Spearheaded the implementation of frontend frameworks such as React.js and Angular.js, resulting in a 30% improvement in overall website functionality and a 20% increase in user interactivity.",
+            "description_html": "● Performed code optimizations, resulting in a 10% improvement in website performance and responsiveness.● Successfully integrated RESTful APIs, improving data communication efficiency and reducing data retrieval time by 15%.● Collaborated in code reviews, resulting in a 20% increase in code quality metrics and maintainability.● Spearheaded the implementation of frontend frameworks such as React.js and Angular.js, resulting in a 30% improvement in overall website functionality and a 20% increase in user interactivity.",
+            "duration": "Jan 2022 Nov 2024 2 years 11 months",
+            "start_date": "Jan 2022",
+            "end_date": "Nov 2024",
+            "duration_short": "2 years 11 months",
+            "company": "IESoftek",
+            "company_id": "iesoftek",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Gurukula Kangri Vishwavidyalaya",
+            "degree": "Bsc computer Science",
+            "field": "Coding",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sarvodya Gyan Public School",
+            "degree": "Class - XII",
+            "field": "PCM",
+            "start_year": "2017",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sarvodya Gyan Public School",
+            "degree": "Class - X",
+            "field": "PCM",
+            "start_year": "2015",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "IESoftek",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Chat-App\",\"start_date\":\"Dec 2023\",\"end_date\":\"Jan 2024\",\"description\":\"Designed and implemented a cutting-edge chat application using the MERN(MongoDB, Express.js, React.js, Node.js) stack, providing users with aseamless and responsive real-time communication experience.• Leveraged socket.io to create a robust and efficient messaging system, ensuringinstant message delivery and enhancing the overall user engagement• Implemented real-time features such as typing indicators and instantnotifications, enhancing the interactivity and user-friendliness of the chatapplication.• Implemented a comprehensive logging and error-handling system to monitorand troubleshoot issues effectively, resulting in a more stable and resilient chatplatform\"},{\"title\":\"ECOMMERCE WEBSITE\",\"start_date\":\"Jul 2023\",\"end_date\":\"Sep 2023\",\"description\":\"A dynamic e-commerce platform using MERN stack. User-friendly UI, secure payments, optimized backend and user satisfaction.• Successfully integrated popular payment gateways, including Stripe, enablingsecure online transactions for users.• Both frontend and backend development, crafting engaging user interfaceswith React and managing server-side logic with Express.js and Node.js.• Implemented secure user authentication and authorization mechanisms,enhancing website security and providing personalized experiences forregistered users.• Designed and optimized the database architecture using MongoDB, ensuringefficient data flow, and maintaining data integrity.\"},{\"title\":\"CodePen Clone\",\"start_date\":\"Apr 2023\",\"end_date\":\"Jun 2023\",\"description\":\"A CodePen clone web application, providing users with a platform to write,test, and share HTML, CSS, and JavaScript code snippets in real-time\"},{\"title\":\"Todo-List\",\"start_date\":\"May 2022\",\"end_date\":\"Jul 2022\",\"description\":\"Spearheaded the development of a Todo List application leveraging theMERN (MongoDB, Express.js, React, Node.js) stack. This project aimed toprovide an intuitive task management solution with seamlesssynchronization between frontend and backend.\"},{\"title\":\"Quizzler App\",\"start_date\":\"Apr 2021\",\"end_date\":\"May 2021\",\"description\":\"Introducing a dynamic quiz app featuring a multitude of multiple-choice questions (MCQs). Each time you select an answer, the scorecard instantly updates, providing real-time feedback. Upon completion of the quiz, your final score will be prominently displayed on the screen..\"},{\"title\":\"Xylophone App\",\"start_date\":\"Mar 2021\",\"end_date\":\"Apr 2021\",\"description\":\"An Android app that provides an engaging and interactive experience for users to play and explore different sounds\"}]",
+    "honors_and_awards": null
+}

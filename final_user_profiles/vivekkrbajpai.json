@@ -1,0 +1,29 @@
+{
+    "city": "Bengaluru East, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Dr. A.P.J. Abdul Kalam Technical University",
+            "url": "",
+            "start_year": "2007",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Bachelor of Technology Computer Science\"}]",
+    "certifications": [
+        {
+            "meta": "Credential ID SCA20031113C2",
+            "subtitle": "Microsoft",
+            "title": "Microsoft Certified Professional"
+        }
+    ],
+    "current_company_name": "GoKwik",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Silverpush\",\"start_date\":\"Oct 2012\"},{},{},{\"title\":\"Launcher\",\"start_date\":\"Feb 2012\",\"end_date\":\"Dec 2013\",\"description\":\"Its a customize home screen launcher for android 4.0 .It replaces the built in Home screen of android and provide various useful feature.\"},{},{\"title\":\"WiseTouch\",\"start_date\":\"Feb 2012\",\"description\":\"Android tablet (Digital OOH tech) to be installed in Radio Taxi Cab in Delhi-NCR.WiseTouch facilitate static image Ads and video Ads from server, play games and watching moovies,get location update, handle user intervention, send the activity logs to server . This application has three endsClient - Android devicesSever – Controlling and watching devices.Advertiser –Third party Ads and Application\"},{},{},{},{\"title\":\"WiseTouch(Digital Media, Marketing ,Monetizing )\",\"start_date\":\"Sep 2011\",\"end_date\":\"Feb 2012\",\"description\":\"Android tablet based application to be installed in Radio Taxi Cab in Delhi NCR, WiseTouch facilitate static image Ads and video Ads from server, get location update, handle user intervention, send the activity logs to server . This application has three ends Client - Android devices Sever – Controlling and watching devices.Advertiser –Third party Ads and Application\"},{},{}]",
+    "honors_and_awards": null
+}

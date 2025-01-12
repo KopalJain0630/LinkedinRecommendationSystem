@@ -1,0 +1,213 @@
+{
+    "city": "Pune, Maharashtra, India",
+    "position": "Lead Data Scientist at Paytm | ex-Barclays | IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Paytm",
+            "description_html": null,
+            "duration": "3 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Paytm",
+                    "meta": "Apr 2023 - Present 1 year 9 months",
+                    "description": "- Collaborated with cross-functional teams including data analysts, software developers, and business stakeholders to define project objectives, requirements, and success criteria.  - Conducted extensive data exploration and analysis on historical merchant data to identify key features and patterns influencing lead conversion.- Developed predictive models using machine learning algorithms such as random forests, and gradient boosting machines to predict the likelihood of merchant conversions to Lending portfolio based on various demographic, behavioral, and transactional factors.- Integrated the Merchant Kernel Score system into the company's CRM platform and lead management workflow, providing scores and prioritization of merchant leads for sales and marketing teams.Achievements:- Successfully deployed the Merchant Kernel Score system, enabling the company to prioritize high-value merchant leads and allocate resources more efficiently, resulting in a 20% increase in lead conversion rates.- Implemented continuous monitoring and refinement processes to ensure the Merchant Kernel Score system remains accurate and effective over time, incorporating feedback from sales and marketing teams to improve model performance and relevance.- Presented project findings and insights to senior management, demonstrating the business impact of the Merchant Kernel Score system and its contribution to the company's strategic goals.",
+                    "duration": "Apr 2023 - Present 1 year 9 months",
+                    "start_date": "Apr 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 9 months",
+                    "title": "Lead Data Scientist",
+                    "description_html": "- Collaborated with cross-functional teams including data analysts, software developers, and business stakeholders to define project objectives, requirements, and success criteria.<br> <br>- Conducted extensive data exploration and analysis on historical merchant data to identify key features and patterns influencing lead conversion.<br><br>- Developed predictive models using machine learning algorithms such as random forests, and gradient boosting machines to predict the likelihood of merchant conversions to Lending portfolio based on various demographic, behavioral, and transactional factors.<br><br>- Integrated the Merchant Kernel Score system into the company's CRM platform and lead management workflow, providing scores and prioritization of merchant leads for sales and marketing teams.<br><br>Achievements:<br><br>- Successfully deployed the Merchant Kernel Score system, enabling the company to prioritize high-value merchant leads and allocate resources more efficiently, resulting in a 20% increase in lead conversion rates.<br><br>- Implemented continuous monitoring and refinement processes to ensure the Merchant Kernel Score system remains accurate and effective over time, incorporating feedback from sales and marketing teams to improve model performance and relevance.<br><br>- Presented project findings and insights to senior management, demonstrating the business impact of the Merchant Kernel Score system and its contribution to the company's strategic goals."
+                },
+                {
+                    "subtitle": "Paytm",
+                    "meta": "Nov 2021 - Present 3 years 2 months",
+                    "description": "-Price Sensitivity Model: Built a Price sensitivity model using the concept of uplift modeling to implement Platform fees across various utilities on Paytm such as Mobile prepaid/postpaid recharges, electricity, broadband, etc. This model helped in generating a revenue of over 6.5 Cr in 2 months without impacting the overall customer churn rate. It helped businesses meet their AOPs.-CLTV (Customer Lifetime Value): Built a customer lifetime value prediction model using clustering and RFM analysis, which predicts a customer's lifetime value on Paytm. This model enabled product and growth teams to better target their campaigns and generate more leads.-Customer Trust Score: This model was built to curtail fraudulent activities on the Wallet transactions on Paytm. It generates a score ( 0 to 1) for each user indicating the possibility of fraud by the user. This model has helped in blocking fraudulent transactions and controlling the fraud rate at 5bps.",
+                    "duration": "Nov 2021 - Present 3 years 2 months",
+                    "start_date": "Nov 2021",
+                    "end_date": "Present",
+                    "duration_short": "3 years 2 months",
+                    "title": "Assistant Manager",
+                    "description_html": "-Price Sensitivity Model: Built a Price sensitivity model using the concept of uplift modeling to implement Platform fees across various utilities on Paytm such as Mobile prepaid/postpaid recharges, electricity, broadband, etc. This model helped in generating a revenue of over 6.5 Cr in 2 months without impacting the overall customer churn rate. It helped businesses meet their AOPs.<br>-CLTV (Customer Lifetime Value): Built a customer lifetime value prediction model using clustering and RFM analysis, which predicts a customer's lifetime value on Paytm. This model enabled product and growth teams to better target their campaigns and generate more leads.<br>-Customer Trust Score: This model was built to curtail fraudulent activities on the Wallet transactions on Paytm. It generates a score ( 0 to 1) for each user indicating the possibility of fraud by the user. This model has helped in blocking fraudulent transactions and controlling the fraud rate at 5bps."
+                }
+            ],
+            "company": "Paytm",
+            "company_id": "paytm",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Business Analyst",
+            "location": "Pune Area, India",
+            "description": "•Sentiment Analysis: Built a sentiment analysis tool in Python by making use of NPS data and reviewsprovided by customers across various Barclays channels. This NLP tool was able to identify and point out essential features contributing to the negative as well as positive reviews provided by the customer with an accuracy of 89 %. •BMB-AID Pilot: Built an analytics engine using R programming that makes use of activity logs of various digital channels of Barclays, it identifies and predicts the possible customer journey across these channels, it further identifies the customer journeys which failed or were abandoned.• The root cause associated with failures of such journeys were also analyzed to give actionable insights to the stakeholders.• JIRA Automation: Wrote scripts in groovy to automate the task of creating an issue on Jira boardwhenever there is an outage across various components in the environment. The script sends automatic notifications in the form of an email as well to notify the outage.",
+            "description_html": "•Sentiment Analysis: Built a sentiment analysis tool in Python by making use of NPS data and reviewsprovided by customers across various Barclays channels. This NLP tool was able to identify and point out essential features contributing to the negative as well as positive reviews provided by the customer with an accuracy of 89 %. •BMB-AID Pilot: Built an analytics engine using R programming that makes use of activity logs of various digital channels of Barclays, it identifies and predicts the possible customer journey across these channels, it further identifies the customer journeys which failed or were abandoned.• The root cause associated with failures of such journeys were also analyzed to give actionable insights to the stakeholders.• JIRA Automation: Wrote scripts in groovy to automate the task of creating an issue on Jira boardwhenever there is an outage across various components in the environment. The script sends automatic notifications in the form of an email as well to notify the outage.",
+            "duration": "Jul 2018 Nov 2021 3 years 5 months",
+            "start_date": "Jul 2018",
+            "end_date": "Nov 2021",
+            "duration_short": "3 years 5 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Internship",
+            "location": "Gurgaon, India",
+            "description": "MARUTI TRUE VALUE PRICING ENGINE •Built a Predictive Model by using Machine Learning techniques that would predict a tentative purchasing price by evaluating all the parameters of the car where historical data was used to Train, Test and Refine the model. •carried out various steps such as : Data pre-processing , Model designing and building , Model Analysis and Refinement, Model Testing and Model Validation with various techniques and algorithms using R programming NAVIGATION MODEL•Developed a navigation model by using R packages on maps and plots to identify the correct path taken to reach a specific location.",
+            "description_html": "MARUTI TRUE VALUE PRICING ENGINE •Built a Predictive Model by using Machine Learning techniques that would predict a tentative purchasing price by evaluating all the parameters of the car where historical data was used to Train, Test and Refine the model. •carried out various steps such as : Data pre-processing , Model designing and building , Model Analysis and Refinement, Model Testing and Model Validation with various techniques and algorithms using R programming NAVIGATION MODEL•Developed a navigation model by using R packages on maps and plots to identify the correct path taken to reach a specific location.",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "AdGlobal360",
+            "company_id": "agl-hakuhodo",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Project",
+            "location": "Kharagpur Area, India",
+            "description": "•Research and data collection of different causes of accidents and types of accidents •Using different algorithms like MLR, SVM, KNN, CART, ARM and Text mining for better prediction model in R. •Analysed and studied different safety measures to be taken at a plant.",
+            "description_html": "•Research and data collection of different causes of accidents and types of accidents •Using different algorithms like MLR, SVM, KNN, CART, ARM and Text mining for better prediction model in R. •Analysed and studied different safety measures to be taken at a plant. <!---->",
+            "duration": "Jan 2017 Apr 2017 4 months",
+            "start_date": "Jan 2017",
+            "end_date": "Apr 2017",
+            "duration_short": "4 months",
+            "company": "Safety Analytics",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Digital Marketing Intern",
+            "location": "Mumbai Area, India",
+            "description": "I developed best practices for SEO in both B2B and B2C context, Optimized Ad Words, AdSense and Facebook Adverts, gave creative ideas for their clients, and recognized new social media platforms like Instagram, WhatsApp and their applicability in market.",
+            "description_html": "I developed best practices for SEO in both B2B and B2C context, Optimized Ad Words, AdSense and Facebook Adverts, gave creative ideas for their clients, and recognized new social media platforms like Instagram, WhatsApp and their applicability in market. <!---->",
+            "duration": "Nov 2016 Dec 2016 2 months",
+            "start_date": "Nov 2016",
+            "end_date": "Dec 2016",
+            "duration_short": "2 months",
+            "company": "Digital Espresso",
+            "company_id": "digital-espresso",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary Dramatics",
+            "location": "IIT Kharagpur",
+            "description": "I was responsible for helping General Secretary ,Social and Cultural in organizing Dramatics events in hall when needed and coordinated with hall boarders for active participation in all Dramatics events at the inter hall level as well as open IIT level.",
+            "description_html": "I was responsible for helping General Secretary ,Social and Cultural in organizing Dramatics events in hall when needed and coordinated with hall boarders for active participation in all Dramatics events at the inter hall level as well as open IIT level. <!---->",
+            "duration": "2015 2016 1 year",
+            "start_date": "2015",
+            "end_date": "2016",
+            "duration_short": "1 year",
+            "company": "Sarojini Naidu/Indira Gandhi hall of residence",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "location": "West Bengal, India",
+            "description": "• Publicized the fest in various colleges of Jharkhand and West Bengal and achieved a YoY increase of 200% in the participation• As a part of Corporate and Media Relations Team, was successful in bringing a total monetary amount of INR 2 lacs for the fest• Managed the accommodation of over 350 participants and served as a contact point for informationdissemination• Conducted TECHNOVA, the flagship event of COMPOSIT'16",
+            "description_html": "• Publicized the fest in various colleges of Jharkhand and West Bengal and achieved a YoY increase of 200% in the participation• As a part of Corporate and Media Relations Team, was successful in bringing a total monetary amount of INR 2 lacs for the fest• Managed the accommodation of over 350 participants and served as a contact point for informationdissemination• Conducted TECHNOVA, the flagship event of COMPOSIT'16 <!---->",
+            "duration": "2015 2016 1 year",
+            "start_date": "2015",
+            "end_date": "2016",
+            "duration_short": "1 year",
+            "company": "COMPOSIT, IIT Kharagpur",
+            "company_id": "composit-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Trainee",
+            "location": "Bokaro Area, India",
+            "description": "Observed the mechanism and working of sinter plant , blast furnace , coke oven, cold rolling mill and hot rolling mills in the metallurgical department of SAIL/BSL",
+            "description_html": "Observed the mechanism and working of sinter plant , blast furnace , coke oven, cold rolling mill and hot rolling mills in the metallurgical department of SAIL/BSL <!---->",
+            "duration": "Nov 2015 Dec 2015 2 months",
+            "start_date": "Nov 2015",
+            "end_date": "Dec 2015",
+            "duration_short": "2 months",
+            "company": "STEEL AUTHORITY OF INDIA LTD",
+            "company_id": "steel-authority-of-india-ltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Campus Affiliate",
+            "location": "Kharagpur Area, India",
+            "description": "•\tWorked with a team for 20 people for the publicity and ground level execution of events in Kshitij 2015.•\tResponsible for the in-house publicity of the online events of Kshitij 2015 among the 10,000 residents at the institute.•\tPublicized in colleges of West Bengal and Jharkhand getting the highest ever participation from the respective regions•\tLed the media campaign in Ranchi & responsible for 3 media articles in leading newspapers of the region.•\tInvolved in Guest reception team during the fest",
+            "description_html": "• Worked with a team for 20 people for the publicity and ground level execution of events in Kshitij 2015.• Responsible for the in-house publicity of the online events of Kshitij 2015 among the 10,000 residents at the institute.• Publicized in colleges of West Bengal and Jharkhand getting the highest ever participation from the respective regions• Led the media campaign in Ranchi &amp; responsible for 3 media articles in leading newspapers of the region.• Involved in Guest reception team during the fest",
+            "duration": "2014 2015 1 year",
+            "start_date": "2014",
+            "end_date": "2015",
+            "duration_short": "1 year",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Volunteer",
+            "location": "West Bengal, India",
+            "description": "was a part of an event PHONATHON wherein i personally contacted many alumni for institutes fundraising campaign.",
+            "description_html": "was a part of an event PHONATHON wherein i personally contacted many alumni for institutes fundraising campaign. <!---->",
+            "duration": "2014 2015 1 year",
+            "start_date": "2014",
+            "end_date": "2015",
+            "duration_short": "1 year",
+            "company": "Students' Alumni Cell, IIT kharagpur",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Chinmaya Vidyalaya",
+            "degree": "AISSCE",
+            "field": "Metallurgical Engineering",
+            "start_year": "2012",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Chinmaya Vidyalaya",
+            "degree": "AISSE : 10 CGPA",
+            "start_year": "2004",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2019Credential ID TPG8WLZ52XSXSee credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to Data Science in Python"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "HackerRank",
+            "title": "Python"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL"
+        }
+    ],
+    "current_company_name": "Paytm",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

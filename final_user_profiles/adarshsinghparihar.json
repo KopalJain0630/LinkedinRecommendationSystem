@@ -1,0 +1,293 @@
+{
+    "id": "adarshsinghparihar",
+    "name": "Adarsh Singh Parihar",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Developer @ Apple \u00e2\u20ac\u00a2 IIT KGP",
+    "about": "Adarsh works on cellular physical layer firmware at Apple. A graduate from IIT Kharagpur with a major in Instrumentation Engineering & a minor in Computer Science & Engineering, he's a technology enthusiast who loves building novel hardware products & software to create a positive impact on society & had small stints with Samsung Electronics, Effat University, EVG & OYO during his undergraduate studies. On a mission to build a sustainable future!",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Apple",
+        "company_id": "apple",
+        "title": "Software Developer @ Apple \u00e2\u20ac\u00a2 IIT KGP"
+    },
+    "experience": [
+        {
+            "title": "Software Firmware Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Cellular Physical Layer Firmware Engineer",
+            "description_html": "Cellular Physical Layer Firmware Engineer <!---->",
+            "duration": "May 2021 - Present 3 years 8 months",
+            "start_date": "May 2021",
+            "end_date": "Present",
+            "duration_short": "3 years 8 months",
+            "company": "Apple",
+            "company_id": "apple",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Embedded Software Team Lead",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Aspiring to develop technologies for Electric vehicles at affordable prices and better parameters like average speed, acceleration and range.\u00e2\u20ac\u00a2 Configured Bootloader on the microcontroller over a secure (CSEc module) communication protocol obtained through OTA (Over-the-Air) updates.\u00e2\u20ac\u00a2 Implemented the Battery Management System and communication system of the vehicle using the Controller Area Network (CAN) communication protocol.\u00e2\u20ac\u00a2 Tested GPS/GSM module for implementation in the vehicle; Implemented REST API and MQTT API to publish data online (through POST, GET requests).",
+            "description_html": "Aspiring to develop technologies for Electric vehicles at affordable prices and better parameters like average speed, acceleration and range.\u00e2\u20ac\u00a2 Configured Bootloader on the microcontroller over a secure (CSEc module) communication protocol obtained through OTA (Over-the-Air) updates.\u00e2\u20ac\u00a2 Implemented the Battery Management System and communication system of the vehicle using the Controller Area Network (CAN) communication protocol.\u00e2\u20ac\u00a2 Tested GPS/GSM module for implementation in the vehicle; Implemented REST API and MQTT API to publish data online (through POST, GET requests).",
+            "duration": "Nov 2018 Apr 2021 2 years 6 months",
+            "start_date": "Nov 2018",
+            "end_date": "Apr 2021",
+            "duration_short": "2 years 6 months",
+            "company": "Electric Vehicle Group, IIT Kharagpur",
+            "company_id": "electric-vehicle-group-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Assistant",
+            "description": "Project: COVID-19 detection from chest X-rays images using various deep learning methods and machine learning classification techniques.\u00e2\u20ac\u00a2 Analyzed the behaviour of multiple layer CNN architectures with classification parameters such as accuracy, F1-score, ROC AUC area and Kappa scores.\u00e2\u20ac\u00a2 Used machine learning classification techniques on top of features extracted by the various pre-trained models to train data of 6553 chest X-Ray images.\u00e2\u20ac\u00a2 Critically examined the change of performance brought about by transfer learning with different pre-trained models of Keras of which VGG 16 achieved the best results to get an accuracy of 94%; 6-CNN, MobileNetV2 and DenseNet121 models achieved the highest COVID-19 classification accuracy of 97%.",
+            "description_html": "Project: COVID-19 detection from chest X-rays images using various deep learning methods and machine learning classification techniques.\u00e2\u20ac\u00a2 Analyzed the behaviour of multiple layer CNN architectures with classification parameters such as accuracy, F1-score, ROC AUC area and Kappa scores.\u00e2\u20ac\u00a2 Used machine learning classification techniques on top of features extracted by the various pre-trained models to train data of 6553 chest X-Ray images.\u00e2\u20ac\u00a2 Critically examined the change of performance brought about by transfer learning with different pre-trained models of Keras of which VGG 16 achieved the best results to get an accuracy of 94%; 6-CNN, MobileNetV2 and DenseNet121 models achieved the highest COVID-19 classification accuracy of 97%.",
+            "duration": "Jul 2020 Aug 2020 2 months",
+            "start_date": "Jul 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "2 months",
+            "company": "Effat University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Engineering Intern",
+            "location": "Noida, Uttar Pradesh, India",
+            "description": "Project: To deevelop a realistic application algorithm to monitor the sleep quality of an individual unobtrusively using an off-the-shelf smartphone.\u00e2\u20ac\u00a2 Separated noise frames using specific variance features to build an ambient noise model to calculate the threshold of features for detecting sleep events.\u00e2\u20ac\u00a2 Developed a lightweight decision tree-based algorithm using extracted acoustic features to classify sleep events with an EDA accuracy of more than 93%.\u00e2\u20ac\u00a2 Detected sleep efficiency using activity score based on Actigraphy and PSQI based sleep quality estimation to achieve an FDA accuracy of more than 90%.",
+            "description_html": "Project: To deevelop a realistic application algorithm to monitor the sleep quality of an individual unobtrusively using an off-the-shelf smartphone.\u00e2\u20ac\u00a2 Separated noise frames using specific variance features to build an ambient noise model to calculate the threshold of features for detecting sleep events.\u00e2\u20ac\u00a2 Developed a lightweight decision tree-based algorithm using extracted acoustic features to classify sleep events with an EDA accuracy of more than 93%.\u00e2\u20ac\u00a2 Detected sleep efficiency using activity score based on Actigraphy and PSQI based sleep quality estimation to achieve an FDA accuracy of more than 90%.",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Samsung Electronics",
+            "company_id": "samsung-electronics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst Intern",
+            "location": "Gurugram, Haryana, India",
+            "description": "\u00e2\u20ac\u00a2 Analyzed 36 million customers booking data using 32 features to segment five different types of customers that OYO serves using unsupervised learning.\u00e2\u20ac\u00a2 Developed dashboards for tracking customer feedback and property audits on a real-time basis using Metabase to reduce UH feedbacks from 13% to 11%.\u00e2\u20ac\u00a2 Ideated and developed a code to schedule customized automated operations reports as mail, daily to the ground team for daily targets they need to hit.",
+            "description_html": "\u00e2\u20ac\u00a2 Analyzed 36 million customers booking data using 32 features to segment five different types of customers that OYO serves using unsupervised learning.\u00e2\u20ac\u00a2 Developed dashboards for tracking customer feedback and property audits on a real-time basis using Metabase to reduce UH feedbacks from 13% to 11%.\u00e2\u20ac\u00a2 Ideated and developed a code to schedule customized automated operations reports as mail, daily to the ground team for daily targets they need to hit. <!---->",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "OYO",
+            "company_id": "oyo-rooms",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": null,
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Instrumentation Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: \u00e2\u20ac\u00a2 Electric Vehicle Group IIT Kharagpur \u00e2\u20ac\u00a2 Lal Bahadur Shastri Hall Of Residence IIT Kharagpur \u00e2\u20ac\u00a2 Communiqu\u00c3\u00a9 IIT Kharagpur \u00e2\u20ac\u00a2 HeadStart RMSoEE Students' Cell IIT Kharagpur Academic Information: \u00e2\u20ac\u00a2 Major in Instrumentation Engineering. \u00e2\u20ac\u00a2 Minor in Computer Science & Engineering. Academic Achievements: \u00e2\u20ac\u00a2 Awarded MITACS Globalink Research Award 2020 worth 7000 CAD. \u00e2\u20ac\u00a2 Global finalist at Solvay Business Game 2020 conducted by McKinsey & Company. \u00e2\u20ac\u00a2 Amongst top 5% of the class to be offered a Department Change at the end of the first year. \u00e2\u20ac\u00a2 Granted Merit-based scholarship worth 1.2 lacs INR by INBA. Extra-Curricular Activities: \u00e2\u20ac\u00a2\u00e2\u20ac\u00a6 Show more",
+            "description_html": "Activities and Societies: \u00e2\u20ac\u00a2 Electric Vehicle Group IIT Kharagpur \u00e2\u20ac\u00a2 Lal Bahadur Shastri Hall Of Residence IIT Kharagpur \u00e2\u20ac\u00a2 Communiqu\u00c3\u00a9 IIT Kharagpur \u00e2\u20ac\u00a2 HeadStart RMSoEE Students' Cell IIT Kharagpur",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Central Board of Secondary Education",
+            "degree": "High School Diploma",
+            "field": "Mathematics",
+            "url": "",
+            "start_year": "2005",
+            "end_year": "2017",
+            "description": "\u00e2\u20ac\u00a2 Regional Finalist of RMO organized by ISI, Kolkata. \u00e2\u20ac\u00a2 Secured 1st rank in the district in AISSCE 2017. \u00e2\u20ac\u00a2 Amongst the top 1% candidates in NSEP & NSEC. \u00e2\u20ac\u00a2 Bagged State Rank 2 in IMO 2017 organised by SOF.",
+            "description_html": "\u00e2\u20ac\u00a2 Regional Finalist of RMO organized by ISI, Kolkata.\u00e2\u20ac\u00a2 Secured 1st rank in the district in AISSCE 2017. \u00e2\u20ac\u00a2 Amongst the top 1% candidates in NSEP &amp; NSEC.\u00e2\u20ac\u00a2 Bagged State Rank 2 in IMO 2017 organised by SOF. <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS60047\",\"title\":\"Advanced Graph Theory\"},{\"subtitle\":\"CS21003\",\"title\":\"Algorithms 1\"},{\"subtitle\":\"CS29003\",\"title\":\"Algorithms Lab\"},{\"subtitle\":\"CS60045\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"CS31702\",\"title\":\"Computer Architecture & Operating Systems\"},{\"subtitle\":\"CS31006\",\"title\":\"Computer Networks\"},{\"subtitle\":\"CS60010\",\"title\":\"Deep Learning\"},{\"subtitle\":\"EP60020\",\"title\":\"Foundations of Entrepreneurship\"},{\"subtitle\":\"AI42001\",\"title\":\"Machine Learning Foundations & Applications\"},{\"subtitle\":\"CS40032\",\"title\":\"Principles Of Programming Languages\"},{\"subtitle\":\"MA20106\",\"title\":\"Probability & Stochastic Processes\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming & Data Structures\"},{\"subtitle\":\"CS19101\",\"title\":\"Programming & Data Structures Lab\"},{\"subtitle\":\"CS60017\",\"title\":\"Social Computing\"},{\"subtitle\":\"EP60025\",\"title\":\"Special Topics in Entrepreneurship\"},{\"subtitle\":\"MA20101\",\"title\":\"Transform Calculus\"}]",
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Science and Technology",
+            "duration": "Aug 2017 - Apr 2021 \u00c2\u00b7 3 years 9 months",
+            "duration_short": "3 years 9 months",
+            "end_date": "Apr 2021",
+            "info": "\u00e2\u20ac\u00a2 Technology Advisor (Aug '20 - Apr '21)\u00e2\u20ac\u00a2 Technology Coordinator (Aug '19 - Jul '20)\u00e2\u20ac\u00a2 Technology Secretary (Aug '18 - Jul '19)\u00e2\u20ac\u00a2 Technology Associate (Aug '17 - Jul '18)Lal Bahadur Shastri Hall Of Residence is the latest of 21 halls of residence at IIT Kharagpur.Technology Coordinator:\u00e2\u20ac\u00a2 Elected by an electorate of 1900+ students to chair the post, ex officio member of Hall Council and managed a team of 20+ secretaries and associates.\u00e2\u20ac\u00a2 Disbursed budget of 2.75\u00e2\u20ac\u00a6\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          \u00e2\u20ac\u00a2 Technology Advisor (Aug '20 - Apr '21)\u00e2\u20ac\u00a2 Technology Coordinator (Aug '19 - Jul '20)\u00e2\u20ac\u00a2 Technology Secretary (Aug '18 - Jul '19)\u00e2\u20ac\u00a2 Technology Associate (Aug '17 - Jul '18)Lal Bahadur Shastri Hall Of Residence is the latest of 21 halls of residence at IIT Kharagpur.Technology Coordinator:\u00e2\u20ac\u00a2 Elected by an electorate of 1900+ students to chair the post, ex officio member of Hall Council and managed a team of 20+ secretaries and associates.\u00e2\u20ac\u00a2 Disbursed budget of 2.75 lacs INR; Secured 6 medals in 5 Open IIT events and Silver Medal in Ad Design, Technology General Championship 2019-20.\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Aug 2017",
+            "subtitle": "Lal Bahadur Shastri Hall of Residence IIT Kharagpur",
+            "title": "Technology Coordinator"
+        },
+        {
+            "cause": "Economic Empowerment",
+            "duration": "Mar 2020 - Jul 2020 \u00c2\u00b7 5 months",
+            "duration_short": "5 months",
+            "end_date": "Jul 2020",
+            "info": "HeadStart is an RMSoEE student cell that offers a strong platform, orientation, education, training, resources, networking and opportunities for KGP students having an inclination towards entrepreneurship.\u00e2\u20ac\u00a2 Coordinated a 30+ member team to collaborate with 50+ universities, 60+ IIT KGP Alumni & 2 Startup accelerators for funding, support and guidance.\u00e2\u20ac\u00a2 Pioneered online event KGPreneurs, which led to the incubation of 8 startups; Launched KGP Got Talent and connected 24 students with\u00e2\u20ac\u00a6\n            \n\n    \n    \n\n    \n        Show more\n\n          \n    \n  \n      \n\n        \n          HeadStart is an RMSoEE student cell that offers a strong platform, orientation, education, training, resources, networking and opportunities for KGP students having an inclination towards entrepreneurship.\u00e2\u20ac\u00a2 Coordinated a 30+ member team to collaborate with 50+ universities, 60+ IIT KGP Alumni & 2 Startup accelerators for funding, support and guidance.\u00e2\u20ac\u00a2 Pioneered online event KGPreneurs, which led to the incubation of 8 startups; Launched KGP Got Talent and connected 24 students with startups.\n            \n\n    \n    \n\n    \n        Show less",
+            "start_date": "Mar 2020",
+            "subtitle": "HeadStart RMSOEE Student Cell, IIT Kharagpur",
+            "title": "Coordinator"
+        },
+        {
+            "cause": "Education",
+            "duration": "Aug 2017 - Apr 2019 \u00c2\u00b7 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Apr 2019",
+            "info": "\u00e2\u20ac\u00a2 Secretary (Aug '18 - Apr '19)\u00e2\u20ac\u00a2 Associate (Aug '17 - Jul '18)Communiqu\u00c3\u00a9 is the official soft skills & personality development society of IIT Kharagpur. I coordinated a 4-tier team consisting of 60+ team members, assisted in managing a budget of 50K+ INR and organised 10 external events on campus during my secretary tenure.",
+            "start_date": "Aug 2017",
+            "subtitle": "Communiqu\u00c3\u00a9 IIT Kharagpur",
+            "title": "Secretary"
+        },
+        {
+            "cause": "Civil Rights and Social Action",
+            "duration": "Aug 2017 - Apr 2019 \u00c2\u00b7 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Apr 2019",
+            "info": "\u00e2\u20ac\u00a2 Lance Corporal (May '18 - Apr '19)\u00e2\u20ac\u00a2 Cadet (Aug '17 - Apr '18)Qualified NCC B-certificate examination with the highest grade & thereby promoted to the rank of Lance Corporal among 80 cadets for an excellent performance.",
+            "start_date": "Aug 2017",
+            "subtitle": "National Cadet Corps",
+            "title": "Lance Corporal"
+        },
+        {
+            "cause": "Education",
+            "duration": "Aug 2019 - Apr 2021 \u00c2\u00b7 1 year 9 months",
+            "duration_short": "1 year 9 months",
+            "end_date": "Apr 2021",
+            "info": "Mentored 5 first-year students of the Electrical Department to excel at academic and various extracurricular activities under Student-Mentor Program.",
+            "start_date": "Aug 2019",
+            "subtitle": "Student Welfare Group, IIT Kharagpur",
+            "title": "Student Mentor"
+        }
+    ],
+    "followers": 2024.0,
+    "connections": 500.0,
+    "current_company_company_id": "apple",
+    "current_company_name": "Apple",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "adarshsinghparihar",
+    "activity": [
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "Look who graduated!! Grateful for this challenging but immensely rewarding journey. As I step into the next chapter of my life, I would like to thank\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7118525629246922752"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "Last date extended!! Hurry!! Register today for our Tech Hackathon!! Don't miss out on this incredible opportunity to unleash your innovative ideas\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7081956280826740736"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "Why Would Anyone Bank Offshore? In recent years, offshore banking has become increasingly popular, with numerous individuals opting to establish\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7080456109966123008"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "Apple Interview Experience ->I got a Linkedin job notification for the SDE2 position at Apple Hyderabad saying this role might interest you based on\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6999953600068165632"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "Animation: If every State in India lived as densely as Delhi \u00e2\u20ac\u201c they can fit within the blue regions. And, all of India would nicely fit into the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6999330028110917632"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "Scrabble is running various CBO/CRO/COO and Co-founder level opportunities which is ranging from Stealth mode to Series A platforms from Web3, Health\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6988022282656858112"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "US President #JoeBiden has announced pardoning thousands of Americans convicted of marijuana possession under federal law. Biden, in a statement\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6984004362834460672"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "Every day I start my day with a math problem. I find them from various sources in pure maths, classical mechanics and statistics. I dedicate 30\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6983825428234780675"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "Your dreams and goals take you to your destination. Ratan Tata Sir invested in the startup named Generic Aadhaar because it can be very helpful to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6982903918955548672"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "I recently did a Delhi-Bangalore return trip for FREE and travelled business class both ways! Any business class ticket on a domestic route can\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6983263120202870784"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "While I was leaving Bangalore after 2 months of networking and breathing in the entrepreneurial air, I wouldn't have thought that the journey wasn\u00e2\u20ac\u2122t\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6981588782013722624"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "I am very delighted to share the news that I have started my PhD in EECS at the University of California, Berkeley. From a life-changing experience\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6981802120530288641"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "This photo is a lie. No, not the exact photo; I did go to Dubai, we did rent a luxury car to drive around, we did get lucky finding this spot to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "6980718084365914112"
+        },
+        {
+            "interaction": "Liked by Adarsh Singh Parihar",
+            "link": "",
+            "title": "I\u00e2\u20ac\u2122m happy to share that I\u00e2\u20ac\u2122m starting a new position as Software Engineer at McKinsey & Company! #softwareengineer #newjob #mckinsey",
+            "img": "",
+            "id": "6972579536165060608"
+        }
+    ],
+    "linkedin_num_id": 532089618.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

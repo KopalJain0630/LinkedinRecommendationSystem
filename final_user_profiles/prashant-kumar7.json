@@ -1,0 +1,185 @@
+{
+    "city": "Jhunjhunu, Rajasthan, India",
+    "position": "IIT Kharagpur'25 | AI Engineer@CMC Solutions, Japan | Data Scientist@Think360.ai | Data Science@RRI | Specialist@Codeforces",
+    "experience": [
+        {
+            "title": "Amazon ML Summer School Apprenticeship",
+            "description_html": null,
+            "duration": "Jul 2024 Jul 2024 1 month",
+            "start_date": "Jul 2024",
+            "end_date": "Jul 2024",
+            "duration_short": "1 month",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "AI Engineer",
+            "location": "Nagoya, Aichi, Japan",
+            "description_html": null,
+            "duration": "May 2024 Jul 2024 3 months",
+            "start_date": "May 2024",
+            "end_date": "Jul 2024",
+            "duration_short": "3 months",
+            "company": "CMC Solutions",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Mentor",
+            "location": "Nagpur, Maharashtra, India",
+            "description_html": null,
+            "duration": "Dec 2022 Jul 2024 1 year 8 months",
+            "start_date": "Dec 2022",
+            "end_date": "Jul 2024",
+            "duration_short": "1 year 8 months",
+            "company": "AlgoZenith",
+            "company_id": "algozenith",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "description_html": null,
+            "duration": "Jan 2024 Apr 2024 4 months",
+            "start_date": "Jan 2024",
+            "end_date": "Apr 2024",
+            "duration_short": "4 months",
+            "company": "Think360.ai",
+            "company_id": "think-analytics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Bhopal, Madhya Pradesh, India",
+            "description_html": null,
+            "duration": "Jul 2023 Dec 2023 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Dec 2023",
+            "duration_short": "6 months",
+            "company": "RRI Industries",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Junior DevOps Engineer",
+            "description_html": null,
+            "duration": "Dec 2022 Feb 2023 3 months",
+            "start_date": "Dec 2022",
+            "end_date": "Feb 2023",
+            "duration_short": "3 months",
+            "company": "ReaCredence IT Solutions Inc",
+            "company_id": "reacredence-it-solutions-inc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Development Executive",
+            "description_html": null,
+            "duration": "Dec 2021 Jan 2022 2 months",
+            "start_date": "Dec 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "2 months",
+            "company": "ROGAN",
+            "company_id": "styleout",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Adventure Society (TAdS) IIT Kharagpur",
+            "description_html": null,
+            "duration": "9 months",
+            "positions": [
+                {
+                    "subtitle": "Technology Adventure Society (TAdS) IIT Kharagpur",
+                    "meta": "Sep 2021 - Nov 2021 3 months",
+                    "duration": "Sep 2021 Nov 2021 3 months",
+                    "start_date": "Sep 2021",
+                    "end_date": "Nov 2021",
+                    "duration_short": "3 months",
+                    "title": "Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Adventure Society (TAdS) IIT Kharagpur",
+                    "meta": "Mar 2021 - Sep 2021 7 months",
+                    "duration": "Mar 2021 Sep 2021 7 months",
+                    "start_date": "Mar 2021",
+                    "end_date": "Sep 2021",
+                    "duration_short": "7 months",
+                    "title": "Associate Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Technology Adventure Society (TAdS) IIT Kharagpur",
+            "company_id": "technology-adventure-society-tads-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated (B.Tech + M.Tech)",
+            "field": "Ocean Engineering and Naval Architecture",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "MATRIX, Sikar",
+            "degree": "JEE Preparation",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya Vidyalaya",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jan 2023See credential",
+            "subtitle": "Finance & Economics Club - IIT Guwahati",
+            "title": "Introductory Options"
+        },
+        {
+            "meta": "Issued Dec 2022See credential",
+            "subtitle": "AlgoZenith",
+            "title": "AZ-201 : Applied Algorithms & Data Structures"
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID UC-75b5bc16 9bld-49d6-aacb-a3aa0f23dab8See credential",
+            "subtitle": "Udemy",
+            "title": "Entrepreneurship: 60 Days Startup Launch Blueprint"
+        },
+        {
+            "meta": "Issued Jul 2021See credential",
+            "subtitle": "Zerodha Varsity",
+            "title": "Basics of Stock Market"
+        },
+        {
+            "meta": "Issued Jul 2021Credential ID UC-Od590c7e-223a-499c-93d5-de49b2f01672See credential",
+            "subtitle": "Udemy",
+            "title": "Fundamentals of Analyzing Real Estate Investment"
+        }
+    ],
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

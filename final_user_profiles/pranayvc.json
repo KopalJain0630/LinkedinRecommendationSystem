@@ -1,0 +1,340 @@
+{
+    "id": "pranayvc",
+    "name": "Pranay Sharma",
+    "city": "Delhi, India",
+    "country_code": "IN",
+    "position": "Venture Investor | Bain | Strategy & Growth | ISB | NSIT",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Stealth",
+        "company_id": "warmstealth",
+        "title": "Venture Investor | Bain | Strategy & Growth | ISB | NSIT"
+    },
+    "experience": [
+        {
+            "title": "Venture Investor",
+            "description_html": null,
+            "duration": "Apr 2024 - Present 9 months",
+            "start_date": "Apr 2024",
+            "end_date": "Present",
+            "duration_short": "9 months",
+            "company": "Stealth",
+            "company_id": "warmstealth",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Chief of Staff",
+            "description_html": null,
+            "duration": "Apr 2024 - Present 9 months",
+            "start_date": "Apr 2024",
+            "end_date": "Present",
+            "duration_short": "9 months",
+            "company": "The Honest Home Company",
+            "company_id": "the-honest-home-company",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Chief of Staff",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Jun 2023 Mar 2024 10 months",
+            "start_date": "Jun 2023",
+            "end_date": "Mar 2024",
+            "duration_short": "10 months",
+            "company": "Foxy",
+            "company_id": "eknek",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Bain & Company",
+            "description_html": null,
+            "duration": "2 years",
+            "positions": [
+                {
+                    "subtitle": "Bain & Company",
+                    "meta": "Mar 2022 - May 2023 1 year 3 months",
+                    "duration": "Mar 2022 May 2023 1 year 3 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "May 2023",
+                    "duration_short": "1 year 3 months",
+                    "title": "Senior Analyst",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Bain & Company",
+                    "meta": "Jun 2021 - May 2022 1 year",
+                    "duration": "Jun 2021 May 2022 1 year",
+                    "start_date": "Jun 2021",
+                    "end_date": "May 2022",
+                    "duration_short": "1 year",
+                    "title": "Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Bain & Company",
+            "company_id": "bain-and-company",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Growth and Marketing Intern",
+            "description_html": null,
+            "duration": "Feb 2021 Jun 2021 5 months",
+            "start_date": "Feb 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "5 months",
+            "company": "Vuuume",
+            "company_id": "talrn",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "President",
+            "description_html": null,
+            "duration": "Sep 2019 Feb 2021 1 year 6 months",
+            "start_date": "Sep 2019",
+            "end_date": "Feb 2021",
+            "duration_short": "1 year 6 months",
+            "company": "Business and Management society",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-Founder and Lead Operations",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "May 2018 Sep 2019 1 year 5 months",
+            "start_date": "May 2018",
+            "end_date": "Sep 2019",
+            "duration_short": "1 year 5 months",
+            "company": "GRYNOW",
+            "company_id": "gry",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Programme Manager (LeanTrack Student Ventures)",
+            "location": "New Delhi Area, India",
+            "description": "LeanTrack is a youth entrepreneurial community, focussed on delivering strategic support in business research, new venture creation and brand design to young and highly motivated entrepreneurs. LeanTrack has in the past consulted more than 50 youth ventures, primarily in India, with presence in Silicon Valley, Amsterdam, Berlin and Malaysia too. At LeanTrack Student Ventures, I am currently:1) Working to develop a pro-bono consulting module for student startups. 2) Scouting for promising student startups to join LeanTrack Student Community. 3) Developing #TheLeanTrackFridays campaign",
+            "description_html": "LeanTrack is a youth entrepreneurial community, focussed on delivering strategic support in business research, new venture creation and brand design to young and highly motivated entrepreneurs. LeanTrack has in the past consulted more than 50 youth ventures, primarily in India, with presence in Silicon Valley, Amsterdam, Berlin and Malaysia too. At LeanTrack Student Ventures, I am currently:1) Working to develop a pro-bono consulting module for student startups. 2) Scouting for promising student startups to join LeanTrack Student Community. 3) Developing #TheLeanTrackFridays campaign",
+            "duration": "Jan 2018 Sep 2019 1 year 9 months",
+            "start_date": "Jan 2018",
+            "end_date": "Sep 2019",
+            "duration_short": "1 year 9 months",
+            "company": "LeanTrack: Youth Entrepreneurial Consulting",
+            "company_id": "leantrack",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "description_html": null,
+            "duration": "Jun 2019 Jul 2019 2 months",
+            "start_date": "Jun 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "2 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Intern",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "Sep 2017 Jan 2018 5 months",
+            "start_date": "Sep 2017",
+            "end_date": "Jan 2018",
+            "duration_short": "5 months",
+            "company": "ShopNani",
+            "company_id": "shopnani",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Tanmay Srivastava",
+            "about": "Product @ Sprinklr | B2B SaaS | BITS Pilani",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushar Singhal",
+            "about": "Product@Microsoft AI | FMS Delhi",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rutuja Patil",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhanu S.",
+            "about": "ESCP | Product Marketing | GTM Strategy | ISV Partnerships | Sales Enablement",
+            "location": "Greater Madrid Metropolitan Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Sparsh Negi",
+            "about": "Accenture Strategy | IIT Delhi | NUS",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Fareed Ahmad Sheik",
+            "about": "Senior Consultant - Razorpay | Ex - PwC | MBA, IIM Nagpur",
+            "location": "Andhra Pradesh, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Mayur Joshi",
+            "about": null,
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Shourya Jindal",
+            "about": "BSc (Hons) Accounting and Finance",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankita Natarajan",
+            "about": "Global Expansion & Startup Investments | Building IA | ex-EY",
+            "location": "Dubai, United Arab Emirates"
+        },
+        {
+            "profile_link": "",
+            "name": "Sachin Garg",
+            "about": "Incoming IB @ Wells Fargo | CFA L1 | ABSLAMC | IIM Shillong PGP\u00e2\u20ac\u212225 | EY | DU",
+            "location": "Delhi, India"
+        }
+    ],
+    "educations_details": "Netaji Subhas Institute of Technology",
+    "education": [
+        {
+            "title": "Netaji Subhas Institute of Technology",
+            "degree": "Bachelor of Engineering",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jul 2019",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concept"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 8274.0,
+    "connections": 500.0,
+    "current_company_company_id": "warmstealth",
+    "current_company_name": "Stealth",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Delhi",
+    "linkedin_id": "pranayvc",
+    "activity": [
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "AI startups with Seed to Series A funding get up to $350K in Google Cloud credits and more.",
+            "img": "",
+            "id": "7245479915716812800"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "Thank you Harper's Bazaar for featuring KorinMi - Korean Skin Solutions as the K -Beauty Expert! #KorinMi began as a bold dream\u00e2\u20ac\u201dto bring the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7274268253755973632"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "Edit: Paused the Google form to go through the applications Hi Everyone, \u00f0\u0178\u0161\u20ac We at CARS24 are Hiring a Program Manager for driving Customer\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7275553348185944064"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "Asking questions is a great way to engage with a presentation. To ask a good question you need to listen, think critically about what someone is\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7275167875261235200"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "Exciting times with Tarun Jyot Singh in Paris as we write the 1DS European chapter! \u00f0\u0178\u0161\u20ac As Head of Customer Success at 1DigitalStack, 2024 has been\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7274941920160677889"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "Probability murders your intuition like nothing else can. #outuition",
+            "img": "",
+            "id": "7274066860550017024"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "Rock bottom is often where healing begins. Not because we suddenly see the light. Not because our worst days magically transform into clarity. It\u00e2\u20ac\u2122s\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7273588160557662208"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "We Did It! I\u00e2\u20ac\u2122m beyond excited to share that AdYogi has been honored with the International Growth Agency Award from Google! Two years ago, we\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7273233834958057474"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "Honored and Humbled! I\u00e2\u20ac\u2122m overjoyed to share that The Honest Home Company has been recognized with the BW Businessworld Retail Award for Best\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7272925378103406593"
+        },
+        {
+            "interaction": "Liked by Pranay Sharma",
+            "link": "",
+            "title": "While trophies and accolades aren\u00e2\u20ac\u2122t what we work for, the validation we truly value comes from our customers. That said, it feels great to receive a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7272884241007292417"
+        },
+        {
+            "interaction": "Shared by Pranay Sharma",
+            "link": "",
+            "title": "While trophies and accolades aren\u00e2\u20ac\u2122t what we work for, the validation we truly value comes from our customers. That said, it feels great to receive a\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7272884241007292417"
+        }
+    ],
+    "linkedin_num_id": 622009715.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

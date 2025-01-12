@@ -1,0 +1,308 @@
+{
+    "id": "harsh-gupta-3387431b4",
+    "name": "Harsh Gupta",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": null,
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Sprinklr",
+        "company_id": "sprinklr"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Asim Krishna Prasad",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aarnav Jindal",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritesh Rastogi",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Varshney",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Deepak Sharma",
+            "about": "Technical Lead @Trianz | Android ,Kotlin, React Native",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "AMIT SHISHODIA ✅ ➡️",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "dhananjay solankar",
+            "about": "Sr.Solution Developer at Tata Technologies",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Agarwal",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Subash Singha Roy",
+            "about": null,
+            "location": "Farakka"
+        },
+        {
+            "profile_link": "",
+            "name": "Archit Chauhan",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Kartik Arora",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Akanksha Singh",
+            "about": "Looking for Job opportunities",
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Shubham Sharma",
+            "about": "30K+ Followers || Influencer Marketing || AI Enthusiast || LinkedIn Profile Growth Specialist || Python, SQL & ML || Open for collaborations",
+            "location": "Faridabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsh kumar Khatri",
+            "about": null,
+            "location": "Kota"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivam Rana",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Sumeet Malik",
+            "about": "I lift weights. I stay curious. I dream, and I build.",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Aman Choudhary",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Balvinder Singh",
+            "about": "Senior Software Developer (Flutter, Android, React Native)",
+            "location": "Kangra"
+        },
+        {
+            "profile_link": "",
+            "name": "Anusha Mittal",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jayant Sharma",
+            "about": null,
+            "location": "Delhi, India"
+        }
+    ],
+    "educations_details": "Maulana Azad National Institute of Technology",
+    "education": [
+        {
+            "title": "Maulana Azad National Institute of Technology",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "..",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ".",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Design Thinking: Understanding the Process"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID nlcert4lthex3q6tcp8t45See credential",
+            "subtitle": "NextLeap",
+            "title": "Associate Product Manager Fellowship"
+        },
+        {
+            "meta": "Issued Jan 2022",
+            "subtitle": "Udemy",
+            "title": "Business Intelligence Analyst "
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 4062.0,
+    "connections": 500.0,
+    "current_company_company_id": "sprinklr",
+    "current_company_name": "Sprinklr",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Visualising the probability of employees’ absenteeism using Software Integration\",\"start_date\":\"Jan 2022\",\"end_date\":\"Feb 2022\",\"description\":\"-Data cleaning on Employee Absenteeism Database was performed in Python (Jupyter Notebook) and absenteeism probability is determined.-Connection will be established between Jupyter Notebook and MYSQL Workbench and data will be transferred to MYSQL Workbench for securing the prediction model and ease in visualization.-Visualization will be done on Tableau, showing the probabilities of employees’ absenteeism depending on various categorical variables.\"},{\"title\":\"Using a company’s employee database to create a dashboard, visualising it’s gender representation year by year with the help of SQL and Tableau.\",\"start_date\":\"Apr 2021\",\"end_date\":\"May 2021\",\"description\":\"Breakdown between the male and female employees working in the company each year then comparing the number of male managers to the number of female managers from different departments for every year starting from 1990.Compared the average salary of female versus male employees in the entire company.Using stored procedure, obtained the average male and female salary per department within a certain salary range,when range input is given by the user.\"},{\"title\":\"Synthesis and Characterization of Sic/C composite using Spark Plasma Sintering method.\",\"start_date\":\"Sep 2020\",\"end_date\":\"Apr 2021\",\"description\":\"A Silicon Carbide/Carbon(SiC/C) Composite is synthesized via Spark Plasma Sintering technique.The synthesized composite is then characterized using XRD for determining its crystal structure and distribution of reinforcement in matrix.SEM was done on the composite for studying the microstructure and topography of the material.\"},{\"title\":\"Synthesis and characterization of Aluminium Metal Matrix Composite reinforced with Silicon Carbide Fibers\",\"start_date\":\"Jan 2020\",\"end_date\":\"Mar 2020\",\"description\":\"Reinforcement of SiC fibres in Al matrix using Stir Casting method. Characterization of the formed composite: Hardness test,tensile test and microstructural analysis using XRD & SEM .\"}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "harsh-gupta-3387431b4",
+    "activity": [
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Uhmmm...Applied to Chief of Staff Zomato ‼️ It was just too tempting, Here goes Nothing 🤞🏻 Looking forward to hearing from you Deepinder Goyal My…",
+            "img": null,
+            "id": "7265312259499810817"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Shreyas Srinivasan, Paytm’s chief product officer and head of consumer products, has announced his departure from the fintech company👇 Srinivasan’s…",
+            "img": null,
+            "id": "7259549649265393664"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Software integration startup UnifyApps has raised $20 Mn ( around INR 168.7 Cr) in a Series A funding round led by ICONIQ Growth, along with…",
+            "img": "",
+            "id": "7260935640924528640"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Don’t miss out on filling these MBA admission forms for non-IIMs (If you have registered for CAT 2024, then you have automatically applied to all…",
+            "img": "",
+            "id": "7260681300527730688"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Alchemyst AI became a family from 2 to 11 in no time. 🇮🇳🇺🇲🚀 When we had started up, only me & Anuran were there doing everything from Coding…",
+            "img": "",
+            "id": "2"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "1800+ Hiring sheet..... Drop your mail in the comment section.... My connection Dm me... Repost it...  This is a sheet of…",
+            "img": "",
+            "id": "7256498629069135872"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "🪔 ✨ Did you notice the new icon and splash screen on your Swiggy app? Let me share the story behind it. Now, what makes this story worth telling is…",
+            "img": "",
+            "id": "7256563874357772290"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Update Thanks Zepto & Aadit Palicha for quickly fixing it. Hopefully, all the other stores will not have such issues…",
+            "img": "",
+            "id": "7255922240884465664"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Remember ?? Those amazing hacktober stories, where just for a t shirt people do random commits like this 🥲.",
+            "img": "",
+            "id": "7255941890846384129"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "I recently made the significant decision to transition from a B2B product role at Sprinklr to a B2C environment at PharmEasy. My curiosity about this…",
+            "img": "",
+            "id": "7255076963445313536"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Can't be more grateful to my college. MANIT ALUMNI ASSOCIATION MAA, Maulana Azad National Institute of Technology, and my inspiration from MANIT who…",
+            "img": "",
+            "id": "7253702331974737921"
+        },
+        {
+            "interaction": "Liked by Harsh Gupta",
+            "link": "",
+            "title": "Proud moment!!",
+            "img": "",
+            "id": "7253699519329001472"
+        }
+    ],
+    "linkedin_num_id": 837905948.0,
+    "honors_and_awards": [
+        {
+            "title": "International Olympiad of Mathematics",
+            "publication": "-",
+            "date": "2008-01-01T00:00:00.000Z",
+            "description": "School Rank 2, State Rank 26 and International Rank 692"
+        },
+        {
+            "title": "International English Olympiad",
+            "publication": "-",
+            "date": null,
+            "description": "State rank 13 and International rank 260"
+        },
+        {
+            "title": "National Science Olympiad",
+            "publication": "-",
+            "date": null,
+            "description": "Merit in \"12th National Science Olympiad\", with AIR 685 in the final round of the competition held at National Level in Delhi"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,285 @@
+{
+    "id": "bhushan-golani-4a5a51187",
+    "name": "Bhushan Golani",
+    "city": "Thane, Maharashtra, India",
+    "country_code": "IN",
+    "position": "SDE @ Amazon | ME+CSE @ IIT Kharagpur",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Amazon",
+        "company_id": "amazon",
+        "title": "SDE @ Amazon | ME+CSE @ IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Analyst Intern",
+            "description": "1) Developed dashboards & machine learning models to get insights from data and increase the revenue. • Recognized the features of the data which gave business insights and formed a dashboard using Tabaleau.•Used Random Forest Classifier to predict a beneficial deal . Achieved an accuracy of 84.2% and a recall of 73.6%.2) Predicted the months after which a dialysis patient will get critical using XGBoost Model. error obtained <10%.",
+            "description_html": "1) Developed dashboards &amp; machine learning models to get insights from data and increase the revenue.&nbsp;• Recognized&nbsp;the features&nbsp;of the data which gave business insights and formed a dashboard using Tabaleau.•Used Random Forest Classifier to predict a beneficial deal . Achieved an accuracy of 84.2% and a recall of 73.6%.2) Predicted the months after which&nbsp;a dialysis patient will get critical using XGBoost Model. error obtained &lt;10%. <!---->",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "NephroPlus",
+            "company_id": "nephroplus",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "Time Series Forecasting Of Cloud Failure:• Applied K nearest neighbors classification model on available data to capture trends of failure.• Developed time series model for forecasting future consumption of various features on which cloud failure depends.• Used the classification model to predict failure on forecasted features.",
+            "description_html": "Time Series Forecasting Of Cloud Failure:• Applied K nearest neighbors classification model on available data to capture trends of failure.• Developed time series model for forecasting future consumption of various features on which cloud failure depends.• Used the classification model to predict failure on forecasted features. <!---->",
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "Tata Communications",
+            "company_id": "tata-communication",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "description": "Applications of Machine Learning in CFD•Solution of complex problems in fluid mechanics requires high computational power.•To reduce computational expense, applied various machine learning models to exploit the statistical nature of the problem to accurately make predictions of future states.•Created a well designed neural network and obtained accurate results.•Devised a formula using multivariate polynomial regression with backward elimination.",
+            "description_html": "Applications of Machine Learning in CFD•Solution of complex problems in fluid mechanics requires high computational power.•To reduce computational expense, applied various machine learning models to exploit the statistical nature of the problem to accurately make predictions of future states.•Created a well designed neural network and obtained accurate results.•Devised a formula using multivariate polynomial regression with backward elimination. <!---->",
+            "duration": "Jul 2019 Feb 2020 8 months",
+            "start_date": "Jul 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "8 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sachin Bhati",
+            "about": "Looking for an opportunity as a data analyst",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Suman Basak",
+            "about": "Analytics at D.E. Shaw Group | PGDBA (IIM Calcutta, ISI Kolkata, IIT Kharagpur) | Dr. Reddy's | Tata Motors | Jadavpur University",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakhar Goyal",
+            "about": "Credit Analytics Manager @ HDFC Bank | Risk Analysis",
+            "location": "Greater Delhi Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Neelambuj Chaturvedi",
+            "about": "Applied scientist 2 @GoKwik | Ex-ZS | NIT Jalandhar",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Trivedi",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Priya Agnihotri",
+            "about": "Data Science, Computational Biology, AI, Analytics",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Apurva Sijaria",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Purva Chiniya",
+            "about": "MSCS @UMD | Applied Science intern@ Amazon | Ex-Software Engineer at Cisco",
+            "location": "College Park, MD"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishita Mathur",
+            "about": null,
+            "location": "Evanston, IL"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankur Bhatia",
+            "about": "Software Engineer - ML @Gan.ai",
+            "location": "Chandigarh"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree",
+            "field": "Mechanical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Singhania School",
+            "degree": "ICSE",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms I\"},{\"subtitle\":\"-\",\"title\":\"Algorithms Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Computer Architecture And Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Image Processing\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented System Design\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented System Design Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems Design\"},{\"subtitle\":\"-\",\"title\":\"Probability & Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures Tutorial And Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Switching Circuits Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Switching Circuits Theory\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Marathi "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyper parameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued May 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "subtitle": "National Cadet Corps",
+            "title": "Cadet"
+        }
+    ],
+    "followers": 1150.0,
+    "connections": 500.0,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "publications": "[{\"title\":\"Mapping fluid structuration to flow enhancement in nanofluidic channels\",\"subtitle\":\"The Journal Of Chemical Physics\",\"date\":\"June 1, 2023\"},{\"title\":\"Prediction of Cloud Server Job Failures using Machine Learning based KNN Classification and LSTM Modelling Methods\",\"subtitle\":\"IJERT JOURNAL\",\"date\":\"July 1, 2021\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Sentiment Analysis of customer reviews on e-commerce website\",\"start_date\":\"Aug 2021\",\"end_date\":\"Oct 2021\",\"description\":\"Scrapped customer reviews on e-commerce website and established insights between customer reviews and sale of mobile phones.\"},{\"title\":\"Electricity Consumption Forecasting\",\"start_date\":\"Dec 2019\",\"end_date\":\"Feb 2020\",\"description\":\"Worked in a team which helped an electricity company named Dream Vidyut, which wants to electrify India sustainably. It provided us with the electricity meter readings of each hour from April 2017 to December 2017. The company's target was to approximately forecast the electricity demand of a dozen buildings in the Delhi-NCR region so that over-production of electricity can be reduced and thus provide the surplus electricity to places where it is not available.\"},{\"title\":\"Customer Lifetime Value For An Auto Insurance Company\",\"start_date\":\"Nov 2019\",\"end_date\":\"Dec 2019\",\"description\":\"Created a model to predict the customer lifetime value using a given set of features for an auto insurance company and help the company know the type of customers that generate more revenue.\"},{\"title\":\"Automated checking of engineering drawing sheets\",\"start_date\":\"May 2019\",\"end_date\":\"Aug 2019\",\"description\":\"Developed a method to automate the checking of engineering drawing sheets.\"}]",
+    "organizations": null,
+    "location": "Thane",
+    "linkedin_id": "bhushan-golani-4a5a51187",
+    "activity": [
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "From coworkers to classmates to fiancés. 💙❤️ That’s the story of #WhartonMBA students Adi Gupta and Rishika Kumar (both WG’25), who recently got…",
+            "img": null,
+            "id": "7265046419865059330"
+        },
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "Codeforces Round 984 (Div. 3) Got an All India Rank of 32 and a World Rank of 160! This was an enjoyable contest which I felt was implementation…",
+            "img": null,
+            "id": "984"
+        },
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "Barely out of MBA school and already teaching strategy? Crazy, right? It’s surreal to think that just yesterday, I wasn’t the biggest fan of…",
+            "img": null,
+            "id": "7251837961065918466"
+        },
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "🌟 A Day of Problem Solving, Learning, and Contributing🌟 On a pleasant day, I tackled a LeetCode problem (474. Ones and Zeroes) using dynamic…",
+            "img": "",
+            "id": "474"
+        },
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "Get rejected. Get rejected. Get rejected. Get rejected. Get rejected. Get a reply. Get rejected. Had a call. Get rejected. Get an interview. Get…",
+            "img": "",
+            "id": "7249305910429290496"
+        },
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "Taking a leap of faith 🌟 After over 1.5 years working at Accenture, I’ve made the decision to take a step back (in order to take one forward) and…",
+            "img": "",
+            "id": "7244171218340216832"
+        },
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "Amid all the Coldplay hype on social media today, a few boys and girls from India went to Budapest, played, and left over 180 other countries…",
+            "img": "",
+            "id": "7243642065052434433"
+        },
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "We developed a new flexible, all-weather pseudocapacitor for use in aviation, space, and satellite technologies. It features laser-scribed carbon…",
+            "img": "",
+            "id": "7235963680725602304"
+        },
+        {
+            "interaction": "Liked by Bhushan Golani",
+            "link": "",
+            "title": "Master in Management from INSEAD This past year has been a dream—filled with experiences, memories, friendships, and invaluable lessons. Leaving the…",
+            "img": "",
+            "id": "7235004718446460928"
+        }
+    ],
+    "linkedin_num_id": 740132477.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

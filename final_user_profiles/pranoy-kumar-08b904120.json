@@ -1,0 +1,52 @@
+{
+    "city": "Midnapore Sadar, India",
+    "position": "Data science analyst @ ICICI Bank || IIT KGP'22",
+    "experience": [
+        {
+            "title": "Data Science Management Trainee",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2022 Jan 2024 1 year 7 months",
+            "start_date": "Jul 2022",
+            "end_date": "Jan 2024",
+            "duration_short": "1 year 7 months",
+            "company": "ICICI Bank",
+            "company_id": "icici-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Operations Research Intern",
+            "description": "Benchmarking of OR-TOOLS routing library on solving Capacitated Vehicle Routing Problem (CVRP) and Capacitated Vehicle Routing Problem with Time-Windows.Modelled vehicle routing problem (VRP) and it's variants using OR-TOOLS RL to solve a range of logistic challenges.",
+            "description_html": "Benchmarking of OR-TOOLS routing library on solving Capacitated Vehicle Routing Problem (CVRP) and Capacitated Vehicle Routing Problem with Time-Windows.Modelled vehicle routing problem (VRP) and it's variants using OR-TOOLS RL to solve a range of logistic challenges. <!---->",
+            "duration": "Dec 2020 Jun 2021 7 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "7 months",
+            "company": "Delhivery",
+            "company_id": "delhivery",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual degree",
+            "field": "Industrial and Systems Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Data analytics\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Operations Research\"},{\"subtitle\":\"-\",\"title\":\"Optimization and Heuristic Methods \"},{\"subtitle\":\"-\",\"title\":\"Probability and statistics\"}]",
+    "certifications": null,
+    "current_company_name": "ICICI Bank",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Optimizing daily dray operations\",\"start_date\":\"Jul 2020\",\"end_date\":\"Present\",\"description\":\"• Intermodal freight operations involve heavy dray operations on a daily basis, the project is based on the idea of maximizing the driver productivity and minimizing the time and distance associated with moving loaded containers.• The solution requires fast solve times to cope up with the constantly changing near-real-time data, adjustments to account for traffic congestion and other operational delays and integration with a transportation management system to provide real-time data for driver-assignment recommendation.\"},{\"title\":\"Demand-Supply Linear Problem\",\"start_date\":\"Nov 2019\",\"end_date\":\"Feb 2020\",\"description\":\"• The objectives were to optimize the number of containers loaded on to a train and the profit generated from the loaded containers, subjected to payload constraints, pattern constraints and cost constraints.• I formulated the mathematical LP for the problem and coded it in CBC using python API. I computed the optimal solution for the problem.• There were cases when the problem didn’t have an optimal solution during which the most feasible solution was evaluated. \"}]",
+    "honors_and_awards": null
+}

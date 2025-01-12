@@ -1,0 +1,94 @@
+{
+    "city": "Mumbai, Maharashtra, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Product Marketing Alliance",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2011",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2002",
+            "end_year": "2006",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2024See credential",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified Marketing Cloud Consultant"
+        },
+        {
+            "meta": "Issued Apr 2024See credential",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified Marketing Cloud Administrator"
+        },
+        {
+            "meta": "Issued Mar 2024See credential",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified Business Analyst"
+        },
+        {
+            "meta": "Issued Jan 2024See credential",
+            "subtitle": "Salesforce",
+            "title": "Salesforce Certified Marketing Cloud Email Specialist"
+        },
+        {
+            "meta": "Issued Jan 2021Expires Jan 2023",
+            "subtitle": "HubSpot",
+            "title": "Inbound Marketing Certified"
+        }
+    ],
+    "current_company_name": "Horizontal Digital",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"MICA Memoirs Blog\",\"start_date\":\"Jul 2013\",\"end_date\":\"Present\",\"description\":\"An unofficial blog in association with www.mbas.in for it's MICA chapter. I write my personal experiences, observations and advice for MICA aspirants in this blog.\"},{\"title\":\"Social Media Marketing- Easyrewardz\",\"start_date\":\"Apr 2013\",\"end_date\":\"Present\",\"description\":\"- Building strategy for online communication- Developing communication collatorals- Keeping the dialogue alive on various social media platforms like official Facebook page, LinkedIn group and other discussion forums- Developing presentations for Business Development Pitch Presentation for B2B clients\"},{\"title\":\"Fashion Keeda\",\"start_date\":\"Oct 2012\",\"end_date\":\"Present\",\"description\":\"A unique online retail store for the indigenous artifacts, accessories, apparels, lifestyle items & decor objects collected from various parts of India. A platform to promote upcoming individual artists.\"},{},{\"title\":\"Collector's Heritage - Content Development\",\"start_date\":\"Aug 2012\",\"end_date\":\"Aug 2013\",\"description\":\"SEO, SEM, Keyword Search oriented content development for the website and for Marketing Collatoral.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Finalist - Economic Times Young Leaders",
+            "publication": "Economic Times",
+            "date": "2016-07-01T00:00:00.000Z",
+            "description": "Featured among the finalists of the prestigious Economic Times Young Leader Awards - 4th edition in 2016."
+        },
+        {
+            "title": "Outstanding Performer of the Year",
+            "publication": "ONGC",
+            "date": "2015-07-01T00:00:00.000Z",
+            "description": "Received ‘Outstanding Performer of the Year, 2014’ – only recipient from the batch"
+        },
+        {
+            "title": "Best Summer Internship Project Report",
+            "publication": "Godfrey Phillips India Ltd.",
+            "date": "2012-06-01T00:00:00.000Z",
+            "description": "Awarded ‘Best Summer Internship Project Report’ by the company among all interns across specializations (2012)"
+        },
+        {
+            "title": "Talent of The Year",
+            "publication": "HPE",
+            "date": "2010-06-01T00:00:00.000Z",
+            "description": "Awarded with \"Outstanding All Round Performer - New Talent of The Year\" as recommended by Special Jury Awards, and presented by the then country head, Hewlett Packard Enterprise"
+        },
+        {
+            "title": "Customer Service Excellence Award",
+            "publication": "IBM",
+            "date": "2007-10-01T00:00:00.000Z",
+            "description": "• ‘Customer Service Excellence Award’ - awarded for > 9/10 average customer satisfaction score from large clients"
+        }
+    ]
+}

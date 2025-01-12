@@ -1,0 +1,405 @@
+{
+    "id": "lakshraj-doshi",
+    "name": "Lakshraj Doshi",
+    "city": "Mumbai, Maharashtra, India",
+    "country_code": "IN",
+    "position": "Associate @ LEK consulting || Venture Highway || CRED || ThirdWave Coffee |  | IIT KGP",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "L.E.K. Consulting",
+        "company_id": "lekconsulting",
+        "title": "Associate @ LEK consulting || Venture Highway || CRED || ThirdWave Coffee |  | IIT KGP"
+    },
+    "experience": [
+        {
+            "title": "L.E.K. Consulting",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "1 year 4 months",
+            "positions": [
+                {
+                    "subtitle": "L.E.K. Consulting",
+                    "meta": "Sep 2024 - Present 4 months",
+                    "duration": "Sep 2024 - Present 4 months",
+                    "start_date": "Sep 2024",
+                    "end_date": "Present",
+                    "duration_short": "4 months",
+                    "title": "Senior Associate (Private Equity)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "L.E.K. Consulting",
+                    "meta": "Sep 2023 - Nov 2024 1 year 3 months",
+                    "duration": "Sep 2023 Nov 2024 1 year 3 months",
+                    "start_date": "Sep 2023",
+                    "end_date": "Nov 2024",
+                    "duration_short": "1 year 3 months",
+                    "title": "Associate",
+                    "description_html": null
+                }
+            ],
+            "company": "L.E.K. Consulting",
+            "company_id": "lekconsulting",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Venture Associate",
+            "description": "If you are building something, feel free to reach out at svpiitkgp@venturehighway.vc",
+            "description_html": "If you are building something, feel free to reach out at svpiitkgp@venturehighway.vc <!---->",
+            "duration": "May 2023 - Present 1 year 8 months",
+            "start_date": "May 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 8 months",
+            "company": "Venture Highway LLP",
+            "company_id": "venture-highway-llp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder's office",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Worked directly with the founder on customer retention for XL users  \u00e2\u20ac\u00a2 Built a customer care stack with Zendesk, WhatsApp & customer data to improve support staff efficiency & NPS for 80+ cafes",
+            "description_html": "\u00e2\u20ac\u00a2 Worked directly with the founder on customer retention for XL users \u00e2\u20ac\u00a2 Built a customer care stack with Zendesk, WhatsApp &amp; customer data to improve support staff efficiency &amp; NPS for 80+ cafes <!---->",
+            "duration": "Oct 2022 Feb 2023 5 months",
+            "start_date": "Oct 2022",
+            "end_date": "Feb 2023",
+            "duration_short": "5 months",
+            "company": "Third Wave Coffee",
+            "company_id": "third-wave-coffee",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Associate",
+            "description": "Involved in 2 key projects which revolved around buy-side due diligence for a global school chain & education policy-implementation for private schools\u00e2\u20ac\u00a2 Envisioned a X% revenue increment by acquiring 2 school chains; recommended scenarios on assessing market & asset growth in target geographies\u00e2\u20ac\u00a2 Engaged with 10+ market experts to develop key insights & analyzed the impact of demographic, affordability & penetration trends to predict enrollments\u00e2\u20ac\u00a2 Ideated education policy for USD 800M K-12 market, formulated framework for benchmarking private school\u00e2\u20ac\u2122s inspection & record storage for 10 countries",
+            "description_html": "Involved in 2 key projects which revolved around buy-side due diligence for a global school chain &amp; education policy-implementation for private schools\u00e2\u20ac\u00a2 Envisioned a X% revenue increment by acquiring 2 school chains; recommended scenarios on assessing market &amp; asset growth in target geographies\u00e2\u20ac\u00a2 Engaged with 10+ market experts to develop key insights &amp; analyzed the impact of demographic, affordability &amp; penetration trends to predict enrollments\u00e2\u20ac\u00a2 Ideated education policy for USD 800M K-12 market, formulated framework for benchmarking private school\u00e2\u20ac\u2122s inspection &amp; record storage for 10 countries",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "L.E.K. Consulting",
+            "company_id": "lekconsulting",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Investment Analyst",
+            "description": "Assisted a clutch of angels at Gravity Capital with sectoral research, building an investment thesis & evaluating their deal flows.Currently, I have built exposure to Fintech, EV/ Mobility, and Creator Economy.",
+            "description_html": "Assisted a clutch of angels at Gravity Capital with sectoral research, building an investment thesis &amp; evaluating their deal flows.Currently, I have built exposure to Fintech, EV/ Mobility, and Creator Economy. <!---->",
+            "duration": "Jan 2022 May 2022 5 months",
+            "start_date": "Jan 2022",
+            "end_date": "May 2022",
+            "duration_short": "5 months",
+            "company": "Gravity Capital",
+            "company_id": "gravity-capital-pvt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product & Business",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Executed growth & UX experiments to improve retention for CRED Pay: a card checkout payment gateway for 8M users\u00e2\u20ac\u00a2 Improved checkout rates by X% & boosted GMV by Ycr by reducing friction with a single-click checkout using coins",
+            "description_html": "\u00e2\u20ac\u00a2 Executed growth &amp; UX experiments to improve retention for CRED Pay: a card checkout payment gateway for 8M users\u00e2\u20ac\u00a2 Improved checkout rates by X% &amp; boosted GMV by Ycr by reducing friction with a single-click checkout using coins <!---->",
+            "duration": "Jun 2021 Nov 2021 6 months",
+            "start_date": "Jun 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "6 months",
+            "company": "CRED",
+            "company_id": "credapp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-Founder",
+            "description": "Tinder for Influencer Marketing.Infloso helps businesses build brands through people-powered marketing. Making Influencer marketing accessible for everyone through our data-driven platform.",
+            "description_html": "Tinder for Influencer Marketing.Infloso helps businesses build brands through people-powered marketing. Making Influencer marketing accessible for everyone through our data-driven platform. <!---->",
+            "duration": "Nov 2020 May 2021 7 months",
+            "start_date": "Nov 2020",
+            "end_date": "May 2021",
+            "duration_short": "7 months",
+            "company": "Infloso",
+            "company_id": "infloso",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneur In Residence",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Only undergrad amongst 4 fellows (800+ applicants) selected as an Entrepreneur in Residence at Draper Startup House, BLR  \u00f0\u0178\u0161\u20acWorked with founders and investors staying at DSH and talked to them about their current projects, and stuff that they are excited to build in future.Designed an an auto-guest Checkout Experience (Hospitality Sector), Bitcoin Education Inititiave with BlockChain School & Creator Economy based startups.",
+            "description_html": "Only undergrad amongst 4 fellows (800+ applicants) selected as an Entrepreneur in Residence at Draper Startup House, BLR \u00f0\u0178\u0161\u20acWorked with founders and investors staying at DSH and talked to them about their current projects, and stuff that they are excited to build in future.Designed an an auto-guest Checkout Experience (Hospitality Sector), Bitcoin Education Inititiave with BlockChain School &amp; Creator Economy based startups. <!---->",
+            "duration": "Nov 2020 Jan 2021 3 months",
+            "start_date": "Nov 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "3 months",
+            "company": "Draper Startup House",
+            "company_id": "draperstartuphouse",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder's Office",
+            "description": "\u00e2\u20ac\u00a2Increased onboarding & adoption of 700 suppliers by 5X times by collaborating with IT, User Experience and Finance Verticals of Lupin Pharmaceuticals \u00e2\u20ac\u00a2 Pioneered an E-procurement platform, intelligent messaging-microservice from scratch handling Email Parsing, Inter-channel conversation & document management. \u00e2\u20ac\u00a2Configured an S3 bucket for building website & employed auth_ 0 login, AWS Lambda, EC2 instance & webhooks for a score-based rule engine",
+            "description_html": "\u00e2\u20ac\u00a2Increased onboarding &amp; adoption of 700 suppliers by 5X times by collaborating with IT, User Experience and Finance Verticals of Lupin Pharmaceuticals \u00e2\u20ac\u00a2 Pioneered an E-procurement platform, intelligent messaging-microservice from scratch handling Email Parsing, Inter-channel conversation &amp; document management. \u00e2\u20ac\u00a2Configured an S3 bucket for building website &amp; employed auth_ 0 login, AWS Lambda, EC2 instance &amp; webhooks for a score-based rule engine <!---->",
+            "duration": "Aug 2020 Nov 2020 4 months",
+            "start_date": "Aug 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "4 months",
+            "company": "gomigo",
+            "company_id": "riversys-technologies-private-limited-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Product Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2Helped foster community engagement by applying Gamification frameworks, post creating user personas & matching it with the user\u00e2\u20ac\u2122s motivation \u00e2\u20ac\u00a2 Pioneered a marketplace for used two-wheelers for selling 18,000 vehicles, collaborating with vendors, helping negotiate fixed costs and adoption of EVs \u00e2\u20ac\u00a2 Modelled a user profile score to flag the user and helped in creating a fraud profile based on the state of art techniques & in-house metrics during user onboarding",
+            "description_html": "\u00e2\u20ac\u00a2Helped foster community engagement by applying Gamification frameworks, post creating user personas &amp; matching it with the user\u00e2\u20ac\u2122s motivation \u00e2\u20ac\u00a2 Pioneered a marketplace for used two-wheelers for selling 18,000 vehicles, collaborating with vendors, helping negotiate fixed costs and adoption of EVs \u00e2\u20ac\u00a2 Modelled a user profile score to flag the user and helped in creating a fraud profile based on the state of art techniques &amp; in-house metrics during user onboarding <!---->",
+            "duration": "Apr 2020 Aug 2020 5 months",
+            "start_date": "Apr 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "5 months",
+            "company": "Bounce",
+            "company_id": "bounceshare",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Club, IIT Kharagpur",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "1 year 9 months",
+            "positions": [
+                {
+                    "subtitle": "Business Club, IIT Kharagpur",
+                    "meta": "Apr 2019 - Apr 2020 1 year 1 month",
+                    "description": "Leading a team of 30+ first years taking bi-weekly knowledge meetings to get them interested in the world of finance and consult",
+                    "duration": "Apr 2019 Apr 2020 1 year 1 month",
+                    "start_date": "Apr 2019",
+                    "end_date": "Apr 2020",
+                    "duration_short": "1 year 1 month",
+                    "title": "Governor",
+                    "description_html": "Leading a team of 30+ first years taking bi-weekly knowledge meetings to get them interested in the world of finance and consult <!---->"
+                },
+                {
+                    "subtitle": "Business Club, IIT Kharagpur",
+                    "meta": "Aug 2018 - Apr 2019 9 months",
+                    "description": "B-Club, IIT Kharagpur, is a non-profit organization aiming to familiarize its members, with the technicalities of analytics, finance, and consultancy. We strive to enhance our knowledge through in-house workshops, presentations, debates and group discussions. Matters deliberated vary from practical problems to hypothetical ones. The club serves as an excellent interface among students, professionals, faculty, and alumni and develops the members into creative thinkers and strategists much before they step into the big world of business.",
+                    "duration": "Aug 2018 Apr 2019 9 months",
+                    "start_date": "Aug 2018",
+                    "end_date": "Apr 2019",
+                    "duration_short": "9 months",
+                    "title": "Associate",
+                    "description_html": "B-Club, IIT Kharagpur, is a non-profit organization aiming to familiarize its members, with the technicalities of analytics, finance, and consultancy. We strive to enhance our knowledge through in-house workshops, presentations, debates and group discussions. Matters deliberated vary from practical problems to hypothetical ones. The club serves as an excellent interface among students, professionals, faculty, and alumni and develops the members into creative thinkers and strategists much before they step into the big world of business."
+                }
+            ],
+            "company": "Business Club, IIT Kharagpur",
+            "company_id": "bclubiitkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Management Consultant",
+            "location": "Hyderabad Area, India",
+            "description": "Created a model to map the nationwide landscape of the startup ecosystem that actively gets updated with the change in the data, helped devise a synergic platform for mutual growth of all the startups under a parent umbrella Recommended a business plan to Watnew (a social media platform) with a focus on user\u00e2\u20ac\u2122s language interests hence incorporating a synergy among users to overcome the user base plateau of 1.5 Lakh users",
+            "description_html": "Created a model to map the nationwide landscape of the startup ecosystem that actively gets updated with the change in the data, helped devise a synergic platform for mutual growth of all the startups under a parent umbrella Recommended a business plan to Watnew (a social media platform) with a focus on user\u00e2\u20ac\u2122s language interests hence incorporating a synergy among users to overcome the user base plateau of 1.5 Lakh users <!---->",
+            "duration": "Dec 2019 Feb 2020 3 months",
+            "start_date": "Dec 2019",
+            "end_date": "Feb 2020",
+            "duration_short": "3 months",
+            "company": "StartupWize",
+            "company_id": "startupwize",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Research Intern",
+            "location": "Udaipur Area, India",
+            "description": "During my two-month internship at Indian Institute Of Management, Udaipur , I helped my team in providing financial insights investment space. I analyzed investment opportunities for investors over a long duration, and critically studied about Robo-advising and it's impact on the industry. I also developed a model for the bias detection being passed to clients from investment managers along with the need of a thorough diversification strategy. The robo-advising model after analyzing the investment space helped to reduce behavioral bias (disposition effect) by a meaningful 30%. Analyzed the effect of model\u00e2\u20ac\u2122s adoption thereby increasing the user login by 10% and helped 38% users (holding =< 3 shares) to diversify their portfolio Published an article dictating the future of Robo-advising and improving the financial literacy of individuals in the Centre for Digital Enterprise",
+            "description_html": "During my two-month internship at Indian Institute Of Management, Udaipur , I helped my team in providing financial insights investment space. I analyzed investment opportunities for investors over a long duration, and critically studied about Robo-advising and it's impact on the industry. I also developed a model for the bias detection being passed to clients from investment managers along with the need of a thorough diversification strategy. The robo-advising model after analyzing the investment space helped to reduce behavioral bias (disposition effect) by a meaningful 30%. Analyzed the effect of model\u00e2\u20ac\u2122s adoption thereby increasing the user login by 10% and helped 38% users (holding =&lt; 3 shares) to diversify their portfolio Published an article dictating the future of Robo-advising and improving the financial literacy of individuals in the Centre for Digital Enterprise",
+            "duration": "May 2019 Jun 2019 2 months",
+            "start_date": "May 2019",
+            "end_date": "Jun 2019",
+            "duration_short": "2 months",
+            "company": "Indian Institute of Management, Udaipur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Pranay Phulkar",
+            "about": "Revenue Ops I P&L I Strategic Initiatives",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishant Avasthi",
+            "about": "Cyber Security Expert",
+            "location": "Gurgaon"
+        },
+        {
+            "profile_link": "",
+            "name": "Kriti Mittal",
+            "about": "Entrepreneur In Residence at Omidyar Network India",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Aryan Saxena",
+            "about": "Associate @BCG | JP Morgan",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Simran Rajagopalan",
+            "about": "Associate at BCG | IIT Kharagpur | Wharton Moelis Fellow",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Tushar Singla",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Shashank Singh",
+            "about": "Economics | Booth School of Business, The University of Chicago | IIT Kharagpur'23",
+            "location": "Chicago, IL"
+        },
+        {
+            "profile_link": "",
+            "name": "Nitin Dhakad",
+            "about": "Social Entrepreneur at Shivganga Samagra Gramvikas Parishad",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanay Raghavendra",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Aashna Jha",
+            "about": "Product Manager, Microsoft | Building GirlsGrow | NSIT\u00e2\u20ac\u212222",
+            "location": "New Delhi"
+        }
+    ],
+    "educations_details": "The Tuck School of Business at Dartmouth",
+    "education": [
+        {
+            "title": "The Tuck School of Business at Dartmouth",
+            "degree": "Business Bridge Program",
+            "field": "Business Administration and Management, General",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2023",
+            "description": "Highly Selective 4-week program taught by MBA Faculty \u00e2\u20ac\u00a2 Modelled DCF-valuation analyses of Netflix as a capstone presentation; \u00e2\u20ac\u00a2 Awarded a full-ride scholarship as the only Indian International student",
+            "description_html": "Highly Selective 4-week program taught by MBA Faculty \u00e2\u20ac\u00a2 Modelled DCF-valuation analyses of Netflix as a capstone presentation; \u00e2\u20ac\u00a2 Awarded a full-ride scholarship as the only Indian International student <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Electronics and Electrical Communication Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Minor in Computer Science Micro-specialization in Entrepreneurship",
+            "description_html": "Minor in Computer ScienceMicro-specialization in Entrepreneurship <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "Tuck Business Bridge Program at Dartmouth",
+            "title": "Tuck Business Bridge Program"
+        },
+        {
+            "meta": "Issued Dec 2021",
+            "subtitle": "Upraised",
+            "title": "Ranked among the top 80 Product Manager among the 4,55,534 students from 20,000+ colleges who took part in Upraised Embark. "
+        },
+        {
+            "meta": "Issued Mar 2021Credential ID T72Rfb63f8See credential",
+            "subtitle": "Narsee Monjee College of Commerce and Economics",
+            "title": "INSIGHT'21 - Planet-B (Winners)"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Technology for Product Managers"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Feb 2019 - Jul 2019 \u00c2\u00b7 6 months",
+            "duration_short": "6 months",
+            "end_date": "Jul 2019",
+            "start_date": "Feb 2019",
+            "subtitle": "International Relations Cell, IIT Kharagpur",
+            "title": "Junior Associate"
+        },
+        {
+            "duration": "Jan 2020 - Feb 2020 \u00c2\u00b7 2 months",
+            "duration_short": "2 months",
+            "end_date": "Feb 2020",
+            "info": "HUII, or the Harvard College US-India Initiative, is a student-run organization that aims to create dialogue between Indian and American youth to address some of India\u00e2\u20ac\u2122s most pressing social, economic, and environmental issues today.Selected amongst 6000+ applicants, networked and discussed with prominent individuals from diverse sectors like Entrepreneurship, Politics,NGOs & Journalism",
+            "start_date": "Jan 2020",
+            "subtitle": "Harvard US-India Initiative",
+            "title": "Delegate"
+        }
+    ],
+    "followers": 5974.0,
+    "connections": 500.0,
+    "current_company_company_id": "lekconsulting",
+    "current_company_name": "L.E.K. Consulting",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Mumbai",
+    "linkedin_id": "lakshraj-doshi",
+    "activity": null,
+    "linkedin_num_id": 708712165.0,
+    "honors_and_awards": [
+        {
+            "title": "Open IIT Case Challenge",
+            "publication": "IIT Kharagpur",
+            "date": "2019-10-01T00:00:00.000Z",
+            "description": "Recommended investment strategies for deployment of Vision Fund II(Softbank) after devising a recession-proof model with 12.05% return at 4.10 Sharpe ratio"
+        },
+        {
+            "title": "Gold Medalist, North East Case Challenge, IIT Guwahati",
+            "publication": "Techniche, IIT Guwahati",
+            "date": "2019-09-01T00:00:00.000Z",
+            "description": "First position in a business case study competition, provided a revamp and growth strategy for 'Prayas' initiative by Sanofi-Aventis. The case involved doing financials of the company along with providing a robust marketing strategy to achieve short term and long term goals. Developed a sustainable business model for a pharmaceutical firm Sanofi Aventis along with a campaign to help them achieve a $5.5 Billion Market Capital"
+        },
+        {
+            "title": "Gold Medalist , India Calling Case Study Competition.",
+            "publication": "Spring Fest, IIT Kharagpur",
+            "date": "2019-01-01T00:00:00.000Z",
+            "description": "Suggested amendments in current laws that define the boundaries of free speech in India, provided a manifold approach to alleviate the problem of hate speech, and made an implementable framework with both short term and long term solutions to curb the violation of free speech laws in India."
+        },
+        {
+            "title": "Receipent of NTSE Scholarship",
+            "publication": "NCERT, India",
+            "date": null,
+            "description": "Selected among top 1000 candidates among 9 Lakh candidates in a national level scholarship examination organized by NCERT."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

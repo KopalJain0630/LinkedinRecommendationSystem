@@ -1,0 +1,357 @@
+{
+    "id": "sumeetshirgure",
+    "name": "Sumeet Shirgure",
+    "city": "India",
+    "country_code": "IN",
+    "position": "USC | IITKGP | ex-Googler",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "University of Southern California",
+        "title": "USC | IITKGP | ex-Googler"
+    },
+    "experience": [
+        {
+            "title": "Graduate Research Assistant",
+            "location": "Los Angeles, California, United States",
+            "description": "Management of software tools for superconductor electronic design automation.",
+            "description_html": "Management of software tools for superconductor electronic design automation. <!---->",
+            "duration": "May 2022 Apr 2023 1 year",
+            "start_date": "May 2022",
+            "end_date": "Apr 2023",
+            "duration_short": "1 year",
+            "company": "University of Southern California",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "SWE with the call ads infrastructure team.",
+            "description_html": "SWE with the call ads infrastructure team. <!---->",
+            "duration": "Aug 2020 Jun 2021 11 months",
+            "start_date": "Aug 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "11 months",
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Teaching Assistant",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "Teaching assistant for a graduate level course in graph theory and an undergraduate level lab on operating systems.",
+            "description_html": "Teaching assistant for a graduate level course in graph theory and an undergraduate level lab on operating systems. <!---->",
+            "duration": "Jul 2019 May 2020 11 months",
+            "start_date": "Jul 2019",
+            "end_date": "May 2020",
+            "duration_short": "11 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Hyderabad Area, India",
+            "description": "Worked on improving the automated ranking quality of DesFlow, a workflow management and ticketing system.",
+            "description_html": "Worked on improving the automated ranking quality of DesFlow, a workflow management and ticketing system. <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "D. E. Shaw India Private Limited",
+            "company_id": "d.-e.-shaw-india-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Research Intern",
+            "location": "Noida Area, India",
+            "description": "Worked on a problem in natural language synthesis and language modelling using deep neural models.",
+            "description_html": "Worked on a problem in natural language synthesis and language modelling using deep neural models. <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Adobe",
+            "company_id": "adobe",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shubham Mittal",
+            "about": "Software Engineer at Google | 3 times ACM ICPC Regionalist",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sayoni Dutta Roy",
+            "about": "CEO @ GenFuse AI: Easiest way to build AI agent automations | Google | Adobe",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kavitha Gopal",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Anishka Gupta",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Gurjar",
+            "about": null,
+            "location": "London"
+        },
+        {
+            "profile_link": "",
+            "name": "Maneesh Babu Adhikari",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Manasi Arun",
+            "about": null,
+            "location": "Mountain View, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashveen Bansal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ravi Teja Donthu",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kshitiz Kumar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishank Bhardwaj",
+            "about": "Senior Software Engineer at Google",
+            "location": "Rohtak"
+        },
+        {
+            "profile_link": "",
+            "name": "Surya Teja Gora",
+            "about": null,
+            "location": "Sunnyvale, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Nilay Jain",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Debarati Maiti",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Samarth Jain",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanya Agarwal",
+            "about": "Software Engineer at Google",
+            "location": "Sunnyvale, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Trishla Verma",
+            "about": null,
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Himani Virmani",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Utsav Rajpara",
+            "about": null,
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ajay Gunjal",
+            "about": "Software Engineer III at Google",
+            "location": "Pune"
+        }
+    ],
+    "educations_details": "University of Southern California",
+    "education": [
+        {
+            "title": "University of Southern California",
+            "degree": "Master's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2023",
+            "description": "Activities and Societies: Phi Kappa Phi CS MS Honors Student",
+            "description_html": "Activities and Societies: Phi Kappa Phi",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B.Tech (Hons.) + M.Tech dual degree",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Artificial intelligence\"},{\"subtitle\":\"-\",\"title\":\"Discrete Structures\"},{\"subtitle\":\"-\",\"title\":\"Distributed systems\"},{\"subtitle\":\"-\",\"title\":\"Graph Theory\"},{\"subtitle\":\"-\",\"title\":\"Image processing\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Networks\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"},{\"subtitle\":\"-\",\"title\":\"Parallel algorithms\"},{\"subtitle\":\"-\",\"title\":\"Quantum error correction\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "See credential",
+            "subtitle": "ICPC - International Collegiate Programming Contest",
+            "title": "ICPCID"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Social Services",
+            "info": "In our first couple years in IIT Kharagpur, NSS volunteers are engaged in providing social services to neighbouring rural areas.",
+            "subtitle": "National Service Scheme",
+            "title": "Student Volunteer"
+        }
+    ],
+    "followers": 1674,
+    "connections": 500,
+    "current_company_company_id": null,
+    "current_company_name": "University of Southern California",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "sumeetshirgure",
+    "activity": [
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "🌟 Grateful for an Incredible Journey at Sony 🌟 As I close this chapter of my career, I want to take a moment to reflect on the past four years I…",
+            "img": "",
+            "id": "7276886986374762496"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "We've been getting a lot of questions about alternate QEC codes, and are we looking into any? Yes! Here's experiments for two on Willow. 1. The…",
+            "img": "",
+            "id": "7275722072314560512"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "Presented our work in an oral presentation at NeurIPS 2024! Nilay Pochhi Kipo AI",
+            "img": "",
+            "id": "7274147649178537986"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "#qecarxiv 1) Predictive Window Decoding for Fault-Tolerant Quantum Programs [ This paper introduces a predictive window…",
+            "img": "",
+            "id": "7271813395304079361"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "I do not believe in complaining because, in most cases, it doesn't help. Therefore, consider this post as one for amusement. One of the largest…",
+            "img": "",
+            "id": "7264722620128870400"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "Excited to work with Greg and others on this DOE-funded project, SMART Stack: Scalable, Modular, cross-platform Adaptable, dynamically…",
+            "img": "",
+            "id": "7249161630612135939"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "We are suing USCIS on a denied EB-1A in federal court. This is the first main sentence of their argument to the judge. How does this make you…",
+            "img": "",
+            "id": "7255696423193649152"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "It is with profound sadness that we bid farewell to a giant of industry and philanthropy. We received our Padma Vibhushan together, and I was truly…",
+            "img": "",
+            "id": "7250011916922675200"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "From Janitor to Millionaire:- Ronald Read was a man from Vermont who lived a very simple life. He was born in 1921 and grew up on a farm. He didn’t…",
+            "img": "",
+            "id": "7243484717277179905"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "I have never shared any professional achievement on LinkedIn before, but this is worth breaking the silence. My quantum computing textbook co-written…",
+            "img": "",
+            "id": "7239935542321115138"
+        },
+        {
+            "interaction": "Liked by Sumeet Shirgure",
+            "link": "",
+            "title": "As a PhD student in statistics, it's been a long-term goal of mine to become a quant on Wall Street, applying cutting-edge mathematics and machine…",
+            "img": "",
+            "id": "7234632349710213120"
+        }
+    ],
+    "linkedin_num_id": 680975175,
+    "honors_and_awards": [
+        {
+            "title": "Quantum computing hackathon winner",
+            "publication": "Microsoft",
+            "date": "2022-05-01T00:00:00.000Z",
+            "description": "Featured in Microsoft's Q# blog."
+        },
+        {
+            "title": "ICPC world finals qualifier",
+            "publication": "ICPC Foundation",
+            "date": "2018-12-01T00:00:00.000Z",
+            "description": "Among the eight Indian teams to qualify for ICPC 2019 World Finals held in Porto, Portugal."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

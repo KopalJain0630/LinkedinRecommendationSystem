@@ -1,0 +1,110 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Senior Engineer @Eightfold.AI | CSE, IIT KGP '21 | Golang | Python | Java | Kubernetes",
+    "experience": [
+        {
+            "title": "Senior Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Working as a Full stack Engineer as Part of TA-Core Team where I-• Designed and implemented third party integration of Twilio with our app for template management.• Designed improvements to matching algorithms of jobs to candidates. Responsibilities• Full stack Development(Backend Focused) for TA app in Javascript, Python, Apache Solr, RDS",
+            "description_html": "Working as a Full stack Engineer as Part of TA-Core Team where I-• Designed and implemented third party integration of Twilio with our app for template management.• Designed improvements to matching algorithms of jobs to candidates. Responsibilities• Full stack Development(Backend Focused) for TA app in Javascript, Python, Apache Solr, RDS <!---->",
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Eightfold",
+            "company_id": "eightfoldai",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "AppDynamics",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "1 year 11 months",
+            "positions": [
+                {
+                    "subtitle": "AppDynamics",
+                    "meta": "Oct 2023 - Sep 2024 1 year",
+                    "description": "Achievements -• Recognised for \"Going Above and Beyond\" for Leading Agent feature changes for Ryder.Part of Database Monitoring Team where I-• Designed and implemented events Feature on agent for databases.• Designed and implemented the Processor for PostgreSQL Database on Revamped Agent.Responsibilities• Backend Development for Revamped Agent in Go.• Backend Development for Legacy agent in Java.",
+                    "duration": "Oct 2023 Sep 2024 1 year",
+                    "start_date": "Oct 2023",
+                    "end_date": "Sep 2024",
+                    "duration_short": "1 year",
+                    "title": "Software Engineer 3 (G8)",
+                    "description_html": "Achievements -<br>• Recognised for \"Going Above and Beyond\" for Leading Agent feature changes for Ryder.<br>Part of Database Monitoring Team where I-<br>• Designed and implemented events Feature on agent for databases.<br>• Designed and implemented the Processor for PostgreSQL Database on Revamped Agent.<br>Responsibilities<br>• Backend Development for Revamped Agent in Go.<br>• Backend Development for Legacy agent in Java. <!---->"
+                },
+                {
+                    "subtitle": "AppDynamics",
+                    "meta": "Nov 2022 - Sep 2023 11 months",
+                    "description": "Achievements -• Recognised for \"Driving the Highest Level of Achievement\" for Delivering stretch goals as part of M1 release.• Recognised for \"Getting to the Finish Line\" for Delivering key feature of alerts in Database Agent.Part of Database Monitoring Team where I-• Designed and implemented Customer Installation Process of Database collector on a kubernetes cluster.• Designed and extended the Operator framework for Db collector resource management on a kubernetes cluster.Responsibilities• Maintaining a mature product (DBMON)• Building the revamped Application from 1st Milestone(DSO) and corresponding Operator Framework.",
+                    "duration": "Nov 2022 Sep 2023 11 months",
+                    "start_date": "Nov 2022",
+                    "end_date": "Sep 2023",
+                    "duration_short": "11 months",
+                    "title": "Software Engineer 2 (G6)",
+                    "description_html": "Achievements -<br>• Recognised for \"Driving the Highest Level of Achievement\" for Delivering stretch goals as part of M1 release.<br>• Recognised for \"Getting to the Finish Line\" for Delivering key feature of alerts in Database Agent.<br>Part of Database Monitoring Team where I-<br>• Designed and implemented Customer Installation Process of Database collector on a kubernetes cluster.<br>• Designed and extended the Operator framework for Db collector resource management on a kubernetes cluster.<br>Responsibilities<br>• Maintaining a mature product (DBMON)<br>• Building the revamped Application from 1st Milestone(DSO) and corresponding Operator Framework."
+                }
+            ],
+            "company": "AppDynamics",
+            "company_id": "appdynamics",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer 2",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Achievements -• Saved Costs by building an Internal Observability stack for dev and QA BMS systems.• Enabled Performance team with the Insights from the Observability stack.• 1st rank in Honeywell Ignite project.• Awarded 4 Bronze rewards for my contribution to the team and product.• Won 3 Best Employee in team award- april, june, julyRoles-• Subject Matter Expert(SME) for Forge Connect in Connected Buildings SBG.• Innovation Focal for my Team.",
+            "description_html": "Achievements -• Saved Costs by building an Internal Observability stack for dev and QA BMS systems.• Enabled Performance team with the Insights from the Observability stack.• 1st rank in Honeywell Ignite project.• Awarded 4 Bronze rewards for my contribution to the team and product.• Won 3 Best Employee in team award- april, june, julyRoles-• Subject Matter Expert(SME) for Forge Connect in Connected Buildings SBG.• Innovation Focal for my Team. <!---->",
+            "duration": "Jul 2021 Nov 2022 1 year 5 months",
+            "start_date": "Jul 2021",
+            "end_date": "Nov 2022",
+            "duration_short": "1 year 5 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Part of Connected Radar Team in Connected Aerospace.• Converted to Full time via Pre Placement Offer at the end of internship.• Worked on Building Robust APIs using Nodejs to bulk import Radar Data from IoT Hub. • Stress tested the APIs using Jmeter to comply with aero standards.• Deployment using CICD pipelines done on an openshift cluster, Understood the working of the CICD Pipeline flow.",
+            "description_html": "• Part of Connected Radar Team in Connected Aerospace.• Converted to Full time via Pre Placement Offer at the end of internship.• Worked on Building Robust APIs using Nodejs to bulk import Radar Data from IoT Hub. • Stress tested the APIs using Jmeter to comply with aero standards.• Deployment using CICD pipelines done on an openshift cluster, Understood the working of the CICD Pipeline flow. <!---->",
+            "duration": "Jun 2020 Jul 2020 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "2 months",
+            "company": "Honeywell",
+            "company_id": "honeywell",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": "Activities and Societies: CodeClub Graduated with Honors with a Major in computer Science from Indian Institute of Technology(IIT) Kharagpur.",
+            "description_html": "Activities and Societies: CodeClub",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Army Public School Ambala",
+            "start_year": "2006",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"MA10001;MA10002\",\"title\":\"Advanced Engineering Mathematics\"},{\"subtitle\":\"CS21003, CS29003, CS31005\",\"title\":\"Algorithms\"},{\"subtitle\":\"CS60045\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"CS31003, CS39003\",\"title\":\"Compilers\"},{\"subtitle\":\"CS60064\",\"title\":\"Computational Geometry\"},{\"subtitle\":\"CS31006, CS39006\",\"title\":\"Computer Networks And Lab\"},{\"subtitle\":\"CS31007, CS39001\",\"title\":\"Computer Organisation and Architecture\"},{\"subtitle\":\"CS60065, MA61027\",\"title\":\"Cryptography And Network Security\"},{\"subtitle\":\"CS43002\",\"title\":\"Database Management Systems\"},{\"subtitle\":\"CS21001\",\"title\":\"Discrete Structures\"},{\"subtitle\":\"CS60002\",\"title\":\"Distributed Systems\"},{\"subtitle\":\"CS21004\",\"title\":\"Formal Language And Automata Theory\"},{\"subtitle\":\"CS60092\",\"title\":\"Information Retrieval\"},{\"subtitle\":\"CS60050\",\"title\":\"Machine Learning\"},{\"subtitle\":\"CS60075\",\"title\":\"Natural Language Processing\"},{\"subtitle\":\"CS39006, CS31006\",\"title\":\"Networks\"},{\"subtitle\":\"CS30002, CS39002\",\"title\":\"Operating Systems\"},{\"subtitle\":\"MA20104\",\"title\":\"PROBABILITY AND STATISTICS\"},{\"subtitle\":\"CS40032\",\"title\":\"Principles Of Programming Language\"},{\"subtitle\":\"CS11001, CS19101\",\"title\":\"Programming and Data Structure\"},{\"subtitle\":\"CS20006, CS29006\",\"title\":\"SOFTWARE ENGINEERING\"},{\"subtitle\":\"CS21002, CS29002\",\"title\":\"SWITCHING CIRCUITS AND LOGIC DESIGN\"},{\"subtitle\":\"CS60017\",\"title\":\"Social Computing\"},{\"subtitle\":\"CS41001\",\"title\":\"Theory of Computation\"}]",
+    "certifications": null,
+    "current_company_name": "Eightfold",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"LeetCode Solutions\",\"start_date\":\"Jul 2017\"},{\"title\":\"Computer Networks lab\",\"start_date\":\"2020\",\"end_date\":\"2021\"},{\"title\":\"Machine Learning Lab\",\"start_date\":\"2020\",\"end_date\":\"2021\"},{\"title\":\"Operating Systems Lab\",\"start_date\":\"2020\",\"end_date\":\"2021\"},{\"title\":\"Algorithms Lab\",\"start_date\":\"2020\",\"end_date\":\"2020\"},{\"title\":\"Compilers Lab\",\"start_date\":\"2020\",\"end_date\":\"2020\"},{\"title\":\"Food-mania\",\"start_date\":\"Feb 2019\",\"end_date\":\"Mar 2019\",\"description\":\"A project under Dr. Debasis Samanta as a part of software Engineering Lab . This is a web-app made using Django framework which allows users to order food from nearby Restaurants.\"},{\"title\":\"Scrink(Linked-in profile scraper)\",\"start_date\":\"Feb 2019\",\"end_date\":\"Mar 2019\",\"description\":\"A python script using Selenium to extract Profile data info from Linkedin using only e-mails. Currently limited to 50 people a day due to API restriction of Linkedin.\"},{\"title\":\"Anime-Downloader\",\"description\":\"Web Crawler + Web-scraping project made with Selenium, BeautifulSoup and Gecko-driver. It searches for the anime entered by user on kissanime and allows user to download it in required resolution. For more details visit git link.\"},{\"title\":\"BRK-OUT\",\"description\":\"Contributor in 2-D physics, collision based game made with Py-game in KWOC-2018. Game consists of a striker and ball, the objective is to break the surrounding bricks with the ball. The striker is controlled by the player and is used to move the ball. For more information, see git link.\"}]",
+    "honors_and_awards": null
+}

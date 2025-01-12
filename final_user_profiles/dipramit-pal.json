@@ -1,0 +1,141 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Data Scientist | Product Developer | ABInbev",
+    "experience": [
+        {
+            "title": "AB InBev",
+            "location": "India",
+            "description_html": null,
+            "duration": "4 years 5 months",
+            "positions": [
+                {
+                    "subtitle": "AB InBev",
+                    "meta": "Mar 2022 - Present 2 years 10 months",
+                    "duration": "Mar 2022 - Present 2 years 10 months",
+                    "start_date": "Mar 2022",
+                    "end_date": "Present",
+                    "duration_short": "2 years 10 months",
+                    "title": "Data Scientist",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Anheuser-Busch InBev",
+                    "meta": "Aug 2020 - Mar 2022 1 year 8 months",
+                    "duration": "Aug 2020 Mar 2022 1 year 8 months",
+                    "start_date": "Aug 2020",
+                    "end_date": "Mar 2022",
+                    "duration_short": "1 year 8 months",
+                    "title": "Associate Data Scientist",
+                    "description_html": null
+                }
+            ],
+            "company": "AB InBev",
+            "company_id": "ab-inbev",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru Area, India",
+            "description": "• Analysed South Korean market data to identify potential buyers of a beer brand for targeted media buying• Established pipeline to overcome challenges of implementing propensity modeling on a segement level data• Deduced methodology to apply the inferred results for core audience targeting on Facebook Ad Portal",
+            "description_html": "• Analysed South Korean market data to identify potential buyers of a beer brand for targeted media buying• Established pipeline to overcome challenges of implementing propensity modeling on a segement level data• Deduced methodology to apply the inferred results for core audience targeting on Facebook Ad Portal <!---->",
+            "duration": "May 2019 Jul 2019 3 months",
+            "start_date": "May 2019",
+            "end_date": "Jul 2019",
+            "duration_short": "3 months",
+            "company": "Anheuser-Busch InBev",
+            "company_id": "ab-inbev",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Scientist",
+            "location": "Ahmedabad Area, India",
+            "description": "• Analysed weaving defects data on fabrics produced to identify their causes using dplyr library in R and Excel operations• Identified critical sources of defects which had significant level of production and showed high amount of defects per metre • Demonstrated to plant team heads how obtained results can be implemented in practical manner",
+            "description_html": "• Analysed weaving defects data on fabrics produced to identify their causes using dplyr library in R and Excel operations• Identified critical sources of defects which had significant level of production and showed high amount of defects per metre • Demonstrated to plant team heads how obtained results can be implemented in practical manner <!---->",
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Arvind Limited",
+            "company_id": "arvindlimited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Spring Fest",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Spring Fest",
+                    "meta": "May 2017 - Apr 2018 1 year",
+                    "description": "• Developed an API system secured with JWT Authentication in Laravel modular framework• Integrated online payment portal with PayTM payment gateway API endpoints• Developed an integrated Admin Panel to oversee entire organisational operation digitally• Mentored 350+ students in web development summer training, imparting them basic knowledge of PHP, SQL, Javascript, CSS",
+                    "duration": "May 2017 Apr 2018 1 year",
+                    "start_date": "May 2017",
+                    "end_date": "Apr 2018",
+                    "duration_short": "1 year",
+                    "title": "Tech Head",
+                    "description_html": "• Developed an API system secured with JWT Authentication in Laravel modular framework<br>• Integrated online payment portal with PayTM payment gateway API endpoints<br>• Developed an integrated Admin Panel to oversee entire organisational operation digitally<br>• Mentored 350+ students in web development summer training, imparting them basic knowledge of PHP, SQL, Javascript, CSS <!---->"
+                },
+                {
+                    "subtitle": "Spring Fest",
+                    "meta": "Jul 2016 - Apr 2017 10 months",
+                    "description": "• Created and maintained Nation Wise Prelims Website for allowing participants to register themselves in the prelims across their city.• Conducted Freshers event by maintaining an online Portal for leaderboard scores and Load balancing across several events using Web Sockets and CSS framework.• Created Mobile Website for Spring Fest, which has an interactive theme based on Gyroscope and Accelerometer of the device using Parallax.js and AngularJS • Developed Fest Portal, an initiative to manage all activities of fest, using core PHP and JavaScript, formulated in MVC Format",
+                    "duration": "Jul 2016 Apr 2017 10 months",
+                    "start_date": "Jul 2016",
+                    "end_date": "Apr 2017",
+                    "duration_short": "10 months",
+                    "title": "Technical Team Member (Sub Head)",
+                    "description_html": "• Created and maintained Nation Wise Prelims Website for allowing participants to register themselves in the prelims across their city.<br>• Conducted Freshers event by maintaining an online Portal for leaderboard scores and Load balancing across several events using Web Sockets and CSS framework.<br>• Created Mobile Website for Spring Fest, which has an interactive theme based on Gyroscope and Accelerometer of the device using Parallax.js and AngularJS <br>• Developed Fest Portal, an initiative to manage all activities of fest, using core PHP and JavaScript, formulated in MVC Format"
+                }
+            ],
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Back End Developer",
+            "location": "Bangaon Area, India",
+            "description": "• Familiarised with technologies like Neo4J, Zend Engine, Mongo DB, Redis Server• Worked With backend technologies to Authenticate and secure the API• Modularized several features• Contributed in Migrating modules to AngularJS",
+            "description_html": "• Familiarised with technologies like Neo4J, Zend Engine, Mongo DB, Redis Server• Worked With backend technologies to Authenticate and secure the API• Modularized several features• Contributed in Migrating modules to AngularJS <!---->",
+            "duration": "May 2017 Jul 2017 3 months",
+            "start_date": "May 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "3 months",
+            "company": "LetsEndorse",
+            "company_id": "letsendorse",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Technology - MTech",
+            "field": "Mining Engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2020",
+            "description": "Activities and Societies: Spring Fest, Tech Team, Head",
+            "description_html": "Activities and Societies: Spring Fest, Tech Team, Head",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "AB InBev",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Chhuk Chhuk ( Web Application / Messenger Chat Bot)\",\"start_date\":\"Nov 2016\",\"description\":\"+ Web Application Based, Facebook Messenger Chatbot+ Designed on AI/ Machine Learning Background, to solve the queries regarding Railway Travels/ Booking+Secured Best Project in Microsoft's Online Code.Fun.Do (Application Development Hackathon) and Secured 3rd Position in the On Campus Code.Fun.Do. (Senior League), IIT KHARAGPUR+ Features Include:* All Basic Railway Enqueries like PNR, Live Status, Full Routes, etc. * Language Flexibility by Accepting Queries in local languages like Hindi, to support the major population of the country* Voice Input Enabled allowing user to enter his query, without typing a single word, by just communicating with the both with his voice\"},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Code.Fun.Do",
+            "publication": "Microsoft",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "+ Secured Second Runners Up Position in the On Campus, App Development Hackathon(Senior League) by Developing a Facebook Messenger Based Web Application, Chatbot for your Railway queries + Qualified for National Level Code.Fun.Do"
+        }
+    ]
+}

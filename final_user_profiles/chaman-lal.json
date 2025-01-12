@@ -1,0 +1,23 @@
+{
+    "city": "New Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Information Technology Bhopal",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Structure and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Fundamentals of Programming Languages\"},{\"subtitle\":\"-\",\"title\":\"Object-oriented programming (OOP)\"},{\"subtitle\":\"IBM\",\"title\":\"R-DBMS by IBM\"}]",
+    "certifications": null,
+    "current_company_name": "Chakr Innovation",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Android App to Check COVID-19 VaccinationAvailability\",\"start_date\":\"Apr 2021\",\"end_date\":\"Jun 2021\",\"description\":\"India to give vaccination to people to fight against the COVID-19 virus. As there are so many vaccination centres in India for vaccination so to check the availability of different vaccination in different centres across India.\"},{\"title\":\"Javascript Notes Application\",\"start_date\":\"Jan 2021\",\"end_date\":\"Feb 2021\",\"description\":\"Javascript project is to create a notes application that uses local storage and allows for edits, among the things. [Still working phase adding more cool features ] Tech stack HTML, Bootstrap, Javascript, VS code./* Further Features:Add TitleMark a note as ImportantSeparate notes by userSync and host to web server */\"}]",
+    "honors_and_awards": null
+}

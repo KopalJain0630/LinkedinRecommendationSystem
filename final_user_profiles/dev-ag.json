@@ -1,0 +1,174 @@
+{
+    "city": "Jaipur, Rajasthan, India",
+    "position": "SDE @ Atlassian | U.S. Patent (published) | IIT Kharagpur | Prev: Zomato | Candidate Master @ Codeforces | CVPR 2022",
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Oct 2024 - Present 3 months",
+            "start_date": "Oct 2024",
+            "end_date": "Present",
+            "duration_short": "3 months",
+            "company": "Atlassian",
+            "company_id": "atlassian",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description": "Logistics Tech",
+            "description_html": "Logistics Tech <!---->",
+            "duration": "Jun 2024 Oct 2024 5 months",
+            "start_date": "Jun 2024",
+            "end_date": "Oct 2024",
+            "duration_short": "5 months",
+            "company": "Zomato",
+            "company_id": "zomato",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Generative AI Researcher ( NeRFs)",
+            "location": "Toronto, Ontario, Canada",
+            "description": "• Generated realistic 3-D scenes for 5 objects with 10 environments from 2-D using NeRF for surface reconstruction• Employed neural decoder models in the ENVIDR algorithm to extract texture maps for albedo and roughness components• Improved user experience by integrating SDF-Studio, yielding a user-friendly API for seamless NeRF creation, training, testing• Added Custom GUI using the nerfstudio framework for changing the environment on the web-based viewer in real-time",
+            "description_html": "• Generated realistic 3-D scenes for 5 objects with 10 environments from 2-D using NeRF for surface reconstruction• Employed neural decoder models in the ENVIDR algorithm to extract texture maps for albedo and roughness components• Improved user experience by integrating SDF-Studio, yielding a user-friendly API for seamless NeRF creation, training, testing• Added Custom GUI using the nerfstudio framework for changing the environment on the web-based viewer in real-time <!---->",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "University of Toronto",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Applied Research Fellow (Computer Vision)",
+            "location": "Hyderabad, Telangana, India",
+            "description": "• Pioneered a groundbreaking solution to revolutionize road safety by detecting, tracking, and counting triple-riding violations and helmet offenses on challenging, bustling roads.• Engineered a novel trapezium box representation and harnessed the power of curriculum learning-based detection models to achieve unparalleled accuracy in identifying and addressing violations.• Significantly improved F1-scores for both triple-riding and helmet violations, surpassing existing benchmarks, showcasing the potential to enforce safer commuting practices and protect lives on the road.",
+            "description_html": "• Pioneered a groundbreaking solution to revolutionize road safety by detecting, tracking, and counting triple-riding violations and helmet offenses on challenging, bustling roads.• Engineered a novel trapezium box representation and harnessed the power of curriculum learning-based detection models to achieve unparalleled accuracy in identifying and addressing violations.• Significantly improved F1-scores for both triple-riding and helmet violations, surpassing existing benchmarks, showcasing the potential to enforce safer commuting practices and protect lives on the road.",
+            "duration": "May 2021 Apr 2022 1 year",
+            "start_date": "May 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "1 year",
+            "company": "IIIT Hyderabad",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "India",
+            "description": "•  Utilized data analysis techniques to extract and interpret key performance indicators (KPIs) from the properties' datasets in the Gurugram region. These insights contributed to data-driven decision-making processes.• Conducted comprehensive analysis of various factors affecting apartments, such as location, amenities, and market trends. The result was the development of a holistic property scoring system that provided valuable guidance to customers and stakeholders.• Collaborated with cross-functional teams to conceptualize the Data Architecture of the organization. Additionally, played a crucial role in the evaluation and purchase of wireframe tools, enhancing the efficiency of data visualization and reporting processes.",
+            "description_html": "• Utilized data analysis techniques to extract and interpret key performance indicators (KPIs) from the properties' datasets in the Gurugram region. These insights contributed to data-driven decision-making processes.• Conducted comprehensive analysis of various factors affecting apartments, such as location, amenities, and market trends. The result was the development of a holistic property scoring system that provided valuable guidance to customers and stakeholders.• Collaborated with cross-functional teams to conceptualize the Data Architecture of the organization. Additionally, played a crucial role in the evaluation and purchase of wireframe tools, enhancing the efficiency of data visualization and reporting processes.",
+            "duration": "Aug 2021 Nov 2021 4 months",
+            "start_date": "Aug 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "4 months",
+            "company": "RealtyAI",
+            "company_id": "realty-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Entrepreneurship Cell, IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Jan 2021 - May 2021 5 months",
+                    "duration": "Jan 2021 May 2021 5 months",
+                    "start_date": "Jan 2021",
+                    "end_date": "May 2021",
+                    "duration_short": "5 months",
+                    "title": "Associate Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Jul 2020 - Jan 2021 7 months",
+                    "duration": "Jul 2020 Jan 2021 7 months",
+                    "start_date": "Jul 2020",
+                    "end_date": "Jan 2021",
+                    "duration_short": "7 months",
+                    "title": "Associate Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Entrepreneurship Cell, IIT Kharagpur",
+                    "meta": "Aug 2019 - Jul 2020 1 year",
+                    "description": "Collaborated with 20+professors & 30+representatives from 15+colleges of Jaipur & Kolkata Region to help witness 1.2k+ participants & 52+eminent entrepreneurs for our annual flagship event by increasing student participation by 120% & generating incremental revenue worth INR 3.3L YoY.",
+                    "duration": "Aug 2019 Jul 2020 1 year",
+                    "start_date": "Aug 2019",
+                    "end_date": "Jul 2020",
+                    "duration_short": "1 year",
+                    "title": "GES Intern (Events, Public Relations)",
+                    "description_html": "Collaborated with 20+professors &amp; 30+representatives from 15+colleges of Jaipur &amp; Kolkata Region to help witness 1.2k+ participants &amp; 52+eminent entrepreneurs for our annual flagship event by increasing student participation by 120% &amp; generating incremental revenue worth INR 3.3L YoY. <!---->"
+                }
+            ],
+            "company": "Entrepreneurship Cell, IIT Kharagpur",
+            "company_id": "ecellkgp",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Machine Learning Researcher (Computer Vision)",
+            "description": "• Conducted research on enhancing autonomous driving vehicles' scene understanding in adverse weather conditions.• Developed and curated a diverse dataset of 1K+ images encompassing 5 weather classes to train and validate models effectively.• Spearheaded a comprehensive literature survey on Convolutional Neural Network (CNN) models to pave the way for implementing Variational Autoencoders (VAE) in the project.",
+            "description_html": "• Conducted research on enhancing autonomous driving vehicles' scene understanding in adverse weather conditions.• Developed and curated a diverse dataset of 1K+ images encompassing 5 weather classes to train and validate models effectively.• Spearheaded a comprehensive literature survey on Convolutional Neural Network (CNN) models to pave the way for implementing Variational Autoencoders (VAE) in the project. <!---->",
+            "duration": "Jan 2021 Mar 2021 3 months",
+            "start_date": "Jan 2021",
+            "end_date": "Mar 2021",
+            "duration_short": "3 months",
+            "company": "Department of CSE, IIT Hyderabad",
+            "company_id": "department-of-cse-iit-hyderabad",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Development Consultant",
+            "description": "• Led collaboration with Fytorem, a pioneering plant-based air purifier startup, to devise and execute a highly effective Go-To-Market Strategy, resulting in accelerated market penetration and increased customer engagement.• Partnered with World Vision NGO to analyze and derive valuable insights on Employment in India, leveraging a vast dataset of 16K+ answers from 4 cities, contributing to data-driven decision-making and impactful social initiatives.• Published (2/20+) cutting-edge reports on 5G and Cryptocurrency, solidifying expertise in emerging technologies and creating a significant impact, reflected in a remarkable growth of 4K+ social media followers.",
+            "description_html": "• Led collaboration with Fytorem, a pioneering plant-based air purifier startup, to devise and execute a highly effective Go-To-Market Strategy, resulting in accelerated market penetration and increased customer engagement.• Partnered with World Vision NGO to analyze and derive valuable insights on Employment in India, leveraging a vast dataset of 16K+ answers from 4 cities, contributing to data-driven decision-making and impactful social initiatives.• Published (2/20+) cutting-edge reports on 5G and Cryptocurrency, solidifying expertise in emerging technologies and creating a significant impact, reflected in a remarkable growth of 4K+ social media followers.",
+            "duration": "Jul 2020 Mar 2021 9 months",
+            "start_date": "Jul 2020",
+            "end_date": "Mar 2021",
+            "duration_short": "9 months",
+            "company": "180 Degrees Consulting IIT Kharagpur",
+            "company_id": "180-degrees-consulting-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated M.Sc. Economics",
+            "field": "Micro-Specialization: Artificial Intelligence",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Candlewick Public School",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Atlassian",
+    "publications": "[{\"title\":\"Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads\",\"subtitle\":\"CVPR Workshop\",\"date\":\"April 2, 2022\",\"description\":\"A novel approach that simultaneously detects and tracks both triple riding violations and helmet violations\"}]",
+    "patents": "[{\"title\":\"System and method for detecting and tracking two-wheeler vehicle traffic violation using a deep learning model background\",\"date_issued\":\"June 4, 2023\",\"patents_id\":\"US Patent 18/131,765\"}]",
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "KVPY Scholar",
+            "publication": "Department of Science and Technology (DST), Government of India",
+            "date": "2018-03-01T00:00:00.000Z",
+            "description": "Awarded the fellowship for being in the Top-0.5% out of 0.2M students in India"
+        }
+    ]
+}

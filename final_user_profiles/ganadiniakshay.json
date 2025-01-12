@@ -1,0 +1,111 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Chaitanya Bharathi Institute Of Technology",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2023See credential",
+            "subtitle": "LinkedIn",
+            "title": "Generative AI for Digital Marketers"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Personal Productivity for Product Managers"
+        },
+        {
+            "meta": "Issued Aug 2022See credential",
+            "subtitle": "LinkedIn",
+            "title": "Pricing Strategy Explained"
+        },
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Security Matters (To Everyone)"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Communication for Product Managers"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Figma for UX Design"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Product Marketing Foundations"
+        },
+        {
+            "meta": "Issued Sep 2019See credential",
+            "subtitle": "LinkedIn",
+            "title": "Product Management: Building a Product Strategy"
+        },
+        {
+            "meta": "Issued Mar 2019Credential ID NUJKV7RDUQDFSee credential",
+            "subtitle": "Coursera",
+            "title": "Agile with Atlassian Jira"
+        },
+        {
+            "meta": "Issued Apr 2018Credential ID ALUKUHCS2Y7QSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2017Credential ID 10737620See credential",
+            "subtitle": "Y Combinator",
+            "title": "Startup School Online"
+        },
+        {
+            "meta": "Issued Sep 2016See credential",
+            "subtitle": "Duolingo",
+            "title": "Duolingo Spanish Fluency: Elementary (Estimated)"
+        },
+        {
+            "meta": "Issued Jul 2013Credential ID BerkeleyX/CS-169.1x/2013_SummerSee credential",
+            "subtitle": "edX",
+            "title": "Software as a Service"
+        },
+        {
+            "meta": "Issued Sep 2012Credential ID MITx/6.00x/2012_FallSee credential",
+            "subtitle": "edX",
+            "title": "Introduction to Computer Science and Programming"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Code School",
+            "title": "Building Blocks of Express.js"
+        },
+        {
+            "meta": "See credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning - Stanford"
+        }
+    ],
+    "current_company_name": "Freshworks",
+    "publications": "[{\"title\":\"Building Chatbots with Microsoft Bot Framework and Node.js\",\"subtitle\":\"Manning Publications\",\"date\":\"February 14, 2018\"},{\"title\":\"IJARCSE\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Flask-Wizard\",\"start_date\":\"Jul 2017\",\"end_date\":\"Present\",\"description\":\"A Flask extension to build multi-platform chatbots\"},{\"title\":\"ozz\",\"start_date\":\"Mar 2017\",\"end_date\":\"Present\",\"description\":\"A React, Redux and Flask based system to deploy a wit.ai like NLP system which uses Rasa, an open source NLP solution as the backend.\"},{\"title\":\"Api.ai Recognizer\",\"start_date\":\"Nov 2016\",\"description\":\"A npm module to use api.ai with microsoft bot framework. Here's a link to tutorial http://blog.ozz.ai/using-api-ai-with-microsoft-bot-framework/\"},{\"title\":\"LUIS training framework\",\"start_date\":\"Aug 2016\",\"description\":\"A python framework built as a wrapper around the API of LUIS.ai. It makes building and managing LUIS models extremely simple by making it metadata driven\"}]",
+    "honors_and_awards": null
+}

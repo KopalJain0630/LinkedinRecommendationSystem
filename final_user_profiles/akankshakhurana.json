@@ -1,0 +1,203 @@
+{
+    "city": "Sydney, New South Wales, Australia",
+    "position": "Portfolio Manager at Unreasonable",
+    "experience": [
+        {
+            "title": "Unreasonable",
+            "description_html": null,
+            "duration": "4 years 2 months",
+            "positions": [
+                {
+                    "subtitle": "Unreasonable",
+                    "meta": "Jan 2023 - Present 2 years",
+                    "duration": "Jan 2023 - Present 2 years",
+                    "start_date": "Jan 2023",
+                    "end_date": "Present",
+                    "duration_short": "2 years",
+                    "title": "Portfolio Manager, Asia Pacific",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Unreasonable",
+                    "meta": "Aug 2022 - Jan 2023 6 months",
+                    "duration": "Aug 2022 Jan 2023 6 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Jan 2023",
+                    "duration_short": "6 months",
+                    "title": "Investor Relations Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Unreasonable",
+                    "meta": "Nov 2020 - Aug 2022 1 year 10 months",
+                    "duration": "Nov 2020 Aug 2022 1 year 10 months",
+                    "start_date": "Nov 2020",
+                    "end_date": "Aug 2022",
+                    "duration_short": "1 year 10 months",
+                    "title": "Program Lead",
+                    "description_html": null
+                }
+            ],
+            "company": "Unreasonable",
+            "company_id": "unreasonable",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Catalyst",
+            "description_html": null,
+            "duration": "Oct 2023 Oct 2024 1 year 1 month",
+            "start_date": "Oct 2023",
+            "end_date": "Oct 2024",
+            "duration_short": "1 year 1 month",
+            "company": "The Women's Impact Alliance (formerly The Coaching Fellowship)",
+            "company_id": "thewomensimpactalliance",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Consultant",
+            "description_html": null,
+            "duration": "Jul 2020 Nov 2020 5 months",
+            "start_date": "Jul 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "5 months",
+            "company": "Endeva",
+            "company_id": "endeva",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Network Strategist",
+            "location": "South Asia",
+            "description_html": null,
+            "duration": "2019 2020 1 year",
+            "start_date": "2019",
+            "end_date": "2020",
+            "duration_short": "1 year",
+            "company": "Ashoka",
+            "company_id": "ashoka",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Facilitator",
+            "description_html": null,
+            "duration": "2018 2020 2 years",
+            "start_date": "2018",
+            "end_date": "2020",
+            "duration_short": "2 years",
+            "company": "UNLEASH - Innovation lab for SDGs",
+            "company_id": "unleash.org",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Program Associate",
+            "location": "Bengaluru Area, India",
+            "description_html": null,
+            "duration": "2017 2019 2 years",
+            "start_date": "2017",
+            "end_date": "2019",
+            "duration_short": "2 years",
+            "company": "Buzz Women",
+            "company_id": "buzzwomen",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Analyst",
+            "location": "Nigeria",
+            "description_html": null,
+            "duration": "2017 2018 1 year",
+            "start_date": "2017",
+            "end_date": "2018",
+            "duration_short": "1 year",
+            "company": "Hello Tractor",
+            "company_id": "hello-tractor",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Intern",
+            "location": "Mumbai Area, India",
+            "description_html": null,
+            "duration": "Dec 2016 Feb 2017 3 months",
+            "start_date": "Dec 2016",
+            "end_date": "Feb 2017",
+            "duration_short": "3 months",
+            "company": "Ankur Capital Fund",
+            "company_id": "ankur-capital",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Singapore",
+            "description_html": null,
+            "duration": "Jun 2016 Aug 2016 3 months",
+            "start_date": "Jun 2016",
+            "end_date": "Aug 2016",
+            "duration_short": "3 months",
+            "company": "UNFRAMED",
+            "company_id": "unframed",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Winter Intern",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "Jan 2016 Mar 2016 3 months",
+            "start_date": "Jan 2016",
+            "end_date": "Mar 2016",
+            "duration_short": "3 months",
+            "company": "Indian Angel Network",
+            "company_id": "indian-angel-network",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Analyst",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "Jun 2015 Jul 2015 2 months",
+            "start_date": "Jun 2015",
+            "end_date": "Jul 2015",
+            "duration_short": "2 months",
+            "company": "Deloitte",
+            "company_id": "deloitte",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Jesus and Mary College, University of Delhi",
+            "degree": "Bachelor’s Degree",
+            "field": "Business/Commerce, General",
+            "start_year": "2014",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Modern School",
+            "degree": "High School",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": "Activities and Societies: Green Brigade Society, Entrepreneurship Club, Interact Club, Founder of Yearbook Society, Economics Club",
+            "description_html": "Activities and Societies: Green Brigade Society, Entrepreneurship Club, Interact Club, Founder of Yearbook Society, Economics Club",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Unreasonable",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

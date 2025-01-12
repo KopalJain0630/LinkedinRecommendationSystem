@@ -1,0 +1,131 @@
+{
+    "city": "Dhaka, Bangladesh",
+    "position": "Senior Software Engineer at Cefalo | Team Lead | GSoC'20 at Mozilla",
+    "experience": [
+        {
+            "title": "Cefalo",
+            "location": "Dhaka, Bangladesh",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "Cefalo",
+                    "meta": "Jun 2023 - Present 1 year 7 months",
+                    "description": "- Actively collaborating with the product team to plan and allocate engineering tasks effectively.- Assist with architectural decisions, strategize, and support the team to deliver effective & efficient solutions.- Leading and working collaboratively to build multiple projects from the ground up.- Improved team’s work process that increased productivity & reduced communication overhead.- Mentoring junior engineers to write readable, maintainable and high-quality code.Tech stack: Next.js, Redux, Node.js, Express, Sanity, Cloud Functions, PostgresSQL, Firebase, Playwright, etc.",
+                    "duration": "Jun 2023 - Present 1 year 7 months",
+                    "start_date": "Jun 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 7 months",
+                    "title": "Senior Software Engineer",
+                    "description_html": "- Actively collaborating with the product team to plan and allocate engineering tasks effectively.<br>- Assist with architectural decisions, strategize, and support the team to deliver effective &amp; efficient solutions.<br>- Leading and working collaboratively to build multiple projects from the ground up.<br>- Improved team’s work process that increased productivity &amp; reduced communication overhead.<br>- Mentoring junior engineers to write readable, maintainable and high-quality code.<br><br>Tech stack: Next.js, Redux, Node.js, Express, Sanity, Cloud Functions, PostgresSQL, Firebase, Playwright, etc."
+                },
+                {
+                    "subtitle": "Cefalo",
+                    "meta": "Jan 2022 - Jun 2023 1 year 6 months",
+                    "description": "- Worked as a Full Stack JavaScript Engineer in House of Math (houseofmath.com) team.- Collaborated in developing the “Customer Onboarding” project.- Collaborated in developing the “Math Vault” project from scratch.- Implemented optimistic update in several UIs that made user interactions 3 times faster.Tech stack: Next.js, Redux, Express, Cloud Functions, Sanity, Firebase, PostgresSQL, Playwright, etc",
+                    "duration": "Jan 2022 Jun 2023 1 year 6 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Jun 2023",
+                    "duration_short": "1 year 6 months",
+                    "title": "Software Engineer",
+                    "description_html": "- Worked as a Full Stack JavaScript Engineer in House of Math (houseofmath.com) team.<br>- Collaborated in developing the “Customer Onboarding” project.<br>- Collaborated in developing the “Math Vault” project from scratch.<br>- Implemented optimistic update in several UIs that made user interactions 3 times faster.<br><br>Tech stack: Next.js, Redux, Express, Cloud Functions, Sanity, Firebase, PostgresSQL, Playwright, etc <!---->"
+                }
+            ],
+            "company": "Cefalo",
+            "company_id": "cefalo-as",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Full Stack Engineer",
+            "description": "- Developed 6 Shopify Apps from scratch that are being used by 500+ Shopify stores.- Developed theme components/UI for Shopify stores as per client’s requirement.- Tech stack: Next.js, Vanilla JS, MongoDB, Koa, Shopify APIs, Gulp, Web APIs, etc.",
+            "description_html": "- Developed 6 Shopify Apps from scratch that are being used by 500+ Shopify stores.- Developed theme components/UI for Shopify stores as per client’s requirement.- Tech stack: Next.js, Vanilla JS, MongoDB, Koa, Shopify APIs, Gulp, Web APIs, etc. <!---->",
+            "duration": "Nov 2020 Sep 2021 11 months",
+            "start_date": "Nov 2020",
+            "end_date": "Sep 2021",
+            "duration_short": "11 months",
+            "company": "Vanilla Agency LLC",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Google Summer of Code (GSoC)",
+            "description": "- Collaborated with Firefox Add-ons team to develop a privileged extension for Firefox.- Gathered users’ requirements and formulated user stories.- Built the project from scratch following the MVC architecture.- Built reusable components with Web Components.- Completed the project having 79% code coverage.- Worked with various WebAPIs and WebExtension APIs in developing the project.",
+            "description_html": "- Collaborated with Firefox Add-ons team to develop a privileged extension for Firefox.- Gathered users’ requirements and formulated user stories.- Built the project from scratch following the MVC architecture.- Built reusable components with Web Components.- Completed the project having 79% code coverage.- Worked with various WebAPIs and WebExtension APIs in developing the project. <!---->",
+            "duration": "May 2020 Aug 2020 4 months",
+            "start_date": "May 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "4 months",
+            "company": "Mozilla",
+            "company_id": "mozilla-corporation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Freelance Web Developer",
+            "description": "- Made websites/ web applications for remote clients. - Worked with remote clients from different places, such as Miami (US), Kissimmee (US), London (UK), Romford (UK), South Ockendon (UK), etc.- Completed 9 projects with 100% satisfaction from clients.",
+            "description_html": "- Made websites/ web applications for remote clients. - Worked with remote clients from different places, such as Miami (US), Kissimmee (US), London (UK), Romford (UK), South Ockendon (UK), etc.- Completed 9 projects with 100% satisfaction from clients. <!---->",
+            "duration": "Mar 2014 Oct 2018 4 years 8 months",
+            "start_date": "Mar 2014",
+            "end_date": "Oct 2018",
+            "duration_short": "4 years 8 months",
+            "company": "PeoplePerHour.com",
+            "company_id": "peopleperhour",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Ahsanullah University of Science and Technology",
+            "degree": "Bachelor of Science - BS",
+            "field": "Computer Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "B.A.F Shaheen College, Dhaka",
+            "degree": "SSC",
+            "field": "Science",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Notre Dame College",
+            "degree": "HSC",
+            "field": "Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Cefalo",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Champion in software showcasing",
+            "publication": "Codeware 19",
+            "date": "2019-10-01T00:00:00.000Z",
+            "description": "Won champion title in Codeware 19 (software showcasing) organized by AUST CSE society at Ahsanullah University of Science and Technology"
+        },
+        {
+            "title": "Friend of Add-ons",
+            "publication": "Mozilla",
+            "date": "2016-10-01T00:00:00.000Z",
+            "description": ""
+        },
+        {
+            "title": "Web Designing Contest",
+            "publication": "Notre Dame College, Dhaka",
+            "date": null,
+            "description": "I got third prize in the contest. It was a part of project display in Notre Dame college, science festival"
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "id": "bmkrishnudu-b7a261152",
+    "name": "Kodi Bala Murali Krishnudu",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": null,
+    "about": "I am a graduate from IIT Kharagpur of the department Computer Science and Engineering\u00e2\u20ac\u00a6",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Intelisenz",
+        "company_id": "intelisenz"
+    },
+    "experience": null,
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shivangi Sharma",
+            "about": null,
+            "location": "Greater Seattle Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Harsha Vardhan",
+            "about": "SDE III @ Google | Ex - Microsoft | Writes to 40k",
+            "location": "Coimbatore"
+        },
+        {
+            "profile_link": "",
+            "name": "Soumyajit Bhattacharyay",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Kriti Joshi",
+            "about": null,
+            "location": "United Kingdom"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhairya Sandhyana",
+            "about": null,
+            "location": "Seoul, South Korea"
+        },
+        {
+            "profile_link": "",
+            "name": "Souraj Mishra",
+            "about": null,
+            "location": "Cracow"
+        },
+        {
+            "profile_link": "",
+            "name": "Manisha Khattar",
+            "about": null,
+            "location": "Greater Delhi Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Prakhar Agrawal",
+            "about": null,
+            "location": "Cupertino, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Khatri",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ishita Pandey",
+            "about": null,
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Apoorva Pragya",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Saurabh De",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Asna Farooqui",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Khyatti Gupta",
+            "about": null,
+            "location": "Switzerland"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhawna Kumari",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Niharika Arora",
+            "about": null,
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Preet Sardhara",
+            "about": "Software Engineer II at Google | ex-sprinklr | ACM ICPC Asia-West Continent Finalist",
+            "location": "Bharuch"
+        },
+        {
+            "profile_link": "",
+            "name": "Priyanka Jain",
+            "about": null,
+            "location": "Jaipur"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Anand",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishchay Manwani",
+            "about": null,
+            "location": "North Guwahati"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS21003, CS31005\",\"title\":\"Algorithms\"},{\"subtitle\":\"CS31003, CS39003\",\"title\":\"Compilers\"},{\"subtitle\":\"CS31006\",\"title\":\"Computer Networks\"},{\"subtitle\":\"CS31007\",\"title\":\"Computer Organisation and Architecture\"},{\"subtitle\":\"CS60065\",\"title\":\"Cryptography & Network Security\"},{\"subtitle\":\"CS60030\",\"title\":\"Formal Systems\"},{\"subtitle\":\"CS60075\",\"title\":\"Natural Language processing\"},{\"subtitle\":\"CS30002\",\"title\":\"Operating Systems\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures \"},{\"subtitle\":\"CS20006\",\"title\":\"Software Engineering\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Telugu "
+        },
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1415.0,
+    "connections": 500.0,
+    "current_company_company_id": "intelisenz",
+    "current_company_name": "Intelisenz",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Hybrid product recommendations using review sentiment associations",
+            "start_date": "Jan 2021",
+            "end_date": "Nov 2021",
+            "description": "Project field : Data Analytics .This project will investigate the ranking of the products available in market given an item of interest of a user , data will be crawled from online portals like Amazon, Flipkart etc . Using Collaborative filtering technique and F P growth Algorithm and other concepts of ML and NLP."
+        },
+        {
+            "title": "Measuring Memorability of Passwords.",
+            "start_date": "May 2020",
+            "end_date": "Jul 2020",
+            "description": "Project field : Network Security worked using python to generate portmanteau words from two root words provided by the user , and these portmanteau words are made such that pronounciation should blend not just the spelling.Produces chained portmanteau words which are easy to remember and very safe . These words are suggested to be passwords for the respective site also very effective like the passwords suggested from other sources ."
+        }
+    ],
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "bmkrishnudu-b7a261152",
+    "activity": [
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "Feeling grateful to have received a Reviewer Certificate from Springer Nature for contributing as a reviewer for the World Journal of Microbiology\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7277203073016459265"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "Honored to receive the Reviewer Certificate from Springer Nature for my contributions to two manuscripts in 2024 for the Journal of Applied\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7267226494974722049"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "Excited to be part of the International Conference on Advances in Biotechnology and Bioinformatics (ICABB 2024) hosted by Dr. D. Y. Patil Vidyapeeth,\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7267462308736446464"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "Reflecting on an Inspiring Experience at the 5th IEEE International Women in Technology Conference (WinTechCon 2024) Attending WinTechCon 2024 was\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7263911078101696512"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "At Hike, we are redefining remote work life with our quarterly \"Meet & Bond\" initiative! This initiative brings teams together beyond the workspace\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7260510088639971328"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "Hello all, New scam is spreading. If you\u00e2\u20ac\u2122re receiving any email from my name or any of your known name from GainRep its a scam. Kindly dont\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7256531152809730048"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "I am extremely excited to share that I have successfully completed the Skill Development Training Program on \u00e2\u20ac\u0153Introduction to Life Cycle Assessment\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7218554020112605184"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "My parents did not have enough money for my school and college education. They took loan for my studies at IIT Kharagpur. 5 years after IIT here is\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7211933770432618497"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "successfully completed our first combustion test on jet A1 fuel.. under high pressure atomisation involving dual pilot and main test rigs.",
+            "img": "",
+            "id": "7192481438309482498"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "When the project is not ready but the client wants a demo \u00f0\u0178\u00ab\u00a3\u00f0\u0178\u00ab\u00a3\u00f0\u0178\u00ab\u00a3",
+            "img": "",
+            "id": "7197468457431425024"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "IITians get unfair attention and access to opportunities. They do not have to work as hard. A common discussion. Agreed, but hard and smart work\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7196790820438495232"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "Hi Everyone, I'm excited to share some news! \u00f0\u0178\u017d\u201c\u00f0\u0178\u017d\u2030 I'm honoured to announce that I have been offered an admission to the Holy Trinity(IIMA, B & C)\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7194944838465724416"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "\u00f0\u0178\u017d\u2030 Just completed the R programming course on Udemy! I am excited to apply this new knowledge to my work and further enhance my skill set. A big\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7193518837076545536"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "Hello Everyone, We are hiring currently for following openings (Full time roles) : [1] ML Engineer [2] Software Engineer (Java) Feel free to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7192931560721903618"
+        },
+        {
+            "interaction": "Liked by Kodi Bala Murali Krishnudu",
+            "link": "",
+            "title": "You are not as good as your insta pic and not as bad as your Aadhar pic. You are not as good as your CV\u00e2\u20ac\u2122s introduction and not as bad as your\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7190144766972514305"
+        }
+    ],
+    "linkedin_num_id": 615738190.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

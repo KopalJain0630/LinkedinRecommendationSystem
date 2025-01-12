@@ -1,0 +1,151 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "SWE @Google | Prev- Morgan Stanley | Jadavpur University",
+    "experience": [
+        {
+            "title": "Software Engineer II",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "🚀 Building Planet-Scale managed SQL Server for Google Cloud Platform.",
+            "description_html": "🚀 Building Planet-Scale managed SQL Server for Google Cloud Platform. <!---->",
+            "duration": "Jul 2024 - Present 6 months",
+            "start_date": "Jul 2024",
+            "end_date": "Present",
+            "duration_short": "6 months",
+            "company": "Google",
+            "company_id": "google",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Morgan Stanley",
+            "description_html": null,
+            "duration": "1 year",
+            "positions": [
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Jan 2024 - Jul 2024 7 months",
+                    "description": "🚀 Building and feature deliveries of a report-cum-analysis interface for the business stakeholders. The project exposed the Global Risk associated with the various investment instruments of the entire Investment Management (IM) Division of Morgan Stanley (inclusive of the firm's recent aquisitions like Eaton Vance and Parametric Portfolio Associates).",
+                    "duration": "Jan 2024 Jul 2024 7 months",
+                    "start_date": "Jan 2024",
+                    "end_date": "Jul 2024",
+                    "duration_short": "7 months",
+                    "title": "Technology Associate",
+                    "description_html": "🚀 Building and feature deliveries of a report-cum-analysis interface for the business stakeholders. The project exposed the Global Risk associated with the various investment instruments of the entire Investment Management (IM) Division of Morgan Stanley (inclusive of the firm's recent aquisitions like Eaton Vance and Parametric Portfolio Associates). <!---->"
+                },
+                {
+                    "subtitle": "Morgan Stanley",
+                    "meta": "Aug 2023 - Jan 2024 6 months",
+                    "duration": "Aug 2023 Jan 2024 6 months",
+                    "start_date": "Aug 2023",
+                    "end_date": "Jan 2024",
+                    "duration_short": "6 months",
+                    "title": "Technology Analyst",
+                    "description_html": null
+                }
+            ],
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Tech-Scholar",
+            "description_html": null,
+            "duration": "Nov 2022 Mar 2023 5 months",
+            "start_date": "Nov 2022",
+            "end_date": "Mar 2023",
+            "duration_short": "5 months",
+            "company": "PhonePe",
+            "company_id": "phonepe-internet",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Analyst Intern",
+            "description": "🚀 Leveraged Full-Stack development skills to build a One-Stop platform to integrate all the Business Process Management applications in use, under a single portal. It reduced the navigation effort (including mouse clicks) by 50%. Configured application to prevent unnecessary session reloads on multi-tab mode.",
+            "description_html": "🚀 Leveraged Full-Stack development skills to build a One-Stop platform to integrate all the Business Process Management applications in use, under a single portal. It reduced the navigation effort (including mouse clicks) by 50%. Configured application to prevent unnecessary session reloads on multi-tab mode. <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Morgan Stanley",
+            "company_id": "morgan-stanley",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer",
+            "description": "[ ATOA is a UK-based mobile payment platform. ]🚀 Built multiple APIs and implemented a rate-limiting middleware for OTP requests via Twilio to ensure cooldown period. Unit-testing in TDD with 100% coverage.",
+            "description_html": "[ ATOA is a UK-based mobile payment platform. ]🚀 Built multiple APIs and implemented a rate-limiting middleware for OTP requests via Twilio to ensure cooldown period. Unit-testing in TDD with 100% coverage. <!---->",
+            "duration": "Feb 2022 Mar 2022 2 months",
+            "start_date": "Feb 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "2 months",
+            "company": "Atoa",
+            "company_id": "paywithatoa",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Full-Stack Intern",
+            "description": "🚀 Built a complete web based application for the Dyslexic students for their regular assessment of speech and text recognition.",
+            "description_html": "🚀 Built a complete web based application for the Dyslexic students for their regular assessment of speech and text recognition. <!---->",
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Jadavpur University, Kolkata",
+            "degree": "Bachelor of Engineering - BE",
+            "field": "Information Technology",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "National Gems Higher Secondary School",
+            "start_year": "2017",
+            "end_year": "2019",
+            "description": "I.S.C. - 99.25%(AIR 4)",
+            "description_html": "I.S.C. - 99.25%(AIR 4) <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "National Gems Higher Secondary School",
+            "start_year": "2007",
+            "end_year": "2017",
+            "description": "I.C.S.E. - 96.0%",
+            "description_html": "I.C.S.E. - 96.0% <!---->",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Google",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Academic Excellence Award",
+            "publication": "Chief Minister, Government of West Bengal",
+            "date": null,
+            "description": "For extraordinary performance in the Higher Secondary examination ( I.S.C. ) with 99.25% fetching AIR 4."
+        },
+        {
+            "title": "JBNSTS Scholar",
+            "publication": "Jagadis Bose National Science Talent Search.",
+            "date": null,
+            "description": "Honoured to be a part of the JBNSTS family, an extremely deemed recognition for a science enthusiast like me."
+        }
+    ]
+}

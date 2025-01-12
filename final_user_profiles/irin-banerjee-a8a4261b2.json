@@ -1,0 +1,71 @@
+{
+    "city": "Hyderabad, Telangana, India",
+    "position": "Network Engineer at D. E. Shaw India Private Limited",
+    "experience": [
+        {
+            "title": "D. E. Shaw India Private Limited",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "3 years 7 months",
+            "positions": [
+                {
+                    "subtitle": "D. E. Shaw India Private Limited",
+                    "meta": "Jul 2023 - Present 1 year 6 months",
+                    "duration": "Jul 2023 - Present 1 year 6 months",
+                    "start_date": "Jul 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 6 months",
+                    "title": "Senior Member Technical",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "D. E. Shaw India Private Limited",
+                    "meta": "Jun 2021 - Jul 2023 2 years 2 months",
+                    "duration": "Jun 2021 Jul 2023 2 years 2 months",
+                    "start_date": "Jun 2021",
+                    "end_date": "Jul 2023",
+                    "duration_short": "2 years 2 months",
+                    "title": "Site Reliability Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "D. E. Shaw India Private Limited",
+            "company_id": "d.-e.-shaw-india-private-limited",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Intern",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "D. E. Shaw India Private Limited",
+            "company_id": "d.-e.-shaw-india-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Jadavpur University",
+            "degree": "Bachelor of Engineering - BE",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "D. E. Shaw India Private Limited",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

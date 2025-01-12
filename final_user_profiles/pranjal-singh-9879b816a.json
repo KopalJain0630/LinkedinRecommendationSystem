@@ -1,0 +1,34 @@
+{
+    "city": "Patna, Bihar, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2020Credential ID coursera.org/verify/specialization/4ZHMHK9R4MA7",
+            "subtitle": "Coursera",
+            "title": "Algorithms Specialization"
+        },
+        {
+            "meta": "Issued Oct 2020Credential ID ",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        }
+    ],
+    "current_company_name": "Flipkart",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

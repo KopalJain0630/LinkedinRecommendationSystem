@@ -1,0 +1,108 @@
+{
+    "city": "Hyderabad, Telangana, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Vellore Institute of Technology",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": "-",
+            "start_year": "2003",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2023Credential ID 90029605See credential",
+            "subtitle": "ASME (The American Society of Mechanical Engineers)",
+            "title": "E4C Fellow "
+        },
+        {
+            "meta": "Issued Aug 2021Credential ID 36262620See credential",
+            "subtitle": "Invest India",
+            "title": "StartUp India Learning Program"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID DXJP2VE5DASRSee credential",
+            "subtitle": "Coursera",
+            "title": "Advanced Competitive Strategy"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID E2PRFR4HFUVMSee credential",
+            "subtitle": "Coursera",
+            "title": "Competitive Strategy"
+        }
+    ],
+    "current_company_name": "Powerplay",
+    "publications": null,
+    "patents": "[{\"title\":\"Aquatic Monitoring System\",\"date_issued\":\"November 5, 2021\",\"patents_id\":\"352662-001\"},{\"title\":\"Aquatic Monitoring System\",\"date_issued\":\"November 4, 2021\",\"patents_id\":\"352634-001\"}]",
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Winner - Chanakyaneeti 3.0",
+            "publication": "Leveraged Growth",
+            "date": "2023-03-01T00:00:00.000Z",
+            "description": "Ranked 1st in Phase 1 and Phase 2 (Final round) out of 500+ teams in Chanakyaneeti 3.0, a national strategy case study competition hosted by Leveraged Growth."
+        },
+        {
+            "title": "Vice Chancellor Achiever’s Award 2022",
+            "publication": "-",
+            "date": "2022-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Vice Chancellor Special Achiever’s Award 2022",
+            "publication": "-",
+            "date": "2022-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Semi Finalist - Together 2021 Entrepreneurship Bootcamp and Venture Competition",
+            "publication": "-",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "Made it to the Top 10 in the Together 2021 Entrepreneurship Bootcamp and Venture Competition (Featured pairs of student entrepreneurs from over 17,000+ Indian colleges and 700+ universities)"
+        },
+        {
+            "title": "Vice Chancellor Achiever’s Award 2021",
+            "publication": "-",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Vice Chancellor Special Achiever’s Award 2021",
+            "publication": "-",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Runner up - AEE Energy Hackathon",
+            "publication": "-",
+            "date": "2020-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "National Finalist - Alpino Ideation Challenge",
+            "publication": "-",
+            "date": "2020-02-01T00:00:00.000Z",
+            "description": "Top 10 in the Alpino Ideation Challenge from teams all over India"
+        }
+    ]
+}

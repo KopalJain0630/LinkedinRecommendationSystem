@@ -1,0 +1,175 @@
+{
+    "city": "West Bengal, India",
+    "position": "M.Sc. Data Science @ CMI | B.Sc. Mathematics @ SXCCAL",
+    "experience": [
+        {
+            "title": "Synergy Marine Group",
+            "location": "Chennai, Tamil Nadu, India",
+            "description_html": null,
+            "duration": "1 year 8 months",
+            "positions": [
+                {
+                    "subtitle": "Synergy Marine Group",
+                    "meta": "Jun 2024 - Present 7 months",
+                    "duration": "Jun 2024 - Present 7 months",
+                    "start_date": "Jun 2024",
+                    "end_date": "Present",
+                    "duration_short": "7 months",
+                    "title": "Executive - Data Scientist",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Synergy Marine Group",
+                    "meta": "Aug 2023 - Jun 2024 11 months",
+                    "duration": "Aug 2023 Jun 2024 11 months",
+                    "start_date": "Aug 2023",
+                    "end_date": "Jun 2024",
+                    "duration_short": "11 months",
+                    "title": "Data Science Intern (Industry Project)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Synergy Marine Group",
+                    "meta": "May 2023 - Jul 2023 3 months",
+                    "duration": "May 2023 Jul 2023 3 months",
+                    "start_date": "May 2023",
+                    "end_date": "Jul 2023",
+                    "duration_short": "3 months",
+                    "title": "Data Science Intern (Special Project)",
+                    "description_html": null
+                }
+            ],
+            "company": "Synergy Marine Group",
+            "company_id": "synergy-marine",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Subject Matter Expert - Mathematics",
+            "location": "Remote",
+            "description_html": null,
+            "duration": "Aug 2021 Nov 2021 4 months",
+            "start_date": "Aug 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "4 months",
+            "company": "Arithmate LLP",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Managed Network Expert",
+            "description_html": null,
+            "duration": "Feb 2021 Jul 2021 6 months",
+            "start_date": "Feb 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "6 months",
+            "company": "Chegg India",
+            "company_id": "cheggindia",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Math Stat Tab Lead",
+            "location": "India",
+            "description_html": null,
+            "duration": "Sep 2020 Jun 2021 10 months",
+            "start_date": "Sep 2020",
+            "end_date": "Jun 2021",
+            "duration_short": "10 months",
+            "company": "InquiScitive",
+            "company_id": "inquiscitive-scienceblog",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Chennai Mathematical Institute",
+            "degree": "MSc",
+            "field": "Data Science",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": "Activities and Societies: CMI Placement Committee",
+            "description_html": "Activities and Societies: CMI Placement Committee",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Xavier's College (Autonomous), Kolkata",
+            "degree": "Bachelor of Science",
+            "field": "Mathematics",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2020",
+            "description": "Activities and Societies: SXCCAL Science Association, NSS (National Service Scheme), AICUF (All India Catholic University Federation) & BLS (Bengali Literary Society)",
+            "description_html": "Activities and Societies: SXCCAL Science Association, NSS (National Service Scheme), AICUF (All India Catholic University Federation) &amp; BLS (Bengali Literary Society)",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kanchrapara Indian Girls' High School",
+            "degree": "XII",
+            "field": "PCM CS",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kanchrapara Indian Girls' High School",
+            "degree": "X",
+            "field": "94.57",
+            "start_year": "2014",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2019See credential",
+            "subtitle": "St. Xavier's College (Autonomous), Kolkata",
+            "title": "Event Head of Analytica 2019 - MTMA department, SXCCAL"
+        },
+        {
+            "meta": "Issued Sep 2019See credential",
+            "subtitle": "Indian Institute of Technology, Bombay",
+            "title": "Mathematics in Perspective - GIAN (Global Initiative of Academic Network)"
+        },
+        {
+            "meta": "Issued Aug 2019See credential",
+            "subtitle": "St. Xavier's College (Autonomous), Kolkata",
+            "title": "International Workshop on Coarse Geometry"
+        },
+        {
+            "meta": "Issued Mar 2019See credential",
+            "subtitle": "Santa Clara University",
+            "title": "International Exchange Programme - The Unknowable & The Counterintuitive"
+        }
+    ],
+    "current_company_name": "Synergy Marine Group",
+    "publications": "[{\"title\":\"A Non-Euclidean Analysis of Definitions in “Elements of Geometry”(I)\",\"subtitle\":\"InquiScitive\",\"date\":\"February 15, 2021\"},{\"title\":\"Vicious Circle Principle: A Logical Antivenom in Mathematical Syringe\",\"subtitle\":\"InquiScitive\",\"date\":\"October 28, 2020\"},{\"title\":\"To the Realm of Fractals: A brief Dimensional Analysis\",\"subtitle\":\"BEACON - MTMA Departmental Magazine, SXCCAL\",\"date\":\"September 19, 2019\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"VISUALIZATION USING R: HDI & IHDI Analysis of Very High, High, Medium & Low Developed Countries\",\"start_date\":\"Aug 2022\",\"end_date\":\"Nov 2022\",\"description\":\"The main goal of this project is to provide a visual representation of Human Development Index and Inequality-Adjusted HDI scenario to comparatively gauge a country’s spectrum of progress, or, on the other hand sole triggers of lagging behind, so as to initiate preventive measures to address the burning issues of today’s human civilization.\"},{\"title\":\"A Voyage through the Realm of Dimensions: where Abstraction seems to meet Intuition\",\"start_date\":\"Jun 2019\",\"end_date\":\"Mar 2020\",\"description\":\"My project was primarily aimed towards the derivation of Inductive dimensional value of n-Euclidean Space and hence showing the equivalence of Topological and Inductive dimensional concepts in the space underlying. The thesis mainly comprises of fields orienting Metric Space, Topology, Algebraic Geometry & Functional Analysis.\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Elite Certified - Introduction to Abstract Group Theory",
+            "publication": "NPTEL & IIT Madras",
+            "date": "2018-10-01T00:00:00.000Z",
+            "description": ""
+        },
+        {
+            "title": "Won 3rd position in Quiz & Wiz, Analytica 2018",
+            "publication": "Department of MTMA, SXCCAL",
+            "date": "2018-09-01T00:00:00.000Z",
+            "description": ""
+        },
+        {
+            "title": "Inspire Scholar 2017 Batch (Under SHE Scheme)",
+            "publication": "Department of Science and Technology, Govt. of India",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "Continued till May 2020"
+        }
+    ]
+}

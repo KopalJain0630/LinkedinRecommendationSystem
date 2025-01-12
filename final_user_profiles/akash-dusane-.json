@@ -1,0 +1,91 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Société Générale | IIT Kharagpur '23",
+    "experience": [
+        {
+            "title": "Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Societe Generale",
+            "company_id": "societe-generale",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "description_html": null,
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Societe Generale",
+            "company_id": "societe-generale",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description_html": null,
+            "duration": "Dec 2021 Apr 2022 5 months",
+            "start_date": "Dec 2021",
+            "end_date": "Apr 2022",
+            "duration_short": "5 months",
+            "company": "GoKwik",
+            "company_id": "gokwik",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "NLP Research Intern",
+            "location": "Sheffield, England, United Kingdom",
+            "description_html": null,
+            "duration": "Dec 2020 Jan 2021 2 months",
+            "start_date": "Dec 2020",
+            "end_date": "Jan 2021",
+            "duration_short": "2 months",
+            "company": "The University of Sheffield",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Industrial And Systems Engineering",
+            "field": "Engineering Design and Manufacturing(Mechanical Vertical)",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Student Welfare Group(SWG), Students' Alumni Cell(SAC)",
+            "description_html": "Activities and Societies: Student Welfare Group(SWG), Students' Alumni Cell(SAC)",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID JN3TBH9ZDYP2See credential",
+            "subtitle": "Coursera",
+            "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning"
+        },
+        {
+            "meta": "Issued May 2020Credential ID 5B5T7L2DHC4KSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID 6QGNNRRBFNS5See credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "Societe Generale",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

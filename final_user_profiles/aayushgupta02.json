@@ -1,0 +1,49 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Roorkee",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2001",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Business Ethics\"},{\"subtitle\":\"-\",\"title\":\"C++\"},{\"subtitle\":\"-\",\"title\":\"Calculus and Integrals\"},{\"subtitle\":\"-\",\"title\":\"Economics\"},{\"subtitle\":\"-\",\"title\":\"Electrical Science\"},{\"subtitle\":\"-\",\"title\":\"Electro Magentic Theory\"},{\"subtitle\":\"-\",\"title\":\"Engineering Analysis and Design\"},{\"subtitle\":\"-\",\"title\":\"Engineering Drawing\"},{\"subtitle\":\"-\",\"title\":\"Engineering Economy\"},{\"subtitle\":\"-\",\"title\":\"Environmental Economics\"},{\"subtitle\":\"-\",\"title\":\"Environmental Studies\"},{\"subtitle\":\"-\",\"title\":\"Facilities Design\"},{\"subtitle\":\"-\",\"title\":\"Fluid Statics and Dynamics\"},{\"subtitle\":\"-\",\"title\":\"Machine Design\"},{\"subtitle\":\"-\",\"title\":\"Manufacturing Technology\"},{\"subtitle\":\"-\",\"title\":\"Material Science\"},{\"subtitle\":\"-\",\"title\":\"Operations Management\"},{\"subtitle\":\"-\",\"title\":\"Probability and Statistics\"},{\"subtitle\":\"-\",\"title\":\"Product and Process Optimisation\"},{\"subtitle\":\"-\",\"title\":\"Product design and development\"},{\"subtitle\":\"-\",\"title\":\"Production Planning and Control\"},{\"subtitle\":\"-\",\"title\":\"Quality Management\"},{\"subtitle\":\"-\",\"title\":\"Solid Mechanics\"},{\"subtitle\":\"-\",\"title\":\"Theory of Machines\"},{\"subtitle\":\"-\",\"title\":\"Theory of Production Processes\"},{\"subtitle\":\"-\",\"title\":\"Thermal Engineering\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Apr 2019Expires Apr 2024",
+            "subtitle": "Confederation of Indian Industry",
+            "title": "Certified CII Supply Chain Management Executive"
+        }
+    ],
+    "current_company_name": "Fam",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Blockchain action project - Silver Award Winner",
+            "publication": "GIS Taiwan 2017",
+            "date": "2017-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Global Engineer Leadership (GEL) scholarship",
+            "publication": "College of Engineering International Affairs - COEIA",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": "I got selected for the Global Engineer Leadership (GEL) scholarship offered as a part of my summer research internship at Entreprise logistics and E-Business centre (ELEBC), National Tsing Hua University, Taiwan. I am honored to get this scholarship along with 30 other fellow interns out of 1000+ applicants in the year 2017. Here is a link to know more about this scholarship: "
+        }
+    ]
+}

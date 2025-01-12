@@ -1,0 +1,79 @@
+{
+    "city": "India",
+    "position": "Operations Enthusiast",
+    "experience": [
+        {
+            "title": "Growth Lead",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "Sep 2019 Aug 2021 2 years",
+            "start_date": "Sep 2019",
+            "end_date": "Aug 2021",
+            "duration_short": "2 years",
+            "company": "Workafy",
+            "company_id": "workafy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "MIS Intern",
+            "location": "Hauz Khas, Delhi",
+            "description_html": null,
+            "duration": "Jul 2018 Aug 2018 2 months",
+            "start_date": "Jul 2018",
+            "end_date": "Aug 2018",
+            "duration_short": "2 months",
+            "company": "Central Warehousing Corporation",
+            "company_id": "central-warehousing-corporation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Marketing Intern",
+            "location": "Gurgaon, India",
+            "description_html": null,
+            "duration": "Sep 2016 Oct 2016 2 months",
+            "start_date": "Sep 2016",
+            "end_date": "Oct 2016",
+            "duration_short": "2 months",
+            "company": "magicpin (Samast Technologies)",
+            "company_id": "samast-technologies",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Purdue University",
+            "degree": "Executive MBA",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Keshav Mahavidyalaya - Delhi University",
+            "degree": "B.Sc. Mathematical Sciences",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St. Margaret Sr. Sec. School",
+            "degree": "High School Diploma",
+            "field": "Mathematics and Computer Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Workafy",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

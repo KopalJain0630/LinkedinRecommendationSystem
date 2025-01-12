@@ -1,0 +1,148 @@
+{
+    "city": "India",
+    "position": "In build mode… | Ex-Uber, Walmart | YC Alum",
+    "experience": [
+        {
+            "title": "Founder",
+            "description_html": null,
+            "duration": "Aug 2023 - Present 1 year 5 months",
+            "start_date": "Aug 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 5 months",
+            "company": "Stealth Startup",
+            "company_id": "stealth-startup-51",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Angel Investor & Advisor",
+            "description_html": null,
+            "duration": "Sep 2022 - Present 2 years 4 months",
+            "start_date": "Sep 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 4 months",
+            "company": "Self Employed",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Venture Partner",
+            "description_html": null,
+            "duration": "Jun 2023 Nov 2024 1 year 6 months",
+            "start_date": "Jun 2023",
+            "end_date": "Nov 2024",
+            "duration_short": "1 year 6 months",
+            "company": "Golden Sparrow",
+            "company_id": "goldensparrowventures",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Co-Founder",
+            "location": "India",
+            "description_html": null,
+            "duration": "Nov 2022 Oct 2023 1 year",
+            "start_date": "Nov 2022",
+            "end_date": "Oct 2023",
+            "duration_short": "1 year",
+            "company": "Shyp (YC W23)",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "San Francisco Bay Area",
+            "description_html": null,
+            "duration": "Nov 2020 Dec 2022 2 years 2 months",
+            "start_date": "Nov 2020",
+            "end_date": "Dec 2022",
+            "duration_short": "2 years 2 months",
+            "company": "Uber",
+            "company_id": "uber-com",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "San Francisco Bay Area",
+            "description_html": null,
+            "duration": "Jun 2018 Nov 2020 2 years 6 months",
+            "start_date": "Jun 2018",
+            "end_date": "Nov 2020",
+            "duration_short": "2 years 6 months",
+            "company": "Walmart Global Tech",
+            "company_id": "walmartglobaltech",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Researcher",
+            "location": "Tempe, Arizona",
+            "description_html": null,
+            "duration": "Aug 2017 Jun 2018 11 months",
+            "start_date": "Aug 2017",
+            "end_date": "Jun 2018",
+            "duration_short": "11 months",
+            "company": "The Luminosity Lab",
+            "company_id": "the-luminosity-lab",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Natick, Massachusetts",
+            "description_html": null,
+            "duration": "Jun 2017 Aug 2017 3 months",
+            "start_date": "Jun 2017",
+            "end_date": "Aug 2017",
+            "duration_short": "3 months",
+            "company": "MathWorks",
+            "company_id": "the-mathworks_2",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Founder",
+            "location": "New Delhi Area, India",
+            "description_html": null,
+            "duration": "May 2012 Jul 2016 4 years 3 months",
+            "start_date": "May 2012",
+            "end_date": "Jul 2016",
+            "duration_short": "4 years 3 months",
+            "company": "TechnoBliss - App Development Services",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Y Combinator",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Arizona State University",
+            "degree": "Master’s Degree",
+            "field": "Computer Software Engineering",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "SRM University",
+            "degree": "Engineer’s Degree",
+            "field": "Computer Science",
+            "url": "",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Stealth Startup",
+    "publications": "[{\"title\":\"PREVENTION OF SQL INJECTION IN E-COMMERCE\",\"subtitle\":\"International Journal of Computational Engineering Research\",\"date\":\"Sep 2015\",\"description\":\"Structured Query Language (SQL) injection, in present scenario, emerges as one of the most challenging fact to effect on the online business, as it can expose all of the business transaction related sensitive information which is stored in online database, inclusive of most highly secured sensitive information such as credit card passwords , usernames, login ids, credentials, phone, email id etc. . Every SQL Query that allows the inputs from the attacker sides can defect our real web application. Intruder attempts to insert defective SQL query into an entry field, so that they can dump or alter the database which is known as “code injection technique” and this type of attacker is also called attack vector for websites. Through this research paper, our endeavour is to understand the methodology of SQL injection and also to propose solution to prevent SQL Injection in one of the most vulnerable field of E-commerce.\"}]",
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

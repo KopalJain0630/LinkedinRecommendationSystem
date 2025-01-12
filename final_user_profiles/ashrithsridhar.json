@@ -1,0 +1,197 @@
+{
+    "city": "Tempe, Arizona, United States",
+    "position": "MS CS at ASU | SWE Intern @ Sapient | Software Development, AI/ML Engineer, Data Science | Founder and Tech Lead at Team Hasiru",
+    "experience": [
+        {
+            "title": "Sapient",
+            "location": "San Diego, California, United States",
+            "description_html": null,
+            "duration": "7 months",
+            "positions": [
+                {
+                    "subtitle": "Sapient",
+                    "meta": "Aug 2023 - Dec 2023 5 months",
+                    "description": "• DataHub data catalog integration• Future endeavors include building LLMs(Large Language Models) to cater to the needs of the company",
+                    "duration": "Aug 2023 Dec 2023 5 months",
+                    "start_date": "Aug 2023",
+                    "end_date": "Dec 2023",
+                    "duration_short": "5 months",
+                    "title": "Software Engineering Intern",
+                    "description_html": "• DataHub data catalog integration<br>• Future endeavors include building LLMs(Large Language Models) to cater to the needs of the company <!---->"
+                },
+                {
+                    "subtitle": "Sapient",
+                    "meta": "Jun 2023 - Aug 2023 3 months",
+                    "description": "• ​​Conducted comprehensive requirement-gathering by understanding the primary concerns of stakeholders, resulting in the development of a tailored DataHub model.• Set up Docker environments for testing and deployment.• Authored Python scripts compliant with industry standards, employing libraries like Pydantic for custom data validation. Ensured \"pythonic\" coding practices, emphasizing clean and efficient code.• Integrated DataHub with Sapient's existing code repositories, ensuring scalability and seamless metadata ingestion.• Utilized SOLID principles in software design for code flexibility and adaptability.• Gained hands-on UI/UX experience using Figma, designing web pages with an emphasis on user-centric data visualizations.• Collaborated across various departments, enhancing cross-functional communication and team coordination.",
+                    "duration": "Jun 2023 Aug 2023 3 months",
+                    "start_date": "Jun 2023",
+                    "end_date": "Aug 2023",
+                    "duration_short": "3 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": "• ​​Conducted comprehensive requirement-gathering by understanding the primary concerns of stakeholders, resulting in the development of a tailored DataHub model.<br>•&nbsp;Set up Docker environments for testing and deployment.<br>• Authored Python scripts compliant with industry standards, employing libraries like Pydantic for custom data validation. Ensured \"pythonic\" coding practices, emphasizing clean and efficient code.<br>•&nbsp;Integrated DataHub with Sapient's existing code repositories, ensuring scalability and seamless metadata ingestion.<br>• Utilized SOLID principles in software design for code flexibility and adaptability.<br>•&nbsp;Gained hands-on UI/UX experience using Figma, designing web pages with an emphasis on user-centric data visualizations.<br>• Collaborated across various departments, enhancing cross-functional communication and team coordination."
+                }
+            ],
+            "company": "Sapient",
+            "company_id": "sapientbio",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Technical Lead",
+            "location": "Bengaluru Area, India",
+            "description": "As the Tech Lead, I have overseen our web development projects primarily utilizing the Django framework as part of our tech stack. Leveraging PostgreSQL for our database needs, I've successfully spearheaded the creation of a Progressive Web App (PWA) to enhance mobile user experience.",
+            "description_html": "As the Tech Lead, I have overseen our web development projects primarily utilizing the Django framework as part of our tech stack. Leveraging PostgreSQL for our database needs, I've successfully spearheaded the creation of a Progressive Web App (PWA) to enhance mobile user experience. <!---->",
+            "duration": "Aug 2022 Sep 2023 1 year 2 months",
+            "start_date": "Aug 2022",
+            "end_date": "Sep 2023",
+            "duration_short": "1 year 2 months",
+            "company": "Team Hasiru",
+            "company_id": "team-hasiru",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Product Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "As an Associate Product Manager, I was in-charge of an AI product which the company successfully launched later. I was later on given responsibilities of testing the products. I performed unit testing and QA. Furthermore, I successfully delivered software automations and web scraping in Python using Selenium. I also got my hands dirty with Data Analytics using Python with modules like Pandas, NumPy, Matplotlib and Ngram. Last but not the least, on my journey in the company I developed a software using Python for HR management.",
+            "description_html": "As an Associate Product Manager, I was in-charge of an AI product which the company successfully launched later. I was later on given responsibilities of testing the products. I performed unit testing and QA. Furthermore, I successfully delivered software automations and web scraping in Python using Selenium. I also got my hands dirty with Data Analytics using Python with modules like Pandas, NumPy, Matplotlib and Ngram. Last but not the least, on my journey in the company I developed a software using Python for HR management.",
+            "duration": "Feb 2022 Jul 2022 6 months",
+            "start_date": "Feb 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "6 months",
+            "company": "Saarthi.ai",
+            "company_id": "saarthi-ai",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Reviewed the current Fintech sector in the country and researched the key possibilities. Conducted extensive study on market, did competitor analysis, and drew meaningful conclusions. Used data analytics tools to extract and analyze data to deduce user choices. Made prototypes of apps that various products will use.",
+            "description_html": "Reviewed the current Fintech sector in the country and researched the key possibilities. Conducted extensive study on market, did competitor analysis, and drew meaningful conclusions. Used data analytics tools to extract and analyze data to deduce user choices. Made prototypes of apps that various products will use. <!---->",
+            "duration": "Nov 2020 Jul 2021 9 months",
+            "start_date": "Nov 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "9 months",
+            "company": "LazyPay",
+            "company_id": "lazypay",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Team Member",
+            "description": "A bunch of Blockchain enthusiasts spreading the idea of Blockchain among people and building a platform for Blockchain to unveil it's latent magic.",
+            "description_html": "A bunch of Blockchain enthusiasts spreading the idea of Blockchain among people and building a platform for Blockchain to unveil it's latent magic. <!---->",
+            "duration": "May 2020 Nov 2020 7 months",
+            "start_date": "May 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "7 months",
+            "company": "BChain Dynamics",
+            "company_id": "bchaindynamics",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Content Writer",
+            "location": "Bengaluru Area, India",
+            "description": "Content Writer and Culural Events Organizer",
+            "description_html": "Content Writer and Culural Events Organizer <!---->",
+            "duration": "May 2019 Sep 2019 5 months",
+            "start_date": "May 2019",
+            "end_date": "Sep 2019",
+            "duration_short": "5 months",
+            "company": "Dialogues",
+            "company_id": "dialoguesspace",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Dev Intern",
+            "location": "Bangalore",
+            "description": "Interned as a Web Developer for PESU I/O and designed a couple of pages.",
+            "description_html": "Interned as a Web Developer for PESU I/O and designed a couple of pages. <!---->",
+            "duration": "Nov 2018 Jan 2019 3 months",
+            "start_date": "Nov 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "3 months",
+            "company": "PES University",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Arizona State University",
+            "degree": "Master of Science - MS",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": "Learning in depth about a plethora of fields like Artificial Intelligence, Machine Learning, Blockchain, Database Systems and Software Engineering.",
+            "description_html": "Learning in depth about a plethora of fields like Artificial Intelligence, Machine Learning, Blockchain, Database Systems and Software Engineering. <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "PES University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "RV PU College",
+            "degree": "Pre-Degree",
+            "field": "PCME",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sri Kumaran's Children's Home - CBSE",
+            "start_year": "2004",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2024Credential ID U8YVXJEA6R2GSee credential",
+            "subtitle": "Coursera",
+            "title": "Advanced Data Engineering"
+        },
+        {
+            "meta": "Issued Aug 2024Credential ID UJEM0N1NAI1DSee credential",
+            "subtitle": "Amazon Web Services (AWS)",
+            "title": "AWS Cloud Technical Essentials"
+        },
+        {
+            "meta": "Issued Aug 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Deploying Django Apps: Make Your Site Go Live"
+        },
+        {
+            "meta": "Issued Aug 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Django Essential Training"
+        },
+        {
+            "meta": "Issued Aug 2024See credential",
+            "subtitle": "LinkedIn",
+            "title": "Python Data Structures and Algorithms"
+        }
+    ],
+    "current_company_name": "Sapient",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

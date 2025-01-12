@@ -1,0 +1,103 @@
+{
+    "city": "United States",
+    "position": "MS DS @ Texas A&M | IIT Kharagpur'22 | Ex-Atomberg | Actively looking for Full Time Opportunities",
+    "experience": [
+        {
+            "title": "Student Technician - Research",
+            "location": "Texas, United States",
+            "description": "Formulated Risk Analysis framework using ML and Bayesian Statistical Models for electronics and semiconductor supply chains within North America. Worked on data discovery, imputation, pre-processing, training, and evaluation.",
+            "description_html": "Formulated Risk Analysis framework using ML and Bayesian Statistical Models for electronics and semiconductor supply chains within North America. Worked on data discovery, imputation, pre-processing, training, and evaluation. <!---->",
+            "duration": "May 2024 - Present 8 months",
+            "start_date": "May 2024",
+            "end_date": "Present",
+            "duration_short": "8 months",
+            "company": "SGL - Stochastic Geomechanics Laboratory",
+            "company_id": "sgl-stochasticgeomechanicslaboratory",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Quality Assurance Specialist",
+            "location": "Pune, Maharashtra, India",
+            "description": "• Analyzed defect data to derive actionable insights, aiding management decisions.• Created statistical and ML models to analyze defect data, resulting in a significant reduction in defect rates by 4.32% within 6 months, saving about 150k USD in scrap cost.• Spearheaded the manufacturing quality with a team of 22 members in achieving operational excellence for two home appliance products.• Acknowledged by senior management for the swift adaptation and enhancement of quality operations.",
+            "description_html": "• Analyzed defect data to derive actionable insights, aiding management decisions.• Created statistical and ML models to analyze defect data, resulting in a significant reduction in defect rates by 4.32% within 6 months, saving about 150k USD in scrap cost.• Spearheaded the manufacturing quality with a team of 22 members in achieving operational excellence for two home appliance products.• Acknowledged by senior management for the swift adaptation and enhancement of quality operations.",
+            "duration": "Jun 2022 Jul 2023 1 year 2 months",
+            "start_date": "Jun 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "1 year 2 months",
+            "company": "Atomberg Technologies",
+            "company_id": "atomberg-technologies-private-limited",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Kharagpur, India",
+            "description": "• Architectured a Dialted CNN framework to estimate the gaze direction of the human eye using facial images.• Applied hyperparameter tuning, k-fold CV, data augmentation, and dropout regularisation, improving test accuracy by 5.7%.• Constructed an MLP linking stress with physiological metrics, advancing health monitoring for comprehensive assessment.• Built a 3-layer NN correlating stress levels with gaze factors, achieving a nuanced insight into stress dynamics across varied tasks.",
+            "description_html": "• Architectured a Dialted CNN framework to estimate the gaze direction of the human eye using facial images.• Applied hyperparameter tuning, k-fold CV, data augmentation, and dropout regularisation, improving test accuracy by 5.7%.• Constructed an MLP linking stress with physiological metrics, advancing health monitoring for comprehensive assessment.• Built a 3-layer NN correlating stress levels with gaze factors, achieving a nuanced insight into stress dynamics across varied tasks. <!---->",
+            "duration": "Jul 2021 Nov 2021 5 months",
+            "start_date": "Jul 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "5 months",
+            "company": "Center of Excellence in Safety Engineering and Analytics",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Texas A&M University",
+            "degree": "Master of Science - MS",
+            "field": "Data Science",
+            "url": "",
+            "start_year": "2023",
+            "end_year": "2025",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "B. Tech + M. Tech",
+            "field": "Industrial and Systems Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Nov 2024Credential ID m1BO08PwRM2B442YFsR2jASee credential",
+            "subtitle": "NVIDIA",
+            "title": "Generative AI with Diffusion Models"
+        },
+        {
+            "meta": "Issued Oct 2024Credential ID xYgtcuqnTSOhacTr2FPXDQ",
+            "subtitle": "NVIDIA",
+            "title": "Applications of AI for Anomaly Detection"
+        },
+        {
+            "meta": "Issued Dec 2023Credential ID 8b2e938e7dde017c848ab84dd1af32458ea3a0d61e0698c484c882c22b25389d",
+            "subtitle": "LinkedIn",
+            "title": "Introduction to MongoDB"
+        },
+        {
+            "meta": "Issued Oct 2022See credential",
+            "subtitle": "Google AI Community",
+            "title": "Google Data Analytics Specalization"
+        },
+        {
+            "meta": "Issued Oct 2022See credential",
+            "subtitle": "DeepLearning.AI",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "SGL - Stochastic Geomechanics Laboratory",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"P.E.E.R. (Personalized Education Enhancer and Recommender)\",\"start_date\":\"Jan 2024\",\"end_date\":\"May 2024\",\"description\":\"• Developed P.E.E.R., integrating Google Books API and Udemy API to aggregate educational resources into a unified platform.• Implemented data acquisition pipelines for 120k Google Books entries and 40k Udemy courses, utilizing Amazon AWS DynamoDB for efficient cloud storage and management.• Engineered a full-text search engine using PostgreSQL FTS with GIN indexing to optimize search and retrieval performance.• Created a recommendation engine utilizing RoBERTa for text embeddings, calculating cosine similarity to deliver personalized content suggestions.• Established a feedback system to iteratively enhance recommendation algorithms based on user interactions and preferences.\"},{\"title\":\"Comparative analysis of KNN and CNN on FashionMNSIT\",\"start_date\":\"Aug 2023\",\"end_date\":\"Dec 2023\",\"description\":\"• Implemented CNN and K-NN to classify the FashionMNSIT dataset and assessed models through precision, recall, and F1 scores.• Created a blog post detailing the classification process, featuring insights into deep learning and machine learning applications with a focus on their practical implications in the clothing industry, innovation, scalability, and trends.\"},{\"title\":\"Predicting Traffic Flows using Regression Analysis\",\"start_date\":\"Jul 2021\",\"end_date\":\"May 2022\",\"description\":\"• Designed an innovative traffic forecasting model to improve the existing Intelligent Transportation System (ITS), combining multiple ensemble regression techniques using weights and achieving 84.3% accuracy in predicting road congestion levels.• Created a user-friendly website in HTML, offering travel recommendations based on user inputs and real-time congestion data.\"}]",
+    "honors_and_awards": null
+}

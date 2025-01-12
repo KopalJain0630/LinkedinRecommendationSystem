@@ -1,0 +1,114 @@
+{
+    "city": "Ghaziabad, Uttar Pradesh, India",
+    "position": "Research Fellow@Microsoft Research | IITKGP",
+    "experience": [
+        {
+            "title": "Research Fellow",
+            "description": "Multi turn for Excel:• As part of PROSE team, leveraged LLMs, for generating & validating conversational benchmarks for Excel-Copilot evaluationFormula Suggestions:• Demoed & built Suggestion & Ranking system for automated formula-value completions, on new calculated columns in Excel tablesCode generation benchmarking and evaluation:• Improved bench-marking (under & over-specified MBPP versions) dataset & evaluation setup for code generation (EMNLP, 2024)Auto checklist:• Leveraged LLMs for automating checklist generation for subjective evaluation on, ambiguity - InstructExcel, quality - Translation",
+            "description_html": "Multi turn for Excel:• As part of PROSE team, leveraged LLMs, for generating &amp; validating conversational benchmarks for Excel-Copilot evaluationFormula Suggestions:• Demoed &amp; built Suggestion &amp; Ranking system for automated formula-value completions, on new calculated columns in Excel tablesCode generation benchmarking and evaluation:• Improved bench-marking (under &amp; over-specified MBPP versions) dataset &amp; evaluation setup for code generation (EMNLP, 2024)Auto checklist:• Leveraged LLMs for automating checklist generation for subjective evaluation on, ambiguity - InstructExcel, quality - Translation",
+            "duration": "Oct 2023 - Present 1 year 3 months",
+            "start_date": "Oct 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 3 months",
+            "company": "Microsoft",
+            "company_id": "microsoft",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "description": "• Build AutoML for Text Classification component: data profiling, preprocessing, embedding, model pipeline, and evaluation• Explored Open-AI toolkit, DALL-E model, for Text2Image generation, and its HuggingFace open-sourced variations with fine-tuning• Surveyed Active Learning, implemented Weak Supervision using Rubrix, & built weak labeling component for text classification• Dived deeper into exploring methods for cleaner labels from these noisy weak labels and finding label errors using the CleanLab library• Inferred the generation of Text2Motion, and built a pipeline for creating videos from a pre-trained model using user-defined text",
+            "description_html": "• Build AutoML for Text Classification component: data profiling, preprocessing, embedding, model pipeline, and evaluation• Explored Open-AI toolkit, DALL-E model, for Text2Image generation, and its HuggingFace open-sourced variations with fine-tuning• Surveyed Active Learning, implemented Weak Supervision using Rubrix, &amp; built weak labeling component for text classification• Dived deeper into exploring methods for cleaner labels from these noisy weak labels and finding label errors using the CleanLab library• Inferred the generation of Text2Motion, and built a pipeline for creating videos from a pre-trained model using user-defined text",
+            "duration": "May 2022 Aug 2022 4 months",
+            "start_date": "May 2022",
+            "end_date": "Aug 2022",
+            "duration_short": "4 months",
+            "company": "Mphasis",
+            "company_id": "mphasis",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Engineer",
+            "description": "• 3D Medical Image Segmentation: Lung Cancer Detection using 3D Convolutional model architecture• Head Gesture Recognition: Worked on classification for head gestures using video signals based on different degrees of freedom• Neural Style Transfer: Demonstrated enhancement of results on SimpleNet by data augmentation techniques using CycleGAN model• Art generator with GANs: Designed adversarial models: DC-GAN, WGAN and CGANs, with evaluation using FID metrics• Object Detection: Visualized, analyzed, structured, and preprocessed the data, and implemented Transfer learning on the YOLO model• Aircraft optimization: Developed a heuristic solution approach for a weekly schedule with minimized maintenance cost using DFS",
+            "description_html": "• 3D Medical Image Segmentation: Lung Cancer Detection using 3D Convolutional model architecture• Head Gesture Recognition: Worked on classification for head gestures using video signals based on different degrees of freedom• Neural Style Transfer: Demonstrated enhancement of results on SimpleNet by data augmentation techniques using CycleGAN model• Art generator with GANs: Designed adversarial models: DC-GAN, WGAN and CGANs, with evaluation using FID metrics• Object Detection: Visualized, analyzed, structured, and preprocessed the data, and implemented Transfer learning on the YOLO model• Aircraft optimization: Developed a heuristic solution approach for a weekly schedule with minimized maintenance cost using DFS",
+            "duration": "Jan 2021 Nov 2021 11 months",
+            "start_date": "Jan 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "11 months",
+            "company": "Chi SquareX",
+            "company_id": "chi-squarex",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "AI Intern",
+            "description": "• Deployed an Intelligent Recruitment System using NLP (Natural Language Processing) to extract best-fit applicants from their resumes• Extracted information from various file formats (like doc, pdf) of resumes using Non-OCR Techniques followed by data structuring• Customized NER (Named Entity Recognition) for organizations & names and built a query-based sorting of resumes based on skill set• Developed a query-based sorting system to analyze categories of relevant Resumes with respect to various keywords/similarity database",
+            "description_html": "• Deployed an Intelligent Recruitment System using NLP (Natural Language Processing) to extract best-fit applicants from their resumes• Extracted information from various file formats (like doc, pdf) of resumes using Non-OCR Techniques followed by data structuring• Customized NER (Named Entity Recognition) for organizations &amp; names and built a query-based sorting of resumes based on skill set• Developed a query-based sorting system to analyze categories of relevant Resumes with respect to various keywords/similarity database",
+            "duration": "Dec 2020 Feb 2021 3 months",
+            "start_date": "Dec 2020",
+            "end_date": "Feb 2021",
+            "duration_short": "3 months",
+            "company": "Jalla Labs Private Limited",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Minor in Computer Science Engineering Micro-specialization in Artificial Intelligence and Applications",
+            "description_html": "Minor in Computer Science EngineeringMicro-specialization in Artificial Intelligence and Applications <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Indirapuram",
+            "degree": "Class 12",
+            "field": "95 %",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School Indirapuram",
+            "degree": "Class 10",
+            "field": "CGPA: 10",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Dec 2020Credential ID H8J38YBKRSRKSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 7WZ98EMZP9KHSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 4RXB7BLYGTNRSee credential",
+            "subtitle": "Coursera",
+            "title": "Statistics with Python Specialization"
+        }
+    ],
+    "current_company_name": "Microsoft",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Molecule Generation using Contrastive VAE\",\"start_date\":\"Apr 2022\",\"end_date\":\"Jul 2022\",\"description\":\"• Under the guidance of Prof. Douglas Kell, Research Chair in Systems Biology, Biochemistry & Systems Biology, University of Liverpool • Literary survey on the existing techniques on molecular generation: Transformers, VAE, MassGenie, Contrastive learning, Moses• Experimented on VAE model with contrastive learning for robust and faster performance, with an accuracy of 93% on generation\"},{\"title\":\"Server-Side Local Gradient Averaging and Learning Rate Acceleration for Scalable Split Learning\",\"start_date\":\"Apr 2021\",\"end_date\":\"Nov 2021\",\"description\":\"Presented at AAAI 2022• Proposed a variation of SpliFed Learning for enhancement of the performance of image classification on FMNIST and CIFAR-10• Worked on privacy, communication efficiency, and client-server training imbalance problem along with the scalability of the performance\"},{\"title\":\"Eye movement type categorization\",\"start_date\":\"Oct 2020\",\"end_date\":\"Jan 2021\",\"description\":\"• Under the guidance of Prof. Jhareswar Maiti, Professor at the Department of Industrial and Systems Engineering, IIT Kharagpur• Literary surveyed on EEG signals, GWO algorithm, Eye movement types• Worked on sequential time series data of the eye, predicting the categories of fixation points• Successfully implemented and proposed Deep BLSTM-LSTM model architecture\"},{\"title\":\"GAN algorithms in generation of Super-Resolution from High-Resolution satellite images\",\"start_date\":\"Oct 2020\",\"end_date\":\"Dec 2020\",\"description\":\"• Under the guidance of Dr. Bharath H.Aithal, Ass. Professor at Ranbir & Chitra Gupta School of Infrastructure Design and Management, IIT Kharagpur• Implemented SRCNN, and Bicubic Interpolation as baseline models for the task of image super-resolution• Replicated EEGAN(Edge Enhancement Generative Adversarial Network) with implementation on HPC (High-Performance Computing)\"},{\"title\":\"Deep learning based architectures for semantic segmentation of aerial imagery\",\"start_date\":\"Sep 2020\",\"end_date\":\"Dec 2020\",\"description\":\"Presented at International Conference on Unmanned Aerial Systems in Geomatics 2021• Built a CNN-based, Modified UNet model with Transfer Learning for satellite imagery on a wide range of Geospatial domains worldwide• Analysed results over other models: ResNet, VGGNet, SegNet, UNet and worked on including morphological methods: Erosion, Dilation\"}]",
+    "honors_and_awards": null
+}

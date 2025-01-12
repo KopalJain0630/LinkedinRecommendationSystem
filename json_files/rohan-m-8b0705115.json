@@ -1,0 +1,442 @@
+{
+    "id": "rohan-m-8b0705115",
+    "name": "Rohan M.",
+    "city": "Midnapore Sadar, India",
+    "country_code": "IN",
+    "position": "SDE @ Navi | CSE, IIT Kharagpur",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Navi",
+        "company_id": "go-navi",
+        "title": "SDE @ Navi | CSE, IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2023 - Present 1 year 6 months",
+            "start_date": "Jul 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 6 months",
+            "company": "Navi",
+            "company_id": "go-navi",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "CodeClub",
+            "description_html": null,
+            "duration": "4 years 8 months",
+            "positions": [
+                {
+                    "subtitle": "CodeClub",
+                    "meta": "Jul 2022 - Apr 2023 10 months",
+                    "duration": "Jul 2022 Apr 2023 10 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "10 months",
+                    "title": "Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "CodeClub",
+                    "meta": "Jul 2019 - Jul 2022 3 years 1 month",
+                    "duration": "Jul 2019 Jul 2022 3 years 1 month",
+                    "start_date": "Jul 2019",
+                    "end_date": "Jul 2022",
+                    "duration_short": "3 years 1 month",
+                    "title": "Secretary",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "CodeClub",
+                    "meta": "Sep 2018 - Jul 2019 11 months",
+                    "duration": "Sep 2018 Jul 2019 11 months",
+                    "start_date": "Sep 2018",
+                    "end_date": "Jul 2019",
+                    "duration_short": "11 months",
+                    "title": "Coordinator",
+                    "description_html": null
+                }
+            ],
+            "company": "CodeClub",
+            "company_id": "codeclub",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Project Title: Improvements to TIDL Import tool for accuracy enhancement of deep learning models",
+            "description_html": "Project Title: Improvements to TIDL Import tool for accuracy enhancement of deep learning models <!---->",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "Texas Instruments",
+            "company_id": "texas-instruments",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "description_html": null,
+            "duration": "Mar 2022 Apr 2022 2 months",
+            "start_date": "Mar 2022",
+            "end_date": "Apr 2022",
+            "duration_short": "2 months",
+            "company": "Lexitas",
+            "company_id": "lexitas",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "description_html": null,
+            "duration": "Sep 2021 Nov 2021 3 months",
+            "start_date": "Sep 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "3 months",
+            "company": "Kaafi",
+            "company_id": "kaafiservices",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Team Member",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Mar 2019 Jan 2021 1 year 11 months",
+            "start_date": "Mar 2019",
+            "end_date": "Jan 2021",
+            "duration_short": "1 year 11 months",
+            "company": "Swarm Robotics IIT KGP",
+            "company_id": "swarm-robotics-iit-kgp",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Development Intern",
+            "location": "Hyderabad, Telangana",
+            "description_html": null,
+            "duration": "Mar 2020 Aug 2020 6 months",
+            "start_date": "Mar 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "6 months",
+            "company": "Bikayi (YC S20)",
+            "company_id": "bikglobal",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Welfare Group, IIT Kharagpur",
+            "description_html": null,
+            "duration": "1 year 2 months",
+            "positions": [
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Jul 2019 - Apr 2020 10 months",
+                    "duration": "Jul 2019 Apr 2020 10 months",
+                    "start_date": "Jul 2019",
+                    "end_date": "Apr 2020",
+                    "duration_short": "10 months",
+                    "title": "Student Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Student Welfare Group, IIT Kharagpur",
+                    "meta": "Mar 2019 - Jul 2019 5 months",
+                    "duration": "Mar 2019 Jul 2019 5 months",
+                    "start_date": "Mar 2019",
+                    "end_date": "Jul 2019",
+                    "duration_short": "5 months",
+                    "title": "Associate Member",
+                    "description_html": null
+                }
+            ],
+            "company": "Student Welfare Group, IIT Kharagpur",
+            "company_id": "student-welfare-group-iit-kharagpur",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Srijanak De",
+            "about": "Software Engineer AMTS, Salesforce",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Anshuman Choudhary",
+            "about": "Software Engineer III at Google",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Aditya Manchanda",
+            "about": "Software Engineer @ Nimble | USC Grad | Ex-Amazon",
+            "location": "San Francisco, CA"
+        },
+        {
+            "profile_link": "",
+            "name": "Devkaran Chouhan",
+            "about": "Software Engineer II at Microsoft | Placement coordinator at NIT Trichy",
+            "location": "Tiruchirappalli"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanmay Goel",
+            "about": "Software Engineer @ Qualcomm | Software Infrastructure, Software Design | 20k+ | Open for collabs",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Karan Saxena",
+            "about": "Member Of Technical Staff-III @ Omnissa (formerly VMware EUC)",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hariharan Balasubramanian",
+            "about": null,
+            "location": "Tamil Nadu, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Pragya Chhajer",
+            "about": "SSE @Arcesium",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritika Jaiswal",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hemant Sharma",
+            "about": "Business Acquisition Group - HCLTech | Takshashila Consulting | Verzeo | TCS | IMI, New Delhi'22 | UIT-RGPV",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Harshit Maurya",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Souradeep Paul",
+            "about": "Software Engineer II at Uber | CM @Codeforces | ICPC '18, '19, '20",
+            "location": "Amsterdam"
+        },
+        {
+            "profile_link": "",
+            "name": "Riddhi Sharma",
+            "about": "Engineering at Docusign | Ex SDE @Amazon",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Dibyendu Biswas",
+            "about": null,
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Charmi Daftari",
+            "about": null,
+            "location": "San Francisco Bay Area"
+        },
+        {
+            "profile_link": "",
+            "name": "Ankur Bhelawe",
+            "about": "Artist. Dreamer.",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Riddhi Jain",
+            "about": "Software Developer SE2 in Limetray || Ex- JIO || Ex- Fareportal || Data Analyst || AndroidApp developer || Web Developer",
+            "location": "Meerut"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratyush Jaiswal",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Saptaparni Pal",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhuvanjeet Singh Gandhi",
+            "about": "Data Scientist at Visa",
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Computer Science and Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Code Club,SWG,Cricket",
+            "description_html": "Activities and Societies: Code Club,SWG,Cricket",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Rajeshwar.Hr .Sec School",
+            "start_year": "2003",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": 1.0,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Algorithms-I\"},{\"subtitle\":\"-\",\"title\":\"Algorithms-I Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Basic Electronics\"},{\"subtitle\":\"-\",\"title\":\"Basic Electronics Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Discrete Structures\"},{\"subtitle\":\"-\",\"title\":\"Formal Language and Automata Theory\"},{\"subtitle\":\"-\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Signals and Networks\"},{\"subtitle\":\"-\",\"title\":\"Signals and Networks Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Software Engineering \"},{\"subtitle\":\"-\",\"title\":\"Software Engineering Laboratory\"},{\"subtitle\":\"-\",\"title\":\"Switching Circuit and Logic Design\"},{\"subtitle\":\"-\",\"title\":\"Switching Circuit and Logic Design Laboratory\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Sep 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Basic)"
+        },
+        {
+            "meta": "Issued Sep 2020Credential ID QTCUCEPKZUFFSee credential",
+            "subtitle": "Coursera",
+            "title": "Programming Foundations with JavaScript, HTML and CSS"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 9SHAP499T4MKSee credential",
+            "subtitle": "Coursera",
+            "title": "Machine Learning Foundations: A Case Study Approach"
+        },
+        {
+            "meta": "Issued May 2020Credential ID CBOL-101423-db4fSee credential",
+            "subtitle": "Coding Blocks",
+            "title": "Kotlin"
+        },
+        {
+            "meta": "Issued May 2020Credential ID AUPF53TTSYEDSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Udemy",
+            "title": "Angular Basics"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Angular Essential Training"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID AbmGJW201yZHOmGvZJpN55Ojg643",
+            "subtitle": "LinkedIn",
+            "title": "Angular: Routing"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Blockchain Basics"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Eclipse Essential Training"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learn Java with Swing"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning Python Generators"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning REST APIs"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Learning TypeScript"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "LinkedIn",
+            "title": "Node.js Essential Training"
+        },
+        {
+            "meta": "Issued Sep 2019See credential",
+            "subtitle": "Udemy",
+            "title": "Python Programming"
+        },
+        {
+            "meta": "Issued Apr 2020Expires Apr 2023See credential",
+            "subtitle": "Google ",
+            "title": "Google Analytics"
+        }
+    ],
+    "recommendations": [
+        "Ashutosh Singla “Rohan Meena was an intern at Bikayi for the summer of 2020 and his dedication towards the job was unmatched. He never hesitated to take on bigger projects and always surprised me with the fast delivery of projects before the deadline. Spending around 6 months with us he led various initiatives in different domains that have helped the company to grow at a fast pace. Great work ethics, would definitely recommend him.”"
+    ],
+    "volunteer_experience": null,
+    "followers": 3439.0,
+    "connections": 500.0,
+    "current_company_company_id": "go-navi",
+    "current_company_name": "Navi",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Student Auditorium Management System\",\"start_date\":\"Feb 2020\",\"end_date\":\"Present\",\"description\":\"Creating a java swing application linked to MySQL database for management of auditorium for Software Engineering course. The MySQL database will be deployed on a locally running server through XAMPP. Some features are show events addition and removal,ticket booking with preferred seats,cancellation and various types of balancesheets generation.\"},{\"title\":\"Pygame Project\",\"start_date\":\"Jan 2019\",\"end_date\":\"Mar 2019\",\"description\":\"A basic Memory based game made with the help of pygame.\"}]",
+    "organizations": null,
+    "location": "Midnapore Sadar",
+    "linkedin_id": "rohan-m-8b0705115",
+    "activity": [
+        {
+            "interaction": "Liked by Rohan M.",
+            "link": "",
+            "title": "Unacademy turned 9 yesterday ❤️❤️❤️",
+            "img": "",
+            "id": "9"
+        },
+        {
+            "interaction": "Liked by Rohan M.",
+            "link": "",
+            "title": "",
+            "img": "",
+            "id": "7269367686659223552"
+        },
+        {
+            "interaction": "Liked by Rohan M.",
+            "link": "",
+            "title": "The placement season at Indian Institute of Technology, Kharagpur and other IITs is about to start, and too many students reached out to me in the…",
+            "img": "",
+            "id": "7268553008458674176"
+        }
+    ],
+    "linkedin_num_id": 482495172.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

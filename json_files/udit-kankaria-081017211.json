@@ -1,0 +1,200 @@
+{
+    "id": "udit-kankaria-081017211",
+    "name": "Udit Kankaria",
+    "city": "Bikaner, Rajasthan, India",
+    "country_code": "IN",
+    "position": "Incoming Consultant at Deloitte | Data Science | Analytics | IIT KGP",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Garg Associates Private Limited ( GAPL)",
+        "company_id": "garg-associates-private-limited-gapl",
+        "title": "Incoming Consultant at Deloitte | Data Science | Analytics | IIT KGP"
+    },
+    "experience": [
+        {
+            "title": "Prompt Engineer",
+            "location": "Ghaziabad",
+            "description": "Leveraged email categorization techniques through prompt engineering in order to establish a fully automated and streamlined sales process• Integrated Gmail API in Python, optimizing the email access to primarily classify the emails into Product Order, Inquiry and Irrelevant• Further classified the Inquiry emails into query and quotation categories; generated SQL command to extract data for query type mail• Utilized GPT-3.5 API, both for the classification of mails as well as for PDF-based information extraction for some of the categories• Achieved an accuracy of around 95% in the classification (Primary and Secondary) and an accuracy of 88% for the PDF-info retrivel task",
+            "description_html": "Leveraged email categorization techniques through prompt engineering in order to establish a fully automated and streamlined sales process• Integrated Gmail API in Python, optimizing the email access to primarily classify the emails into Product Order, Inquiry and Irrelevant• Further classified the Inquiry emails into query and quotation categories; generated SQL command to extract data for query type mail• Utilized GPT-3.5 API, both for the classification of mails as well as for PDF-based information extraction for some of the categories• Achieved an accuracy of around 95% in the classification (Primary and Secondary) and an accuracy of 88% for the PDF-info retrivel task",
+            "duration": "May 2023 Jul 2023 3 months",
+            "start_date": "May 2023",
+            "end_date": "Jul 2023",
+            "duration_short": "3 months",
+            "company": "Garg Associates Private Limited ( GAPL)",
+            "company_id": "garg-associates-private-limited-gapl",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Hyderabad",
+            "description": "Developed a robust text classification model utilizing advanced NLP techniques to categorize articles accurately into violent and non-violent• Extracted and labeled 25,000 articles from a pool of 5 million+ articles using the GPT API, ensuring a high-quality dataset for training• Employed data balancing for uniform class representation and fine-tuned BERT and DistilBERT models on the prepared test dataset• Achieved a remarkable 93% accuracy in classification of articles with the DistilBERT approach, signifying its efficacy for the task at hand",
+            "description_html": "Developed a robust text classification model utilizing advanced NLP techniques to categorize articles accurately into violent and non-violent• Extracted and labeled 25,000 articles from a pool of 5 million+ articles using the GPT API, ensuring a high-quality dataset for training• Employed data balancing for uniform class representation and fine-tuned BERT and DistilBERT models on the prepared test dataset• Achieved a remarkable 93% accuracy in classification of articles with the DistilBERT approach, signifying its efficacy for the task at hand",
+            "duration": "Apr 2023 May 2023 2 months",
+            "start_date": "Apr 2023",
+            "end_date": "May 2023",
+            "duration_short": "2 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Computer Vision Intern",
+            "location": "Hyderabad",
+            "description": "Analysed patents comprehensively by employing various techniques to optimize images, assess complexity, quantify structural characteristics• Compressed 2.5 million images using jpeg lossless compression, without compromising the quality of images and calculated size ratios• Deployed keras_ocr to preprocess the images and to find the complexity, calculated the number of edges with the help of hough lines• Identified the solid lines with the help of contours and measured the ratio of solid to dotted line to detect the weightage of solid part",
+            "description_html": "Analysed patents comprehensively by employing various techniques to optimize images, assess complexity, quantify structural characteristics• Compressed 2.5 million images using jpeg lossless compression, without compromising the quality of images and calculated size ratios• Deployed keras_ocr to preprocess the images and to find the complexity, calculated the number of edges with the help of hough lines• Identified the solid lines with the help of contours and measured the ratio of solid to dotted line to detect the weightage of solid part",
+            "duration": "Oct 2022 Feb 2023 5 months",
+            "start_date": "Oct 2022",
+            "end_date": "Feb 2023",
+            "duration_short": "5 months",
+            "company": "Indian School of Business",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Member",
+            "location": "IIT Kharagpur",
+            "description_html": null,
+            "duration": "Aug 2019 May 2021 1 year 10 months",
+            "start_date": "Aug 2019",
+            "end_date": "May 2021",
+            "duration_short": "1 year 10 months",
+            "company": "Technology Adventure Society (TAdS) IIT Kharagpur",
+            "company_id": "technology-adventure-society-tads-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": null,
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Aeronautical/Aerospace Engineering Technology/Technician",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 716.0,
+    "connections": 500.0,
+    "current_company_company_id": "garg-associates-private-limited-gapl",
+    "current_company_name": "Garg Associates Private Limited ( GAPL)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bikaner",
+    "linkedin_id": "udit-kankaria-081017211",
+    "activity": [
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "Three years of GOLD at the Inter IIT Cultural Meet! Indian Institute of Technology, Kharagpur unmatched energy, talent, and creativity has been…",
+            "img": "",
+            "id": "7273695337364512768"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "The interviewer also ask questions from my playlists only 😜😜 You can follow the playlist in the below order to ace the SQL interviews. SQL Tips…",
+            "img": "",
+            "id": "7274630207074934785"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "Get ready to know some inside news on Digital Marketing!!!",
+            "img": "",
+            "id": "7229190246398087169"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "The rise of Voice search optimization (VSO): Now you can optimise your websites with the help of Voice search optimization (VSO). It becomes a…",
+            "img": "",
+            "id": "7231977588858978304"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "SEO is a system that identifies files in its database based on user-added keywords and search queries, then returns the corresponding results. Search…",
+            "img": "",
+            "id": "7235196659096289280"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "SEO is the an integral part of Digital Marketing and is very helpful for organic as well as paid reach.",
+            "img": "",
+            "id": "7234894598769176577"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "𝗠𝗰𝗗𝗼𝗻𝗮𝗹𝗱𝘀 𝗰𝗼𝗺𝗺𝗲𝗿𝗰𝗶𝗮𝗹 𝟭𝟬𝟬% 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗲𝗱 𝘄𝗶𝘁𝗵 𝗔𝗜!! 🍔 This video shows that #content generation will change!! Our…",
+            "img": "",
+            "id": "7233799774699728896"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "I am excited to share that I have completed my Digital Marketing course. This milestone wouldn’t have been possible without the mentorship of…",
+            "img": "",
+            "id": "7229191859619655681"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "Hey Everyone! I am excited to share that I've officially embarked on my journey in the Master's program in Intelligent Information Systems (MIIS)…",
+            "img": "",
+            "id": "7232077840790282243"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "All the efforts put in have truly paid off... It’s rewarding to see such positive outcomes ✌️",
+            "img": "",
+            "id": "7204070649038790656"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "I want to share a troubling experience with Air India Limited during my recent travel from AMD to SFO via DEL. Clearance in Ahmedabad: At the Air…",
+            "img": "",
+            "id": "7203275183325941762"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "Election results seem familiar. Claim of CTC - 400+ Cash component - 320 In hand salary - 240",
+            "img": "",
+            "id": "7203659610803609600"
+        },
+        {
+            "interaction": "Liked by Udit Kankaria",
+            "link": "",
+            "title": "True generosity lies in kindness and affection towards those whom we consider our own. Most of our alumni are truly generous in this sense. Yet some…",
+            "img": "",
+            "id": "7201538483746693120"
+        }
+    ],
+    "linkedin_num_id": 898814113.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

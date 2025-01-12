@@ -1,0 +1,30 @@
+{
+    "city": "West Delhi, Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Bharati Vidyapeeth",
+            "url": "",
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "1996",
+            "end_year": "2010",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Zomato",
+    "publications": "[{\"title\":\"Swift Enumerations\",\"subtitle\":\"Presented a talk at Swift India meetup\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Crypto - FIat Currency Converter, Portfolio Management & Coin Ticker\",\"start_date\":\"Aug 2017\",\"end_date\":\"Present\",\"description\":\"Creating an iOS app as a self initiative as a hobby, to understand investing, crypto currency space & to sharpen my iOS & Swift skills. Also aim is to create a world class app as an Indian indie iOS developer.\"},{\"title\":\"Kohls Self Checkout iPad App\",\"start_date\":\"Aug 2017\",\"end_date\":\"Present\",\"description\":\"Working on an iPad application which enables Kohls users to scan, pay, and checkout by themselves inside Kohl's stores.\"},{\"title\":\"25 Minute Workout Tracker : 90 day fitness program\",\"start_date\":\"Apr 2015\",\"end_date\":\"Present\",\"description\":\"Ported earlier app to new for a new set of workouts due to users requests. Launch Date: Aug, 2016Overall Downloads: 31,700Sales: INR 1,21,000/-Overall Ratings: 4.6 Stars (Overall 51 Ratings)Tech Stack: Platform: iOS - iPhone & iPadLanguage: Entirely in Swift.Database: Realm\"},{\"title\":\"Insane 60 Day Workout Tracker\",\"start_date\":\"Jan 2015\",\"end_date\":\"Present\",\"description\":\"Created entire app, as Indie Developer for a shot at the App Store. Handled the designs (including Sketch, Adobe Illustrator, Photoshop), UX, development & marketing (Screenshots, descriptions, some weblinks). Launch Date: May, 2016Overall Downloads: 58,700Sales: INR 3,07,000/-Overall Ratings: 3.8 Stars (Overall 17 Ratings)Tech Stack: Platform: iOS - iPhone & iPadLanguage: Entirely in Swift.Database: Realm\"},{\"title\":\"Query \",\"start_date\":\"Jul 2014\",\"description\":\"Created an iOS version of popular online game \\\"Peter Answers\\\".Downloads: 4500Device: iPhone\"},{\"title\":\"Kohls Apple Watch\",\"start_date\":\"Jul 2017\",\"end_date\":\"Aug 2017\",\"description\":\"Worked on adding Kohls Wallet & Kohls Gift Cards status on Apple Watch 2 & 3. #Entirely Swift 3\"},{\"title\":\"KPI App Kohls\",\"start_date\":\"Jun 2017\",\"end_date\":\"Aug 2017\",\"description\":\"KPI app is used by Leadership of Kohls to understand metrics of sales using Adobe Omniture & Tableu. Worked on implementing Tableu (JavaScript), security & chat functionality.Team: 2 iOS developers\"},{\"title\":\"Kohls Ecommerce iOS App\",\"start_date\":\"Oct 2015\",\"end_date\":\"Apr 2016\",\"description\":\"Worked on may features on the app used by millions of customers & which once reached rank 1 in Shopping Category on App Store.- Worked on Memory Management. Many screens in app had more than 100 leaks which quickly lead iOS app to 1GB+ memory footprint. Single handedly, removed all leaks in asked screens & reduced the memory footprints to a few MB's.- Also worked on improving Network, Battery & Performance issues using instruments.- Created the entire flow for Gift With Purchase for app.- Created then entire flow for Your Price which was a critical feature.- Worked on maintenance, bug fixes & other improvements.- Won Spot Award for contributions made in short time\"},{\"title\":\"Vestcom App\",\"start_date\":\"Aug 2015\",\"end_date\":\"Oct 2015\",\"description\":\"Created an Cordova based app for Client Vestcom. Implemented Barcode, QRCode scanners. Created plugins which are now used by thousands of Vestcom customers for Shelf scans. The plugin as a stand alone component, can be used by any client, and be installed in their own iOS App.Team: 1 iOS & 1 Android developerResponsibility: Development, client interaction, maintanence & documentation\"},{\"title\":\"Kohl's Kiosk App\",\"start_date\":\"Jun 2015\",\"end_date\":\"Aug 2015\",\"description\":\"Worked on migrating Kohl's iPhone app to iPad with a team of 3 members. Entire app was successfully migrated to iPad within 1.5 months.\"},{\"title\":\"Pop Two Locks- Test Reflex By Simple Single Tap\",\"start_date\":\"Aug 2014\",\"end_date\":\"Sep 2014\",\"description\":\"Created a fun, endless single tap game using Sprite Kit with Game Center integration.Downloads: 4000Platform: iOS Devices: iPad & iPhone\"}]",
+    "honors_and_awards": null
+}

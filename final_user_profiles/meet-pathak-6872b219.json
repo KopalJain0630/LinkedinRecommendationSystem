@@ -1,0 +1,47 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "url": "",
+            "start_year": "2008",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data Mining, Statistical Simulation and Data Analysis\"},{\"subtitle\":\"-\",\"title\":\"Data Structures and algorithms, Theory of computation, Parallel Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Econometrics\"},{\"subtitle\":\"-\",\"title\":\"Microeconomics, Macroeconomics, Money and Banking, Monetary Theory\"},{\"subtitle\":\"-\",\"title\":\"Probability Theory, Stochastic Processes\"},{\"subtitle\":\"-\",\"title\":\"Regression Analysis, Time Series Analysis,\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Nov 2016Credential ID QVSP4L4RAYFDSee credential",
+            "subtitle": "Coursera Course Certificates",
+            "title": "R Programming"
+        },
+        {
+            "meta": "Issued May 2016",
+            "subtitle": "Coursera Course Certificates",
+            "title": "Programming for Everybody ( Python)"
+        }
+    ],
+    "current_company_name": "Khatabook",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Multidimensional Outlier Detection for Large Datasets\",\"start_date\":\"Aug 2012\",\"end_date\":\"Apr 2013\",\"description\":\"- Reviewed literature on outlier detection for large datasets. Reworked on algorithms using concept of neural network, random walk and other generic methods for finding outliers. - Simulated methods based on Local Cor-relational Integral and Replicating Neural Nework and both the algorithms worked well for HBK dataset. - Tools Used: Matlab/R\"},{\"title\":\"Parallel Algorithms for Hierarchical Clustering\",\"start_date\":\"Jan 2012\",\"end_date\":\"Apr 2012\",\"description\":\"- Designed and implemented sequential and parallel algorithms for Hierarchical clustering for datasets using MPI(message passing interface) system.- Result: Complexity for parallel algorithm decreased by increasing number of processors, while speed increased linearly. Tools; C/MATLAB\"},{\"title\":\"Web Based Data Mining: Selling Strategies for Online Auctions\",\"start_date\":\"Aug 2011\",\"end_date\":\"Nov 2011\",\"description\":\"- Aim was to come up with selling strategies for online auctions. Data for 300 sellers in ebay was collected- Used CART( Classification and Regression Trees) predictive modeling and proposed effective selling models as a function of seller's priority( success/price)- We found that factors like shipping price, seller rating and item description determined auction's success/failure - Also used logistic regression to check the effectiveness of CART. Tools: R/SAS\"},{},{},{\"title\":\"\\\"P VS NP Problem: Analysis with Examples\\\"\",\"start_date\":\"Aug 2010\",\"end_date\":\"Nov 2010\",\"description\":\"- Studied deterministic and non deterministic algorithms for Boolean Satisfiability(SAT), Vertex Cover Problem(VCP)\"},{},{\"title\":\"Trade Liberalization and India : Influence of Trade on FDI\",\"start_date\":\"Aug 2010\",\"end_date\":\"Nov 2010\",\"description\":\"- Studied the Impact of trade on FDI inflows in India. Cross-border trade(CBT), Intra-industry trade(IIT) and inter-state trade(IST) were forms of trade that affected FDI inflows- Used multiple linear regression model and found R-square to be 82% with CBT being the most significant variable- Data Sources: ASI, CMIE, RBI reports: Tools: Eviews\"},{\"title\":\"Miniature Car Crusher Machine\",\"start_date\":\"Aug 2009\",\"end_date\":\"Nov 2009\",\"description\":\"- Designed a mechanical model for crushing of used cans(normal size) and other miniature metallic objects - Assembled a miniature crane along with crushing machine on the same platform\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "INSPIRE, DST India",
+            "publication": "Govt. of India",
+            "date": "2008-07-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Excellence in Academics and General Discipline",
+            "publication": "SKSGM, Bhanpura",
+            "date": "2004-10-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

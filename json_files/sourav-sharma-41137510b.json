@@ -1,0 +1,211 @@
+{
+    "id": "sourav-sharma-41137510b",
+    "name": "Sourav Sharma",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "ML @Qualcomm | SDE Intern @Amazon | IIT KGP '22",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Qualcomm",
+        "company_id": "qualcomm",
+        "title": "ML @Qualcomm | SDE Intern @Amazon | IIT KGP '22"
+    },
+    "experience": [
+        {
+            "title": "Machine Learning Engineer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Qualcomm",
+            "company_id": "qualcomm",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Backend Internship.",
+            "description_html": "Backend Internship. <!---->",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": null,
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual Degree: B.Tech+M.Tech",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ramakrishna Mission Vidyapith, Deoghar",
+            "degree": "Class XII",
+            "field": "PCM",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID K7YYER7RXTGDSee credential",
+            "subtitle": "Coursera",
+            "title": "Convolutional Neural Networks"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID E5FVVFL9ZZAXSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID RNQWYVDN4EZQSee credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 8SB3L6VQYXGVSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1000.0,
+    "connections": 500.0,
+    "current_company_company_id": "qualcomm",
+    "current_company_name": "Qualcomm",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Cardiac Disease Classification Using 12-Lead ECG Signals (M.Tech Thesis)\",\"description\":\"• Developed various state-of-the art deep learning models to process ECG signals and classify arrhythmia. The model can help cardiologists perform assisted diagnosis of heart disease and improve the efficiency of healthcare delivery.• Implemented various 2D state-of-the art models like Resnets, VGG, Transformers, Convolutional Transformers, etc. into the 1D domain for disease classification and performed data augmentation, hyper-parameter tuning, mitigated the class imbalance problem, and achieved an F1 score of 0.785 on the CPSC dataset for classification.\"},{\"title\":\"Prompt Adapter (Prompt Tuning based Few-shot Learner for Vision-Language Model)\",\"description\":\"• Improved the performance of CLIP (Contrastive Language-Image Pretraining) for Few-Shot Classification tasks.• Introduced a new method that combines pre-trained prompt tuning with a learnable filter on textual features under the guidance of few-shot image samples, which is based on the gated multi-head attention mechanism.• Conducted extensive experiments to beat the state-of-the-art methods in few-shot image classification on 6 publicly available datasets, especially in settings with limited data instances such as 1, 2, 4, 8, and 16-shot images.\"},{\"title\":\"Rust LLM (Fine-tuning CodeLlama-7b-Instruct for Rust Code Generation using PEFT)\",\"description\":\"• Improved the performance of language-specific code generation by building a lightweight LLM for Rust language.• Performed Instruction based finetuning on CodeLlama-7b-Instruct using LoRA (Low Rank Adaptation of LLMs).• Evaluated the performance of code generated by finetuned Rust LLM on Leetcode Top 150 Interview problems.\"},{\"title\":\"Stress Detection Using EDA Signals (B.Tech Thesis)\",\"description\":\"• Developed ML models to categorize 3 different stress levels of a driver trained on Physionet EDA signal data.• Preprocessed raw data and extracted statistical and morphological features comprising a total of 48 features.• Performed data visualization using Correlation Matrix, Box Plot and selected top 10 features based on P-values.• Trained various classification models like SVM, KNN, XgBoost, Naive Bayes, and MLPs with an accuracy of 85%.\"}]",
+    "organizations": null,
+    "location": "Hyderabad",
+    "linkedin_id": "sourav-sharma-41137510b",
+    "activity": [
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "Awesome Sunday at IndoML 2024, BITS Goa. -- My tutorial on Retrieval Augmented Generation attended by 400+ super-attentive students all across…",
+            "img": "",
+            "id": "7276824444994514944"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "🌟 𝐀 𝐍𝐞𝐰 T𝐞𝐱𝐭𝐛𝐨𝐨𝐤 -- 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 🌟 I am excited to share the release of my…",
+            "img": "",
+            "id": "7275021929781059584"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "Data Science Interview questions -2 : Recently I was being interviewed for an AI startup for the role of a data scientist. It started with questions…",
+            "img": "",
+            "id": "7272952506895224832"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "Attention all industry contacts! Greetings from the Department of Electrical Engineering, IIT Kharagpur! The campus placement season is in full swing…",
+            "img": "",
+            "id": "7272229985967329280"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "Today marks the conclusion of an incredible journey as a fall intern at Tesla. Working with the Cell Engineering team, I had the unique opportunity…",
+            "img": "",
+            "id": "7271037492374515712"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "I had the privilege of interviewing Pankaj Kothari Director of RBS at Amazon India, during #ARD2024. He shared fascinating insights into how Rufus…",
+            "img": "",
+            "id": "7267429534176550912"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "The difference between getting a 10 LPA and a 30 LPA package is : 1. Your College Placement Cell 2. Your Branch 3. Your Network and…",
+            "img": "",
+            "id": "10"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "Thrilled to announce my paper made it to the Top 10 in Multimedia White Paper Competition (MMWPC@Qualcomm), although I missed the cutoff to get into…",
+            "img": "",
+            "id": "7258173302211256320"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "Wishing everyone a joyous and prosperous Diwali! 🪔 ✨ There is something magical about walking into our Google Bangalore office this Diwali ✨ -…",
+            "img": "",
+            "id": "7258008178418724864"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "I am thrilled to share that I have started working as a Machine Learning Engineer at Meta ! 🚀 After two incredible years at Preimage, where I had…",
+            "img": "",
+            "id": "7255667986894594049"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "It is well understood that when generating text, Large Language Models (LLMs) predict multiple possible next words, each associated with a…",
+            "img": "",
+            "id": "7255416251915620353"
+        },
+        {
+            "interaction": "Liked by Sourav Sharma",
+            "link": "",
+            "title": "Recently, my team visited one of the premier institutions in India for campus hiring. We were disappointed to find that students pursuing Masters in…",
+            "img": "",
+            "id": "7251932935505784832"
+        }
+    ],
+    "linkedin_num_id": 463728397.0,
+    "honors_and_awards": [
+        {
+            "title": "𝐆𝐨𝐨𝐠𝐥𝐞 𝐊𝐢𝐜𝐤𝐬𝐭𝐚𝐫𝐭",
+            "publication": "Google",
+            "date": "2021-01-01T00:00:00.000Z",
+            "description": "2021 Round A:- Global Rank -89"
+        },
+        {
+            "title": "JEE Advanced 2017",
+            "publication": "-",
+            "date": "2017-05-01T00:00:00.000Z",
+            "description": "Secured an AIR 3186 in JEE Advanced 2017"
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

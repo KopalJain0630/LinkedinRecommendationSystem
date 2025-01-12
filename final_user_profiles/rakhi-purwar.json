@@ -1,0 +1,122 @@
+{
+    "city": "Bangalore Urban, Karnataka, India",
+    "position": "Software Engineer at ZEE | Java | Backend Developer",
+    "experience": [
+        {
+            "title": "ZEE - Technology & Innovation",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "2 years 9 months",
+            "positions": [
+                {
+                    "subtitle": "ZEE - Technology & Innovation",
+                    "meta": "Nov 2023 - Present 1 year 2 months",
+                    "duration": "Nov 2023 - Present 1 year 2 months",
+                    "start_date": "Nov 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 2 months",
+                    "title": "SDE-1",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "ZEE - Technology & Innovation",
+                    "meta": "Aug 2022 - Nov 2023 1 year 4 months",
+                    "description": "Part of ZEE5 OTT and linear TV team which caters to a substantial portion of the streaming audience in India, Working to build robust, highly available, resilient and scalable products to deliver an uninterrupted and immersive user experience, ensuring seamless content streaming and customer satisfaction.",
+                    "duration": "Aug 2022 Nov 2023 1 year 4 months",
+                    "start_date": "Aug 2022",
+                    "end_date": "Nov 2023",
+                    "duration_short": "1 year 4 months",
+                    "title": "Associate Software Development Engineer",
+                    "description_html": "Part of ZEE5 OTT and linear TV team which caters to a substantial portion of the streaming audience in India, Working to build robust, highly available, resilient and scalable products to deliver an uninterrupted and immersive user experience, ensuring seamless content streaming and customer satisfaction. <!---->"
+                },
+                {
+                    "subtitle": "ZEE - Technology & Innovation",
+                    "meta": "Apr 2022 - Jul 2022 4 months",
+                    "duration": "Apr 2022 Jul 2022 4 months",
+                    "start_date": "Apr 2022",
+                    "end_date": "Jul 2022",
+                    "duration_short": "4 months",
+                    "title": "Associate Software Development Engineer",
+                    "description_html": null
+                }
+            ],
+            "company": "ZEE - Technology & Innovation",
+            "company_id": "zee-techandinnovation",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Research And Development Intern",
+            "location": "Norfolk, Virginia, United States",
+            "description": "Created a UI based on machine learning for sentiment analysis for a venture to give better customer\nexperience by knowing the sentiment of the customer’s feedback.",
+            "description_html": "Created a UI based on machine learning for sentiment analysis for a venture to give better customer experience by knowing the sentiment of the customer’s feedback. <!---->",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Old Dominion University",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "BMS Institute of Technology and Management",
+            "degree": "Bachelor of Technology",
+            "field": "Computer science engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Puranchandra Vidyaniketan",
+            "url": "",
+            "start_year": "2012",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Oct 2020Credential ID UC-b2921fd4-b262-44cd-a716-9d0ac2364f22See credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z™: Hands-On Python In Data Science"
+        },
+        {
+            "meta": "Issued Aug 2020See credential",
+            "subtitle": "SoloLearn",
+            "title": "SQL Fundamentals course"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "Problem Solving (Basic)"
+        },
+        {
+            "meta": "Issued Jul 2020See credential",
+            "subtitle": "HackerRank",
+            "title": "Python (Basic)"
+        },
+        {
+            "meta": "Issued May 2020Credential ID NNQ4PVHZGZ2TSee credential",
+            "subtitle": "Coursera",
+            "title": "Python Data Structures"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID F9XWFMCY8FUSSee credential",
+            "subtitle": "Coursera",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        }
+    ],
+    "current_company_name": "ZEE - Technology & Innovation",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Task_Tracker_Senti\",\"start_date\":\"Apr 2021\",\"description\":\"* Created a UI based on machine learning for sentiment analysis for a venture to give a better customer experience by knowing the sentiment of the customer’s feedback.* Used Creme and naïve-Bayes for machine learning. NLTK for analyzing the sentiment.* Used RoBERTa, AlBERT for further analysis of sentiment into sub-classifications to give better insights about customers emotions do the company. * Flask frameworkwas used as an interface between frontend and backend. SQLite was used to create the database in the backend.\"}]",
+    "honors_and_awards": null
+}

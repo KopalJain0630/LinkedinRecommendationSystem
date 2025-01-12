@@ -1,0 +1,87 @@
+{
+    "city": "Kolkata, West Bengal, India",
+    "position": "Engineer || Learner || Explorer",
+    "experience": [
+        {
+            "title": "Business Analyst",
+            "location": "Kolkata",
+            "description_html": null,
+            "duration": "May 2019 - Present 5 years 8 months",
+            "start_date": "May 2019",
+            "end_date": "Present",
+            "duration_short": "5 years 8 months",
+            "company": "IDS COMPOSITES",
+            "company_id": "ids-composites",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Damodar Vally Corporation",
+            "description_html": null,
+            "duration": "Jun 2017 Jul 2017 2 months",
+            "start_date": "Jun 2017",
+            "end_date": "Jul 2017",
+            "duration_short": "2 months",
+            "company": "Mejia Thermal Power Station - MTPS, DVC",
+            "company_id": "damodar-valley-corporation-mtps",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Meghnad Saha Institute Of Technology(MSIT)",
+            "degree": "Bachelor of Technology",
+            "field": "ME",
+            "url": "",
+            "start_year": "2014",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2022Credential ID 5YKBGTT5D3GFSee credential",
+            "subtitle": "IBM",
+            "title": "Data Analysis and Visualization Foundations Specialization"
+        },
+        {
+            "meta": "Issued May 2022Credential ID Y9XQHLF8JJBBSee credential",
+            "subtitle": "The Johns Hopkins University",
+            "title": "Data Science: Foundations using R Specialization"
+        },
+        {
+            "meta": "Issued May 2022See credential",
+            "subtitle": "IBM",
+            "title": "Data Visualization with R"
+        },
+        {
+            "meta": "Issued Apr 2022See credential",
+            "subtitle": "IBM",
+            "title": "R Essentials"
+        },
+        {
+            "meta": "Issued Mar 2022Credential ID 7CKUEEL8F4DFSee credential",
+            "subtitle": "Google",
+            "title": "Google Data Analytics Certificate"
+        },
+        {
+            "meta": "Issued Jul 2021",
+            "subtitle": "Udemy",
+            "title": "Comprehensive SQL Bootcamp : Beginner to Advanced"
+        },
+        {
+            "meta": "Issued Apr 2021Credential ID 0fa2e823289b461f92ce16c9414877f3See credential",
+            "subtitle": "IBM",
+            "title": "SQL and Relational Databases 101"
+        }
+    ],
+    "current_company_name": "IDS COMPOSITES",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Design, development & experimentation on a 5 star portable water cooler. \",\"start_date\":\"Sep 2017\",\"end_date\":\"May 2018\"},{\"title\":\"Design of gearless transmission system using elbow joint. \",\"start_date\":\"Jun 2016\",\"end_date\":\"Jul 2016\"}]",
+    "honors_and_awards": null
+}

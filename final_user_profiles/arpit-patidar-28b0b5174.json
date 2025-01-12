@@ -1,0 +1,104 @@
+{
+    "city": "Dhar, Madhya Pradesh, India",
+    "position": "IIT KGP 23'",
+    "experience": [
+        {
+            "title": "Research Engineer 1",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• NOVA Microservices Ecosystem: Architected a scalable, sensor-agnostic distributed system for IoT device management using Cassandra and MongoDB.• Data Retrieval and Communication: Enhanced data integrity with Python scripts for Cassandra and implemented a fault-tolerant communication layer using Kafka, NATS, MQTT, and REST.• Health Safety Microservice: Developed a microservice with Azure file system integration, optimizing packet transfers and efficiency.• Angular-Based Dashboards: Created digital twins of manufacturing processes using Angular and WebSocket APIs for real-time IoT data monitoring.• Prediction and Optimization Models: Integrated models into dashboards via Flask REST APIs for dynamic data visualization and streamlined data ingestion.• Company Website with Next.js: Built a responsive company website using Next.js and ChakraUI, with an admin portal, real-time data updates, and a robust backend using Node.js, Express, and MongoDB.",
+            "description_html": "• NOVA Microservices Ecosystem: Architected a scalable, sensor-agnostic distributed system for IoT device management using Cassandra and MongoDB.• Data Retrieval and Communication: Enhanced data integrity with Python scripts for Cassandra and implemented a fault-tolerant communication layer using Kafka, NATS, MQTT, and REST.• Health Safety Microservice: Developed a microservice with Azure file system integration, optimizing packet transfers and efficiency.• Angular-Based Dashboards: Created digital twins of manufacturing processes using Angular and WebSocket APIs for real-time IoT data monitoring.• Prediction and Optimization Models: Integrated models into dashboards via Flask REST APIs for dynamic data visualization and streamlined data ingestion.• Company Website with Next.js: Built a responsive company website using Next.js and ChakraUI, with an admin portal, real-time data updates, and a robust backend using Node.js, Express, and MongoDB.",
+            "duration": "Dec 2023 Aug 2024 9 months",
+            "start_date": "Dec 2023",
+            "end_date": "Aug 2024",
+            "duration_short": "9 months",
+            "company": "Bert Labs",
+            "company_id": "bert-labs",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Frontend Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Implemented React for custom components and Material UI to align with the app's dashboard design, enhancing its aesthetics • Leveraged Redux for highly efficient state management, facilitating seamless transfer of data between parallel components • Created data-driven visualizations, including charts and animations, using D3.js for improved dashboard’s user interaction • Employed Git commands for version control and Bitbucket for repositories, ensuring code synchronization among the team",
+            "description_html": "• Implemented React for custom components and Material UI to align with the app's dashboard design, enhancing its aesthetics • Leveraged Redux for highly efficient state management, facilitating seamless transfer of data between parallel components • Created data-driven visualizations, including charts and animations, using D3.js for improved dashboard’s user interaction • Employed Git commands for version control and Bitbucket for repositories, ensuring code synchronization among the team",
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "aNumak & Company ®",
+            "company_id": "anumak-company",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Frontend Developer",
+            "location": "Indore, Madhya Pradesh, India",
+            "description": "• Created operator portal to facilitate proper information transfer between affiliates, business units, and developers using Reactjs• Used MaterialUI to create custom components rapidly, used hooks, and used Axios to fetch data from the internal Databases • Created interactive visualizations using charts.js concerning Gross merchandise value for each of the product categories",
+            "description_html": "• Created operator portal to facilitate proper information transfer between affiliates, business units, and developers using Reactjs• Used MaterialUI to create custom components rapidly, used hooks, and used Axios to fetch data from the internal Databases • Created interactive visualizations using charts.js concerning Gross merchandise value for each of the product categories <!---->",
+            "duration": "May 2022 Jun 2022 2 months",
+            "start_date": "May 2022",
+            "end_date": "Jun 2022",
+            "duration_short": "2 months",
+            "company": "Protonshub Technologies -A CMMI Level 5 Company",
+            "company_id": "protonshub-technologies",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Core Organising Team Member",
+            "description_html": null,
+            "duration": "Aug 2019 May 2020 10 months",
+            "start_date": "Aug 2019",
+            "end_date": "May 2020",
+            "duration_short": "10 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Member",
+            "description_html": null,
+            "duration": "Sep 2018 Apr 2019 8 months",
+            "start_date": "Sep 2018",
+            "end_date": "Apr 2019",
+            "duration_short": "8 months",
+            "company": "Communiqué, IIT Kharagpur",
+            "company_id": "communiqu-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Former Kshitij Campus Affiliate",
+            "description_html": null,
+            "duration": "Aug 2018 Jan 2019 6 months",
+            "start_date": "Aug 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "6 months",
+            "company": "Kshitij, IIT Kharagpur",
+            "company_id": "kshitij-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Integrated Masters",
+            "field": "Economics",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Bert Labs",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

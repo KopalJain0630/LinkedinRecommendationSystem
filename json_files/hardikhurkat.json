@@ -1,0 +1,393 @@
+{
+    "id": "hardikhurkat",
+    "name": "Hardik Hurkat",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Product @MPL  | BITS Pilani",
+    "about": null,
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Mobile Premier League (MPL)",
+        "company_id": "mobile-premier-league",
+        "title": "Product @MPL  | BITS Pilani"
+    },
+    "experience": [
+        {
+            "title": "Product Manager",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "Building Platform Products",
+            "description_html": "Building Platform Products <!---->",
+            "duration": "Dec 2023 - Present 1 year 1 month",
+            "start_date": "Dec 2023",
+            "end_date": "Present",
+            "duration_short": "1 year 1 month",
+            "company": "Mobile Premier League (MPL)",
+            "company_id": "mobile-premier-league",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Head Digital Works Pvt Ltd.",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "1 year 10 months",
+            "positions": [
+                {
+                    "subtitle": "Head Digital Works Pvt Ltd.",
+                    "meta": "Jul 2022 - Nov 2023 1 year 5 months",
+                    "description": "1. Launched new game format '2nd Innings Fantasy', leading to increased engagement in the app 2. Led cross functional teams to upsell and cross-sell users in-order to increase game play(s)per user3. Enhanced the user experience by revamping the entire UI/UX across the App",
+                    "duration": "Jul 2022 Nov 2023 1 year 5 months",
+                    "start_date": "Jul 2022",
+                    "end_date": "Nov 2023",
+                    "duration_short": "1 year 5 months",
+                    "title": "Associate Product Manager",
+                    "description_html": "1. Launched new game format '2nd Innings Fantasy', leading to increased engagement in the app <br>2. Led cross functional teams to upsell and cross-sell users in-order to increase game play(s)per user<br>3. Enhanced the user experience by revamping the entire UI/UX across the App <!---->"
+                },
+                {
+                    "subtitle": "Head Digital Works Pvt Ltd.",
+                    "meta": "Feb 2022 - Jun 2022 5 months",
+                    "description": "1. Identified the user pain points, performed feature analysis to benchmark the industry standards2. Built user journeys to effectively reduce the game join funnel drop 3. Built Product Analytics - Events and Dashboard in CleverTap",
+                    "duration": "Feb 2022 Jun 2022 5 months",
+                    "start_date": "Feb 2022",
+                    "end_date": "Jun 2022",
+                    "duration_short": "5 months",
+                    "title": "Product Management Intern",
+                    "description_html": "1. Identified the user pain points, performed feature analysis to benchmark the industry standards<br>2. Built user journeys to effectively reduce the game join funnel drop <br>3. Built Product Analytics - Events and Dashboard in CleverTap <!---->"
+                }
+            ],
+            "company": "Head Digital Works Pvt Ltd.",
+            "company_id": "head-digital-works-pvt-ltd",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Product & Growth Intern",
+            "location": "Delhi, India",
+            "description": "1. Contributed in growth team to get 10+ partnerships across Delhi, going from 0 to 60+ Live Chargers2. Analysed the Go-to-market strategy, focused on improving pricing and revenue models to get the best price in the market 3. Conducted market study to gathered information, compiled data, and examined details pertaining to hotels, parking spaces, workspaces, and other pertinent domains, all with the aim of broadening our market presence.",
+            "description_html": "1. Contributed in growth team to get 10+ partnerships across Delhi, going from 0 to 60+ Live Chargers2. Analysed the Go-to-market strategy, focused on improving pricing and revenue models to get the best price in the market 3. Conducted market study to gathered information, compiled data, and examined details pertaining to hotels, parking spaces, workspaces, and other pertinent domains, all with the aim of broadening our market presence. <!---->",
+            "duration": "Sep 2021 Dec 2021 4 months",
+            "start_date": "Sep 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "4 months",
+            "company": "Valerio Electric",
+            "company_id": "valerio-electric",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Product Management Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "1. Build an automated SMS/Email Marketing Tool for D2C brand to solve conversion and retention problems2.  Collaborated with potential D2C E-commerce brands across UK & US to understand customer pain points",
+            "description_html": "1. Build an automated SMS/Email Marketing Tool for D2C brand to solve conversion and retention problems2. Collaborated with potential D2C E-commerce brands across UK &amp; US to understand customer pain points <!---->",
+            "duration": "Jul 2021 Dec 2021 6 months",
+            "start_date": "Jul 2021",
+            "end_date": "Dec 2021",
+            "duration_short": "6 months",
+            "company": "RetainIQ",
+            "company_id": "retainiq",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Treasurer",
+            "location": "Hyderabad, Telangana, India",
+            "description_html": null,
+            "duration": "Aug 2020 May 2021 10 months",
+            "start_date": "Aug 2020",
+            "end_date": "May 2021",
+            "duration_short": "10 months",
+            "company": "SAE BPHC",
+            "company_id": "sae-bphc",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Business Development Associate",
+            "location": "Delhi, India",
+            "description_html": null,
+            "duration": "Jan 2021 Mar 2021 3 months",
+            "start_date": "Jan 2021",
+            "end_date": "Mar 2021",
+            "duration_short": "3 months",
+            "company": "Altime Studio",
+            "company_id": "altime-studio",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "location": "Nagda, Madhya Pradesh, India",
+            "description_html": null,
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "Grasim Industries Limited | Pulp & Fibre",
+            "company_id": "grasim-industries-limited",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Shivam Singh",
+            "about": "Assistant manager at MSIL || Supply Chain || ex-JSW",
+            "location": "Dhanbad"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashna Ann Morris",
+            "about": "MSc Human Resource Management, Assoc CIPD Level 7",
+            "location": "Lancashire"
+        },
+        {
+            "profile_link": "",
+            "name": "Apoorv Aggarwal",
+            "about": null,
+            "location": "New Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanu Mishra",
+            "about": "Law student",
+            "location": "Prayagraj"
+        },
+        {
+            "profile_link": "",
+            "name": "Vasundhra Rana",
+            "about": "Treasurer at The Unforgotten Humanity Foundation",
+            "location": "Uttarakhand, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sreekanth Penugonda",
+            "about": "IIM Bangalore | IIT Kharagpur",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Noorul Islam",
+            "about": "Senior R&D Engineer at Synopsys | Memory Circuit Design | Functional Verification",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Daniya Khalid",
+            "about": "Working with Medha",
+            "location": "Aligarh"
+        },
+        {
+            "profile_link": "",
+            "name": "Kaustubh Wani",
+            "about": "Senior Embedded Software Engineer",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhumika Jamwal",
+            "about": "Copywriter",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Dhruvika Patel",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Chaitanya Pandya",
+            "about": "MSc. Advanced Mechanical Engineering at the Queen Mary University of London '24 | Former Intern at JSW Tarapur | Seeking opportunities for Mechanical Engineer, Production Engineer, or Manufacturing Engineer's role.",
+            "location": "Greater London"
+        },
+        {
+            "profile_link": "",
+            "name": "Pallav Tiriyar",
+            "about": "Analyst at Deloitte India(Offices of the US)",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshay Khairnar",
+            "about": "Mechanical Systems Product Engineer @The Raymond Corporation | MS ME - Design and Manufacturing | Lean Six Sigma - Green Belt | CSWP (Certified SOLIDWORKS Professional) | Advanced in CATIA V5 & ANSYS Workbench",
+            "location": "Binghamton, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Dheeraj Bhatia",
+            "about": "Summer Intern at Ben Pharmaceuticals",
+            "location": "Ambala"
+        },
+        {
+            "profile_link": "",
+            "name": "Manisha Dudeja (She/her)",
+            "about": "Treasurer at Mendlife Foundation",
+            "location": "West Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Rishabanath K",
+            "about": "Packaged App Development Associate @ Accenture | Developing Innovative Solutions",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Riya Bajpai",
+            "about": "Deloitte USI | TAPMI'25 | MBA - BKFS| Samnidhy - Senior Equity Analyst",
+            "location": "Udupi"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratik More",
+            "about": "Computer Engineer | ASE @ TCS | Java | Cloud Computing | Gen. AI | Aspirational",
+            "location": "Pune"
+        }
+    ],
+    "educations_details": "Birla Institute of Technology and Science, Pilani",
+    "education": [
+        {
+            "title": "Birla Institute of Technology and Science, Pilani",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Chemical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Ram Krishna Vidya Mandir",
+            "degree": "Higher Secondary School",
+            "field": "Mathematics",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "DAV BORL Public School",
+            "degree": "Higher Education",
+            "start_year": "2009",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023",
+            "subtitle": "NextLeap",
+            "title": "Product Manager Fellowship "
+        },
+        {
+            "meta": "Issued May 2021Credential ID 5032/IND/4507",
+            "subtitle": "Henry Harvin India Education LLP",
+            "title": "Lean Six Sigma Green Belt"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2379,
+    "connections": 500,
+    "current_company_company_id": "mobile-premier-league",
+    "current_company_name": "Mobile Premier League (MPL)",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "hardikhurkat",
+    "activity": [
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "Humbled and Honored! I'm thrilled to share that I've received the prestigious Distinguished Young Alumni Award from my alma mater, IIT Roorkee! This…",
+            "img": null,
+            "id": "7268983763060035584"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "Delhi’s air is rough right now. If you're in the city, you’re probably feeling it too. If you’re thinking about stepping out for some fresh air…",
+            "img": "",
+            "id": "7265279837114634240"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "Has the creative war in quick commerce commenced courtesy Flipkart Minutes’ newspaper innovation?🤔 Who do you think did it better? Tell us in the…",
+            "img": "",
+            "id": "7264203924499247104"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "Jar on Swiggy is such a killer service.. :) Akashdeep Singal Misbah Ashraf",
+            "img": "",
+            "id": "7257994780834422784"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "One of the things that we’ve always been proud of at Fam is the team that we’ve built. One of the testaments to that is how we’re handling a scale of…",
+            "img": "",
+            "id": "7256990485066481664"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "No, it's not ₹20 discount. It's ₹20! A discount of ₹100 on a product of ₹120. In FMCG. I checked the products expiry date. It reads \"11/2024\". What…",
+            "img": "",
+            "id": "7256558512313389056"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "You will NOT receive a Diwali Gift from Crib this year, no matter if you’re an Investor, Client, or Employee. I & Shaifali Jain have been following…",
+            "img": "",
+            "id": "7256559455885025280"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "On 26 October 2024, His #Excellency Olaf Scholz, Chancellor of the Federal Republic of #Germany, visited the Birla Institute of Technology and…",
+            "img": "",
+            "id": "7256213089505714177"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "Heard The Most Traumatizing Bumble Story this Weekend - Peak Bengaluru! A friend of mine started dating a guy who works at a food delivery platform.…",
+            "img": "",
+            "id": "7253995484174790656"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "In game design, achieving a \"Flow state\" is key to keeping players immersed. The Core Loop—“Action > Rewards > Progress”—serves as the foundation…",
+            "img": "",
+            "id": "7252641021505777664"
+        },
+        {
+            "interaction": "Liked by Hardik Hurkat",
+            "link": "",
+            "title": "When Swiggy meets Singham, records are meant to be broken! 🚀 Swiggy created a Guinness World Records Record by delivering 11,000 vada pavs in a…",
+            "img": "",
+            "id": "7251820634773585920"
+        }
+    ],
+    "linkedin_num_id": 709667344,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

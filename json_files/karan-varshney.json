@@ -1,0 +1,343 @@
+{
+    "id": "karan-varshney",
+    "name": "Karan Varshney",
+    "city": "Gurgaon, Haryana, India",
+    "country_code": "IN",
+    "position": "Reducing complex problems into simpler solutions | IIT Delhi | Forbes 30 Under 30",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "name": "Probo",
+        "company_id": "probomedia",
+        "title": "Reducing complex problems into simpler solutions | IIT Delhi | Forbes 30 Under 30"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description": "Tech & Tech",
+            "description_html": "Tech &amp; Tech <!---->",
+            "duration": "Apr 2024 - Present 9 months",
+            "start_date": "Apr 2024",
+            "end_date": "Present",
+            "duration_short": "9 months",
+            "company": "Probo",
+            "company_id": "probomedia"
+        },
+        {
+            "title": "Core Engineer",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Oct 2022 Jul 2023 10 months",
+            "start_date": "Oct 2022",
+            "end_date": "Jul 2023",
+            "duration_short": "10 months",
+            "company": "Prosprr",
+            "company_id": "prosprrdotcom"
+        },
+        {
+            "title": "Co-Founder & CTO",
+            "location": "Gurgaon, India",
+            "description": "Series-A Edtech startup.Built a high calibre tech and product team to deliver live classes involving thousands of kids and hundreds of teachers each day. Scaled the business to $2.5M ARR.",
+            "description_html": "Series-A Edtech startup.Built a high calibre tech and product team to deliver live classes involving thousands of kids and hundreds of teachers each day. Scaled the business to $2.5M ARR. <!---->",
+            "duration": "Apr 2019 Jun 2022 3 years 3 months",
+            "start_date": "Apr 2019",
+            "end_date": "Jun 2022",
+            "duration_short": "3 years 3 months",
+            "company": "Udayy",
+            "company_id": "udayy"
+        },
+        {
+            "title": "Co-Founder & CTO",
+            "location": "Gurugram, Haryana, India",
+            "description": "Kids edutainment app.Built scalable systems around content delivery, optimizations, recommendations, analytics etc.",
+            "description_html": "Kids edutainment app.Built scalable systems around content delivery, optimizations, recommendations, analytics etc. <!---->",
+            "duration": "Jan 2021 May 2022 1 year 5 months",
+            "start_date": "Jan 2021",
+            "end_date": "May 2022",
+            "duration_short": "1 year 5 months",
+            "company": "ZEZE",
+            "company_id": "gozeze"
+        },
+        {
+            "title": "Software Development Engineer - AI",
+            "location": "Bengaluru Area, India",
+            "description": "•\tConversing with customers over WhatsApp to onboard them, with a customizable Chatbot•\tRecommendation Engine pushing marketing click-rates from 3 to 9% for over 15M customers•\tPipeline to pass documents through a classification and enhancement system•\tMigrated standalone microservices to dockerized services for 100% uptime•\tKickstarted migration of tech-infrastructure to a service-mesh to be scale ready",
+            "description_html": "• Conversing with customers over WhatsApp to onboard them, with a customizable Chatbot• Recommendation Engine pushing marketing click-rates from 3 to 9% for over 15M customers• Pipeline to pass documents through a classification and enhancement system• Migrated standalone microservices to dockerized services for 100% uptime• Kickstarted migration of tech-infrastructure to a service-mesh to be scale ready <!---->",
+            "duration": "2018 2019 1 year",
+            "start_date": "2018",
+            "end_date": "2019",
+            "duration_short": "1 year",
+            "company": "ZestMoney",
+            "company_id": "zestmoney"
+        },
+        {
+            "title": "Co-Founder",
+            "location": "Bengaluru Area, India",
+            "description": "PhotographAI is a one-stop technology platform for ready-to-use machine learning solutions for your business use. Be it an image classification task, text analytics solution, or video analytics technology, PhotographAI is the answer. Our ready-to-use APIs help our customers to focus on their business need rather than worrying about development, deployment, and maintenance of these machine learning solutions. •\tIntelligent OCR to extract client information from an ID card•\tExtracting human filled information from a handheld image of a form and digitizing it•\tImage classification models for across various ID cards, apparels and genres•\tFace detection and recognition with a single facial image of a user•\tText classification over various genres using Fast-AI•\tSuper-fast inference server capable of handling over 500 images per second on a single GPU",
+            "description_html": "PhotographAI is a one-stop technology platform for ready-to-use machine learning solutions for your business use. Be it an image classification task, text analytics solution, or video analytics technology, PhotographAI is the answer. Our ready-to-use APIs help our customers to focus on their business need rather than worrying about development, deployment, and maintenance of these machine learning solutions. • Intelligent OCR to extract client information from an ID card• Extracting human filled information from a handheld image of a form and digitizing it• Image classification models for across various ID cards, apparels and genres• Face detection and recognition with a single facial image of a user• Text classification over various genres using Fast-AI• Super-fast inference server capable of handling over 500 images per second on a single GPU",
+            "duration": "2018 2018 less than a year",
+            "start_date": "2018",
+            "end_date": "2018",
+            "duration_short": "less than a year",
+            "company": "PhotographAI (Acquired By Zestmoney)",
+            "company_id": "photographai"
+        },
+        {
+            "title": "Software Development Engineer - Product & Data",
+            "location": "Gurgaon, India",
+            "description": "•\tIntent Engine to identify customer intentions, ultimately decides the custom flow and surge•\tScalable Centralized Lead Management System for the provider ecosystem•\tRe-architect the backend flows to an event-based asynchronous system•\tOptimized on infrastructure costs by migrating standalone systems to Amazon Spot Instances•\tDeveloped various product-flows such as WhatsApp Business integration, References system",
+            "description_html": "• Intent Engine to identify customer intentions, ultimately decides the custom flow and surge• Scalable Centralized Lead Management System for the provider ecosystem• Re-architect the backend flows to an event-based asynchronous system• Optimized on infrastructure costs by migrating standalone systems to Amazon Spot Instances• Developed various product-flows such as WhatsApp Business integration, References system <!---->",
+            "duration": "2017 2018 1 year",
+            "start_date": "2017",
+            "end_date": "2018",
+            "duration_short": "1 year",
+            "company": "Urban Company",
+            "company_id": "urbancompany"
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "name": "Gurjap Singh",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "name": "Akshay Asawa",
+            "about": null,
+            "location": "Pune"
+        },
+        {
+            "name": "Abhishek Kabra",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Ashutosh Singla",
+            "about": "CTO, Co founder - Bik, Manifest AI",
+            "location": "United States"
+        },
+        {
+            "name": "Harshit Sharma",
+            "about": null,
+            "location": "Bangalore Urban district"
+        },
+        {
+            "name": "Gaurav Batra",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "name": "Swatantra Kumar",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "name": "Aarif Qureshi",
+            "about": null,
+            "location": "Ahmedabad"
+        },
+        {
+            "name": "Yasir Nazar",
+            "about": "Co-Founder at Techno Companion",
+            "location": "New Delhi"
+        },
+        {
+            "name": "Nisaar Agharia",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Abhishek Roy",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Shreeya Kokate",
+            "about": null,
+            "location": "New York City Metropolitan Area"
+        },
+        {
+            "name": "Aman Raj",
+            "about": "Java | Kotlin | Spring Boot | MicroServices | NLP | Co-Founder at Prescient Automation | AWS | RASA | Flutter",
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Anurag Meena",
+            "about": null,
+            "location": "Mumbai"
+        },
+        {
+            "name": "Naisheel Verdhan",
+            "about": null,
+            "location": "Gurgaon"
+        },
+        {
+            "name": "Pratyush Singh",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Sagar Jain",
+            "about": null,
+            "location": "Hyderabad"
+        },
+        {
+            "name": "Arunangshu Bhakta",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "name": "Chirag Gupta",
+            "about": "Co-Founder at Cuztomise, Enterprise Mobility, Sales Force Automation",
+            "location": "Indore"
+        },
+        {
+            "name": "Saketh BSV",
+            "about": null,
+            "location": "Bengaluru"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Delhi",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Delhi",
+            "degree": "Bachelor’s Degree",
+            "field": "Electrical Engineering",
+            "description": null,
+            "description_html": null
+        },
+        {
+            "title": "Aligarh Muslim University",
+            "degree": "Senior Secondary School Certificate",
+            "field": "PCM",
+            "description": "Awarded Merit scholarship from 2011-13 for exceptional performance.",
+            "description_html": "Awarded Merit scholarship from 2011-13 for exceptional performance. <!---->"
+        },
+        {
+            "title": "Aligarh Muslim University",
+            "degree": "Secondary School Certificate",
+            "field": "High School",
+            "description": null,
+            "description_html": null
+        },
+        {
+            "title": "Blue Bird Senior Secondary School, Aligarh",
+            "degree": "Primary Education",
+            "description": null,
+            "description_html": null
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Analog Electronics\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Computer Communications\"},{\"subtitle\":\"-\",\"title\":\"Data Structures and Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Digital Electronics\"},{\"subtitle\":\"-\",\"title\":\"Digital Signal Processing\"},{\"subtitle\":\"-\",\"title\":\"Discrete Mathematics\"},{\"subtitle\":\"-\",\"title\":\"Econometrics\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"-\",\"title\":\"Optimization Methods\"},{\"subtitle\":\"-\",\"title\":\"Probability and Stochastic Process\"},{\"subtitle\":\"-\",\"title\":\"Signal And Systems\"}]",
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Science and Technology",
+            "duration": "2014 - 2014 · less than a year",
+            "duration_short": "less than a year",
+            "end_date": "2014",
+            "info": "As a part of IIT-Delhi National Service Scheme, I developed few computer games for the visually impaired students which allows them to strengthen their cognitive skill and is fun at the same time.•\tRebuilt 2048 with audio guidance to be compatible for these students•\tUsed 3D sound technology in another game to improve their hearing skills",
+            "start_date": "2014",
+            "subtitle": "National Service Scheme",
+            "title": "Game Developer For Visually Impaired"
+        }
+    ],
+    "followers": 4393.0,
+    "connections": 500.0,
+    "current_company_company_id": "probomedia",
+    "current_company_name": "Probo",
+    "publications": "[{\"title\":\"Low cost controller platform\",\"subtitle\":\"Int'l Journal of Engineering Research & General Sciences\",\"date\":\"2016\"}]",
+    "patents": "[{\"title\":\"Generation of digital document from analog document\",\"date_issued\":\"April 10, 2019\",\"patents_id\":\"IN TEMP/E-1/15324/2019-CHE\"}]",
+    "projects": "[{\"title\":\"Event detection and its severity in power systems\",\"start_date\":\"Jul 2016\",\"end_date\":\"Dec 2016\",\"description\":\"•Used adaptive mixture of Gaussians to model the real-time PMU signals•Real time event detection and its severity analysis using factored PCA•Devised execution of optimal strategies in case of contingencies\"},{\"title\":\"Artificial Intelligence Projects\",\"start_date\":\"Jul 2016\",\"end_date\":\"Nov 2016\",\"description\":\"•Trained an AI Bot with in-game heuristics to compete in a TAK tournament•Implemented a classic SAT solver using DPLL algorithms•Designed large elevator control system by solving MDPs along with reinforcement learning and Monte Carlo simulations\"},{\"title\":\"Machine Learning Projects\",\"start_date\":\"Jan 2016\",\"end_date\":\"Apr 2016\",\"description\":\"•Real time Background Subtraction from video using Stauffer and Grimson method•Handwritten characters using logistic regression and artificial neural networks•Faces identification under varying illumination using Eigen and Fischer faces\"}]",
+    "organizations": null,
+    "location": "Gurgaon",
+    "linkedin_id": "karan-varshney",
+    "activity": [
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "These images got me over 11 million views! 🤯 I created 20 images reimagining the legendary South Indian actor Brahmanandam, and they collectively…",
+            "id": "7277209781092696065"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "Had the honor of meeting the Honorable Prime Minister of India today! 🇮🇳 It was an inspiring discussion on startups, innovation, and transformative…",
+            "id": "7272614963070791681"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "This can be your next career move Infoglen We are currently seeking full-time professionals for the following role: Role: Marketing Manger…",
+            "id": "7261650585873965056"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "After a long silence on the platform, I have a big life update to share. I am thrilled to join hands with BlueStone taking up the responsibility of…",
+            "id": "7255531692797407232"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "Going back to my alma mater after 10 long years. Loved interacting with budding entrepreneurs at NSUT. Also visited IIT Delhi. Great questions. Great…",
+            "id": "10"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "Nice evolution — earlier we had people hiring Goonda's against startups for deficiency in service or refunds. Like for Byjus etc Now we have…",
+            "id": "7254414890017173505"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "The hardest thing for Founders is to get good adopters But spotting them should generally be not that hard because all early to good adopters have…",
+            "id": "7254695575374176256"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "This is one of the best shareholder letters I've ever read Amazon stock crashed 80% in 2000. The Tech Bubble was bursting. Many analysts…",
+            "id": "7250215151512018944"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "Hello everyone, I hope you all are doing great!! I'm thrilled to announce the beginning of my Software Development Internship at Probo! It's an…",
+            "id": "7216824642865385472"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "When interviewing a DevOps candidate, I generally focus on one key aspect of their journey: their observance during tasks like installation…",
+            "id": "7216811236783505412"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "We are hiring experienced backend engineers for high growth projects at Probo. You will be working directly with Aditya Chowdhry Anurag Dhandhi…",
+            "id": "7211714046012575744"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "***Update: We will be filtering from the ones who have applied. Position can be considered as closed now**** I'm hiring for the following positions…",
+            "id": "7206879414914023427"
+        },
+        {
+            "interaction": "Liked by Karan Varshney",
+            "title": "Stanford you never fail to inspire me. Reunited after 5 long years!",
+            "id": "7194050390517075968"
+        }
+    ],
+    "linkedin_num_id": 458595502.0,
+    "honors_and_awards": [
+        {
+            "title": "Summer Undergraduate Research Award (SURA) 2016",
+            "publication": "IIT Delhi",
+            "date": "2016-07-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

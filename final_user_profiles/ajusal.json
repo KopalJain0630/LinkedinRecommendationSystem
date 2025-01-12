@@ -1,0 +1,37 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Management, Bangalore",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2013",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2007",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Altitude Trading",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Olympiads",
+            "publication": "-",
+            "date": null,
+            "description": "▪ Silver Medalist in National Mathematics Olympiad, All India 2nd rank, 2005 ▪ Top 0.2% in Global Mathematics Talent Search, International rank 249, 2004"
+        }
+    ]
+}

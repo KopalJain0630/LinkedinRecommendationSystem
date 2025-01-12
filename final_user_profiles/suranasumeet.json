@@ -1,0 +1,44 @@
+{
+    "city": "Dubai, United Arab Emirates",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "INSEAD",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2007",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Cypher Capital Group",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "KC Mahindra Post Graduate Scholarship",
+            "publication": "KC Mahindra",
+            "date": "2018-08-01T00:00:00.000Z",
+            "description": "Recipient of K.C. Mahindra Post-Graduation Scholarship among 1,000+ applicants in India"
+        },
+        {
+            "title": "Robin Hood Scholarship",
+            "publication": "INSEAD Alumni Fund",
+            "date": "2018-08-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

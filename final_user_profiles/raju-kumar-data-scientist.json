@@ -1,0 +1,40 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Associate Data Scientist @ Digit insurance || FarEye || IIT Kharagpur",
+    "experience": [
+        {
+            "title": "Associate Data Scientist",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "* Developed ML model for motor policy renewal prediction . EDA , feature engineering, hyper parameter tuning and researched on the feature affecting in policy renewal . * Created statistical method to auto assignment of TP claim to the investigator.* Flood risk analysis based on daily , weekly and monthly rainfall data from IMD . Used GeoPandas technology for better geographical analysis . * Worked on Loss making segment analysis of Private vehicle policy based on demographic and geographic feature .* Working on Epidemic analysis on village level  weekly disease outbreak data available on govt. sources as pdf . Used various tools to extract data from pdf like Azure form recognizer , pypdf , camelot , etc . Used google API to fetch latitude and longitude from address of epidemic . Used GeoPandas for better visual analysis . * Worked on motor claim fraud analysis using Neo4j technology and rule based analysis which is common insurance fraud claim . * Worked on server outage prediction by CPU and memory usage forecasting with 5 minute interval  . Used various time series model AR model , ARIMA , SARIMAX ,Random walk , FbProphet , LSTM and ARIMA-ANN . hybrid model .",
+            "description_html": "* Developed ML model for motor policy renewal prediction . EDA , feature engineering, hyper parameter tuning and researched on the feature affecting in policy renewal . * Created statistical method to auto assignment of TP claim to the investigator.* Flood risk analysis based on daily , weekly and monthly rainfall data from IMD . Used GeoPandas technology for better geographical analysis . * Worked on Loss making segment analysis of Private vehicle policy based on demographic and geographic feature .* Working on Epidemic analysis on village level weekly disease outbreak data available on govt. sources as pdf . Used various tools to extract data from pdf like Azure form recognizer , pypdf , camelot , etc . Used google API to fetch latitude and longitude from address of epidemic . Used GeoPandas for better visual analysis . * Worked on motor claim fraud analysis using Neo4j technology and rule based analysis which is common insurance fraud claim . * Worked on server outage prediction by CPU and memory usage forecasting with 5 minute interval . Used various time series model AR model , ARIMA , SARIMAX ,Random walk , FbProphet , LSTM and ARIMA-ANN . hybrid model .",
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Digit Insurance",
+            "company_id": "godigit",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master of Science - MS",
+            "field": "Mathematics and Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Digit Insurance",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

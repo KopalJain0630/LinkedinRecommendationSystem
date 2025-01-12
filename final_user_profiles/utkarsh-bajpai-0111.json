@@ -1,0 +1,356 @@
+{
+    "id": "utkarsh-bajpai-0111",
+    "name": "Utkarsh Bajpai",
+    "city": "Dubai, United Arab Emirates",
+    "country_code": "AE",
+    "position": "Senior Associate at Strategy& | INSEAD MBA | IIT Kharagpur",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Strategy&",
+        "company_id": "strategyand",
+        "title": "Senior Associate at Strategy& | INSEAD MBA | IIT Kharagpur"
+    },
+    "experience": [
+        {
+            "title": "Senior Associate",
+            "location": "Dubai, United Arab Emirates",
+            "description_html": null,
+            "duration": "Aug 2022 - Present 2 years 5 months",
+            "start_date": "Aug 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 5 months",
+            "company": "Strategy&",
+            "company_id": "strategyand",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Software Engineer \u00e2\u20ac\u201c Order Fulfilment (Order Processing Team)",
+            "location": "Singapore",
+            "description": "Responsibility:\u00e2\u20ac\u00a2\tSpearheaded the ideation, development, and management of Shopee's Order processing services, coordinating with various teams such as Product Managers, UI/UX Designers, Testing, and Engineers\u00e2\u20ac\u00a2\tProvided mentorship to teammates while championing continuous innovation to enhance the efficiency and reliability of servicesAchievements:\u00e2\u20ac\u00a2\tSuccessfully architected and rolled out a high-performance tech platform consisting of 11 services for seamless order fulfillment, handling up to 100k queries per second\u00e2\u20ac\u00a2\tDesigned an automated platform for lost orders processing based on user feedback, which slashed processing time by 90% and saved 500K USD annually by deterring fraudulent claims\u00e2\u20ac\u00a2\tRedesigned the technical architecture of processing services tailored to local needs in four countries, leading to an 85% boost in efficiency",
+            "description_html": "Responsibility:\u00e2\u20ac\u00a2 Spearheaded the ideation, development, and management of Shopee's Order processing services, coordinating with various teams such as Product Managers, UI/UX Designers, Testing, and Engineers\u00e2\u20ac\u00a2 Provided mentorship to teammates while championing continuous innovation to enhance the efficiency and reliability of servicesAchievements:\u00e2\u20ac\u00a2 Successfully architected and rolled out a high-performance tech platform consisting of 11 services for seamless order fulfillment, handling up to 100k queries per second\u00e2\u20ac\u00a2 Designed an automated platform for lost orders processing based on user feedback, which slashed processing time by 90% and saved 500K USD annually by deterring fraudulent claims\u00e2\u20ac\u00a2 Redesigned the technical architecture of processing services tailored to local needs in four countries, leading to an 85% boost in efficiency",
+            "duration": "Jun 2020 Jul 2021 1 year 2 months",
+            "start_date": "Jun 2020",
+            "end_date": "Jul 2021",
+            "duration_short": "1 year 2 months",
+            "company": "Shopee",
+            "company_id": "shopee",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Software Engineer (Product Owner - Monitoring & Logging platform)",
+            "location": "Singapore",
+            "description": "Bronk Ventures is an early-stage High-Frequency trading startup, trading in cryptocurrencies across prominent exchanges worldwide such as Binance, Kraken, Deribit, Liquid, etc.Responsibility:End to End ownership of Monitoring & Logging platformImproving trading strategies through data analysis of daily trading dataDeveloping the trading platform and implementing services to support and monitor itAdditional Opportunities:Designing and executing the hiring processHands-on product management by the end-to-end development of the monitoring platform from conceptualization to development & rolloutAchievements:1. Improved quarterly revenue by enhancing trading strategies through analyzing trading data, identifying the most profitable and loss-making moves, instruments, and exchanges2. Designed and led the hiring process by designing assignments, executing interviews, and improving the  process by interviewee feedback3. Decreased daily log analysis time by 95 percent from 4 hours to 10 minutes by redesigning logging platform4. Averted heavy losses in more than 90 % of dangerous incidents by building monitoring and alerting systems to avert dangerous scenarios by shutting down trading automatically",
+            "description_html": "Bronk Ventures is an early-stage High-Frequency trading startup, trading in cryptocurrencies across prominent exchanges worldwide such as Binance, Kraken, Deribit, Liquid, etc.Responsibility:End to End ownership of Monitoring &amp; Logging platformImproving trading strategies through data analysis of daily trading dataDeveloping the trading platform and implementing services to support and monitor itAdditional Opportunities:Designing and executing the hiring processHands-on product management by the end-to-end development of the monitoring platform from conceptualization to development &amp; rolloutAchievements:1. Improved quarterly revenue by enhancing trading strategies through analyzing trading data, identifying the most profitable and loss-making moves, instruments, and exchanges2. Designed and led the hiring process by designing assignments, executing interviews, and improving the process by interviewee feedback3. Decreased daily log analysis time by 95 percent from 4 hours to 10 minutes by redesigning logging platform4. Averted heavy losses in more than 90 % of dangerous incidents by building monitoring and alerting systems to avert dangerous scenarios by shutting down trading automatically",
+            "duration": "Jan 2019 Jun 2020 1 year 6 months",
+            "start_date": "Jan 2019",
+            "end_date": "Jun 2020",
+            "duration_short": "1 year 6 months",
+            "company": "Bronk Ventures Pte. Ltd",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Software Engineer",
+            "location": "Bangalore",
+            "description_html": null,
+            "duration": "Apr 2018 Dec 2018 9 months",
+            "start_date": "Apr 2018",
+            "end_date": "Dec 2018",
+            "duration_short": "9 months",
+            "company": "Samsung R&D Institute, Bangalore",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jun 2016 Mar 2018 1 year 10 months",
+            "start_date": "Jun 2016",
+            "end_date": "Mar 2018",
+            "duration_short": "1 year 10 months",
+            "company": "Samsung R&D Institute , Bangalore",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Trainee",
+            "location": "Bangalore, India",
+            "description_html": null,
+            "duration": "May 2015 Jul 2015 3 months",
+            "start_date": "May 2015",
+            "end_date": "Jul 2015",
+            "duration_short": "3 months",
+            "company": "Samsung R&D Institute , Bangalore",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Student Research Assistant",
+            "location": "Karlsruhe Area, Germany",
+            "description": "Role : ResearcherPerformance Studies on NoSQL Database MongoDB 1. Studied the impact of various types and combination of Indexes and queries on read performance of a MongoDB instance containing several terabytes of data.2. Ideated and implemented special indexes in the test database containing several terabytes of data3. Decreased the querying time on the database by 36% by using compound Indexes; implemented changes in the actual database",
+            "description_html": "Role : ResearcherPerformance Studies on NoSQL Database MongoDB 1. Studied the impact of various types and combination of Indexes and queries on read performance of a MongoDB instance containing several terabytes of data.2. Ideated and implemented special indexes in the test database containing several terabytes of data3. Decreased the querying time on the database by 36% by using compound Indexes; implemented changes in the actual database <!---->",
+            "duration": "May 2014 Jul 2014 3 months",
+            "start_date": "May 2014",
+            "end_date": "Jul 2014",
+            "duration_short": "3 months",
+            "company": "Karlsruhe Institute of Technology (KIT) / University of Karlsruhe (TH)",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Pin-Hung Lin",
+            "about": "Tech Lead at Shopee | SG PR",
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Thang Le",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Rajesh Gupta",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Dean Alvin Moncada",
+            "about": null,
+            "location": "Japan"
+        },
+        {
+            "profile_link": "",
+            "name": "Amrut Prabhu",
+            "about": null,
+            "location": "Canada"
+        },
+        {
+            "profile_link": "",
+            "name": "Baichuan Yang",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Lechuan Lu",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Wu Zhu",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Ritu Raj",
+            "about": null,
+            "location": "Singapore"
+        },
+        {
+            "profile_link": "",
+            "name": "Phan Nguy\u00c3\u00aan",
+            "about": null,
+            "location": "Singapore"
+        }
+    ],
+    "educations_details": "INSEAD",
+    "education": [
+        {
+            "title": "INSEAD",
+            "degree": "Master of Business Administration - MBA",
+            "url": "",
+            "start_year": "2021",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Master's degree",
+            "field": "Mathematics and Computer Science",
+            "url": "",
+            "start_year": "2011",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " Spanish "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Credential ID f8dbe4715cc8355bbd47dfdfc821f5c9dd3e84df",
+            "subtitle": "DataCamp",
+            "title": "Cleaning data in R"
+        },
+        {
+            "meta": "Credential ID 8b63f680b2942fa68a31090c8e5562fa1db09f43",
+            "subtitle": "DataCamp",
+            "title": "Kaggle R Tutorial on Machine Learning"
+        },
+        {
+            "meta": "Credential ID cbf8db1374c8657a8445716c5bf477db863fd146",
+            "subtitle": "DataCamp",
+            "title": "Machine Learning Toolbox in R"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 2211.0,
+    "connections": 500.0,
+    "current_company_company_id": "strategyand",
+    "current_company_name": "Strategy&",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Inter Hall Data Analytics - Predicting instant liking of a deodoran",
+            "start_date": "Apr 2016",
+            "description": "1. Given survey data of liking of 5 deodorant we cleaned, transformed and prepared dataset containing 7500 observations and 190 categorical variables2. Applied Forward selection, backward elimination and random forest feature selection to create 57 important aggregated variables from the given 190 variables3. Used Multiple correspondence analysis to remove redundant variables from the system4. Developed a regression model by applying simple and bayesian logistic regression, obtained a logloss score of 0.55. Outlined most important factors responsible for the instant liking of the deodorant"
+        },
+        {},
+        {},
+        {},
+        {
+            "title": "Open IIT Data Analytics - Predicting out of stock situation and Buffer stock calculation algorithm development",
+            "start_date": "Sep 2015",
+            "description": "\u00e2\u20ac\u00a2 Analysed and cleaned given sales data of 53 products across 7 sections for retail stores in 3 different cities for a period of 2 years \u00e2\u20ac\u00a2 Ideated and implemented an alert based system to identify out-of-stock situation; includes both supply chain and shelf out-of-stock situations \u00e2\u20ac\u00a2 Developed an algorithm to calculate the buffer stock for fast moving, average moving and slow moving goods & achieving an accuracy of 87%"
+        },
+        {},
+        {
+            "title": "M.Sc. Project - Time Series momentum trading strategy - Algorithmic Trading",
+            "start_date": "Jul 2015",
+            "end_date": "Present",
+            "description": "1. Analysed the autocorrelation amplification of Moving Average Trading rule and its mathematical model on detrended price process time series. Empirically found out that MA rule amplifies the autocorrelation in the underlying process and higher the amplification, more profitable the rule is.2. Strategized and calculated the MA rule parameters for distinct levels of autocorrelation using Ljung-box statistic for optimum profitability. Simulated an AR(1) series as price process and applied MA bear rule (MA(l,s)) by varying both autocorrelation and the 's' parameter to calculate optimal parameter for high amplification, measured using LB statistic3. Applied Moving average rule to 11 years data of S&P 500 Index providing empirical evidence of autocorrelation amplification"
+        },
+        {
+            "title": "Opinion mining of online reviews submitted by consumers and its effect on the historical product sales",
+            "start_date": "Sep 2013",
+            "description": "\u00e2\u20ac\u00a2 Used Scrapy (python) for crawling and NLTK library for generating readability index values\u00e2\u20ac\u00a2 Developed a regression model (using statsmodel , numpy ,pandas) to show correlation of Online reviews with Seller\u00e2\u20ac\u2122s rank\u00e2\u20ac\u00a2 Improved the model by removing outliers ,multicollinearity and increased R-Sq value from 0.42 to 0.71"
+        },
+        {},
+        {
+            "title": "Growth and Resilience of Complex Networks",
+            "start_date": "Aug 2013",
+            "description": "\u00e2\u20ac\u00a2 Implemented two network generative models - Price Model and Barabasi-Albert Model.\u00e2\u20ac\u00a2 Studied network stability with respect to crashes, random and targeted removal of nodes, using percolation theory\u00e2\u20ac\u00a2 Studied the effect of correlation in complex network under attack."
+        },
+        {},
+        {
+            "title": "Akash Android Development",
+            "start_date": "Jun 2013",
+            "description": "\u00e2\u20ac\u00a2 Developed an Android Application to demonstrate Science experiments to targeted students of India with low resources of experimentation and learning.\u00e2\u20ac\u00a2 The application will be used on the upcoming Aakash Tab 3 for students."
+        },
+        {}
+    ],
+    "organizations": null,
+    "location": "Dubai",
+    "linkedin_id": "utkarsh-bajpai-0111",
+    "activity": [
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "Note to self: please return calls .. lol #SwiggyIPO",
+            "img": "",
+            "id": "7262680429726511104"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "After two fantastic years at Strategy& Middle East, I'm excited to announce that I've joined AstroLabs in Dubai as Chief of Staff, Business Growth.",
+            "img": "",
+            "id": "7257034078573477889"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "Business Resilience takes on a whole new personal meaning in times of war. I am in awe of my Lebanon-based colleagues at Strategy& Middle East, and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7246587874354094080"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "\u00f0\u0178\u017d\u2030 5 years at Ford Motor Company! \u00f0\u0178\u017d\u2030 From data wrangling to solving some pretty cool challenges, my time as a Data Scientist has been a wild\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7242754708858134529"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "Regional tech champions must embrace the right strategy to sharpen their investments and secure a lasting competitive edge in the evolving GenAI\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7239902066117115904"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "I'm thrilled to share that I've been promoted to Engineering Manager at Purplle.com! Excited to lead an incredible team, drive innovation, and\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7231946101988225024"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "Very excited to have been selected to feature in the Behavioral Economics Guide 2024 \u00e2\u20ac\u201c a leading global publication which since 2014 has become the\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7236974670590164992"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "ELEVEN YEARS ago today, the Intugine journey began, first as WaveMAC (though we had to drop the name \"MAC\" due to naming conflicts \u00f0\u0178\u02dc\u2026). We started\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7236788660497436672"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "Thrilled to have been selected to feature in the Behavioral Economics Guide 2024 \u00e2\u20ac\u201c a leading global publication which since 2014 has become the go-to\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7236800370465767424"
+        },
+        {
+            "interaction": "Liked by Utkarsh Bajpai",
+            "link": "",
+            "title": "Appreciation post for Jad Ghoussaini - who always brought the energy, laughs, and good vibes to the office \u00e2\u20ac\u201c making work feel a little less like..\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7236400617420709888"
+        }
+    ],
+    "linkedin_num_id": 178051059.0,
+    "honors_and_awards": [
+        {
+            "title": "Gold , Interhall DataAnalytics Competetion , IIT Kharagpur",
+            "publication": "-",
+            "date": "2016-04-01T00:00:00.000Z",
+            "description": null
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2017-07",
+            "end_year": "2021-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2015-06",
+            "end_year": "2017-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"CS40003\",\"title\":\"Data Analytics\"},{\"subtitle\":\"HS20001\",\"title\":\"Economics\"},{\"subtitle\":\"IM21001\",\"title\":\"Engineering Economy, Costing & Accounting\"},{\"subtitle\":\"IM60059\",\"title\":\"Financial Engineering\"},{\"subtitle\":\"IM60068\",\"title\":\"Game Theory & Applications\"},{\"subtitle\":\"IM22001\",\"title\":\"Information Systems Lab\"},{\"subtitle\":\"BM40002\",\"title\":\"Introduction to Financial Markets\"},{\"subtitle\":\"MA20105\",\"title\":\"Linear Algebra\"},{\"subtitle\":\"AI61003\",\"title\":\"Linear Algebra for AI & ML\"},{\"subtitle\":\"IM21003\",\"title\":\"Operations Research 1\"},{\"subtitle\":\"IM21006\",\"title\":\"Operations Research 2\"},{\"subtitle\":\"IM29006\",\"title\":\"Operations Research Lab\"},{\"subtitle\":\"IM31012\",\"title\":\"Optimisation & Heuristic Methods\"},{\"subtitle\":\"IM39003\",\"title\":\"Optimisation & Heuristic Methods Project\"},{\"subtitle\":\"MA20104\",\"title\":\"Probability & Statistics\"},{\"subtitle\":\"IM41001\",\"title\":\"Product Development\"},{\"subtitle\":\"IM49001\",\"title\":\"Product Development Project\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming & Data Structures\"},{\"subtitle\":\"CS19101\",\"title\":\"Programming & Data Structures Lab\"},{\"subtitle\":\"CE31501\",\"title\":\"Soft Computing Tools in Engineering\"},{\"subtitle\":\"MA60067\",\"title\":\"Stochastic Process & Simulation\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        }
+    ],
+    "current_company_name": "Uni Cards",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"User Rating Prediction based on Review Texts\",\"start_date\":\"Aug 2020\",\"end_date\":\"Nov 2020\",\"description\":\"• Web-scrapped around 3.6 lakhs hotel reviews from TripAdvisor website using Selenium & BeautifulSoup python libraries.• Pre-processed the dataset by removing stop words, punctuations & lemmatizing and converted my text into vectors using the TF-IDF method.• Classified user ratings based on reviews using the KNN method and Naïve Bayes Classifiers & was able to achieve a max accuracy of 80.14%.\"},{\"title\":\"Chi-square Analysis to examine correlation between two attributes\",\"start_date\":\"Nov 2019\",\"end_date\":\"Dec 2019\",\"description\":\"• Examined the correlation using chi-square analysis & tested the hypothesis 'Action games are highly rated among teens'• Developed a python code for calculating Pearson's chi-squared correlation coefficient without using any specified libraries.• Performed the hypothesis testing using a 95% confidence level and found that the given variables were highly correlated.\"},{\"title\":\"Face Recognition based attendance marking system\",\"start_date\":\"Jan 2019\",\"end_date\":\"Apr 2019\",\"description\":\"• Built face recognition software that facilitates the online completion of attendance of a class by just one capture of the class.• Used images captured by smartphones to train the model which were further augmented into multiple images for identification.• Applied Convolutional Neural Network model for identifying faces of the students present in the photograph to mark their attendance.\"}]",
+    "honors_and_awards": null
+}

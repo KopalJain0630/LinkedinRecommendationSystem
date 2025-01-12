@@ -1,0 +1,445 @@
+{
+    "id": "rhitvik-sinha",
+    "name": "Rhitvik Sinha",
+    "city": "San Francisco Bay Area",
+    "country_code": "US",
+    "position": "ML @ Axiado | CS @ Courant, NYU | EE @ IIT-KGP",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Axiado Corporation",
+        "company_id": "axiado-corporation",
+        "title": "ML @ Axiado | CS @ Courant, NYU | EE @ IIT-KGP"
+    },
+    "experience": [
+        {
+            "title": "Machine Learning",
+            "location": "San Jose, California, United States",
+            "description": "Part of the research team, building ML-driven solutions for Cybersecurity.",
+            "description_html": "Part of the research team, building ML-driven solutions for Cybersecurity. <!---->",
+            "duration": "Jul 2024 Nov 2024 5 months",
+            "start_date": "Jul 2024",
+            "end_date": "Nov 2024",
+            "duration_short": "5 months",
+            "company": "Axiado Corporation",
+            "company_id": "axiado-corporation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Graduate Employee Adjunct",
+            "location": "New York, New York, United States",
+            "description": "• Lead recitations for 4 sections of MATH-UA.121: Calculus 1. Hold office hours, proctor midterms & finals.• Help students understand and practice the material taught during lecture.• Communicate and coordinate with instructor to prepare and grade materials such as quizzes, midterms and finals.",
+            "description_html": "• Lead recitations for 4 sections of MATH-UA.121: Calculus 1. Hold office hours, proctor midterms &amp; finals.• Help students understand and practice the material taught during lecture.• Communicate and coordinate with instructor to prepare and grade materials such as quizzes, midterms and finals. <!---->",
+            "duration": "Sep 2023 Jan 2024 5 months",
+            "start_date": "Sep 2023",
+            "end_date": "Jan 2024",
+            "duration_short": "5 months",
+            "company": "NYU Courant Institute of Mathematical Sciences",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Systems and Applications Engineer",
+            "location": "Richardson, Texas, United States",
+            "description": "• Directly assisted the team of Co-Founders in the development, optimization & release of an experimental Domain Specific Language with applications in the setup of private wireless networks.• Used Python’s multiprocessing tool to enable parallel execution of a Z3-based Constraint Solver resulting in a logarithmic speedup as the number of CPU cores is increased.• Developed a Flask-hosted Automatic Speech Recognition (ASR) tool using OpenAI’s Whisper API & TorchAudio to transcribe audio files, as a sample web-app deployed on this experimental network to demonstrate its feasibility.",
+            "description_html": "• Directly assisted the team of Co-Founders in the development, optimization &amp; release of an experimental Domain Specific Language with applications in the setup of private wireless networks.• Used Python’s multiprocessing tool to enable parallel execution of a Z3-based Constraint Solver resulting in a logarithmic speedup as the number of CPU cores is increased.• Developed a Flask-hosted Automatic Speech Recognition (ASR) tool using OpenAI’s Whisper API &amp; TorchAudio to transcribe audio files, as a sample web-app deployed on this experimental network to demonstrate its feasibility.",
+            "duration": "May 2023 Aug 2023 4 months",
+            "start_date": "May 2023",
+            "end_date": "Aug 2023",
+            "duration_short": "4 months",
+            "company": "Cirrus360",
+            "company_id": "cirrus360",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Undergraduate Researcher",
+            "description": "• Performed literature review, with specific focus on Capsule Neural Networks and Analog Weather Forecasting.• Used surface temperature (T2m) and geopotential height at 500 mbar (Z500) (from the NCAR CESM-LENS datatset) to make analogous predictions of the onset of heat/cold waves over North America, 1-5 days ahead.• Observed that CapsNets outperformed CNNs and logistic regression; confirmed trends observed in the paper ‘Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning’ (2020, Chattopadhyay et al.)",
+            "description_html": "• Performed literature review, with specific focus on Capsule Neural Networks and Analog Weather Forecasting.• Used surface temperature (T2m) and geopotential height at 500 mbar (Z500) (from the NCAR CESM-LENS datatset) to make analogous predictions of the onset of heat/cold waves over North America, 1-5 days ahead.• Observed that CapsNets outperformed CNNs and logistic regression; confirmed trends observed in the paper ‘Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning’ (2020, Chattopadhyay et al.)",
+            "duration": "Jan 2021 Nov 2021 11 months",
+            "start_date": "Jan 2021",
+            "end_date": "Nov 2021",
+            "duration_short": "11 months",
+            "company": "Centre for Artificial Intelligence, IIT Kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Transformational AI Intern",
+            "location": "New Delhi, Delhi, India",
+            "description": "• Worked directly under the supervision of Mrs. Kavita Bhatia (Senior Director, MeITy), on Transformational AI projects in the Health Sector, as part of Ministry's Digital India Internship Scheme (2021).• Landscaped and reviewed the ecosystem and policies operating at the intersection of AI and healthcare in India.",
+            "description_html": "• Worked directly under the supervision of Mrs. Kavita Bhatia (Senior Director, MeITy), on Transformational AI projects in the Health Sector, as part of Ministry's Digital India Internship Scheme (2021).• Landscaped and reviewed the ecosystem and policies operating at the intersection of AI and healthcare in India. <!---->",
+            "duration": "Aug 2021 Oct 2021 3 months",
+            "start_date": "Aug 2021",
+            "end_date": "Oct 2021",
+            "duration_short": "3 months",
+            "company": "Digital India Programme",
+            "company_id": "digital-india",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Deep Learning Researcher",
+            "description": "• Applied pre-trained Deep Learning models for the Human Pose Estimation (HPE) task. Used extracted Pose Information to suggest improvements in a Cricket (Sport) Learner's technique, preventing inefficiency and injuries.• Fine-tuned Torchvision's KeypointRCNN class for best accuracy in the HPE task.• Outputs from KeypointRCNN used to generate sequential pose data from video clips.• Trained sequence models to detect potential errors in pose and technique from generated data.",
+            "description_html": "• Applied pre-trained Deep Learning models for the Human Pose Estimation (HPE) task. Used extracted Pose Information to suggest improvements in a Cricket (Sport) Learner's technique, preventing inefficiency and injuries.• Fine-tuned Torchvision's KeypointRCNN class for best accuracy in the HPE task.• Outputs from KeypointRCNN used to generate sequential pose data from video clips.• Trained sequence models to detect potential errors in pose and technique from generated data. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Kabuni",
+            "company_id": "getkabuni",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Autonomous Robotics & Artificial Intelligence Intern",
+            "description": "Assist with development, improvising, research in the areas, but not limited to the following: Object detection, segmentation and classification on LIDARs, cameras, and radars, Sensor fusion and tracking, Scene understanding and activity recognition, Localization, cloud integration among others.Work Product: Cloud Integration",
+            "description_html": "Assist with development, improvising, research in the areas, but not limited to the following: Object detection, segmentation and classification on LIDARs, cameras, and radars, Sensor fusion and tracking, Scene understanding and activity recognition, Localization, cloud integration among others.Work Product: Cloud Integration <!---->",
+            "duration": "Jun 2020 Aug 2020 3 months",
+            "start_date": "Jun 2020",
+            "end_date": "Aug 2020",
+            "duration_short": "3 months",
+            "company": "OttonomyIO",
+            "company_id": "ottonomyio",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Junior Member / Student Member",
+            "location": "Kharagpur, West Bengal, India",
+            "description": "ShARE’s Leadership programme of excellenceTeam: IIT-Kharagpur, India",
+            "description_html": "ShARE’s Leadership programme of excellenceTeam: IIT-Kharagpur, India <!---->",
+            "duration": "Sep 2019 Dec 2019 4 months",
+            "start_date": "Sep 2019",
+            "end_date": "Dec 2019",
+            "duration_short": "4 months",
+            "company": "ShARE - Growing a new generation of leaders",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Associate Member",
+            "location": "Kharagpur Area, India",
+            "description_html": null,
+            "duration": "Sep 2018 Jan 2019 5 months",
+            "start_date": "Sep 2018",
+            "end_date": "Jan 2019",
+            "duration_short": "5 months",
+            "company": "Spring Fest",
+            "company_id": "spring-fest",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Participant: National Science (VIJYOSHI) Camp - 2017",
+            "location": "Kolkata Area, India",
+            "description": "Vijyoshi is an annual national science camp in India organised by KVPY in collaboration with INSPIRE programme, IISc Bangalore and IISER-Kolkata. It is an abbreviation for \"Vigyan Jyoti Shivir\". It started in the year 2009 and is funded by the Department of Science and Technology (Government of India). The aim of Vijyoshi Camp is to provide a forum for interactions between bright young students and leading researchers in various branches of Science and Mathematics.",
+            "description_html": "Vijyoshi is an annual national science camp in India organised by KVPY in collaboration with INSPIRE programme, IISc Bangalore and IISER-Kolkata. It is an abbreviation for \"Vigyan Jyoti Shivir\". It started in the year 2009 and is funded by the Department of Science and Technology (Government of India). The aim of Vijyoshi Camp is to provide a forum for interactions between bright young students and leading researchers in various branches of Science and Mathematics. <!---->",
+            "duration": "Dec 2017 Dec 2017 1 month",
+            "start_date": "Dec 2017",
+            "end_date": "Dec 2017",
+            "duration_short": "1 month",
+            "company": "Indian Institute of Science Education & Research (IISER), Kolkata",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sharanya Mukherjee",
+            "about": "SWE at Microsoft",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Himani Madaan",
+            "about": "SWE @Google | IIT Bhilai ‘22",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "CHINJU MURALI",
+            "about": "Associate Data Scientist",
+            "location": "Palakkad"
+        },
+        {
+            "profile_link": "",
+            "name": "Nachiket Makwana",
+            "about": "ML Engineer",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Rahul Moorthy",
+            "about": null,
+            "location": "Minneapolis, MN"
+        },
+        {
+            "profile_link": "",
+            "name": "Ashish Kumar",
+            "about": null,
+            "location": "Saran"
+        },
+        {
+            "profile_link": "",
+            "name": "Sejal Mohata",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Anupama Patel",
+            "about": "Software Engineer II at JPMorgan Chase &Co.",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Pulkit Arora",
+            "about": "Data Engineer at DDW",
+            "location": "The Randstad, Netherlands"
+        },
+        {
+            "profile_link": "",
+            "name": "Kulin Shah",
+            "about": "Ph.D. student at UT Austin | Former Student Researcher @ Google Research | Former Research Fellow @ Microsoft Research",
+            "location": "Austin, TX"
+        },
+        {
+            "profile_link": "",
+            "name": "Vedant Sahai",
+            "about": null,
+            "location": "New York, NY"
+        },
+        {
+            "profile_link": "",
+            "name": "Abhinand Balachandran",
+            "about": "Machine Learning Engineer | Kaggle Master",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Hiten Sharma",
+            "about": "SDE at Juspay | Building Scalable Fintech Solutions | NIT Jalandhar Alumnus",
+            "location": "Bangalore Urban"
+        },
+        {
+            "profile_link": "",
+            "name": "Hasan Faraz Khan",
+            "about": "Software Engineer @Carret | Ex-GoodGameNation | Google SoC'21",
+            "location": "Aligarh"
+        },
+        {
+            "profile_link": "",
+            "name": "bhavana chivukula",
+            "about": "Software Craftsperson at Everest Engineering",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshar Barchha",
+            "about": "Software Engineer - II @Shaadi.com | Golang | Kafka | Cassandra | Microservices",
+            "location": "Kalyan"
+        },
+        {
+            "profile_link": "",
+            "name": "Suhruth Eedara",
+            "about": "Head of Engineering @ Savart",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Shahbaz Khan",
+            "about": "Senior Data Scientist at Zuora",
+            "location": "India"
+        },
+        {
+            "profile_link": "",
+            "name": "Jayesh Rohan Singh",
+            "about": "SDE @Blinkit | Ex @Shiprocket @RedHat",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Kshitij Sinha",
+            "about": "MS in CS @UC Davis",
+            "location": "Davis, CA"
+        }
+    ],
+    "educations_details": "New York University",
+    "education": [
+        {
+            "title": "New York University",
+            "degree": "Master's degree",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2022",
+            "end_year": "2024",
+            "description": "Projects: • (Fall '22) Diffusion Models for Image Denoising / as Masked Autoencoders • (Spr '23) Multi-Agent Game-Playing RL • (Fall '23) Efficient Image Tokenizers for ViT(s) • (Fall '23) SotA Transformer-Based models for LiDAR based 3D segmentation",
+            "description_html": "Projects:• (Fall '22) Diffusion Models for Image Denoising / as Masked Autoencoders• (Spr '23) Multi-Agent Game-Playing RL• (Fall '23) Efficient Image Tokenizers for ViT(s)• (Fall '23) SotA Transformer-Based models for LiDAR based 3D segmentation <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor's degree",
+            "field": "Electrical Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": "Bachelor's Project: Capsule Neural Networks for Analogous Extreme Weather Forecasting",
+            "description_html": "Bachelor's Project: Capsule Neural Networks for Analogous Extreme Weather Forecasting <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School - R. K. Puram",
+            "degree": "AISSCE (All India Senior School Certificate Examination)",
+            "field": "Central Board of Secondary Education (Science)",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Ruby Park",
+            "degree": "All India Secondary School Certificate Examination",
+            "field": "Central Board of Secondary Education",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2016",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"AI61005\",\"title\":\"Artificial Intelligence Foundations and Applications\"},{\"subtitle\":\"CSCI GA 3033 Spec Topics\",\"title\":\"Big Data & ML Systems\"},{\"subtitle\":\"DS GA 1016\",\"title\":\"Computational Cognitive Modeling\"},{\"subtitle\":\"CS31702\",\"title\":\"Computer Architecture and Operating Systems\"},{\"subtitle\":\"CSCI GA 2271\",\"title\":\"Computer Vision\"},{\"subtitle\":\"AI61002\",\"title\":\"Deep Learning Foundations and Applications\"},{\"subtitle\":\"CSCI GA 3033 Spec Topics\",\"title\":\"Large Language & Vision Models\"},{\"subtitle\":\"CSCI GA 2565\",\"title\":\"Machine Learning\"},{\"subtitle\":\"AI42001\",\"title\":\"Machine Learning Foundations and Applications\"},{\"subtitle\":\"DS GA 1014\",\"title\":\"Optimization and Computational Linear Algebra\"},{\"subtitle\":\"MA20106\",\"title\":\"Probability and Stochastic Processes\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming and Data Structures\"},{\"subtitle\":\"DS GA 3001 Special Topic\",\"title\":\"Reinforcement Learning\"}]",
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Elementary proficiency ",
+            "title": " German "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Jul 2021Credential ID 60F97F7A7B01760C32AA8CBBSee credential",
+            "subtitle": "Dockship",
+            "title": "Animal Breed Classification AI Challenge"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID 3e1b7030263642c996da6d0dca1d4a69See credential",
+            "subtitle": "NVIDIA",
+            "title": "Building Transformer-Based Natural Language Processing Applications"
+        },
+        {
+            "meta": "Issued Jun 2021Credential ID ef377c75acab41179145eb11688de5a1See credential",
+            "subtitle": "NVIDIA",
+            "title": "Fundamentals of Deep Learning"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID KSXHXDEZLRS5See credential",
+            "subtitle": "Coursera",
+            "title": "DeepLearning.AI TensorFlow Developer Professional Certificate"
+        },
+        {
+            "meta": "Issued Apr 2020Credential ID 27PX583RSDCSSee credential",
+            "subtitle": "Coursera",
+            "title": "Deep Learning Specialization"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "University of Helsinki",
+            "title": "Elements of AI (MOOC)"
+        },
+        {
+            "meta": "Issued Dec 2019See credential",
+            "subtitle": "MathWorks",
+            "title": "MATLAB Onramp"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Education",
+            "duration": "Apr 2020 - Feb 2021 · 11 months",
+            "duration_short": "11 months",
+            "end_date": "Feb 2021",
+            "info": "Student Member of IEEE Student Branch Chapter, IIT KharagpurIEEE Contact: rs.in@ieee.org",
+            "start_date": "Apr 2020",
+            "subtitle": "IEEE",
+            "title": "Student Member"
+        }
+    ],
+    "followers": 2280.0,
+    "connections": 500.0,
+    "current_company_company_id": "axiado-corporation",
+    "current_company_name": "Axiado Corporation",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Facial Expression Recognition with Keras\",\"start_date\":\"May 2020\",\"end_date\":\"May 2020\",\"description\":\"• Build and train a convolutional neural network (CNN) in Keras from scratch to recognize facial expressions.• Using the FER 2013 Dataset to classify each face into one of seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral).• Use OpenCV to automatically detect faces in images and draw bounding boxes around them.• Train, save, and export the CNN.• Directly serve the trained model to a web interface and perform real-time facial expression recognition on video and image data.\"},{\"title\":\"Image De-noising Using Auto-Encoders in Keras and Python\",\"start_date\":\"Apr 2020\",\"end_date\":\"Apr 2020\",\"description\":\"• Understand the theory and intuition behind Autoencoders• Import Key libraries, dataset and visualize images• Perform image normalization, pre-processing, and add random noise to images• Build an Autoencoder using Keras with Tensorflow 2.0 as a backend• Compile and fit Autoencoder model to training data • Assess the performance of trained Autoencoder using various KPIs\"},{\"title\":\"Image Super Resolution Using Auto-Encoders in Keras\",\"start_date\":\"Apr 2020\",\"end_date\":\"Apr 2020\",\"description\":\"Use Keras with Tensorflow as its backend to train an autoencoder. Use this deep learning powered autoencoder to significantly enhance the quality of images. That is, the neural network will create high-resolution images from low-res source images.\"},{\"title\":\"parkMyCar\",\"start_date\":\"Dec 2019\",\"end_date\":\"Dec 2019\",\"description\":\"Developed in 24 hours at Microsoft presents Innovation Hackathon, an initiative of IncubateIND, powered by Microsoft Azure.Provides real-time parking space availability, also enables you to list personal space for parking. An idea, developed using MapMyIndia APIs and hosted on Microsoft Azure servers.View participation certificate: https://drive.google.com/file/d/16sXN4q7WtZOtXlG8T7EY8yeen9vLInOf/view?usp=sharing\"},{},{}]",
+    "organizations": null,
+    "location": null,
+    "linkedin_id": "rhitvik-sinha",
+    "activity": [
+        {
+            "interaction": "Liked by Rhitvik Sinha",
+            "link": "",
+            "title": "Are banks cashing in on Big Tech's hiring slowdown? Yes and no. Yes: A higher percentage of technical new grads (those who studied computer…",
+            "img": "",
+            "id": "7271989842501074944"
+        }
+    ],
+    "linkedin_num_id": 681192669.0,
+    "honors_and_awards": [
+        {
+            "title": "Graduate Record Examination (GRE)",
+            "publication": "ETS",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": "Score: 332 / 340 Breakdown: [ Quant: 169/170 | Verbal: 163/170 | AWA: 4/6 ]"
+        },
+        {
+            "title": "Test Of English as a Foreign Language (TOEFL)",
+            "publication": "ETS",
+            "date": "2021-10-01T00:00:00.000Z",
+            "description": "Score: 112 / 120 Breakdown: [ Reading: 30/30 | Listening: 28/30 | Speaking: 26/30 | Writing: 28/30 ]"
+        },
+        {
+            "title": "JEE Advanced: All India Rank (AIR): 1098",
+            "publication": "Joint Entrance Exam (JEE)",
+            "date": "2018-05-01T00:00:00.000Z",
+            "description": "Top 0.09% students (99.91 percentile) amongst the original 11,00,000+ JEE aspirants. Top 0.48% students (99.52 percentile) amongst 2,30,000+ JEE (Mains) qualifiers."
+        },
+        {
+            "title": "JEE Mains: All India Rank (AIR): 3264",
+            "publication": "Central Board of Secondary Education (CBSE)",
+            "date": "2018-04-01T00:00:00.000Z",
+            "description": "Top 0.29% students (99.61 percentile) amongst 11,00,000+ JEE (Mains) aspirants."
+        },
+        {
+            "title": "Kishore Vaigyanik Protsahan Yojana (KVPY): SA Scholar",
+            "publication": "Department of Science and Technology of the Government of India",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "Secured an All India Rank of 854, in the SA Stream. Kishore Vaigyanik Protsahan Yojana (KVPY) is a scholarship program funded by the Department of Science and Technology of the Government of India, aimed at encouraging students to take up research careers in the areas of basic sciences."
+        },
+        {
+            "title": "National Standard Examination in Astronomy (NSEA) Qualifier",
+            "publication": "IAPT (The Indian Association of Physics Teachers)",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "National Standard Examination (NSE) qualifiers are eligible to appear for the national level INO (Indian National Olympiads). Selected to appear for the National round- Indian National Astronomy Olympiad (INAO) - 2017, conducted by HBCSE (Homi Bhabha Centre For Science Education)."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

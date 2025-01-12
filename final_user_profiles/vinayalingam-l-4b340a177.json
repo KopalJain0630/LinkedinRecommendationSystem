@@ -1,0 +1,43 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Rushford Business School",
+            "url": "",
+            "start_year": "2024-07",
+            "end_year": "2027-12",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2009-08",
+            "end_year": "2011-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2005-08",
+            "end_year": "2009-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"ASIC BACK end flow @ Beeflex Education, Bangalore\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023",
+            "subtitle": "Indian Institute of Science (IISc)",
+            "title": "Advanced 5G tech with AI and cloud "
+        }
+    ],
+    "current_company_name": "Stealth Startup",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

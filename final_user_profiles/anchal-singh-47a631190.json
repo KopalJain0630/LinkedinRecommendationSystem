@@ -1,0 +1,78 @@
+{
+    "city": "Kanpur, Uttar Pradesh, India",
+    "position": "IIT Kanpur",
+    "experience": [
+        {
+            "title": "Quantitative Analyst",
+            "location": "Noida, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Aug 2022 Jun 2023 11 months",
+            "start_date": "Aug 2022",
+            "end_date": "Jun 2023",
+            "duration_short": "11 months",
+            "company": "Barclays",
+            "company_id": "barclays-bank",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Pricing Analyst",
+            "location": "Gurgaon",
+            "description_html": null,
+            "duration": "Aug 2021 Sep 2021 2 months",
+            "start_date": "Aug 2021",
+            "end_date": "Sep 2021",
+            "duration_short": "2 months",
+            "company": "Spinny",
+            "company_id": "spinny",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Head Of Public Relations",
+            "location": "Kanpur, Uttar Pradesh, India",
+            "description_html": null,
+            "duration": "Jun 2019 Mar 2020 10 months",
+            "start_date": "Jun 2019",
+            "end_date": "Mar 2020",
+            "duration_short": "10 months",
+            "company": "Techkriti, Indian Institute of Technology Kanpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "B.Tech-M.Tech Dual Degree",
+            "field": "Civil Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St Mary's Senior Secondary School, Banda(U.P)",
+            "degree": "Matriculate : 9.8 CGPA",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St Mary,s Senior Secondary School",
+            "degree": "Intermediate : 88.6 %",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Barclays",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

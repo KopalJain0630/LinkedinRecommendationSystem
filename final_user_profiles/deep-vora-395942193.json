@@ -1,0 +1,130 @@
+{
+    "city": "Ahmedabad, Gujarat, India",
+    "position": "EY || World Quant || L&TFS || Fullerton || IRMA",
+    "experience": [
+        {
+            "title": "EY",
+            "location": "Mumbai, Maharashtra, India",
+            "description_html": null,
+            "duration": "2 years 1 month",
+            "positions": [
+                {
+                    "subtitle": "EY",
+                    "meta": "Oct 2023 - Present 1 year 3 months",
+                    "duration": "Oct 2023 - Present 1 year 3 months",
+                    "start_date": "Oct 2023",
+                    "end_date": "Present",
+                    "duration_short": "1 year 3 months",
+                    "title": "Senior Consultant",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "EY",
+                    "meta": "Dec 2022 - Sep 2023 10 months",
+                    "duration": "Dec 2022 Sep 2023 10 months",
+                    "start_date": "Dec 2022",
+                    "end_date": "Sep 2023",
+                    "duration_short": "10 months",
+                    "title": "Management Consultant",
+                    "description_html": null
+                }
+            ],
+            "company": "EY",
+            "company_id": "ernstandyoung",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "L&T Financial Services",
+            "location": "Mumbai Metropolitan Region",
+            "description_html": null,
+            "duration": "2 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "L&T Financial Services",
+                    "meta": "Mar 2021 - Dec 2022 1 year 10 months",
+                    "duration": "Mar 2021 Dec 2022 1 year 10 months",
+                    "start_date": "Mar 2021",
+                    "end_date": "Dec 2022",
+                    "duration_short": "1 year 10 months",
+                    "title": "Product Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "L&T Financial Services",
+                    "meta": "Oct 2020 - Mar 2021 6 months",
+                    "duration": "Oct 2020 Mar 2021 6 months",
+                    "start_date": "Oct 2020",
+                    "end_date": "Mar 2021",
+                    "duration_short": "6 months",
+                    "title": "Management Trainee ( Process and Training Manager)",
+                    "description_html": null
+                }
+            ],
+            "company": "L&T Financial Services",
+            "company_id": "lntfinance",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Summer Consultant",
+            "location": "Ahmedabad, Gujarat, India",
+            "description_html": null,
+            "duration": "Jul 2020 Sep 2020 3 months",
+            "start_date": "Jul 2020",
+            "end_date": "Sep 2020",
+            "duration_short": "3 months",
+            "company": "Virtue Ventures",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Finance Intern",
+            "location": "Chennai Area, India",
+            "description": "1) Automation of Account Reconciliation.To understand the reconciliation process and identify areas of improvement to provide necessary suggestions to “Automate reconciliation”.To increase the “Auto-knock off” of the process for Reconciliation in Collection and Disbursal. 2) Direct Debit Mandate roll out for Rural.To initiate “Direct Debit Mandate” roll out for Rural pockets with SBI and BOB so to cater NACH mandate rejections.To enable process-improvement for NACH registration rejection and suggesting scope of improvement in the process",
+            "description_html": "1) Automation of Account Reconciliation.To understand the reconciliation process and identify areas of improvement to provide necessary suggestions to “Automate reconciliation”.To increase the “Auto-knock off” of the process for Reconciliation in Collection and Disbursal. 2) Direct Debit Mandate roll out for Rural.To initiate “Direct Debit Mandate” roll out for Rural pockets with SBI and BOB so to cater NACH mandate rejections.To enable process-improvement for NACH registration rejection and suggesting scope of improvement in the process",
+            "duration": "Jun 2019 Aug 2019 3 months",
+            "start_date": "Jun 2019",
+            "end_date": "Aug 2019",
+            "duration_short": "3 months",
+            "company": "Fullerton India Credit Company Ltd.",
+            "company_id": "fullerton-india-credit-company-ltd-",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Institute of Rural Management Anand (IRMA)",
+            "degree": "Post Graduation Diploma in Rural Management",
+            "field": "Others",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2020",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "S. M. Patel Institute of Commerce",
+            "degree": "Bachelors in Commerce",
+            "start_year": "2014",
+            "end_year": "2017",
+            "description": "Activities and Societies: 1)Management Fest 2)Volleyball 3)Football",
+            "description_html": "Activities and Societies: 1)Management Fest 2)Volleyball 3)Football",
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Channel and Retail Management\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jun 2020Credential ID  credential",
+            "subtitle": "Indian School of Business",
+            "title": "Trading Strategies in Emerging Markets Specialization"
+        }
+    ],
+    "current_company_name": "EY",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

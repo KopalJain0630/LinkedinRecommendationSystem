@@ -1,0 +1,336 @@
+{
+    "id": "nandasv",
+    "name": "Nanda S V",
+    "city": "Hyderabad, Telangana, India",
+    "country_code": "IN",
+    "position": "Aerospace Engineering | Texas A&M University | IIT Kharagpur | Kendriya Vidyalaya",
+    "about": "Aerospace, propulsion (space, aircraft), and sustainable aviation enthusiast. Graduated from the Indian Institute of Technology, Kharagpur with a dual degree (Bachelors and Masters) in Aerospace Engineering (2018-2023).",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Texas A&M University",
+        "title": "Aerospace Engineering | Texas A&M University | IIT Kharagpur | Kendriya Vidyalaya"
+    },
+    "experience": [
+        {
+            "title": "Doctoral Student",
+            "location": "College Station, Texas, United States",
+            "description_html": null,
+            "duration": "Jun 2024 - Present 7 months",
+            "start_date": "Jun 2024",
+            "end_date": "Present",
+            "duration_short": "7 months",
+            "company": "Texas A&M University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Aero Thermal Engineer | SA Mechanical Analysis & Simulation:",
+            "location": "Hyderabad",
+            "description_html": null,
+            "duration": "Jul 2023 Feb 2024 8 months",
+            "start_date": "Jul 2023",
+            "end_date": "Feb 2024",
+            "duration_short": "8 months",
+            "company": "Cyient",
+            "company_id": "cyient",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Technology Robotix Society",
+            "description_html": null,
+            "duration": "4 years",
+            "positions": [
+                {
+                    "subtitle": "Technology Robotix Society",
+                    "meta": "Mar 2021 - Feb 2023 2 years",
+                    "duration": "Mar 2021 Feb 2023 2 years",
+                    "start_date": "Mar 2021",
+                    "end_date": "Feb 2023",
+                    "duration_short": "2 years",
+                    "title": "Coordinator",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Robotix Society",
+                    "meta": "Mar 2020 - Feb 2021 1 year",
+                    "duration": "Mar 2020 Feb 2021 1 year",
+                    "start_date": "Mar 2020",
+                    "end_date": "Feb 2021",
+                    "duration_short": "1 year",
+                    "title": "Head",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Technology Robotix Society",
+                    "meta": "Mar 2019 - Feb 2020 1 year",
+                    "duration": "Mar 2019 Feb 2020 1 year",
+                    "start_date": "Mar 2019",
+                    "end_date": "Feb 2020",
+                    "duration_short": "1 year",
+                    "title": "Subhead",
+                    "description_html": null
+                }
+            ],
+            "company": "Technology Robotix Society",
+            "company_id": "technology-robotix-society",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "MITACS GRI",
+            "location": "Toronto",
+            "description_html": null,
+            "duration": "May 2022 Jul 2022 3 months",
+            "start_date": "May 2022",
+            "end_date": "Jul 2022",
+            "duration_short": "3 months",
+            "company": "York University",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Operations Manager",
+            "location": "Indian Institute of Technology, Kharagpur",
+            "description_html": null,
+            "duration": "Jan 2022 Mar 2022 3 months",
+            "start_date": "Jan 2022",
+            "end_date": "Mar 2022",
+            "duration_short": "3 months",
+            "company": "Inter-IIT Tech Meet",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Research Intern",
+            "location": "Delft, South Holland, Netherlands",
+            "description_html": null,
+            "duration": "Apr 2021 Aug 2021 5 months",
+            "start_date": "Apr 2021",
+            "end_date": "Aug 2021",
+            "duration_short": "5 months",
+            "company": "SolvGE",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Editor",
+            "location": "Indian Institute of Technology, Kharagpur",
+            "description_html": null,
+            "duration": "Aug 2019 Jul 2021 2 years",
+            "start_date": "Aug 2019",
+            "end_date": "Jul 2021",
+            "duration_short": "2 years",
+            "company": "Technology Literary Society, IIT Kharagpur",
+            "company_id": "technology-literary-society",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Nishit Sureja",
+            "about": "Head at Sonika Ceramic Center | Former Industrial Trainee",
+            "location": "Mangaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Salekha Reddy",
+            "about": "Writer | Engineer | Communications at Acess Meditech",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Lakshman Sivakumar Vijay",
+            "about": "Soft materials | Proteins | Micro-robotics",
+            "location": "United States"
+        },
+        {
+            "profile_link": "",
+            "name": "Uttkarsh Sachan",
+            "about": "Product Design | John Deere | NIT Surat'22",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayush Verma",
+            "about": "Events Head at Mechanical Engineering Students'\u00e2\u20ac\u2039 Association [MESA]",
+            "location": "Betul"
+        },
+        {
+            "profile_link": "",
+            "name": "Pratush Patro",
+            "about": "Business Manager, Merilytics",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Jash Shah",
+            "about": "Senior Officer at IIFL Securities - Private Client Group",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Rabindra Chauhan",
+            "about": "G.M. Manufacturing at M/s ISGEC Heavy Engineering Limited, Muzaffarnagar, Uttar Pradesh, India",
+            "location": "Chennai"
+        },
+        {
+            "profile_link": "",
+            "name": "Nagaraj Ganesh Prabhu",
+            "about": "Searching for Handling Qualities, Aircraft Design, Performance, and Control Systems Engineering positions | MSc Aerospace @ ISAE SUPAERO | Striving for Sustainable Aviation.",
+            "location": "Toulouse"
+        },
+        {
+            "profile_link": "",
+            "name": "Dr.Mani Dakkili",
+            "about": "--",
+            "location": "Hyderabad"
+        },
+        {
+            "profile_link": "",
+            "name": "Milan Saini",
+            "about": "Grade A Officer at INDIAN OIL | GATE ME AIR-121 |",
+            "location": "Panipat"
+        },
+        {
+            "profile_link": "",
+            "name": "Lakshmi aneesha",
+            "about": "Aerospace engineering",
+            "location": "Greater Vijayawada District"
+        },
+        {
+            "profile_link": "",
+            "name": "Vinod Ghatge",
+            "about": "Procurement,Sourcing, Production, Operations. (Looking New Opportunity)",
+            "location": "Pune"
+        },
+        {
+            "profile_link": "",
+            "name": "Bijendra Nagar",
+            "about": "--",
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Kshitiz Khandelwal",
+            "about": "GIC | DB | IIT Kharagpur",
+            "location": "Mumbai"
+        },
+        {
+            "profile_link": "",
+            "name": "Amit R",
+            "about": "Student at The National Institute of Engineering, Mysore",
+            "location": "Udupi"
+        },
+        {
+            "profile_link": "",
+            "name": "Atul Singh",
+            "about": "Asst Manager at Ambe Steels Pvt Limited",
+            "location": "Varanasi"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivangi Srivastava",
+            "about": "JPMorgan Chase & Co. | ISB | IIT Kharagpur '22",
+            "location": "Kolkata"
+        },
+        {
+            "profile_link": "",
+            "name": "Atul Krishna",
+            "about": "SPJIMR, PGDM 2023-2025 (Area Top Five) | Mahindra Leaders Program | National 2nd Runner Up, P&G Peakathon | National Finalist, TGC Samagra | Placement Prep Cell | Deloitte USI | NIT Nagpur'21",
+            "location": "Mumbai"
+        }
+    ],
+    "educations_details": "Texas A&M University",
+    "education": [
+        {
+            "title": "Texas A&M University",
+            "degree": "Doctor of Philosophy - PhD",
+            "field": "Aerospace, Aeronautical and Astronautical/Space Engineering",
+            "url": "",
+            "start_year": "2024",
+            "end_year": "2029",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Dual B.Tech. (Hons.) and M.Tech",
+            "field": "Aerospace Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2023",
+            "description": "Activities and Societies: Robotics | Football, Basketball | NCC",
+            "description_html": "Activities and Societies: Robotics | Football, Basketball | NCC",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kendriya vidyalaya",
+            "degree": "CBSE AISSCE AIR-4 (Science Stream AIR-2)",
+            "field": "99.2%",
+            "url": "",
+            "start_year": "2006",
+            "end_year": "2018",
+            "description": "Activities and Societies: School Captain 2017-18 | Dance, Debate, Quizzing",
+            "description_html": "Activities and Societies: School Captain 2017-18 | Dance, Debate, Quizzing",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Full professional proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Professional working proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Malayalam "
+        },
+        {
+            "subtitle": " Limited working proficiency ",
+            "title": " Tamil "
+        }
+    ],
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 1496.0,
+    "connections": 500.0,
+    "current_company_company_id": null,
+    "current_company_name": "Texas A&M University",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Hyderabad",
+    "linkedin_id": "nandasv",
+    "activity": [
+        {
+            "interaction": "Liked by Nanda S V",
+            "link": "",
+            "title": "Multiple students have tragically taken their own lives during my four years at IIT Kharagpur. After every such tragedy, people post this on their\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7169265739982393344"
+        },
+        {
+            "interaction": "Liked by Nanda S V",
+            "link": "",
+            "title": "Hi :) Excited to share that I've embarked on my corporate journey as a Risk and Info Management Analyst at American Express, a bit more than a month\u00e2\u20ac\u00a6",
+            "img": "",
+            "id": "7099453119725547520"
+        }
+    ],
+    "linkedin_num_id": 697842190.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

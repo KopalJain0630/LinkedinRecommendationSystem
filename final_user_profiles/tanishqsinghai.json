@@ -1,0 +1,187 @@
+{
+    "city": "Bhopal, Madhya Pradesh, India",
+    "position": "SSE @Pharmeasy | NIT Bhopal CSE'22",
+    "experience": [
+        {
+            "title": "PharmEasy",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "3 years",
+            "positions": [
+                {
+                    "subtitle": "PharmEasy",
+                    "meta": "May 2024 - Present 8 months",
+                    "duration": "May 2024 - Present 8 months",
+                    "start_date": "May 2024",
+                    "end_date": "Present",
+                    "duration_short": "8 months",
+                    "title": "Senior Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "PharmEasy",
+                    "meta": "Jun 2022 - May 2024 2 years",
+                    "description": "I'm working on building the next-generation ThyroNXT/Lab Portal front end using React and Typescript. I've also tackled various tasks involving Android, Spring Boot, and API creation.",
+                    "duration": "Jun 2022 May 2024 2 years",
+                    "start_date": "Jun 2022",
+                    "end_date": "May 2024",
+                    "duration_short": "2 years",
+                    "title": "Software Engineer",
+                    "description_html": "I'm working on building the next-generation ThyroNXT/Lab Portal front end using React and Typescript. I've also tackled various tasks involving Android, Spring Boot, and API creation. <!---->"
+                },
+                {
+                    "subtitle": "PharmEasy",
+                    "meta": "Jan 2022 - Jun 2022 6 months",
+                    "description": "• Responsible for developing various robust UI components using ReactJS.• Developed CRUD API for helping doctors by providing them with the feature to customize and add new templates using the Java SpringBoot framework.",
+                    "duration": "Jan 2022 Jun 2022 6 months",
+                    "start_date": "Jan 2022",
+                    "end_date": "Jun 2022",
+                    "duration_short": "6 months",
+                    "title": "SDE Intern (Docon)",
+                    "description_html": "• Responsible for developing various robust UI components using ReactJS.<br>• Developed CRUD API for helping doctors by providing them with the feature to customize and add new templates using the Java SpringBoot framework. <!---->"
+                }
+            ],
+            "company": "PharmEasy",
+            "company_id": "pharmeasy",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Training and Placement Cell",
+            "location": "Bhopal, Madhya Pradesh, India",
+            "description": "Responsible for coordinating the recruitment process with HR and inviting organizations for campus placement drives.",
+            "description_html": "Responsible for coordinating the recruitment process with HR and inviting organizations for campus placement drives. <!---->",
+            "duration": "Jul 2021 Jan 2022 7 months",
+            "start_date": "Jul 2021",
+            "end_date": "Jan 2022",
+            "duration_short": "7 months",
+            "company": "Maulana Azad National Institute of Technology",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Mumbai, Maharashtra, India",
+            "description": "• Learned about various testing strategies and its implementation. • Build test/regression suits for different microservices in an AI module and implemented them in Cypress.",
+            "description_html": "• Learned about various testing strategies and its implementation. • Build test/regression suits for different microservices in an AI module and implemented them in Cypress. <!---->",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "GEP Worldwide",
+            "company_id": "gep-worldwide",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Web Development Intern",
+            "description": "As a part of the Graduate Rotational Internship Program (GRIP), I worked on Social media integration and implemented the login and signup functionality on the web app.",
+            "description_html": "As a part of the Graduate Rotational Internship Program (GRIP), I worked on Social media integration and implemented the login and signup functionality on the web app. <!---->",
+            "duration": "Nov 2020 Nov 2020 1 month",
+            "start_date": "Nov 2020",
+            "end_date": "Nov 2020",
+            "duration_short": "1 month",
+            "company": "The Sparks Foundation",
+            "company_id": "the-sparks-foundation",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Summer Intern",
+            "description": "Part of the summer cohort wherein I worked on different real life problem-solving techniques and learned how to solve them using conventional DS/Algo techniques.",
+            "description_html": "Part of the summer cohort wherein I worked on different real life problem-solving techniques and learned how to solve them using conventional DS/Algo techniques. <!---->",
+            "duration": "Apr 2020 Jun 2020 3 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "3 months",
+            "company": "Demux Academy",
+            "company_id": "demux-academy",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Virtual Internship Experience",
+            "description": "Completed practical task modules in :• Establishing Financial Data Feeds• Frontend Web Development• Data Visualization with Perspective",
+            "description_html": "Completed practical task modules in :• Establishing Financial Data Feeds• Frontend Web Development• Data Visualization with Perspective <!---->",
+            "duration": "May 2020 May 2020 1 month",
+            "start_date": "May 2020",
+            "end_date": "May 2020",
+            "duration_short": "1 month",
+            "company": "JPMorgan Chase & Co.",
+            "company_id": "jpmorganchase",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Maulana Azad National Institute of Technology",
+            "degree": "BTech - Bachelor of Technology",
+            "field": "Computer Science",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Aditya Convent School, Jabalpur",
+            "degree": "12th",
+            "field": "PCM",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "St Paul's School, Katni",
+            "degree": "10th",
+            "field": "10/10",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Analysis and Design of Algorithms\"},{\"subtitle\":\"-\",\"title\":\"Angular Training Course by Uplatz Training\"},{\"subtitle\":\"-\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"-\",\"title\":\"Complete Web Development Bootcamp\"},{\"subtitle\":\"-\",\"title\":\"Computer Networks\"},{\"subtitle\":\"-\",\"title\":\"Data Science\"},{\"subtitle\":\"-\",\"title\":\"Data Structures\"},{\"subtitle\":\"-\",\"title\":\"Database Management System\"},{\"subtitle\":\"-\",\"title\":\"Object Oriented Design\"},{\"subtitle\":\"-\",\"title\":\"Operating Systems\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Dec 2022Credential ID cert_dxpgr9n7See credential",
+            "subtitle": "Amigoscode",
+            "title": "Getting started with Spring Boot"
+        },
+        {
+            "meta": "Issued Oct 2022Credential ID UC-6f00bda4-4c7c-4da0-a172-b601a7444696See credential",
+            "subtitle": "Udemy",
+            "title": "React - The Complete Guide"
+        },
+        {
+            "meta": "Issued Dec 2020Credential ID UC-939d55e5-beef-4b4e-94ff-b1291e23ca5dSee credential",
+            "subtitle": "Udemy",
+            "title": "Angular Course "
+        }
+    ],
+    "current_company_name": "PharmEasy",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Secret Wall\",\"start_date\":\"Apr 2020\",\"end_date\":\"Present\",\"description\":\"• In this app, one can share his/her views, thoughts or secrets anonymously with others.• Technologies/Languages Used : HTML, CSS, JavaScript, Bootstrap, Express.js, Node.js\"},{\"title\":\"WikiSearch (Wikipedia searching tool)\",\"start_date\":\"Oct 2020\",\"end_date\":\"Oct 2020\",\"description\":\"• Users can type in a search box and view the resulting Wikipedia entries.• Key Learning: To fetch data from an outside API• Technologies/Languages Used : HTML, CSS, Angular, TypeScript, WikipediaAPI\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Young Jain Award 2018",
+            "publication": "Maitree Samooh",
+            "date": "2018-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Academic Excellence",
+            "publication": "Momentum",
+            "date": "2018-07-01T00:00:00.000Z",
+            "description": "JEE MAINS'2018 AIR under 10K."
+        },
+        {
+            "title": "Young Jaina Award",
+            "publication": "Maitree Samooh",
+            "date": "2016-10-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

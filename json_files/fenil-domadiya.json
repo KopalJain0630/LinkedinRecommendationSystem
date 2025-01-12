@@ -1,0 +1,258 @@
+{
+    "id": "fenil-domadiya",
+    "name": "Fenil Domadiya",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "Software Engineer @ Lokal(YC-S19) | Ex-Jeavio |  CE DDU'23",
+    "about": "I'm a dedicated learner with a passion for collaborative problem-solving in Computer Science. My focus lies in Full-stack Development, Data Structures, and Algorithms, as well as Applied Artificial Intelligence.",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Lokal",
+        "company_id": "lokal-app",
+        "title": "Software Engineer @ Lokal(YC-S19) | Ex-Jeavio |  CE DDU'23"
+    },
+    "experience": [
+        {
+            "title": "Software Engineer",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Aug 2024 - Present 5 months",
+            "start_date": "Aug 2024",
+            "end_date": "Present",
+            "duration_short": "5 months",
+            "company": "Lokal",
+            "company_id": "lokal-app",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Jeavio",
+            "location": "Vadodara, Gujarat, India",
+            "description_html": null,
+            "duration": "1 year 8 months",
+            "positions": [
+                {
+                    "subtitle": "Jeavio",
+                    "meta": "May 2023 - Jul 2024 1 year 3 months",
+                    "duration": "May 2023 Jul 2024 1 year 3 months",
+                    "start_date": "May 2023",
+                    "end_date": "Jul 2024",
+                    "duration_short": "1 year 3 months",
+                    "title": "Associate Software Engineer",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Jeavio",
+                    "meta": "Dec 2022 - Apr 2023 5 months",
+                    "duration": "Dec 2022 Apr 2023 5 months",
+                    "start_date": "Dec 2022",
+                    "end_date": "Apr 2023",
+                    "duration_short": "5 months",
+                    "title": "Software Engineer Intern",
+                    "description_html": null
+                }
+            ],
+            "company": "Jeavio",
+            "company_id": "jeavio",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Sanjal Magdum",
+            "about": "Associate Consultant",
+            "location": "Kolhapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Madhav Sainanee",
+            "about": "SWE at Databricks | CS/Econ",
+            "location": "South Delhi"
+        },
+        {
+            "profile_link": "",
+            "name": "Jatin Nagpal",
+            "about": null,
+            "location": "Patiala"
+        },
+        {
+            "profile_link": "",
+            "name": "Aritri Paul",
+            "about": "Software Engineer at Microsoft | Ex-Amazon",
+            "location": "Durgapur"
+        },
+        {
+            "profile_link": "",
+            "name": "Swetha Krishnan",
+            "about": "MS CS @ UMass Amherst | Ex-Scientist at Indian Space Research Organization",
+            "location": "Amherst, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Amit Kumar",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Rohit Agarwal",
+            "about": null,
+            "location": "Noida"
+        },
+        {
+            "profile_link": "",
+            "name": "Adish Agarwal",
+            "about": null,
+            "location": "Agra"
+        },
+        {
+            "profile_link": "",
+            "name": "Nishchay Manwani",
+            "about": null,
+            "location": "North Guwahati"
+        },
+        {
+            "profile_link": "",
+            "name": "Akshita Dudani",
+            "about": "Software Engineer III at Google | Ex-Intern at BNY Mellon | JIIT’21",
+            "location": "Noida"
+        }
+    ],
+    "educations_details": "Dharmsinh Desai University",
+    "education": [
+        {
+            "title": "Dharmsinh Desai University",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Computer Engineering",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2023",
+            "description": "Activities and Societies: DDU contest hosting team",
+            "description_html": "Activities and Societies: DDU contest hosting team",
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": [
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " English "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Hindi "
+        },
+        {
+            "subtitle": " Native or bilingual proficiency ",
+            "title": " Gujarati "
+        }
+    ],
+    "certifications": [
+        {
+            "meta": "Issued Apr 2021Credential ID A04EBE49EFA5See credential",
+            "subtitle": "HackerRank",
+            "title": "SQL(Basic)"
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 8648.0,
+    "connections": 500.0,
+    "current_company_company_id": "lokal-app",
+    "current_company_name": "Lokal",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Dcoder\",\"start_date\":\"Jan 2022\",\"end_date\":\"Apr 2022\",\"description\":\"- Dcoder is a programing platform that contains a compiler for some of the languages, DSA Problem list, upcoming contests list of various coding platforms.- User can share and save code.also contribute DSA Question.\"},{},{\"title\":\"Movie Ticket Booking\",\"start_date\":\"Mar 2021\",\"end_date\":\"Apr 2021\",\"description\":\"created three role : admin , Branch-admin and customeradmin can create new branch and can add new moviebranch-admin can select movie which is added by admin .and can add price , date and time (called show) .customer can book seat on show which created by branch-admin .\"},{\"title\":\"OLX Clone\",\"start_date\":\"Feb 2021\",\"end_date\":\"Apr 2021\",\"description\":\"“OLXClone” is useful for online exchange of the used things likeif one user of the system wants to sell used products then userhas to simply put all necessary information of that product onthis platform and if some another user of the system want to buythat product then he has to simply contact to the seller of thatproduct.\"},{},{}]",
+    "organizations": null,
+    "location": "Bengaluru",
+    "linkedin_id": "fenil-domadiya",
+    "activity": [
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "Using chatbots can be frustrating. And yet, chatbots have become the default user interface for AI applications. From customer service to \"chat…",
+            "img": "",
+            "id": "7278007263125012480"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "It has been 1 year and 1 week since I made the switch to Socure from Goldman Sachs. Looking back, I realize how much both companies have shaped me…",
+            "img": "",
+            "id": "1"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "Open Source Contribution can exponentially increase your skill sets and stand out from the huge crowd of the community. No roadmap and YouTube…",
+            "img": "",
+            "id": "7270446515314130944"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "StatusNeo is Hiring: #FlutterDeveloper Are you passionate about crafting seamless mobile experiences? Join us as a Flutter Developer and bring your…",
+            "img": "",
+            "id": "7270708349606780928"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "Jeavio Tech Challenge 2024 is here! We’re putting our teams to the test with five problem statements and one shared focus: using AI to develop…",
+            "img": "",
+            "id": "7269971096966156289"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "Let's connect if you are around Nadiad during mid December.",
+            "img": "",
+            "id": "7266091942885609472"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "✅ Microsoft Recently Released OmniParser✅ OmniParser is a compact screen parsing module that can convert UI screenshots into structured elements…",
+            "img": "",
+            "id": "7256530473621839872"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "Exciting Opportunity for Frontend React Developers! We are looking for experienced Frontend React developers with 5+ years of hands-on experience in…",
+            "img": "",
+            "id": "7252313837633241089"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "Hello LinkedIn Connections, I'm reaching out to my network to support a friend Hiren Chavda who is currently looking for a backend developer role…",
+            "img": "",
+            "id": "7252203917927702529"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "Hello LinkedIn Connections, I'm reaching out to my network on behalf of my friend, Hiren Chavda, who is actively seeking a backend developer role…",
+            "img": "",
+            "id": "7251992217467183104"
+        },
+        {
+            "interaction": "Liked by Fenil Domadiya",
+            "link": "",
+            "title": "I am delighted to share that I’ve joined Swiggy as an SDE 1! 🚀 I’m deeply grateful to Swiggy for this incredible opportunity and excited to…",
+            "img": "",
+            "id": "7251874265673715712"
+        }
+    ],
+    "linkedin_num_id": 785866328.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "city": "Kota, Rajasthan, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Banasthali Vidyapith",
+            "url": "",
+            "start_year": "2018-07",
+            "end_year": "2022-07",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2016-04",
+            "end_year": "2018-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014-04",
+            "end_year": "2018-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"C++\"}]",
+    "certifications": null,
+    "current_company_name": "Cleartrip",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

@@ -1,0 +1,42 @@
+{
+    "city": "Bangalore Urban, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019",
+            "end_year": "2024",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "The Leth™",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Jewels of KGP",
+            "publication": "Awaaz, IIT Kharagpur",
+            "date": "2023-04-01T00:00:00.000Z",
+            "description": "'Jewels of KGP' is awarded to IIT Kharagpur community who are performing extraordinarily in their field of interest."
+        },
+        {
+            "title": "IIT Kgp Illumination 2022",
+            "publication": "Technology Students' Gymkhana IIT Kharagpur",
+            "date": "2022-10-01T00:00:00.000Z",
+            "description": "Secured a historic second-place podium finish and served as the Illumination Captain of MMM Hall of Residence at IIT Kharagpur."
+        },
+        {
+            "title": "Best Council Member",
+            "publication": "President of Students Society of Architects and Planners, ARP, IIT Kharagpur",
+            "date": "2021-05-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

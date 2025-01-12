@@ -1,0 +1,80 @@
+{
+    "city": "Delhi, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Delhi College of Engineering",
+            "url": "",
+            "start_year": "2007",
+            "end_year": "2011",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2005",
+            "end_year": "2007",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Lal10",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": [
+        {
+            "title": "Acumen Fellowship",
+            "publication": "Acumen",
+            "date": "2021-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Entrepreneur 35 under 35, 2021",
+            "publication": "Entrepreneur",
+            "date": "2021-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "TedX Speaker",
+            "publication": "UBS Chandigarh",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Westerwelle Fellowship - Berlin",
+            "publication": "Westerwelle Foundation",
+            "date": "2019-03-01T00:00:00.000Z",
+            "description": "Amongst the top 25 social entrepreneurs across the globe"
+        },
+        {
+            "title": "Forbes 30 Under 30",
+            "publication": "Forbes India",
+            "date": "2019-02-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "GSBI Fellow",
+            "publication": "Santa Clara University, San Francisco",
+            "date": "2018-08-01T00:00:00.000Z",
+            "description": "Selected among the best 18 social ventures across the globe for a 6-month intense training and acceleration by Global Social Benefit Institute in Santa Clara University"
+        },
+        {
+            "title": "Action For India Fellow - Winner of Silicon Valley Trek",
+            "publication": "Action for India",
+            "date": "2017-01-01T00:00:00.000Z",
+            "description": "Amongst the top 5 social ventures in India and winners of Silicon Valley Trek in Washington DC, New York and San Francisco, organised by AFI."
+        }
+    ]
+}

@@ -1,0 +1,356 @@
+{
+    "id": "nishchay-hans",
+    "name": "Nishchay Hans",
+    "city": "Delhi, India",
+    "country_code": "IN",
+    "position": "Blinkit || ex-Coca-Cola",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Blinkit",
+        "company_id": "letsblinkit",
+        "title": "Blinkit || ex-Coca-Cola"
+    },
+    "experience": [
+        {
+            "title": "Senior Category Manager",
+            "location": "Gurugram, Haryana, India",
+            "description_html": null,
+            "duration": "Sep 2024 - Present 4 months",
+            "start_date": "Sep 2024",
+            "end_date": "Present",
+            "duration_short": "4 months",
+            "company": "Blinkit",
+            "company_id": "letsblinkit",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Hindustan Coca-Cola Beverages",
+            "location": "Kolhapur, Maharashtra, India",
+            "description_html": null,
+            "duration": "2 years 3 months",
+            "positions": [
+                {
+                    "subtitle": "Hindustan Coca-Cola Beverages",
+                    "meta": "Jan 2024 - Aug 2024 8 months",
+                    "duration": "Jan 2024 Aug 2024 8 months",
+                    "start_date": "Jan 2024",
+                    "end_date": "Aug 2024",
+                    "duration_short": "8 months",
+                    "title": "Area Sales Manager",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Hindustan Coca-Cola Beverages",
+                    "meta": "Dec 2022 - Dec 2023 1 year 1 month",
+                    "duration": "Dec 2022 Dec 2023 1 year 1 month",
+                    "start_date": "Dec 2022",
+                    "end_date": "Dec 2023",
+                    "duration_short": "1 year 1 month",
+                    "title": "Digital Trade Marketing @ Coke Buddy (EB2B)",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Hindustan Coca-Cola Beverages Pvt Ltd",
+                    "meta": "Jun 2022 - Dec 2023 1 year 7 months",
+                    "duration": "Jun 2022 Dec 2023 1 year 7 months",
+                    "start_date": "Jun 2022",
+                    "end_date": "Dec 2023",
+                    "duration_short": "1 year 7 months",
+                    "title": "Aspire Management Trainee",
+                    "description_html": null
+                }
+            ],
+            "company": "Hindustan Coca-Cola Beverages",
+            "company_id": "hccb",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "M&S Summer Intern",
+            "description_html": null,
+            "duration": "Apr 2021 Jun 2021 3 months",
+            "start_date": "Apr 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "3 months",
+            "company": "Tata Steel",
+            "company_id": "tatasteelltd",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Operations Delivery Associate",
+            "location": "Gurgaon, Haryana, India",
+            "description_html": null,
+            "duration": "Jun 2018 Jun 2019 1 year 1 month",
+            "start_date": "Jun 2018",
+            "end_date": "Jun 2019",
+            "duration_short": "1 year 1 month",
+            "company": "ZS",
+            "company_id": "zs-associates",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "The Commerce Society, Kirori Mal College",
+            "location": "Kirorimal College",
+            "description_html": null,
+            "duration": "2 years 10 months",
+            "positions": [
+                {
+                    "subtitle": "The Commerce Society, Kirori Mal College",
+                    "meta": "Feb 2016 - May 2018 2 years 4 months",
+                    "description": "Heading various departments including Marketing, Finance, Administration, Event Management, etc",
+                    "duration": "Feb 2016 May 2018 2 years 4 months",
+                    "start_date": "Feb 2016",
+                    "end_date": "May 2018",
+                    "duration_short": "2 years 4 months",
+                    "title": "Core Team Member",
+                    "description_html": "Heading various departments including Marketing, Finance, Administration, Event Management, etc <!---->"
+                },
+                {
+                    "subtitle": "The Commerce Society, Kirori Mal College",
+                    "meta": "Aug 2015 - Feb 2016 7 months",
+                    "description": "Handling finance, marketing, administration etc",
+                    "duration": "Aug 2015 Feb 2016 7 months",
+                    "start_date": "Aug 2015",
+                    "end_date": "Feb 2016",
+                    "duration_short": "7 months",
+                    "title": "Member",
+                    "description_html": "Handling finance, marketing, administration etc <!---->"
+                }
+            ],
+            "company": "The Commerce Society, Kirori Mal College",
+            "company_id": "comsockmc",
+            "url": "",
+            "company_logo_url": null
+        },
+        {
+            "title": "Business Development Intern",
+            "location": "Gurgaon, Haryana, India",
+            "description": "CSR project handling, lead generation, making presentations and client research.",
+            "description_html": "CSR project handling, lead generation, making presentations and client research. <!---->",
+            "duration": "Feb 2018 Mar 2018 2 months",
+            "start_date": "Feb 2018",
+            "end_date": "Mar 2018",
+            "duration_short": "2 months",
+            "company": "Chakr Innovation",
+            "company_id": "chakr",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Enactus KiroriMal",
+            "description_html": null,
+            "duration": "1 year 2 months",
+            "positions": [
+                {
+                    "subtitle": "Enactus KiroriMal",
+                    "meta": "Jul 2016 - Feb 2017 8 months",
+                    "duration": "Jul 2016 Feb 2017 8 months",
+                    "start_date": "Jul 2016",
+                    "end_date": "Feb 2017",
+                    "duration_short": "8 months",
+                    "title": "Executive Member",
+                    "description_html": null
+                },
+                {
+                    "subtitle": "Enactus KiroriMal",
+                    "meta": "Jan 2016 - Jul 2016 7 months",
+                    "description": "Research and Procurement department",
+                    "duration": "Jan 2016 Jul 2016 7 months",
+                    "start_date": "Jan 2016",
+                    "end_date": "Jul 2016",
+                    "duration_short": "7 months",
+                    "title": "Member",
+                    "description_html": "Research and Procurement department <!---->"
+                }
+            ],
+            "company": "Enactus KiroriMal",
+            "company_id": "enactus-kirorimal",
+            "url": "",
+            "company_logo_url": null
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Kriti Chabra",
+            "about": null,
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Grisha Agarwal",
+            "about": "MBA, NMIMS, Mumbai 24-26 | Consultant - Nation With Namo | Enactus | KMC",
+            "location": "Assam, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Manas Harjai",
+            "about": "Energy and Sustainability at Bain & Company | SRCC",
+            "location": "Haryana, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Isha Khanna",
+            "about": "Oxford MBA’25 | Oxford Saïd Future Leaders Scholar | Bain & Company | Strategy, Business and Finance",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Sagar Chugh (he/him/his)",
+            "about": "Decision Analytics Consultant at ZS",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Tanushka Singh",
+            "about": "Accenture Strategy | FMS, Delhi'22 | DTU (DCE)'20",
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Kanishka Malhotra",
+            "about": null,
+            "location": "Gurugram"
+        },
+        {
+            "profile_link": "",
+            "name": "Shivaye Gulati",
+            "about": "BCG | SRCC",
+            "location": "Delhi, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Irum Malik",
+            "about": "Public Policy at Harvard",
+            "location": "Cambridge, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Anubhuti Jain",
+            "about": null,
+            "location": "North Delhi"
+        }
+    ],
+    "educations_details": "Xavier Institute of Management",
+    "education": [
+        {
+            "title": "Xavier Institute of Management",
+            "degree": "MBA BM'20-22",
+            "field": "Business Administration and Management, General",
+            "url": "",
+            "start_year": "2020",
+            "end_year": "2022",
+            "description": "Activities and Societies: National Winner: Tata Steel-a-thon Season 7 National Winner: HCCB Case Study Challenge Season 1 Coordinator: Exemplar - Competitions Committee of XIMB",
+            "description_html": "Activities and Societies: National Winner: Tata Steel-a-thon Season 7 National Winner: HCCB Case Study Challenge Season 1 Coordinator: Exemplar - Competitions Committee of XIMB",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Kirori Mal College, University of Delhi",
+            "degree": "Bachelor of Commerce (B.Com.)",
+            "field": "Business/Commerce, General",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2018",
+            "description": "Activities and Societies: Enactus Comsoc",
+            "description_html": "Activities and Societies: Enactus Comsoc",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Sachdeva Public Schoo",
+            "degree": "Commerce with Maths",
+            "field": "Business/Commerce, General",
+            "start_year": "2003",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": null,
+    "languages": null,
+    "certifications": null,
+    "recommendations": null,
+    "volunteer_experience": [
+        {
+            "cause": "Economic Empowerment",
+            "duration": "Feb 2017 - May 2018 · 1 year 4 months",
+            "duration_short": "1 year 4 months",
+            "end_date": "May 2018",
+            "start_date": "Feb 2017",
+            "subtitle": "Enactus KiroriMal",
+            "title": "Marketing Head"
+        }
+    ],
+    "followers": 3185.0,
+    "connections": 500.0,
+    "current_company_company_id": "letsblinkit",
+    "current_company_name": "Blinkit",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "organizations": null,
+    "location": "Delhi",
+    "linkedin_id": "nishchay-hans",
+    "activity": [
+        {
+            "interaction": "Liked by Nishchay Hans",
+            "link": "",
+            "title": "One of the products that I am excited about is our Jaggery Kaju Katli. With 61% Kaju and 39% Palm jaggery, it has a mild creamy texture with…",
+            "img": "",
+            "id": "7269992356735533056"
+        },
+        {
+            "interaction": "Liked by Nishchay Hans",
+            "link": "",
+            "title": "We are thrilled to announce the inauguration of Hindustan Coca-Cola Beverages' (HCCB) state-of-the-art Greenfield factory at Banda Thimmapur…",
+            "img": "",
+            "id": "7269346045954781185"
+        },
+        {
+            "interaction": "Liked by Nishchay Hans",
+            "link": "",
+            "title": "Here's how to get so good that they can't ignore you: What does being \"so good they can't ignore you\" mean? “Don’t follow your passion; rather, let…",
+            "img": "",
+            "id": "7263557300076834816"
+        },
+        {
+            "interaction": "Liked by Nishchay Hans",
+            "link": "",
+            "title": "A wonderful interaction with global leadership of The Coca-Cola Company (TCCC). We had in-sightful conversation during the store walk where we…",
+            "img": "",
+            "id": "7246896363446177793"
+        },
+        {
+            "interaction": "Liked by Nishchay Hans",
+            "link": "",
+            "title": "Thank you Hastimal Sagara, PhD for the opportunity to address your students on Business Leadership!",
+            "img": "",
+            "id": "7015948969138614272"
+        },
+        {
+            "interaction": "Liked by Nishchay Hans",
+            "link": "",
+            "title": "Dear Rajeev, Please do better. There are many of us who have worked for EY India for 5+ years and we know the culture from top down. If this…",
+            "img": "",
+            "id": "7242504139736313857"
+        },
+        {
+            "interaction": "Liked by Nishchay Hans",
+            "link": "",
+            "title": "Just came across this email that Steve Jobs sent to himself, about a year before passing away. One of the best things that you will read /…",
+            "img": "",
+            "id": "7232720359915937794"
+        }
+    ],
+    "linkedin_num_id": 491578658.0,
+    "honors_and_awards": null,
+    "input": {
+        "url": ""
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "city": "New Haven, Connecticut, United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Yale School of Management",
+            "url": "",
+            "start_year": "2023-08",
+            "end_year": "2025-05",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Credential ID 8539093",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA)"
+        }
+    ],
+    "current_company_name": "Boston Consulting Group (BCG)",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Financial decision making under information asymmetry\",\"start_date\":\"Mar 2017\",\"end_date\":\"Present\",\"description\":\"Aimed at studying the impact of information on decision making of individuals• Designed an Excel VBA based real-time dynamic game that offered several different financial choices for the participants• The choices available in the game were proxies for real-life scenarios such job decision, investments, loans and business opportunities• Analyzed the results that displayed that group with information availability outperformed the other by a margin of 40%• Displayed that the absolute best choice wasn't made despite availability of complete information\"},{},{\"title\":\"What explains trading volume better\",\"start_date\":\"Jun 2016\",\"end_date\":\"Nov 2016\",\"description\":\"Sponsored by: National Stock Exchange of India Ltd• Analysed the dynamics of stock price returns and trading volume in a time series-cross sectional model of Nifty 50 market • Employed trading volume as investor sentiment proxy to derive a pricing kernel or risk factor to capture the underlying investor sentiment • Analysed the past 7 years' Nifty 50 to understand if such a behavioural/stochastic pricing kernel/risk factor empirically explains (expected) stock returns • Established trading volume equation through linear & fractal analysis capturing investor sentiment via macro & micro-economic factors • The relation established captures 60% of motion of trading volume of a stock with the remainder offset error value at an standard deviation of 6%\"},{},{},{\"title\":\"Rural Development Live Project\",\"start_date\":\"Mar 2016\",\"end_date\":\"Apr 2016\",\"description\":\"• Addressed 'Infrastructure & Sanitation'; was awarded best live project by Rural Development Centre, IIT Kharagpur among the 15 participating groups • Designed resource-optimization strategies for implementation, solving the subject issue along with related problems of Employment and Logistics\"},{}]",
+    "honors_and_awards": [
+        {
+            "title": "Global Markets \"Going the Extra Mile Award\"",
+            "publication": "Nomura",
+            "date": "2019-11-01T00:00:00.000Z",
+            "description": "Awarded for contribution in projects beyond job description"
+        },
+        {
+            "title": "First Runner Up at Manthan (OYO Rooms Case Study)",
+            "publication": "Technex, IIT BHU",
+            "date": "2016-03-01T00:00:00.000Z",
+            "description": "Topic: Analysing the pilgrims from OYO's perspective and strengthening OYO's base in tier-2 cities - Suggested short term and long term changes in OYO's strategies in order to strengthen their base - Collected and analysed primary data of pilgrim travelling and staying patterns and recommended necessary actions"
+        },
+        {
+            "title": "Second Runner Up in Case Study",
+            "publication": "Samudramanthan, IIT Kharagpur",
+            "date": "2016-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Third Prize in Interhall English Dramatics",
+            "publication": "IIT Kharagpur",
+            "date": "2015-04-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "First Prize in Mahindra Case Study",
+            "publication": "Samudramanthan, IIT Kharagpur",
+            "date": "2015-03-01T00:00:00.000Z",
+            "description": "Topic: Market Analysis of Stern Drives - Analysed the demand of stern drives in India - Analyzed critical success parameters for stern drive to work effectively in Indian markets - Chalked out an entry strategy for Mahindra"
+        },
+        {
+            "title": "First Runner Up in Archipedia(Archeaological Case Study)",
+            "publication": "Megalith, IIT Kharagpur",
+            "date": "2015-03-01T00:00:00.000Z",
+            "description": "Topic: Government policies regarding archaeological sites - Analysed the current costs and revenues for Konark Temple - Suggested initiatives and policies that would convert the temple into a revenue generator"
+        },
+        {
+            "title": "Finalist, Empressario ( Business Model Competition)",
+            "publication": "GES, IIT Kharagpur",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Finalist, Paycheck",
+            "publication": "Kshitij, IIT Kharagpur",
+            "date": "2015-01-01T00:00:00.000Z",
+            "description": "Topic: Designing short tern and long term financial plan for a family - Devised an optimum plan for savings, expenditure and investment"
+        },
+        {
+            "title": "1st Prize in Open IIT Debate",
+            "publication": "IIT Kharagpur",
+            "date": "2014-09-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "First Prize in Halla Bol (Street Play)",
+            "publication": "Carpe Diem, IIM Calcutta",
+            "date": "2014-01-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Best Volunteer",
+            "publication": "National Service Scheme, IIT Kharagpur",
+            "date": "2013-12-01T00:00:00.000Z",
+            "description": "Awarded the 'Best Volunteer' in annual NSS camp."
+        }
+    ]
+}

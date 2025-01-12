@@ -1,0 +1,103 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": "Software Engineer @Jaguar Land Rover | IIT Kharagpur '22",
+    "experience": [
+        {
+            "title": "GSET",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Jul 2022 - Present 2 years 6 months",
+            "start_date": "Jul 2022",
+            "end_date": "Present",
+            "duration_short": "2 years 6 months",
+            "company": "Jaguar Land Rover",
+            "company_id": "jaguar-land-rover_1",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Science Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Apr 2020 Jul 2020 4 months",
+            "start_date": "Apr 2020",
+            "end_date": "Jul 2020",
+            "duration_short": "4 months",
+            "company": "Comsense Technologies",
+            "company_id": "comsense-consulting",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Secretary",
+            "description_html": null,
+            "duration": "Aug 2018 May 2019 10 months",
+            "start_date": "Aug 2018",
+            "end_date": "May 2019",
+            "duration_short": "10 months",
+            "company": "Communiqué, IIT Kharagpur",
+            "company_id": "communiqu-iit-kharagpur",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "5-year Integrated M.sc",
+            "field": "Mathematics and Computer Science",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "School of creative learning, Patna, Bihar",
+            "degree": "AISSCE(CBSE)",
+            "start_year": "2015",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "ST. Karen's high school, Patna, Bihar.",
+            "degree": "AISSE(CBSE)",
+            "start_year": "2006",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"-\",\"title\":\"Data analytics\"},{\"subtitle\":\"-\",\"title\":\"Design and analysis of algorithms\"},{\"subtitle\":\"-\",\"title\":\"Discrete mathematics\"},{\"subtitle\":\"-\",\"title\":\"Probability and statistics\"},{\"subtitle\":\"-\",\"title\":\"Programming and data structures\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Named Entity Recognition using LSTM with Keras"
+        },
+        {
+            "meta": "Issued Apr 2020See credential",
+            "subtitle": "Coursera",
+            "title": "Natural Language Processing in TensorFlow"
+        },
+        {
+            "meta": "Issued Jul 2019Credential ID UC-147AXWUXSee credential",
+            "subtitle": "Udemy",
+            "title": "Machine Learning A-Z™: Hands-On Python & R In Data Science"
+        },
+        {
+            "meta": "Issued Jun 2019Credential ID UC-RMFU0Q7YSee credential",
+            "subtitle": "Udemy",
+            "title": "The Data Science Course 2019: Complete Data Science Bootcamp "
+        }
+    ],
+    "current_company_name": "Jaguar Land Rover",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

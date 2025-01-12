@@ -1,0 +1,51 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2019-08",
+            "end_year": "2023-04",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2008",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued Mar 2021Credential ID 160451429046",
+            "subtitle": "Bloomberg LP",
+            "title": "Bloomberg Market Concepts"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 57S9YWDQFTMASee credential",
+            "subtitle": "Coursera",
+            "title": "Foundations of Business Strategy"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID 8TJ96QTJTQ62See credential",
+            "subtitle": "Coursera",
+            "title": "Trading Basics"
+        },
+        {
+            "meta": "Credential ID UC-842a5be6-e0df-4256-8c15-7ffe94a2b586See credential",
+            "subtitle": "Udemy",
+            "title": "Google Data Studio A-Z for Data Visualization and Dashboards"
+        }
+    ],
+    "current_company_name": "Machani Group",
+    "publications": null,
+    "patents": null,
+    "projects": null,
+    "honors_and_awards": null
+}

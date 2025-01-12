@@ -1,0 +1,125 @@
+{
+    "city": "Kanpur Nagar, Uttar Pradesh, India",
+    "position": "Capital One | BlackRock | IITK",
+    "experience": [
+        {
+            "title": "Senior Associate",
+            "location": "Bengaluru, Karnataka, India",
+            "description_html": null,
+            "duration": "Sep 2021 Apr 2023 1 year 8 months",
+            "start_date": "Sep 2021",
+            "end_date": "Apr 2023",
+            "duration_short": "1 year 8 months",
+            "company": "Capital One",
+            "company_id": "capital-one",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Analyst",
+            "location": "Gurgaon, Haryana, India",
+            "description_html": null,
+            "duration": "Jun 2019 Aug 2021 2 years 3 months",
+            "start_date": "Jun 2019",
+            "end_date": "Aug 2021",
+            "duration_short": "2 years 3 months",
+            "company": "BlackRock",
+            "company_id": "blackrock",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Captain",
+            "description_html": null,
+            "duration": "Mar 2018 Feb 2019 1 year",
+            "start_date": "Mar 2018",
+            "end_date": "Feb 2019",
+            "duration_short": "1 year",
+            "company": "Basketball, IIT Kanpur",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Data Analyst",
+            "location": "Bengaluru Area, India",
+            "description_html": null,
+            "duration": "May 2018 Jul 2018 3 months",
+            "start_date": "May 2018",
+            "end_date": "Jul 2018",
+            "duration_short": "3 months",
+            "company": "Eureka AI",
+            "company_id": "eureka-analytics-pt",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Senior Executive, Media and Publicity",
+            "location": "Kanpur Area, India",
+            "description_html": null,
+            "duration": "Aug 2016 Dec 2016 5 months",
+            "start_date": "Aug 2016",
+            "end_date": "Dec 2016",
+            "duration_short": "5 months",
+            "company": "Inter IIT Sports Meet",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kanpur",
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "field": "electrical engineering",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2019",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Jawahar Navodaya Vidyalaya, Nagaur",
+            "start_year": "2007",
+            "end_year": "2012",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"IME692\",\"title\":\"Advanced Statistical Methods for Business Analytics\"},{\"subtitle\":\"CS685\",\"title\":\"Data Mining\"},{\"subtitle\":\"ESO207\",\"title\":\"Data Structures and Algorithms \"},{\"subtitle\":\"ESC101\",\"title\":\"Fundamentals of Computing\"},{\"subtitle\":\"MSO201\",\"title\":\"Probability and Statistics \"}]",
+    "certifications": [
+        {
+            "meta": "Issued Mar 2016",
+            "subtitle": "Student's Gymkhana, IIT Kanpur",
+            "title": "Best Incoming Sportsperson, Basketball"
+        }
+    ],
+    "current_company_name": "Capital One",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Churn Analysis\",\"start_date\":\"May 2018\",\"end_date\":\"Jul 2018\"},{\"title\":\"Eureka Way (Induction Dashboard)\",\"start_date\":\"May 2018\",\"end_date\":\"Jul 2018\"},{\"title\":\"Classification of Multivariate Mixture Model\",\"start_date\":\"Mar 2018\",\"end_date\":\"Apr 2018\"},{\"title\":\"Customer Shopping Experience Optimisation\",\"start_date\":\"Jan 2018\",\"end_date\":\"Feb 2018\"},{\"title\":\"Random Sample Generator\",\"start_date\":\"Jan 2018\",\"end_date\":\"Feb 2018\"},{\"title\":\"Cell Phone Theft problem I Data Mining and Case Study\",\"start_date\":\"May 2017\",\"end_date\":\"Sep 2017\"},{\"title\":\"Waste Collector\",\"start_date\":\"Aug 2016\",\"end_date\":\"Nov 2016\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Silver Medallist, Basketball",
+            "publication": "Udghosh, IIT Kanpur",
+            "date": "2017-10-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "TATA STEEL's Women of Mettle",
+            "publication": "TATA STEEL",
+            "date": "2017-06-01T00:00:00.000Z",
+            "description": "-Awarded Scholarship under TATA STEEL’s Women of Mettle programme (2017) -Made it to top 10 amongst women candidates from colleges all over India -Prepared a presentation detailing fault detection in underground cables -Offered an internship opportunity with TATA STEEL for summers 2018"
+        },
+        {
+            "title": "Bronze medallist, Basketball",
+            "publication": "Inter IIT Sports Meet",
+            "date": "2016-12-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Silver Medallist, Basketball",
+            "publication": "Sportech, IIT Delhi",
+            "date": "2016-03-01T00:00:00.000Z",
+            "description": null
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "url": "",
+            "start_year": "2015",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2010",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "Stealth AI Startup",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"AlterKGP\",\"start_date\":\"Apr 2020\",\"end_date\":\"Present\",\"description\":\"• Created a social media website aimed to provide curated content and notifications related to the institute's student activities at one place• Deployed website uses MERN stack with REST Architecture of API having CRUD functionality and hosted on a custom domain• Supporting the web app is Alter2.2, a chrome extension that helps access Alter-KGP within Facebook\"},{\"title\":\"Assisted History Matching from Production Data using MRST\",\"start_date\":\"Aug 2020\",\"end_date\":\"May 2021\"},{\"title\":\"Radon Flux Prediction using Discrete Fracture Network Model, Jadugoda\",\"start_date\":\"Aug 2019\",\"end_date\":\"Apr 2020\",\"description\":\"• Completed MSc. dissertation under Prof. Debashish Sengupta on predicting radon flux using a stochastic DFN model• The radon flux predicted by the generated fracture network for Jadugoda uranium mines, Jharkhand was within an acceptable error limit <5 %\"}]",
+    "honors_and_awards": null
+}

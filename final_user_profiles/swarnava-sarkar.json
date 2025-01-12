@@ -1,0 +1,93 @@
+{
+    "city": "United States",
+    "position": "MSCF Candidate at Carnegie Mellon | ex-MTS @ Oracle | IIT Kharagpur '22",
+    "experience": [
+        {
+            "title": "Member of Technical Staff",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Designed and developed software tools and libraries for OCI's Python software development kit, which allows our customers to build scalable applications that work seamlessly with Oracle's cloud services.• Implemented a new authentication method for the Python software development kit to allow applications running on Kubernetes clusters to authenticate against Oracle Cloud and communicate with it.• Designed and implemented a Python automation tool to periodically scan Oracle's internal code repositories and isolate those having vulnerabilities, enhancing security and reliability. Mentored two interns as part of this project.• Recognized for demonstrating the OCI Value ‘Own Without Ego,’ which reflects an individual’s commitment to taking responsibility for team well-being, championing valuable ideas, and promoting a collaborative environment.",
+            "description_html": "• Designed and developed software tools and libraries for OCI's Python software development kit, which allows our customers to build scalable applications that work seamlessly with Oracle's cloud services.• Implemented a new authentication method for the Python software development kit to allow applications running on Kubernetes clusters to authenticate against Oracle Cloud and communicate with it.• Designed and implemented a Python automation tool to periodically scan Oracle's internal code repositories and isolate those having vulnerabilities, enhancing security and reliability. Mentored two interns as part of this project.• Recognized for demonstrating the OCI Value ‘Own Without Ego,’ which reflects an individual’s commitment to taking responsibility for team well-being, championing valuable ideas, and promoting a collaborative environment.",
+            "duration": "Jul 2022 Jul 2024 2 years 1 month",
+            "start_date": "Jul 2022",
+            "end_date": "Jul 2024",
+            "duration_short": "2 years 1 month",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Server Technology Intern",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "• Spearheaded the optimization of OCI's log analytics tool, streamlining the collection and analysis of logs from cloud-hosted compute instances. • Re-engineered the tool entirely in Golang, introducing parallel log collection through Golang’s go-routines.• Achieved a remarkable 67% reduction in CPU consumption and memory footprint, resulting in a 200% boost in overall tool efficiency. • Recognized for outstanding contributions with the award of a pre-placement offer, highlighting internship success.",
+            "description_html": "• Spearheaded the optimization of OCI's log analytics tool, streamlining the collection and analysis of logs from cloud-hosted compute instances. • Re-engineered the tool entirely in Golang, introducing parallel log collection through Golang’s go-routines.• Achieved a remarkable 67% reduction in CPU consumption and memory footprint, resulting in a 200% boost in overall tool efficiency. • Recognized for outstanding contributions with the award of a pre-placement offer, highlighting internship success.",
+            "duration": "May 2021 Jul 2021 3 months",
+            "start_date": "May 2021",
+            "end_date": "Jul 2021",
+            "duration_short": "3 months",
+            "company": "Oracle",
+            "company_id": "oracle",
+            "url": "",
+            "company_logo_url": ""
+        }
+    ],
+    "education": [
+        {
+            "title": "Carnegie Mellon University",
+            "degree": "Master of Science - MS, Computational Finance",
+            "field": "Computational Finance",
+            "url": "",
+            "start_year": "2024",
+            "description": "Upcoming coursework: Fixed Income, Options, Investments, Financial Data Science, Stochastic Calculus",
+            "description_html": "Upcoming coursework: Fixed Income, Options, Investments, Financial Data Science, Stochastic Calculus <!---->",
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "Bachelor of Technology - BTech",
+            "field": "Electronics and Electrical Communication Engineering",
+            "url": "",
+            "start_year": "2018",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        },
+        {
+            "title": "Delhi Public School, Ruby Park",
+            "degree": "CBSE",
+            "field": "Science",
+            "url": "",
+            "start_year": "2016",
+            "end_year": "2018",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "courses": "[{\"subtitle\":\"CS21003\",\"title\":\"Algorithms-I\"},{\"subtitle\":\"CS60045\",\"title\":\"Artificial Intelligence\"},{\"subtitle\":\"AI60004\",\"title\":\"Big Data Processing\"},{\"subtitle\":\"EP60020\",\"title\":\"Foundations of Entrepreneurship\"},{\"subtitle\":\"EC60091\",\"title\":\"Machine Intelligence and Expert Systems\"},{\"subtitle\":\"MA20107\",\"title\":\"Matrix Algebra\"},{\"subtitle\":\"MA20106\",\"title\":\"Probability and Stochastic Processes\"}]",
+    "certifications": [
+        {
+            "meta": "Issued Jun 2023See credential",
+            "subtitle": "Yale University",
+            "title": "Financial Markets"
+        },
+        {
+            "meta": "Issued Nov 2020See credential",
+            "subtitle": "University of Pennsylvania",
+            "title": "Introduction to Corporate Finance"
+        }
+    ],
+    "current_company_name": "Oracle",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"ML Model For User Authentication Using Keystroke Dynamics\",\"start_date\":\"Aug 2021\",\"end_date\":\"Nov 2021\",\"description\":\"• Developed a machine-learning model to authenticate users using their keystroke dynamics as a real-time biometric. • Engineered a Python library containing algorithms to preprocess raw keystroke data and extract quantifiable features, such as typing speed, pauses, etc.• Implemented the model using the kNN algorithm on the generated feature vectors, achieving a model accuracy of 85%. • Led a five-student team for the project. Coordinated different aspects of the project to ensure timely progress.\"},{\"title\":\"Reinforcement Learning based Autonomous Driving System\",\"start_date\":\"Aug 2021\",\"end_date\":\"Nov 2021\",\"description\":\"• Modeled and trained an autonomous driving system driven by reinforcement learning using MATLAB, encompassing vital functions such as self-navigation, path planning, and obstacle avoidance.• Conducted extensive simulations and testing within MATLAB’s environment, ensuring the reliability and safety of the autonomous system across various scenarios.\"}]",
+    "honors_and_awards": [
+        {
+            "title": "Silver Medal - Open IIT Data Analytics Competition",
+            "publication": "Technology Students' Gymkhana, IIT Kharagpur",
+            "date": "2020-04-01T00:00:00.000Z",
+            "description": "• Won silver medal at the Open-IIT Data Analytics Competition in the academic year 2019-20. This is an annual intra-university competition organized for teams to come together and solve real-world problem statements. • Led data pre-processing and cleaning efforts, ensuring dataset quality and reliability. Trained machine learning models to predict customers’ lifetime value for a car insurance company using provided data about customers such as car type, premium amount and type, customers’… Show more"
+        }
+    ]
+}

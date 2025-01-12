@@ -1,0 +1,257 @@
+{
+    "id": "medurihhimanshu",
+    "name": "Meduri Himanshu",
+    "city": "Bengaluru, Karnataka, India",
+    "country_code": "IN",
+    "position": "SDE @ Amazon | IIT Kharagpur | Java Backend, DSA, System Design",
+    "posts": null,
+    "groups": null,
+    "current_company": {
+        "link": "",
+        "name": "Amazon",
+        "company_id": "amazon",
+        "title": "SDE @ Amazon | IIT Kharagpur | Java Backend, DSA, System Design"
+    },
+    "experience": [
+        {
+            "title": "Software Developer",
+            "location": "Bengaluru, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Led end-to-end feature deliveries for KYC marketplace launches reducing 10K+ identity verification manual tasks/week\u00e2\u20ac\u00a2 Designed, estimated, developed, tested and deployed result limiting feature which involves changes in 5+ services\u00e2\u20ac\u00a2 Resolved critical issues impacting 1000+ sellers which involves root cause analysis, fix deployment and mitigation\u00e2\u20ac\u00a2 Mentored 6-month intern to SDE-I role, ensured high bar for code reviews, implementation and deployments",
+            "description_html": "\u00e2\u20ac\u00a2 Led end-to-end feature deliveries for KYC marketplace launches reducing 10K+ identity verification manual tasks/week\u00e2\u20ac\u00a2 Designed, estimated, developed, tested and deployed result limiting feature which involves changes in 5+ services\u00e2\u20ac\u00a2 Resolved critical issues impacting 1000+ sellers which involves root cause analysis, fix deployment and mitigation\u00e2\u20ac\u00a2 Mentored 6-month intern to SDE-I role, ensured high bar for code reviews, implementation and deployments <!---->",
+            "duration": "Jul 2022 Nov 2024 2 years 5 months",
+            "start_date": "Jul 2022",
+            "end_date": "Nov 2024",
+            "duration_short": "2 years 5 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Developer Intern",
+            "location": "Bangalore Urban, Karnataka, India",
+            "description": "\u00e2\u20ac\u00a2 Developed the CreateVerification API, incorporating necessary model changes, business logic and downstream integration, establishing the foundation for 20K+ task queuing flow per week\u00e2\u20ac\u00a2 Facilitated full CD for pipeline, addressing software risks and failures, leading to 30% reduction in monthly effort",
+            "description_html": "\u00e2\u20ac\u00a2 Developed the CreateVerification API, incorporating necessary model changes, business logic and downstream integration, establishing the foundation for 20K+ task queuing flow per week\u00e2\u20ac\u00a2 Facilitated full CD for pipeline, addressing software risks and failures, leading to 30% reduction in monthly effort <!---->",
+            "duration": "May 2021 Jun 2021 2 months",
+            "start_date": "May 2021",
+            "end_date": "Jun 2021",
+            "duration_short": "2 months",
+            "company": "Amazon",
+            "company_id": "amazon",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Software Intern",
+            "location": "New Delhi, Delhi, India",
+            "description": "\u00e2\u20ac\u00a2 Implemented an IPSEC VPN connection using IP XFRM programming (manual keying) and the Strongswan framework (IKEv2), offloading CPU computation to hardware, resulting 30% improvement of CPU performance efficiency\u00e2\u20ac\u00a2 Executed 30+ system functional testing, control configuration testing and stress testing using Scapy python tool",
+            "description_html": "\u00e2\u20ac\u00a2 Implemented an IPSEC VPN connection using IP XFRM programming (manual keying) and the Strongswan framework (IKEv2), offloading CPU computation to hardware, resulting 30% improvement of CPU performance efficiency\u00e2\u20ac\u00a2 Executed 30+ system functional testing, control configuration testing and stress testing using Scapy python tool <!---->",
+            "duration": "Dec 2020 Apr 2021 5 months",
+            "start_date": "Dec 2020",
+            "end_date": "Apr 2021",
+            "duration_short": "5 months",
+            "company": "Xilinx",
+            "company_id": "xilinx",
+            "url": "",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Tech Executive",
+            "location": "Kharagpur, West Bengal",
+            "description": "\u00e2\u20ac\u00a2 BusBee is an Application Interface which will provide Live Location of Buses, Seat availability in them along with Feedback feature\u00e2\u20ac\u00a2 Headed and Co-ordinated Mechatronics team of more than 10 members for achieving multiple tasks of Hardware and Integration\u00e2\u20ac\u00a2 Modeled live tracking of Buses using GPS module Neo-M8N and Seat availability using Laser Detection Technique\u00e2\u20ac\u00a2 Integrated whole system of Hardware with AWS (IoT) through MQTT network protocol using NodeMCU (Esp8266)",
+            "description_html": "\u00e2\u20ac\u00a2 BusBee is an Application Interface which will provide Live Location of Buses, Seat availability in them along with Feedback feature\u00e2\u20ac\u00a2 Headed and Co-ordinated Mechatronics team of more than 10 members for achieving multiple tasks of Hardware and Integration\u00e2\u20ac\u00a2 Modeled live tracking of Buses using GPS module Neo-M8N and Seat availability using Laser Detection Technique\u00e2\u20ac\u00a2 Integrated whole system of Hardware with AWS (IoT) through MQTT network protocol using NodeMCU (Esp8266) <!---->",
+            "duration": "Mar 2019 Jul 2020 1 year 5 months",
+            "start_date": "Mar 2019",
+            "end_date": "Jul 2020",
+            "duration_short": "1 year 5 months",
+            "company": "BusBEE (Start-up)",
+            "company_logo_url": ""
+        },
+        {
+            "title": "Machine Learning Intern",
+            "location": "Tokyo, Japan",
+            "description": "Project : Pedestrian Detection for day and night videos taken from Automotives using Convolution Neural Network\u00e2\u20ac\u00a2 Trained the model in Pytorch framework on Caltech Pedestrian Dataset combined with data augmented images for Night mode\u00e2\u20ac\u00a2 Maximized Accuracy on Dev and Test set by using Drop-out Regularization (p=0.15) and Batch Normalization after every CNN layer\u00e2\u20ac\u00a2 Conserved Space of Model to 212 KB with the help of Deep Compression Model having simple Architecture and Pruning methodology\u00e2\u20ac\u00a2 Reduced the RAM consumption to 3.5 MB during testing phase along with maintaining good accuracy in Test-set\u00e2\u20ac\u00a2 Boosted quality of performance by increasing the FPS to 23-25, used efficient Region Proposal algorithm along with using previous output",
+            "description_html": "Project : Pedestrian Detection for day and night videos taken from Automotives using Convolution Neural Network\u00e2\u20ac\u00a2 Trained the model in Pytorch framework on Caltech Pedestrian Dataset combined with data augmented images for Night mode\u00e2\u20ac\u00a2 Maximized Accuracy on Dev and Test set by using Drop-out Regularization (p=0.15) and Batch Normalization after every CNN layer\u00e2\u20ac\u00a2 Conserved Space of Model to 212 KB with the help of Deep Compression Model having simple Architecture and Pruning methodology\u00e2\u20ac\u00a2 Reduced the RAM consumption to 3.5 MB during testing phase along with maintaining good accuracy in Test-set\u00e2\u20ac\u00a2 Boosted quality of performance by increasing the FPS to 23-25, used efficient Region Proposal algorithm along with using previous output",
+            "duration": "May 2020 Jun 2020 2 months",
+            "start_date": "May 2020",
+            "end_date": "Jun 2020",
+            "duration_short": "2 months",
+            "company": "K.K. Nihon Sumpurn Tsushin Giken",
+            "company_logo_url": ""
+        }
+    ],
+    "people_also_viewed": [
+        {
+            "profile_link": "",
+            "name": "Viraj Sonawane",
+            "about": "MS CS @ NCSU, Senior SE at ARM",
+            "location": "Boston, MA"
+        },
+        {
+            "profile_link": "",
+            "name": "Sai Anudeep Anapareddy",
+            "about": null,
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhavarth Verma",
+            "about": "Founding Engineer@Truva | Co-Founder & Ex-CEO at QUICKIII | AIC-ISB (Indian School of Business) | Award-Winning Developer | Ex-Samsung | E-Cell NITH",
+            "location": "Panipat"
+        },
+        {
+            "profile_link": "",
+            "name": "Ayisha Siddiqua",
+            "about": "Software Development Engineer at Intel Corporation",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Sneha Patel",
+            "about": "IP Logic Design Engineer at Intel Corporation",
+            "location": "Ahmedabad"
+        },
+        {
+            "profile_link": "",
+            "name": "abhishek kumar",
+            "about": "Indian Institute of Technology, Patna | IOTG intel",
+            "location": "Bihar, India"
+        },
+        {
+            "profile_link": "",
+            "name": "Shreeya Satgounda",
+            "about": "Software Engineer at Intel Corporation",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Bhargav N C",
+            "about": "Digital Electronics & Fabrication Expert | From Design to Tapeout",
+            "location": "Tempe, AZ"
+        },
+        {
+            "profile_link": "",
+            "name": "RONAK HARSORA",
+            "about": "Embedded Software Developer for C2000 @ Texas Instruments",
+            "location": "Bengaluru"
+        },
+        {
+            "profile_link": "",
+            "name": "Hrishikesh Borate",
+            "about": "Software Engineer at MathWorks | 3-D Computer Vision (Lidar, Point Cloud Processing), Autonomous Vehicles, Sensor Fusion",
+            "location": "Hyderabad"
+        }
+    ],
+    "educations_details": "Indian Institute of Technology, Kharagpur",
+    "education": [
+        {
+            "title": "Indian Institute of Technology, Kharagpur",
+            "degree": "BTech + MTech (Dual Degree)",
+            "field": "Electrical, Electronics and Communications Engineering",
+            "url": "",
+            "start_year": "2017",
+            "end_year": "2022",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": ""
+        }
+    ],
+    "recommendations_count": null,
+    "courses": "[{\"subtitle\":\"CS21003\",\"title\":\"Algorithms - I\"},{\"subtitle\":\"EC21008\",\"title\":\"Analog Electronica Circuits\"},{\"subtitle\":\"EC21103\",\"title\":\"Introduction To Electronics\"},{\"subtitle\":\"IT30037\",\"title\":\"Introduction To Internet\"},{\"subtitle\":\"-\",\"title\":\"Machine Learning\"},{\"subtitle\":\"MA20107\",\"title\":\"Matrix Algebra\"},{\"subtitle\":\"MA20106\",\"title\":\"Probability And Stochastic Processes\"},{\"subtitle\":\"CS10001\",\"title\":\"Programming And Data Structures\"}]",
+    "languages": null,
+    "certifications": [
+        {
+            "meta": "Issued Aug 2020Credential ID R4EFSLM7CRHWSee credential",
+            "subtitle": "Coursera",
+            "title": "Natural Language Processing with Classification and Vector Spaces"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID AU7WU8HE3LZCSee credential",
+            "subtitle": "Coursera",
+            "title": "Natural Language Processing with Probabilistic Models"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID PT28V5RJBWCLSee credential",
+            "subtitle": "Coursera",
+            "title": "Sequence Models"
+        },
+        {
+            "meta": "Issued Aug 2020Credential ID QS5EGPMMJM4YSee credential",
+            "subtitle": "Coursera",
+            "title": "Structuring Machine Learning Projects"
+        },
+        {
+            "meta": "Issued Jul 2020Credential ID 3KBQMP2S8C6NSee credential",
+            "subtitle": "Coursera",
+            "title": "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        },
+        {
+            "meta": "Issued Jun 2020Credential ID YMS35D5H3HPFSee credential",
+            "subtitle": "Coursera",
+            "title": "Neural Networks and Deep Learning"
+        },
+        {
+            "meta": "Issued Dec 2018Credential ID UU2FDWLR7RQASee credential",
+            "subtitle": "University of Michigan",
+            "title": "Programming for Everybody (Getting Started with Python)"
+        },
+        {
+            "meta": "Issued Dec 2018Credential ID JMDNDLQNLVBQSee credential",
+            "subtitle": "University of Michigan",
+            "title": "Python Data Structures "
+        }
+    ],
+    "recommendations": null,
+    "volunteer_experience": null,
+    "followers": 3483.0,
+    "connections": 500.0,
+    "current_company_company_id": "amazon",
+    "current_company_name": "Amazon",
+    "publications": null,
+    "patents": null,
+    "projects": [
+        {
+            "title": "Multi-Agent Trajectory Prediction Under Shared Environment",
+            "start_date": "May 2020",
+            "end_date": "Present",
+            "description": "\u00e2\u20ac\u00a2 Implemented Social LSTM paper in Pytorch which consider others influence in Target trajectory by Social pooling of Hidden states\u00e2\u20ac\u00a2 Analyzed Spatially Aware Deep Attention Model which also accounts for Static Environments and uses Spatio Temporal Attention Model\u00e2\u20ac\u00a2 Examined Scene LSTM paper having Scene Model and Scene Data Filter which had generated Non-Linear trajectory predictions\u00e2\u20ac\u00a2 Explored 10 more papers, mainly having Bi-Directional LSTM, Dynamic Pooling, Motion/Location Encoder, Context Aware LSTM .etc"
+        }
+    ],
+    "organizations": [
+        {
+            "title": "Net Impact Organization",
+            "membership_type": "Senior Associate Member",
+            "start_date": "Aug 2018",
+            "end_date": "Present",
+            "description": "Net Impact is a non-profit membership organization for students and professionals interested in using business skills in support of various social and environmental causes. It serves both a professional organization and one of the largest student organizations among MBAs in the world.",
+            "membership_number": null
+        }
+    ],
+    "location": "Bengaluru",
+    "linkedin_id": "medurihhimanshu",
+    "activity": null,
+    "linkedin_num_id": 676712794.0,
+    "honors_and_awards": [
+        {
+            "title": "Reward & Recognisation at Amazon - Sept 2023",
+            "publication": "Amazon",
+            "date": "2023-09-01T00:00:00.000Z",
+            "description": "Migration of SOA-EU from RAMP/CP to Mataveri is top priority for RVS org. We identified multiple blockers to start end-to-end testing for SOA-EU KYC onboarding and verification. In the month of Sept Himanshu worked on multiple P0 issues and showed great ownership while fixing those issues to unblock end-to-end testing. He was incrementally finding issues during his testing of new Claim based APIs in Bourscheid and fixed those issues. He also successfully executed a test plan for these APIs\u00e2\u20ac\u00a6 Show more"
+        },
+        {
+            "title": "Reward & Recognisation at Amazon - March 2023",
+            "publication": "Amazon",
+            "date": "2023-03-01T00:00:00.000Z",
+            "description": null
+        },
+        {
+            "title": "Reward & Recognisation at Amazon - Nov 2022",
+            "publication": "Amazon",
+            "date": "2022-11-01T00:00:00.000Z",
+            "description": "Himanshu showed his Ownership and Bias for Action skills through replacing hosts for 9 Hartley services to increase IMR weighted CPU utilization from 27% to 45%. This resulted in team\u00e2\u20ac\u2122s credit score increment by 7 points for Buffer Reduction Program component. To share his learnings Himanshu also created a \u00e2\u20ac\u02dcHost creation and Replace Guide\u00e2\u20ac\u2122 for the team."
+        }
+    ],
+    "input": {
+        "url": ""
+    }
+}

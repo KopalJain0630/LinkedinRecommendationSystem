@@ -1,0 +1,52 @@
+{
+    "city": "Bengaluru, Karnataka, India",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "Massachusetts Institute of Technology",
+            "url": "",
+            "start_year": "2013",
+            "end_year": "2015",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2021",
+            "end_year": "2021",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "start_year": "2014",
+            "end_year": "2014",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2005",
+            "end_year": "2009",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": null,
+    "current_company_name": "The Wedding Company",
+    "publications": null,
+    "patents": null,
+    "projects": "[{\"title\":\"Future Opportunities in Social Communication\",\"start_date\":\"May 2015\",\"description\":\"Media Ventures report on the evolution of human communication needs and how to structure product strategy based on this understanding. Case studies, future projections, and recommendations. Please click on the title to see presentation.\"},{},{},{}]",
+    "honors_and_awards": [
+        {
+            "title": "40 under 40 Data Scientists, India for 2019",
+            "publication": "Analytics India Magazine",
+            "date": "2019-02-01T00:00:00.000Z",
+            "description": "India’s largest machine learning conference MLDS 2019 which brought 690+ delegates on a single platform announced the winners of 40 Under 40 awards — recognizing India’s leading data scientists and their contribution to the data science industry.  "
+        }
+    ]
+}

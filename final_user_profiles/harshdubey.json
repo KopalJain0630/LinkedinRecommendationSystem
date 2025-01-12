@@ -1,0 +1,57 @@
+{
+    "city": "United States",
+    "position": null,
+    "experience": null,
+    "education": [
+        {
+            "title": "The University of Chicago Booth School of Business",
+            "url": "",
+            "start_year": "2023-09",
+            "end_year": "2025-06",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        },
+        {
+            "title": ",",
+            "start_year": "2013",
+            "end_year": "2017",
+            "description": null,
+            "description_html": null,
+            "institute_logo_url": null
+        }
+    ],
+    "courses": null,
+    "certifications": [
+        {
+            "meta": "Issued May 2022",
+            "subtitle": "CFA Institute",
+            "title": "Chartered Financial Analyst (CFA) Charterholder"
+        },
+        {
+            "meta": "Issued Jul 2016Credential ID J7U3N9EEJHARSee credential",
+            "subtitle": "Coursera",
+            "title": "Business Analytics Specialization"
+        },
+        {
+            "meta": "Issued Jun 2016Credential ID LANTVN9Y3YWWSee credential",
+            "subtitle": "Coursera",
+            "title": "Portfolio and Risk Management"
+        },
+        {
+            "meta": "Issued Jun 2016Credential ID 6VL8F36DVCBNSee credential",
+            "subtitle": "Coursera",
+            "title": "The Data Scientist’s Toolbox"
+        },
+        {
+            "meta": "Issued May 2016Credential ID KNYXN6SGTPBPSee credential",
+            "subtitle": "Coursera",
+            "title": "The Power of Macroeconomics: Economic Principles in the Real World"
+        }
+    ],
+    "current_company_name": "Coller Capital",
+    "publications": "[{\"title\":\"The Entrepreneur\"}]",
+    "patents": null,
+    "projects": "[{\"title\":\"Experimental Analysis of Poverty Cycle\",\"start_date\":\"Jan 2017\",\"end_date\":\"Apr 2017\",\"description\":\"• Developed a closed room experimental framework to test decision-making (varying dimensions of subject decision) in limited/unlimited cash scenarios• Conducted experiments under various paradigms, to understand what policy framework supports the decision-making\"},{\"title\":\"Modelling Small World Properties of a Neuronal Network\",\"start_date\":\"Jul 2016\",\"end_date\":\"Apr 2017\",\"description\":\"• Developed a basic 3D model of a network of cortical neurons on MATLAB based on fundamental statistical distributions for learning process simulation• Analyzing the frequencies of various structural motifs and introducing additional connectivity rules\"},{\"title\":\"VIX Entropy & Portfolio Rotation Timing\",\"start_date\":\"Nov 2016\",\"end_date\":\"Jan 2017\",\"description\":\"Presented the work at India Finance Conference, IIM Ahmedabad, 2017\"},{\"title\":\"Price Volume Dynamics in Equity Markets\",\"start_date\":\"Mar 2016\",\"end_date\":\"Jan 2017\",\"description\":\"Presented the work at Asia-Pacific Economic Science Association Conference, 2017Sponsored by: National Stock Exchange of India Ltd• Analysed the dynamics of stock price returns and trading volume in a time series-cross sectional model of Nifty 50 market • Employed trading volume as investor sentiment proxy to derive a pricing kernel or risk factor to capture the underlying investor sentiment • Analysed the past 7 years' Nifty 50 to understand if such a behavioural/stochastic pricing kernel/risk factor empirically explains (expected) stock returns\"},{},{\"title\":\"End to End Quality of Service Implementation in 3G/4G Transmission Networks\",\"start_date\":\"May 2016\",\"end_date\":\"Jul 2016\",\"description\":\"• Planning and process synchronization between stakeholders for Quality of Service (QoS) Implementation on 3G (Layer 2) and 4G (Layer 2/3)• Analysis of the KPI Trends to establish the projected and effect of QoS• Implementation done in over 2500 3G/4G sites for over 3500 plans• Development of Optimization strategies for QoS update plannings\"},{\"title\":\"Rural Development Live Project\",\"start_date\":\"Mar 2016\",\"end_date\":\"Apr 2016\",\"description\":\"• Addressed 'Infrastructure & Sanitation'; was awarded best live project by Rural Development Centre, IIT Kharagpur among the 15 participating groups • Designed resource-optimization strategies for implementation, solving the subject issue along with related problems of Employment and Logistics\"},{},{},{},{\"title\":\"Global Entrepreneurship Summit 2016\",\"start_date\":\"Oct 2015\",\"end_date\":\"Feb 2016\",\"description\":\"• Global Entrepreneurship Summit [GES] is nation's largest entrepreneurial gathering by a student-run body• Sponsors: OnePlus, IBM, Porche, Mahindra Rise, Brand Capital, BSE, NSDL, IDBI Bank• Media Partners: Bloomberg TV, The Telegraph, Yourstory, Business India, India Today Aspire• Events: Empresario [B-Model Competition] Finale, Kharagpur Angel Network Pitch, Product Expo\"},{},{},{\"title\":\"Entrepreneurship Awareness Drive 2015\",\"start_date\":\"Apr 2015\",\"end_date\":\"Oct 2015\",\"description\":\"• Pan-India Entrepreneurship Awareness/Support camp conducted across 24 major cities of India• Partners include: IBM, OnePlus, Augray, Economic Times & NASSCOM• Events include guest lecture series from inspiring Indian Entrepreneur and relevant workshops series by IBM\"},{},{},{\"title\":\"Power System Analysis Software\",\"start_date\":\"May 2015\",\"end_date\":\"Jun 2015\",\"description\":\"Development of Power System Analysis software set to augment the rigorous calculations for Earthing installation purpose • Earthing System Design: Developed an integrated software for Earthing system installation data calculation based on IEEE norms and standards • Fault Level Calculations: Developed the software to calculate fault level currents during transmission faults at different ends of power transmission • Voltage Drop / Cable Selection: Automated the process of cable selection for power transmission by implementing an IEEE based Graphic User Interface • Currently the set of software is in practical industrial use in Larsen &Toubro Electrical Business Group, New Delhi\"}]",
+    "honors_and_awards": null
+}
